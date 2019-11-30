@@ -1,4 +1,4 @@
-p>Potrebno je:</p>
+<p>Potrebno je:</p>
 <p>Za testo:</p>
 <ul>
   <li>oko 900 grama brašna</li>
