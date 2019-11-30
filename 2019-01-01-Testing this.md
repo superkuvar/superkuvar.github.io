@@ -1,4 +1,4 @@
-<p>Potrebno je:</p>
+p>Potrebno je:</p>
 <p>Za testo:</p>
 <ul>
   <li>oko 900 grama brašna</li>
@@ -24,4 +24,4 @@
 <p>Rolne štrudle poređati u podmazan pleh, svaku premazati mlekom, istopljenim margarinom &nbsp;ili umućenim žumancetom i ostaviti da narastu još dvadesetak minuta.</p>
 <p>Štrudlu peći oko 40 minuta u pećnici zagrejanoj na 220 stepeni, dok ne dobije rumenu boju.</p>
 <p>Pečenu štrudlu prekriti platnenom salvetom, ostaviti da se ohladi a zatim iseći na parčiće. Parčići štrudle se mogu uvaljati u šećer u prahu zamirisan vanilin šećerom.</p>
-<p>Nadev: mleveni mak pomešati sa šećerom i vanilom, preliti vrelim mlekom i &nbsp;prokuvati nekoliko minuta. Skloniti sa vatre, pa dodati kašiku margarina, &nbsp;rendanu koru od limuna, rum &nbsp;i sve dobro izmešati.'</p>
+<p>Nadev: mleveni mak pomešati sa šećerom i vanilom, preliti vrelim mlekom i &nbsp;prokuvati nekoliko minuta. Skloniti sa vatre, pa dodati kašiku margarina, &nbsp;rendanu koru od limuna, rum &nbsp;i sve dobro izmešati.</p>
