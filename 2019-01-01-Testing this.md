@@ -1,58 +1,42 @@
 ---
-id: 31
-title: ENGLESKI KOLAČ
-date: 2011-02-23T21:19:12+00:00
-author: admin
+id: 9514
+title: ČORBA OD MLADIH KOPRIVA
+date: 2015-03-26T07:35:23+00:00
+author: mila
 layout: post
-guid: http://superkuvar.com/?p=31
-permalink: /engleski-kolaci/
+guid: http://superkuvar.com/?p=9514
+permalink: /corba-od-mladih-kopriva/
 totvreme:
   - ""
+image: /wp-content/uploads/2015/03/corbaodmladihkopriva-940x198.jpg
 categories:
-  - Kolači
+  - Supe i Čorbe
 tags:
-  - belanca
-  - limun
-  - maslac
-  - orasi
-  - suvo groždje
-  - žumanca
+  - crni luk
+  - koprive
+  - krompir
+  - šargarepa
 ---
-Potrebno je:
+Potrebno je:  
+1/2 kg mladih kopriva  
+kašika brašna  
+crni luk (manja glavica)  
+1 manja šargarepa  
+1 veći krompir  
+sok od limuna ili jabukovo sirće (kašika-dve)  
+so  
+ulje
 
-testo
+[<img class="alignnone size-medium wp-image-9567" src="//superkuvar.com/wp-content/uploads/2015/03/corbaodmladihkopriva-300x225.jpg" alt="corbaodmladihkopriva" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/corbaodmladihkopriva-e1430745644806.jpg)
 
-  * 150 grama maslaca
-  * 250 g oštrog brašna
-  * 80 g šećera
-  * 1/2 kesice praška za pecivo
-  * 1 jaje
-  * 1 žumance
-  * kora od limuna
+Priprema: koprive očistiti, dobro oprati i preliti ključalom vodom. Kada se koprive ohlade iseckati ih na rezance. Očistiti crni luk i šargarepu, pa luk isecakti na rebarca a šargarepu izrendati. Krompir oljuštiti, oprati i iseći na kockice.
 
-fil
+Na malo ulja propržiti crni luk i šargarepu, dodati brašno i još malo pržiti. Spustiti isečene koprive, naliti supom od kocke ili toplom vodom i dodati krompir. Čorbu kuvati na umerenoj vatri, dok krompir ne omekša. Pri kraju kuvanja posoliti, pobiberiti i dodati limunov sok ili sirće.
 
-  * mleveni orasi (100 grama)
-  * 100 g šećera
-  * kesica vanilin šećera
-  * suvo grožđe (50 g)
-  * 5-6 kašika mleka
+U proleće, zbog hranljivih sastojaka koje sadrži kopriva,� ova čorba trebalo bi da bude češće na našoj trpezi.
 
-premaz
+Napomena: čorba se može začiniti jajetom umućenim sa tri-četiri kašike kisele pavlake.
 
-  * 5 belanaca
-  * 5 kašika šećera
-  * 2 žumanca
-  * 50 g oštrog brašna
+Kopriva odnosno njeni mladi listovi� po ukusu podsećaju na spanać. Da prilikom pripreme kopriva ne bi žarila treba je preliti ključalom vodom.
 
-Priprema: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
-
-Fil: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
-
-Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno. Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
-
-Kolač peći oko 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na štanglice.
-
-&nbsp;
-
-&nbsp;
+Kopriva se koristi za: čišćenje organizma, protiv glavobolje, reumatskih bolova, artritisa, zaustavlja krvarenje, deluje protivupalno i daje organizmu energiju.
