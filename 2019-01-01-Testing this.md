@@ -1,36 +1,58 @@
-
+---
+id: 31
+title: ENGLESKI KOLAČ
+date: 2011-02-23T21:19:12+00:00
+author: admin
+layout: post
+guid: http://superkuvar.com/?p=31
+permalink: /engleski-kolaci/
+totvreme:
+  - ""
+categories:
+  - Kolači
+tags:
+  - belanca
+  - limun
+  - maslac
+  - orasi
+  - suvo groždje
+  - žumanca
+---
 Potrebno je:
 
-Za testo:
-* oko 900 grama brašna
-* 1 paketić kvasca
-* 120 grama margarina
-* 2 jajeta
-* 100 grama šećera
-* malo soli
-* 5 dl mleka
+testo
 
-Za nadev:
-* 400 g mlevenog maka
-* 200 g šećera
-* 2 dl mleka
-* korica limuna
-* rum
-* 1 kesica vanilin šećera
-* 60 g margarina
+  * 150 grama maslaca
+  * 250 g oštrog brašna
+  * 80 g šećera
+  * 1/2 kesice praška za pecivo
+  * 1 jaje
+  * 1 žumance
+  * kora od limuna
 
-*Priprema:* kvasac izmrviti, rastvoriti u malo mlakog mleka, dodati kašičicu šećera i ostaviti da nadođe. Brašno staviti u sud za mešenje, napraviti udubljenje i u njega sipati rastopljeni margarin, jaja, šećer, so, mleko i nadošli kvasac. 
+fil
 
-Umesiti mekano testo i tući ga varjačom,  dok se na njemu ne pojave mehurići. Umešeno testo prekriti salvetom i ostaviti na toplom oko 50 minuta,  da nadođe.
+  * mleveni orasi (100 grama)
+  * 100 g šećera
+  * kesica vanilin šećera
+  * suvo grožđe (50 g)
+  * 5-6 kašika mleka
 
-Na pobrašnjenu radnu površinu izručiti testo i podeliti ga na tri dela. Svaki deo razviti oklagijom na debljinu od jednog  santimetra. Na razvijenu koru naneti ohlađeni fil po celoj površini, pa urolovati. Na isti način oblikovati još dve štrudle.
+premaz
 
-Rolne štrudle poređati u podmazan pleh, svaku premazati mlekom, istopljenim margarinom  ili umućenim žumancetom i ostaviti da narastu još dvadesetak minuta.
+  * 5 belanaca
+  * 5 kašika šećera
+  * 2 žumanca
+  * 50 g oštrog brašna
 
-Štrudlu peći oko 40 minuta u pećnici zagrejanoj na 220 stepeni, dok ne dobije rumenu boju.
-Pečenu štrudlu prekriti platnenom salvetom, ostaviti da se ohladi a zatim iseći na parčiće. Parčići štrudle se mogu uvaljati u šećer u prahu zamirisan vanilin šećerom.
+Priprema: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
 
-Nadev: mleveni mak pomešati sa šećerom i vanilom, preliti vrelim mlekom i  prokuvati nekoliko minuta. Skloniti sa vatre, pa dodati kašiku margarina,  rendanu koru od limuna, rum  i sve dobro izmešati.
+Fil: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
 
+Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno. Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
 
+Kolač peći oko 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na štanglice.
 
+&nbsp;
+
+&nbsp;
