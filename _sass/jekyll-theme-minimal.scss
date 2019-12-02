@@ -9,6 +9,14 @@ body {
   font-weight:400;
 }
 
+html{
+    background-image: url("/wp-content/themes/back.jpg");
+    background-position: center center;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
