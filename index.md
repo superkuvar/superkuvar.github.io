@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="jekyllcodex.org" /><input type="text" name="q" maxlength="255" value="" placeholder="Search via Google" class="form-control" /></form>
 
 
