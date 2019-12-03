@@ -18,8 +18,6 @@ layout: default
   
 {% endif %}
 
----
-
 {% endfor %}
 
 <div class="home">
