@@ -29,7 +29,7 @@ Potrebno je:
   * voda
   * ulje
 
-<img class="alignnone size-medium wp-image-5049" src="//superkuvar.com/wp-content/uploads/2013/01/Domaćihleboodmešanogbrašna-300x225.jpg" alt="Domaćihleboodmešanogbrašna" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5049" src="/wp-content/uploads/2013/01/Domaćihleboodmešanogbrašna-300x225.jpg" alt="Domaćihleboodmešanogbrašna" width="300" height="225" /> 
 
 Priprema: u malo tople vode razmutiti izmrvljen kvasac, zajedno sa kašičicom šećera i dve kašičice mekog brašna. Ostaviti na toplom mestu da odstoji 15-20 minuta, da kvasac naraste.
 

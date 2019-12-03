@@ -27,7 +27,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-3048" title="Pita zeljanica" src="//superkuvar.com/wp-content/uploads/2012/04/Pita-zeljanica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3048" title="Pita zeljanica" src="/wp-content/uploads/2012/04/Pita-zeljanica-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: zelje oprati i kratko obariti, a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, dodati zelje, so i malo ulja.
 

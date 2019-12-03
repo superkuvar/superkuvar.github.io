@@ -22,7 +22,7 @@ Potrebno je:
   * paradajz pire (300 grama)
   * manja glavica crnog luka
 
-<img class="alignnone size-medium wp-image-846" title="brzespagete" src="//superkuvar.com/wp-content/uploads/2011/03/brzespagete-e1306842971637.jpg" alt="" width="267" height="135" /> 
+<img class="alignnone size-medium wp-image-846" title="brzespagete" src="/wp-content/uploads/2011/03/brzespagete-e1306842971637.jpg" alt="" width="267" height="135" /> 
 
 Priprema: sipati vodu u dublju posudu i dodati so i kašiku ulja. Staviti vodu na štednjak da proključa, pa ubaciti špagete. Kada su gotove, ocediti ih.  pagete treba da budu kuvane &#8221;al dente&#8221;.
 

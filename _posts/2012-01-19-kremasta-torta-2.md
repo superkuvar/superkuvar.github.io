@@ -52,7 +52,7 @@ Treći fil
 Četvrti fil  
 3 kesice šlag krema sa ukusom slatke pavlake
 
-<img class="alignnone size-medium wp-image-2276" title="Krem-torta 12" src="//superkuvar.com/wp-content/uploads/2012/01/Krem-torta-12-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2276" title="Krem-torta 12" src="/wp-content/uploads/2012/01/Krem-torta-12-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud za mešenje staviti 7 žumanaca, 3 cela jajeta i 6 kašika šećera, pa mutiti mikserom. Kada su jaja umućena, dodati 6 kašika oraha, 5 kašika brašna i prašak za pecivo. Masu lagano izmešati i sipati u četvrtasti pleh prekriven papirom za pečenje. Peći na 180-200 stepeni oko 15 minuta.
 

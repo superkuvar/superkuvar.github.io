@@ -35,7 +35,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-6062" src="//superkuvar.com/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom-300x225.jpg" alt="Zapecena boranija sa krompirom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom.jpg)
+[<img class="alignnone size-medium wp-image-6062" src="/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom-300x225.jpg" alt="Zapecena boranija sa krompirom" width="300" height="225" />](/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom.jpg)
 
 Priprema: očistiti praziluk ili crni luk, sitno ga iseći i propržiti na ulju. Dodati šargarepu isečenu na kockice i dinstati, da malo omekša.
 

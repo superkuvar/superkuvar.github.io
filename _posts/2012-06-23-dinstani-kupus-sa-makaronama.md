@@ -27,7 +27,7 @@ Potrebno je:
   * biber
   * suvi biljni začin
 
-<img class="alignnone size-medium wp-image-3591" title="Dinstanikupussamakaronama" src="//superkuvar.com/wp-content/uploads/2012/06/Dinstanikupussamakaronama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3591" title="Dinstanikupussamakaronama" src="/wp-content/uploads/2012/06/Dinstanikupussamakaronama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Kupus očistiti, oprati, iseći na rezance i dodati u luk. Promešati, poklopiti i dinstati uz povremeno mešanje i dolivanje po malo tople vode.
 

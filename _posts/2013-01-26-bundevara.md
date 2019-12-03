@@ -31,7 +31,7 @@ Potrebno je:
   * ulje
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5182" src="//superkuvar.com/wp-content/uploads/2013/01/Bundevara-300x225.jpg" alt="Bundevara" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5182" src="/wp-content/uploads/2013/01/Bundevara-300x225.jpg" alt="Bundevara" width="300" height="225" /> 
 
 Priprema: bundevu očistiti od semenki, oljuštiti i istrugati na krupnoj trenici, a zatim izmešati sa šećerom, vanilin šećerom i sokom od limuna.
 

@@ -27,7 +27,7 @@ Potrebno je:
   * 100 g mlevenih oraha
   * 100 g čokolade za kuvanje
 
-<img class="alignnone size-full wp-image-1473" title="stangliceskeksomiorasima" src="//superkuvar.com/wp-content/uploads/2011/07/stangliceskeksomiorasima-e1310729940205.jpg" alt="" width="212" height="156" /> 
+<img class="alignnone size-full wp-image-1473" title="stangliceskeksomiorasima" src="/wp-content/uploads/2011/07/stangliceskeksomiorasima-e1310729940205.jpg" alt="" width="212" height="156" /> 
 
 Priprema: na pari, uz stalno mešanje, skuvati ređi krem od jaja i šećera, pa ubaciti paklicu margarina da se rastopi. Skloniti sa vatre i umešati mleveni keks i orahe. Na radnoj površini, na aluminijumskoj foliji, rastanjiti pripremljenu masu u koru debljine dva santimetra.
 

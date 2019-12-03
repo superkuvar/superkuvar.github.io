@@ -28,7 +28,7 @@ Potrebno je:
   * kašičica šećera
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3926" title="Kremsalataodpatlidzana" src="//superkuvar.com/wp-content/uploads/2012/08/Kremsalataodpatlidzana-e1344418599462-300x224.jpg" alt="" width="300" height="224" /> 
+<img class="alignnone size-medium wp-image-3926" title="Kremsalataodpatlidzana" src="/wp-content/uploads/2012/08/Kremsalataodpatlidzana-e1344418599462-300x224.jpg" alt="" width="300" height="224" /> 
 
 Priprema: plavi patlidžan oprati, posušiti salvetom i ispeći u pećnici. Kada se patlidžan ohladi, oljuštiti ga i iseći što sitnije.
 

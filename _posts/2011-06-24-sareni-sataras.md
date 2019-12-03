@@ -32,7 +32,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3759" title="Sarenisataras" src="//superkuvar.com/wp-content/uploads/2011/06/Sarenisataras-e1342693324716-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-3759" title="Sarenisataras" src="/wp-content/uploads/2011/06/Sarenisataras-e1342693324716-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: crni luk oljuštiti, iseckati i propržiti na zagrejanom ulju. Kada postane staklast, dodati očišćene i na kocke isečene paprike i šargarepu i sve zajedno malo propržiti.
 

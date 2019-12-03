@@ -35,7 +35,7 @@ Potrebno je:
   * karanfilić
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-4851" title="Gurabijesarumom" src="//superkuvar.com/wp-content/uploads/2012/12/Gurabijesarumom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4851" title="Gurabijesarumom" src="/wp-content/uploads/2012/12/Gurabijesarumom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati rum, vanilin šećer i jaje. Izmešati varjačom, pa postepeno dodavati brašno pomešano sa praškom za pecivo.
 

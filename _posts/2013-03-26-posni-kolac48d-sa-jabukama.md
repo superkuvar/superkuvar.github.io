@@ -42,7 +42,7 @@ Za glazuru
   * kockica margarina
   * nekoliko kapi ulja
 
-<img class="alignnone size-medium wp-image-5525" src="//superkuvar.com/wp-content/uploads/2013/03/Posnikolacsajabukama-300x225.jpg" alt="Posnikolacsajabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5525" src="/wp-content/uploads/2013/03/Posnikolacsajabukama-300x225.jpg" alt="Posnikolacsajabukama" width="300" height="225" /> 
 
 Priprema: brašno pomešati sa praškom za pecivo, dodati šećer i seckane orahe, pa izmešati.
 

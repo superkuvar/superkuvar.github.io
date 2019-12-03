@@ -26,7 +26,7 @@ Potrebno je:
   * malo esencije
   * kesica konzervansa
 
-[<img class="alignnone size-medium wp-image-9733" src="//superkuvar.com/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-300x225.jpg" alt="ajvarsapatlidžanomirenom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-e1441803978169.jpg)
+[<img class="alignnone size-medium wp-image-9733" src="/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-300x225.jpg" alt="ajvarsapatlidžanomirenom" width="300" height="225" />](/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-e1441803978169.jpg)
 
 Priprema: paprike i plavi patlidžan oprati i ispeći u rerni na 300 stepeni. Ostaviti ih u poklopljenoj posudi da se potpare i ocede, a zatim oljuštiti i samleti na mašini za mlevenje mesa.
 

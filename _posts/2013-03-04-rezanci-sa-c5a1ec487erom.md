@@ -27,7 +27,7 @@ Potrebno je:
   * šećer
   * prezle
 
-<img class="alignnone size-medium wp-image-5388" src="//superkuvar.com/wp-content/uploads/2013/03/Rezanci-sa-šećerom-300x225.jpg" alt="Rezanci sa šećerom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5388" src="/wp-content/uploads/2013/03/Rezanci-sa-šećerom-300x225.jpg" alt="Rezanci sa šećerom" width="300" height="225" /> 
 
 Priprema: skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
 

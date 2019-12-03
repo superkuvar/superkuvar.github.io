@@ -34,7 +34,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4565" title="Jeloodblitveikrompira" src="//superkuvar.com/wp-content/uploads/2012/10/Jeloodblitveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4565" title="Jeloodblitveikrompira" src="/wp-content/uploads/2012/10/Jeloodblitveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: blitvu oprati, očistiti, kratko obariti u ključaloj vodi, a zatim ocediti. Kada se blitva malo ohladi iseći je na krupnije rezance.
 

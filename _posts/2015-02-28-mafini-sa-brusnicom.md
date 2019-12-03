@@ -30,7 +30,7 @@ Potrebno je:
   * limun
   * brusnice kandirane (100 grama)
 
-[<img class="alignnone size-medium wp-image-9456" src="//superkuvar.com/wp-content/uploads/2015/02/Mafini-sa-brusnicom-1-300x225.jpg" alt="Mafini sa brusnicom (1)" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/02/Mafini-sa-brusnicom-1.jpg)
+[<img class="alignnone size-medium wp-image-9456" src="/wp-content/uploads/2015/02/Mafini-sa-brusnicom-1-300x225.jpg" alt="Mafini sa brusnicom (1)" width="300" height="225" />](/wp-content/uploads/2015/02/Mafini-sa-brusnicom-1.jpg)
 
 Priprema: penasto umutiti jaja sa 100 grama šećera, pa dodati ulje, mleko, malo soka od limuna i brašno pomešano sa praškom za pecivo. Izmešati a zatim dodati brusnice, prethodno uvaljane u brašno, da ne bi pale na dno kalupa.
 

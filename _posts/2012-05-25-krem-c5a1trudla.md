@@ -39,7 +39,7 @@ Sirup
   * 2 čaše vode
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="//superkuvar.com/wp-content/uploads/2012/05/Krem-%C5%A1trudla-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="/wp-content/uploads/2012/05/Krem-%C5%A1trudla-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: podeliti kore na tri jednaka dela. Umutiti jaja sa šećerom, dodati brašno i narendanu koru od limuna.
 

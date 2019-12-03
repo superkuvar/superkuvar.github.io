@@ -31,7 +31,7 @@ Potrebno je:
   * čaša kisele pavlake
   * ulje
 
-<img class="alignnone size-medium wp-image-4044" title="Testeninasatikvicama" src="//superkuvar.com/wp-content/uploads/2012/08/Testeninasatikvicama1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4044" title="Testeninasatikvicama" src="/wp-content/uploads/2012/08/Testeninasatikvicama1-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: očistiti i sitno iseckati beli i crni luk, pa ga propržiti na malo ulja. Tikvice oljuštiti, iseći na kockice i dodati u luk. Pirjaniti dok tikvice ne omekšaju. Posoliti, pobiberiti i dodati origano i sitno seckani peršunov list. Tikvice skloniti sa vatre, pa umešati kiselu pavlaku.
 

@@ -39,7 +39,7 @@ Potrebno je:
   * biber u zrnu
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4935" title="Junecacorbasakarfiolom" src="//superkuvar.com/wp-content/uploads/2011/03/Junecacorbasakarfiolom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4935" title="Junecacorbasakarfiolom" src="/wp-content/uploads/2011/03/Junecacorbasakarfiolom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: juneće meso iseći na kockice, očišćenu zelen na kolutove, a karfiol iskidati na cvetiće. Na malo ulja propržiti sitno seckani praziluk, dodati meso i povrće i još kratko propržiti, a zatim naliti litrom i po tople vode i staviti da se kuva.
 

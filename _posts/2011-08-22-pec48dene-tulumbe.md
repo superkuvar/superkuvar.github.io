@@ -31,7 +31,7 @@ Preliv:
   * 1 limun
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-1786" title="tulumbe iz rerne 1" src="//superkuvar.com/wp-content/uploads/2011/08/tulumbe-iz-rerne-1-e1314014391548.jpg" alt="" width="260" height="130" /> 
+<img class="alignnone size-medium wp-image-1786" title="tulumbe iz rerne 1" src="/wp-content/uploads/2011/08/tulumbe-iz-rerne-1-e1314014391548.jpg" alt="" width="260" height="130" /> 
 
 Priprema: dve čaše vode i čašu ulja sipati u šerpu i staviti na ringlu da provri, pa postepeno dodavati brašno (2 čaše brašna od kojih oduzeti 4 kašike i umesto njih staviti 4 kašike griza).
 

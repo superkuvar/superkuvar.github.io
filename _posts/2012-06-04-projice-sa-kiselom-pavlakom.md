@@ -30,7 +30,7 @@ Potrebno je:
   * 3 šoljice gazirane mineralne vode
   * susam (za posipanje)
 
-<img class="alignnone size-medium wp-image-3341" title="Projicesakiselompavlakom" src="//superkuvar.com/wp-content/uploads/2012/06/Projicesakiselompavlakom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3341" title="Projicesakiselompavlakom" src="/wp-content/uploads/2012/06/Projicesakiselompavlakom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje izmešati umućena jaja, pavlaku, ulje, so i brašno pomešano sa praškom za pecivo. Uz dodavanje mineralne vode i mešanje varjačom, zamesiti ređe testo. Dodati izmrvljen sir i ponovo dobro izmešati.
 

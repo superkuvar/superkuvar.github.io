@@ -35,7 +35,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-[<img class="alignnone size-medium wp-image-6092" src="//superkuvar.com/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca-300x225.jpg" alt="Slozenacodkrompiraipirinca" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca.jpg)
+[<img class="alignnone size-medium wp-image-6092" src="/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca-300x225.jpg" alt="Slozenacodkrompiraipirinca" width="300" height="225" />](/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca.jpg)
 
 Priprema: krompir oprati i neoljušten obariti u slanoj vodi. Voditi računa da se ne raskuva, treba da ostane čvršći. Kada se krompir ohladi oljuštiti ga i iseći na kolutove.
 

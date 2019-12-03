@@ -47,7 +47,7 @@ Braon fil:
   * 250 grama šećera u prahu
   * 100 grama čokolade
 
-<img class="alignnone size-medium wp-image-3230" title="Jaffa torta" src="//superkuvar.com/wp-content/uploads/2012/05/Jaffa-torta-e1337082039393-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-3230" title="Jaffa torta" src="/wp-content/uploads/2012/05/Jaffa-torta-e1337082039393-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: u sudu za mešenje umutiti 5 jaja sa 5 kašika šećera, pa dodati 8 kašika mlevenih oraha i 2 kašike brašna. Masu lagano izmešati i sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni dvadesetak minuta. Na isti način pripremiti još jednu koru. Obe ohlađene kore preseći na pola, da bi se dobile četiri manje.
 

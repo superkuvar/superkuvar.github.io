@@ -37,7 +37,7 @@ Potrebno je:
   * kašika brašna
   * mirođija
 
-<img class="alignnone size-medium wp-image-5065" src="//superkuvar.com/wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-300x225.jpg" alt="Čorba od graška i krompira" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5065" src="/wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-300x225.jpg" alt="Čorba od graška i krompira" width="300" height="225" /> 
 
 Priprema: praziluk očistiti, oprati i isitniti na kolutove. U lonac sipati malo ulja, pa kada se zagreje dodati isitnjen praziluk i malo ga propržiti.
 

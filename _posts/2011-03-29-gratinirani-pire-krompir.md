@@ -27,7 +27,7 @@ Potrebno je:
   * malo muskatnog oraščića
   * 100 g margarina
 
-[<img class="alignnone size-medium wp-image-8630" src="//superkuvar.com/wp-content/uploads/2011/03/gratiniranipirekrompir1-300x225.jpg" alt="gratiniranipirekrompir" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/03/gratiniranipirekrompir1.jpg)
+[<img class="alignnone size-medium wp-image-8630" src="/wp-content/uploads/2011/03/gratiniranipirekrompir1-300x225.jpg" alt="gratiniranipirekrompir" width="300" height="225" />](/wp-content/uploads/2011/03/gratiniranipirekrompir1.jpg)
 
 Priprema: krompir oprati, oljuštiti, iseći na kocke, naliti vodom da ogrezne, posoliti i skuvati. Obaren krompir ocediti, propasirati, dodati margarin, pa dobro umutiti.
 

@@ -50,7 +50,7 @@ Fil
   * kesica vanilin šećera
   * 3 kašike kokosovog brašna
 
-<img class="alignnone size-medium wp-image-5266" src="//superkuvar.com/wp-content/uploads/2013/02/Belikolačsajabukama-300x225.jpg" alt="Belikolačsajabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5266" src="/wp-content/uploads/2013/02/Belikolačsajabukama-300x225.jpg" alt="Belikolačsajabukama" width="300" height="225" /> 
 
 Priprema: oprane jabuke oljuštiti, narendati, pa dodati šećer, vanilin šećer, margarin i limunov sok. Sve zajedno prodinstati, dok jabuke ne omekšaju i tečnost ispari. Dodati suvo grožđe.
 

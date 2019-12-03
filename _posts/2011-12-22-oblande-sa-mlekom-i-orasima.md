@@ -26,7 +26,7 @@ Potrebno je:
   * kesica vanilin šećera
   * veće pakovanje oblandi
 
-<img class="alignnone size-medium wp-image-2111" title="mamina oblanda" src="//superkuvar.com/wp-content/uploads/2011/12/mamina-oblanda-e1324559971864.jpg" alt="" width="207" height="145" /> 
+<img class="alignnone size-medium wp-image-2111" title="mamina oblanda" src="/wp-content/uploads/2011/12/mamina-oblanda-e1324559971864.jpg" alt="" width="207" height="145" /> 
 
 Priprema: sipati mleko u šerpu, dodati šećer i kuvati na tihoj vatri, uz mešanje, najmanje sat vremena, dok se ne zgusne i dobije zlatastu boju. Skloniti sa vatre, dodati margarin, vanilin šećer i mlevene orahe i lagano izmešati.
 

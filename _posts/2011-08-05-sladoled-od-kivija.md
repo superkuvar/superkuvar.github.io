@@ -23,7 +23,7 @@ Potrebno je:
   * mleko ili voda
   * pistaći (po želji)
 
-<img class="alignnone size-full wp-image-1605" title="sladoledkivi" src="//superkuvar.com/wp-content/uploads/2011/08/sladoledkivi-e1312536586878.jpg" alt="" width="229" height="169" /> 
+<img class="alignnone size-full wp-image-1605" title="sladoledkivi" src="/wp-content/uploads/2011/08/sladoledkivi-e1312536586878.jpg" alt="" width="229" height="169" /> 
 
 Priprema: kivi oprati, oljuštiti i izgnječiti viljuškom. U posudu za mućenje sipati šlag, šećer i mleko i umutiti prema uputstvu na kesici. Umesto šlaga može se koristiti slatka pavlaka.
 

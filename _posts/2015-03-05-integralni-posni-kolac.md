@@ -31,7 +31,7 @@ Potrebno je:
   * ovsene pahuljice (3 kašike)
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9485" src="//superkuvar.com/wp-content/uploads/2015/03/integralniposnikolac-300x225.jpg" alt="integralniposnikolac" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/integralniposnikolac.jpg)
+[<img class="alignnone size-medium wp-image-9485" src="/wp-content/uploads/2015/03/integralniposnikolac-300x225.jpg" alt="integralniposnikolac" width="300" height="225" />](/wp-content/uploads/2015/03/integralniposnikolac.jpg)
 
 Priprema: u posudu za mešenje staviti džem, šećer i cimet, pa dodati vodu, a zatim ovsene pahuljice i brašno pomešano sa praškom za pecivo. Masu izmešati varjačom.  
 Testo treba da bude ređe.

@@ -34,7 +34,7 @@ Potrebno je:
   * šećer u prahu
   * ulje
 
-[<img class="alignnone size-medium wp-image-9481" src="//superkuvar.com/wp-content/uploads/2015/03/pitasakokosom-300x225.jpg" alt="pitasakokosom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/pitasakokosom.jpg)
+[<img class="alignnone size-medium wp-image-9481" src="/wp-content/uploads/2015/03/pitasakokosom-300x225.jpg" alt="pitasakokosom" width="300" height="225" />](/wp-content/uploads/2015/03/pitasakokosom.jpg)
 
 Priprema: umutiti jaja sa šećerom, dodati kašiku brašna i malo hladnog mleka i dobro razmutiti. Ostatak mleka staviti da provri, skloniti sa vatre i sipati umućena jaja, uz stalno mešanje da se ne zgrudva. Krem kuvati na tihoj vatri, stalno mešajući da ne zagori. Skloniti sa štednjaka i dodati margarin. Kada se krem ohladi, dodati kiselu pavlaku, kokosovo brašno i oprano suvo grožđe.
 

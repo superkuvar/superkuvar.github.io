@@ -29,7 +29,7 @@ Potrebno je:
   * 2 kašike kisele pavlake
   * peršunov list
 
-<img class="alignnone size-full wp-image-685" title="pireodblitve" src="//superkuvar.com/wp-content/uploads/2011/05/pireodblitve.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-685" title="pireodblitve" src="/wp-content/uploads/2011/05/pireodblitve.jpg" alt="" width="259" height="194" /> 
 
 Priprema: blitvu oprati, ukloniti drške, a zatim je staviti u ključalu vodu i kuvati 5 minuta. Zatim je ocediti i kada se malo prohladi iseći na rezance.
 

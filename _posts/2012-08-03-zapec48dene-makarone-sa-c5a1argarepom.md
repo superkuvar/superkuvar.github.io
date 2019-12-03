@@ -34,7 +34,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3882" title="Zapecenemakaronesasargarepom" src="//superkuvar.com/wp-content/uploads/2012/08/Zapecenemakaronesasargarepom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3882" title="Zapecenemakaronesasargarepom" src="/wp-content/uploads/2012/08/Zapecenemakaronesasargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: šargarepu oprati, očistiti, iseći na kolutove i obariti u slanoj vodi u koju je dodato malo bosiljka.
 

@@ -36,7 +36,7 @@ Potrebno je:
   * kašičica aleve paprike
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3197" title="Kupus sa sojom" src="//superkuvar.com/wp-content/uploads/2012/05/Kupus-sa-sojom-e1336649862385-300x228.jpg" alt="" width="300" height="228" /> 
+<img class="alignnone size-medium wp-image-3197" title="Kupus sa sojom" src="/wp-content/uploads/2012/05/Kupus-sa-sojom-e1336649862385-300x228.jpg" alt="" width="300" height="228" /> 
 
 Priprema: na ulju propržiti sitno seckani crni luk, pa dodati očišćen kupus isečen na manje komade i naliti vodom da ogrezne.
 

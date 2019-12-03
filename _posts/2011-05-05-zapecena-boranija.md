@@ -29,7 +29,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-2514" title="Zapečena boranija" src="//superkuvar.com/wp-content/uploads/2011/05/Zape%C4%8Dena-boranija1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2514" title="Zapečena boranija" src="/wp-content/uploads/2011/05/Zape%C4%8Dena-boranija1-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
 

@@ -28,7 +28,7 @@ Potrebno je:
   * suvi biljni začin
   * biber
 
-<img class="alignnone size-medium wp-image-2912" title="Jednostavna musaka od krompira i sira" src="//superkuvar.com/wp-content/uploads/2011/05/Jednostavna-musaka-od-krompira-i-sira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2912" title="Jednostavna musaka od krompira i sira" src="/wp-content/uploads/2011/05/Jednostavna-musaka-od-krompira-i-sira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krompir oprati i neoljušten obariti u malo posoljenoj vodi. Kada se krompir skuva, ocediti ga, oljuštiti i iseći na kolutove.
 

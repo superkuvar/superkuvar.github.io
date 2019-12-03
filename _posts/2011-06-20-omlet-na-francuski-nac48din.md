@@ -26,7 +26,7 @@ Potrebno je:
   * rendani kačkavalj
   * seckana šunka
 
-<img class="alignnone size-full wp-image-1182" title="omletsunka" src="//superkuvar.com/wp-content/uploads/2011/06/omletsunka-e1308560206178.jpg" alt="" width="227" height="174" /> 
+<img class="alignnone size-full wp-image-1182" title="omletsunka" src="/wp-content/uploads/2011/06/omletsunka-e1308560206178.jpg" alt="" width="227" height="174" /> 
 
 Priprema: umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
 

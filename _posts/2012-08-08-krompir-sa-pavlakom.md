@@ -26,7 +26,7 @@ Potrebno je:
   * 2 dl kisele pavlake
   * ulje
 
-<img class="alignnone size-medium wp-image-3916" title="Krompirsapavlakom" src="//superkuvar.com/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg" alt="" width="300" height="228" srcset="http://localhost/superkuvar/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-1024x778.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-medium wp-image-3916" title="Krompirsapavlakom" src="/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg" alt="" width="300" height="228" srcset="http://localhost/superkuvar/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-1024x778.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Priprema: krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
 

@@ -27,7 +27,7 @@ Potrebno je:
   * 1 litar ulja
   * kesica vinobrana
 
-<img class="alignnone size-medium wp-image-4368" title="Paprikezapunjenje" src="//superkuvar.com/wp-content/uploads/2012/09/Paprikezapunjenje-e1348497086906-300x234.jpg" alt="" width="300" height="234" /> 
+<img class="alignnone size-medium wp-image-4368" title="Paprikezapunjenje" src="/wp-content/uploads/2012/09/Paprikezapunjenje-e1348497086906-300x234.jpg" alt="" width="300" height="234" /> 
 
 Priprema: peršun i beli luk očistiti i samleti na mašini za mlevenje mesa. Izmešati so, ulje, esenciju, beli luk, peršun i vinobran.
 

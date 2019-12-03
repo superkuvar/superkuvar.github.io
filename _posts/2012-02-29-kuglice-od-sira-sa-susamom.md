@@ -26,7 +26,7 @@ Potrebno je:
   * pola čaše kisele pavlake
   * 5 kašika mlevenih oraha
 
-<img class="alignnone size-medium wp-image-2607" title="Bombice od sira sa susamom" src="//superkuvar.com/wp-content/uploads/2012/02/Bombice-od-sira-sa-susamom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2607" title="Bombice od sira sa susamom" src="/wp-content/uploads/2012/02/Bombice-od-sira-sa-susamom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: penasto umutiti margarin, dodati sitan sir, pavlaku, mlevene orahe i polovinu količine susama. Susam prethodno treba propržiti ili ispeći. Masu lagano izmešati, da se sastojci sjedine.
 

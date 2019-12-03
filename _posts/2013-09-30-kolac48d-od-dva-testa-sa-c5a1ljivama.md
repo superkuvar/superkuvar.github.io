@@ -37,7 +37,7 @@ Drugo testo:
   * 1 kesica vanilin šećera
   * 4 kašike mlevenih oraha
 
-[<img class="alignnone size-medium wp-image-6144" src="//superkuvar.com/wp-content/uploads/2013/09/Kolacoddvatestasasljivama-300x225.jpg" alt="Kolacoddvatestasasljivama" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Kolacoddvatestasasljivama.jpg)
+[<img class="alignnone size-medium wp-image-6144" src="/wp-content/uploads/2013/09/Kolacoddvatestasasljivama-300x225.jpg" alt="Kolacoddvatestasasljivama" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacoddvatestasasljivama.jpg)
 
 Priprema: šljive oprati, očistiti od koštica i iseći na krupnije rezance.
 

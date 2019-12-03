@@ -23,7 +23,7 @@ Potrebno je:
   * 2 limuna
   * štapić vanile
 
-<img class="alignnone size-medium wp-image-4360" title="Dzem od zelenog paradajza" src="//superkuvar.com/wp-content/uploads/2012/09/Dzem-od-zelenog-paradajza-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4360" title="Dzem od zelenog paradajza" src="/wp-content/uploads/2012/09/Dzem-od-zelenog-paradajza-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paradajz dobro oprati, staviti u ključalu vodu nekoliko minuta, pa ocediti. Ohlađeni paradajz oljuštiti, iseći na četvrtine i ukloniti seme.
 

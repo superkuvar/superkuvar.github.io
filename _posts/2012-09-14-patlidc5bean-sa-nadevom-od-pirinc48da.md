@@ -33,7 +33,7 @@ Potrebno je:
   * 2 dl kisele pavlake
   * 1 jaje
 
-<img class="alignnone size-medium wp-image-4274" title="Patlidzannadevenpirincem" src="//superkuvar.com/wp-content/uploads/2012/09/Patlidzannadevenpirincem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4274" title="Patlidzannadevenpirincem" src="/wp-content/uploads/2012/09/Patlidzannadevenpirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, iseći uzdužno na pola i kašičicom pažljivo izdubiti sredinu. Na ulju izdinstati iseckanu sredinu patlidžana, oljušten i na komade isečen paradajz i narendanu šargarepu.
 

@@ -37,7 +37,7 @@ Potrebno je:
   * suvi biljni začin
   * peršunov list ili mirođija
 
-<img class="alignnone size-full wp-image-734" title="corbaodpovrca" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodpovrca.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-734" title="corbaodpovrca" src="/wp-content/uploads/2011/03/corbaodpovrca.jpg" alt="" width="259" height="194" /> 
 
 Priprema: oprati, očistiti i na kolutove iseći šargarepu, peršunov koren, paškanat i mladi luk, a celer na kockice. Iseckano povrće staviti u lonac i propržiti na malo ulja. Zatim doliti litar i po vode, spustiti oljušten krompir isečen na polovine, posoliti, dodati suvi biljni začin i kuvati dok povrće ne omekša.
 

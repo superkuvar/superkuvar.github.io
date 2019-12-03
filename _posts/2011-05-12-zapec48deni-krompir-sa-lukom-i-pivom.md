@@ -28,7 +28,7 @@ Potrebno je:
   * aleva paprika
   * ulje ili margarin
 
-[<img class="alignnone size-medium wp-image-8730" src="//superkuvar.com/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-300x225.jpg" alt="zapecenikrompirsalukomipivom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)
+[<img class="alignnone size-medium wp-image-8730" src="/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-300x225.jpg" alt="zapecenikrompirsalukomipivom" width="300" height="225" />](/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)
 
 Priprema: krompir oprati, oljuštiti i iseći na kolutove. Crni luk takođe očistiti i iseći na kolutove.
 

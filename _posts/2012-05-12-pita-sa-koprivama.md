@@ -30,7 +30,7 @@ Potrebno je:
   * ulje
   * 50 grama margarina
 
-<img class="alignnone size-medium wp-image-3201" title="Pita sa koprivama" src="//superkuvar.com/wp-content/uploads/2012/05/Pita-sa-koprivama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3201" title="Pita sa koprivama" src="/wp-content/uploads/2012/05/Pita-sa-koprivama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
 

@@ -36,7 +36,7 @@ Potrebno je:
   * lovorov list
   * šolja kajmaka
 
-[<img class="alignnone size-medium wp-image-8676" src="//superkuvar.com/wp-content/uploads/2011/03/punjenepaprike1-300x225.jpg" alt="punjenepaprike" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/03/punjenepaprike1.jpg)
+[<img class="alignnone size-medium wp-image-8676" src="/wp-content/uploads/2011/03/punjenepaprike1-300x225.jpg" alt="punjenepaprike" width="300" height="225" />](/wp-content/uploads/2011/03/punjenepaprike1.jpg)
 
 Priprema: krompir oprati, oljuštiti i izrendati, pa ga propržiti na malo ulja. U propržen krompir dodati opran pirinač, so, suvi biljni začin, alevu papriku i malo bibera.
 

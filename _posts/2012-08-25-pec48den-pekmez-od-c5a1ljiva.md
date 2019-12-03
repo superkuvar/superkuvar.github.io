@@ -22,7 +22,7 @@ Potrebno je:
   * 10 grama limuntusa (limunska kiselina) – kesica
   * šipka vanile ili vanilin šećer (po želji)
 
-<img class="alignnone size-medium wp-image-4107" title="Pecenpekmezodsljiva" src="//superkuvar.com/wp-content/uploads/2012/08/Pecenpekmezodsljiva-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4107" title="Pecenpekmezodsljiva" src="/wp-content/uploads/2012/08/Pecenpekmezodsljiva-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: zrele, čvrste šljive oprati, očistiti od koštica i prepoloviti. Staviti u dublju šerpu red šljiva, red šećera sa limuntusom, pa šljive.
 

@@ -30,7 +30,7 @@ Potrebno:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-1024" title="spanacmusaka" src="//superkuvar.com/wp-content/uploads/2011/06/spanacmusaka2-e1307535989206.jpg" alt="" width="244" height="144" /> 
+<img class="alignnone size-medium wp-image-1024" title="spanacmusaka" src="/wp-content/uploads/2011/06/spanacmusaka2-e1307535989206.jpg" alt="" width="244" height="144" /> 
 
 Priprema: blitvu oprati, odstraniti drške, preliti vrelom vodom i ocediti. Kada se blitva ohladi iseći je na krupnije rezance.
 

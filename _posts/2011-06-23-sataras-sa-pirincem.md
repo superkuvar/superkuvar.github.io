@@ -30,7 +30,7 @@ Potrebno je:
   * kašičica šećera
   * ulje
 
-<img class="alignnone size-medium wp-image-3691" title="Satarašsapirinčem" src="//superkuvar.com/wp-content/uploads/2011/06/Satara%C5%A1sapirin%C4%8Dem-e1342021960671-300x233.jpg" alt="" width="300" height="233" /> 
+<img class="alignnone size-medium wp-image-3691" title="Satarašsapirinčem" src="/wp-content/uploads/2011/06/Satara%C5%A1sapirin%C4%8Dem-e1342021960671-300x233.jpg" alt="" width="300" height="233" /> 
 
 Priprema: na ulju kratko propržiti sitno iseckan crni luk da postane staklast, zatim dodati na rezance isečenu papriku, pa poklopljeno, uz povremeno mešanje, dinstati na tihoj vatri.
 

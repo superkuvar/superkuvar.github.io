@@ -33,7 +33,7 @@ Potrebno je:
   * 3 kašike marmelade &#8211; džema od kajsija ili šipka
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9320" src="//superkuvar.com/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama-300x225.jpg" alt="kolacodlisnatogtestasajabukama" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama.jpg)
+[<img class="alignnone size-medium wp-image-9320" src="/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama-300x225.jpg" alt="kolacodlisnatogtestasajabukama" width="300" height="225" />](/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama.jpg)
 
 Priprema: jabuke oprati, oljuštiti, izrendati i preliti rumom. Suvo grožđe oprati i dodati u jabuke. Pomešati prezle, šećer i cimet, pa sve kratko propržiti na margarinu.
 

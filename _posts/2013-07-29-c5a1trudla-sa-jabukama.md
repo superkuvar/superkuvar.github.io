@@ -38,7 +38,7 @@ Potrebno je:
   * kora od limuna
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5942" src="//superkuvar.com/wp-content/uploads/2013/07/Štrudla-sa-jabukama-300x225.jpg" alt="Štrudla sa jabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5942" src="/wp-content/uploads/2013/07/Štrudla-sa-jabukama-300x225.jpg" alt="Štrudla sa jabukama" width="300" height="225" /> 
 
 Priprema: izmrvljen kvasac staviti u lonče sa toplim mlekom, dodati kašičicu šećera i kašiku brašna, lagano izmešati i ostaviti na toplom da nadođe.
 

@@ -29,7 +29,7 @@ Potrebno je:
   * kašika brašna
   * seckani peršunov list
 
-<img class="alignnone size-medium wp-image-4740" title="Kelerabaumleku" src="//superkuvar.com/wp-content/uploads/2012/11/Kelerabaumleku-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4740" title="Kelerabaumleku" src="/wp-content/uploads/2012/11/Kelerabaumleku-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kelerabu očistiti, oprati, iseći na komade ili štapiće i dinstati na ulju. Prilikom dinstanja, umesto vode, u kelerabu dolivati mleko.
 

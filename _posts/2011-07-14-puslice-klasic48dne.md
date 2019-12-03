@@ -21,7 +21,7 @@ Potrebno je:
   * 30 kašika kristal šećera
   * 5 kašika soka od limuna
 
-<img class="alignnone size-full wp-image-1456" title="puslice1" src="//superkuvar.com/wp-content/uploads/2011/07/puslice1-e1310649691203.jpg" alt="" width="255" height="170" /> 
+<img class="alignnone size-full wp-image-1456" title="puslice1" src="/wp-content/uploads/2011/07/puslice1-e1310649691203.jpg" alt="" width="255" height="170" /> 
 
 Priprema: u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
 

@@ -22,7 +22,7 @@ Potrebno je:
   * pšenični griz
   * so
 
-<img class="alignnone size-medium wp-image-3959" title="Knedle od griza" src="//superkuvar.com/wp-content/uploads/2012/08/Knedle-od-griza-300x150.jpg" alt="" width="300" height="150" /> 
+<img class="alignnone size-medium wp-image-3959" title="Knedle od griza" src="/wp-content/uploads/2012/08/Knedle-od-griza-300x150.jpg" alt="" width="300" height="150" /> 
 
 Priprema: penasto umutiti margarin, dodati jaja i ulje, so po ukusu, pa dobro umutiti. U umućenu masu postepeno dodavati griz, uz stalno mešanje. Voditi računa da u testu ne bude previše griza, jer će knedle biti tvrde. Ostaviti testo da odstoji 10-15 minuta.
 

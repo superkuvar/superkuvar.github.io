@@ -38,7 +38,7 @@ Potrebno je:
   * muskatni oraščić
   * ulje
 
-<img class="alignnone size-medium wp-image-5560" src="//superkuvar.com/wp-content/uploads/2013/04/Musaka-od-spanaca-i-krompira-300x225.jpg" alt="Musaka od spanaca i krompira" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5560" src="/wp-content/uploads/2013/04/Musaka-od-spanaca-i-krompira-300x225.jpg" alt="Musaka od spanaca i krompira" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati i obariti u ključaloj vodi, a zatim ocediti i iseći na rezance.
 

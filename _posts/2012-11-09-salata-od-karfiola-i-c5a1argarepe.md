@@ -32,7 +32,7 @@ Potrebno je:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-4665" title="Salatakarfiolsargarepa" src="//superkuvar.com/wp-content/uploads/2012/11/Salatakarfiolsargarepa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4665" title="Salatakarfiolsargarepa" src="/wp-content/uploads/2012/11/Salatakarfiolsargarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: karfiol očistiti, oprati, odvojiti na cvetiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Obaren karfiol ocediti od vode, ostaviti da se ohladi a zatim sitno iseckati.
 

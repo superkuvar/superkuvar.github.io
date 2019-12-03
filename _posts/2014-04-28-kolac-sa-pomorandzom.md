@@ -35,7 +35,7 @@ Potrebno je:
   * 100 g suvog grožđa
   * 2 šlag krema sa ukusom slatke pavlake
 
-[<img class="alignnone size-medium wp-image-9128" src="//superkuvar.com/wp-content/uploads/2014/04/kolacsapomorandzom-300x225.jpg" alt="kolacsapomorandzom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/04/kolacsapomorandzom.jpg)
+[<img class="alignnone size-medium wp-image-9128" src="/wp-content/uploads/2014/04/kolacsapomorandzom-300x225.jpg" alt="kolacsapomorandzom" width="300" height="225" />](/wp-content/uploads/2014/04/kolacsapomorandzom.jpg)
 
 Priprema: penasto umutiti jaja sa pet kašika šećara, pa dodati brašno i kašiku ulja. Testo lagano izmešati i sipati u podmazan i brašnom posut pleh. Biskvitno testo peći 15 minuta u pećnici zagrejanoj na 180 stepeni. Kada se ohladi isitniti ga na kockice i staviti u dublju posudu.
 

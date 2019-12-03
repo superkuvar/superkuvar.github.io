@@ -31,7 +31,7 @@ Potrebno je:
   * muskatni oraščić
   * ulje ili margarin
 
-[<img class="alignnone size-medium wp-image-9177" src="//superkuvar.com/wp-content/uploads/2014/06/zapecenispanacsapirincem-300x225.jpg" alt="zapecenispanacsapirincem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/06/zapecenispanacsapirincem.jpg)
+[<img class="alignnone size-medium wp-image-9177" src="/wp-content/uploads/2014/06/zapecenispanacsapirincem-300x225.jpg" alt="zapecenispanacsapirincem" width="300" height="225" />](/wp-content/uploads/2014/06/zapecenispanacsapirincem.jpg)
 
 Priprema: luk očistiti, sitno iseckati i propržiti na malo ulja ili margarina. Spanać očistiti, oprati, staviti u sud sa ključalom vodom i bariti 3-4 minuta. Zatim spanać ocediti i kada se prohladi iseći sitnije.
 

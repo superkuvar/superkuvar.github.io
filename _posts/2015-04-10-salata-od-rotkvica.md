@@ -24,7 +24,7 @@ biber
 jabukovo sirće  
 ulje
 
-[<img class="alignnone size-medium wp-image-9585" src="//superkuvar.com/wp-content/uploads/2015/04/salataodrotkvica-300x225.jpg" alt="salataodrotkvica" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/04/salataodrotkvica-e1430747553636.jpg)
+[<img class="alignnone size-medium wp-image-9585" src="/wp-content/uploads/2015/04/salataodrotkvica-300x225.jpg" alt="salataodrotkvica" width="300" height="225" />](/wp-content/uploads/2015/04/salataodrotkvica-e1430747553636.jpg)
 
 Priprema: rotkvice očistiti, dobro oprati i iseći na kolutove. Mladi crni luk očistiti, oprati i zajedno sa percima isitniti. Isečene rotkvice i mladi crni luk staviti u činiju za salatu, posoliti, pobiberiti, dodati jabukovo sirće i ulje. Salatu dobro izmešati.
 

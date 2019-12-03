@@ -32,7 +32,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5178" src="//superkuvar.com/wp-content/uploads/2013/01/Zapečenihlebsašunkom-300x225.jpg" alt="Zapečenihlebsašunkom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5178" src="/wp-content/uploads/2013/01/Zapečenihlebsašunkom-300x225.jpg" alt="Zapečenihlebsašunkom" width="300" height="225" /> 
 
 Priprema: hleb iseći na tanje kriške. Pleh podmazati uljem, poređati kriške hleba i poprskati ih mlekom. Na svaku krišku staviti list kačkavalja, a preko njega režanj šunke ili suvog vrata.
 

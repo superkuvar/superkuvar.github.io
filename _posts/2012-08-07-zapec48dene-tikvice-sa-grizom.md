@@ -32,7 +32,7 @@ Potrebno je:
   * šoljica mleka
   * šoljica ulja
 
-<img class="alignnone size-medium wp-image-3910" title="Zapecenetikvicesagrizom" src="//superkuvar.com/wp-content/uploads/2012/08/Zapecenetikvicesagrizom-e1344333126907-300x237.jpg" alt="" width="300" height="237" /> 
+<img class="alignnone size-medium wp-image-3910" title="Zapecenetikvicesagrizom" src="/wp-content/uploads/2012/08/Zapecenetikvicesagrizom-e1344333126907-300x237.jpg" alt="" width="300" height="237" /> 
 
 Priprema: tikvice oprati, oljuštiti i narendati na krupno rende. Kačkavalj takođe krupno narendati.
 

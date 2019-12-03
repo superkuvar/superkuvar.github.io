@@ -26,7 +26,7 @@ Potrebno je:
   * veća pomorandža
   * 1 limun
 
-[<img class="alignnone size-medium wp-image-9070" src="//superkuvar.com/wp-content/uploads/2011/12/kugliceodsmokavaioraha-300x225.jpg" alt="kugliceodsmokavaioraha" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/12/kugliceodsmokavaioraha.jpg)
+[<img class="alignnone size-medium wp-image-9070" src="/wp-content/uploads/2011/12/kugliceodsmokavaioraha-300x225.jpg" alt="kugliceodsmokavaioraha" width="300" height="225" />](/wp-content/uploads/2011/12/kugliceodsmokavaioraha.jpg)
 
 Priprema: na mašini za mlevenje mesa samleti smokve dva puta. U posudi za mešenje izmešati samlevene smokve, mlevene orahe, šećer i rum, pa postepeno dodavati sok od pomorandže i limuna da se zamesi srednje tvrda masa.
 

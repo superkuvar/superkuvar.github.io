@@ -41,7 +41,7 @@ Potrebno je:
   * kašičica cimeta
   * kašičica đumbira u prahu
 
-<img class="alignnone size-medium wp-image-5243" src="//superkuvar.com/wp-content/uploads/2013/02/Integralnikolačsajabukama-300x225.jpg" alt="Integralnikolačsajabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5243" src="/wp-content/uploads/2013/02/Integralnikolačsajabukama-300x225.jpg" alt="Integralnikolačsajabukama" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, kiselo mleko i sok od limuna.
 

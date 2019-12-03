@@ -31,7 +31,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-full wp-image-1021" title="musakakarfiol" src="//superkuvar.com/wp-content/uploads/2011/06/musakakarfiol-e1307535348226.jpg" alt="" width="247" height="161" /> 
+<img class="alignnone size-full wp-image-1021" title="musakakarfiol" src="/wp-content/uploads/2011/06/musakakarfiol-e1307535348226.jpg" alt="" width="247" height="161" /> 
 
 Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Glavicu crnog luka očistiti, sitno iseckati i propržiti na ulju. Kada luk postane staklast dodati meso, so i biber, pa još malo pržiti.
 

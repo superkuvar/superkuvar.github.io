@@ -31,7 +31,7 @@ Potrebno je:
   * brašno
   * ulje
 
-<img class="alignnone size-full wp-image-607" title="zapecenepohovanetikvice" src="//superkuvar.com/wp-content/uploads/2011/05/zapecenepohovanetikvice1.jpg" alt="" width="280" height="142" /> 
+<img class="alignnone size-full wp-image-607" title="zapecenepohovanetikvice" src="/wp-content/uploads/2011/05/zapecenepohovanetikvice1.jpg" alt="" width="280" height="142" /> 
 
 Priprema: tikvice oprati, oljuštiti, pa iseći po dužini na tanke kriške. Posoliti i ostaviti desetak minuta da omekšaju i puste sok. Tikvice zatim ocediti. Svaku krišku uvaljati u brašno, umočiti u jaja, pa u prezle a zatim pržiti sa obe strane na ulju.
 

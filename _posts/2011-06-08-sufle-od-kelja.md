@@ -33,7 +33,7 @@ Potrebno je:
   * 4 kašike prezli
   * margarin
 
-<img class="alignnone size-full wp-image-1011" title="suflekelj" src="//superkuvar.com/wp-content/uploads/2011/06/suflekelj-e1307527770790.jpg" alt="" width="216" height="167" /> 
+<img class="alignnone size-full wp-image-1011" title="suflekelj" src="/wp-content/uploads/2011/06/suflekelj-e1307527770790.jpg" alt="" width="216" height="167" /> 
 
 Priprema: glavicu kelja očistiti, oprati, izrezati na četiri dela i obariti u slanoj vodi. Zatim kelj ocediti, ohladiti i sitno iseckati.
 

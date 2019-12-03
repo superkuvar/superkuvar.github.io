@@ -21,7 +21,7 @@ Potrebno je:
   * šećer
   * cimet
 
-<img class="alignnone size-medium wp-image-2341" title="Pecena tikva (3)" src="//superkuvar.com/wp-content/uploads/2012/01/Pecena-tikva-3-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2341" title="Pecena tikva (3)" src="/wp-content/uploads/2012/01/Pecena-tikva-3-300x225.jpg" alt="" width="300" height="225" /> 
 
 Bundeva (tikva, ludaja, dulek&#8230;) doneta je u Evropu u 16. veku iz Perua i Meksika. Ovo niskokalorično povrće bogato je različitim vitaminima, mineralima i biljnim vlaknima. Pored toga što je hranljiva, ima i lekovito dejstvo.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * paketić svežeg kvasca
   * žumance (za premazivanje)
 
-<img class="alignnone size-medium wp-image-5152" src="//superkuvar.com/wp-content/uploads/2013/01/Praznična-pogača-300x225.jpg" alt="Praznična pogača" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5152" src="/wp-content/uploads/2013/01/Praznična-pogača-300x225.jpg" alt="Praznična pogača" width="300" height="225" /> 
 
 Priprema: u malo mlakog mleka u koje je dodata kašičica šećera i dve kašike brašna razmutiti izmrvljen kvasac. Promešati i ostaviti na toplom dvadesetak minuta, da kvasac nadođe.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * so
   * kisela pavlaka
 
-<img class="alignnone size-full wp-image-789" title="corbaodkoprivaipovrca" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodkoprivaipovrca.jpg" alt="" width="231" height="218" /> 
+<img class="alignnone size-full wp-image-789" title="corbaodkoprivaipovrca" src="/wp-content/uploads/2011/03/corbaodkoprivaipovrca.jpg" alt="" width="231" height="218" /> 
 
 Priprema: koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
 

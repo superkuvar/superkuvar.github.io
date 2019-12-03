@@ -30,7 +30,7 @@ Potrebno je:
   * spanać (200 grama)
   * so
 
-[<img class="alignnone size-medium wp-image-9140" src="//superkuvar.com/wp-content/uploads/2014/05/zeljaniksaspanacem-300x225.jpg" alt="zeljaniksaspanacem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/05/zeljaniksaspanacem.jpg)
+[<img class="alignnone size-medium wp-image-9140" src="/wp-content/uploads/2014/05/zeljaniksaspanacem-300x225.jpg" alt="zeljaniksaspanacem" width="300" height="225" />](/wp-content/uploads/2014/05/zeljaniksaspanacem.jpg)
 
 Priprema: umutiti žumanca viljuškom, pa dodati ulje i jogurt i dobro izmešati. Zatim dodati brašno pomešano sa praškom za pecivo i solju. Testo izmešati varjačom, pa dodati izmrvljen sir i spanać iseckan na rezance. Belanca umutiti u čvrst sneg i lagano umešati u testo.
 

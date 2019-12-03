@@ -34,7 +34,7 @@ Potrebno je:
   * 1 krompir
   * ulje
 
-[<img class="alignnone size-medium wp-image-6119" src="//superkuvar.com/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom-300x225.jpg" alt="Zapecenepunjepaprikesapatlidzanom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom.jpg)
+[<img class="alignnone size-medium wp-image-6119" src="/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom-300x225.jpg" alt="Zapecenepunjepaprikesapatlidzanom" width="300" height="225" />](/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom.jpg)
 
 Priprema: plavi patlidžan oprati, oljuštiti, isitniti na kockice, posoliti i ostaviti da odstoji 20 minuta. Zatim patlidžan ocediti od vode koju je pustio.
 

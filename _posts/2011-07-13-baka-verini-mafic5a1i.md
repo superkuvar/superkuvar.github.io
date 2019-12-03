@@ -26,7 +26,7 @@ Potrebno je:
   * kesica vanilin šećera
   * ulje za prženje
 
-<img class="alignnone size-medium wp-image-5897" src="//superkuvar.com/wp-content/uploads/2011/07/Baka-Verini-mafisi-e1373874189992-300x236.jpg" alt="Baka Verini mafisi" width="300" height="236" /> 
+<img class="alignnone size-medium wp-image-5897" src="/wp-content/uploads/2011/07/Baka-Verini-mafisi-e1373874189992-300x236.jpg" alt="Baka Verini mafisi" width="300" height="236" /> 
 
 Priprema: zamesiti brašno i žumanca sa malo vode, da se dobije testo kao za rezance za supu. Belanca umutiti sa šećerom i vanilom u čvrst sneg, kao za puslice.
 

@@ -21,7 +21,7 @@ Potrebno je:
   * pola kesice praška za pecivo
   * voda
 
-<img class="alignnone size-medium wp-image-2909" title="Lepinje sa ringle" src="//superkuvar.com/wp-content/uploads/2012/04/Lepinje-sa-ringle-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2909" title="Lepinje sa ringle" src="/wp-content/uploads/2012/04/Lepinje-sa-ringle-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud za mešenje staviti brašno, malo soli i prašak za pecivo. U brašno sipati onoliko mlake vode koliko je potrebno da se zamesi mekše testo. Testo dobro izraditi rukama.
 

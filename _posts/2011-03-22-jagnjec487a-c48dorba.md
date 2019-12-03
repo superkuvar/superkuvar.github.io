@@ -47,7 +47,7 @@ Potrebno je:
   * kašika kisele pavlake
   * seckani peršunov list
 
-<img class="alignnone size-full wp-image-807" title="jagnjecacorba" src="//superkuvar.com/wp-content/uploads/2011/03/jagnjecacorba-e1306838031484.jpg" alt="" width="253" height="150" /> 
+<img class="alignnone size-full wp-image-807" title="jagnjecacorba" src="/wp-content/uploads/2011/03/jagnjecacorba-e1306838031484.jpg" alt="" width="253" height="150" /> 
 
 Priprema: jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i isitnjenu zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.
 

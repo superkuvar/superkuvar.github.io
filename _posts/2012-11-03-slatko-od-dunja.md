@@ -26,7 +26,7 @@ Potrebno je:
   * 2,5 kilograma šećera
   * 2 limuna
 
-<img class="alignnone size-medium wp-image-4617" title="Dunje (2)" src="//superkuvar.com/wp-content/uploads/2012/11/Dunje-2-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4617" title="Dunje (2)" src="/wp-content/uploads/2012/11/Dunje-2-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: dunje oprati, posušiti, oljuštiti, iseći na sitnije kocke i svaku odmah stavljati u hladnu vodu, da ne bi potamnele. Dunje prokuvati u toj istoj vodi (oko pet minuta), a zatim staviti u cediljku da se ocede.
 

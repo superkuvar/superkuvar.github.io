@@ -24,7 +24,7 @@ Potrebno je:
   * kašičica šećera
   * mlaka voda
 
-[<img class="alignnone size-medium wp-image-6082" src="//superkuvar.com/wp-content/uploads/2013/08/Brza-pogaca-300x225.jpg" alt="Brza pogaca" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Brza-pogaca.jpg)
+[<img class="alignnone size-medium wp-image-6082" src="/wp-content/uploads/2013/08/Brza-pogaca-300x225.jpg" alt="Brza pogaca" width="300" height="225" />](/wp-content/uploads/2013/08/Brza-pogaca.jpg)
 
 Priprema: u malo mlake vode staviti kašičicu šećera i izmrvljen kvasac, pa ostaviti na toplom da nadođe.
 

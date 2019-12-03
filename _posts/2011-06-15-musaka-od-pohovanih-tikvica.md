@@ -30,7 +30,7 @@ Potrebno je:
   * brašno
   * ulje
 
-<img class="alignnone size-full wp-image-1101" title="musakaatikvice" src="//superkuvar.com/wp-content/uploads/2011/06/musakaatikvice-e1308140056453.jpg" alt="" width="252" height="166" /> 
+<img class="alignnone size-full wp-image-1101" title="musakaatikvice" src="/wp-content/uploads/2011/06/musakaatikvice-e1308140056453.jpg" alt="" width="252" height="166" /> 
 
 Priprema: tikvice oljuštiti (ako su mlade, nije potrebno), iseći na tanake režnjeve, posoliti i ostaviti da puste vodu. Tikvice zatim ocediti, uvaljati u bašno, pa u umućeno jaje i pržiti na vrelom ulju.
 

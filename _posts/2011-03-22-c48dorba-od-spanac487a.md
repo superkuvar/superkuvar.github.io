@@ -33,7 +33,7 @@ Potrebno je:
   * so
   * kašičica aleve paprike
 
-<img class="alignnone size-medium wp-image-4657" title="Corbaspanac" src="//superkuvar.com/wp-content/uploads/2011/03/Corbaspanac-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4657" title="Corbaspanac" src="/wp-content/uploads/2011/03/Corbaspanac-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti, dobro oprati, preliti ključalom vodom i ocediti. Oceđen spanać iseći na rezance, pa ga sa opranim pirinčem spustiti u lonac i preliti litrom i po vrele vode. Čorbu kuvati 15 minuta na umerenoj vatri.
 

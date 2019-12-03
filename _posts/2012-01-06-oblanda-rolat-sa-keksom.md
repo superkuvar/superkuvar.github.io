@@ -38,7 +38,7 @@ Potrebno je:
   * komadić margarina
   * kašika šećera
 
-<img class="alignnone size-medium wp-image-4584" title="Oblanda rolat sa keksom" src="//superkuvar.com/wp-content/uploads/2012/01/Oblanda-rolat-sa-keksom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4584" title="Oblanda rolat sa keksom" src="/wp-content/uploads/2012/01/Oblanda-rolat-sa-keksom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: listove oblande staviti na vlažnu salvetu da omekšaju, da se ne bi lomili prilikom uvijanja rolata.
 

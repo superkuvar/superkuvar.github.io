@@ -41,7 +41,7 @@ Potrebno je:
   * čaša milerama
   * ulje
 
-[<img class="alignnone size-medium wp-image-6241" src="//superkuvar.com/wp-content/uploads/2013/11/Mesanamusaka-300x225.jpg" alt="Mesanamusaka" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/11/Mesanamusaka.jpg)
+[<img class="alignnone size-medium wp-image-6241" src="/wp-content/uploads/2013/11/Mesanamusaka-300x225.jpg" alt="Mesanamusaka" width="300" height="225" />](/wp-content/uploads/2013/11/Mesanamusaka.jpg)
 
 Priprema: očistiti crni luk, sitno ga iseckati i propržiti na ulju. Paradajz oljuštiti, isitniti, dodati u luk i malo propržiti.
 

@@ -31,7 +31,7 @@ kari
 ulje  
 peršunov list
 
-[<img class="alignnone size-medium wp-image-10795" src="//superkuvar.com/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-300x225.jpg" alt="kremcorbaodbundeveikrompira" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-e1450076004418.jpg)
+[<img class="alignnone size-medium wp-image-10795" src="/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-300x225.jpg" alt="kremcorbaodbundeveikrompira" width="300" height="225" />](/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-e1450076004418.jpg)
 
 Priprema: očistiti crni luk, isitniti ga i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kockice. Bundevu oprati, oljuštiti i narendati.
 

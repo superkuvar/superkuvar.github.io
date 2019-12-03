@@ -29,7 +29,7 @@ Potrebno je:
   * 2 jaja
   * čaša kisele pavlake ili milerama
 
-<img class="alignnone size-full wp-image-677" title="musakasaspanacem" src="//superkuvar.com/wp-content/uploads/2011/04/musakasaspanacem.jpg" alt="" width="240" height="179" /> 
+<img class="alignnone size-full wp-image-677" title="musakasaspanacem" src="/wp-content/uploads/2011/04/musakasaspanacem.jpg" alt="" width="240" height="179" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i pržiti na ulju, da postane staklast.
 

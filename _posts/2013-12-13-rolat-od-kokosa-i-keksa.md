@@ -29,7 +29,7 @@ Potrebno je:
 • kokosovo brašno (200 g)  
 • 100 g žele bombona
 
-[<img class="alignnone size-medium wp-image-6325" src="//superkuvar.com/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3-300x225.jpg" alt="Rolat sa zele-bombon. 3" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3.jpg)
+[<img class="alignnone size-medium wp-image-6325" src="/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3-300x225.jpg" alt="Rolat sa zele-bombon. 3" width="300" height="225" />](/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3.jpg)
 
 Priprema: keks, 150 grama šećera i kakao izmešati sa mlekom da se dobije masa ni mnogo gusta ni retka. Masu podeliti na dva jednaka dela, da bi se dobila dva rolata. Svaki deo rastanjiti na aluminijumskoj foliji do debljine od pola santimetra. Foliju prethodno posuti šećerom u prahu, da se testo ne bi lepilo.
 

@@ -37,7 +37,7 @@ Potrebno je:
   * kašika brašna
   * čaša ulja
 
-<img class="alignnone size-medium wp-image-5111" src="//superkuvar.com/wp-content/uploads/2013/01/Posnasarmasaorasima-e1358614141576.jpg" alt="Posnasarmasaorasima" width="295" height="221" /> 
+<img class="alignnone size-medium wp-image-5111" src="/wp-content/uploads/2013/01/Posnasarmasaorasima-e1358614141576.jpg" alt="Posnasarmasaorasima" width="295" height="221" /> 
 
 Priprema: odvojiti listove na glavici kupusa i ukloniti žilu u sredini svakog lista. Ukoliko je kupus mnogo kiseo ili slan, oprati ga u hladnoj vodi.
 

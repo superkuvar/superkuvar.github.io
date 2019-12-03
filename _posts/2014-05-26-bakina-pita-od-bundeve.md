@@ -30,7 +30,7 @@ Potrebno je:
   * narendana bundeva (500 grama)
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9156" src="//superkuvar.com/wp-content/uploads/2014/05/Bakinapitaodbundeve-300x225.jpg" alt="Bakinapitaodbundeve" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/05/Bakinapitaodbundeve.jpg)
+[<img class="alignnone size-medium wp-image-9156" src="/wp-content/uploads/2014/05/Bakinapitaodbundeve-300x225.jpg" alt="Bakinapitaodbundeve" width="300" height="225" />](/wp-content/uploads/2014/05/Bakinapitaodbundeve.jpg)
 
 Priprema: treba napraviti dva fila, beli i žuti.
 

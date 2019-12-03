@@ -29,7 +29,7 @@ Potrebno je:
   * suvi biljni začin
   * so
 
-<img class="alignnone size-full wp-image-628" title="blitvasakrompirom" src="//superkuvar.com/wp-content/uploads/2011/05/blitvasakrompirom.jpg" alt="" width="256" height="192" /> 
+<img class="alignnone size-full wp-image-628" title="blitvasakrompirom" src="/wp-content/uploads/2011/05/blitvasakrompirom.jpg" alt="" width="256" height="192" /> 
 
 Priprema: očišćenu i opranu blitvu obariti u posoljenoj vodi. Posebno obariti oljušten krompir i iseći ga na kocke.
 

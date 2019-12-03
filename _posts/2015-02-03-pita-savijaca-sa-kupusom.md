@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * kašičica aleve paprike
 
-[<img class="alignnone size-medium wp-image-9381" src="//superkuvar.com/wp-content/uploads/2015/02/pitasavijacasakupusom-300x225.jpg" alt="pitasavijacasakupusom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/02/pitasavijacasakupusom.jpg)
+[<img class="alignnone size-medium wp-image-9381" src="/wp-content/uploads/2015/02/pitasavijacasakupusom-300x225.jpg" alt="pitasavijacasakupusom" width="300" height="225" />](/wp-content/uploads/2015/02/pitasavijacasakupusom.jpg)
 
 Priprema: kupus očistiti, oprati i sitno iseći (kao za salatu) ili narendati na krupno rende.
 

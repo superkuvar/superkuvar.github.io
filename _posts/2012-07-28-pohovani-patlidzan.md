@@ -25,7 +25,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-3840" title="Pohovani patlidzan" src="//superkuvar.com/wp-content/uploads/2012/07/Pohovani-patlidzan-e1343487845493-300x237.jpg" alt="" width="300" height="237" /> 
+<img class="alignnone size-medium wp-image-3840" title="Pohovani patlidzan" src="/wp-content/uploads/2012/07/Pohovani-patlidzan-e1343487845493-300x237.jpg" alt="" width="300" height="237" /> 
 
 Priprema: patlidžan oprati, oljuštiti, iseći na režnjeve (ili kolutove) debljine oko pola santimetra, posoliti i ostaviti da odstoji 30 minuta. Nakon toga režnjeve patlidžana malo pritisnuti između dlanova, da bi se ocedili od vode koju su pustili.
 

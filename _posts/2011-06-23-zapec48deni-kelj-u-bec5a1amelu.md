@@ -34,7 +34,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-4887" title="Zapeceni kelj u besamelu" src="//superkuvar.com/wp-content/uploads/2011/06/Zapeceni-kelj-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4887" title="Zapeceni kelj u besamelu" src="/wp-content/uploads/2011/06/Zapeceni-kelj-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kelj očistiti, oprati, iseći na četvrtine i obariti u posoljenoj vodi u koju su dodata dva čena belog luka. Obaren kelj ocediti i iseći na krupnije režnjeve.
 

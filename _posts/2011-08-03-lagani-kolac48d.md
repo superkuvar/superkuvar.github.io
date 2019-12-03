@@ -33,7 +33,7 @@ Potrebno je:
   * prah šećer
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5268" src="//superkuvar.com/wp-content/uploads/2011/08/Lagani-kolač-e1360945924342-300x188.jpg" alt="Lagani kolač" width="300" height="188" /> 
+<img class="alignnone size-medium wp-image-5268" src="/wp-content/uploads/2011/08/Lagani-kolač-e1360945924342-300x188.jpg" alt="Lagani kolač" width="300" height="188" /> 
 
 Priprema: umutiti jaja sa šećerom, dodati ulje i džem, umešati brašno, prašak za pecivo, narendane jabuke i cimet.
 

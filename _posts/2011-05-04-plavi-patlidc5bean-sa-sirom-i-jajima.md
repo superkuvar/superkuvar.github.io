@@ -32,7 +32,7 @@ Potrebno je:
   * biljni začin
   * peršunov list
 
-<img class="alignnone size-full wp-image-663" title="zapecenipatlidzan" src="//superkuvar.com/wp-content/uploads/2011/05/zapecenipatlidzan.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-663" title="zapecenipatlidzan" src="/wp-content/uploads/2011/05/zapecenipatlidzan.jpg" alt="" width="259" height="194" /> 
 
 Priprema: crni luk očistiti i sitno iseckati. Plavi patlidžan oljuštiti, pa isitniti na kocke.
 

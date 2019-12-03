@@ -40,7 +40,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4650" title="Patlidzan sa besamelom" src="//superkuvar.com/wp-content/uploads/2012/11/Patlidzan-sa-besamelom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4650" title="Patlidzan sa besamelom" src="/wp-content/uploads/2012/11/Patlidzan-sa-besamelom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti, iseći na kockice i prodinstati na malo ulja. Posoliti i pobiberiti.
 

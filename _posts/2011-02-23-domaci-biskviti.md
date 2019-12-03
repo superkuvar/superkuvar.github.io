@@ -30,7 +30,7 @@ malo strugane kore od limuna
 malo sode bikarbone  
 1 kašika mleka
 
-<img class="alignnone size-medium wp-image-5699" src="//superkuvar.com/wp-content/uploads/2011/02/Kolacici-300x225.jpg" alt="Kolacici" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5699" src="/wp-content/uploads/2011/02/Kolacici-300x225.jpg" alt="Kolacici" width="300" height="225" /> 
 
 Priprema: prosejati na radnoj površini brašno, dodati jaja, šećer u prahu, maslac, malo strugane limunove kore, malo sode bikarbone i kašiku mleka.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * bosiljak
   * ulje
 
-<img class="alignnone size-medium wp-image-2874" title="Mamini rezanci sa povrćem" src="//superkuvar.com/wp-content/uploads/2012/04/Mamini-rezanci-sa-povr%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2874" title="Mamini rezanci sa povrćem" src="/wp-content/uploads/2012/04/Mamini-rezanci-sa-povr%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na malo prethodno zagrejanog ulja. šargarepu oprati, očistiti i izrendati. U propržen luk dodati šargarepu i još malo pržiti.
 

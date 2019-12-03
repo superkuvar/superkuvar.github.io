@@ -27,7 +27,7 @@ Potrebno je:
   * biber
   * muskatni oraščić
 
-<img class="alignnone size-full wp-image-705" title="zapecenikrompirmladi" src="//superkuvar.com/wp-content/uploads/2011/03/zapecenikrompirmladi.jpg" alt="" width="176" height="132" /> 
+<img class="alignnone size-full wp-image-705" title="zapecenikrompirmladi" src="/wp-content/uploads/2011/03/zapecenikrompirmladi.jpg" alt="" width="176" height="132" /> 
 
 Priprema: krupniji mladi krompir oljuštiti, oprati i iseći na režnjeve. Zatim ga posoliti, pobiberiti i posuti sa malo narendanog muskatnog oraščića.
 

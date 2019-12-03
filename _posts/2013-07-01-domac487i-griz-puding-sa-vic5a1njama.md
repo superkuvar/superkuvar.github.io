@@ -23,7 +23,7 @@ Potrebno je:
   * 4-5 kašika šećera
   * griz (5 kašika)
 
-<img class="alignnone size-medium wp-image-5847" src="//superkuvar.com/wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-300x225.jpg" alt="Domacigrizpudingsavisnjama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5847" src="/wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-300x225.jpg" alt="Domacigrizpudingsavisnjama" width="300" height="225" /> 
 
 Priprema: višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
 

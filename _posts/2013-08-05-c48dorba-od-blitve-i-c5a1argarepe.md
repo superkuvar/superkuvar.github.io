@@ -35,7 +35,7 @@ Potrebno je:
   * kisela pavlaka
   * ulje
 
-<img class="alignnone size-medium wp-image-5958" src="//superkuvar.com/wp-content/uploads/2013/08/Corbaodblitveisargarepe-300x225.jpg" alt="Corbaodblitveisargarepe" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5958" src="/wp-content/uploads/2013/08/Corbaodblitveisargarepe-300x225.jpg" alt="Corbaodblitveisargarepe" width="300" height="225" /> 
 
 Priprema: očišćen crni luk sitno iseckati i propržiti na ulju. Dodati šargarepu isitnjenu na kockice i još malo pržiti.
 

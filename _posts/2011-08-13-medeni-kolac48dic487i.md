@@ -30,7 +30,7 @@ Potrebno je:
   * 2 jajeta
   * 150 g šećera u prahu
 
-<img class="alignnone size-full wp-image-1716" title="medenikolaci" src="//superkuvar.com/wp-content/uploads/2011/08/medenikolaci-e1313248802249.jpg" alt="" width="258" height="163" /> 
+<img class="alignnone size-full wp-image-1716" title="medenikolaci" src="/wp-content/uploads/2011/08/medenikolaci-e1313248802249.jpg" alt="" width="258" height="163" /> 
 
 Priprema: u posudu za mešenje sipati orahe, žumanca, brašno, sodu bikarbonu, šećer, med, sok i koru od limuna, cimet i vanilin šećer. Od ovih sastojaka zamesiti testo, pa ga ostaviti da se odmara oko pola sata.
 

@@ -32,7 +32,7 @@ Potrebno je:
   * 3 štangle čokolade za kuvanje
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9326" src="//superkuvar.com/wp-content/uploads/2012/01/salamasaorasimaisuvimgrozdjem-300x225.jpg" alt="salamasaorasimaisuvimgrozdjem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2012/01/salamasaorasimaisuvimgrozdjem.jpg)
+[<img class="alignnone size-medium wp-image-9326" src="/wp-content/uploads/2012/01/salamasaorasimaisuvimgrozdjem-300x225.jpg" alt="salamasaorasimaisuvimgrozdjem" width="300" height="225" />](/wp-content/uploads/2012/01/salamasaorasimaisuvimgrozdjem.jpg)
 
 Priprema: sipati šećer u šerpu, preliti ga sa dva decilitra vode, staviti na štednjak i ušpinovati, ređe nego za slatko. Gotov sirup skloniti sa vatre, pa u njega dodati mlevene i seckane orahe, izrendanu čokoladu, seckane žele bombone i suvo gožđe, prethodno natopljeno u rumu.
 

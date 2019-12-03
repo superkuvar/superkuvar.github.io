@@ -37,7 +37,7 @@ Glazura
   * kašika šećera
   * 2 kašike mleka
 
-<img class="alignnone size-medium wp-image-5787" src="//superkuvar.com/wp-content/uploads/2011/12/Kokosstanglice-300x225.jpg" alt="Kokosstanglice" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5787" src="/wp-content/uploads/2011/12/Kokosstanglice-300x225.jpg" alt="Kokosstanglice" width="300" height="225" /> 
 
 Priprema: u šerpu sipati šećer i mleko i staviti na štednjak da se kuva. Kada provri, dodati margarin, keks i kokosovo brašno, pa kratko prokuvati. Sipati u pleh obložen aluminijumskom folijom i rastanjiti na debljinu od oko dva santimetra.
 

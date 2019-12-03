@@ -30,7 +30,7 @@ Potrebno je:
   * 450 g brašna
   * pola kesice praška za pecivo
 
-<img class="alignnone size-medium wp-image-5511" src="//superkuvar.com/wp-content/uploads/2011/12/Kiflice-sa-orasima-300x225.jpg" alt="Kiflice sa orasima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5511" src="/wp-content/uploads/2011/12/Kiflice-sa-orasima-300x225.jpg" alt="Kiflice sa orasima" width="300" height="225" /> 
 
 Priprema: umutiti penasto margarin sa šećerom, pa dodati jaja, mlevene orahe, brašno i prašak za pecivo.
 

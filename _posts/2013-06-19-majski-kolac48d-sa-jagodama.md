@@ -33,7 +33,7 @@ Potrebno je:
   * kesica pudinga od jagode
   * kesica šlaga
 
-<img class="alignnone size-medium wp-image-5805" src="//superkuvar.com/wp-content/uploads/2013/06/Majskikolacsajagodama-300x225.jpg" alt="Majskikolacsajagodama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5805" src="/wp-content/uploads/2013/06/Majskikolacsajagodama-300x225.jpg" alt="Majskikolacsajagodama" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati brašno i gustin. Testo lagano izmešati i sipati u pleh prekriven papirom za pečenje. Patišpanj peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 

@@ -29,7 +29,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-full wp-image-933" title="sargarepasapavlakom" src="//superkuvar.com/wp-content/uploads/2011/06/sargarepasapavlakom-e1307102717801.jpg" alt="" width="237" height="160" /> 
+<img class="alignnone size-full wp-image-933" title="sargarepasapavlakom" src="/wp-content/uploads/2011/06/sargarepasapavlakom-e1307102717801.jpg" alt="" width="237" height="160" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i izdinstati na ulju. šargarepu očistiti, oprati i iseći na kolutove ili kockice.
 

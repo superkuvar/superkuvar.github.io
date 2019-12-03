@@ -22,7 +22,7 @@ Potrebno je:
   * so
   * sirće
 
-<img class="alignnone size-medium wp-image-4236" title="Feferoni" src="//superkuvar.com/wp-content/uploads/2012/09/Feferoni-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4236" title="Feferoni" src="/wp-content/uploads/2012/09/Feferoni-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
 

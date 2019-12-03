@@ -26,7 +26,7 @@ ulje
 jabukovo sirće  
 čaša kisele pavlake
 
-[<img class="alignnone size-medium wp-image-9582" src="//superkuvar.com/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-300x225.jpg" alt="salataodrotkvicasapavlakom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-e1430747430946.jpg)
+[<img class="alignnone size-medium wp-image-9582" src="/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-300x225.jpg" alt="salataodrotkvicasapavlakom" width="300" height="225" />](/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-e1430747430946.jpg)
 
 Priprema: rotkvice i crni luk očistiti i dobro oprati. Oprane neoljuštene rotkvice iseći na tanke kolutove. Crni luk,takođe, zajedno sa percima sitno iseći.  
 Isečene rotkvice i luk staviti u činiju za salatu. U posebnoj posudi pomešati ulje, jabukovo sirće, so, biber i kiselu pavlaku. Ovim preliti rotkvice i luk i dobro izmešati.

@@ -31,7 +31,7 @@ Potrebno je:
   * ulje
   * kuvani pirinač
 
-<img class="alignnone size-medium wp-image-2592" title="Pirinač sa belim mesom i pečurkama" src="//superkuvar.com/wp-content/uploads/2012/02/Pirina%C4%8D-sa-belim-mesom-i-pe%C4%8Durkama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2592" title="Pirinač sa belim mesom i pečurkama" src="/wp-content/uploads/2012/02/Pirina%C4%8D-sa-belim-mesom-i-pe%C4%8Durkama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: praziluk oprati, iseckati i izdinstati na ulju. Pri kraju dodati belo pileće meso isečeno na kockice i pečurke isečene na listiće. Doliti malo tople vode i dinstati na umerenoj temperaturi.
 

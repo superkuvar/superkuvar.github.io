@@ -35,7 +35,7 @@ Potrebno je:
   * 2 jajeta
   * 2,5 dl mleka
 
-<img class="alignnone size-medium wp-image-4692" title="Musaka od kupusa" src="//superkuvar.com/wp-content/uploads/2012/11/Musaka-od-kupusa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4692" title="Musaka od kupusa" src="/wp-content/uploads/2012/11/Musaka-od-kupusa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kupus očistiti, oprati i iseći na rezance ili naribati na krupnoj trenici, a zatim ga izdinstati na malo ulja. Prilikom dinstanja dolivati po malo tople vode. Kupus posoliti i kad omekša, pobiberiti.
 

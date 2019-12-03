@@ -26,7 +26,7 @@ Potrebno je:
   * so
   * ulje (1 kašika)
 
-<img class="alignnone size-medium wp-image-3542" title="Taratorsalata" src="//superkuvar.com/wp-content/uploads/2012/06/Taratorsalata-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3542" title="Taratorsalata" src="/wp-content/uploads/2012/06/Taratorsalata-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krastavce oprati, oljuštiti, narendati na krupno rende ili iseći na što sitnije kockice i posoliti.
 

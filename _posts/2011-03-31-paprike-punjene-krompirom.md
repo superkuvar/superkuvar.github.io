@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-4026" title="Paprike punjene krompirom" src="//superkuvar.com/wp-content/uploads/2011/03/Paprike-punjene-krompirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4026" title="Paprike punjene krompirom" src="/wp-content/uploads/2011/03/Paprike-punjene-krompirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, iseckati na rebarca i ispržiti na ulju, da postane staklast. Krompir i šargarepu oprati, očistiti i istrugati na trenici, pa dodati u luk i još malo propržiti. Posoliti, dodati biber, suvi biljni začin i seckani list peršuna.
 

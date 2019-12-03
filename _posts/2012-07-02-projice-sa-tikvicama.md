@@ -31,7 +31,7 @@ Potrebno je:
   * 100 grama kukuruznog griza
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-3644" title="Projicesatikvicama" src="//superkuvar.com/wp-content/uploads/2012/07/Projicesatikvicama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3644" title="Projicesatikvicama" src="/wp-content/uploads/2012/07/Projicesatikvicama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvicu oprati, oljuštiti i krupno narendati. U posudu za mešenje staviti narendanu tikvicu, jaja, ulje, izmrvljen sir, jogurt, so, malo bibera, kukuruzno brašno, kukuruzni griz i prašak za pecivo. Testo za projice izmešati varjačom i sipati u kalup za projice obložen papirnim korpicama.
 

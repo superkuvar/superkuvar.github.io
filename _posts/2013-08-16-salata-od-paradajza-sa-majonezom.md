@@ -27,7 +27,7 @@ Potrebno je:
   * so
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-6027" src="//superkuvar.com/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-300x225.jpg" alt="Salata od paradajza sa majonezom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-e1376635596763.jpg)
+[<img class="alignnone size-medium wp-image-6027" src="/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-300x225.jpg" alt="Salata od paradajza sa majonezom" width="300" height="225" />](/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-e1376635596763.jpg)
 
 Priprema: paradajz oprati i iseći na kriške. Tvrdo kuvana jaja iseći na kockice.
 

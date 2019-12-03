@@ -34,7 +34,7 @@ Potrebno je:
   * 1 kašika gustina
   * ulje
 
-<img class="alignnone size-medium wp-image-5910" src="//superkuvar.com/wp-content/uploads/2013/07/Musakaodboranijeikrompira-300x225.jpg" alt="Musakaodboranijeikrompira" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5910" src="/wp-content/uploads/2013/07/Musakaodboranijeikrompira-300x225.jpg" alt="Musakaodboranijeikrompira" width="300" height="225" /> 
 
 Priprema: boraniju očistiti, oprati, iseći na polovine i obariti u posoljenoj vodi. Kada je boranija gotova ocediti je.
 

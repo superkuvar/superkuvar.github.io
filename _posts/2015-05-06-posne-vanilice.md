@@ -27,7 +27,7 @@ džem (od kajsija ili šipka)
 šećer u prahu  
 kesica vanilin šećera
 
-[<img class="alignnone size-medium wp-image-9614" src="//superkuvar.com/wp-content/uploads/2015/05/vanilice-300x225.jpg" alt="vanilice" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/05/vanilice-e1430921141157.jpg)
+[<img class="alignnone size-medium wp-image-9614" src="/wp-content/uploads/2015/05/vanilice-300x225.jpg" alt="vanilice" width="300" height="225" />](/wp-content/uploads/2015/05/vanilice-e1430921141157.jpg)
 
 Priprema: penasto umutiti margarin sa šećerom, dodati sok od limuna i brašno pomešano sa praškom za pecivo. Umesiti glatko testo.
 

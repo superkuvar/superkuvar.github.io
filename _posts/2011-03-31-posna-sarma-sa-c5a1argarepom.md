@@ -37,7 +37,7 @@ Potrebno je:
   * ulje
   * čaša kisele pavlake (po želji)
 
-<img class="alignnone size-medium wp-image-4795" title="Posna sarma sa sargarepom" src="//superkuvar.com/wp-content/uploads/2011/03/Posna-sarma-sa-sargarepom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4795" title="Posna sarma sa sargarepom" src="/wp-content/uploads/2011/03/Posna-sarma-sa-sargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: luk očistiti, iseći na rebarca i propržiti. Kada je gotov, dodati krupno istruganu šargarepu, očišćen, opran i prethodno obaren pirinač, so, suvi biljni začin i biber, pa još kratko propržiti. Pripremljenim filom nadevati listove kupusa i uvijati sarme.
 

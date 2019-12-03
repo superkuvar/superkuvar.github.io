@@ -25,7 +25,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-full wp-image-1057" title="dzigericausenfu" src="//superkuvar.com/wp-content/uploads/2011/06/dzigericausenfu-e1307707883222.jpg" alt="" width="210" height="159" /> 
+<img class="alignnone size-full wp-image-1057" title="dzigericausenfu" src="/wp-content/uploads/2011/06/dzigericausenfu-e1307707883222.jpg" alt="" width="210" height="159" /> 
 
 Priprema: na vrelom ulju propržiti iseckani crni luk da postane staklast, dodati džigericu iseckanu na komadiće, prodinstati a zatim umešati brašno, senf, malo bibera, a po potrebi doliti još malo tople vode.
 

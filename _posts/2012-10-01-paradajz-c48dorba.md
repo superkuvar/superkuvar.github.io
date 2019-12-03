@@ -36,7 +36,7 @@ Potrebno je:
   * bosiljak
   * malo ulja
 
-<img class="alignnone size-medium wp-image-4406" title="Paradajz corba" src="//superkuvar.com/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg" alt="" width="300" height="231" srcset="http://localhost/superkuvar/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-1024x791.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-medium wp-image-4406" title="Paradajz corba" src="/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg" alt="" width="300" height="231" srcset="http://localhost/superkuvar/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-1024x791.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Priprema: paradajz oprati, oljuštiti, ukloniti seme i iseckati na komadiće. Crni luk očistiti, sitno iseći i propržiti na malo ulja. Sipati griz, promešati, a zatim dodati paradajz, očišćenu i narendanu šargarepu i malo šećera. Povrće naliti litrom i po tople vode. Čorbu kuvati na umerenoj temperaturi dok povrće ne omekša.
 

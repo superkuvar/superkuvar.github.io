@@ -29,7 +29,7 @@ Potrebno je:
   * biber u zrnu
   * peršunov list
 
-<img class="alignnone size-full wp-image-891" title="sladakkupussamesom" src="//superkuvar.com/wp-content/uploads/2011/06/sladakkupussamesom-e1307009253180.jpg" alt="" width="241" height="166" /> 
+<img class="alignnone size-full wp-image-891" title="sladakkupussamesom" src="/wp-content/uploads/2011/06/sladakkupussamesom-e1307009253180.jpg" alt="" width="241" height="166" /> 
 
 Priprema: meso oprati, naliti vodom i staviti da se kuva, kao za supu.
 

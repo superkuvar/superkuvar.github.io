@@ -27,7 +27,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-9247" src="//superkuvar.com/wp-content/uploads/2014/08/sargarepasapirincem-300x225.jpg" alt="sargarepasapirincem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/08/sargarepasapirincem.jpg)
+[<img class="alignnone size-medium wp-image-9247" src="/wp-content/uploads/2014/08/sargarepasapirincem-300x225.jpg" alt="sargarepasapirincem" width="300" height="225" />](/wp-content/uploads/2014/08/sargarepasapirincem.jpg)
 
 Priprema: luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
 

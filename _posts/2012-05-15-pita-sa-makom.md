@@ -33,7 +33,7 @@ Potrebno je:
   * ulje
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-3226" title="Pita sa makom" src="//superkuvar.com/wp-content/uploads/2012/05/Pita-sa-makom-e1337075012924-300x235.jpg" alt="" width="300" height="235" /> 
+<img class="alignnone size-medium wp-image-3226" title="Pita sa makom" src="/wp-content/uploads/2012/05/Pita-sa-makom-e1337075012924-300x235.jpg" alt="" width="300" height="235" /> 
 
 Priprema: pomešati mak sa šećerom i kesicom vanilin šećera, preliti ključalim mlekom, staviti na štednjak i kratko prokuvati. Prokuvani mak skloniti sa štednjaka, dodati cimet i suvo grožđe prethodno natopljeno rumom. Izmešati i ostaviti da se ohladi.
 

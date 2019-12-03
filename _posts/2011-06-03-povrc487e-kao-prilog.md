@@ -32,7 +32,7 @@ Potrebno je:
   * prezle
   * ulje
 
-<img class="alignnone size-medium wp-image-4486" title="Povrcekaoprilog" src="//superkuvar.com/wp-content/uploads/2011/06/Povrcekaoprilog-e1350289126324-300x238.jpg" alt="" width="300" height="238" /> 
+<img class="alignnone size-medium wp-image-4486" title="Povrcekaoprilog" src="/wp-content/uploads/2011/06/Povrcekaoprilog-e1350289126324-300x238.jpg" alt="" width="300" height="238" /> 
 
 Priprema: obariti povrće u vodi kojoj je dodat suvi biljni začin i malo soli, dodajući redom svako naredno koje se kraće kuva. Boraniju bariti 25 minuta, a grašak i šargarepu oko 20 minuta. Karfiol bariti oko 5 minuta. šargarepu pre kuvanja iseći na štapiće.
 

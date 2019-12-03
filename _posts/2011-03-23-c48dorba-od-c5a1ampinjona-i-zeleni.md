@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * so
 
-<img class="alignnone size-full wp-image-779" title="corbaodsampinjonaizeleni" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodsampinjonaizeleni3-e1306823623721.jpg" alt="" width="252" height="156" /> 
+<img class="alignnone size-full wp-image-779" title="corbaodsampinjonaizeleni" src="/wp-content/uploads/2011/03/corbaodsampinjonaizeleni3-e1306823623721.jpg" alt="" width="252" height="156" /> 
 
 Priprema: na ulju propržiti iseckan crni luk, dodati očišćene, oprane i na listiće isečene šampinjone i pirjaniti, dolivajući po malo vode.
 

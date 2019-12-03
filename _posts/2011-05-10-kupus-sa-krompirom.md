@@ -31,7 +31,7 @@ Potrebno je:
   * 1 kašika brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-3190" title="Kupus sa krompirom" src="//superkuvar.com/wp-content/uploads/2011/05/Kupus-sa-krompirom-e1336389037914-300x248.jpg" alt="" width="300" height="248" /> 
+<img class="alignnone size-medium wp-image-3190" title="Kupus sa krompirom" src="/wp-content/uploads/2011/05/Kupus-sa-krompirom-e1336389037914-300x248.jpg" alt="" width="300" height="248" /> 
 
 Priprema: na malo ulja propržiti sitno iseckan crni luk. Očišćen i opran kupus iseći na sitnije komade, a oljušten krompir na četvrtine. Isitnjeno povrće dodati u propržen luk, preliti toplom vodom da ogrezne i staviti da se kuva. Posoliti, dodati suvi biljni začin, lovorov list i kašičicu kima.
 

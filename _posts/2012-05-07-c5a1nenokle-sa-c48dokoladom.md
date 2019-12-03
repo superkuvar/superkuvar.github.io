@@ -26,7 +26,7 @@ Potrebno je:
   * kašičica oštrog brašna
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3178" title="Šnenokle sa čokoladom" src="//superkuvar.com/wp-content/uploads/2012/05/nenokle-sa-%C4%8Dokoladom-e1336386305885-300x227.jpg" alt="" width="300" height="227" /> 
+<img class="alignnone size-medium wp-image-3178" title="Šnenokle sa čokoladom" src="/wp-content/uploads/2012/05/nenokle-sa-%C4%8Dokoladom-e1336386305885-300x227.jpg" alt="" width="300" height="227" /> 
 
 Priprema: odvojiti žumanca od belanaca. Umutiti sneg od belanaca, pa dodati šećer u prahu. Nastaviti sa mućenjem dok se ne dobije čvrst sneg.
 

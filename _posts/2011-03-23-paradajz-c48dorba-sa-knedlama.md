@@ -40,7 +40,7 @@ za knedle:
   * 3 kašike griza
   * so
 
-<img class="alignnone size-medium wp-image-4402" title="Paradajzcorbaknedle" src="//superkuvar.com/wp-content/uploads/2011/03/Paradajzcorbaknedle-e1348812532624-300x236.jpg" alt="" width="300" height="236" /> 
+<img class="alignnone size-medium wp-image-4402" title="Paradajzcorbaknedle" src="/wp-content/uploads/2011/03/Paradajzcorbaknedle-e1348812532624-300x236.jpg" alt="" width="300" height="236" /> 
 
 Priprema: paradajz oljuštiti i iseći na komade a luk na kolutove, naliti litar i po vode i lagano kuvati dok paradajz ne omekša. Tada sve propasirati.
 

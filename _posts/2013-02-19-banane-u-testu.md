@@ -31,7 +31,7 @@ Potrebno je:
   * kokosovo brašno
   * ulje
 
-<img class="alignnone size-medium wp-image-5296" src="//superkuvar.com/wp-content/uploads/2013/02/Bananeutestu-300x225.jpg" alt="Bananeutestu" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5296" src="/wp-content/uploads/2013/02/Bananeutestu-300x225.jpg" alt="Bananeutestu" width="300" height="225" /> 
 
 Priprema: umutiti jaja viljuškom, a zatim dodati brašno i prašak za pecivo. Masu dobro izmešati, da se dobije testo gustine kao za palačinke.
 

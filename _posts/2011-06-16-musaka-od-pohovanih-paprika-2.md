@@ -36,7 +36,7 @@ Potrebno je:
   * 300 ml mleka
   * čaša kisele pavlake
 
-<img class="alignnone size-full wp-image-1116" title="musakaodpaprika" src="//superkuvar.com/wp-content/uploads/2011/06/musakaodpaprika2-e1308226207255.jpg" alt="" width="196" height="139" /> 
+<img class="alignnone size-full wp-image-1116" title="musakaodpaprika" src="/wp-content/uploads/2011/06/musakaodpaprika2-e1308226207255.jpg" alt="" width="196" height="139" /> 
 
 Priprema: odmrznute paprike uvaljati u brašno, zatim u umućena jaja i ispohovati. Crni luk očistiti, sitno iseckati i izdinstati na malo ulja, pa dodati meso. Posoliti, pobiberiti, posuti suvim biljnim začinom i još malo propržiti.
 

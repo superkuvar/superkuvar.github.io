@@ -42,7 +42,7 @@ Bešamel sos
   * 1 žumance
   * 50 grama kačkavalja
 
-<img class="alignnone size-medium wp-image-5866" src="//superkuvar.com/wp-content/uploads/2013/07/Grasaksakrompiromubesamelu-300x225.jpg" alt="Grasaksakrompiromubesamelu" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5866" src="/wp-content/uploads/2013/07/Grasaksakrompiromubesamelu-300x225.jpg" alt="Grasaksakrompiromubesamelu" width="300" height="225" /> 
 
 Priprema: krompir i šargarepu oprati, očistiti i iseći, krompir na kockice a šargarepu na kolutove, i obariti u posoljenoj vodi, zajedno sa graškom. Povrće zatim ocediti od vode.
 

@@ -32,7 +32,7 @@ Potrebno je:
   * iseckan peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5220" src="//superkuvar.com/wp-content/uploads/2011/03/Zapeceni-pasulj-sa-sirom-300x225.jpg" alt="Zapeceni pasulj sa sirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5220" src="/wp-content/uploads/2011/03/Zapeceni-pasulj-sa-sirom-300x225.jpg" alt="Zapeceni pasulj sa sirom" width="300" height="225" /> 
 
 Priprema: naliti pasulj hladnom vodom i ostaviti preko noći da nabubri.  Sutradan naliti novom hladnom vodom  i staviti da se kuva. Kada pasulj proključa, prosuti vodu, naliti drugom vodom i kuvati dok pasulj ne omekša. Pri kraju kuvanja dodati malo nane. Pasulj treba da bude gušći.
 

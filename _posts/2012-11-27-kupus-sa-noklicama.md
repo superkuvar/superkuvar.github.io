@@ -30,7 +30,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-medium wp-image-4825" title="Kupussanoklicama" src="//superkuvar.com/wp-content/uploads/2012/11/Kupussanoklicama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4825" title="Kupussanoklicama" src="/wp-content/uploads/2012/11/Kupussanoklicama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kupus očistiti, oprati, iseći na rezance, dodati šećer pa propržiti na ulju. Posoliti, pobiberiti i dinstati, poklopljen, dok ne omekša. U toku dinstanja u kupus dolivati po malo tople vode.
 

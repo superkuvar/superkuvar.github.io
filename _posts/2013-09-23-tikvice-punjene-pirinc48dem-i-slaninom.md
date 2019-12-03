@@ -33,7 +33,7 @@ Potrebno je:
   * kašika brašna
   * ulje
 
-[<img class="alignnone size-medium wp-image-6124" src="//superkuvar.com/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-300x225.jpg" alt="Tikvicepunjenepirincemislaninom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom.jpg)
+[<img class="alignnone size-medium wp-image-6124" src="/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-300x225.jpg" alt="Tikvicepunjenepirincemislaninom" width="300" height="225" />](/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom.jpg)
 
 Priprema: tikvice oprati, oljuštiti a zatim izdubiti sredinu.
 

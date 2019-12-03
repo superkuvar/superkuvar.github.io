@@ -31,7 +31,7 @@ Potrebno je:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5795" src="//superkuvar.com/wp-content/uploads/2013/06/Pekarskikrompirnamaminnacin-300x225.jpg" alt="Pekarskikrompirnamaminnacin" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5795" src="/wp-content/uploads/2013/06/Pekarskikrompirnamaminnacin-300x225.jpg" alt="Pekarskikrompirnamaminnacin" width="300" height="225" /> 
 
 Priprema: očišćen i opran krompir iseći na režnjeve. Crni luk očistiti i iseći na kolutove. Pomešati luk sa krompirom, posoliti, a zatim dodati, po ukusu, biber, alevu papriku i iseckan peršunov list. Sve dobro izmešati i složiti u dobro podmazan dublji pleh.
 

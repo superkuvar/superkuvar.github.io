@@ -35,7 +35,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3878" title="Djuvecsapiletinom" src="//superkuvar.com/wp-content/uploads/2012/08/Djuvecsapiletinom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3878" title="Djuvecsapiletinom" src="/wp-content/uploads/2012/08/Djuvecsapiletinom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: očišćen crni luk iseckati i propržiti na ulju zajedno sa belim mesom isečenim na manje kocke. Povrće oprati, oljuštiti i iseći: šargarepu na kolutove, krompir i tikvice na kocke, a papriku na rezance.
 

@@ -28,7 +28,7 @@ Potrebno je:
   * 2 kašike brašna
   * malo ulja
 
-<img class="alignnone size-medium wp-image-2655" title="Varivo od sočiva" src="//superkuvar.com/wp-content/uploads/2012/03/Varivo-od-so%C4%8Diva-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2655" title="Varivo od sočiva" src="/wp-content/uploads/2012/03/Varivo-od-so%C4%8Diva-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: sočivo probrati, dobro oprati, staviti u dublji sud, naliti hladnom vodom i staviti da se kuva. Kada provri, prosuti vodu, naliti ga novom, toplom vodom, dodati sitno seckani crni luk i nastaviti sa kuvanjem.
 

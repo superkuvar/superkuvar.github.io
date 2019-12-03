@@ -47,7 +47,7 @@ Potrebno:
   * biber
   * peršunov list
 
-<img class="alignnone size-full wp-image-818" title="kiselacorba" src="//superkuvar.com/wp-content/uploads/2011/03/kiselacorba.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-818" title="kiselacorba" src="/wp-content/uploads/2011/03/kiselacorba.jpg" alt="" width="259" height="194" /> 
 
 Priprema: crni luk očistiti, sitno iseći i pržiti na malo ulja, da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
 

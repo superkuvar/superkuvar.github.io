@@ -23,7 +23,7 @@ Potrebno je:
   * 5 dl ulja
   * ½ kesice konzervansa
 
-[<img class="alignnone size-medium wp-image-5983" src="//superkuvar.com/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika-300x225.jpg" alt="Ajvar od nepecenih paprika" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika.jpg)
+[<img class="alignnone size-medium wp-image-5983" src="/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika-300x225.jpg" alt="Ajvar od nepecenih paprika" width="300" height="225" />](/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika.jpg)
 
 Priprema: na mašini za mlevenje mesa samleti paprike, koje su prethodno oprane i očišćene od peteljki i semena.
 

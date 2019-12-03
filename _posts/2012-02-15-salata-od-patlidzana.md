@@ -34,7 +34,7 @@ Potrebno je:
   * biber
   * pola vezice peršunovog lista
 
-<img class="alignnone size-medium wp-image-3949" title="Salata od patlidzana" src="//superkuvar.com/wp-content/uploads/2012/02/Salata-od-patlidzana-e1344849549684-300x234.jpg" alt="" width="300" height="234" /> 
+<img class="alignnone size-medium wp-image-3949" title="Salata od patlidzana" src="/wp-content/uploads/2012/02/Salata-od-patlidzana-e1344849549684-300x234.jpg" alt="" width="300" height="234" /> 
 
 Priprema: patlidžan i paprike oprati i ispeći u pećnici. Patlidžan, dok je još topao, oljuštiti. Paprike, takođe, oljuštiti i očistiti od semena.
 

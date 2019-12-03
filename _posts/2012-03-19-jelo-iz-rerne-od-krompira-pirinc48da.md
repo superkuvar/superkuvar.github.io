@@ -26,7 +26,7 @@ Potrebno je:
   * mlevena začinska paprika
   * ulje
 
-<img class="alignnone size-medium wp-image-2731" title="Jelo iz rerne od krompira i pirinča" src="//superkuvar.com/wp-content/uploads/2012/03/Jelo-iz-rerne-od-krompira-i-pirin%C4%8Da-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2731" title="Jelo iz rerne od krompira i pirinča" src="/wp-content/uploads/2012/03/Jelo-iz-rerne-od-krompira-i-pirin%C4%8Da-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krompir oprati, oljuštiti i iseći na kockice. Crni luk očistiti i iseći na rebarca.
 

@@ -29,7 +29,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4885" title="Čorba od čičoke" src="//superkuvar.com/wp-content/uploads/2012/12/Čorba-od-čičoke-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4885" title="Čorba od čičoke" src="/wp-content/uploads/2012/12/Čorba-od-čičoke-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: čičoku oprati, ostrugati kao mlade krompiriće, pa krupno narendati. U dubljoj posudi, na malo ulja kratko propržiti narendanu čičoku, naliti litrom tople vode ili supe od povrća i kuvati na umerenoj vatri oko dvadeset minuta.
 

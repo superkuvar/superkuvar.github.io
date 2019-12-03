@@ -33,7 +33,7 @@ Potrebno je:
   * kuvani paradajz ili paradajz pire
   * ulje
 
-[<img class="alignnone size-medium wp-image-9294" src="//superkuvar.com/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem-300x225.jpg" alt="paprikepunjenekrompiromipirincem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem.jpg)
+[<img class="alignnone size-medium wp-image-9294" src="/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem-300x225.jpg" alt="paprikepunjenekrompiromipirincem" width="300" height="225" />](/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem.jpg)
 
 Priprema: očistiti i oprati praziluk, sitno ga iseckati i propržiti na ulju. šargarepu i krompir oprati, oljuštiti, narendati na krupno rende, dodati u praziluk i još malo pržiti. Posoliti, dodati suvi biljni začin, biber, malo kuvanog paradajza i opran pirinač.
 

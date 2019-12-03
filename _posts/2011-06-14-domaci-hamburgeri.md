@@ -28,7 +28,7 @@ Potrebno je:
   * seckani peršunov list
   * kečap
 
-<img class="alignnone size-medium wp-image-3602" title="Domaćihamburgeri" src="//superkuvar.com/wp-content/uploads/2011/06/Doma%C4%87ihamburgeri-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3602" title="Domaćihamburgeri" src="/wp-content/uploads/2011/06/Doma%C4%87ihamburgeri-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti i sitno iseckati. U mleveno meso dodati iseckan luk, peršunov list, jaje, so i biber. Masu dobro izmešati i izgnječiti rukom, pa oblikovati pljeskavice. Hamburgere pržiti u zagrejanom teflonskom ili običnom tiganju, na malo ulja, a mogu se pripremiti i na roštilju.
 

@@ -24,7 +24,7 @@ Potrebno je:
   * šećer
   * mleveni orasi (3 kašike)
 
-[<img class="alignnone size-medium wp-image-9464" src="//superkuvar.com/wp-content/uploads/2015/03/pecenejabuke-300x225.jpg" alt="pecenejabuke" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/pecenejabuke.jpg)
+[<img class="alignnone size-medium wp-image-9464" src="/wp-content/uploads/2015/03/pecenejabuke-300x225.jpg" alt="pecenejabuke" width="300" height="225" />](/wp-content/uploads/2015/03/pecenejabuke.jpg)
 
 Priprema: jabuke oprati i oljuštiti. Nožem ili kašičicom izdubiti jabuke, vodeći računa da se ne probije dno, da donji deo ostane čitav.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * 200 grama milerama
   * 1 jaje
 
-[<img class="alignnone size-medium wp-image-9135" src="//superkuvar.com/wp-content/uploads/2014/05/zapecenipraziluksakrompirom-300x225.jpg" alt="zapecenipraziluksakrompirom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/05/zapecenipraziluksakrompirom.jpg)
+[<img class="alignnone size-medium wp-image-9135" src="/wp-content/uploads/2014/05/zapecenipraziluksakrompirom-300x225.jpg" alt="zapecenipraziluksakrompirom" width="300" height="225" />](/wp-content/uploads/2014/05/zapecenipraziluksakrompirom.jpg)
 
 Priprema: praziluk očistiti, oprati i iseći na komade dužine oko 2 santimetra. Krompir oprati, oljuštiti i iseći na kolutove.
 

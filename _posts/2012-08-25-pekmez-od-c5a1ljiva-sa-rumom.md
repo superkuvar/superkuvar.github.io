@@ -26,7 +26,7 @@ Potrebno je:
   * 1 šoljica ruma
   * 1 šoljica sirćeta
 
-<img class="alignnone size-medium wp-image-4102" title="Pekmezodslivasarumom" src="//superkuvar.com/wp-content/uploads/2012/08/Pekmezodslivasarumom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4102" title="Pekmezodslivasarumom" src="/wp-content/uploads/2012/08/Pekmezodslivasarumom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: zrele šljive, najbolje &#8221;stenlejke&#8221;, oprati, skloniti peteljke i koštice i samleti na mašini za mlevenje mesa ili ih iseckati.
 

@@ -28,7 +28,7 @@ Potrebno je:
   * jabukovo sirće
   * ulje
 
-[<img class="alignnone size-medium wp-image-9301" src="//superkuvar.com/wp-content/uploads/2014/11/Salataodkupusasaorasima-300x225.jpg" alt="Salataodkupusasaorasima" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/11/Salataodkupusasaorasima.jpg)
+[<img class="alignnone size-medium wp-image-9301" src="/wp-content/uploads/2014/11/Salataodkupusasaorasima-300x225.jpg" alt="Salataodkupusasaorasima" width="300" height="225" />](/wp-content/uploads/2014/11/Salataodkupusasaorasima.jpg)
 
 Priprema: kupus očistiti, oprati i sitno narendati na trenici. Narendan kupus posoliti, malo izgnječiti rukom i ostaviti da odstoji oko pola sata. Nakon toga dobro ga ocediti od vode koju je pustio.
 

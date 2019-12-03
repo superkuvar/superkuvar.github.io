@@ -31,7 +31,7 @@ Potrebno je:
   * 1 dl ulja
   * 250 grama margarina
 
-<img class="alignnone size-medium wp-image-3117" title="Kiflice sa margarinom" src="//superkuvar.com/wp-content/uploads/2012/04/Kiflice-sa-margarinom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3117" title="Kiflice sa margarinom" src="/wp-content/uploads/2012/04/Kiflice-sa-margarinom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kvasac izmrviti i razmutiti u celoj količini mlakog mleka, u koje je dodata kašika šećera i jedno jaje. U sud za mešenje sipati nadošli kvasac, pa dodati brašno, još jedno jaje, mileram i so. Uz postepeno dodavanje ulja umesiti glatko testo. Mesiti dok testo ne upije svu količinu ulja.
 

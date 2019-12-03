@@ -37,7 +37,7 @@ Potrebno je:
   * 100 grama čokolade za kuvanje (za glazuru)
   * 50 grama margarina (za glazuru)
 
-<img class="alignnone size-medium wp-image-5436" src="//superkuvar.com/wp-content/uploads/2011/08/Mramorni-kuglof-300x225.jpg" alt="Mramorni kuglof" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5436" src="/wp-content/uploads/2011/08/Mramorni-kuglof-300x225.jpg" alt="Mramorni kuglof" width="300" height="225" /> 
 
 Priprema: umutiti penasto margarin, postepeno dodajući jaja, šećer, vanilu, koru i sok od limuna. Brašno prosejati zajedno sa praškom za pecivo, pa postepeno dodavati umućenoj masi, uz povremeno dolivanje mleka. Testo podeliti na dva dela, pa u jedan deo umešati kakao.
 

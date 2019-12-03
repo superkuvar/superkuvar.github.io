@@ -29,7 +29,7 @@ biber
 bosiljak  
 ulje
 
-<img class="alignnone wp-image-9715 size-medium" src="//superkuvar.com/wp-content/uploads/2015/08/đuvecnaspanskinacin-300x225.jpg" alt="đuvecnaspanskinacin" width="300" height="225" /> 
+<img class="alignnone wp-image-9715 size-medium" src="/wp-content/uploads/2015/08/đuvecnaspanskinacin-300x225.jpg" alt="đuvecnaspanskinacin" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseći i propržiti na ulju da postane mekan. Zatim naliti čašu vode i ostaviti da proključa. Posoliti i dodati biber.
 

@@ -32,7 +32,7 @@ Potrebno je:
   * čaša kisele pavlake
   * pola veze svežeg peršuna
 
-<img class="alignnone size-full wp-image-718" title="corbakremsampinjoni" src="//superkuvar.com/wp-content/uploads/2011/03/corbakremsampinjoni.jpg" alt="" width="275" height="183" /> 
+<img class="alignnone size-full wp-image-718" title="corbakremsampinjoni" src="/wp-content/uploads/2011/03/corbakremsampinjoni.jpg" alt="" width="275" height="183" /> 
 
 Priprema: luk očistiti, iseći na rebarca i propržiti na ulju, a zatim dodati šampinjone i šargarepu (iseckanu na krupnije kockice a šampinjone na listiće). Sve zajedno kratko propržiti, dodati malo vode, da ogrezne, i poklopljeno dinstati 5-6 minuta. Voda ne sme da potpuno ispari.
 

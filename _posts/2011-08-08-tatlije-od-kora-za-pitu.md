@@ -25,7 +25,7 @@ Potrebno je:
   * 700 grama šećera (za sirup)
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-full wp-image-1647" title="tatlije1" src="//superkuvar.com/wp-content/uploads/2011/08/tatlije1-e1312805725893.jpg" alt="" width="227" height="169" /> 
+<img class="alignnone size-full wp-image-1647" title="tatlije1" src="/wp-content/uploads/2011/08/tatlije1-e1312805725893.jpg" alt="" width="227" height="169" /> 
 
 Priprema: svaku koru, posebno, poprskati rastopljenim margarinom i dva puta je presaviti, da dobije oblik trake. Ponovo poprskati margarinom i do polovine premazati kuvanim grizom u koji su umešana jaja. Koru presaviti u obliku trougla. Na isti način postupiti i sa ostalim korama. Dobijene trouglove ređati u podmazan pleh i peći na umerenoj temperaturi, dok ne dobiju zlatno žutu boju.
 

@@ -36,7 +36,7 @@ Potrebno je:
   * cimet
   * ulje za prženje
 
-<img class="alignnone size-full wp-image-1653" title="jabukeuslafroku" src="//superkuvar.com/wp-content/uploads/2011/08/jabukeuslafroku-e1312884902848.jpg" alt="" width="247" height="173" /> 
+<img class="alignnone size-full wp-image-1653" title="jabukeuslafroku" src="/wp-content/uploads/2011/08/jabukeuslafroku-e1312884902848.jpg" alt="" width="247" height="173" /> 
 
 Priprema: oprati i oljuštiti jabuke, pa nožem ili specijalnom spravom izvaditi sredinu sa semenkama. Jabuke zatim iseći na kolutove (od jedne šest kolutova), staviti u činiju, poprskati rumom i ostaviti da odstoje petnaestak minuta.
 

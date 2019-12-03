@@ -37,7 +37,7 @@ Fil
   * limun
   * margarin
 
-<img class="alignnone size-medium wp-image-4018" title="Kolacsakokosomijabukama" src="//superkuvar.com/wp-content/uploads/2012/08/Kolacsakokosomijabukama-e1345303166199-300x220.jpg" alt="" width="300" height="220" /> 
+<img class="alignnone size-medium wp-image-4018" title="Kolacsakokosomijabukama" src="/wp-content/uploads/2012/08/Kolacsakokosomijabukama-e1345303166199-300x220.jpg" alt="" width="300" height="220" /> 
 
 Priprema: u posudi za mešenje umutiti penasto margarin sa šećerom, pa dodati žumanca, mleko i brašno pomešano sa praškom za pecivo. Umesiti testo i podeliti ga na dva dela.
 

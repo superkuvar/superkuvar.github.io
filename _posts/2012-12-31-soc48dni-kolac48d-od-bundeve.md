@@ -35,7 +35,7 @@ Potrebno je:
   * 2 kesice vanilin šećera
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-4990" src="//superkuvar.com/wp-content/uploads/2012/12/Sočnikolačodbundeve-300x225.jpg" alt="Sočnikolačodbundeve" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4990" src="/wp-content/uploads/2012/12/Sočnikolačodbundeve-300x225.jpg" alt="Sočnikolačodbundeve" width="300" height="225" /> 
 
 Priprema: bundevu oljuštiti, ukloniti semenke, oprati i narendati. Umutiti jaja sa šećerom, dodati ulje, mleko, vanilin šećer, narendanu bundevu, griz, kokosovo brašno i prašak za pecivo. Testo dobro izmešati varjačom.
 

@@ -29,7 +29,7 @@ Potrebno je:
   * 1 jaje
   * list peršuna
 
-<img class="alignnone size-medium wp-image-3962" title="Čorba od paradajza" src="//superkuvar.com/wp-content/uploads/2012/08/orba-od-paradajza-e1344859545283-300x232.jpg" alt="" width="300" height="232" /> 
+<img class="alignnone size-medium wp-image-3962" title="Čorba od paradajza" src="/wp-content/uploads/2012/08/orba-od-paradajza-e1344859545283-300x232.jpg" alt="" width="300" height="232" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Paradajz oprati, oljuštiti i iseći na sitne komade. Isitnjen paradajz dodati u posudu sa proprženim lukom, naliti litrom vode, dodati papriku isečenu na sitne komade i staviti da se kuva.
 

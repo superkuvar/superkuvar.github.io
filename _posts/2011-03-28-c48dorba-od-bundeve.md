@@ -34,7 +34,7 @@ Potrebno je:
   * ulje
   * kisela pavlaka
 
-[<img class="alignnone size-full wp-image-303" title="corbabundeva1" src="//superkuvar.com/wp-content/uploads/2011/03/corbabundeva1.jpg" alt="" width="300" height="168" />](//superkuvar.com/wp-content/uploads/2011/03/corbabundeva1.jpg)
+[<img class="alignnone size-full wp-image-303" title="corbabundeva1" src="/wp-content/uploads/2011/03/corbabundeva1.jpg" alt="" width="300" height="168" />](/wp-content/uploads/2011/03/corbabundeva1.jpg)
 
 Priprema: bundevu, krompir i šargarepu oljuštiti, oprati i iseći na sitnije kocke.
 

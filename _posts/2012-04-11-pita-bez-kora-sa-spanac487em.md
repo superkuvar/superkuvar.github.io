@@ -30,7 +30,7 @@ Potrebno je:
   * 300 grama belog starijeg sira
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-2921" title="Pita sa spanaćem bez kora" src="//superkuvar.com/wp-content/uploads/2012/04/Pita-sa-spana%C4%87em-bez-kora-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2921" title="Pita sa spanaćem bez kora" src="/wp-content/uploads/2012/04/Pita-sa-spana%C4%87em-bez-kora-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati i iseći na rezance. Odvojiti žumanca od belanaca, pa žumanca umutiti viljuškom.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-2659" title="Rezanci sa šampinjonima" src="//superkuvar.com/wp-content/uploads/2011/06/Rezanci-sa-%C5%A1ampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2659" title="Rezanci sa šampinjonima" src="/wp-content/uploads/2011/06/Rezanci-sa-%C5%A1ampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: rezance skuvati u slanoj vodi i ocediti. U međuvremenu, oprati i očistiti šampinjone, pa ih iseći na listiće.
 

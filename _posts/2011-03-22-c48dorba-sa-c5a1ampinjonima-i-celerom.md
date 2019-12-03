@@ -27,7 +27,7 @@ Potrebno je:
   * biber
   * so
 
-<img class="alignnone size-full wp-image-786" title="corbaodsampinjonaicelera" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodsampinjonaicelera.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-786" title="corbaodsampinjonaicelera" src="/wp-content/uploads/2011/03/corbaodsampinjonaicelera.jpg" alt="" width="259" height="194" /> 
 
 Priprema: šampinjone oprati i iseći na listiće. Celer oprati, oljuštiti i izrendati na trenici. U loncu, na malo zagrejanog ulja propržiti zajedno šampinjone i celer.
 

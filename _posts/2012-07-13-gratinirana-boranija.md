@@ -31,7 +31,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-3707" title="Gratiniranaboranija" src="//superkuvar.com/wp-content/uploads/2012/07/Gratiniranaboranija-e1342103150691-300x228.jpg" alt="" width="300" height="228" /> 
+<img class="alignnone size-medium wp-image-3707" title="Gratiniranaboranija" src="/wp-content/uploads/2012/07/Gratiniranaboranija-e1342103150691-300x228.jpg" alt="" width="300" height="228" /> 
 
 Priprema: boraniju očistiti, oprati i iseći na komade. Na ulju propržiti sitno seckani crni luk, dodati pripremljenu boraniju, naliti malo tople vode, posoliti, pobiberiti i dinstati.
 

@@ -35,7 +35,7 @@ Potrebno je:
   * biber
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3920" title="Musakaodplavogpatlidzana" src="//superkuvar.com/wp-content/uploads/2011/03/Musakaodplavogpatlidzana1-e1344338064262-300x206.jpg" alt="" width="300" height="206" /> 
+<img class="alignnone size-medium wp-image-3920" title="Musakaodplavogpatlidzana" src="/wp-content/uploads/2011/03/Musakaodplavogpatlidzana1-e1344338064262-300x206.jpg" alt="" width="300" height="206" /> 
 
 Priprema: patlidžan očistiti, oprati, iseći na tanke kriške ili kolutove i posoliti. Nakon dvadesetak minuta ocediti ga od soka koji je pustio, uvaljati svaku krišku u brašno i kratko propržiti na ulju.
 

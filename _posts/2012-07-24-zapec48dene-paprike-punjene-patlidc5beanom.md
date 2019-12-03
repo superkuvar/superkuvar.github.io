@@ -31,7 +31,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-3805" title="Zapecenepaprikepunjenepatlidzanom" src="//superkuvar.com/wp-content/uploads/2012/07/Zapecenepaprikepunjenepatlidzanom-e1343054785216-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-3805" title="Zapecenepaprikepunjenepatlidzanom" src="/wp-content/uploads/2012/07/Zapecenepaprikepunjenepatlidzanom-e1343054785216-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti i obariti u malo posoljenoj vodi, a zatim ga staviti u cediljku da se ocedi od suvišne vode.
 

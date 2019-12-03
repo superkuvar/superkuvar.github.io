@@ -29,7 +29,7 @@ Potrebno je:
   * 4 litra vode
   * kesica vinobrana
 
-<img class="alignnone size-medium wp-image-4307" title="Kiseli kornisoni" src="//superkuvar.com/wp-content/uploads/2012/09/Kiseli-kornisoni-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4307" title="Kiseli kornisoni" src="/wp-content/uploads/2012/09/Kiseli-kornisoni-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krastavčićima ukloniti peteljke i osušeni ostatak cveta, a zatim dobro oprati, obrisati i ređati u tegle. U svaku teglu sa kornišonima staviti lovorov list, biber u zrnu i polovine očišćenog rena.
 

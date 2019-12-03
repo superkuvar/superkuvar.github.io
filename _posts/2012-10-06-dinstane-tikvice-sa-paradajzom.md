@@ -32,7 +32,7 @@ Potrebno je:
   * 2 kašike brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-4444" title="Tikvice sa paradajzom" src="//superkuvar.com/wp-content/uploads/2012/10/Tikvice-sa-paradajzom-e1349530599697-300x226.jpg" alt="" width="300" height="226" /> 
+<img class="alignnone size-medium wp-image-4444" title="Tikvice sa paradajzom" src="/wp-content/uploads/2012/10/Tikvice-sa-paradajzom-e1349530599697-300x226.jpg" alt="" width="300" height="226" /> 
 
 Priprema: tikvice oprati, oljuštiti, iseći na kockice i staviti u pouljenu šerpu. Preko tikvica poređati oljušten i na komade isečen paradajz.
 

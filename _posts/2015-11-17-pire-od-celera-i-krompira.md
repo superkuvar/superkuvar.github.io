@@ -29,7 +29,7 @@ biber
 komad margarina  
 ulje
 
-[<img class="alignnone size-medium wp-image-10408" src="//superkuvar.com/wp-content/uploads/2015/11/pireodceleraikrompira-300x225.jpg" alt="pireodceleraikrompira" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/11/pireodceleraikrompira-e1447743182460.jpg)
+[<img class="alignnone size-medium wp-image-10408" src="/wp-content/uploads/2015/11/pireodceleraikrompira-300x225.jpg" alt="pireodceleraikrompira" width="300" height="225" />](/wp-content/uploads/2015/11/pireodceleraikrompira-e1447743182460.jpg)
 
 Priprema: crni luk očistiti, sitno iseći i propržiti na malo ulja. Celer oprati, očistiti, iseći na kocke, naliti vodom da ogrezne, posoliti, dodati list lovora i kuvati dok ne omekša. Kada je celer kuvan ocediti ga. Krompir oprati, oljuštiti, isitniti na kockice, naliti hladnom vodom da ogrezne, posoliti i staviti da se kuva. Kuvan krompir ocediti.
 

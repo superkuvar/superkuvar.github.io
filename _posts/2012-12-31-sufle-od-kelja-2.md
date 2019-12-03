@@ -36,7 +36,7 @@ Potrebno je:
   * ulje
   * sirće
 
-<img class="alignnone" src="//superkuvar.com/wp-content/uploads/2012/12/Sufleodkelja-e1356944719247.jpg" alt="" width="295" height="221" /> 
+<img class="alignnone" src="/wp-content/uploads/2012/12/Sufleodkelja-e1356944719247.jpg" alt="" width="295" height="221" /> 
 
 Priprema: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i iseći na rezance.
 

@@ -33,7 +33,7 @@ Potrebno je:
   * suvi biljni začin
   * biber
 
-<img class="alignnone size-medium wp-image-2512" title="Musaka od boranije" src="//superkuvar.com/wp-content/uploads/2011/05/Musaka-od-boranije-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2512" title="Musaka od boranije" src="/wp-content/uploads/2011/05/Musaka-od-boranije-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: boraniju očistiti, oprati, pa je preseći na pola. Na masnoći propržiti iseckan crni luk, dodati boraniju, naliti vodom i dinstati. U toku dinstanja, po potrebi dolivati po malo tople vode. Pred kraj posoliti, pobiberiti i poklopiti da se još malo pirjani. Kada je boranija mekana, ocediti je.
 

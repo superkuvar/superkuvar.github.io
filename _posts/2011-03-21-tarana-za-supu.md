@@ -24,7 +24,7 @@ Potrebno je:
   * 1 jaje
   * so
 
-<img class="alignnone size-medium wp-image-828" title="taranazasupu" src="//superkuvar.com/wp-content/uploads/2011/03/taranazasupu-e1306839272641.jpg" alt="" width="292" height="130" /> 
+<img class="alignnone size-medium wp-image-828" title="taranazasupu" src="/wp-content/uploads/2011/03/taranazasupu-e1306839272641.jpg" alt="" width="292" height="130" /> 
 
 Priprema: na radnu površinu staviti brašno, napraviti udubljenje, dodati jaje, so i malo vode, tek toliko da se može umesiti tvrdo testo, da bi moglo da se renda.
 

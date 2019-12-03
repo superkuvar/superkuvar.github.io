@@ -41,7 +41,7 @@ Za nadev
   * 1 kesica vanilin šećera
   * 60 g margarina
 
-<img class="alignnone size-medium wp-image-3078" title="Štrudla sa makom" src="//superkuvar.com/wp-content/uploads/2012/04/%C5%A0trudla-sa-makom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3078" title="Štrudla sa makom" src="/wp-content/uploads/2012/04/%C5%A0trudla-sa-makom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kvasac izmrviti, rastvoriti u malo mlakog mleka, dodati kašičicu šećera i ostaviti da nadođe. Brašno staviti u sud za mešenje, napraviti udubljenje i u njega sipati rastopljeni margarin, jaja, šećer, so, mleko i nadošli kvasac. Umesiti mekano testo i tući ga varjačom, dok se na njemu ne pojave mehurići. Umešeno testo prekriti salvetom i ostaviti na toplom oko 50 minuta, da nadođe.
 

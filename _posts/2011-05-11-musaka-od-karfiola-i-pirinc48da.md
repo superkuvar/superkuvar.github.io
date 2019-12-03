@@ -36,7 +36,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4729" title="Musaka od karfiola i pirinca" src="//superkuvar.com/wp-content/uploads/2011/05/Musaka-od-karfiola-i-pirinca-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4729" title="Musaka od karfiola i pirinca" src="/wp-content/uploads/2011/05/Musaka-od-karfiola-i-pirinca-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: karfiol očistiti, oprati i obariti u posoljenoj vodi. Na zagrejanom ulju propržiti iseckan luk, dodati prethodno obaren pirinač, karfiol izdeljen na cvetiće, paradajz pire, biber, so i seckani peršunov list. Sve dobro izmešati, sipati u podmazanu posudu za pečenje i naliti sa malo vode.
 

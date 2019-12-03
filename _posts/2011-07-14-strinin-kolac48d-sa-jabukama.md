@@ -35,7 +35,7 @@ Potrebno je:
   * 1 kesica vanilin šećera
   * 8 kašika šećera
 
-<img class="alignnone size-full wp-image-1450" title="strininkolac" src="//superkuvar.com/wp-content/uploads/2011/07/strininkolac.jpg" alt="" width="248" height="186" /> 
+<img class="alignnone size-full wp-image-1450" title="strininkolac" src="/wp-content/uploads/2011/07/strininkolac.jpg" alt="" width="248" height="186" /> 
 
 Priprema: umutiti žumanca sa 6 šoljica šećera. Tome dodati ulje, mleko, brašno, prašak za pecivo, sok i koru od limuna i dobro izmešati. U pleh prekriven papirom za pečenje sipati pripremljenu masu. Zagrejati rernu na 200 stepeni i staviti kolač da se peče.
 

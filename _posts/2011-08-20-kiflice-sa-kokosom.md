@@ -28,7 +28,7 @@ Potrebno je:
   * mleko (po potrebi)
   * 100 g čokolade za jelo i kuvanje
 
-<img class="alignnone size-medium wp-image-1767" title="kokos kiflice-potkovice" src="//superkuvar.com/wp-content/uploads/2011/08/kokos-kiflice-potkovice-e1313850862501.jpg" alt="" width="242" height="179" /> 
+<img class="alignnone size-medium wp-image-1767" title="kokos kiflice-potkovice" src="/wp-content/uploads/2011/08/kokos-kiflice-potkovice-e1313850862501.jpg" alt="" width="242" height="179" /> 
 
 Priprema: umutiti margarin sa šećerom, pa dodati jaje, žumance, kokos, brašno i prašak za pecivo. Zamesiti testo, a ako ne može da se dobro sjedini dodati malo mleka.
 

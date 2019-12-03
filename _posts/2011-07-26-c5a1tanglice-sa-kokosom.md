@@ -32,7 +32,7 @@ Potrebno je:
   * 5 kašika vode
   * 3 kašike kakao praha
 
-<img class="alignnone size-medium wp-image-5783" src="//superkuvar.com/wp-content/uploads/2011/07/Stanglicesakokosom-300x225.jpg" alt="Stanglicesakokosom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5783" src="/wp-content/uploads/2011/07/Stanglicesakokosom-300x225.jpg" alt="Stanglicesakokosom" width="300" height="225" /> 
 
 Priprema: mleko sipati u šerpu i prokuvati sa 200 grama šećera, pa dodati mleveni keks i kokos. Kuvati oko pet minuta na laganoj vatri, uz stalno mešanje, da ne bi zagorelo. Zatim dodati margarin, još malo kuvati, pa masu izručiti u podmazan pleh.
 

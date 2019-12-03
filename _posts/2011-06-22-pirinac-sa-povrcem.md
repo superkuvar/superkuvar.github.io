@@ -32,7 +32,7 @@ Potrebno je:
   * so
   * suvi biljni začin
 
-<img class="alignnone size-medium wp-image-3583" title="Pirinačsapovrćem" src="//superkuvar.com/wp-content/uploads/2011/06/Pirina%C4%8Dsapovr%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3583" title="Pirinačsapovrćem" src="/wp-content/uploads/2011/06/Pirina%C4%8Dsapovr%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Papriku iseći na kolutove, a krompir i paradajz (prethodno oljušten) na kockice.
 

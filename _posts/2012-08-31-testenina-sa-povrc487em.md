@@ -34,7 +34,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4140" title="Testeninasapovrcem" src="//superkuvar.com/wp-content/uploads/2012/08/Testeninasapovrcem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4140" title="Testeninasapovrcem" src="/wp-content/uploads/2012/08/Testeninasapovrcem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti, isitniti na kockice i posoliti. Patlidžan ostaviti da odstoji dvadeset minuta, a zatim ocediti od soka koji je pustio. Paradajz oljuštiti i takođe iseći na kockice.
 

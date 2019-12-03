@@ -38,7 +38,7 @@ Sos:
   * mleveni biber
   * mirođija ili peršunov list
 
-<img class="alignnone size-medium wp-image-4490" title="Karfioluparadajzsosu" src="//superkuvar.com/wp-content/uploads/2012/10/Karfioluparadajzsosu-e1350291313792-300x236.jpg" alt="" width="300" height="236" /> 
+<img class="alignnone size-medium wp-image-4490" title="Karfioluparadajzsosu" src="/wp-content/uploads/2012/10/Karfioluparadajzsosu-e1350291313792-300x236.jpg" alt="" width="300" height="236" /> 
 
 Priprema: karfiol oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Na malo ulja ili margarina propržiti prezle i preliti oceđen karfiol.
 

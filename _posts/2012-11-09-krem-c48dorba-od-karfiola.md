@@ -34,7 +34,7 @@ Potrebno je:
   * 1 jaje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4655" title="Krem corba od karfiola" src="//superkuvar.com/wp-content/uploads/2012/11/Krem-corba-od-karfiola-e1352357527451-300x248.jpg" alt="" width="300" height="248" /> 
+<img class="alignnone size-medium wp-image-4655" title="Krem corba od karfiola" src="/wp-content/uploads/2012/11/Krem-corba-od-karfiola-e1352357527451-300x248.jpg" alt="" width="300" height="248" /> 
 
 Priprema: karfiol očistiti, oprati i obariti u slanoj vodi. Obaren karfiol ocediti i ispasirati ili izgnječiti viljuškom.
 

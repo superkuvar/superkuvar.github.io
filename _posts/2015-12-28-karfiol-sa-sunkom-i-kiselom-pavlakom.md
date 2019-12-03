@@ -27,7 +27,7 @@ ulje
 biber  
 so
 
-[<img class="alignnone size-medium wp-image-10808" src="//superkuvar.com/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-300x225.jpg" alt="Karfiolsasunkomipavlakom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-e1451286675142.jpg)
+[<img class="alignnone size-medium wp-image-10808" src="/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-300x225.jpg" alt="Karfiolsasunkomipavlakom" width="300" height="225" />](/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-e1451286675142.jpg)
 
 Priprema: karfiol oprati, očistiti, odvojiti na cvetiće, obariti u posoljenoj vodi, a zatim ocediti. Odvojiti žumaca od belanaca pa ih umutiti sa malo ulja. U umućena žumanca dodati brašno, so, biber, kiselu pavlaku i čvrsto umućen sneg od belanaca. Masu lagano izmešati.
 

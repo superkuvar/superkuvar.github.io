@@ -24,7 +24,7 @@ Potrebno je:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-4460" title="Przenikrompir" src="//superkuvar.com/wp-content/uploads/2012/10/Przenikrompir-e1349785834475-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-4460" title="Przenikrompir" src="/wp-content/uploads/2012/10/Przenikrompir-e1349785834475-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: krompir oprati, oljuštiti, iseći na kriške ili štapiće i posušiti kuhinjskim ubrusom.
 

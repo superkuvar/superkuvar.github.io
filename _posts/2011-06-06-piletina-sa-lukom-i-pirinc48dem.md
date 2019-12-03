@@ -33,7 +33,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-full wp-image-956" title="piletinaspirincem" src="//superkuvar.com/wp-content/uploads/2011/06/piletinaspirincem-e1307361739355.jpg" alt="" width="254" height="149" /> 
+<img class="alignnone size-full wp-image-956" title="piletinaspirincem" src="/wp-content/uploads/2011/06/piletinaspirincem-e1307361739355.jpg" alt="" width="254" height="149" /> 
 
 Priprema: crni luk očistiti, iseckati na rebarca i staviti da se dinsta na ulju, dok ne postane staklast. Dodati pileće batake i dalje dinstati zajedno, uz dolivanje po malo tople vode. Posoliti i pobiberiti.
 

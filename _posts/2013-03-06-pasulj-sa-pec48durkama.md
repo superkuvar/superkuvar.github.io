@@ -34,7 +34,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5406" src="//superkuvar.com/wp-content/uploads/2013/03/Pasulj-sa-pecurkama-300x225.jpg" alt="Pasulj sa pecurkama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5406" src="/wp-content/uploads/2013/03/Pasulj-sa-pecurkama-300x225.jpg" alt="Pasulj sa pecurkama" width="300" height="225" /> 
 
 Priprema: prebran i opran pasulj potopiti preko noći u hladnu vodu i ostaviti da nabubri. Sutradan ga naliti hladnom vodom i staviti da se kuva. Posle desetak minuta vrenja ocediti vodu i pasulj naliti novom toplom vodom. Dodati lovor i kuvati na slabijoj vatri, dok zrna ne omeknu. Tada pasulj posoliti. Pasulj treba da bude gušći.
 

@@ -37,7 +37,7 @@ Potrebno je:
   * peršunov list
   * čaša od 2 dl kisele pavlake
 
-<img class="alignnone size-full wp-image-781" title="borscdruginacin" src="//superkuvar.com/wp-content/uploads/2011/03/borscdruginacin.jpg" alt="" width="229" height="220" /> 
+<img class="alignnone size-full wp-image-781" title="borscdruginacin" src="/wp-content/uploads/2011/03/borscdruginacin.jpg" alt="" width="229" height="220" /> 
 
 Priprema: meso iseći na kocke, preliti litrom i po vode, dodati so, biber i izgnječeni beli luk i kuvati tridesetak minuta.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * brašno
   * ulje
 
-<img class="alignnone size-medium wp-image-3395" title="Kroketiodtikvica" src="//superkuvar.com/wp-content/uploads/2012/06/Kroketiodtikvica-e1339158140196-300x227.jpg" alt="" width="300" height="227" /> 
+<img class="alignnone size-medium wp-image-3395" title="Kroketiodtikvica" src="/wp-content/uploads/2012/06/Kroketiodtikvica-e1339158140196-300x227.jpg" alt="" width="300" height="227" /> 
 
 Priprema: tikvice oprati, oljuštiti i izrendati na krupno rende. Dodati jaja, sitno seckani crni luk, so, suvi biljni začin, seckanu mirođiju, malo kima i brašna toliko da se dobije masa srednje gustine.
 

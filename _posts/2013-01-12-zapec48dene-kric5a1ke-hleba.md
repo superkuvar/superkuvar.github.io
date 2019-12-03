@@ -28,7 +28,7 @@ Potrebno je:
   * sir ili kačkavalj
   * aleva paprika (po želji)
 
-<img class="alignnone size-medium wp-image-5073" src="//superkuvar.com/wp-content/uploads/2013/01/Zapečeni-hleb-300x225.jpg" alt="Zapečeni hleb" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5073" src="/wp-content/uploads/2013/01/Zapečeni-hleb-300x225.jpg" alt="Zapečeni hleb" width="300" height="225" /> 
 
 Ukoliko preostane hleb, ne treba ga bacati, već se od njega može pripremiti ukusan doručak: prženice, gibanica ili još jednostavnije – zapečeni hleb.
 

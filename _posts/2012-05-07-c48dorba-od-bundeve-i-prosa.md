@@ -29,7 +29,7 @@ Potrebno je:
   * ulje
   * kisela pavlaka
 
-<img class="alignnone size-medium wp-image-3174" title="Čorba od bundeve i prosa" src="//superkuvar.com/wp-content/uploads/2012/05/orba-od-bundeve-i-prosa-e1336385196675-300x244.jpg" alt="" width="300" height="244" /> 
+<img class="alignnone size-medium wp-image-3174" title="Čorba od bundeve i prosa" src="/wp-content/uploads/2012/05/orba-od-bundeve-i-prosa-e1336385196675-300x244.jpg" alt="" width="300" height="244" /> 
 
 Priprema: praziluk očistiti, oprati, sitno iseckati i propržiti na malo ulja. U propržen luk dodati oljuštenu i narendanu bundevu, naliti sa litar i po vode i staviti na štednjak.
 

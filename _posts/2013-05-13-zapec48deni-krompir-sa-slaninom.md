@@ -33,7 +33,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5675" src="//superkuvar.com/wp-content/uploads/2013/05/Zapecenikrompirsaslaninom-300x225.jpg" alt="Zapecenikrompirsaslaninom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5675" src="/wp-content/uploads/2013/05/Zapecenikrompirsaslaninom-300x225.jpg" alt="Zapecenikrompirsaslaninom" width="300" height="225" /> 
 
 Priprema: krompir oprati i neoljušten staviti da se kuva. Kada se krompir skuva ocediti ga, a kada se malo prohladi oljuštiti i iseći na kolutove.
 

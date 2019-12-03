@@ -25,7 +25,7 @@ Potrebno:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-830" title="supasamlevenimmesom" src="//superkuvar.com/wp-content/uploads/2011/03/supasamlevenimmesom-e1306839457546.jpg" alt="" width="228" height="133" /> 
+<img class="alignnone size-medium wp-image-830" title="supasamlevenimmesom" src="/wp-content/uploads/2011/03/supasamlevenimmesom-e1306839457546.jpg" alt="" width="228" height="133" /> 
 
 Priprema: mleveno juneće meso staviti u lonac, naliti hladnom vodom i kuvati 20 minuta na umerenoj temperaturi.
 

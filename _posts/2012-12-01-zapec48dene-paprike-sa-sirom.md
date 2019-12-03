@@ -33,7 +33,7 @@ Potrebno je:
   * 3 dl kisele pavlake ili milerama
   * ulje
 
-<img class="alignnone size-medium wp-image-4847" title="Zapecenepaprikesasirom" src="//superkuvar.com/wp-content/uploads/2012/12/Zapecenepaprikesasirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4847" title="Zapecenepaprikesasirom" src="/wp-content/uploads/2012/12/Zapecenepaprikesasirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paprike oprati, ispeći u pećnici, pa kada se prohlade oljuštiti i očistiti od peteljki i semena. Mogu se koristiti i pečene paprike iz zamrzivača.
 

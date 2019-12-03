@@ -27,7 +27,7 @@ Potrebno je:
   * 2 kesice vanilin šećera
   * pekmez (od kajsija ili šipaka)
 
-[<img class="alignnone size-medium wp-image-9605" src="//superkuvar.com/wp-content/uploads/2011/07/vanilice3-300x225.jpg" alt="vanilice" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/07/vanilice3-e1430808592731.jpg)
+[<img class="alignnone size-medium wp-image-9605" src="/wp-content/uploads/2011/07/vanilice3-300x225.jpg" alt="vanilice" width="300" height="225" />](/wp-content/uploads/2011/07/vanilice3-e1430808592731.jpg)
 
 Priprema: umutiti varjačom mast sa šećerom, jajetom i žumacima, pa dodati brašno i mlevene orahe. Testo dobro izmesiti i razvući u koru debljine oko pola santimetra.
 

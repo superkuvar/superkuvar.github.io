@@ -35,7 +35,7 @@ Za preliv
   * 100 grama čokolade
   * 150 grama kokosovog brašna
 
-<img class="alignnone size-full wp-image-1744" title="cupavcikokos" src="//superkuvar.com/wp-content/uploads/2011/08/cupavcikokos-e1313580187760.jpg" alt="" width="247" height="154" /> 
+<img class="alignnone size-full wp-image-1744" title="cupavcikokos" src="/wp-content/uploads/2011/08/cupavcikokos-e1313580187760.jpg" alt="" width="247" height="154" /> 
 
 Priprema: umutiti jaja sa margarinom i šećerom, dodati kokosovo brašno, mleko, brašno i prašak za pecivo. Testo izmešati varajačom i sipati u dobro podmazan i brašnom posut pleh, pa ispeći.
 

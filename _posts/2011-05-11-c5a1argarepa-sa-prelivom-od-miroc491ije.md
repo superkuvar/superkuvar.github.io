@@ -31,7 +31,7 @@ Potrebno je:
   * biber
   * mirođija
 
-<img class="alignnone size-medium wp-image-5116" src="//superkuvar.com/wp-content/uploads/2011/05/Sargerpa-sa-prelivom-od-mirodjije-300x225.jpg" alt="Sargerpa sa prelivom od mirodjije" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5116" src="/wp-content/uploads/2011/05/Sargerpa-sa-prelivom-od-mirodjije-300x225.jpg" alt="Sargerpa sa prelivom od mirodjije" width="300" height="225" /> 
 
 Priprema: šargarepu očistiti, oprati, iseći na kockice ili štapiće, staviti u sud sa vrelom slanom vodom i kuvati 15 minuta.
 

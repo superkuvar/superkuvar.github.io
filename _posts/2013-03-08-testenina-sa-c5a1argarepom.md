@@ -34,7 +34,7 @@ Potrebno je:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-5418" src="//superkuvar.com/wp-content/uploads/2013/03/Testeninasašargarepom-300x225.jpg" alt="Testeninasašargarepom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5418" src="/wp-content/uploads/2013/03/Testeninasašargarepom-300x225.jpg" alt="Testeninasašargarepom" width="300" height="225" /> 
 
 Priprema: šargarepu oprati, oljuštiti, iseći na kolutove, pa skuvati u manjoj količini posoljene vode, kojoj je dodat bosiljak. Kada je šargarepa kuvana ocediti je.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * kašičica cimeta
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9148" src="//superkuvar.com/wp-content/uploads/2014/05/Lenjapitasabundevom-300x225.jpg" alt="Lenjapitasabundevom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/05/Lenjapitasabundevom.jpg)
+[<img class="alignnone size-medium wp-image-9148" src="/wp-content/uploads/2014/05/Lenjapitasabundevom-300x225.jpg" alt="Lenjapitasabundevom" width="300" height="225" />](/wp-content/uploads/2014/05/Lenjapitasabundevom.jpg)
 
 Priprema: penasto umutiti margarin ili mast sa pola šolje šećera, pa dodati jaja, kiselo i slatko mleko. Masu dobro izmešati a zatim dodati brašno pomešano sa praškom za pecivo. Umesiti mekše testo.
 

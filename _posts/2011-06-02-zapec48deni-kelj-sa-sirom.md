@@ -30,7 +30,7 @@ Potrebno je:
   * so
   * suvi biljni začin
 
-<img class="alignnone size-full wp-image-887" title="musakaodkelja" src="//superkuvar.com/wp-content/uploads/2011/06/musakaodkelja.jpg" alt="" width="160" height="106" /> 
+<img class="alignnone size-full wp-image-887" title="musakaodkelja" src="/wp-content/uploads/2011/06/musakaodkelja.jpg" alt="" width="160" height="106" /> 
 
 Priprema: kelj oprati, očistiti i obariti u slanoj vodi, a zatim ocediti i iseći na rezance. Jaja umutiti sa mlekom i kiselom pavlakom, posoliti i dodati malo suvog biljnog začina. Sir izgnječiti viljuškom.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * 2 šolje gazirane mineralne vode
   * susam
 
-<img class="alignnone size-medium wp-image-3337" title="Projara sa crnim lukom" src="//superkuvar.com/wp-content/uploads/2012/06/Projara-sa-crnim-lukom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3337" title="Projara sa crnim lukom" src="/wp-content/uploads/2012/06/Projara-sa-crnim-lukom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje izmešati kukuruzno i pšenično brašno sa praškom za pecivo. Crni luk očistiti, oprati, iseckati i propržiti na malo ulja, koliko da omekša, pa dodati umućena jaja i izdrobljen sir. Ukoliko sir nije mnogo slan, dodati malo soli.
 

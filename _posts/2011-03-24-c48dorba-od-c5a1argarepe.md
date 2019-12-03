@@ -34,7 +34,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-full wp-image-756" title="corbaodsargarepe" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodsargarepe.jpg" alt="" width="249" height="203" /> 
+<img class="alignnone size-full wp-image-756" title="corbaodsargarepe" src="/wp-content/uploads/2011/03/corbaodsargarepe.jpg" alt="" width="249" height="203" /> 
 
 Priprema: šargarepu očistiti, oprati i narendati na trenici. U lonac sipati malo ulja, dodati šargarepu i kašiku brašna i kratko pržiti. Zatim naliti litrom i po vode i ostaviti da se kuva na umerenoj temperaturi.
 

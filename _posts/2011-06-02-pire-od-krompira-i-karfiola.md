@@ -30,7 +30,7 @@ Potrebno je:
   * suvi biljni začin
   * biber
 
-<img class="alignnone size-full wp-image-907" title="pirekrompirkarfiol" src="//superkuvar.com/wp-content/uploads/2011/06/pirekrompirkarfiol-e1307016947721.jpg" alt="" width="245" height="172" /> 
+<img class="alignnone size-full wp-image-907" title="pirekrompirkarfiol" src="/wp-content/uploads/2011/06/pirekrompirkarfiol-e1307016947721.jpg" alt="" width="245" height="172" /> 
 
 Priprema: krompir i karfiol očistiti i skuvati odvojeno u posoljenoj vodi, ocediti i ispasirati.
 

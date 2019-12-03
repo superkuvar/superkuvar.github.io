@@ -34,7 +34,7 @@ Potrebno je:
   * kačkavalj
   * ulje
 
-[<img class="alignnone size-medium wp-image-6210" src="//superkuvar.com/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem-300x225.jpg" alt="Testeninasaslaninomipovrcem" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem.jpg)
+[<img class="alignnone size-medium wp-image-6210" src="/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem-300x225.jpg" alt="Testeninasaslaninomipovrcem" width="300" height="225" />](/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem.jpg)
 
 Priprema: plavi patlidžan oprati, oljuštiti, iseći na kockice, posoliti i ostaviti 20 minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio.
 

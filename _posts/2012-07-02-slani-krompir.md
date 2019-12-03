@@ -22,7 +22,7 @@ Potrebno je:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3648" title="Slanikrompir" src="//superkuvar.com/wp-content/uploads/2012/07/Slanikrompir-e1341243864452-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3648" title="Slanikrompir" src="/wp-content/uploads/2012/07/Slanikrompir-e1341243864452-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: očišćen i opran krompir iseći na kriške jednake veličine, naliti ga vodom da ogrezne, posoliti i kuvati dok ne omekša.
 

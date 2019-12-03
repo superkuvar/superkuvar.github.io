@@ -25,7 +25,7 @@ Potrebno je:
   * malo soli
   * 1 kašika ulja
 
-<img class="alignnone size-full wp-image-637" title="pirinackaoprilog" src="//superkuvar.com/wp-content/uploads/2011/05/pirinackaoprilog.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-637" title="pirinackaoprilog" src="/wp-content/uploads/2011/05/pirinackaoprilog.jpg" alt="" width="259" height="194" /> 
 
 Priprema: u vodu staviti opran pirinač i posoliti. Kuvati na tihoj vatri dok voda usahne.
 

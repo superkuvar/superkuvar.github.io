@@ -31,7 +31,7 @@ Potrebno je:
   * seckani peršunov list
   * čaša kisele pavlake (po želji)
 
-<img class="alignnone size-full wp-image-1226" title="dinstanaboranija" src="//superkuvar.com/wp-content/uploads/2011/06/dinstanaboranija-e1308658233518.jpg" alt="" width="250" height="168" /> 
+<img class="alignnone size-full wp-image-1226" title="dinstanaboranija" src="/wp-content/uploads/2011/06/dinstanaboranija-e1308658233518.jpg" alt="" width="250" height="168" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i staviti u šerpu sa zagrejanim uljem. Kad postane staklast, dodati očišćenu šargarepu isitnjenu na kolutove i još malo zajedno prodinstati. Zatim dodati očišćenu i opranu boraniju, naliti malo vode i dinstati zajedno. Posle 15-20 minuta dodati sitno seckani beli luk i pire od paradajza.
 

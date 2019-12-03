@@ -35,7 +35,7 @@ Potrebno je:
   * ulje
   * margarin
 
-[<img class="alignnone size-medium wp-image-6297" src="//superkuvar.com/wp-content/uploads/2013/11/Pomesanamusakaodkarfiola-300x225.jpg" alt="Pomesanamusakaodkarfiola" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/11/Pomesanamusakaodkarfiola.jpg)
+[<img class="alignnone size-medium wp-image-6297" src="/wp-content/uploads/2013/11/Pomesanamusakaodkarfiola-300x225.jpg" alt="Pomesanamusakaodkarfiola" width="300" height="225" />](/wp-content/uploads/2013/11/Pomesanamusakaodkarfiola.jpg)
 
 Priprema: crni luk sitno iseckati i propržiti na malo ulja. šargarepu oprati, očistiti, krupno narendati, dodati u luk i pržiti nekoliko minuta. Začiniti solju, biberom i alevom paprikom. Dodati meso, kratko propržiti i sipati pola šoljice mleka.
 

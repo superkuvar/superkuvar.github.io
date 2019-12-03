@@ -34,7 +34,7 @@ Potrebno je:
   * kesica vanilin šećera
   * 1 limun
 
-<img class="alignnone size-full wp-image-1545" title="urmasice" src="//superkuvar.com/wp-content/uploads/2011/07/urmasice3-e1310998985865.jpg" alt="" width="204" height="149" /> 
+<img class="alignnone size-full wp-image-1545" title="urmasice" src="/wp-content/uploads/2011/07/urmasice3-e1310998985865.jpg" alt="" width="204" height="149" /> 
 
 Priprema: umutiti margarin sa šećerom i jajima, pa dodati mleko, kokos i brašno pomešano sa praškom za pecivo. Sve dobro izmesiti, otkidati kuglice, razvaljati ih u valjčiće i odozgo pritisnuti na rende, da ostanu šare.
 

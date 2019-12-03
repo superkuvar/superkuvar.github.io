@@ -32,7 +32,7 @@ Potrebno je:
   * aleva paprika
   * ulje
 
-<img class="alignnone size-medium wp-image-4790" title="Zapečeni spanać" src="//superkuvar.com/wp-content/uploads/2012/11/Zapečeni-spanać-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4790" title="Zapečeni spanać" src="/wp-content/uploads/2012/11/Zapečeni-spanać-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati i iseći na rezance. Crni luk očistiti, sitno iseći i propržiti na zagrejanom ulju. Dodati spanać i pržiti zajedno, dok spanać ne omekša.
 

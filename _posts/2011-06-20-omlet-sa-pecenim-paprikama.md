@@ -26,7 +26,7 @@ Potrebno je:
   * ulje
   * seckana mirođija ili peršun
 
-[<img class="alignnone size-medium wp-image-8901" src="//superkuvar.com/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg" alt="omletsapecenimpaprikama" width="300" height="225" srcset="http://localhost/superkuvar/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2011/06/omletsapecenimpaprikama-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](//superkuvar.com/wp-content/uploads/2011/06/omletsapecenimpaprikama.jpg)
+[<img class="alignnone size-medium wp-image-8901" src="/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg" alt="omletsapecenimpaprikama" width="300" height="225" srcset="http://localhost/superkuvar/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2011/06/omletsapecenimpaprikama-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2011/06/omletsapecenimpaprikama.jpg)
 
 Priprema: paprike ispeći, oljuštiti, iseći na rezance i propržiti na ulju. U zimskom periodu mogu poslužiti i zamrznute pečene paprike. Dodati čen iseckanog belog luka.
 

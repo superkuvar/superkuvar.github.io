@@ -28,7 +28,7 @@ Potrebno je:
   * brašno
   * ulje
 
-<img class="alignnone size-full wp-image-968" title="fasiranesnicle" src="//superkuvar.com/wp-content/uploads/2011/06/fasiranesnicle.jpg" alt="" width="254" height="198" /> 
+<img class="alignnone size-full wp-image-968" title="fasiranesnicle" src="/wp-content/uploads/2011/06/fasiranesnicle.jpg" alt="" width="254" height="198" /> 
 
 Priprema: komad hleba bez korice potopiti u malo mleka. Crni luk očistiti i izrendati, pa ga dodati mlevenom mesu, kao i oceđen hleb. Dodati kašiku sitno seckanog peršunovog lista, so, biber i jaje, pa zamesiti. Pripremljenu smesu ostaviti da odstoji u frižideru 20 minuta.
 

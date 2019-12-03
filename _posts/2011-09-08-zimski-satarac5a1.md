@@ -25,7 +25,7 @@ Potrebno je:
   * soli po ukusu
   * kesica konzervansa
 
-[<img class="alignnone size-medium wp-image-8794" src="//superkuvar.com/wp-content/uploads/2011/09/paradajzzasataras-300x225.jpg" alt="paradajzzasataras" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/09/paradajzzasataras.jpg)
+[<img class="alignnone size-medium wp-image-8794" src="/wp-content/uploads/2011/09/paradajzzasataras-300x225.jpg" alt="paradajzzasataras" width="300" height="225" />](/wp-content/uploads/2011/09/paradajzzasataras.jpg)
 
 Priprema: paprike oprati, očistiti od semena, a paradajz i crni luk oljuštiti. Povrće sitno iseckati ili samleti na mašini za mlevenje mesa.
 

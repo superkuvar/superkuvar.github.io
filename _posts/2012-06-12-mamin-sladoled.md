@@ -27,7 +27,7 @@ Potrebno je:
   * 50 grama margarina
   * 50 grama čokolade (po želji)
 
-<img class="alignnone size-medium wp-image-3444" title="Mamin sladoled" src="//superkuvar.com/wp-content/uploads/2012/06/Mamin-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3444" title="Mamin sladoled" src="/wp-content/uploads/2012/06/Mamin-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudu sipati mleko i staviti na štednjak. U drugoj posudi umutiti žumanca sa tri kašike šećera, kesicom vanilin šećera i brašnom. Kada mleko provri skloniti ga sa štednjaka, pa umešati masu od žumanaca. Vratiti na štednjak i uz neprekidno mešanje kuvati još 4-5 minuta na tihoj vatri. U skuvan vreo krem dodati margarin. Ostaviti da se krem ohladi.
 

@@ -25,7 +25,7 @@ Potrebno je:
   * 2 veće kisele jabuke
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-1564" title="melspajz 1" src="//superkuvar.com/wp-content/uploads/2011/07/melspajz-1-e1311063649496.jpg" alt="" width="252" height="184" /> 
+<img class="alignnone size-medium wp-image-1564" title="melspajz 1" src="/wp-content/uploads/2011/07/melspajz-1-e1311063649496.jpg" alt="" width="252" height="184" /> 
 
 Priprema: jabuke oprati, oljuštiti i narendati. Umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, mlevene orahe i narendane jabuke. Masu dobro izmešati varjačom da se dobije testo srednje gustine.
 

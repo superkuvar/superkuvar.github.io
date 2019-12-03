@@ -25,7 +25,7 @@ Potrebno je:
   * mleveni biber
   * so
 
-<img class="alignnone size-medium wp-image-3560" title="Salataodkrastavaca" src="//superkuvar.com/wp-content/uploads/2012/06/Salataodkrastavaca-e1340267536590-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-3560" title="Salataodkrastavaca" src="/wp-content/uploads/2012/06/Salataodkrastavaca-e1340267536590-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: krastavce oprati, oljuštiti i iseći na kolutove. Beli luk očistiti i sitno iseckati.
 

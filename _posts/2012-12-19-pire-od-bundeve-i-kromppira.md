@@ -34,7 +34,7 @@ Potrebno je:
   * muskatni orah (po želji)
   * kisela pavlaka
 
-<img class="alignnone size-medium wp-image-4913" title="Pireodbundeveikrompira" src="//superkuvar.com/wp-content/uploads/2012/12/Pireodbundeveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4913" title="Pireodbundeveikrompira" src="/wp-content/uploads/2012/12/Pireodbundeveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: bundevu očistiti od semenki, oljuštiti i iseći na kockice. Krompir oprati, oljuštiti i takođe iseći na kockice.
 

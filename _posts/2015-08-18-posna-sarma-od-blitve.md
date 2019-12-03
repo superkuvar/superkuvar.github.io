@@ -28,7 +28,7 @@ biber
 aleva paprika  
 ulje
 
-[<img class="alignnone size-medium wp-image-9705" src="//superkuvar.com/wp-content/uploads/2015/08/posnasarmaodblitve-300x225.jpg" alt="posnasarmaodblitve" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)
+[<img class="alignnone size-medium wp-image-9705" src="/wp-content/uploads/2015/08/posnasarmaodblitve-300x225.jpg" alt="posnasarmaodblitve" width="300" height="225" />](/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)
 
 Priprema: sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, a zatim ih ocediti.
 

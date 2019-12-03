@@ -24,7 +24,7 @@ Potrebno je:
   * origano
   * ulje
 
-<img class="alignnone size-medium wp-image-3822" title="Pirinacsaparadajzom" src="//superkuvar.com/wp-content/uploads/2012/07/Pirinacsaparadajzom-e1343221217432-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-3822" title="Pirinacsaparadajzom" src="/wp-content/uploads/2012/07/Pirinacsaparadajzom-e1343221217432-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: pirinač oprati i skuvati u posoljenoj vodi, a zatim ocediti. Paradajz oprati, oljuštiti i iseći na manje komade.
 

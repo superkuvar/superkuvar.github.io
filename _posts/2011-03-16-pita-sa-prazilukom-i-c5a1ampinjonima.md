@@ -33,7 +33,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-848" title="pitaodsampinjona" src="//superkuvar.com/wp-content/uploads/2011/03/pitaodsampinjona-e1306843120247.jpg" alt="" width="284" height="146" /> 
+<img class="alignnone size-medium wp-image-848" title="pitaodsampinjona" src="/wp-content/uploads/2011/03/pitaodsampinjona-e1306843120247.jpg" alt="" width="284" height="146" /> 
 
 Priprema: praziluk očistiti i sitno iseckati, a šampinjone iseći na listiće.
 

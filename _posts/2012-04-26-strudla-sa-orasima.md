@@ -41,7 +41,7 @@ Fil
   * malo cimeta (po želji)
   * 50 grama suvog grožđa
 
-<img class="alignnone size-medium wp-image-3072" title="Štrudla sa orasima" src="//superkuvar.com/wp-content/uploads/2012/04/%C5%A0trudla-sa-orasima-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3072" title="Štrudla sa orasima" src="/wp-content/uploads/2012/04/%C5%A0trudla-sa-orasima-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kvasac izmrviti, rastvoriti u malo mlakog mleka kome je dodata kašika šećera i ostaviti na toplom mestu da uskisne.
 

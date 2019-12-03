@@ -27,7 +27,7 @@ Potrebno je:
   * ulje (6 kašika)
   * peršunov list
 
-<img class="alignnone size-full wp-image-885" title="krompirubelomsosu" src="//superkuvar.com/wp-content/uploads/2011/06/krompirubelomsosu.jpg" alt="" width="240" height="180" /> 
+<img class="alignnone size-full wp-image-885" title="krompirubelomsosu" src="/wp-content/uploads/2011/06/krompirubelomsosu.jpg" alt="" width="240" height="180" /> 
 
 Priprema: krompir oprati, oljuštiti i iseći na kolutove.
 

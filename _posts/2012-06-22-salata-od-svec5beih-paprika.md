@@ -25,7 +25,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3569" title="Salataodsvežihpaprikasasirom" src="//superkuvar.com/wp-content/uploads/2012/06/Salataodsve%C5%BEihpaprikasasirom-e1340269454692-300x232.jpg" alt="" width="300" height="232" /> 
+<img class="alignnone size-medium wp-image-3569" title="Salataodsvežihpaprikasasirom" src="/wp-content/uploads/2012/06/Salataodsve%C5%BEihpaprikasasirom-e1340269454692-300x232.jpg" alt="" width="300" height="232" /> 
 
 Priprema: papriku oprati, očistiti od peteljki i semena i iseći na rezance. U posebnoj posudi viljuškom izgnječiti sir, dodari malo ulja, bibera i soli ukoliko je potrebno. Izmešati iseckanu papriku sa sirom i uljem i sipati u činiju za salatu, a odozgo posuti iseckanim peršunovim listom.
 

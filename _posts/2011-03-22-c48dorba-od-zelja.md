@@ -25,7 +25,7 @@ Potrebno je:
   * 1/2 čaše kisele pavlake
   * ulje
 
-<img class="alignnone size-medium wp-image-792" title="corbazelje" src="//superkuvar.com/wp-content/uploads/2011/03/corbazelje-300x150.jpg" alt="" width="300" height="150" srcset="http://localhost/superkuvar/wp-content/uploads/2011/03/corbazelje-300x150.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2011/03/corbazelje.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-medium wp-image-792" title="corbazelje" src="/wp-content/uploads/2011/03/corbazelje-300x150.jpg" alt="" width="300" height="150" srcset="http://localhost/superkuvar/wp-content/uploads/2011/03/corbazelje-300x150.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2011/03/corbazelje.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Priprema: zelje oprati, odstraniti drške i preliti vrelom vodom. Kada zelje malo odstoji, ocediti ga i iseckati na sitne rezance.
 

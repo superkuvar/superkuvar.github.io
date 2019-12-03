@@ -31,7 +31,7 @@ Potrebno je:
   * 3 jajeta
   * 100 grama kačkavalja
 
-<img class="alignnone size-medium wp-image-5496" src="//superkuvar.com/wp-content/uploads/2013/03/Princeskrofnesakackavaljem-300x225.jpg" alt="Princeskrofnesakackavaljem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5496" src="/wp-content/uploads/2013/03/Princeskrofnesakackavaljem-300x225.jpg" alt="Princeskrofnesakackavaljem" width="300" height="225" /> 
 
 Priprema: u posudu staviti margarin i mleko, posoliti, pobiberiti i staviti na štednjak da provri. Kada mleko provri skloniti ga sa vatre, pa odjednom usuti brašno, dobro izmešati i vratiti na slabu vatru. Mešati varjačom dok testo ne počne da se odvaja od zidova posude. Skloniti sa štednjaka, ostaviti da se testo ohladi, a zatim dodavati jedno po jedno jaje, dobro mešajući posle svakog.
 

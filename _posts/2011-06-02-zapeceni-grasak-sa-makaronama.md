@@ -28,7 +28,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-full wp-image-893" title="zapecenigrasakimakarone" src="//superkuvar.com/wp-content/uploads/2011/06/zapecenigrasakimakarone-e1307009493955.jpg" alt="" width="242" height="161" /> 
+<img class="alignnone size-full wp-image-893" title="zapecenigrasakimakarone" src="/wp-content/uploads/2011/06/zapecenigrasakimakarone-e1307009493955.jpg" alt="" width="242" height="161" /> 
 
 Priprema: crni luk očistiti i isitniti na listiće, pa propržiti na ulju. U propržen luk dodati grašak i dinstati, uz dolivanje po malo vode, dok ne omekša. Pri kraju dinstanja grašak posoliti i pobiberiti.
 

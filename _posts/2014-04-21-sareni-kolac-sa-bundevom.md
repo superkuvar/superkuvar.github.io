@@ -40,7 +40,7 @@ Potrebno je:
   * 50 g suvog grožđa
   * narendana bundeva (250 g)
 
-[<img class="alignnone size-medium wp-image-9123" src="//superkuvar.com/wp-content/uploads/2014/04/sarenikolacsabundevom-300x225.jpg" alt="sarenikolacsabundevom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/04/sarenikolacsabundevom.jpg)
+[<img class="alignnone size-medium wp-image-9123" src="/wp-content/uploads/2014/04/sarenikolacsabundevom-300x225.jpg" alt="sarenikolacsabundevom" width="300" height="225" />](/wp-content/uploads/2014/04/sarenikolacsabundevom.jpg)
 
 Priprema: umutiti margarin sa šećerom, dodati žumanca i ulje i još malo mutiti. U umućen margarin dodati jogurt, sok od cele pomorandže i iseckano suvo grožđe. Brašno i griz pomešati sa praškom za pecivo i lagano sipati u prethodnu masu. Izmešati, a zatim dodati čvrsto umućen sneg od belanaca i testo opet lagano izmešati.
 

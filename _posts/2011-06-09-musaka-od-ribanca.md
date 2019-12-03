@@ -32,7 +32,7 @@ Potrebno je:
   * 2 jajeta
   * 500 ml mleka
 
-<img class="alignnone size-full wp-image-1036" title="musakaodkupusa" src="//superkuvar.com/wp-content/uploads/2011/06/musakaodkupusa-e1307611204207.jpg" alt="" width="221" height="168" /> 
+<img class="alignnone size-full wp-image-1036" title="musakaodkupusa" src="/wp-content/uploads/2011/06/musakaodkupusa-e1307611204207.jpg" alt="" width="221" height="168" /> 
 
 Priprema: kupus oprati, ukoliko je mnogo slan, ocediti i dinstati na ulju, uz povremeno dolivanje po malo vode. Kad kupus omekša, dodati šolju opranog pirinča, malo bibera i dva lista lovora. Dinstati i dalje dok pirinač ne omekša, uz povremeno mešanje. Kad je gotovo skloniti sa štednjaka.
 

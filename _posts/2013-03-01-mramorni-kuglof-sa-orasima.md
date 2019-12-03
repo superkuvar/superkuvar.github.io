@@ -37,7 +37,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5365" src="//superkuvar.com/wp-content/uploads/2013/02/Mramornikuglofsaaorasima-300x225.jpg" alt="Mramornikuglofsaaorasima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5365" src="/wp-content/uploads/2013/02/Mramornikuglofsaaorasima-300x225.jpg" alt="Mramornikuglofsaaorasima" width="300" height="225" /> 
 
 Priprema: penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
 

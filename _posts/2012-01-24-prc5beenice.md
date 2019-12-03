@@ -24,7 +24,7 @@ Potrebno je:
   * malo soli
   * ulje
 
-<img class="alignnone size-medium wp-image-2336" title="Pofezne (4)" src="//superkuvar.com/wp-content/uploads/2012/01/Pofezne-4-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2336" title="Pofezne (4)" src="/wp-content/uploads/2012/01/Pofezne-4-300x225.jpg" alt="" width="300" height="225" /> 
 
 Ukoliko nam preostane hleb ne treba ga bacati. Od njega se mogu napraviti ukusne prženice, negde ih zovu i pofezne. Pripremaju se brzo i jednostavno i ukusan su doručak.
 

@@ -28,7 +28,7 @@ Potrebno je:
   * 3 supene kašike mleka
   * 3 supene kašike kisele pavlake
 
-<img class="alignnone size-full wp-image-796" title="corbablitvakrompir" src="//superkuvar.com/wp-content/uploads/2011/03/corbablitvakrompir1-e1306826538671.jpg" alt="" width="247" height="171" /> 
+<img class="alignnone size-full wp-image-796" title="corbablitvakrompir" src="/wp-content/uploads/2011/03/corbablitvakrompir1-e1306826538671.jpg" alt="" width="247" height="171" /> 
 
 Priprema: očistiti i oprati listove blitve i krupno ih iseći. U lonac sipati malo ulja, dodati blitvu i dinstati je desetak minuta, uz povremeno mešanje.
 

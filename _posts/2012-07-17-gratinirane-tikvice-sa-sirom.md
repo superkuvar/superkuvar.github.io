@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-3734" title="Gratiniranetikivesasirom" src="//superkuvar.com/wp-content/uploads/2012/07/Gratiniranetikivesasirom-e1342522790174-300x235.jpg" alt="" width="300" height="235" /> 
+<img class="alignnone size-medium wp-image-3734" title="Gratiniranetikivesasirom" src="/wp-content/uploads/2012/07/Gratiniranetikivesasirom-e1342522790174-300x235.jpg" alt="" width="300" height="235" /> 
 
 Priprema: tikvice oprati, oljuštiti, iseći na kolutove, uvaljati u brašno i poređati u podmazanu posudu. Preliti ih uljem, posoliti, pobiberiti i staviti u zagrejanu pećnicu. Tikvice peći na umerenoj temperaturi.
 

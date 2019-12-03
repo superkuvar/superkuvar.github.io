@@ -26,7 +26,7 @@ Potrebno je:
   * so
   * suvi biljni začin
 
-<img class="alignnone size-full wp-image-715" title="supaodsargarepe" src="//superkuvar.com/wp-content/uploads/2011/03/supaodsargarepe.jpg" alt="" width="256" height="192" /> 
+<img class="alignnone size-full wp-image-715" title="supaodsargarepe" src="/wp-content/uploads/2011/03/supaodsargarepe.jpg" alt="" width="256" height="192" /> 
 
 Priprema: šargarepu oprati, oljuštiti i narendati. U lonac staviti malo margarina i rastopiti ga na laganoj vatri, a zatim dodati šargarepu i kratko je propržiti.
 

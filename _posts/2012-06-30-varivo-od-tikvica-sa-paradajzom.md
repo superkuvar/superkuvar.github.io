@@ -29,7 +29,7 @@ Potrebno je:
   * 1 kašika brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-3640" title="Varivoodtikvicasaparadajzom" src="//superkuvar.com/wp-content/uploads/2012/06/Varivoodtikvicasaparadajzom-e1340985875377-300x240.jpg" alt="" width="300" height="240" /> 
+<img class="alignnone size-medium wp-image-3640" title="Varivoodtikvicasaparadajzom" src="/wp-content/uploads/2012/06/Varivoodtikvicasaparadajzom-e1340985875377-300x240.jpg" alt="" width="300" height="240" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na malo zagrejanog ulja, da blago porumeni. Tikvice oprati, oljuštiti, iseći na kolutove i dodati u luk. Dinstati dok tikvice upola ne omekšaju, a zatim ih naliti toplom vodom da ogreznu. Dodati so, suvi biljni začin, paradajz pire i kuvati 30 minuta.
 

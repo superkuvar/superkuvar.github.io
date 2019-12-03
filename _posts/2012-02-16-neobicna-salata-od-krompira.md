@@ -24,7 +24,7 @@ Potrebno je:
   * biber
   * majonez
 
-<img class="alignnone size-medium wp-image-2489" title="Neobicna salata od krompira" src="//superkuvar.com/wp-content/uploads/2012/02/Neobicna-salata-od-krompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2489" title="Neobicna salata od krompira" src="/wp-content/uploads/2012/02/Neobicna-salata-od-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
 

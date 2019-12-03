@@ -43,7 +43,7 @@ Za nadev
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4399" title="Slana torta sa paradajzom" src="//superkuvar.com/wp-content/uploads/2012/09/Slana-torta-sa-paradajzom2-e1348811139121-300x260.jpg" alt="" width="300" height="260" /> 
+<img class="alignnone size-medium wp-image-4399" title="Slana torta sa paradajzom" src="/wp-content/uploads/2012/09/Slana-torta-sa-paradajzom2-e1348811139121-300x260.jpg" alt="" width="300" height="260" /> 
 
 Priprema: paradajz oprati, oljuštiti, isitniti i pržiti na malo ulja, dok se ne zgusne. Posoliti, dodati biber, bosiljak i sitno seckani peršunov list.
 

@@ -22,7 +22,7 @@ Potrebno je:
   * 1 litar zejtina
   * so
 
-<img class="alignnone size-medium wp-image-4182" title="Veselin ajvar" src="//superkuvar.com/wp-content/uploads/2011/09/Veselin-ajvar-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4182" title="Veselin ajvar" src="/wp-content/uploads/2011/09/Veselin-ajvar-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u veću šerpu sipati šest litara vode, dodati četiri kašike soli, šolju sirćeta (ili pola šoljice esencije) i staviti na štednjak da provri.
 

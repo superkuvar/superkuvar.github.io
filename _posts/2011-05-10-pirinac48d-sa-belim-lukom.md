@@ -24,7 +24,7 @@ Potrebno je:
   * biber
   * beli luk
 
-<img class="alignnone size-full wp-image-639" title="pirinac" src="//superkuvar.com/wp-content/uploads/2011/05/pirinac.jpg" alt="" width="256" height="192" /> 
+<img class="alignnone size-full wp-image-639" title="pirinac" src="/wp-content/uploads/2011/05/pirinac.jpg" alt="" width="256" height="192" /> 
 
 Priprema: u vatrostalnoj posudi zagrejati margarin i propržiti iseckan beli luk, da porumeni. Dodati očišćen i opran pirinač, promešati i ostaviti na isključenoj ringli da povuče aromu.
 

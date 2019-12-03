@@ -31,7 +31,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5513" src="//superkuvar.com/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-300x225.jpg" alt="Corba od zelja sa slaninom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5513" src="/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-300x225.jpg" alt="Corba od zelja sa slaninom" width="300" height="225" /> 
 
 Priprema: zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
 

@@ -23,7 +23,7 @@ Potrebno je:
   * 2 banane
   * 1 limun
 
-<img class="alignnone size-medium wp-image-3460" title="Ledenibananadesert" src="//superkuvar.com/wp-content/uploads/2012/06/Ledenibananadesert-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3460" title="Ledenibananadesert" src="/wp-content/uploads/2012/06/Ledenibananadesert-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudu za mućenje sipati jogurt, kiselu pavlaku, šećer i izgnječene banane, prelivene kašikom soka od limuna. Masu umutiti mikserom.
 

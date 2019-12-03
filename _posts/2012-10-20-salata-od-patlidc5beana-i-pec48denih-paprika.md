@@ -35,7 +35,7 @@ Potrebno je:
   * biber
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4523" title="Salataodpatlidzanaipaprika" src="//superkuvar.com/wp-content/uploads/2012/10/Salataodpatlidzanaipaprika-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4523" title="Salataodpatlidzanaipaprika" src="/wp-content/uploads/2012/10/Salataodpatlidzanaipaprika-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti, iseći na režnjeve, posoliti i ostaviti dvadesetak minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio i ispržiti na ulju. Kada se ohladi iseći ga na trakice.
 

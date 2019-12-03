@@ -29,7 +29,7 @@ Potrebno je:
   * 2 šoljice esencije
   * 2 šoljice soli
 
-[<img class="alignnone size-medium wp-image-6180" src="//superkuvar.com/wp-content/uploads/2013/10/Paprike-punjenesargarepom-300x225.jpg" alt="Paprike punjenesargarepom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/10/Paprike-punjenesargarepom.jpg)
+[<img class="alignnone size-medium wp-image-6180" src="/wp-content/uploads/2013/10/Paprike-punjenesargarepom-300x225.jpg" alt="Paprike punjenesargarepom" width="300" height="225" />](/wp-content/uploads/2013/10/Paprike-punjenesargarepom.jpg)
 
 Priprema: paprike oprati, posušiti, očistiti od peteljki i semena i izbušiti viljuškom.
 

@@ -25,7 +25,7 @@ Potrebno je :
   * kašika margarina
   * čokolada ili preliv od čokolade (po želji)
 
-<img class="alignnone size-full wp-image-1613" title="vanilasladoled" src="//superkuvar.com/wp-content/uploads/2011/08/vanilasladoled2-e1312540680164.jpg" alt="" width="266" height="155" /> 
+<img class="alignnone size-full wp-image-1613" title="vanilasladoled" src="/wp-content/uploads/2011/08/vanilasladoled2-e1312540680164.jpg" alt="" width="266" height="155" /> 
 
 Priprema: umutiti žumanca sa šećerom, pa ih sipati u mleko. Krem kuvati na pari, uz neprestano mešanje, dok se ne zgusne. U kuvan krem dodati vanilu i kašiku margarina.
 

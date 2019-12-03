@@ -30,7 +30,7 @@ Potrebno je:
   * origano
   * ulje
 
-<img class="alignnone size-medium wp-image-3779" title="Pitabezkorasapecurkama" src="//superkuvar.com/wp-content/uploads/2012/07/Pitabezkorasapecurkama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3779" title="Pitabezkorasapecurkama" src="/wp-content/uploads/2012/07/Pitabezkorasapecurkama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: šampinjone oprati, iseći na listiće i propržiti na ulju zajedno sa iseckanim crnim lukom. Pri kraju prženja šampinjone posoliti, pobiberiti i dodati malo origana.
 

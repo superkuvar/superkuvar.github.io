@@ -35,7 +35,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-medium wp-image-5354" src="//superkuvar.com/wp-content/uploads/2013/02/Makaronesakrompirom-300x225.jpg" alt="Makaronesakrompirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5354" src="/wp-content/uploads/2013/02/Makaronesakrompirom-300x225.jpg" alt="Makaronesakrompirom" width="300" height="225" /> 
 
 Priprema: opran, neoljušten krompir obariti u malo posoljenoj vodi. Kada se krompir malo ohladi oljuštiti ga i iseći na kolutove.
 

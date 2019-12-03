@@ -27,7 +27,7 @@ Potrebno je:
   * malo isitnjenog karanfilića
   * 100 grama šećera u prahu
 
-<img class="alignnone size-full wp-image-1687" title="belimedenjaci" src="//superkuvar.com/wp-content/uploads/2011/08/belimedenjaci-e1313146493221.jpg" alt="" width="190" height="200" /> 
+<img class="alignnone size-full wp-image-1687" title="belimedenjaci" src="/wp-content/uploads/2011/08/belimedenjaci-e1313146493221.jpg" alt="" width="190" height="200" /> 
 
 Priprema: umutiti penasto margarin sa šećerom. U umućen margarin dodati med, a potom, postepeno, brašno. U dobro sjedinjenu masu dodati jaja, jedno po jedno, a zatim prašak za pecivo.
 

@@ -23,7 +23,7 @@ Potrebno je:
   * 2 čaše šećera
   * kesica vanilin šećera
 
-<img class="alignnone size-full wp-image-1617" title="sladoledmalina" src="//superkuvar.com/wp-content/uploads/2011/08/sladoledmalina-e1312542019658.jpg" alt="" width="227" height="133" /> 
+<img class="alignnone size-full wp-image-1617" title="sladoledmalina" src="/wp-content/uploads/2011/08/sladoledmalina-e1312542019658.jpg" alt="" width="227" height="133" /> 
 
 Priprema: u posudu za mućenje sipati jogurt, pavlaku, propasirano voće, šećer i vanilin šećer, pa umutiti mikserom.
 

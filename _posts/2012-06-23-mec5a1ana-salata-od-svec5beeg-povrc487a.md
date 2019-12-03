@@ -28,7 +28,7 @@ Potrebno je:
   * sirće
   * so
 
-<img class="alignnone size-medium wp-image-3577" title="Mešanasalataodsvežegpovrća" src="//superkuvar.com/wp-content/uploads/2012/06/Me%C5%A1anasalataodsve%C5%BEegpovr%C4%87a-e1340346098811-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-3577" title="Mešanasalataodsvežegpovrća" src="/wp-content/uploads/2012/06/Me%C5%A1anasalataodsve%C5%BEegpovr%C4%87a-e1340346098811-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: paradajz oprati i iseći na kriške pogodne za uzimanje viljuškom. Svežu papriku očistiti od peteljki i semena, oprati i iseći na kolutove. Krastavce oprati, oljuštiti i iseći na kolutove ili polukolutove. Crni luk očistiti, iseći na rebarca i malo izgnječiti rukama. Beli luk očistiti i sitno iseckati.
 

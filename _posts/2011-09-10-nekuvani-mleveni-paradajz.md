@@ -25,7 +25,7 @@ Potrebno je:
   * ravna kašičica vinobrana
   * ulje
 
-<img class="alignnone size-medium wp-image-4362" title="Mleveni paradajz" src="//superkuvar.com/wp-content/uploads/2011/09/Mleveni-paradajz-e1348467563817-300x227.jpg" alt="" width="300" height="227" /> 
+<img class="alignnone size-medium wp-image-4362" title="Mleveni paradajz" src="/wp-content/uploads/2011/09/Mleveni-paradajz-e1348467563817-300x227.jpg" alt="" width="300" height="227" /> 
 
 Priprema: zdrav, zreo paradajz, po mogućnosti &#8221;jabučar&#8221;, oprati i samleti na mašini za mlevenje mesa. Dodati so i vinobran i dobro izmešati.
 

@@ -23,7 +23,7 @@ strugani ren (250 grama)
 soli po ukusu  
 kesica konzervansa
 
-[<img class="alignnone size-medium wp-image-9722" src="//superkuvar.com/wp-content/uploads/2015/09/ajvarsarenom-300x225.jpg" alt="ajvarsarenom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/09/ajvarsarenom-e1441089698713.jpg)
+[<img class="alignnone size-medium wp-image-9722" src="/wp-content/uploads/2015/09/ajvarsarenom-300x225.jpg" alt="ajvarsarenom" width="300" height="225" />](/wp-content/uploads/2015/09/ajvarsarenom-e1441089698713.jpg)
 
 Priprema: paprike oprati, ostaviti da se ocede od vode, a zatim očistiti od semena i žilica i samleti na mašini za mlevenje mesa.
 

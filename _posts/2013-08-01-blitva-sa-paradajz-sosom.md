@@ -27,7 +27,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-5954" src="//superkuvar.com/wp-content/uploads/2013/08/Blitvasaparadajzsosom-300x225.jpg" alt="Blitvasaparadajzsosom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5954" src="/wp-content/uploads/2013/08/Blitvasaparadajzsosom-300x225.jpg" alt="Blitvasaparadajzsosom" width="300" height="225" /> 
 
 Priprema: blitvu oprati, očistiti od belih delova i obariti u ključaloj vodi, a zatim ocediti.
 

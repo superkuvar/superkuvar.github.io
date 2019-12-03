@@ -32,7 +32,7 @@ Potrebno je:
   * suvi biljni začin
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4499" title="Karfiol sa pirincem" src="//superkuvar.com/wp-content/uploads/2011/03/Karfiol-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4499" title="Karfiol sa pirincem" src="/wp-content/uploads/2011/03/Karfiol-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Kada je kuvan, karfiol ocediti i u istoj vodi skuvati pirinač.
 

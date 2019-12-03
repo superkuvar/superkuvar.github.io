@@ -39,7 +39,7 @@ Potrebno je:
   * kašika brašna
   * ulje
 
-[<img class="alignnone size-medium wp-image-6313" src="//superkuvar.com/wp-content/uploads/2013/12/Posnasarmaodslatkogkupusa-300x225.jpg" alt="Posnasarmaodslatkogkupusa" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/12/Posnasarmaodslatkogkupusa.jpg)
+[<img class="alignnone size-medium wp-image-6313" src="/wp-content/uploads/2013/12/Posnasarmaodslatkogkupusa-300x225.jpg" alt="Posnasarmaodslatkogkupusa" width="300" height="225" />](/wp-content/uploads/2013/12/Posnasarmaodslatkogkupusa.jpg)
 
 Priprema: glavicu kupusa prokuvati u slanoj vodi kojoj je dodato malo sirćeta. Kada omekša, ostaviti je da se ohladi pa odvojiti pažljivo listove. Sa svakog lista nožem iseći žilu po dužini lista.
 

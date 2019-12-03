@@ -28,7 +28,7 @@ Potrebno je:
   * 800 g oštrog brašna
   * 200 g mekog brašna
 
-<img class="alignnone size-full wp-image-1694" title="bakinimedenjaci" src="//superkuvar.com/wp-content/uploads/2011/08/bakinimedenjaci1-e1313148345165.jpg" alt="" width="233" height="142" /> 
+<img class="alignnone size-full wp-image-1694" title="bakinimedenjaci" src="/wp-content/uploads/2011/08/bakinimedenjaci1-e1313148345165.jpg" alt="" width="233" height="142" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati med, razmekšali margarin, cimet, na vrh noža soli i brašno izmešano sa praškom za pecivo.
 

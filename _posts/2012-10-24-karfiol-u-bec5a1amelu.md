@@ -34,7 +34,7 @@ Potrebno je:
   * muskatni oraščić
   * 1 žumance
 
-<img class="alignnone size-medium wp-image-4541" title="Karfiol u besamelu" src="//superkuvar.com/wp-content/uploads/2012/10/Karfiol-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4541" title="Karfiol u besamelu" src="/wp-content/uploads/2012/10/Karfiol-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti i ostaviti da se ohladi.
 

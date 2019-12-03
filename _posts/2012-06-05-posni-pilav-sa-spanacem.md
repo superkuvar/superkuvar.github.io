@@ -26,7 +26,7 @@ Potrebno je:
   * glavica crnog luka
   * ulje
 
-<img class="alignnone size-medium wp-image-3350" title="Posnipilavsaspanaćem" src="//superkuvar.com/wp-content/uploads/2012/06/Posnipilavsaspana%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3350" title="Posnipilavsaspanaćem" src="/wp-content/uploads/2012/06/Posnipilavsaspana%C4%87em-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
 

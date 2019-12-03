@@ -33,7 +33,7 @@ Potrebno je:
   * 3 dl mleka
   * ulje
 
-<img class="alignnone size-medium wp-image-5312" src="//superkuvar.com/wp-content/uploads/2013/02/Krompirsaprazilukom-300x225.jpg" alt="Krompirsaprazilukom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5312" src="/wp-content/uploads/2013/02/Krompirsaprazilukom-300x225.jpg" alt="Krompirsaprazilukom" width="300" height="225" /> 
 
 Priprema: krompir oprati i neoljušten skuvati u posoljenoj vodi, a zatim ocediti. Krompir ostaviti u poklopljenoj posudi da se malo ohladi, a zatim oljuštiti i iseći na kolutove.
 

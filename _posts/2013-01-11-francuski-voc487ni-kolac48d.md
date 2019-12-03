@@ -34,7 +34,7 @@ Potrebno je:
   * kesica šlaga
   * 2 štangle čokolade
 
-<img class="alignnone size-medium wp-image-5061" src="//superkuvar.com/wp-content/uploads/2013/01/Francuskivocnikolac-300x225.jpg" alt="Francuskivocnikolac" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5061" src="/wp-content/uploads/2013/01/Francuskivocnikolac-300x225.jpg" alt="Francuskivocnikolac" width="300" height="225" /> 
 
 Priprema: umutiti margarin za mazanje (tipa &#8221;dobro jutro&#8221;) sa šećerom, dodati jaja i mutiti još malo. Pomešati prašak za pecivo sa brašnom, pa sipati u umućeni margarin i jaja i sve umutiti mikserom.
 

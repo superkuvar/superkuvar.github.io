@@ -34,7 +34,7 @@ Potrebno je:
   * kašika kakao praha
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5344" src="//superkuvar.com/wp-content/uploads/2011/07/Kolačsakiselimmlekom-300x225.jpg" alt="Kolačsakiselimmlekom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5344" src="/wp-content/uploads/2011/07/Kolačsakiselimmlekom-300x225.jpg" alt="Kolačsakiselimmlekom" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati kiselo mleko, mleko, ulje, vanilu, prašak za pecivo i brašno. Testo ostaviti da odstoji u frižideru oko pola sata.
 

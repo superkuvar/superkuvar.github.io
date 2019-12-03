@@ -30,7 +30,7 @@ Potrebno je:
   * peršunov list
   * 3-4 kašike sirćeta ili soka od limuna
 
-<img class="alignnone size-medium wp-image-4643" title="Salatakupussargarepa" src="//superkuvar.com/wp-content/uploads/2012/11/Salatakupussargarepa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4643" title="Salatakupussargarepa" src="/wp-content/uploads/2012/11/Salatakupussargarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kupus očistiti od spoljnih listova, iseći na četvrtine i izrendati na trenici. šargarepu oprati, očistiti i takođe izrendati.
 

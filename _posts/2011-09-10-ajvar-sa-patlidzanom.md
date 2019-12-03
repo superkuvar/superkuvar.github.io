@@ -24,7 +24,7 @@ Potrebno je:
   * esencije po ukusu
   * 1,5 kesica konzervansa
 
-<img class="alignnone size-medium wp-image-4172" title="Ajvarsapatlidzanom" src="//superkuvar.com/wp-content/uploads/2011/09/Ajvarsapatlidzanom-e1346658087259.jpg" alt="" width="295" height="221" /> 
+<img class="alignnone size-medium wp-image-4172" title="Ajvarsapatlidzanom" src="/wp-content/uploads/2011/09/Ajvarsapatlidzanom-e1346658087259.jpg" alt="" width="295" height="221" /> 
 
 Priprema: plavi patlidžan i paprike oprati i ispeći u pećnici zagrejanoj na 270 stepeni.
 

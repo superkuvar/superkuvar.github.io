@@ -42,7 +42,7 @@ Potrebno je:
   * 2 kašike prezli
   * ulje
 
-<img class="alignnone size-medium wp-image-5654" src="//superkuvar.com/wp-content/uploads/2013/05/Zapeceniprokeljubesamelu-300x225.jpg" alt="Zapeceniprokeljubesamelu" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5654" src="/wp-content/uploads/2013/05/Zapeceniprokeljubesamelu-300x225.jpg" alt="Zapeceniprokeljubesamelu" width="300" height="225" /> 
 
 Priprema: očistiti krompir i šargarepu, isitniti (krompir na kockice, a šargarepu na kolutove) i obariti u slanoj vodi. Prokelj takođe obariti. Povrće zatim ocediti.
 

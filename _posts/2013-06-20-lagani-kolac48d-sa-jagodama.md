@@ -32,7 +32,7 @@ Potrebno je:
   * 300 grama jagoda
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5801" src="//superkuvar.com/wp-content/uploads/2013/06/Laganikolacsajagodama-300x225.jpg" alt="Laganikolacsajagodama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5801" src="/wp-content/uploads/2013/06/Laganikolacsajagodama-300x225.jpg" alt="Laganikolacsajagodama" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati ulje i brašno pomešano sa praškom za pecivo. Testo lagano izmešati.
 

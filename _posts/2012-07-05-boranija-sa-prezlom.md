@@ -28,7 +28,7 @@ Potrebno je:
   * suvi biljni začin
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3658" title="Boranijasaprezlom" src="//superkuvar.com/wp-content/uploads/2012/07/Boranijasaprezlom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3658" title="Boranijasaprezlom" src="/wp-content/uploads/2012/07/Boranijasaprezlom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: boraniju očistiti, oprati, iseći na manje komade i obariti u slanoj vodi. Kada boranija omekša, ocediti je.
 

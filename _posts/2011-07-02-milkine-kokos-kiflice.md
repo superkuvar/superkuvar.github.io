@@ -29,7 +29,7 @@ Potrebno je:
   * 2 kesice vanilin šećera
   * šećer u prahu, za posipanje
 
-<img class="alignnone size-full wp-image-1331" title="kokoskiflice" src="//superkuvar.com/wp-content/uploads/2011/07/kokoskiflice.jpg" alt="" width="240" height="176" /> 
+<img class="alignnone size-full wp-image-1331" title="kokoskiflice" src="/wp-content/uploads/2011/07/kokoskiflice.jpg" alt="" width="240" height="176" /> 
 
 Priprema: umutiti penasto margarin sa četiri kašike šećera u prahu. Dodati jaje, kokosovo brašno i oštrog brašna, toliko da se zamesi malo čvršće testo.
 

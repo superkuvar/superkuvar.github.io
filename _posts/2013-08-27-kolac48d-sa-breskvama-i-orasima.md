@@ -32,7 +32,7 @@ Potrebno je:
   * breskve (500 grama)
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-6074" src="//superkuvar.com/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima-300x225.jpg" alt="Kolac sa breskvama i orasima" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima.jpg)
+[<img class="alignnone size-medium wp-image-6074" src="/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima-300x225.jpg" alt="Kolac sa breskvama i orasima" width="300" height="225" />](/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima.jpg)
 
 Priprema: penasto umutiti jaja sa šećerom, pa sipati ulje i jogurt. Izmešati, a zatim dodati brašno pomešano sa praškom za pecivo, griz, mlevene orahe i cimet. Testo dobro izmešati varjačom.
 

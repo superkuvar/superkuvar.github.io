@@ -24,7 +24,7 @@ Potrebno je:
   * 4 jajeta
   * 50 grama margarina
 
-<img class="alignnone size-medium wp-image-3448" title="Domaći sladoled" src="//superkuvar.com/wp-content/uploads/2011/08/Doma%C4%87i-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3448" title="Domaći sladoled" src="/wp-content/uploads/2011/08/Doma%C4%87i-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: skuvati mleko sa dve kašike šećera i vanilin šećerom. U međuvremenu, umutiti sneg od belanaca, pa u njih dodati žumanca umućena sa ostatkom šećera i još malo mutiti.
 

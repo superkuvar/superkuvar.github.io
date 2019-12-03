@@ -32,7 +32,7 @@ Potrebno je:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-6340" src="//superkuvar.com/wp-content/uploads/2013/12/Pitasakupusomisirom-300x225.jpg" alt="Pitasakupusomisirom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/12/Pitasakupusomisirom.jpg)
+[<img class="alignnone size-medium wp-image-6340" src="/wp-content/uploads/2013/12/Pitasakupusomisirom-300x225.jpg" alt="Pitasakupusomisirom" width="300" height="225" />](/wp-content/uploads/2013/12/Pitasakupusomisirom.jpg)
 
 Priprema: kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
 

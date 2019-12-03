@@ -30,7 +30,7 @@ Potrebno je:
   * 150 g kokosovog brašna
   * kesica vanilin šećera
 
-<img class="alignnone size-full wp-image-1440" title="cupavcikokos" src="//superkuvar.com/wp-content/uploads/2011/07/cupavcikokos.jpg" alt="" width="259" height="195" /> 
+<img class="alignnone size-full wp-image-1440" title="cupavcikokos" src="/wp-content/uploads/2011/07/cupavcikokos.jpg" alt="" width="259" height="195" /> 
 
 Priprema: penasto umutiti jaja sa šećerom, pa dodati prašak za pecivo, vanilin šećer, ulje i mleko. Dobro izmešati, a zatim sipati 13-15 kašika brašna, da testo bude gusto.
 

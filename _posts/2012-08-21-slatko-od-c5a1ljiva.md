@@ -24,7 +24,7 @@ Potrebno je:
   * štapić vanile
   * malo čistog gašenog kreča ili kesica boraksa
 
-[<img class="alignnone size-medium wp-image-7765" src="//superkuvar.com/wp-content/uploads/2012/08/Šljive1-300x225.jpg" alt="Šljive" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2012/08/Šljive1.jpg)
+[<img class="alignnone size-medium wp-image-7765" src="/wp-content/uploads/2012/08/Šljive1-300x225.jpg" alt="Šljive" width="300" height="225" />](/wp-content/uploads/2012/08/Šljive1.jpg)
 
 Priprema: za pripremu ovog slatka koristi se šljiva &#8221;madžarka&#8221;. Poluzrele šljive oprati, oljuštiti, pa ih spuštati u čistu vodu. Kada sve šljive budu oljuštene staviti ih u vodu u kojoj je rastvoreno malo kreča ili boraksa. Posle sat-dva šljive ocediti i proprati dobro u đevđiru pod tekućom vodom. Staviti ih na krpu da se ocede i izvaditi im koštice.
 

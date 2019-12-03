@@ -28,7 +28,7 @@ Potrebno je:
   * šolja kuvanog paradajza
   * ulje
 
-<img class="alignnone size-medium wp-image-3237" title="Kuvani mladi kupus" src="//superkuvar.com/wp-content/uploads/2012/05/Kuvani-mladi-kupus1-e1337438903246-300x234.jpg" alt="" width="300" height="234" /> 
+<img class="alignnone size-medium wp-image-3237" title="Kuvani mladi kupus" src="/wp-content/uploads/2012/05/Kuvani-mladi-kupus1-e1337438903246-300x234.jpg" alt="" width="300" height="234" /> 
 
 Priprema: crni luk očistiti i sitno iseći. šargarepu i papriku oprati, očistiti i iseći na kolutove. Iseckano povrće kratko propržiti na malo ulja.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * čaša ulja
   * so
 
-<img class="alignnone size-medium wp-image-3056" title="Pita sa spanaćem i prazilukom" src="//superkuvar.com/wp-content/uploads/2012/04/Pita-sa-spana%C4%87em-i-prazilukom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3056" title="Pita sa spanaćem i prazilukom" src="/wp-content/uploads/2012/04/Pita-sa-spana%C4%87em-i-prazilukom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati i u ključaloj vodi bariti 2-3 minuta. Obaren spanać ocediti i sitno iseckati. Praziluk očistiti, oprati i iseckati (ne pržiti ga).
 

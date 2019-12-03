@@ -30,7 +30,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-full wp-image-1150" title="musakapecurke" src="//superkuvar.com/wp-content/uploads/2011/06/musakapecurke-e1308396408270.jpg" alt="" width="200" height="172" /> 
+<img class="alignnone size-full wp-image-1150" title="musakapecurke" src="/wp-content/uploads/2011/06/musakapecurke-e1308396408270.jpg" alt="" width="200" height="172" /> 
 
 Priprema: krompir oprati i skuvati u ljusci. Kada je kuvan, oljuštiti ga i iseći na kolutove.
 

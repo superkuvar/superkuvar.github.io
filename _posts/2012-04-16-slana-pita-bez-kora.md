@@ -27,7 +27,7 @@ Potrebno je:
   * 1 kesica praška za pecivo
   * so
 
-<img class="alignnone size-medium wp-image-3008" title="Slana pita bez kora" src="//superkuvar.com/wp-content/uploads/2012/04/Slana-pita-bez-kora-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3008" title="Slana pita bez kora" src="/wp-content/uploads/2012/04/Slana-pita-bez-kora-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje umutiti margarin, dodati žumanca, pa još malo mutiti. U umućeni margarin dodati mleko, sir izdrobljen viljuškom, brašno pomešano sa praškom za pecivo i so, ukoliko sir nije mnogo slan. Masu dobro izmešati varjačom, pa dodati čvrsto umućen sneg od belanaca.
 

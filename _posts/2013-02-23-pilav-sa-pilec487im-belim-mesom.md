@@ -32,7 +32,7 @@ Potrebno je:
   * kari
   * ulje
 
-<img class="alignnone size-medium wp-image-5326" src="//superkuvar.com/wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-300x225.jpg" alt="Pilavsapilecimbelimmesom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5326" src="/wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-300x225.jpg" alt="Pilavsapilecimbelimmesom" width="300" height="225" /> 
 
 Priprema: opran, očišćen i sitno isečen praziluk ili glavicu crnog luka propržiti na zagrejanom ulju. Dodati belo meso isečeno na kocke i pržiti, dok ne promeni boju &#8211; pobeli. Posoliti, pobiberiti i dodati kari.
 

@@ -34,7 +34,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4685" title="Karfiolsapavlakomisusamom" src="//superkuvar.com/wp-content/uploads/2012/11/Karfiolsapavlakomisusamom-e1352737507768-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-4685" title="Karfiolsapavlakomisusamom" src="/wp-content/uploads/2012/11/Karfiolsapavlakomisusamom-e1352737507768-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: karfiol očistiti, oprati, razdvojiti na cvetiće i obariti u slanoj vodi. Ocediti ga, staviti u posudu za služenje pa preliti susamom proprženim na malo ulja i sosom. Odozgo posuti seckanim peršunom.
 

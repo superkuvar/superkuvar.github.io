@@ -33,7 +33,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5578" src="//superkuvar.com/wp-content/uploads/2013/04/Sampinjonisapavlakom-300x225.jpg" alt="Sampinjonisapavlakom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5578" src="/wp-content/uploads/2013/04/Sampinjonisapavlakom-300x225.jpg" alt="Sampinjonisapavlakom" width="300" height="225" /> 
 
 Priprema: šampinjone očistiti, oprati i sitno iseckati.
 

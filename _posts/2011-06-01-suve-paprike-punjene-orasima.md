@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * aleva paprika
 
-<img class="alignnone size-full wp-image-880" title="suvepaprike" src="//superkuvar.com/wp-content/uploads/2011/06/suvepaprike-e1306931465609.jpg" alt="" width="234" height="170" /> 
+<img class="alignnone size-full wp-image-880" title="suvepaprike" src="/wp-content/uploads/2011/06/suvepaprike-e1306931465609.jpg" alt="" width="234" height="170" /> 
 
 Priprema: suve paprike pre kuvanja potopiti u mlaku vodu. Crni luk i bele delove praziluka sitno iseckati, pa ih dinstati na ulju. Kada tečnost ispari i luk počne da dobija žućkastu boju, dodati opran pirinač i alevu papriku. Skloniti sa vatre, dodati mlevene orahe, posoliti i pobiberiti.
 

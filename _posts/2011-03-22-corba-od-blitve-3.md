@@ -28,7 +28,7 @@ Potrebno je:
   * biber
   * suvi biljni začin
 
-<img class="alignnone size-medium wp-image-3972" title="Čorbaodblitve" src="//superkuvar.com/wp-content/uploads/2011/03/orbaodblitve-e1344941189345.jpg" alt="" width="295" height="221" /> 
+<img class="alignnone size-medium wp-image-3972" title="Čorbaodblitve" src="/wp-content/uploads/2011/03/orbaodblitve-e1344941189345.jpg" alt="" width="295" height="221" /> 
 
 Priprema: blitvu oprati, očistiti od belih delova i izrezati na krupnije rezance. U loncu, na malo zagrejanog ulja propržiti očišćenu glavicu crnog luka izrezanu na listiće.
 

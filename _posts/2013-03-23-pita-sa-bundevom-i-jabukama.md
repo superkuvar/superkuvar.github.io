@@ -32,7 +32,7 @@ Potrebno je:
   * ulje
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5507" src="//superkuvar.com/wp-content/uploads/2013/03/Pitasabundevomijabukama1-300x225.jpg" alt="Pitasabundevomijabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5507" src="/wp-content/uploads/2013/03/Pitasabundevomijabukama1-300x225.jpg" alt="Pitasabundevomijabukama" width="300" height="225" /> 
 
 Priprema: bundevu oljuštiti, oprati i narendati, a zatim prodinstati na malo ulja. Kada je bundeva omekšala dodati šećer, cimet i narendane oljuštene jabuke. Dinstati još dva-tri minuta, pa skloniti sa vatre.
 

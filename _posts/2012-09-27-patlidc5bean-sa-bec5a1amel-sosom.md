@@ -38,7 +38,7 @@ Za bešamel sos
   * biber
   * 1 jaje
 
-<img class="alignnone size-medium wp-image-4386" title="Patlidzansabesamelom" src="//superkuvar.com/wp-content/uploads/2012/09/Patlidzansabesamelom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4386" title="Patlidzansabesamelom" src="/wp-content/uploads/2012/09/Patlidzansabesamelom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti i iseći na kockice. Crni i beli luk očistiti i sitno iseckati.
 

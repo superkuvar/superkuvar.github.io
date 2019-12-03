@@ -32,7 +32,7 @@ Potrebno je:
   * kašika gustina (skroba)
   * ulje
 
-[<img class="alignnone size-medium wp-image-9254" src="//superkuvar.com/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom-300x225.jpg" alt="gulasodpecurakasabelimvinom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom.jpg)
+[<img class="alignnone size-medium wp-image-9254" src="/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom-300x225.jpg" alt="gulasodpecurakasabelimvinom" width="300" height="225" />](/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom.jpg)
 
 Priprema: na ulju propržiti sitno seckani crni luk. Pečurke oprati, iseći na listiće, dodati u luk i dinstati na umerenoj temperaturi, uz dolivanje po malo tople vode ili supe od kocke.
 

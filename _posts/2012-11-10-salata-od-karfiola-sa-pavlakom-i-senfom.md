@@ -33,7 +33,7 @@ Potrebno je:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4669" title="Salata od karfiola sa pavlakom i senfom" src="//superkuvar.com/wp-content/uploads/2012/11/Salata-od-karfiola-sa-pavlakom-i-senfom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4669" title="Salata od karfiola sa pavlakom i senfom" src="/wp-content/uploads/2012/11/Salata-od-karfiola-sa-pavlakom-i-senfom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi, ali da ne omekša previše. Obaren karfiol ocediti i staviti u činiju za salatu.
 

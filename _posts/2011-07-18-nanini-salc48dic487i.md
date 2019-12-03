@@ -31,7 +31,7 @@ Potrebno je:
   * prah šećer
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-full wp-image-1517" title="salcici3" src="//superkuvar.com/wp-content/uploads/2011/07/salcici3-e1310990174604.jpg" alt="" width="238" height="153" /> 
+<img class="alignnone size-full wp-image-1517" title="salcici3" src="/wp-content/uploads/2011/07/salcici3-e1310990174604.jpg" alt="" width="238" height="153" /> 
 
 Priprema: salo isprati u hladnoj vodi, očistiti od žilica i dva puta samleti na mašini za mlevenje mesa.
 

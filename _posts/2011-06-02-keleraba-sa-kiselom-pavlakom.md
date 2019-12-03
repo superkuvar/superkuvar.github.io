@@ -24,7 +24,7 @@ Potrebno je:
   * kašika brašna
   * so
 
-<img class="alignnone size-medium wp-image-3521" title="Kelerabasakiselompavlakom" src="//superkuvar.com/wp-content/uploads/2011/06/Kelerabasakiselompavlakom-e1340206670984-300x229.jpg" alt="" width="300" height="229" /> 
+<img class="alignnone size-medium wp-image-3521" title="Kelerabasakiselompavlakom" src="/wp-content/uploads/2011/06/Kelerabasakiselompavlakom-e1340206670984-300x229.jpg" alt="" width="300" height="229" /> 
 
 Priprema: kelerabu oljuštiti i iseći na kolutove, pa kuvati u slanoj vodi kojoj se doda komadić margarina. Kada keleraba omekša, vodu od kuvanja ocediti u drugi sud.
 

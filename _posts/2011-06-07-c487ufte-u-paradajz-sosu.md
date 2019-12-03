@@ -25,7 +25,7 @@ Potrebno je:
   * 3 kašike brašna
   * ulje
 
-<img class="alignnone size-full wp-image-976" title="cufteusosu" src="//superkuvar.com/wp-content/uploads/2011/06/cufteusosu-e1307446228886.jpg" alt="" width="263" height="169" /> 
+<img class="alignnone size-full wp-image-976" title="cufteusosu" src="/wp-content/uploads/2011/06/cufteusosu-e1307446228886.jpg" alt="" width="263" height="169" /> 
 
 Priprema: hleb preliti mlakom vodom i ostaviti kratko da upije. Dobro ga ocediti i pomešati sa mlevenim mesom i jajetom. Posoliti i pobiberiti po ukusu i dobro izmesiti. Od ove mase praviti loptice &#8211; ćufte i pržiti na zagrejanom ulju.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * origano
   * ulje
 
-<img class="alignnone size-medium wp-image-4331" title="Tikvicepunjenepecurkama" src="//superkuvar.com/wp-content/uploads/2012/09/Tikvicepunjenepecurkama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4331" title="Tikvicepunjenepecurkama" src="/wp-content/uploads/2012/09/Tikvicepunjenepecurkama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati i neoljuštene obariti u slanoj vodi, da omekšaju. Obarene tikvice ocediti, pa kada se ohlade preseći na pola po dužini i kašičicom izdubiti sredinu.
 

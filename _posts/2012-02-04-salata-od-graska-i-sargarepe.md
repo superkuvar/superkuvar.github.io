@@ -31,7 +31,7 @@ Potrebno je:
   * seckani peršunov list
   * 1 čaša milerama
 
-<img class="alignnone size-medium wp-image-2487" title="Salata grašak i šargarepa" src="//superkuvar.com/wp-content/uploads/2012/02/Salata-gra%C5%A1ak-i-%C5%A1argarepa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2487" title="Salata grašak i šargarepa" src="/wp-content/uploads/2012/02/Salata-gra%C5%A1ak-i-%C5%A1argarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: grašak skuvati, ocediti od vode i ostaviti da se ohladi. šargarepu oprati, očistiti i obariti u slanoj vodi. Kada se ohladi iseći je na kolutove. Pripremljeno povrće staviti u činiju.
 

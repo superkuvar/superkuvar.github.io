@@ -42,7 +42,7 @@ Potrebno je:
   * džem od kajsija
   * 100 grama čokolade
 
-<img class="alignnone size-medium wp-image-4427" title="Mafinisadzemom" src="//superkuvar.com/wp-content/uploads/2012/10/Mafinisadzemom-e1349082950666-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-4427" title="Mafinisadzemom" src="/wp-content/uploads/2012/10/Mafinisadzemom-e1349082950666-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: u posudi za mešenje penasto umutiti jaja sa šećerom i vanilin šećerom. U umućena jaja dodati ulje, mleko, cimet, griz i brašno pomešano sa praškom za pecivo. Sve dobro sjediniti. Smesu podeliti na dva dela, pa u jedan dodati kakao.
 

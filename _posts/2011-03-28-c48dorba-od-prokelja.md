@@ -33,7 +33,7 @@ Potrebno je:
   * malo bibera
   * 2 dl kisele pavlake
 
-<img class="alignnone size-full wp-image-722" title="corbaodprokelja" src="//superkuvar.com/wp-content/uploads/2011/03/corbaodprokelja.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-722" title="corbaodprokelja" src="/wp-content/uploads/2011/03/corbaodprokelja.jpg" alt="" width="259" height="194" /> 
 
 Priprema: crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti.
 

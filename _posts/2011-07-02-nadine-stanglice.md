@@ -25,7 +25,7 @@ Potrebno je:
   * malo margarina
   * 3 kašike slatkog mleka
 
-[<img class="alignnone size-medium wp-image-8643" src="//superkuvar.com/wp-content/uploads/2011/07/Nadinestanglice-300x225.jpg" alt="Nadinestanglice" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/07/Nadinestanglice.jpg)
+[<img class="alignnone size-medium wp-image-8643" src="/wp-content/uploads/2011/07/Nadinestanglice-300x225.jpg" alt="Nadinestanglice" width="300" height="225" />](/wp-content/uploads/2011/07/Nadinestanglice.jpg)
 
 Priprema: u šerpu sipati šećer, preliti ga čašom vode i kuvati na tihoj vatri dok ne dobije gustinu sirupa za slatko. Zatim dodati mlevene orahe, mleveni keks i mleko u prahu i dobro izmešati. Prohlađenu masu rastanjiti na pomešćenoj hartiji, da bude debljine oko dva santimetra.
 

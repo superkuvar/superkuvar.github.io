@@ -31,7 +31,7 @@ Potrebno je:
   * 5 kašika brašna
   * 2 kesice šlaga
 
-<img class="alignnone size-medium wp-image-5396" src="//superkuvar.com/wp-content/uploads/2011/08/Kolačsajabukama-300x225.jpg" alt="Kolačsajabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5396" src="/wp-content/uploads/2011/08/Kolačsajabukama-300x225.jpg" alt="Kolačsajabukama" width="300" height="225" /> 
 
 Priprema: u pleh ( šerpu), čije dno i stranice obložiti aluminijumskom folijom ili masnim papirom, staviti 10 kašika šećera, a preko oljuštene i izrendane jabuke. Jabuke posuti sa 5 kašika šećera izmešanog sa kesicom cimeta. Peći na 200 stepeni, dok se šećer ne istopi i požuti, a jabuke omekšaju.
 

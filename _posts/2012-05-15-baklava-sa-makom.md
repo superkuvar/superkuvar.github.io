@@ -35,7 +35,7 @@ Preliv:
   * 3,5 čaše šećera
   * 3 čaše vode
 
-<img class="alignnone size-medium wp-image-3219" title="Baklava sa makom" src="//superkuvar.com/wp-content/uploads/2012/05/Baklava-sa-makom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3219" title="Baklava sa makom" src="/wp-content/uploads/2012/05/Baklava-sa-makom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati ulje, mileram, vanilin šećer i mak pomešan sa praškom za pecivo. Lagano varjačom izmešati da se dobije ujednačena masa.
 

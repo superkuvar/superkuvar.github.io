@@ -29,7 +29,7 @@ Potrebno je:
   * 3 kašike šećera
   * kašičica praška za pecivo
 
-<img class="alignnone size-medium wp-image-5481" src="//superkuvar.com/wp-content/uploads/2012/01/Gurabije-sa-medom-300x225.jpg" alt="Gurabije sa medom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5481" src="/wp-content/uploads/2012/01/Gurabije-sa-medom-300x225.jpg" alt="Gurabije sa medom" width="300" height="225" /> 
 
 Priprema: penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
 

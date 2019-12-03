@@ -23,7 +23,7 @@ Potrebno je:
   * 100 grama mlevenih oraha
   * kristal šećer za posipanje ili mleveni orasi
 
-<img class="alignnone size-medium wp-image-2300" title="Bombicejabukeorasi" src="//superkuvar.com/wp-content/uploads/2011/07/Bombicejabukeorasi-e1327059400644.jpg" alt="" width="290" height="217" /> 
+<img class="alignnone size-medium wp-image-2300" title="Bombicejabukeorasi" src="/wp-content/uploads/2011/07/Bombicejabukeorasi-e1327059400644.jpg" alt="" width="290" height="217" /> 
 
 Priprema: jabuke oprati, oljuštiti i izrendati na krupno rende. Narendane jabuke staviti u šerpu, dodati šećer i pržiti na štednjaku na umerenoj temperaturi. Prilikom prženja jabuke treba stalno mešati varjačom, da ne zagore. Gotove su kada dobiju staklast izgled.
 

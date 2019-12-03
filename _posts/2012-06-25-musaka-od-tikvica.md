@@ -32,7 +32,7 @@ Potrebno je:
   * bosiljak
   * ulje
 
-<img class="alignnone size-medium wp-image-3609" title="Musakaodtikvica" src="//superkuvar.com/wp-content/uploads/2012/06/Musakaodtikvica-e1340639537919-300x229.jpg" alt="" width="300" height="229" /> 
+<img class="alignnone size-medium wp-image-3609" title="Musakaodtikvica" src="/wp-content/uploads/2012/06/Musakaodtikvica-e1340639537919-300x229.jpg" alt="" width="300" height="229" /> 
 
 Priprema: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da malo odstoje, da puste vodu. U međuvremenu, na malo ulja propržiti sitno seckani crni luk, dodati meso i kratko prodinstati. Posoliti i pobiberiti.
 

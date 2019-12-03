@@ -26,7 +26,7 @@ Potrebno je:
   * kesica cimeta
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-2114" title="domaca alva 1" src="//superkuvar.com/wp-content/uploads/2011/12/domaca-alva-1-e1324560903213.jpg" alt="" width="248" height="143" /> 
+<img class="alignnone size-medium wp-image-2114" title="domaca alva 1" src="/wp-content/uploads/2011/12/domaca-alva-1-e1324560903213.jpg" alt="" width="248" height="143" /> 
 
 Priprema: u šerpi, na slaboj vatri istopiti i zagrejati margarin, a zatim dodati griz. Pržiti, uz neprestano mešanje da griz ne bi zagoreo.
 

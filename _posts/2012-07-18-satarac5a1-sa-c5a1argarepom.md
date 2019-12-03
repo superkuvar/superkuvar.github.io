@@ -30,7 +30,7 @@ Potrebno je:
   * bosiljak
   * 2 jajeta
 
-<img class="alignnone size-medium wp-image-3747" title="Sataras sa sargarepom" src="//superkuvar.com/wp-content/uploads/2012/07/Sataras-sa-sargarepom-e1342616876564-300x233.jpg" alt="" width="300" height="233" /> 
+<img class="alignnone size-medium wp-image-3747" title="Sataras sa sargarepom" src="/wp-content/uploads/2012/07/Sataras-sa-sargarepom-e1342616876564-300x233.jpg" alt="" width="300" height="233" /> 
 
 Priprema: u vrelo ulje dodati sitno isečen crni luk i pržiti da postane staklast. šargarepu oprati, oljuštiti, iseći na kolutove, dodati u luk, promešati i zajedno malo propržiti.
 

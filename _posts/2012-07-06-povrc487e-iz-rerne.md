@@ -32,7 +32,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3674" title="Povrćeizrerne" src="//superkuvar.com/wp-content/uploads/2012/07/Povr%C4%87eizrerne-e1341554603252-300x241.jpg" alt="" width="300" height="241" /> 
+<img class="alignnone size-medium wp-image-3674" title="Povrćeizrerne" src="/wp-content/uploads/2012/07/Povr%C4%87eizrerne-e1341554603252-300x241.jpg" alt="" width="300" height="241" /> 
 
 Priprema: tikvice oprati, oljuštiti i iseći na kocke. Paradajz oljuštiti i iseći na kolutove ili kriške. U podmazanu posudu za pečenje staviti tikvice, posoliti ih, dodati suvi biljni začin i preko sipati prethodno na malo ulja propržen sitno seckani crni luk. Preko tikvica poređati kolutove ili kriške paradajza, malo posoliti, pobiberiti, dodati origano, sitno seckani peršunov list i beli luk.
 

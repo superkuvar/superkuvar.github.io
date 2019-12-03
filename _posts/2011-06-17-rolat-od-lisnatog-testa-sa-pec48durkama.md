@@ -32,7 +32,7 @@ Potrebno je:
   * susam
   * ulje
 
-<img class="alignnone size-full wp-image-1153" title="rolatsapecurkama" src="//superkuvar.com/wp-content/uploads/2011/06/rolatsapecurkama-e1308396983151.jpg" alt="" width="222" height="163" /> 
+<img class="alignnone size-full wp-image-1153" title="rolatsapecurkama" src="/wp-content/uploads/2011/06/rolatsapecurkama-e1308396983151.jpg" alt="" width="222" height="163" /> 
 
 Priprema: pečurke očistiti, oprati i narezati na listiće. Slaninu ili suvi vrat i crni luk sitno iseckati, pa propržiti zajedno na malo ulja. Dodati pečurke, poklopiti i dinstati desetak minuta, da uvri voda koju su pečurke pustile. Začiniti peršunom, solju i biberom.
 

@@ -34,7 +34,7 @@ Potrebno je:
   * majoran
   * ulje
 
-<img class="alignnone size-medium wp-image-3756" title="Gratiniranopovrcesasirom" src="//superkuvar.com/wp-content/uploads/2012/07/Gratiniranopovrcesasirom-e1342618407235-300x241.jpg" alt="" width="300" height="241" /> 
+<img class="alignnone size-medium wp-image-3756" title="Gratiniranopovrcesasirom" src="/wp-content/uploads/2012/07/Gratiniranopovrcesasirom-e1342618407235-300x241.jpg" alt="" width="300" height="241" /> 
 
 Priprema: crni luk očistiti, sitno iseći i propržiti na malo ulja. šargarepu oprati, oljuštiti i narendati. Paprike oprati i iseći na rezance. Tikvice oprati, oljuštiti i iseći na kolutove.
 

@@ -24,7 +24,7 @@ Potrebno je:
   * fida ili knedle
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3163" title="Brza supa bez mesa" src="//superkuvar.com/wp-content/uploads/2012/05/Brza-supa-bez-mesa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3163" title="Brza supa bez mesa" src="/wp-content/uploads/2012/05/Brza-supa-bez-mesa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud sipati vodu, dodati ulje i staviti na štednjak. Kada proključa, posoliti, dodati kašiku suvog biljnog začina, fidu, domaće rezance ili knedle. Supu kuvati 15-20 minuta. Gotovu supu posuti seckanim peršunovim listom.
 

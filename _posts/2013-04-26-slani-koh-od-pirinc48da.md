@@ -33,7 +33,7 @@ Potrebno je:
   * kari začin
   * ulje
 
-<img class="alignnone size-medium wp-image-5635" src="//superkuvar.com/wp-content/uploads/2013/04/Slanikohodpirinca-300x225.jpg" alt="Slanikohodpirinca" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5635" src="/wp-content/uploads/2013/04/Slanikohodpirinca-300x225.jpg" alt="Slanikohodpirinca" width="300" height="225" /> 
 
 Priprema: opran pirinač skuvati u slanoj vodi, ali voditi računa da se ne raskuva.
 

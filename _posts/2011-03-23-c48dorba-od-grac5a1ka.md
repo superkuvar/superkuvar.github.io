@@ -35,7 +35,7 @@ Potrebno je:
   * 2 dl mleka
   * ulje
 
-<img class="alignnone size-full wp-image-759" title="grasakcorba" src="//superkuvar.com/wp-content/uploads/2011/03/grasakcorba.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-759" title="grasakcorba" src="/wp-content/uploads/2011/03/grasakcorba.jpg" alt="" width="259" height="194" /> 
 
 Priprema: na malo ulja izdinstati sitno seckani crni luk, dodati šargarepu isečenu na kolutove, krompir isečen na kockice i grašak. Nakon pet minuta sipati litar i po tople vode, posoliti i kuvati dok povrće ne omekša.
 

@@ -41,7 +41,7 @@ Potrebno je:
   * 2 manja krompira
   * 2 šoljice ulja
 
-<img class="alignnone size-medium wp-image-5019" src="//superkuvar.com/wp-content/uploads/2013/01/Paprikepunjenepecurkama-300x225.jpg" alt="Paprikepunjenepecurkama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5019" src="/wp-content/uploads/2013/01/Paprikepunjenepecurkama-300x225.jpg" alt="Paprikepunjenepecurkama" width="300" height="225" /> 
 
 Priprema: suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
 

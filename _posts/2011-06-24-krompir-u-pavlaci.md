@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-full wp-image-1261" title="krompirupavlaci" src="//superkuvar.com/wp-content/uploads/2011/06/krompirupavlaci-e1308913609213.jpg" alt="" width="235" height="168" /> 
+<img class="alignnone size-full wp-image-1261" title="krompirupavlaci" src="/wp-content/uploads/2011/06/krompirupavlaci-e1308913609213.jpg" alt="" width="235" height="168" /> 
 
 Priprema: krompir oprati, neoljušten naliti hladnom vodom i skuvati. Ohlađen krompir oljuštiti i iseći na kolutove.
 

@@ -33,7 +33,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3625" title="Boranijasakrompirom" src="//superkuvar.com/wp-content/uploads/2012/06/Boranijasakrompirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3625" title="Boranijasakrompirom" src="/wp-content/uploads/2012/06/Boranijasakrompirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: na vrelom ulju propržiti sitno seckani crni luk, pa dodati boraniju, prethodno opranu, očišćenu i isečenu na komade dužine 3-4 santimetra i očišćenu šargarepu. Naliti toplom vodom da ogrezne i kuvati dok boranija upola ne omekša. Posoliti, dodati suvi biljni začin, sitno seckani beli luk, paradajz isečen na kriške ili sok od paradajza i očišćen krompir isečen na kocke. Kuvati dok boranija i krompir ne omekšaju.
 

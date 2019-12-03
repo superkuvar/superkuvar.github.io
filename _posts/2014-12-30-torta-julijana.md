@@ -47,7 +47,7 @@ Fil – beli
   * 2 dl mleka
   * 100 grama čokolade
 
-[<img class="alignnone size-medium wp-image-9338" src="//superkuvar.com/wp-content/uploads/2014/12/tortajulijana-300x225.jpg" alt="tortajulijana" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2014/12/tortajulijana.jpg)
+[<img class="alignnone size-medium wp-image-9338" src="/wp-content/uploads/2014/12/tortajulijana-300x225.jpg" alt="tortajulijana" width="300" height="225" />](/wp-content/uploads/2014/12/tortajulijana.jpg)
 
 Priprema: penasto umutiti jaja sa šećerom, dodati mlevene orahe, brašno i kakao i lagano izmešati varjačom. Pripremljeno testo sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni oko 25 minuta. Pečenu koru, kada se ohladi, preseći na dva jednaka dela. Obe dobijene kore preseći vodoravno oštrim dužim nožem, da se dobiju četiri tanje kore. Ukoliko nemate pogodan veliki pleh kore se mogu peći iz dva puta.
 

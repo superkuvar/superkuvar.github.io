@@ -32,7 +32,7 @@ Potrebno je:
   * šećer
   * cimet
 
-<img class="alignnone size-medium wp-image-4286" title="Knedlesasljivama" src="//superkuvar.com/wp-content/uploads/2012/09/Knedlesasljivama-e1347717107106-300x236.jpg" alt="" width="300" height="236" /> 
+<img class="alignnone size-medium wp-image-4286" title="Knedlesasljivama" src="/wp-content/uploads/2012/09/Knedlesasljivama-e1347717107106-300x236.jpg" alt="" width="300" height="236" /> 
 
 Priprema: krompir, najbolje beli, oprati, skuvati, a kada se malo prohladi oljuštiti i ispasirati.
 

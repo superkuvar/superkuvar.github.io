@@ -35,7 +35,7 @@ Potrebno je:
   * majoran
   * čaša kisele pavlake
 
-<img class="alignnone size-full wp-image-1077" title="paprikas" src="//superkuvar.com/wp-content/uploads/2011/06/paprikas-e1308127906577.jpg" alt="" width="240" height="140" /> 
+<img class="alignnone size-full wp-image-1077" title="paprikas" src="/wp-content/uploads/2011/06/paprikas-e1308127906577.jpg" alt="" width="240" height="140" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Kada postane staklast dodati svinjsko meso isečeno na manje komade i začinsku papriku, pa posuti brašnom. Sipati malo vode i dinstati dok meso omekša. Posoliti, pobiberiti i dodati pola kašičice majorana.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * 350 g šećera (za šerbet)
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-medium wp-image-5392" src="//superkuvar.com/wp-content/uploads/2011/07/Ravanija1-300x225.jpg" alt="Ravanija1" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5392" src="/wp-content/uploads/2011/07/Ravanija1-300x225.jpg" alt="Ravanija1" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, brašno, prašak za pecivo i suvo grožđe, prethodno oprano.
 

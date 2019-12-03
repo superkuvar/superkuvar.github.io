@@ -30,7 +30,7 @@ Potrebno je:
   * malo ulja
   * kisela pavlaka (po želji)
 
-<img class="alignnone size-medium wp-image-2287" title="Corba-tikva+mrkva 1" src="//superkuvar.com/wp-content/uploads/2012/01/Corba-tikva+mrkva-1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2287" title="Corba-tikva+mrkva 1" src="/wp-content/uploads/2012/01/Corba-tikva+mrkva-1-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: bundevu oprati, oljuštiti i izrendati na krupno rende. šargarepu i praziluk takođe oprati, oljuštiti i iseći na kolutove.
 

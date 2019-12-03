@@ -30,7 +30,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-2833" title="Pita sa jabukama" src="//superkuvar.com/wp-content/uploads/2012/03/Pita-sa-jabukama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2833" title="Pita sa jabukama" src="/wp-content/uploads/2012/03/Pita-sa-jabukama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: jabuke oprati, oljuštiti i izrendati na krupno rende, dodati šećer po ukusu, suvo grožđe, cimet, prezle i mlevene orahe (po želji).
 

@@ -29,7 +29,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-2835" title="Pita od bundeve" src="//superkuvar.com/wp-content/uploads/2012/03/Pita-od-bundeve-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2835" title="Pita od bundeve" src="/wp-content/uploads/2012/03/Pita-od-bundeve-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: šoljicu ulja izmešati sa malo vode. Po četiri kore ređati jednu na drugu, svaku poprskati mešavinom ulja i vode i posuti sa malo šećera. Na četvrtu koru staviti rendanu bundevu pomešanu sa šećerom, cimetom i suvim grožđem, pa uvijati u vidu štrudle.
 

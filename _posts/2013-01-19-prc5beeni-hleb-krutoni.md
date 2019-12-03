@@ -24,7 +24,7 @@ Potrebno je:
   * nekoliko kriški bajatog ili tost hleba
   * maslac (margarin) ili ulje
 
-<img class="alignnone size-medium wp-image-5094" src="//superkuvar.com/wp-content/uploads/2013/01/Prženi-hleb-300x225.jpg" alt="Prženi hleb" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5094" src="/wp-content/uploads/2013/01/Prženi-hleb-300x225.jpg" alt="Prženi hleb" width="300" height="225" /> 
 
 Priprema: hleb iseći na kriške jednake debljine, odstraniti koru i sredinu iseći na kockice. U tiganju zagrejati puter (margarin) i staviti kockice hleba. Pržiti na umerenoj temperaturi, uz mešanje kako bi se tokom prženja hleb ispržio sa svih strana.
 

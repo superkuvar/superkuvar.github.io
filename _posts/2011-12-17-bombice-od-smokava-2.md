@@ -26,7 +26,7 @@ Potrebno je:
   * 150 g šećera u prahu
   * 1 pomorandža
 
-<img class="alignnone size-medium wp-image-2305" title="bombicesmokveorasi" src="//superkuvar.com/wp-content/uploads/2011/12/bombicesmokveorasi-e1327064464624.jpg" alt="" width="295" height="221" /> 
+<img class="alignnone size-medium wp-image-2305" title="bombicesmokveorasi" src="/wp-content/uploads/2011/12/bombicesmokveorasi-e1327064464624.jpg" alt="" width="295" height="221" /> 
 
 Priprema: na mašini za mlevenje mesa samleti smokve (dva puta). U sud za mešenje staviti samlevene smokve, orahe, rum, margarin i šećer, pa dodati sok od pomorandže i zamesiti, da se sastojci dobro sjedine.
 

@@ -32,7 +32,7 @@ Potrebno je:
   * 1 manji limun
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3944" title="Salataodpatlidzanasajogurtom" src="//superkuvar.com/wp-content/uploads/2012/08/Salataodpatlidzanasajogurtom-e1344594717422-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-3944" title="Salataodpatlidzanasajogurtom" src="/wp-content/uploads/2012/08/Salataodpatlidzanasajogurtom-e1344594717422-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: plavi patlidžan oprati, posušiti i ispeći u pećnici, na 250 stepeni. Kada se prohladi, oljuštiti ga i sitno iseckati.
 

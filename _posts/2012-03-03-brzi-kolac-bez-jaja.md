@@ -27,7 +27,7 @@ Potrebno je:
   * 1 kesica praška za pecivo
   * 4-5 kašika mlevenih oraha (po želji)
 
-<img class="alignnone size-medium wp-image-2676" title="Brzi kolač bez jaja" src="//superkuvar.com/wp-content/uploads/2012/03/Brzi-kola%C4%8D-bez-jaja-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2676" title="Brzi kolač bez jaja" src="/wp-content/uploads/2012/03/Brzi-kola%C4%8D-bez-jaja-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud za mešenje sipati vodu, dodati šećer, ulje, džem, brašno, prašak za pecivo i mlevene orahe. Varjačom dobro izmešati sastojke.  Pleh obložiti papirom za pečenje ili podmazati uljem i posuti brašnom, pa sipati pripremljeno testo.
 

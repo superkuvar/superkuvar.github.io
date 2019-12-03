@@ -31,7 +31,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-medium wp-image-1007" title="spanacmusaka" src="//superkuvar.com/wp-content/uploads/2011/06/spanacmusaka1-e1307457715488.jpg" alt="" width="245" height="140" /> 
+<img class="alignnone size-medium wp-image-1007" title="spanacmusaka" src="/wp-content/uploads/2011/06/spanacmusaka1-e1307457715488.jpg" alt="" width="245" height="140" /> 
 
 Priprema: spanać očistiti, oprati i kratko obariti u slanoj vodi. Obaren spanać ocediti i iseći na rezance.
 

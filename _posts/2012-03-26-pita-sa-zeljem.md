@@ -26,7 +26,7 @@ Potrebno je:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-2853" title="Pita od zelja" src="//superkuvar.com/wp-content/uploads/2012/03/Pita-od-zelja-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2853" title="Pita od zelja" src="/wp-content/uploads/2012/03/Pita-od-zelja-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: zelje oprati, staviti u ključalu vodu i kratko obariti. Ohlađeno zelje ocediti i isitniti nožem.
 

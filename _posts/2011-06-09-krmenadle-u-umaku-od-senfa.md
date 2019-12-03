@@ -26,7 +26,7 @@ Potrebno je:
   * brašno
   * čaša kisele pavlake (po želji)
 
-<img class="alignnone size-full wp-image-1032" title="krmenadleusenfu" src="//superkuvar.com/wp-content/uploads/2011/06/krmenadleusenfu-e1307609322152.jpg" alt="" width="247" height="185" /> 
+<img class="alignnone size-full wp-image-1032" title="krmenadleusenfu" src="/wp-content/uploads/2011/06/krmenadleusenfu-e1307609322152.jpg" alt="" width="247" height="185" /> 
 
 Priprema: krmenadle malo izlupati tučkom za meso i posoliti. Ostaviti da kratko odstoje, a zatim staviti u tiganj sa vrelim uljem i pržiti sa obe strane, da porumene.
 

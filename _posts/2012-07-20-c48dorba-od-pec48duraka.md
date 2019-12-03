@@ -35,7 +35,7 @@ Potrebno je:
   * limun
   * 1 dl kisele pavlake (po želji)
 
-<img class="alignnone size-medium wp-image-3767" title="Čorbaodpečuraka" src="//superkuvar.com/wp-content/uploads/2012/07/%C4%8Corbaodpe%C4%8Duraka-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3767" title="Čorbaodpečuraka" src="/wp-content/uploads/2012/07/%C4%8Corbaodpe%C4%8Duraka-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: na malo ulja propržiti sitno iseckan crni luk.  ampinjone oprati i iseći na listiće. šargarepu i krompir oprati i oljuštiti. šargarepu narendati na krupno, a krompir iseći na kockice.
 

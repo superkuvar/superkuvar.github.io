@@ -33,7 +33,7 @@ Potrebno je:
   * mleveni beli biber
   * seckani peršunov list
 
-<img class="alignnone size-medium wp-image-5771" src="//superkuvar.com/wp-content/uploads/2012/02/Salaataodmesa-300x225.jpg" alt="Salaataodmesa" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5771" src="/wp-content/uploads/2012/02/Salaataodmesa-300x225.jpg" alt="Salaataodmesa" width="300" height="225" /> 
 
 Priprema: kuvano meso i jaja sitno iseckati. Izmešati ulje, sirće, senf i majonez, pa preliti preko mesa i jaja. Po ukusu posoliti, pobiberiti i dodati malo seckanog peršunovog lista. Sve dobro izmešati i sipati u staklenu činiju.
 

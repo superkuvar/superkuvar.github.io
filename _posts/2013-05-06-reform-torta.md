@@ -38,7 +38,7 @@ Za fil
   * 250 grama maslaca ili margarina
   * 3 štangle čokolade
 
-<img class="alignnone size-medium wp-image-5662" src="//superkuvar.com/wp-content/uploads/2013/05/Reform-torta-300x225.jpg" alt="Reform torta" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5662" src="/wp-content/uploads/2013/05/Reform-torta-300x225.jpg" alt="Reform torta" width="300" height="225" /> 
 
 Priprema: umutiti belanca sa šećerom u prahu, da se dobije čvrst sneg. Polako umešati mlevene orahe i brašno, pa od ove mase ispeći tri četvrtaste kore jednake veličine. Svaku peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 

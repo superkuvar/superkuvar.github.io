@@ -34,7 +34,7 @@ Potrebno je:
   * 4 kašike džema
   * 1 kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5621" src="//superkuvar.com/wp-content/uploads/2011/12/Kakao-kolac-sa-dzemom-300x225.jpg" alt="Kakao kolac sa dzemom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5621" src="/wp-content/uploads/2011/12/Kakao-kolac-sa-dzemom-300x225.jpg" alt="Kakao kolac sa dzemom" width="300" height="225" /> 
 
 Priprema: u sud za mešenje staviti margarin, dodati 150 grama šećera i umutiti penasto. U umućeni margarin dodati kakao, mleko ili jogurt i brašno pomešano sa praškom za pecivo. Izmešati da se dobije ujednačena masa, sipati u podmazan pleh i peći u umereno zagrejanoj pećnici.
 

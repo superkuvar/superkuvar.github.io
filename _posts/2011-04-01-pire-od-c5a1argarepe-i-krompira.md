@@ -28,7 +28,7 @@ Potrebno je:
   * 2 dl kisele pavlake ili milerama
   * so
 
-<img class="alignnone size-full wp-image-665" title="pireodsargarepeikrompira" src="//superkuvar.com/wp-content/uploads/2011/04/pireodsargarepeikrompira.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-665" title="pireodsargarepeikrompira" src="/wp-content/uploads/2011/04/pireodsargarepeikrompira.jpg" alt="" width="259" height="194" /> 
 
 Priprema: šargarepu oprati, oljuštiti i kuvati u slanoj vodi. Kada je šargarepa skoro gotova, dodati oljušten krompir isečen na kocke, pa nastaviti sa kuvanjem dok povrće ne omekša.
 

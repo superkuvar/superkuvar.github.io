@@ -30,7 +30,7 @@ Potrebno je:
   * seckani celerov list
   * ulje
 
-<img class="alignnone size-medium wp-image-2380" title="Milin rizoto (2)" src="//superkuvar.com/wp-content/uploads/2012/01/Milin-rizoto-2-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2380" title="Milin rizoto (2)" src="/wp-content/uploads/2012/01/Milin-rizoto-2-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: pirinač oprati i skuvati. Praziluk i šargarepu oprati, očistiti i izrezati na kolutove. Pečurke oprati i iseći na listiće.
 

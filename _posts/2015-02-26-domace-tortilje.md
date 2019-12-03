@@ -24,7 +24,7 @@ Potrebno je:
   * voda (oko 3,5 dl)
   * ulje
 
-[<img class="alignnone size-medium wp-image-9438" src="//superkuvar.com/wp-content/uploads/2015/02/domacetortilje-300x225.jpg" alt="domacetortilje" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/02/domacetortilje.jpg)
+[<img class="alignnone size-medium wp-image-9438" src="/wp-content/uploads/2015/02/domacetortilje-300x225.jpg" alt="domacetortilje" width="300" height="225" />](/wp-content/uploads/2015/02/domacetortilje.jpg)
 
 Priprema: u posudi za mešenje pomešati kukuruzno i pšenično brašno, dodati maslinovo ulje i posoliti po ukusu. Izmešati, a zatim uz dolivanje po malo mlake vode žicom za mućenje zamesiti testo kao za palačinke. Testo za tortilje ostaviti da odstoji oko 40 minuta.
 

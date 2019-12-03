@@ -29,7 +29,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-2858" title="Musaka od praziluka i krompira" src="//superkuvar.com/wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2858" title="Musaka od praziluka i krompira" src="/wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
 

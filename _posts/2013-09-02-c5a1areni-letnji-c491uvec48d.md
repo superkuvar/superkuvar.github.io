@@ -40,7 +40,7 @@ Potrebno je:
   * pola kašičice karija
   * ulje
 
-[<img class="alignnone size-medium wp-image-6088" src="//superkuvar.com/wp-content/uploads/2013/09/Sareniletnjidjuvec-300x225.jpg" alt="Sareniletnjidjuvec" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Sareniletnjidjuvec.jpg)
+[<img class="alignnone size-medium wp-image-6088" src="/wp-content/uploads/2013/09/Sareniletnjidjuvec-300x225.jpg" alt="Sareniletnjidjuvec" width="300" height="225" />](/wp-content/uploads/2013/09/Sareniletnjidjuvec.jpg)
 
 Priprema: na ulju propržiti iseckan crni luk, dodati oljušten paradajz isečen na komadiće i još malo pržiti.
 

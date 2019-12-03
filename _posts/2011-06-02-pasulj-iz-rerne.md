@@ -34,7 +34,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5224" src="//superkuvar.com/wp-content/uploads/2011/06/Pasulj-iz-rerne-300x225.jpg" alt="Pasulj iz rerne" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5224" src="/wp-content/uploads/2011/06/Pasulj-iz-rerne-300x225.jpg" alt="Pasulj iz rerne" width="300" height="225" /> 
 
 Priprema: pasulj oprati, potopiti u vodu preko noći i sutradan skuvati na uobičajen način. U vodu u kojoj se pasulj kuva ubaciti dva lista lovora. Kada pasulj postane mek, ocediti ga i spustiti na ulje u kom je prethodno razmućena aleva paprika.
 

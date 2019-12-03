@@ -25,7 +25,7 @@ Potrebno je:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-5901" src="//superkuvar.com/wp-content/uploads/2013/07/Salataodcvekleisargarepe-e1373874524731-300x240.jpg" alt="Salataodcvekleisargarepe" width="300" height="240" /> 
+<img class="alignnone size-medium wp-image-5901" src="/wp-content/uploads/2013/07/Salataodcvekleisargarepe-e1373874524731-300x240.jpg" alt="Salataodcvekleisargarepe" width="300" height="240" /> 
 
 Priprema: cveklu i šargarepu oprati, oljuštiti i sitno narendati. Posoliti, pobiberiti, preliti uljem i sirćetom i dobro izmešati.
 

@@ -20,7 +20,7 @@ Potrebno je:
   * 6-7 supenih kašika pšeničnog griza
   * so
 
-<img class="alignnone size-medium wp-image-4014" title="Knedleodbelanacaigriza" src="//superkuvar.com/wp-content/uploads/2012/08/Knedleodbelanacaigriza-e1345301522464-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-4014" title="Knedleodbelanacaigriza" src="/wp-content/uploads/2012/08/Knedleodbelanacaigriza-e1345301522464-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: umutiti čvrst sneg od belanaca. U umućena belanca dodavati postepeno griz, kašiku po kašiku, uz neprestano mućenje. U griz i belanca dodati malo soli.
 

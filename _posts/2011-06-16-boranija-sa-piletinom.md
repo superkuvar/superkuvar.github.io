@@ -32,7 +32,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3134" title="Boranija sa piletinom" src="//superkuvar.com/wp-content/uploads/2011/06/Boranija-sa-piletinom-e1335781992103-300x243.jpg" alt="" width="300" height="243" /> 
+<img class="alignnone size-medium wp-image-3134" title="Boranija sa piletinom" src="/wp-content/uploads/2011/06/Boranija-sa-piletinom-e1335781992103-300x243.jpg" alt="" width="300" height="243" /> 
 
 Priprema: crni luk očistiti i sitno iseckati, šargarepu oprati, očistiti i izrendati. Piletinu iseći na komade, pa sve zajedno propržiti na vrelom ulju. Smanjiti temperaturu i dinstati poklopljeno, uz povremeno mešanje i dolivanje po malo tople vode.
 

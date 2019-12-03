@@ -35,7 +35,7 @@ Potrebno je:
   * susam
   * so
 
-<img class="alignnone size-medium wp-image-4838" title="Projarasasusamom" src="//superkuvar.com/wp-content/uploads/2012/11/Projarasasusamom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4838" title="Projarasasusamom" src="/wp-content/uploads/2012/11/Projarasasusamom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje umutiti viljuškom jaja, dodati ulje, kiselo mleko, so, izmrvljen sir, 2-3 kašike susama i brašno pomešano sa praškom za pecivo. Masu izmešati varjačom i sipati u podmazan pleh. Testo posuti susamom.
 

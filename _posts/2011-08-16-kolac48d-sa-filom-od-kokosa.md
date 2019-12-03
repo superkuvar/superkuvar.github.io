@@ -34,7 +34,7 @@ Za preliv:
   * 6 kašika šećera
   * 150 grama kokosovog brašna
 
-<img class="alignnone size-full wp-image-1750" title="kolacsafilomodkokosa" src="//superkuvar.com/wp-content/uploads/2011/08/kolacsafilomodkokosa1-e1313581730781.jpg" alt="" width="212" height="145" /> 
+<img class="alignnone size-full wp-image-1750" title="kolacsafilomodkokosa" src="/wp-content/uploads/2011/08/kolacsafilomodkokosa1-e1313581730781.jpg" alt="" width="212" height="145" /> 
 
 Priprema: umutiti jaja i šećer, a zatim dodati ulje, dve šoljice mleka, kakao, brašno i prašak za pecivo. Masu ujednačiti varjačom i sipati u podmazan pleh. Peći oko pola sata na 180 stepeni. Kada je kolač pečen, izvaditi ga iz pećnice i ohladiti.
 

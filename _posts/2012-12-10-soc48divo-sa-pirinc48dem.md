@@ -35,7 +35,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-4876" title="Socivo sa pirincem" src="//superkuvar.com/wp-content/uploads/2012/12/Socivo-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4876" title="Socivo sa pirincem" src="/wp-content/uploads/2012/12/Socivo-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: sočivo oprati, naliti vodom i staviti da se kuva. Kada voda provri, ocediti je i sočivo naliti novom toplom vodom, da ogrezne. Sočivo kuvati na tihoj vatri, uz povremeno dolivanje po malo tople vode, ako je potrebno.
 

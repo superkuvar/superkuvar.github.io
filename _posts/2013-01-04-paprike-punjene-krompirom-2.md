@@ -36,7 +36,7 @@ Potrebno je:
   * biber
   * čaša ulja
 
-<img class="alignnone size-medium wp-image-5026" src="//superkuvar.com/wp-content/uploads/2013/01/Suvepaprikepunjenekrompirom-300x225.jpg" alt="Suvepaprikepunjenekrompirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5026" src="/wp-content/uploads/2013/01/Suvepaprikepunjenekrompirom-300x225.jpg" alt="Suvepaprikepunjenekrompirom" width="300" height="225" /> 
 
 Priprema: suve paprike oprati, preliti vrelom vodom i ostaviti da malo omekšaju, a zatim ocediti. Izvaditi drške i semene lože, ukoliko ste kupili paprike nanizane u venac.
 

@@ -26,7 +26,7 @@ Potrebno je:
   * veza celerovog lista
   * kesica konzervansa
 
-<img class="alignnone size-medium wp-image-4161" title="Pecene paprike" src="//superkuvar.com/wp-content/uploads/2011/11/Pecene-paprike-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4161" title="Pecene paprike" src="/wp-content/uploads/2011/11/Pecene-paprike-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paprike oprati i ispeći u pećnici, na električnom roštilju ili na ploči štednjaka.
 

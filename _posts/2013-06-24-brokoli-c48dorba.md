@@ -31,7 +31,7 @@ Potrebno je:
   * ulje
   * 2 dl kisele pavlake
 
-<img class="alignnone size-medium wp-image-5817" src="//superkuvar.com/wp-content/uploads/2013/06/Brokoli-corba-300x225.jpg" alt="Brokoli corba" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5817" src="/wp-content/uploads/2013/06/Brokoli-corba-300x225.jpg" alt="Brokoli corba" width="300" height="225" /> 
 
 Priprema: brokoli oprati i odvojiti na cvetiće, a listove sitno iseckati.  
 U posudi u kojoj će se kuvati čorba, na malo ulja propržiti kašiku brašna. Dodati isitnjene listove brokola i kratko propržiti. Naliti litrom i po vode i staviti da se kuva.

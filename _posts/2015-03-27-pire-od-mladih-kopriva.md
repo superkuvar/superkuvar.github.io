@@ -24,7 +24,7 @@ so
 biber  
 ulje
 
-[<img class="alignnone size-medium wp-image-9570" src="//superkuvar.com/wp-content/uploads/2015/03/pireodmladihkopriva-300x225.jpg" alt="pireodmladihkopriva" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/pireodmladihkopriva-e1430745927247.jpg)
+[<img class="alignnone size-medium wp-image-9570" src="/wp-content/uploads/2015/03/pireodmladihkopriva-300x225.jpg" alt="pireodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/pireodmladihkopriva-e1430745927247.jpg)
 
 Priprema: koprive očistiti, dobro oprati i preliti ključalom vodom, a zatim ocediti. Kada se koprive ohlade sitno ih iseckati.
 

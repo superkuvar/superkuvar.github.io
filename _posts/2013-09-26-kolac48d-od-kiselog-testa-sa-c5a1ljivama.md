@@ -31,7 +31,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-[<img class="alignnone size-medium wp-image-6136" src="//superkuvar.com/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama-300x225.jpg" alt="Kolacodkiselogtestasasljivama" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama.jpg)
+[<img class="alignnone size-medium wp-image-6136" src="/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama-300x225.jpg" alt="Kolacodkiselogtestasasljivama" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama.jpg)
 
 Priprema: u posudu sipati toplo mleko i polovinu količine brašna izmešanu sa kvascem. Dodati kašiku šećera i ostaviti da malo odstoji, da nadođe.
 

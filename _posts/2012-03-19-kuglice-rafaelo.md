@@ -25,7 +25,7 @@ Potrebno je:
   * 400 grama mleka u prahu
   * 300 grama kokosovog brašna + 100 g za posipanje
 
-<img class="alignnone size-medium wp-image-2728" title="Kuglice Rafaelo" src="//superkuvar.com/wp-content/uploads/2012/03/Kuglice-Rafaelo-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2728" title="Kuglice Rafaelo" src="/wp-content/uploads/2012/03/Kuglice-Rafaelo-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudu sipati šećer i vodu, dodati margarin i prokuvati na slabijoj vatri, pa postepeno dodavati mleko u prahu i kokosovo brašno.
 

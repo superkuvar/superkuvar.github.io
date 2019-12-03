@@ -36,7 +36,7 @@ Za fil:
   * kesica preliva za torte (po želji)
   * šlag
 
-<img class="alignnone size-medium wp-image-3848" title="Jednostavnavocnatorta" src="//superkuvar.com/wp-content/uploads/2011/12/Jednostavnavocnatorta-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3848" title="Jednostavnavocnatorta" src="/wp-content/uploads/2011/12/Jednostavnavocnatorta-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudu za mešenje staviti jaja i šećer, dobro umutiti mikserom, pa dodati brašno, ulje i malo strugane kore od limuna. Sve lagano izmešati i sipati u četvrtasti pleh obložen pek papirom. Ispeći u pećnici zagrejanoj na 200 stepeni. Pečenu koru, kada se malo prohladi, preseći na pola.
 

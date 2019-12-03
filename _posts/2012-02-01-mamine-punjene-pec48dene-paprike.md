@@ -33,7 +33,7 @@ Potrebno je:
   * prezle
   * ulje
 
-<img class="alignnone size-medium wp-image-2397" title="Posne paprike -pirinac+mrkva" src="//superkuvar.com/wp-content/uploads/2012/02/Posne-paprike-pirinac+mrkva-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2397" title="Posne paprike -pirinac+mrkva" src="/wp-content/uploads/2012/02/Posne-paprike-pirinac+mrkva-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paprike izvaditi iz zamrzivača i ostaviti da se odmrznu. Pirinač oprati i obariti u posoljenoj vodi. Praziluk i šargarepu oprati i očistiti. Praziluk sitno iseckati, a šargarepu izrendati.
 

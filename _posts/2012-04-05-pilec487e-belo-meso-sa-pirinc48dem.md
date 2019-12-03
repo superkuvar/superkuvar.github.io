@@ -30,7 +30,7 @@ Potrebno je:
   * kari
   * ulje
 
-<img class="alignnone size-medium wp-image-2870" title="Pileće belo meso sa pirinčem" src="//superkuvar.com/wp-content/uploads/2012/04/Pile%C4%87e-belo-meso-sa-pirin%C4%8Dem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2870" title="Pileće belo meso sa pirinčem" src="/wp-content/uploads/2012/04/Pile%C4%87e-belo-meso-sa-pirin%C4%8Dem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. šargarepu oprati, očistiti i izrendati. Kada luk postane staklast dodati narendanu šargarepu i još malo dinstati, uz dolivanje po malo vode.
 

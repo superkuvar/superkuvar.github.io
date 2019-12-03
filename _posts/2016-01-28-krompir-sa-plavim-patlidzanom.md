@@ -31,7 +31,7 @@ bosiljak
 brašno  
 ulje
 
-<img class="alignnone size-medium wp-image-10840" src="//superkuvar.com/wp-content/uploads/2016/01/krompirsaplavimpatlidzanom-300x225.jpg" alt="krompirsaplavimpatlidzanom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-10840" src="/wp-content/uploads/2016/01/krompirsaplavimpatlidzanom-300x225.jpg" alt="krompirsaplavimpatlidzanom" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim kolutove patlidžana pritiskanjem između dlanova ocediti.
 

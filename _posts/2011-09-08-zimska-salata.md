@@ -31,7 +31,7 @@ Potrebno je:
   * kesica konzervansa
   * ljute papričice (po želji)
 
-<img class="alignnone size-medium wp-image-4179" title="Zimska salata" src="//superkuvar.com/wp-content/uploads/2011/09/Zimska-salata-e1346659284785-300x262.jpg" alt="" width="300" height="262" /> 
+<img class="alignnone size-medium wp-image-4179" title="Zimska salata" src="/wp-content/uploads/2011/09/Zimska-salata-e1346659284785-300x262.jpg" alt="" width="300" height="262" /> 
 
 Priprema: paprike oprati, ispeći u rerni, oljuštiti, očistiti od semena i sitno iseckati. šargarepu očistiti, oprati, oljuštiti i obariti u slanoj vodi, a zatim iseći na kolutove.
 

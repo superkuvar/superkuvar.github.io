@@ -21,7 +21,7 @@ Potrebno je:
   * 7 decilitara ulja
   * so
 
-<img class="alignnone size-medium wp-image-4357" title="Domaciajvar" src="//superkuvar.com/wp-content/uploads/2012/09/Domaciajvar1-e1348466383408-300x229.jpg" alt="" width="300" height="229" /> 
+<img class="alignnone size-medium wp-image-4357" title="Domaciajvar" src="/wp-content/uploads/2012/09/Domaciajvar1-e1348466383408-300x229.jpg" alt="" width="300" height="229" /> 
 
 Priprema: paprike oprati i kada se osuše od vode ispeći (u pećnici, na plotni ili roštilju). Pečene staviti u metalni sud i poklopiti, da se potpare kako bi se lakše oljuštile (mogu se staviti i u kesu). Ohlađene paprike oljuštiti, ukloniti peteljke i seme i stavljati u đevđir ili cediljku. Ostaviti preko noći da se dobro ocede.
 

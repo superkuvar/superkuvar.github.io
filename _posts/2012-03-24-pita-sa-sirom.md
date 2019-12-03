@@ -26,7 +26,7 @@ Potrebno je:
   * mineralna voda
   * čaša ulja
 
-<img class="alignnone size-medium wp-image-2789" title="Pita sa sirom" src="//superkuvar.com/wp-content/uploads/2012/03/Pita-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2789" title="Pita sa sirom" src="/wp-content/uploads/2012/03/Pita-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: dobro izmešati žumanca, izmrvljen sir, kajmak, čvrst sneg od belanaca, pa dodati ulje i malo mineralne vode.
 

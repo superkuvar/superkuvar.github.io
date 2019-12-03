@@ -24,7 +24,7 @@ Potrebno je:
   * 2 kg šljiva
   * 2 kg šećera
 
-<img class="alignnone size-medium wp-image-4229" title="Pekmezodmesanogvoća" src="//superkuvar.com/wp-content/uploads/2012/09/Pekmezodmesanogvoća-e1346930647746-300x240.jpg" alt="" width="300" height="240" /> 
+<img class="alignnone size-medium wp-image-4229" title="Pekmezodmesanogvoća" src="/wp-content/uploads/2012/09/Pekmezodmesanogvoća-e1346930647746-300x240.jpg" alt="" width="300" height="240" /> 
 
 Priprema: zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
 

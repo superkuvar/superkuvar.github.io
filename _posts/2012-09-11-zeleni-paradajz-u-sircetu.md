@@ -22,7 +22,7 @@ Potrebno je:
   * 4 decilitra sirćeta
   * voda
 
-<img class="alignnone size-medium wp-image-4300" title="Zeleniparadajzusircetu" src="//superkuvar.com/wp-content/uploads/2012/09/Zeleniparadajzusircetu1-e1347877607681-300x297.jpg" alt="" width="300" height="297" /> 
+<img class="alignnone size-medium wp-image-4300" title="Zeleniparadajzusircetu" src="/wp-content/uploads/2012/09/Zeleniparadajzusircetu1-e1347877607681-300x297.jpg" alt="" width="300" height="297" /> 
 
 Priprema: sitniji zeleni paradajz oprati, skloniti peteljke, ostaviti ga da se osuši od vode, a zatim ređati u tegle.
 

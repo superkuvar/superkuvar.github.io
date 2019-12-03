@@ -30,7 +30,7 @@ bosiljak
 peršunov list  
 ulje
 
-[<img class="alignnone size-medium wp-image-10134" src="//superkuvar.com/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-300x225.jpg" alt="zapecenipatlidzanspecurkama" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-e1446898982887.jpg)
+[<img class="alignnone size-medium wp-image-10134" src="/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-300x225.jpg" alt="zapecenipatlidzanspecurkama" width="300" height="225" />](/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-e1446898982887.jpg)
 
 Priprema: plavi patlidžan oprati, oljuštiti, isitniti na kocke i obariti u slanoj vodi. Obaren plavi patlidžan ocediti. Crni luk isitniti na rebarca i propržiti na ulju.
 

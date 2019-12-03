@@ -25,7 +25,7 @@ Potrebno je:
   * aleva paprika
   * ulje
 
-<img class="alignnone size-full wp-image-618" title="posnesarmeodkupusa" src="//superkuvar.com/wp-content/uploads/2011/05/posnesarmeodkupusa.jpg" alt="" width="248" height="192" /> 
+<img class="alignnone size-full wp-image-618" title="posnesarmeodkupusa" src="/wp-content/uploads/2011/05/posnesarmeodkupusa.jpg" alt="" width="248" height="192" /> 
 
 Priprema: od glavice kupusa odvojiti cele listove. Ako se sarma pravi od slatkog kupusa listove treba preliti vrelom vodom, da malo omekšaju.
 

@@ -25,7 +25,7 @@ Potrebno je:
   * sirće
   * so
 
-<img class="alignnone size-full wp-image-1829" title="ajvar2" src="//superkuvar.com/wp-content/uploads/2011/09/ajvar2.jpg" alt="" width="120" height="120" /> 
+<img class="alignnone size-full wp-image-1829" title="ajvar2" src="/wp-content/uploads/2011/09/ajvar2.jpg" alt="" width="120" height="120" /> 
 
 Priprema: paprike oprati, očistiti od semena i obariti u slanoj vodi kojoj je dodato alkoholno sirće. Plavi patlidžan i šargarepu oprati, oljuštiti i obariti u istoj vodi u kojoj su se barile paprike.
 

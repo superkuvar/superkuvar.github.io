@@ -41,7 +41,7 @@ Potrebno je:
   * 5 kašika struganog sira
   * ulje
 
-<img class="alignnone size-medium wp-image-5822" src="//superkuvar.com/wp-content/uploads/2011/05/Zapecenopovrce-300x225.jpg" alt="Zapecenopovrce" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5822" src="/wp-content/uploads/2011/05/Zapecenopovrce-300x225.jpg" alt="Zapecenopovrce" width="300" height="225" /> 
 
 Priprema: tikvice, praziluk i šargarepu oprati, očistiti i iseći na kolutove. Isitnjeno povrće staviti u sud u kome je zagrejano ulje, dodati grašak i zajedno prodinstati dok malo ne omekša. Po potrebi dolivati po malo vode. Posoliti, pobiberiti i dodati suvi biljni začin i muskatni oraščić po ukusu.
 

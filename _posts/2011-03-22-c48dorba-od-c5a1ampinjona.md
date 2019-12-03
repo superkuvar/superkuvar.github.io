@@ -29,7 +29,7 @@ Potrebno je:
   * 2 dl kisele pavlake
   * 1 žumance
 
-<img class="alignnone size-full wp-image-783" title="potazodsampinjona" src="//superkuvar.com/wp-content/uploads/2011/03/potazodsampinjona.jpg" alt="" width="256" height="180" /> 
+<img class="alignnone size-full wp-image-783" title="potazodsampinjona" src="/wp-content/uploads/2011/03/potazodsampinjona.jpg" alt="" width="256" height="180" /> 
 
 Priprema: šampiljone oprati, očistiti, iseći na listiće, naliti litrom i po vode ili supe od kocke i staviti da se kuvaju. Nekoliko šampinjona ostaviti na stranu. Kada čorba provri dodati opran pirinač i lovorov list i nastaviti sa kuvanjem još 30 minuta.
 

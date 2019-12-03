@@ -43,7 +43,7 @@ Fil
   * 1 manji limun
   * pola šolje mlevenih oraha
 
-<img class="alignnone size-medium wp-image-5704" src="//superkuvar.com/wp-content/uploads/2013/05/Kolacsaproprzenimjabukama-300x225.jpg" alt="Kolacsaproprzenimjabukama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5704" src="/wp-content/uploads/2013/05/Kolacsaproprzenimjabukama-300x225.jpg" alt="Kolacsaproprzenimjabukama" width="300" height="225" /> 
 
 Priprema: umutiti jaja sa šećerom, dodati vanilin šećer, mleko, ulje i brašno pomešano sa praškom za pecivo. Masu dobro izmešati. Dobiće se retko testo.
 

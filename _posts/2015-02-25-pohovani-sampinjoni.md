@@ -26,7 +26,7 @@ Potrebno je:
   * prezle
   * ulje
 
-[<img class="alignnone size-medium wp-image-9434" src="//superkuvar.com/wp-content/uploads/2015/02/pohovanisampinjoni-300x225.jpg" alt="pohovanisampinjoni" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/02/pohovanisampinjoni.jpg)
+[<img class="alignnone size-medium wp-image-9434" src="/wp-content/uploads/2015/02/pohovanisampinjoni-300x225.jpg" alt="pohovanisampinjoni" width="300" height="225" />](/wp-content/uploads/2015/02/pohovanisampinjoni.jpg)
 
 Priprema: mlade, malo krupnije šampinjone oprati pod mlazom vode i staviti u cediljku da se dobro ocede. Kada su šampinjoni oceđeni odvojiti šeširiće, pošto se samo oni pohuju.
 

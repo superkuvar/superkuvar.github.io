@@ -30,7 +30,7 @@ Potrebno je:
   * strugana kora i sok od jednog limuna
   * polovine badema ili oraha
 
-<img class="alignnone size-full wp-image-1677" title="medenjacizacaj" src="//superkuvar.com/wp-content/uploads/2011/08/medenjacizacaj-e1312978858191.jpg" alt="" width="244" height="172" /> 
+<img class="alignnone size-full wp-image-1677" title="medenjacizacaj" src="/wp-content/uploads/2011/08/medenjacizacaj-e1312978858191.jpg" alt="" width="244" height="172" /> 
 
 Priprema: u šerpu sipati šećer i med i staviti na štednjak da provri. Za to vreme u posudu za mešenje sipati brašno, pa polako u njega sipati istopljeni šećer i med, dobro izmešati i ostaviti da se ohladi.
 

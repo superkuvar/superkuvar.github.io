@@ -25,7 +25,7 @@ Potrebno je:
 • 200 g žele bombona  
 • 150 g suvog grožđa
 
-[<img class="alignnone size-medium wp-image-9594" src="//superkuvar.com/wp-content/uploads/2015/05/zeletrouglovi-300x225.jpg" alt="zeletrouglovi" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/05/zeletrouglovi-e1430748483768.jpg)
+[<img class="alignnone size-medium wp-image-9594" src="/wp-content/uploads/2015/05/zeletrouglovi-300x225.jpg" alt="zeletrouglovi" width="300" height="225" />](/wp-content/uploads/2015/05/zeletrouglovi-e1430748483768.jpg)
 
 Priprema: umutiti margarin sa šećerom u prahu. Žele bombone sitno iseckati. Suvo grožđe oprati, iseckati i potopiti u malo ruma.
 

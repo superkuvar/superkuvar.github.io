@@ -26,7 +26,7 @@ Potrebno je:
   * maslac ili margarin
   * so
 
-<img class="alignnone size-medium wp-image-3418" title="Valjušciodkrompira" src="//superkuvar.com/wp-content/uploads/2012/06/Valju%C5%A1ciodkrompira-e1339249992189-300x228.jpg" alt="" width="300" height="228" /> 
+<img class="alignnone size-medium wp-image-3418" title="Valjušciodkrompira" src="/wp-content/uploads/2012/06/Valju%C5%A1ciodkrompira-e1339249992189-300x228.jpg" alt="" width="300" height="228" /> 
 
 Priprema: krompir oprati, neoljušten naliti vodom, malo posoliti i kuvati dok ne omekša. Skuvan krompir ocediti, oljuštiti i ispasirati dok je još topao.
 

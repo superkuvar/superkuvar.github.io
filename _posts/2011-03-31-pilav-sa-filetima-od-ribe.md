@@ -29,7 +29,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-4239" title="Pilavsafiletimaribe" src="//superkuvar.com/wp-content/uploads/2011/03/Pilavsafiletimaribe-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4239" title="Pilavsafiletimaribe" src="/wp-content/uploads/2011/03/Pilavsafiletimaribe-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: praziluk i papriku oprati, očistiti i sitno iseckati. šargarepu oprati, očistiti i izrendati.
 

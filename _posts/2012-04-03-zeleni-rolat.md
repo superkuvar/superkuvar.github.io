@@ -31,7 +31,7 @@ Potrebno je:
   * 250 grama belog sitnog sira
   * čaša kisele pavlake
 
-<img class="alignnone size-medium wp-image-2830" title="Zeleni rolat" src="//superkuvar.com/wp-content/uploads/2012/04/Zeleni-rolat-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2830" title="Zeleni rolat" src="/wp-content/uploads/2012/04/Zeleni-rolat-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u šerpu sipati vodu, ulje i pola kašičice soli  i staviti na štednjak. Kada provri, umešati brašno. Skloniti sa vatre i dobro ujednačiti, da nema grudvica.
 

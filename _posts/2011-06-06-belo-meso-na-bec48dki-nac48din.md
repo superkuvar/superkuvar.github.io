@@ -26,7 +26,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje za prženje
 
-<img class="alignnone size-full wp-image-960" title="belomeso" src="//superkuvar.com/wp-content/uploads/2011/06/belomeso-e1307363024592.jpg" alt="" width="215" height="158" /> 
+<img class="alignnone size-full wp-image-960" title="belomeso" src="/wp-content/uploads/2011/06/belomeso-e1307363024592.jpg" alt="" width="215" height="158" /> 
 
 Priprema: svaki komad belog mesa izlupati tučkom da bude svuda iste debljine, pa dobro natrljati suvim biljnim začinom i posuti biberom. Zatim svaki komad mesa uvaljati u brašno, pa u razmućena jaja, pa u prezle pomešane sa slatkom alevom paprikom.
 

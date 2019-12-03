@@ -26,7 +26,7 @@ Potrebno je:
   * 1 kašičica šećera
   * senf
 
-<img class="alignnone size-medium wp-image-3865" title="Salataodparadajzasasenfom" src="//superkuvar.com/wp-content/uploads/2012/08/Salataodparadajzasasenfom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3865" title="Salataodparadajzasasenfom" src="/wp-content/uploads/2012/08/Salataodparadajzasasenfom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
 

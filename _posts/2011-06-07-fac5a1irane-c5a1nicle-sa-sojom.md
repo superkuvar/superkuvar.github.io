@@ -31,7 +31,7 @@ Potrebno je:
   * 2 čena belog luka – po ukusu
   * ulje
 
-<img class="alignnone size-full wp-image-971" title="fasiranesniclemesano" src="//superkuvar.com/wp-content/uploads/2011/06/fasiranesniclemesano-e1307445012599.jpg" alt="" width="212" height="170" /> 
+<img class="alignnone size-full wp-image-971" title="fasiranesniclemesano" src="/wp-content/uploads/2011/06/fasiranesniclemesano-e1307445012599.jpg" alt="" width="212" height="170" /> 
 
 Priprema: sojine ljuspice preliti mlakom vodom i ostaviti da odstoje dvadeset minuta, a zatim ih dobro ocediti.
 

@@ -30,7 +30,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-full wp-image-1285" title="karfiolsufle" src="//superkuvar.com/wp-content/uploads/2011/06/karfiolsufle1.jpg" alt="" width="259" height="195" /> 
+<img class="alignnone size-full wp-image-1285" title="karfiolsufle" src="/wp-content/uploads/2011/06/karfiolsufle1.jpg" alt="" width="259" height="195" /> 
 
 Priprema: očišćenu glavicu karfiola oprati, iskidati na cvetiće i staviti u posoljenu kipuću vodu da se obari. Upola kuvan karfiol ocediti i ostaviti da se ohladi.
 

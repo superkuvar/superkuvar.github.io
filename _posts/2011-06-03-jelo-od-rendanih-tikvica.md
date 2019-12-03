@@ -27,7 +27,7 @@ Potrebno je:
   * so
   * suvi biljni začin
 
-<img class="alignnone size-full wp-image-942" title="jeloodrendanihtikvica" src="//superkuvar.com/wp-content/uploads/2011/06/jeloodrendanihtikvica-e1307103162382.jpg" alt="" width="224" height="158" /> 
+<img class="alignnone size-full wp-image-942" title="jeloodrendanihtikvica" src="/wp-content/uploads/2011/06/jeloodrendanihtikvica-e1307103162382.jpg" alt="" width="224" height="158" /> 
 
 Priprema: tikvice oprati, oljuštiti, očistiti od semena, a zatim izrendati na krupne rezance. Poprskati ih sirćetom i ostaviti da odstoje dvadesetak minuta.
 

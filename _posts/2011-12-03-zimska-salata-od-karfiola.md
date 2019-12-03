@@ -29,7 +29,7 @@ Potrebno je:
   * nekoliko listova lovora
   * biber u zrnu
 
-<img class="alignnone size-medium wp-image-4437" title="Zimskasalataodkarfiola" src="//superkuvar.com/wp-content/uploads/2011/12/Zimskasalataodkarfiola-e1349452252799-300x288.jpg" alt="" width="300" height="288" /> 
+<img class="alignnone size-medium wp-image-4437" title="Zimskasalataodkarfiola" src="/wp-content/uploads/2011/12/Zimskasalataodkarfiola-e1349452252799-300x288.jpg" alt="" width="300" height="288" /> 
 
 Priprema: karfiol očistiti, oprati i izdeliti na cvetiće. U sud sipati vodu i staviti na štednjak da proključa, dodati malo soka od limuna, pa spustiti karfiol. Kada se upola skuva izvaditi ga iz ključale vode i odmah staviti u hladnu. U hladnoj vodi treba da odstoji oko tri minuta,  a zatim ga ocediti, poređati u tegle i preliti presolcem.
 

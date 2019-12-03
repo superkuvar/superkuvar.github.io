@@ -29,7 +29,7 @@ Potrebno je:
   * kečap
   * ulje za prženje
 
-<img class="alignnone size-full wp-image-1275" title="pohovanikarfiol" src="//superkuvar.com/wp-content/uploads/2011/06/pohovanikarfiol.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-1275" title="pohovanikarfiol" src="/wp-content/uploads/2011/06/pohovanikarfiol.jpg" alt="" width="259" height="194" /> 
 
 Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Ocediti ga i prosušiti na salveti.
 

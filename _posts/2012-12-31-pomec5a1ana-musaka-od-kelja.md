@@ -38,7 +38,7 @@ Potrebno je:
   * ulje
   * sirće
 
-<img class="alignnone size-medium wp-image-4994" src="//superkuvar.com/wp-content/uploads/2012/12/Pomešanamusakaodkelja-300x225.jpg" alt="Pomešanamusakaodkelja" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4994" src="/wp-content/uploads/2012/12/Pomešanamusakaodkelja-300x225.jpg" alt="Pomešanamusakaodkelja" width="300" height="225" /> 
 
 Priprema: kelj očistiti, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i ohlađen iseći na rezance.
 

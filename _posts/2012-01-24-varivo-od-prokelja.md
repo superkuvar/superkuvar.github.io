@@ -31,7 +31,7 @@ Potrebno je:
   * celerov list
   * ulje
 
-<img class="alignnone size-medium wp-image-2446" title="Varivo prokelj" src="//superkuvar.com/wp-content/uploads/2012/01/Varivo-prokelj-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2446" title="Varivo prokelj" src="/wp-content/uploads/2012/01/Varivo-prokelj-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: praziluk oprati, isitniti na kolutove i propržiti na malo ulja. Očišćenu i opranu šargarepu takođe isitniti na kolutove, pa je dodati praziluku. Prokelj oprati i krupnije komade iseći na polovine.
 

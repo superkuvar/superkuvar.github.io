@@ -33,7 +33,7 @@ Potrebno je:
   * ulje
   * mirođija ili peršunov list
 
-<img class="alignnone size-medium wp-image-2974" title="Punjene tikvice u sosu od paradajza" src="//superkuvar.com/wp-content/uploads/2012/04/Punjene-tikvice-u-sosu-od-paradajza-e1334581217155-300x222.jpg" alt="" width="300" height="222" /> 
+<img class="alignnone size-medium wp-image-2974" title="Punjene tikvice u sosu od paradajza" src="/wp-content/uploads/2012/04/Punjene-tikvice-u-sosu-od-paradajza-e1334581217155-300x222.jpg" alt="" width="300" height="222" /> 
 
 Priprema: na ulju propržiti sitno seckani crni luk, da blago porumeni. Dodati mleveno meso i kratko propržiti. Posoliti, dodati alevu papriku, suvi biljni začin, biber i sitno seckanu mirođiju ili peršunov list. Još malo propržiti, skloniti sa vatre, pa dodati opran pirinač.
 

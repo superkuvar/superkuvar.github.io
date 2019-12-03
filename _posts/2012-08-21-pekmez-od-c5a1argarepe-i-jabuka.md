@@ -23,7 +23,7 @@ Potrebno je:
   * 1 kg šećera
   * limun
 
-<img class="alignnone size-medium wp-image-4065" title="Pekmezodsargarepeijabuka" src="//superkuvar.com/wp-content/uploads/2012/08/Pekmezodsargarepeijabuka-e1345538615781-300x234.jpg" alt="" width="300" height="234" /> 
+<img class="alignnone size-medium wp-image-4065" title="Pekmezodsargarepeijabuka" src="/wp-content/uploads/2012/08/Pekmezodsargarepeijabuka-e1345538615781-300x234.jpg" alt="" width="300" height="234" /> 
 
 Priprema: šargarepu oprati, očistiti, iseći na kolutove i kuvati u malo vode da omekša, zatim dodati oprane, oljuštene i na kriške isečene jabuke. Sve zajedno kuvati dok jabuke ne omekšaju. Tada propasirati, pa dalje kuvati uz dodatak šećera. Kuvati kao i svaki pekmez, uz stalno mešanje. Pred kraj kuvanja u pekmez dodati sok od limuna.
 

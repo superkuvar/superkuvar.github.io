@@ -32,7 +32,7 @@ Potrebno je:
   * domaći rezanci ili fida
   * seckani peršunov list
 
-<img class="alignnone size-medium wp-image-3151" title="Pileća supa" src="//superkuvar.com/wp-content/uploads/2012/04/Pile%C4%87a-supa-e1336221617469-300x241.jpg" alt="" width="300" height="241" /> 
+<img class="alignnone size-medium wp-image-3151" title="Pileća supa" src="/wp-content/uploads/2012/04/Pile%C4%87a-supa-e1336221617469-300x241.jpg" alt="" width="300" height="241" /> 
 
 Priprema: staviti pile u sud sa hladnom vodom i kuvati na tihoj vatri. Glavicu crnog luka preseći na pola, kratko zapeći na plotni i staviti u supu kada počne da vri.
 

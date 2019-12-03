@@ -23,7 +23,7 @@ Potrebno je:
   * so
   * šećer (pola kašičice)
 
-[<img class="alignnone size-medium wp-image-9425" src="//superkuvar.com/wp-content/uploads/2015/02/prelivodrena-300x225.jpg" alt="prelivodrena" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/02/prelivodrena.jpg)
+[<img class="alignnone size-medium wp-image-9425" src="/wp-content/uploads/2015/02/prelivodrena-300x225.jpg" alt="prelivodrena" width="300" height="225" />](/wp-content/uploads/2015/02/prelivodrena.jpg)
 
 Priprema: ren oprati, oljuštiti i istrugati sitno na trenici. Dodati malo soli, šećer, sirće i malo ulja. Dobro izmešati. Ovako pripremljen ren servirati uz kuvano meso ili kuvanu ribu.
 

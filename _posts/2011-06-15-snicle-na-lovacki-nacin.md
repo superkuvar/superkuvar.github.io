@@ -28,7 +28,7 @@ Potrebno je:
   * 1,5 dl belog vina
   * 2 kašike senfa
 
-<img class="alignnone size-full wp-image-1098" title="lovackesnicle" src="//superkuvar.com/wp-content/uploads/2011/06/lovackesnicle-e1308138605362.jpg" alt="" width="245" height="175" /> 
+<img class="alignnone size-full wp-image-1098" title="lovackesnicle" src="/wp-content/uploads/2011/06/lovackesnicle-e1308138605362.jpg" alt="" width="245" height="175" /> 
 
 Priprema: šnicle zaseći na nekoliko mesta po ivici, izlupati tučkom da budu tanke, utrljati so i biber i ostaviti da odstoje u frižideru dvadesetak minuta. Potom svaku šniclu uvaljati u brašno i pržiti na prethodno zagrejanom ulju. Gotove šnicle izvaditi na tanjir.
 

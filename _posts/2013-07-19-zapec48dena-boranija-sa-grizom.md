@@ -36,7 +36,7 @@ Potrebno je:
   * 4 kašike griza
   * ulje
 
-<img class="alignnone size-medium wp-image-5915" src="//superkuvar.com/wp-content/uploads/2013/07/Zapecenaboranijasagrizom-300x225.jpg" alt="Zapecenaboranijasagrizom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5915" src="/wp-content/uploads/2013/07/Zapecenaboranijasagrizom-300x225.jpg" alt="Zapecenaboranijasagrizom" width="300" height="225" /> 
 
 Priprema: šargarepu i krompir oprati, očistiti i iseći (krompir na kockice, a šargarepu narendati).
 

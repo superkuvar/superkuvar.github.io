@@ -22,7 +22,7 @@ Potrebno je:
   * 7 decilitara vode
   * sok od jednog limuna ili pomorandže
 
-<img class="alignnone size-full wp-image-1626" title="sorbemaline" src="//superkuvar.com/wp-content/uploads/2011/08/sorbemaline-e1312632739412.jpg" alt="" width="191" height="193" /> 
+<img class="alignnone size-full wp-image-1626" title="sorbemaline" src="/wp-content/uploads/2011/08/sorbemaline-e1312632739412.jpg" alt="" width="191" height="193" /> 
 
 Priprema: u sud sipati šećer, preliti ga vodom i skuvati gust sirup, kao za slatko. U ohlađen sirup sipati sok od limuna ili pomorandže, dodati ispasirane maline, sve dobro izmešati i staviti u zamrzivač.
 

@@ -47,7 +47,7 @@ Potrebno:
   * 1 jaje
   * 1 kisela jabuka
 
-<img class="alignnone size-full wp-image-810" title="pilecacorbasajabukom" src="//superkuvar.com/wp-content/uploads/2011/03/pilecacorbasajabukom-e1306838193995.jpg" alt="" width="250" height="132" /> 
+<img class="alignnone size-full wp-image-810" title="pilecacorbasajabukom" src="/wp-content/uploads/2011/03/pilecacorbasajabukom-e1306838193995.jpg" alt="" width="250" height="132" /> 
 
 Priprema: Sitno iseckan crni luk propržiti na ulju da bude staklast. U proprženi luk dodati: na kockice isečenu zelen i krompir, grašak, pileće meso, narendanu jabuku, začin, nekoliko zrna bibera, lorber, naliti sa 2 litra vode i staviti da se kuva.
 

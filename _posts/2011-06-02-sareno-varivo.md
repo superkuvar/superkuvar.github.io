@@ -32,7 +32,7 @@ Potrebno je:
   * biber
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3742" title="Šarenovarivo" src="//superkuvar.com/wp-content/uploads/2011/06/arenovarivo-e1342616176506-300x229.jpg" alt="" width="300" height="229" /> 
+<img class="alignnone size-medium wp-image-3742" title="Šarenovarivo" src="/wp-content/uploads/2011/06/arenovarivo-e1342616176506-300x229.jpg" alt="" width="300" height="229" /> 
 
 Priprema: crni luk očistiti, sitno iseći i propržiti na ulju, dok ne omekša. Paprike iseći na komade. Plavi patlidžan oljuštiti i sitno iseći. Isitnjeno povrće dodati luku i nastaviti sa prženjem. Posuti brašnom i alevom paprikom.
 

@@ -38,7 +38,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5229" src="//superkuvar.com/wp-content/uploads/2013/02/Djuvečodbundevesadjumbirom-300x225.jpg" alt="Djuvečodbundevesadjumbirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5229" src="/wp-content/uploads/2013/02/Djuvečodbundevesadjumbirom-300x225.jpg" alt="Djuvečodbundevesadjumbirom" width="300" height="225" /> 
 
 Priprema: povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
 

@@ -39,7 +39,7 @@ Potrebno je:
   * rum
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5567" src="//superkuvar.com/wp-content/uploads/2013/04/Kolacsajogurtomiorasima-300x225.jpg" alt="Kolacsajogurtomiorasima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5567" src="/wp-content/uploads/2013/04/Kolacsajogurtomiorasima-300x225.jpg" alt="Kolacsajogurtomiorasima" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje umutiti jaja sa šećerom, pa sipati ulje, jogurt, jabuke i malo ruma. Izmešati, a zatim dodati orahe i brašno pomešano sa praškom za pecivo.
 

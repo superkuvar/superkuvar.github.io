@@ -35,7 +35,7 @@ Potrebno je:
   * bosiljak
   * ulje
 
-<img class="alignnone size-medium wp-image-4549" title="Musaka od patlidzana sa..." src="//superkuvar.com/wp-content/uploads/2012/10/Musaka-od-patlidzana-sa...-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4549" title="Musaka od patlidzana sa..." src="/wp-content/uploads/2012/10/Musaka-od-patlidzana-sa...-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: plavi patlidžan oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji dvadesetak minuta. Nakon toga patlidžan ocediti od vode koju je pustio, uvaljati u brašno i kratko propržiti na ulju.
 

@@ -36,7 +36,7 @@ Potrebno je:
   * 100 grama čokolade za kuvanje
   * po 4 kašike šećera, ulja i mleka
 
-<img class="alignnone size-medium wp-image-4679" title="Kolac na brzinu" src="//superkuvar.com/wp-content/uploads/2012/01/Kolac-na-brzinu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4679" title="Kolac na brzinu" src="/wp-content/uploads/2012/01/Kolac-na-brzinu-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud za mešenje staviti jaja i šećer, pa mutiti varjačom. U umućena jaja dodati ulje, mleko, oljuštene i narendane jabuke, vanilin šećer, cimet, griz i brašno pomešano sa praškom za pecivo. Izmešati da se sastojci sjedine, a zatim masu sipati u pleh prekriven papirom za pečenje.
 

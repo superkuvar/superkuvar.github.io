@@ -27,7 +27,7 @@ biber
 1 jaje  
 ulje
 
-[<img class="alignnone size-medium wp-image-9576" src="//superkuvar.com/wp-content/uploads/2015/03/corbaodkoprivasagrizom-300x225.jpg" alt="corbaodkoprivasagrizom" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/03/corbaodkoprivasagrizom-e1430746814102.jpg)
+[<img class="alignnone size-medium wp-image-9576" src="/wp-content/uploads/2015/03/corbaodkoprivasagrizom-300x225.jpg" alt="corbaodkoprivasagrizom" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodkoprivasagrizom-e1430746814102.jpg)
 
 Priprema: koprive očistiti, oprati, preliti ključalom vodom, a zatim ocediti. Kada se ohlade iseckati ih.
 

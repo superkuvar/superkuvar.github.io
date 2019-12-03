@@ -28,7 +28,7 @@ Potrebno je:
   * ulje
   * 50 grama margarina
 
-<img class="alignnone size-medium wp-image-3621" title="Tikvicepunjenesirom" src="//superkuvar.com/wp-content/uploads/2012/06/Tikvicepunjenesirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3621" title="Tikvicepunjenesirom" src="/wp-content/uploads/2012/06/Tikvicepunjenesirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati i oljuštiti. Svaku preseći uzduž na pola i izdubiti. Sir izmešati sa žumancima, posoliti, dodati iseckanu mirođiju i dve kašike ulja.
 

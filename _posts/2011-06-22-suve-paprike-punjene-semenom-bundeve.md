@@ -29,7 +29,7 @@ Potrebno je:
   * aleva paprika
   * ulje
 
-<img class="alignnone size-full wp-image-1235" title="punjenesuvepaprike" src="//superkuvar.com/wp-content/uploads/2011/06/punjenesuvepaprike-e1308743745879.jpg" alt="" width="252" height="174" /> 
+<img class="alignnone size-full wp-image-1235" title="punjenesuvepaprike" src="/wp-content/uploads/2011/06/punjenesuvepaprike-e1308743745879.jpg" alt="" width="252" height="174" /> 
 
 Priprema: suve paprike oprati i potopiti u mlaku vodu. Ostaviti ih dvadesetak minuta da omekšaju, a zatim ocediti.
 

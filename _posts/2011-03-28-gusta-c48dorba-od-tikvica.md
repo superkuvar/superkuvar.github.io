@@ -32,7 +32,7 @@ Potrebno je:
   * suvi biljni začin
   * seckani peršunov list
 
-<img class="alignnone size-full wp-image-729" title="gustacorbaodtikvica" src="//superkuvar.com/wp-content/uploads/2011/03/gustacorbaodtikvica.jpg" alt="" width="259" height="194" /> 
+<img class="alignnone size-full wp-image-729" title="gustacorbaodtikvica" src="/wp-content/uploads/2011/03/gustacorbaodtikvica.jpg" alt="" width="259" height="194" /> 
 
 Priprema: crni luk iseći na listiće i propržiti na malo ulja. Krompir, šargarepu, tikvice i beli luk očistiti, sitno iseći, pa dodati u propržen crni luk, zaliti supom i kuvati 30 minuta.
 

@@ -25,7 +25,7 @@ Potrebno je:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3981" title="Zapeceniparadajzsajajima" src="//superkuvar.com/wp-content/uploads/2012/08/Zapeceniparadajzsajajima-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3981" title="Zapeceniparadajzsajajima" src="/wp-content/uploads/2012/08/Zapeceniparadajzsajajima-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paradajz oprati, odseći gornji deo i kašičicom pažljivo izdubiti. Unutrašljost svakog paradajza premazati sa malo ulja, posoliti i pobiberiti.
 

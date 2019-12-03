@@ -30,7 +30,7 @@ Potrebno je:
   * peršunov list
   * 1 kašika griza
 
-<img class="alignnone size-medium wp-image-3467" title="Jeloodtikvicaiparadajza" src="//superkuvar.com/wp-content/uploads/2011/06/Jeloodtikvicaiparadajza-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3467" title="Jeloodtikvicaiparadajza" src="/wp-content/uploads/2011/06/Jeloodtikvicaiparadajza-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati, oljuštiti, iseći na kocke i staviti u podmazanu posudu. Odozgo sipati oljušten i narendan paradajz, posoliti, pobiberiti, dodati suvi biljni začin i seckani beli luk. Doliti još malo ulja i decilitar tople vode.
 

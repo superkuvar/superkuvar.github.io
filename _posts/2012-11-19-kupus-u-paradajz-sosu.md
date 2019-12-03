@@ -33,7 +33,7 @@ Potrebno je:
   * kim
   * ulje
 
-<img class="alignnone size-medium wp-image-4765" title="Kupusuparadajzsosu" src="//superkuvar.com/wp-content/uploads/2012/11/Kupusuparadajzsosu1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4765" title="Kupusuparadajzsosu" src="/wp-content/uploads/2012/11/Kupusuparadajzsosu1-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Paradajz oljuštiti, iseći na sitnije komade i sjediniti sa lukom. Kuvati na tihoj vatri, dok se paradajz malo ne zgusne a zatim posoliti, pobiberiti i dodati seckani peršunov list.
 

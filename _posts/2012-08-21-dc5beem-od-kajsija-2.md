@@ -20,7 +20,7 @@ Potrebno je:
   * 2 kg kajsija
   * 1,2 kg šećera
 
-<img class="alignnone size-medium wp-image-4072" title="Dzemodkajsija" src="//superkuvar.com/wp-content/uploads/2012/08/Dzemodkajsija4-e1345540096893-300x254.jpg" alt="" width="300" height="254" /> 
+<img class="alignnone size-medium wp-image-4072" title="Dzemodkajsija" src="/wp-content/uploads/2012/08/Dzemodkajsija4-e1345540096893-300x254.jpg" alt="" width="300" height="254" /> 
 
 Priprema: odabrati zrele i zdrave kajsije, oprati ih, skloniti koštice, a ako su krupnije iseći na četvrtine. Ukoliko su kajsije tvrđe, samleti ih na mašini za mlevenje mesa.
 

@@ -31,7 +31,7 @@ Potrebno je:
   * so
   * peršunov list
 
-<img class="alignnone size-full wp-image-744" title="sampinjonicorbadom" src="//superkuvar.com/wp-content/uploads/2011/03/sampinjonicorbadom1.jpg" alt="" width="276" height="183" /> 
+<img class="alignnone size-full wp-image-744" title="sampinjonicorbadom" src="/wp-content/uploads/2011/03/sampinjonicorbadom1.jpg" alt="" width="276" height="183" /> 
 
 Priprema: šampinjone očistiti, oprati i iseći na listiće. Isitnjene šampinjone staviti na zagrejani margarin i dinstati oko 15 minuta, a zatim naliti litrom tople vode, posoliti i kuvati oko 20 minuta.
 

@@ -22,7 +22,7 @@ Potrebno:
   * biber
   * so
 
-<img class="alignnone size-full wp-image-1190" title="jajanaokoslanina" src="//superkuvar.com/wp-content/uploads/2011/06/jajanaokoslanina-e1308563818461.jpg" alt="" width="241" height="170" /> 
+<img class="alignnone size-full wp-image-1190" title="jajanaokoslanina" src="/wp-content/uploads/2011/06/jajanaokoslanina-e1308563818461.jpg" alt="" width="241" height="170" /> 
 
 Priprema: u tiganju zagrejati ulje pa propržiti slaninu isečenu na režnjeve. Skloniti tiganj sa vatre i izvaditi slaninu.
 

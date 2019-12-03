@@ -30,7 +30,7 @@ Potrebno je:
   * 7 šoljica brašna
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-5761" src="//superkuvar.com/wp-content/uploads/2011/07/Melspajz-sa..-5-300x225.jpg" alt="Melspajz sa.. 5" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5761" src="/wp-content/uploads/2011/07/Melspajz-sa..-5-300x225.jpg" alt="Melspajz sa.. 5" width="300" height="225" /> 
 
 Priprema: penasto umutiti jaja sa šećerom, pa dodati ulje, mleko, mlevene orahe i brašno pomešano sa praškom za pecivo. Masu lagano izmešati i sipati u pleh prekriven papirom za pečenje.
 

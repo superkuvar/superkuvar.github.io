@@ -29,7 +29,7 @@ Potrebno je:
   * 1 šoljica ulja
   * 6-7 decilitara vode
 
-<img class="alignnone size-medium wp-image-5685" src="//superkuvar.com/wp-content/uploads/2013/05/Proja-sa-spanacem-1-300x225.jpg" alt="Proja sa spanacem (1)" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5685" src="/wp-content/uploads/2013/05/Proja-sa-spanacem-1-300x225.jpg" alt="Proja sa spanacem (1)" width="300" height="225" /> 
 
 Priprema: spanać očistiti, oprati i kratko obariti u ključaloj vodi. Obaren spanać ocediti i kada se ohladi iseći na rezance.
 

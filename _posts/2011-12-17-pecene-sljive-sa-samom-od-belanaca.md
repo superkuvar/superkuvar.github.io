@@ -24,7 +24,7 @@ Potrebno je:
   * kesica cimeta
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3893" title="Pecenesljivesasamom" src="//superkuvar.com/wp-content/uploads/2011/12/Pecenesljivesasamom-e1344253870743-300x245.jpg" alt="" width="300" height="245" /> 
+<img class="alignnone size-medium wp-image-3893" title="Pecenesljivesasamom" src="/wp-content/uploads/2011/12/Pecenesljivesasamom-e1344253870743-300x245.jpg" alt="" width="300" height="245" /> 
 
 Priprema: šljive oprati, očistiti od koštica i prepoloviti. Poređati ih u dublji pleh i posuti šećerom (sedam kašika) pomešanim sa cimetom. Zapeći u pećnici na 220 stepeni.
 

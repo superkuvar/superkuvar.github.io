@@ -22,7 +22,7 @@ Potrebno je:
   * 6 kašika šećera
   * 500 grama voća (jagode, maline, višnje, kupine &#8230;)
 
-<img class="alignnone size-full wp-image-1642" title="decjisladolded1" src="//superkuvar.com/wp-content/uploads/2011/08/decjisladolded1-e1312799948650.jpg" alt="" width="176" height="159" /> 
+<img class="alignnone size-full wp-image-1642" title="decjisladolded1" src="/wp-content/uploads/2011/08/decjisladolded1-e1312799948650.jpg" alt="" width="176" height="159" /> 
 
 Priprema: voće oprati i izgnječiti viljuškom. Umutiti šlag sa mlekom i šećerom, prema uputstvu na kesici. U umućen šlag dodati izgnječeno voće. Mutiti mikserom još dva-tri minuta, da se masa ujednači. Umućen šlag sipati u pogodnu posudu i staviti u zamrzivač da se stegne.
 

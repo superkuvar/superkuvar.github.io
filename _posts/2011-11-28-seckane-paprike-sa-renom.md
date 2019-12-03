@@ -25,7 +25,7 @@ Potrebno je:
   * 150 grama šećera
   * soli po ukusu
 
-[<img class="alignnone size-medium wp-image-8802" src="//superkuvar.com/wp-content/uploads/2011/11/paprike-300x225.jpg" alt="paprike" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2011/11/paprike.jpg)
+[<img class="alignnone size-medium wp-image-8802" src="/wp-content/uploads/2011/11/paprike-300x225.jpg" alt="paprike" width="300" height="225" />](/wp-content/uploads/2011/11/paprike.jpg)
 
 Priprema: paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
 

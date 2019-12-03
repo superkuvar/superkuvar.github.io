@@ -27,7 +27,7 @@ Potrebno je:
   * muskatni oraščić
   * kiselo mleko
 
-<img class="alignnone size-full wp-image-645" title="spanacsapirincem" src="//superkuvar.com/wp-content/uploads/2011/05/spanacsapirincem.jpg" alt="" width="275" height="183" /> 
+<img class="alignnone size-full wp-image-645" title="spanacsapirincem" src="/wp-content/uploads/2011/05/spanacsapirincem.jpg" alt="" width="275" height="183" /> 
 
 Priprema: crni luk očistiti, sitno iseckati, staviti u zagrejano ulje i propržiti.
 

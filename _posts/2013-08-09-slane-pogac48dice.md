@@ -28,7 +28,7 @@ Potrebno je:
   * so
   * susam
 
-[<img class="alignnone size-medium wp-image-5977" src="//superkuvar.com/wp-content/uploads/2013/08/Slane-pogacicce-3-300x225.jpg" alt="Slane pogacicce (3)" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Slane-pogacicce-3.jpg)
+[<img class="alignnone size-medium wp-image-5977" src="/wp-content/uploads/2013/08/Slane-pogacicce-3-300x225.jpg" alt="Slane pogacicce (3)" width="300" height="225" />](/wp-content/uploads/2013/08/Slane-pogacicce-3.jpg)
 
 Priprema: u posudi za mešenje umutiti margarin sa jajetom, a zatim dodati izmrvljen sir i brašno pomešano sa praškom za pecivo i umesiti testo.
 

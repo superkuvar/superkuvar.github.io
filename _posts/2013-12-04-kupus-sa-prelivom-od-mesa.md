@@ -37,7 +37,7 @@ Potrebno je:
   * kašika brašna
   * 3 kašike jabukovog sirćeta
 
-[<img class="alignnone size-medium wp-image-6308" src="//superkuvar.com/wp-content/uploads/2013/12/Kupussaprelivomodmesa-300x225.jpg" alt="Kupussaprelivomodmesa" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/12/Kupussaprelivomodmesa.jpg)
+[<img class="alignnone size-medium wp-image-6308" src="/wp-content/uploads/2013/12/Kupussaprelivomodmesa-300x225.jpg" alt="Kupussaprelivomodmesa" width="300" height="225" />](/wp-content/uploads/2013/12/Kupussaprelivomodmesa.jpg)
 
 Priprema: kupus očistiti, oprati i isitniti na rezance, takođe i papriku. Krompir oprati, oljuštiti i iseći na kocke.
 

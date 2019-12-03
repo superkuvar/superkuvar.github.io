@@ -27,7 +27,7 @@ Potrebno je:
   * 5 decilitara ulja
   * šolja sirćeta
 
-<img class="alignnone size-medium wp-image-4152" title="Ljutenica" src="//superkuvar.com/wp-content/uploads/2011/12/Ljutenica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4152" title="Ljutenica" src="/wp-content/uploads/2011/12/Ljutenica-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paradajz oprati i samleti na mašini za mlevenje paradajza (ili oljuštiti pa iseckati što sitnije). Staviti ga u veći sud da se kuva (oko jedan sat).
 

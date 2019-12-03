@@ -31,7 +31,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-2967" title="Krompir sa spanaćem" src="//superkuvar.com/wp-content/uploads/2012/04/Krompir-sa-spana%C4%87em-e1334577791685.jpg" alt="" width="295" height="226" /> 
+<img class="alignnone size-medium wp-image-2967" title="Krompir sa spanaćem" src="/wp-content/uploads/2012/04/Krompir-sa-spana%C4%87em-e1334577791685.jpg" alt="" width="295" height="226" /> 
 
 Priprema: na ulju propržiti seckani crni luk, da blago porumeni. Dodati alevu papriku i promešati.
 

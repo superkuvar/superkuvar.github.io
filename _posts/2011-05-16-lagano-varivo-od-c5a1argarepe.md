@@ -28,7 +28,7 @@ Potrebno je:
   * peršunov list
   * so
 
-<img class="alignnone size-medium wp-image-5113" src="//superkuvar.com/wp-content/uploads/2011/05/Lagano-varivo-od-sargarepe-300x225.jpg" alt="Lagano varivo od sargarepe" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5113" src="/wp-content/uploads/2011/05/Lagano-varivo-od-sargarepe-300x225.jpg" alt="Lagano varivo od sargarepe" width="300" height="225" /> 
 
 Priprema: šargarepu oprati, očistiti i iseći na kolutove. Napola je obariti u slanoj vodi i ocediti.
 

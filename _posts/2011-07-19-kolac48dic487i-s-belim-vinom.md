@@ -29,7 +29,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5697" src="//superkuvar.com/wp-content/uploads/2011/07/Kolacicisbelimvinom-300x225.jpg" alt="Kolacicisbelimvinom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5697" src="/wp-content/uploads/2011/07/Kolacicisbelimvinom-300x225.jpg" alt="Kolacicisbelimvinom" width="300" height="225" /> 
 
 Priprema: penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno, onoliko koliko je potrebno da se dobije testo kao za vanilice.
 

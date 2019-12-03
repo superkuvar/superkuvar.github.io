@@ -27,7 +27,7 @@ biber
 so  
 ulje
 
-[<img class="alignnone size-medium wp-image-9579" src="//superkuvar.com/wp-content/uploads/2015/04/pitaodkopriva-300x225.jpg" alt="pitaodkopriva" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2015/04/pitaodkopriva-e1430747125697.jpg)
+[<img class="alignnone size-medium wp-image-9579" src="/wp-content/uploads/2015/04/pitaodkopriva-300x225.jpg" alt="pitaodkopriva" width="300" height="225" />](/wp-content/uploads/2015/04/pitaodkopriva-e1430747125697.jpg)
 
 Priprema: koprivu očistiti, oprati i preliti ključalom vodom. Kada se kopriva ohladi iseckati je na rezance. Mladi crni luk očistiti, oprati, zajedno sa perima sitno iseći i propržiti na malo ulja. U luk dodati iseckanu koprivu, alevu papriku, so, biber i brašno. Nadev dobro izmešati.
 

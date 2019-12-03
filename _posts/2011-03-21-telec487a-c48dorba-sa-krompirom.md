@@ -46,7 +46,7 @@ Potrebno:
   * peršunov list
   * so
 
-<img class="alignnone size-full wp-image-820" title="telecacorbasakrompirom" src="//superkuvar.com/wp-content/uploads/2011/03/telecacorbasakrompirom-e1306838786577.jpg" alt="" width="199" height="184" /> 
+<img class="alignnone size-full wp-image-820" title="telecacorbasakrompirom" src="/wp-content/uploads/2011/03/telecacorbasakrompirom-e1306838786577.jpg" alt="" width="199" height="184" /> 
 
 Priprema: teleće meso staviti u lonac, naliti ga sa 2 litra vode i kuvati. Čim izbije prvi ključ, prosuti tu vodu i naliti čistu, ključalu, i kuvati meso dok ne omekša. Tada u lonac spustiti cele krompire, šargarepu, celer i paškanat i blago posoliti.
 

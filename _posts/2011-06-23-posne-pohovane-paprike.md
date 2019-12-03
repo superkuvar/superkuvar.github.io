@@ -27,7 +27,7 @@ Potrebno je:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-3038" title="Posne pohovane paprike" src="//superkuvar.com/wp-content/uploads/2011/06/Posne-pohovane-paprike-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3038" title="Posne pohovane paprike" src="/wp-content/uploads/2011/06/Posne-pohovane-paprike-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: paprike izvaditi iz zamrzivača i ostaviti da se odmrznu. Umutiti pivo sa brašnom i malo soli. Masa treba da bude malo gušća od testa za palačinke.
 

@@ -34,7 +34,7 @@ Potrebno je:
   * kašičica šećera
   * ulje
 
-<img class="alignnone size-medium wp-image-5084" src="//superkuvar.com/wp-content/uploads/2013/01/Podvaraksaribom-300x225.jpg" alt="Podvaraksaribom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5084" src="/wp-content/uploads/2013/01/Podvaraksaribom-300x225.jpg" alt="Podvaraksaribom" width="300" height="225" /> 
 
 Priprema: kupus oprati u hladnoj vodi, da bi se malo isprala so ili ukoliko je kiseliji nego što želite. Zatim ga ocediti i sitno iseckati.
 

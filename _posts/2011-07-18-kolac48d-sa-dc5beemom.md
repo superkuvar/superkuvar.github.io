@@ -35,7 +35,7 @@ Potrebno je:
   * džem (po izboru)
   * 3-4 kašike mlevenih oraha ili mlevenog keksa
 
-<img class="alignnone size-medium wp-image-5773" src="//superkuvar.com/wp-content/uploads/2011/07/Kolacsadzemom-300x225.jpg" alt="Kolacsadzemom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5773" src="/wp-content/uploads/2011/07/Kolacsadzemom-300x225.jpg" alt="Kolacsadzemom" width="300" height="225" /> 
 
 Priprema: u toplo mleko staviti kašiku šećera i komad kvasca, izmešati i ostaviti da kvasac nadođe. Umutiti margarin sa 50 grama šećera, dodati žumanca, brašno i uskisli kvasac i dobro umesiti, da se testo odvoji od suda.
 

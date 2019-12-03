@@ -27,7 +27,7 @@ Potrebno je:
   * pola kašičice šećera
   * ulje
 
-[<img class="alignnone size-medium wp-image-6056" src="//superkuvar.com/wp-content/uploads/2013/08/Varivo-od-sargarepe-300x225.jpg" alt="Varivo od sargarepe" width="300" height="225" />](//superkuvar.com/wp-content/uploads/2013/08/Varivo-od-sargarepe.jpg)
+[<img class="alignnone size-medium wp-image-6056" src="/wp-content/uploads/2013/08/Varivo-od-sargarepe-300x225.jpg" alt="Varivo od sargarepe" width="300" height="225" />](/wp-content/uploads/2013/08/Varivo-od-sargarepe.jpg)
 
 Priprema: na ulju propržiti sitno seckani crni luk, da postane staklast.
 

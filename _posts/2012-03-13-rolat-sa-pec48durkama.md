@@ -38,7 +38,7 @@ Fil
   * 3 kašike kisele pavlake
   * 2 dl kisele pavlake (za premazivanje)
 
-<img class="alignnone size-medium wp-image-2646" title="Rolat sa pečurkama" src="//superkuvar.com/wp-content/uploads/2012/03/Rolat-sa-pe%C4%8Durkama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2646" title="Rolat sa pečurkama" src="/wp-content/uploads/2012/03/Rolat-sa-pe%C4%8Durkama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
 

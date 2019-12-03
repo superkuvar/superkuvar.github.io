@@ -31,7 +31,7 @@ Potrebno je:
   * biber
   * peršunov list
 
-<img class="alignnone size-full wp-image-1166" title="nabujakodkrompiraipecuraka" src="//superkuvar.com/wp-content/uploads/2011/06/nabujakodkrompiraipecuraka1.jpg" alt="" width="216" height="144" /> 
+<img class="alignnone size-full wp-image-1166" title="nabujakodkrompiraipecuraka" src="/wp-content/uploads/2011/06/nabujakodkrompiraipecuraka1.jpg" alt="" width="216" height="144" /> 
 
 Priprema: krompir oprati, ne ljuštiti, naliti hladnom vodom da ogrezne i skuvati. Kad se ohladi iseći ga na kolutove.
 
