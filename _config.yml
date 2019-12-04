@@ -8,3 +8,5 @@ google_analytics: UA-42249092-1
 gems:
 - jekyll-seo-tag
 
+
+theme: jekyll-theme-dinky
