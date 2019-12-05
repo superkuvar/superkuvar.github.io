@@ -18,14 +18,14 @@ tags:
   - šargarepa
 ---
 Potrebno je:  
-1/2 kg mladih kopriva  
-kašika brašna  
-crni luk (manja glavica)  
-1 manja šargarepa  
-1 veći krompir  
-sok od limuna ili jabukovo sirće (kašika-dve)  
-so  
-ulje
+* 1/2 kg mladih kopriva  
+* kašika brašna  
+* crni luk (manja glavica)  
+* 1 manja šargarepa  
+* 1 veći krompir  
+* sok od limuna ili jabukovo sirće (kašika-dve)  
+* so  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9567" src="/wp-content/uploads/2015/03/corbaodmladihkopriva-300x225.jpg" alt="corbaodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodmladihkopriva-e1430745644806.jpg)
 

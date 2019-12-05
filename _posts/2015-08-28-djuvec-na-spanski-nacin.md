@@ -19,15 +19,15 @@ tags:
   - tikvice
 ---
 Potrebno je:  
-3 tikvice  
-paprike (5-6 komada)  
-5 krompira  
-1 plavi patlidžan  
-2 veće glavice crnog luka  
-so  
-biber  
-bosiljak  
-ulje
+* 3 tikvice  
+* paprike (5-6 komada)  
+* 5 krompira  
+* 1 plavi patlidžan  
+* 2 veće glavice crnog luka  
+* so  
+* biber  
+* bosiljak  
+* ulje
 
 <img class="alignnone wp-image-9715 size-medium" src="/wp-content/uploads/2015/08/đuvecnaspanskinacin-300x225.jpg" alt="đuvecnaspanskinacin" width="300" height="225" /> 
 

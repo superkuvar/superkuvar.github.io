@@ -17,12 +17,12 @@ tags:
   - jaja
 ---
 Potrebno je:  
-šljive (800 grama)  
-4 jajeta  
-4 kašike šećera  
-4 kašike brašna  
-kesica šlag krema  
-kašičica cimeta
+* šljive (800 grama)  
+* 4 jajeta  
+* 4 kašike šećera  
+* 4 kašike brašna  
+* kesica šlag krema  
+* kašičica cimeta
 
 [<img class="alignnone size-medium wp-image-9762" src="/wp-content/uploads/2015/09/jednostavnikolacsasljivama-300x225.jpg" alt="jednostavnikolacsasljivama" width="300" height="225" />](/wp-content/uploads/2015/09/jednostavnikolacsasljivama-e1443702573276.jpg)
 

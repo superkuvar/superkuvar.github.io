@@ -19,19 +19,19 @@ tags:
   - tikvice
 ---
 Potrebno je:  
-plavi patlidžan (3 srednje veličine)  
-2 male tikvice  
-paprike (6-7 komada)  
-3-4 paradajza  
-4 čena belog luka  
-glavica crnog luka  
-belo vino (1 dl)  
-kašičica aleve paprike  
-1 lovorov list  
-so  
-biber  
-peršunov list  
-ulje
+* plavi patlidžan (3 srednje veličine)  
+* 2 male tikvice  
+* paprike (6-7 komada)  
+* 3-4 paradajza  
+* 4 čena belog luka  
+* glavica crnog luka  
+* belo vino (1 dl)  
+* kašičica aleve paprike  
+* 1 lovorov list  
+* so  
+* biber  
+* peršunov list  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9773" src="/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-300x225.jpg" alt="varivoodpatlidzanatikvicapaprikaiparadajza" width="300" height="225" />](/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-e1444633158868.jpg)
 

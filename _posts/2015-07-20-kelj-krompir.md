@@ -17,16 +17,16 @@ tags:
   - krompir
 ---
 Potrebno je:  
-kelj (glavica oko 1 kg)  
-krompir (3 veća)  
-nekoliko zrna kima  
-manja glavica crnog luka  
-čen belog luka  
-2 kašike brašna  
-kašičica butera ili margarina  
-kocka za supu  
-so  
-ulje
+* kelj (glavica oko 1 kg)  
+* krompir (3 veća)  
+* nekoliko zrna kima  
+* manja glavica crnog luka  
+* čen belog luka  
+* 2 kašike brašna  
+* kašičica butera ili margarina  
+* kocka za supu  
+* so  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9690" src="/wp-content/uploads/2015/07/keljikrompir-300x225.jpg" alt="keljikrompir" width="300" height="225" />](/wp-content/uploads/2015/07/keljikrompir-e1437374996327.jpg)
 

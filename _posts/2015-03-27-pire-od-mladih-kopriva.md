@@ -17,12 +17,12 @@ tags:
   - koprive
 ---
 Potrebno je:  
-1 kilogram mladih kopriva  
-2 ravne kašike brašna  
-3 čena belog luka  
-so  
-biber  
-ulje
+* 1 kilogram mladih kopriva  
+* 2 ravne kašike brašna  
+* 3 čena belog luka  
+* so  
+* biber  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9570" src="/wp-content/uploads/2015/03/pireodmladihkopriva-300x225.jpg" alt="pireodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/pireodmladihkopriva-e1430745927247.jpg)
 

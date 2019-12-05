@@ -18,15 +18,15 @@ tags:
   - sojine ljuspice
 ---
 Potrebno je:  
-blitva (4 veze malo većih listova)  
-mladi crni luk (1 veza)  
-1 šargarepa  
-100 grama sojinih ljuspica  
-pola šolje pirinča  
-so  
-biber  
-aleva paprika  
-ulje
+* blitva (4 veze malo većih listova)  
+* mladi crni luk (1 veza)  
+* 1 šargarepa  
+* 100 grama sojinih ljuspica  
+* pola šolje pirinča  
+* so  
+* biber  
+* aleva paprika  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9705" src="/wp-content/uploads/2015/08/posnasarmaodblitve-300x225.jpg" alt="posnasarmaodblitve" width="300" height="225" />](/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)
 

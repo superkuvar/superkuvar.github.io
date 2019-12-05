@@ -17,17 +17,17 @@ tags:
   - tikvice
 ---
 Potrebno je:  
-mlade tikvice (1 kg)  
-krompir (500 grama)  
-2 šargarepe  
-3 glavice crnog luka  
-so  
-biber  
-ulje  
-2 čena belog luka  
-peršunov list  
-kašika brašna  
-aleva paprika
+* mlade tikvice (1 kg)  
+* krompir (500 grama)  
+* 2 šargarepe  
+* 3 glavice crnog luka  
+* so  
+* biber  
+* ulje  
+* 2 čena belog luka  
+* peršunov list  
+* kašika brašna  
+* aleva paprika
 
 [<img class="alignnone size-medium wp-image-9681" src="/wp-content/uploads/2015/07/tikvicepunjenekrompirom-300x225.jpg" alt="tikvicepunjenekrompirom" width="300" height="225" />](/wp-content/uploads/2015/07/tikvicepunjenekrompirom-e1436796154880.jpg)
 

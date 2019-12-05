@@ -17,13 +17,13 @@ tags:
   - spanać
 ---
 Potrebno je:  
-spanać (600 grama)  
-1 kašika brašna  
-šoljica pirinča  
-beli luk (2-3 čena)  
-so  
-biber  
-ulje
+* spanać (600 grama)  
+* 1 kašika brašna  
+* šoljica pirinča  
+* beli luk (2-3 čena)  
+* so  
+* biber  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9588" src="/wp-content/uploads/2015/04/spanaccorba-300x225.jpg" alt="spanaccorba" width="300" height="225" />](/wp-content/uploads/2015/04/spanaccorba-e1430747707748.jpg)
 

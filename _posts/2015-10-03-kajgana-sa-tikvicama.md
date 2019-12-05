@@ -16,12 +16,12 @@ tags:
   - jaja
 ---
 Potrebno je:  
-2 manje mlade tikvice  
-4-5 jaja  
-so  
-biber  
-peršunov list  
-ulje
+* 2 manje mlade tikvice  
+* 4-5 jaja  
+* so  
+* biber  
+* peršunov list  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9766" src="/wp-content/uploads/2015/10/kajganasatikvicama-300x225.jpg" alt="kajganasatikvicama" width="300" height="225" />](/wp-content/uploads/2015/10/kajganasatikvicama-e1443871098358.jpg)
 

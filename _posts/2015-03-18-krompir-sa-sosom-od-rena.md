@@ -20,14 +20,14 @@ tags:
   - ren
 ---
 Potrebno je:  
-krompir (1 kg)  
-brašno (3 kašike)  
-mleko (6 dl)  
-ren (1 koren)  
-1 kašičica šećera  
-so  
-limunov sok (1 kašika)  
-margarin ili maslac (50 grama)
+* krompir (1 kg)  
+* brašno (3 kašike)  
+* mleko (6 dl)  
+* ren (1 koren)  
+* 1 kašičica šećera  
+* so  
+* limunov sok (1 kašika)  
+* margarin ili maslac (50 grama)
 
 [<img class="alignnone size-medium wp-image-9600" src="/wp-content/uploads/2015/03/krompirsarenom-300x225.jpg" alt="krompirsarenom" width="300" height="225" />](/wp-content/uploads/2015/03/krompirsarenom-e1430749224481.jpg)
 

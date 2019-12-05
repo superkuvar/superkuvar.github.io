@@ -18,14 +18,14 @@ tags:
   - jaja
 ---
 Potrebno je:  
-1/2 kg mladih kopriva  
-ulje  
-mladi crni luk (veza)  
-griz (2 kašike)  
-so  
-biber  
-1 jaje  
-ulje
+* 1/2 kg mladih kopriva  
+* ulje  
+* mladi crni luk (veza)  
+* griz (2 kašike)  
+* so  
+* biber  
+* 1 jaje  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9576" src="/wp-content/uploads/2015/03/corbaodkoprivasagrizom-300x225.jpg" alt="corbaodkoprivasagrizom" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodkoprivasagrizom-e1430746814102.jpg)
 

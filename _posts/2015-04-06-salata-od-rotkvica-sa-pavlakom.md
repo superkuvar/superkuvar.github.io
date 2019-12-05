@@ -18,13 +18,13 @@ tags:
   - sirće
 ---
 Potrebno je:  
-mlade rotkvice (2 vezice)  
-mladi crni luk (1 vezica)  
-so  
-biber  
-ulje  
-jabukovo sirće  
-čaša kisele pavlake
+* mlade rotkvice (2 vezice)  
+* mladi crni luk (1 vezica)  
+* so  
+* biber  
+* ulje  
+* jabukovo sirće  
+* čaša kisele pavlake
 
 [<img class="alignnone size-medium wp-image-9582" src="/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-300x225.jpg" alt="salataodrotkvicasapavlakom" width="300" height="225" />](/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-e1430747430946.jpg)
 

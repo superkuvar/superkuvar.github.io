@@ -38,15 +38,15 @@ tags:
   - plavi patlidžan
 ---
 Potrebno je:  
-plavi patlidžan (1 kilogram)  
-crni luk (1 glavica)  
-paradajz (4 srednje veličine)  
-2 čena belog luka  
-brašno  
-so  
-biber  
-ulje  
-kačkavalj (200 grama)
+* plavi patlidžan (1 kilogram)  
+* crni luk (1 glavica)  
+* paradajz (4 srednje veličine)  
+* 2 čena belog luka  
+* brašno  
+* so  
+* biber  
+* ulje  
+* kačkavalj (200 grama)
 
 <img class="alignnone size-medium wp-image-12862" src="/wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-300x225.jpg" alt="plavipatlidzansaparadajzsosom" width="300" height="225" /> 
 

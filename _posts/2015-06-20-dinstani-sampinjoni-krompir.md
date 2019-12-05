@@ -18,16 +18,16 @@ tags:
   - šargarepa
 ---
 Potrebno je:  
-šampinjoni (300 grama)  
-krompir (800 grama)  
-2 šargarepe  
-3 struka mladog crnog luka ili glavica crnog luka  
-so  
-biber  
-bosiljak  
-kašika skroba  
-sok od limuna (2 kašike)  
-ulje
+* šampinjoni (300 grama)  
+* krompir (800 grama)  
+* 2 šargarepe  
+* 3 struka mladog crnog luka ili glavica crnog luka  
+* so  
+* biber  
+* bosiljak  
+* kašika skroba  
+* sok od limuna (2 kašike)  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9660" src="/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-300x225.jpg" alt="dinstanisampinjoniikrompir" width="300" height="225" />](/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-e1434799762913.jpg)
 

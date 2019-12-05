@@ -19,13 +19,13 @@ tags:
   - urme
 ---
 Potrebno je:  
-suve urme (10-15 komada)  
-mleveni orasi (50 grama)  
-mleveni keks (oko 50 grama)  
-rum  
-2 kašike meda  
-čokolada za kuvanje (100 g)  
-po 1 kašika ulja, mleka i šećera u prahu
+* suve urme (10-15 komada)  
+* mleveni orasi (50 grama)  
+* mleveni keks (oko 50 grama)  
+* rum  
+* 2 kašike meda  
+* čokolada za kuvanje (100 g)  
+* po 1 kašika ulja, mleka i šećera u prahu
 
 [<img class="alignnone size-medium wp-image-9642" src="/wp-content/uploads/2015/05/urme-300x225.jpg" alt="urme" width="300" height="225" />](/wp-content/uploads/2015/05/urme-e1432015413310.jpg)
 

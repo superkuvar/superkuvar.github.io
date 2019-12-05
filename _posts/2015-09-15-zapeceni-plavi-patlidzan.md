@@ -18,15 +18,15 @@ tags:
   - jaja
 ---
 Potrebno je:  
-plavi patlidžan (5 komada srednje veličine)  
-crni luk (3 srednje glavice)  
-brašno  
-kisela pavlaka (300 grama)  
-2 jajeta  
-so  
-biber  
-bosiljak  
-ulje
+* plavi patlidžan (5 komada srednje veličine)  
+* crni luk (3 srednje glavice)  
+* brašno  
+* kisela pavlaka (300 grama)  
+* 2 jajeta  
+* so  
+* biber  
+* bosiljak  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9738" src="/wp-content/uploads/2015/09/zapeceniplavipatlidzan-300x225.jpg" alt="zapeceniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2015/09/zapeceniplavipatlidzan-e1442296299168.jpg)
 

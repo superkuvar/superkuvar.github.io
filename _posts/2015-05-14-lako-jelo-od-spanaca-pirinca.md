@@ -17,14 +17,14 @@ tags:
   - spanać
 ---
 Potrebno je:  
-spanać (1 kilogram)  
-mladi crni luk (3 struka)  
-pirinač (2 šoljice)  
-3 čena belog luka  
-so  
-biber  
-ulje  
-jabukovo sirće
+* spanać (1 kilogram)  
+* mladi crni luk (3 struka)  
+* pirinač (2 šoljice)  
+* 3 čena belog luka  
+* so  
+* biber  
+* ulje  
+* jabukovo sirće
 
 [<img class="alignnone size-medium wp-image-9636" src="/wp-content/uploads/2015/05/lakojeloodspanaca-300x225.jpg" alt="lakojeloodspanaca" width="300" height="225" />](/wp-content/uploads/2015/05/lakojeloodspanaca-e1431584975891.jpg)
 

@@ -19,17 +19,17 @@ tags:
   - jaja
 ---
 Potrebno je:  
-plavi patlidžan (3 veća)  
-4 veća krompira  
-1 struk praziluka ili 2 glavice crnog luka  
-kačkavalj (200 grama)  
-2 jajeta  
-kisela pavlaka (1 čaša)  
-so  
-biber  
-bosiljak  
-brašno  
-ulje
+* plavi patlidžan (3 veća)  
+* 4 veća krompira  
+* 1 struk praziluka ili 2 glavice crnog luka  
+* kačkavalj (200 grama)  
+* 2 jajeta  
+* kisela pavlaka (1 čaša)  
+* so  
+* biber  
+* bosiljak  
+* brašno  
+* ulje
 
 <img class="alignnone size-medium wp-image-10840" src="/wp-content/uploads/2016/01/krompirsaplavimpatlidzanom-300x225.jpg" alt="krompirsaplavimpatlidzanom" width="300" height="225" /> 
 

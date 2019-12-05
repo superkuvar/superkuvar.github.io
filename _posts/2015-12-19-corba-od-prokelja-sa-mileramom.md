@@ -19,15 +19,15 @@ tags:
   - sirće
 ---
 Potrebno je:  
-prokelj (500 grama)  
-ulje  
-brašno (2 kašike)  
-so  
-kim  
-2 čena belog luka  
-1 jaje  
-mileram (3 kašike)  
-sirće (2-3 kašike)
+* prokelj (500 grama)  
+* ulje  
+* brašno (2 kašike)  
+* so  
+* kim  
+* 2 čena belog luka  
+* 1 jaje  
+* mileram (3 kašike)  
+* sirće (2-3 kašike)
 
 [<img class="alignnone size-medium wp-image-10802" src="/wp-content/uploads/2015/12/corbaodprokeljasamileramom-300x225.jpg" alt="corbaodprokeljasamileramom" width="300" height="225" />](/wp-content/uploads/2015/12/corbaodprokeljasamileramom-e1450523861983.jpg)
 

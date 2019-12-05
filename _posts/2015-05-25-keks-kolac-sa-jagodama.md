@@ -18,13 +18,13 @@ tags:
   - puding
 ---
 Potrebno je:  
-keks pti ber (400 grama)  
-mleko (9 dl)  
-2 kesice pudinga od jagode  
-100 grama margarina  
-5 kašika šećera  
-jagode (300 grama)  
-kesica šlag krema
+* keks pti ber (400 grama)  
+* mleko (9 dl)  
+* 2 kesice pudinga od jagode  
+* 100 grama margarina  
+* 5 kašika šećera  
+* jagode (300 grama)  
+* kesica šlag krema
 
 [<img class="alignnone size-medium wp-image-9649" src="/wp-content/uploads/2015/05/kekskolacsajagodama-300x225.jpg" alt="kekskolacsajagodama" width="300" height="225" />](/wp-content/uploads/2015/05/kekskolacsajagodama-e1432537510599.jpg)
 

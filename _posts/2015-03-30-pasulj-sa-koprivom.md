@@ -20,15 +20,15 @@ tags:
   - šargarepa
 ---
 Potrebno je:  
-pasulj (1/2 kg)  
-250 grama mladih kopriva  
-glavica crnog luka  
-2 čena belog luka  
-2 šargarepe  
-so  
-aleva paprika  
-2 kašike brašna  
-ulje
+* pasulj (1/2 kg)  
+* 250 grama mladih kopriva  
+* glavica crnog luka  
+* 2 čena belog luka  
+* 2 šargarepe  
+* so  
+* aleva paprika  
+* 2 kašike brašna  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9573" src="/wp-content/uploads/2015/03/pasuljsakoprivom-300x225.jpg" alt="pasuljsakoprivom" width="300" height="225" />](/wp-content/uploads/2015/03/pasuljsakoprivom-e1430746126811.jpg)
 

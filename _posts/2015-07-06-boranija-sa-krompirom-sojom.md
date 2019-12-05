@@ -18,15 +18,15 @@ tags:
   - soja
 ---
 Potrebno je:  
-zamrznuta boranija (500 g)  
-krompir (4 komada)  
-2 šargarepe  
-glavica crnog luka  
-soja u komadićima (50 grama)  
-suvi bosiljak  
-pola kašike aleve paprike  
-2 kašike skroba (gustina)  
-ulje
+* zamrznuta boranija (500 g)  
+* krompir (4 komada)  
+* 2 šargarepe  
+* glavica crnog luka  
+* soja u komadićima (50 grama)  
+* suvi bosiljak  
+* pola kašike aleve paprike  
+* 2 kašike skroba (gustina)  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9668" src="/wp-content/uploads/2015/07/boranijasakrompiromisojom-300x225.jpg" alt="boranijasakrompiromisojom" width="300" height="225" />](/wp-content/uploads/2015/07/boranijasakrompiromisojom-e1436166420929.jpg)
 

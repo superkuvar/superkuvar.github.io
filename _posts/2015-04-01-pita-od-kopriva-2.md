@@ -18,14 +18,14 @@ tags:
   - kore za pitu
 ---
 Potrebno je:  
-500 grama tanjih kora za pitu  
-1 kg mladih kopriva  
-mladi crni luk (2 vezice)  
-2 kašike brašna  
-aleva paprika  
-biber  
-so  
-ulje
+* 500 grama tanjih kora za pitu  
+* 1 kg mladih kopriva  
+* mladi crni luk (2 vezice)  
+* 2 kašike brašna  
+* aleva paprika  
+* biber  
+* so  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9579" src="/wp-content/uploads/2015/04/pitaodkopriva-300x225.jpg" alt="pitaodkopriva" width="300" height="225" />](/wp-content/uploads/2015/04/pitaodkopriva-e1430747125697.jpg)
 

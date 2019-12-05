@@ -19,38 +19,39 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:  
+Potrebno je:
+
 Za koru  
-3 jajeta  
-7 žumanaca  
-6 kašika šećera  
-6 kašika mlevenih oraha  
-5 kašika brašna  
-pola kesice praška za pecivo  
-5 kašika šećera (za šerbet)
+* 3 jajeta  
+* 7 žumanaca  
+* 6 kašika šećera  
+* 6 kašika mlevenih oraha  
+* 5 kašika brašna  
+* pola kesice praška za pecivo  
+* 5 kašika šećera (za šerbet)
 
 Prvi fil  
-300 grama keksa (najbolje plazma keks)  
-1 manja čaša gaziranog soka od pomorandže  
-125 grama maslaca ili margarina  
-125 grama šećera u prahu  
-100 grama čokolade za kuvanje
+* 300 grama keksa (najbolje plazma keks)  
+* 1 manja čaša gaziranog soka od pomorandže  
+* 125 grama maslaca ili margarina  
+* 125 grama šećera u prahu  
+* 100 grama čokolade za kuvanje
 
 Drugi fil  
-250 grama mlevenih oraha  
-1 šoljica vrelog mleka  
-125 grama maslaca ili margarina  
-125 grama šećera u prahu
+* 250 grama mlevenih oraha  
+* 1 šoljica vrelog mleka  
+* 125 grama maslaca ili margarina  
+* 125 grama šećera u prahu
 
 Treći fil  
-2 pudinga sa ukusom slatke pavlake (može i od vanile)  
-4 decilitra mleka  
-3 kašike šećera  
-250 grama maslaca ili margarina  
-200 grama šećera u prahu
+* 2 pudinga sa ukusom slatke pavlake (može i od vanile)  
+* 4 decilitra mleka  
+* 3 kašike šećera  
+* 250 grama maslaca ili margarina  
+* 200 grama šećera u prahu
 
 Četvrti fil  
-3 kesice šlag krema sa ukusom slatke pavlake
+* 3 kesice šlag krema sa ukusom slatke pavlake
 
 <img class="alignnone size-medium wp-image-2276" title="Krem-torta 12" src="/wp-content/uploads/2012/01/Krem-torta-12-300x225.jpg" alt="" width="300" height="225" /> 
 

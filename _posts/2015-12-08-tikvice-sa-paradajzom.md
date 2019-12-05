@@ -21,15 +21,15 @@ tags:
   - tikvice
 ---
 Potrebno je:  
-tikvice (1,5 kilogram)  
-paradajz (1 kg)  
-1 glavica crnog luka  
-so  
-biber  
-pola kašičice šećera  
-peršunov list  
-bosiljak  
-ulje
+* tikvice (1,5 kilogram)  
+* paradajz (1 kg)  
+* 1 glavica crnog luka  
+* so  
+* biber  
+* pola kašičice šećera  
+* peršunov list  
+* bosiljak  
+* ulje
 
 [<img class="alignnone size-medium wp-image-10783" src="/wp-content/uploads/2015/12/tikvicesaparadajzom-300x225.jpg" alt="tikvicesaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/12/tikvicesaparadajzom-e1449557930227.jpg)
 

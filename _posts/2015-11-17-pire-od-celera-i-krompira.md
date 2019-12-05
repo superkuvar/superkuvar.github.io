@@ -18,16 +18,16 @@ tags:
   - margarin
 ---
 Potrebno je:  
-celer (700 grama)  
-krompir (500 grama)  
-1 manja glavica crnog luka  
-lovorov list  
-so  
-biber  
-šolja mleka  
-3 kašike kisele pavlake  
-komad margarina  
-ulje
+* celer (700 grama)  
+* krompir (500 grama)  
+* 1 manja glavica crnog luka  
+* lovorov list  
+* so  
+* biber  
+* šolja mleka  
+* 3 kašike kisele pavlake  
+* komad margarina  
+* ulje
 
 [<img class="alignnone size-medium wp-image-10408" src="/wp-content/uploads/2015/11/pireodceleraikrompira-300x225.jpg" alt="pireodceleraikrompira" width="300" height="225" />](/wp-content/uploads/2015/11/pireodceleraikrompira-e1447743182460.jpg)
 

@@ -20,14 +20,14 @@ tags:
   - šampinjoni
 ---
 Potrebno je:  
-šampinjoni (300 grama)  
-glavica crnog luka  
-čen belog luka  
-2 crvene pečene paprike  
-krompir (4 srednje veličine)  
-peršunov list  
-so  
-ulje
+* šampinjoni (300 grama)  
+* glavica crnog luka  
+* čen belog luka  
+* 2 crvene pečene paprike  
+* krompir (4 srednje veličine)  
+* peršunov list  
+* so  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9598" src="/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-300x225.jpg" alt="Sampinjoni sa krompirom (1)" width="300" height="225" />](/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-e1430749102363.jpg)
 

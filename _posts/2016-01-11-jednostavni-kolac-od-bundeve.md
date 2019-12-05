@@ -18,16 +18,16 @@ tags:
   - jaja
 ---
 Potrebno je:  
-bundeva (500 grama)  
-3 jaja  
-1 čaša (od 2 dl) šećera  
-pola čaše ulja  
-3 čaše brašna  
-čaša jogurta  
-kesica praška za pecivo  
-malo soli  
-kesica cimeta  
-šećer u prahu
+* bundeva (500 grama)  
+* 3 jaja  
+* 1 čaša (od 2 dl) šećera  
+* pola čaše ulja  
+* 3 čaše brašna  
+* čaša jogurta  
+* kesica praška za pecivo  
+* malo soli  
+* kesica cimeta  
+* šećer u prahu
 
 [<img class="alignnone size-medium wp-image-10819" src="/wp-content/uploads/2016/01/jednostavnikolacodbundeve-300x225.jpg" alt="jednostavnikolacodbundeve" width="300" height="225" />](/wp-content/uploads/2016/01/jednostavnikolacodbundeve-e1452496139469.jpg)
 

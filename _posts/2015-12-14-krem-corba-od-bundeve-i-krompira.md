@@ -19,17 +19,17 @@ tags:
   - peršunov list
 ---
 Potrebno je:  
-bundeva (600 grama)  
-krompir (4 veća)  
-1 mala glavica crnog luka  
-1 jaje  
-čaša kisele pavlake  
-kašika gustina (skroba)  
-so  
-suvi biljni začin  
-kari  
-ulje  
-peršunov list
+* bundeva (600 grama)  
+* krompir (4 veća)  
+* 1 mala glavica crnog luka  
+* 1 jaje  
+* čaša kisele pavlake  
+* kašika gustina (skroba)  
+* so  
+* suvi biljni začin  
+* kari  
+* ulje  
+* peršunov list
 
 [<img class="alignnone size-medium wp-image-10795" src="/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-300x225.jpg" alt="kremcorbaodbundeveikrompira" width="300" height="225" />](/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-e1450076004418.jpg)
 

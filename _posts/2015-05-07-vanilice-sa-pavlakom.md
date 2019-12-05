@@ -19,14 +19,14 @@ tags:
 ---
 Potrebno je:
 
-250 grama svinjske masti  
-kisela pavlaka (3 kašike)  
-2 jajeta  
-5 kašika šećera  
-500-600 grama brašna  
-šećer u prahu  
-kesica vanilin šećera  
-džem
+* 250 grama svinjske masti  
+* kisela pavlaka (3 kašike)  
+* 2 jajeta  
+* 5 kašika šećera  
+* 500-600 grama brašna  
+* šećer u prahu  
+* kesica vanilin šećera  
+* džem
 
 [<img class="alignnone size-medium wp-image-9627" src="/wp-content/uploads/2015/05/vanilicesapavlakom-300x225.jpg" alt="vanilicesapavlakom" width="300" height="225" />](/wp-content/uploads/2015/05/vanilicesapavlakom-e1431003569127.jpg)
 

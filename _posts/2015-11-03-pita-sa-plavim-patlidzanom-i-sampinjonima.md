@@ -19,15 +19,15 @@ tags:
   - jaja
 ---
 Potrebno je:  
-500 g kora za pitu  
-plavi patlidžan (2 manja)  
-šampinjoni (300 grama)  
-2 jajeta  
-2 glavice crnog luka  
-kašika brašna  
-so  
-biber  
-ulje
+* 500 g kora za pitu  
+* plavi patlidžan (2 manja)  
+* šampinjoni (300 grama)  
+* 2 jajeta  
+* 2 glavice crnog luka  
+* kašika brašna  
+* so  
+* biber  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9812" src="/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-300x225.jpg" alt="pitasaplavimpatlidzanomisampinjonima" width="300" height="225" />](/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-e1446532338349.jpg)
 

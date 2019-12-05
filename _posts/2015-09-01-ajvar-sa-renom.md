@@ -16,12 +16,12 @@ tags:
   - ren
 ---
 Potrebno je:  
-mesnate crvene paprike (5 kilograma)  
-strugani ren (250 grama)  
-3 dl ulja  
-10 kašika sirćeta  
-soli po ukusu  
-kesica konzervansa
+* mesnate crvene paprike (5 kilograma)  
+* strugani ren (250 grama)  
+* 3 dl ulja  
+* 10 kašika sirćeta  
+* soli po ukusu  
+* kesica konzervansa
 
 [<img class="alignnone size-medium wp-image-9722" src="/wp-content/uploads/2015/09/ajvarsarenom-300x225.jpg" alt="ajvarsarenom" width="300" height="225" />](/wp-content/uploads/2015/09/ajvarsarenom-e1441089698713.jpg)
 

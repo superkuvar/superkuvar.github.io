@@ -18,13 +18,13 @@ tags:
   - šargarepa
 ---
 Potrebno je:  
-mlada šargarepa (5-6 komada)  
-mladi crni luk (2 struka)  
-1 jaje  
-1 kašika griza  
-ulje  
-so  
-kari
+* mlada šargarepa (5-6 komada)  
+* mladi crni luk (2 struka)  
+* 1 jaje  
+* 1 kašika griza  
+* ulje  
+* so  
+* kari
 
 [<img class="alignnone size-medium wp-image-9591" src="/wp-content/uploads/2015/04/supaodmladesargarepe-300x225.jpg" alt="supaodmladesargarepe" width="300" height="225" />](/wp-content/uploads/2015/04/supaodmladesargarepe-e1430748136997.jpg)
 

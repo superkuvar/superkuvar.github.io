@@ -17,14 +17,14 @@ tags:
   - šampinjoni
 ---
 Potrebno je:  
-šampinjoni (300 grama)  
-crni luk (manja glavica)  
-pirinač (šoljica)  
-kašika brašna  
-so  
-biber  
-peršunov list  
-ulje
+* šampinjoni (300 grama)  
+* crni luk (manja glavica)  
+* pirinač (šoljica)  
+* kašika brašna  
+* so  
+* biber  
+* peršunov list  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9656" src="/wp-content/uploads/2015/06/corbaodsampinjonasapirincem-300x225.jpg" alt="corbaodsampinjonasapirincem" width="300" height="225" />](/wp-content/uploads/2015/06/corbaodsampinjonasapirincem-e1433742982472.jpg)
 

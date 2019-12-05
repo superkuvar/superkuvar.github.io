@@ -18,14 +18,14 @@ tags:
   - testenina
 ---
 Potrebno je:  
-testenina po izboru (400 grama)  
-blitva (1 veza)  
-glavica crnog luka  
-1 šargarepa  
-½ korena celera  
-so  
-biber  
-ulje
+* testenina po izboru (400 grama)  
+* blitva (1 veza)  
+* glavica crnog luka  
+* 1 šargarepa  
+* ½ korena celera  
+* so  
+* biber  
+* ulje
 
 [<img class="alignnone size-medium wp-image-10719" src="/wp-content/uploads/2015/12/testeninasablitvom-300x225.jpg" alt="testeninasablitvom" width="300" height="225" />](/wp-content/uploads/2015/12/testeninasablitvom-e1448954785480.jpg)
 

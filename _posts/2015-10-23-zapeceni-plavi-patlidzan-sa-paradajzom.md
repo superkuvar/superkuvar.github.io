@@ -20,17 +20,17 @@ tags:
   - jaja
 ---
 Potrebno je:  
-plavi patlidžan (4 srednje veličine)  
-3 jajeta  
-paradajz (3 veća)  
-2 glavice crnog luka  
-ulje  
-šolja mleka  
-kašika brašna  
-so  
-biber  
-bosiljak (suvi izmrvljen)  
-seckani peršunov list
+* plavi patlidžan (4 srednje veličine)  
+* 3 jajeta  
+* paradajz (3 veća)  
+* 2 glavice crnog luka  
+* ulje  
+* šolja mleka  
+* kašika brašna  
+* so  
+* biber  
+* bosiljak (suvi izmrvljen)  
+* seckani peršunov list
 
 [<img class="alignnone size-medium wp-image-9782" src="/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-300x225.jpg" alt="zapeceniplavipatlidzansaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-e1445582382632.jpg)
 

@@ -18,15 +18,15 @@ tags:
   - jaja
 ---
 Potrebno je:  
-krompir (1 kilogram)  
-sitan punomasni sir (300 grama)  
-2 jaja  
-3 dl milerama ili kisele pavlake  
-so  
-biber  
-muskatni oraščić  
-ulje  
-prezle
+* krompir (1 kilogram)  
+* sitan punomasni sir (300 grama)  
+* 2 jaja  
+* 3 dl milerama ili kisele pavlake  
+* so  
+* biber  
+* muskatni oraščić  
+* ulje  
+* prezle
 
 [<img class="alignnone size-medium wp-image-10831" src="/wp-content/uploads/2016/01/musakaodkrompirasasirom-300x225.jpg" alt="musakaodkrompirasasirom" width="300" height="225" />](/wp-content/uploads/2016/01/musakaodkrompirasasirom-e1453448100646.jpg)
 

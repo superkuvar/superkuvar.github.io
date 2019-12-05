@@ -17,16 +17,16 @@ tags:
   - paradajz
 ---
 Potrebno je:  
-boranija (1 kilogram)  
-paradajz (500 grama)  
-2 glavice crnog luka  
-1 dl ulja  
-so  
-biber  
-suvi biljni začin  
-majčina dušica  
-čaša kisele pavlake  
-2 jajeta
+* boranija (1 kilogram)  
+* paradajz (500 grama)  
+* 2 glavice crnog luka  
+* 1 dl ulja  
+* so  
+* biber  
+* suvi biljni začin  
+* majčina dušica  
+* čaša kisele pavlake  
+* 2 jajeta
 
 [<img class="alignnone size-medium wp-image-9760" src="/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-300x225.jpg" alt="zapecenaboranijasaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-e1443702436715.jpg)
 

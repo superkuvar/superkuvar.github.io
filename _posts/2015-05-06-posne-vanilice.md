@@ -18,14 +18,14 @@ tags:
   - šećer
 ---
 Potrebno je:  
-250 grama margarina  
-brašno (oko 400 grama)  
-100 grama šećera  
-1 kesica praška za pecivo  
-sok od jednog limuna  
-džem (od kajsija ili šipka)  
-šećer u prahu  
-kesica vanilin šećera
+* 250 grama margarina  
+* brašno (oko 400 grama)  
+* 100 grama šećera  
+* 1 kesica praška za pecivo  
+* sok od jednog limuna  
+* džem (od kajsija ili šipka)  
+* šećer u prahu  
+* kesica vanilin šećera
 
 [<img class="alignnone size-medium wp-image-9614" src="/wp-content/uploads/2015/05/vanilice-300x225.jpg" alt="vanilice" width="300" height="225" />](/wp-content/uploads/2015/05/vanilice-e1430921141157.jpg)
 

@@ -17,12 +17,12 @@ tags:
   - sirće
 ---
 Potrebno je:  
-sveže rotkvice (2 vezice)  
-mladi crni luk (1 vezica)  
-so  
-biber  
-jabukovo sirće  
-ulje
+* sveže rotkvice (2 vezice)  
+* mladi crni luk (1 vezica)  
+* so  
+* biber  
+* jabukovo sirće  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9585" src="/wp-content/uploads/2015/04/salataodrotkvica-300x225.jpg" alt="salataodrotkvica" width="300" height="225" />](/wp-content/uploads/2015/04/salataodrotkvica-e1430747553636.jpg)
 

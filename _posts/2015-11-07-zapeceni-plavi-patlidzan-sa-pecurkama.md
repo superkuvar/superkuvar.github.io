@@ -19,16 +19,16 @@ tags:
   - plavi patlidžan
 ---
 Potrebno je:  
-plavi patlidžan (3 srednje veličine)  
-pečurke – šampinjoni (300 grama)  
-paradajz (4 veća)  
-pirinač (šoljica)  
-1 glavica crnog luka  
-so  
-biber  
-bosiljak  
-peršunov list  
-ulje
+* plavi patlidžan (3 srednje veličine)  
+* pečurke – šampinjoni (300 grama)  
+* paradajz (4 veća)  
+* pirinač (šoljica)  
+* 1 glavica crnog luka  
+* so  
+* biber  
+* bosiljak  
+* peršunov list  
+* ulje
 
 [<img class="alignnone size-medium wp-image-10134" src="/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-300x225.jpg" alt="zapecenipatlidzanspecurkama" width="300" height="225" />](/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-e1446898982887.jpg)
 

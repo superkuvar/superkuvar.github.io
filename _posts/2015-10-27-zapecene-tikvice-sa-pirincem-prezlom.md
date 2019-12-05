@@ -19,16 +19,16 @@ tags:
   - jaja
 ---
 Potrebno je:  
-4 tikvice  
-so  
-pirinač (šolja)  
-2 čena belog luka  
-bosiljak  
-peršunov list  
-prezle (3 kašike)  
-1 kisela pavlaka  
-2 jajeta  
-ulje
+* 4 tikvice  
+* so  
+* pirinač (šolja)  
+* 2 čena belog luka  
+* bosiljak  
+* peršunov list  
+* prezle (3 kašike)  
+* 1 kisela pavlaka  
+* 2 jajeta  
+* ulje
 
 <img class="alignnone wp-image-9792 size-medium" src="/wp-content/uploads/2015/10/zapecenetikvicesapirincem-300x225.jpg" alt="zapecenetikvicesapirincem" width="300" height="225" /> 
 

@@ -18,13 +18,13 @@ tags:
   - šargarepa
 ---
 Potrebno je:  
-krompir (1 kg)  
-šargarepa (2 veće)  
-veća glavica crnog luka  
-2 sveže paprike  
-so  
-aleva paprika  
-ulje
+* krompir (1 kg)  
+* šargarepa (2 veće)  
+* veća glavica crnog luka  
+* 2 sveže paprike  
+* so  
+* aleva paprika  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9696" src="/wp-content/uploads/2015/07/krompirnamaminnacin-300x225.jpg" alt="krompirnamaminnacin" width="300" height="225" />](/wp-content/uploads/2015/07/krompirnamaminnacin-e1438065088632.jpg)
 

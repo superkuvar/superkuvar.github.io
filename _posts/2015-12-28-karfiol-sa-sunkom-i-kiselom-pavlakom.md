@@ -18,14 +18,14 @@ tags:
   - jaja
 ---
 Potrebno je:  
-karfiol (1 kilogram)  
-jaja (3 komada)  
-iseckana šunka (3 kašike)  
-2 kašike brašna  
-kisela pavlaka (300 grama)  
-ulje  
-biber  
-so
+* karfiol (1 kilogram)  
+* jaja (3 komada)  
+* iseckana šunka (3 kašike)  
+* 2 kašike brašna  
+* kisela pavlaka (300 grama)  
+* ulje  
+* biber  
+* so
 
 [<img class="alignnone size-medium wp-image-10808" src="/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-300x225.jpg" alt="Karfiolsasunkomipavlakom" width="300" height="225" />](/wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-e1451286675142.jpg)
 

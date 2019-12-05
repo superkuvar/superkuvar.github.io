@@ -17,13 +17,13 @@ tags:
   - jaja
 ---
 Potrebno je:  
-2-3 tikvice srednje veličine  
-1 jaje  
-100 grama brašna  
-½ kašičice praška za pecivo  
-pivo (2,5 dl)  
-so  
-ulje
+* 2-3 tikvice srednje veličine  
+* 1 jaje  
+* 100 grama brašna  
+* ½ kašičice praška za pecivo  
+* pivo (2,5 dl)  
+* so  
+* ulje
 
 [<img class="alignnone size-medium wp-image-9702" src="/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-300x225.jpg" alt="pohovanetikviceupivskomtestu" width="300" height="225" />](/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-e1439205342274.jpg)
 
