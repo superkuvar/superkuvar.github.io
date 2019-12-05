@@ -35,7 +35,7 @@ Potrebno je:
 
 Priprema: bundevu očistiti od semenki, oljuštiti i istrugati na krupnoj trenici, a zatim izmešati sa šećerom, vanilin šećerom i sokom od limuna.
 
- oljicu ulja izmešati s pola šoljice vrele vode. Po četiri kore ređati jednu na drugu i svaku poprskati mešavinom ulja i vode. Na četvrtu staviti izrendanu bundevu, rasporediti po kori, uviti kao štrudlu i staviti u podmazan pleh. Tako postupiti sa ostatkom kora i fila. Odozgo pitu poprskati uljem.
+Šoljicu ulja izmešati s pola šoljice vrele vode. Po četiri kore ređati jednu na drugu i svaku poprskati mešavinom ulja i vode. Na četvrtu staviti izrendanu bundevu, rasporediti po kori, uviti kao štrudlu i staviti u podmazan pleh. Tako postupiti sa ostatkom kora i fila. Odozgo pitu poprskati uljem.
 
 Pripremljenu pitu staviti u pećnicu zagrejanu na 200 stepeni i peći dok ne porumeni (oko 30 minuta).
 
