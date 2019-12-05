@@ -37,6 +37,6 @@ Potrebno je:
 
 Priprema: crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži.
 
-šargarepu i tikvicu oprati, očistiti, izrendati i dodati u propržen luk. U povrće dodati griz i još kratko pržiti, mešajući, a zatim naliti toplom vodom. Čorbu kuvati na umerenoj temperaturi 30 minuta.
+Šargarepu i tikvicu oprati, očistiti, izrendati i dodati u propržen luk. U povrće dodati griz i još kratko pržiti, mešajući, a zatim naliti toplom vodom. Čorbu kuvati na umerenoj temperaturi 30 minuta.
 
 Kada je čorba gotova umešati pavlaku sa jajetom (može i samo pavlaka), po ukusu posoliti i pobiberiti, vratiti na štednjak da ponovo proključa, a zatim skloniti sa vatre. Čorbu posuti iseckanom mirođijom.

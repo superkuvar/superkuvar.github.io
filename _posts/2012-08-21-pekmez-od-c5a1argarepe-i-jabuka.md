@@ -29,7 +29,7 @@ Priprema: šargarepu oprati, očistiti, iseći na kolutove i kuvati u malo vode 
 
 Vruć pekmez sipati u zagrejane tegle i staviti u toplu pećnicu da se uhvati korica, pa kada se ohladi tegle povezati celofanom.
 
-šargarepa i jabuke se mogu nabaviti na pijacama i tokom zime, tako da se ovaj pekmez može praviti u manjoj količini, ne mora se spremati u jesen.
+Šargarepa i jabuke se mogu nabaviti na pijacama i tokom zime, tako da se ovaj pekmez može praviti u manjoj količini, ne mora se spremati u jesen.
 
 Savet: ako su pekmez ili marmelada previše gusti ili prekuvani, vratite u šerpu, dodajte malo vrele vode i po mogućnosti sok od limuna. Uz mešanje zagrevati dok pekmez ne provri, a zatim ponovo vratiti u tegle.
 

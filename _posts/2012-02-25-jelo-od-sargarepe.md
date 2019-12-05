@@ -32,6 +32,6 @@ Potrebno je:
 
 Priprema: šargarepu oprati, očistiti i iseći na štapiće. Crni luk oljuštiti, sitno iseći i propržiti na ulju, da malo omekša. U propržen luk dodati šargarepu i kašičicu šećera.
 
-šargarepu i luk dinstati na umerenoj temperaturi, dok šargarepa ne omekša. Dodati brašno, promešati i naliti toliko tople vode da šargarepa ogrezne. Jelo dinstati još dvadesetak minuta na tihoj vatri. Pri kraju dinstanja, u šargarepu dodati so, suvi biljni začin, malo origana i seckanog peršunovog lista.
+Šargarepu i luk dinstati na umerenoj temperaturi, dok šargarepa ne omekša. Dodati brašno, promešati i naliti toliko tople vode da šargarepa ogrezne. Jelo dinstati još dvadesetak minuta na tihoj vatri. Pri kraju dinstanja, u šargarepu dodati so, suvi biljni začin, malo origana i seckanog peršunovog lista.
 
 Jelo od šargarepe poslužiti sa mesom ili prženim jajima.

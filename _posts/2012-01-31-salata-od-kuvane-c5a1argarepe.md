@@ -36,10 +36,10 @@ U sud sipati iseckanu šargarepu i jaja, dodati malo ulja, sok od celog limuna i
 
 Salatu od šargarepe služiti ohlađenu.
 
-šargarepa ili mrkva je veoma korisno povrće. Karakteristična narandžasta boja korena šargarepe potiče od beta karotena, koji se u našem organizmu pretvara u vitamin A.  to je boja korena izrazitije narandžasta, to je sadržaj karotena veći.
+Šargarepa ili mrkva je veoma korisno povrće. Karakteristična narandžasta boja korena šargarepe potiče od beta karotena, koji se u našem organizmu pretvara u vitamin A.  to je boja korena izrazitije narandžasta, to je sadržaj karotena veći.
 
 Karoten se različito iskorišćava, zavisno od toga u kakvom obliku koristimo šargarepu &#8211; sirova nerendana sadrži 2%, obarena 18%, a sirova rendana 82% karotena.
 
-šargarepa sadrži i vitamine B grupe, vitamine E i D, minerale (kalijum, kalcijum, jod, cink, kobalt), dijetna vlakna.
+Šargarepa sadrži i vitamine B grupe, vitamine E i D, minerale (kalijum, kalcijum, jod, cink, kobalt), dijetna vlakna.
 
-šargarepa se u ishrani koristi tokom čitave godine: u svežem stanju, konzervirana, kuvana (supe, čorbe), kao varivo, prilog drugim jelima, začin. Ima veliku prednost u odnosu na ostalo povrće jer se lako vari, kada se izdinsta ili skuva, a trebalo bi je pripremati sa malo ulja, zbog vitamina A koji je liposolubilan (rastvorljiv u mastima).
+Šargarepa se u ishrani koristi tokom čitave godine: u svežem stanju, konzervirana, kuvana (supe, čorbe), kao varivo, prilog drugim jelima, začin. Ima veliku prednost u odnosu na ostalo povrće jer se lako vari, kada se izdinsta ili skuva, a trebalo bi je pripremati sa malo ulja, zbog vitamina A koji je liposolubilan (rastvorljiv u mastima).

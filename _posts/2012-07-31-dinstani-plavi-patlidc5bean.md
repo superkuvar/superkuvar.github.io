@@ -36,7 +36,7 @@ Potrebno je:
 
 Priprema: plavi patlidžan oljuštiti, oprati, iseći na kocke, posoliti i ostaviti da odstoji 20 minuta, a zatim ocediti od vode koju je pustio.
 
-šargarepu oprati, očistiti i iseći na kolutove. Papriku oprati, očistiti od semena i iseći na komade. Paradajz oljuštiti i takođe iseći na komade.
+Šargarepu oprati, očistiti i iseći na kolutove. Papriku oprati, očistiti od semena i iseći na komade. Paradajz oljuštiti i takođe iseći na komade.
 
 Očišćen crni luk sitno iseći, propržiti na zagrejanom ulju, pa dodati isitnjenu šargarepu i još malo propržiti. U propržen luk i šargarepu dodati isitnjeno povrće, naliti malo vode i dinstati poklopljeno. Povremeno promešati i po potrebi dolivati po malo tople vode.
 

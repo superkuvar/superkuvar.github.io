@@ -36,4 +36,4 @@ Priprema: šargarepu oprati, očistiti, iseći na štapiće ili kolutove i dinst
 
 Pri kraju dinstanja šargarepu posoliti, dodati suvi biljni začin, majoran, biber, sitno seckani peršunov list i beli luk. šargarepa je gotova kada mleko skoro uvri i upije masnoću.
 
-šargarepa u mleku se može poslužiti kao prilog uz šnicle ili dinstanu piletinu.
+Šargarepa u mleku se može poslužiti kao prilog uz šnicle ili dinstanu piletinu.

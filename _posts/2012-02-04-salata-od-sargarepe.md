@@ -35,6 +35,6 @@ Salata se, po želji, može ukrasiti iseckanim peršunovim listom i poslužiti u
 
 Napomena: šargarepa, narandžasta lepotica, zahvaljujući svojim sastojcima omiljena je u našoj ishrani.
 
-šargarepa se najčešće koristi kao dinstana ili kuvana. Od sveže šargarepe pravi se salata ili cedi u sok, koji se pije sam ili u kombinaciji sa drugim sokovima.
+Šargarepa se najčešće koristi kao dinstana ili kuvana. Od sveže šargarepe pravi se salata ili cedi u sok, koji se pije sam ili u kombinaciji sa drugim sokovima.
 
 &nbsp;

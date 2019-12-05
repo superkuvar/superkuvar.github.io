@@ -37,7 +37,7 @@ Pirinač oprati, skuvati a zatim ocediti. Ne treba da se prekuva.
 
 Spanać očititi, oprati, staviti u ključalu vodu i kuvati 3-4 minuta. Obaren spanać ocediti, pa kada se malo ohladi isitniti.
 
-šargarepu oprati, očistiti i obariti, a zatim iseći na kolutove.
+Šargarepu oprati, očistiti i obariti, a zatim iseći na kolutove.
 
 U ispržen luk dodati spanać i šargarepu, posoliti i pobiberiti po ukusu i izmešati.
 

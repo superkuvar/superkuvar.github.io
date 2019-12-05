@@ -42,7 +42,7 @@ Priprema: potopiti pasulj u hladnu vodu i ostaviti da prenoći. Sutradan ga oced
 
 U napola skuvan pasulj dodati  cele suve paprike, pa nastaviti sa kuvanjem, dok ne omekša.
 
-šargarepu i crni luk očistiti. šargarepu izrendati a crni luk iseckati na rebarca. Luk prodinstati na ulju, uz dolivanje po malo tople vode. Dodati narendanu šargarepu, iseckan beli luk, so, alevu papriku i biber i kratko propržiti.
+Šargarepu i crni luk očistiti. šargarepu izrendati a crni luk iseckati na rebarca. Luk prodinstati na ulju, uz dolivanje po malo tople vode. Dodati narendanu šargarepu, iseckan beli luk, so, alevu papriku i biber i kratko propržiti.
 
 Izmešati oceđen skuvan pasulj i ispržen luk, sipati u nauljenu posudu za pečenje i naliti vodom u kojoj se pasulj kuvao, da ogrezne. Odozgo preliti  uljem. Jelo peći u prethodno zagrejanoj pećnici, na umerenoj temperaturi, dok voda ne uvri i napravi se rumena korica.
 

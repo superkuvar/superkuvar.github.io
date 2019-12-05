@@ -36,4 +36,4 @@ Salata od krastavaca i šargarepe se služi rashlađena i veoma je osvežavajuć
 
 Ova salata se može pripremiti i sa više kiselog mleka nego što je predviđeno u receptu.
 
-šargarepa i krastavci su dostupni tokom celog leta, tako da se od njih mogu pripremati razne salate.
+Šargarepa i krastavci su dostupni tokom celog leta, tako da se od njih mogu pripremati razne salate.

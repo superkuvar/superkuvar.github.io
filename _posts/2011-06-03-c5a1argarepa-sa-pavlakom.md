@@ -37,4 +37,4 @@ U propržen luk dodati isitnjenu šargarepu, sipati čašu tople vode, da šarga
 
 Kada šargarepa omekne, umešati pavlaku i prethodno propržen susam i posuti seckanim peršunovim listom.
 
-šargarepa sa pavlakom može se služiti kao samostalno jelo ili kao prilog uz meso.
+Šargarepa sa pavlakom može se služiti kao samostalno jelo ili kao prilog uz meso.

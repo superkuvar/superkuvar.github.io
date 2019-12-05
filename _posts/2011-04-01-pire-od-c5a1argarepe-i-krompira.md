@@ -36,6 +36,6 @@ Obarenu šargarepu i krompir ocediti od vode, ispasirati, dodati margarin i kise
 
 Pire služiti topao, kao prilog uz meso ili pečenje.
 
-šargarepa je bogata beta karotenom, koji je osim za vid, odličan za detoksikaciju organizma.
+Šargarepa je bogata beta karotenom, koji je osim za vid, odličan za detoksikaciju organizma.
 
 Najveća prednost u odnosu na drugo povrće je što se šargarepa lako vari kada se skuva ili izdinsta.
