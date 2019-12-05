@@ -665,18 +665,15 @@ section {
     width: 650px;
     float: right;    
     background-color:white;
-    padding: 10px 20px;
-    padding-bottom: 50px;
+    padding: 10px 20px;    
     margin: 10px;
     border-radius: 20px;
 }
 
-footer {
-    width: 170px;
-    float: left;
-    position: fixed;
+footer {    
+    float: left;    
     bottom: 10px;
-    padding-left: 50px
+    padding-left: 20px
 }
 
 @media print,
