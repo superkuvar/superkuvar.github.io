@@ -25,7 +25,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-[<img class="alignnone size-full wp-image-300" title="corbabundeva" src="/wp-content/uploads/2011/03/corbabundeva.jpg" alt="" width="225" height="225" srcset="//wp-content/uploads/2011/03/corbabundeva.jpg 225w, //wp-content/uploads/2011/03/corbabundeva-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2011/03/corbabundeva.jpg)
+[<img class="alignnone size-full wp-image-300" title="corbabundeva" src="/wp-content/uploads/2011/03/corbabundeva.jpg" alt="" width="225" height="225" srcset="/wp-content/uploads/2011/03/corbabundeva.jpg 225w, /wp-content/uploads/2011/03/corbabundeva-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2011/03/corbabundeva.jpg)
 
 Priprema: crni luk očistiti i sitno iseckati. Muskatnu bundevu oprati, oljuštiti i narendati.
 

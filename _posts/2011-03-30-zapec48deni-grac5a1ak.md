@@ -26,7 +26,7 @@ Potrebno je:
   * suvi biljni začin
   * mirođija
 
-<img class="alignnone size-medium wp-image-701" title="zapecenigrasak" src="/wp-content/uploads/2011/03/zapecenigrasak-300x150.jpg" alt="" width="300" height="150" srcset="//wp-content/uploads/2011/03/zapecenigrasak-300x150.jpg 300w, //wp-content/uploads/2011/03/zapecenigrasak.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-medium wp-image-701" title="zapecenigrasak" src="/wp-content/uploads/2011/03/zapecenigrasak-300x150.jpg" alt="" width="300" height="150" srcset="/wp-content/uploads/2011/03/zapecenigrasak-300x150.jpg 300w, /wp-content/uploads/2011/03/zapecenigrasak.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Priprema: očišćen i opran grašak (može i zamrznuti) staviti u lonac sa posoljenom ključalom vodom i kuvati, dok ne omekša, a zatim ocediti.
 
