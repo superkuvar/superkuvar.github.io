@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2927" title="Zapečene makarone sa šunkom" src="/wp-content/uploads/2012/04/Zape%C4%8Dene-makarone-sa-%C5%A1unkom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: makarone skuvati prema uputstvu na ambalaži i ocediti ih.  unku isitniti na kockice a kačkavalj izrendati.
+Priprema: makarone skuvati prema uputstvu na ambalaži i ocediti ih. Šunku isitniti na kockice a kačkavalj izrendati.
 
 U šerpi zagrejati malo ulja, ubaciti oceđene makarone, a zatim dodati kockice šunke i narendani kačkavalj i sve izmešati.
 

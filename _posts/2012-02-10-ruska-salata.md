@@ -35,7 +35,7 @@ Potrebno je:
 
 Priprema: krompir i šargarepu oprati, oljuštiti i skuvati u posoljenoj vodi. Grašak i jaja takođe skuvati. Kuvano povrće ocediti od vode i ostaviti da se ohladi.
 
- unku, krompir, šargarepu, krastavčiće i belanca iseckati na kockice. Sve sastojke sipati u činiju, dodati majonez i izmešati.
+Šunku, krompir, šargarepu, krastavčiće i belanca iseckati na kockice. Sve sastojke sipati u činiju, dodati majonez i izmešati.
 
 Rusku salatu staviti u frižider da se ohladi.
 
