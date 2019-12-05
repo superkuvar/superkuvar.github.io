@@ -670,10 +670,9 @@ section {
     border-radius: 20px;
 }
 
-footer {    
-    float: left;    
-    bottom: 10px;
-    padding-left: 20px
+footer {
+    border-top: 1px solid #ccc;           
+    padding: 10px;        
 }
 
 @media print,
@@ -688,12 +687,7 @@ screen and (max-width: 960px) {
         float: none;
         position: static;
         width: auto
-    }
-    footer {
-        border-top: 1px solid #ccc;
-        margin: 0 84px 0 50px;
-        padding: 0
-    }
+    }    
     header {
         padding-right: 320px
     }
