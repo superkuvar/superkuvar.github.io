@@ -1,11 +1,9 @@
 title: SUPER KUVAR 🍳
 logo: /assets/img/logo.png
 description: Tradicioalna srpska kuhinja i praktični recepti iz bakinih vitrina.
-paginate: 12
 google_analytics: UA-42249092-1
-theme: jekyll-theme-dinky
 
-gems:
+plugins:
 - jekyll-seo-tag
 
 
