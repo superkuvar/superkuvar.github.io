@@ -28,7 +28,7 @@ Potrebno je:
   * so
   * peršunov list ili mirođija
 
-<img class="alignnone size-medium wp-image-761" title="kremcorbaodgraska" src="/wp-content/uploads/2011/03/kremcorbaodgraska-300x148.jpg" alt="" width="300" height="148" srcset="http://localhost/superkuvar/wp-content/uploads/2011/03/kremcorbaodgraska-300x148.jpg 300w, http://localhost/superkuvar/wp-content/uploads/2011/03/kremcorbaodgraska.jpg 319w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-medium wp-image-761" title="kremcorbaodgraska" src="/wp-content/uploads/2011/03/kremcorbaodgraska-300x148.jpg" alt="" width="300" height="148" srcset="//wp-content/uploads/2011/03/kremcorbaodgraska-300x148.jpg 300w, //wp-content/uploads/2011/03/kremcorbaodgraska.jpg 319w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Priprema: šargarepu i crni luk očistiti i oprati. Crni luk iseći na rebarca a šargarepu na kolutove, preliti litrom i po vode i staviti na štednjak da se kuvaju. Kada voda provri, dodati grašak i kuvati u poklopljenoj posudi, na umerenoj temperaturi.
 
