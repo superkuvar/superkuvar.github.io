@@ -367,6 +367,23 @@ video {
     vertical-align: baseline
 }
 
+body {
+  color: #000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.625;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 10px 50px 0 0;
+  background-image: url("/assets/img/back.jpg");
+  background-position: center center;
+  background-size: auto;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-color: #Febfeb;
+}
+
 
 p,
 ul,
@@ -646,8 +663,12 @@ a.buttons:hover {
 
 section {
     width: 650px;
-    float: right;
-    padding-bottom: 50px
+    float: right;    
+    background-color:white;
+    padding: 10px 20px;
+    padding-bottom: 50px;
+    margin: 10px;
+    border-radius: 20px;
 }
 
 footer {
@@ -736,14 +757,3 @@ screen and (max-width: 480px) {
     }
 }
 
-body {
-    color: #000;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.625;
-    -webkit-font-smoothing: antialiased;
-    margin: 0;
-    #padding: 10px 50px 0 0;
-    background-color: #FBFAF7;
-}
