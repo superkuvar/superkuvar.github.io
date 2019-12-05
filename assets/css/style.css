@@ -721,8 +721,9 @@ screen and (max-width: 720px) {
         margin-right: 0
     }
     section {
-        padding: 10px 0 10px 20px;
-        margin: 0 0 30px
+        padding: 0px 10px 10px 10px;
+        margin: 0 0 30px;
+        width: 100%;
     }
     footer {
         margin: 0 0 0 30px
