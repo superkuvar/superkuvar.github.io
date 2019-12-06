@@ -38,4 +38,4 @@ Ova salata može da bude i kompletan obrok.
 
 Savet: jela od pečuraka najbolje je utrošiti istog dana kada su spremljena.
 
- ampinjoni treba da se peru pod slabim mlazom vode, kako ne bi omekšali.
+Šampinjoni treba da se peru pod slabim mlazom vode, kako ne bi omekšali.

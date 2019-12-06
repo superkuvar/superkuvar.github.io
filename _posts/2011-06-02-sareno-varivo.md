@@ -40,4 +40,4 @@ Paradajz oljuštiti, sitno iseći i dodati masi koja se prži. Pržiti još dva-
 
 Kada se varivo zgusne i povrće potpuno omekša, posuti sitno seckanim peršunom.
 
- areno varivo se može poslužiti kao samostalno jelo ili kao prilog uz meso.
+Šareno varivo se može poslužiti kao samostalno jelo ili kao prilog uz meso.

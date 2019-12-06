@@ -31,7 +31,7 @@ Zagrejati pećnicu na 150 stepeni i staviti puslice da se peku, odnosno treba da
 
 Savet: da bi se belanca za puslice dobro umutila, posuda u kojoj se mute, kao i metlice miksera moraju biti suvi i bez primesa masnoće. U belancetu ne sme biti tragova žumanceta.
 
- ećer se u belanca dodaje postepeno, i muti najvećom brzinom miksera.
+Šećer se u belanca dodaje postepeno, i muti najvećom brzinom miksera.
 
 Puslice, kao i ostali kolači od belanaca, više se suše nego što se peku.
 

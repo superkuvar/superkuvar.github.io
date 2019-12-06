@@ -34,7 +34,7 @@ Potrebno je:
 
 Priprema: tikvice oprati i neoljuštene obariti u slanoj vodi, da omekšaju. Obarene tikvice ocediti, pa kada se ohlade preseći na pola po dužini i kašičicom izdubiti sredinu.
 
- ampinjone oprati, iseći na listiće i propržiti na malo ulja. Posoliti, pobiberiti, dodati paradajz pire, seckani peršunov list i origano.
+Šampinjone oprati, iseći na listiće i propržiti na malo ulja. Posoliti, pobiberiti, dodati paradajz pire, seckani peršunov list i origano.
 
 Pirinač oprati, skuvati, ocediti od vode i pomešati sa šampinjonima.
 

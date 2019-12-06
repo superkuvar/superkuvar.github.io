@@ -33,7 +33,7 @@ Potrebno je:
 
 Priprema: krompir oprati, oljuštiti i iseći na kockice, preliti vodom da ogrezne, posoliti i staviti da se kuva. Skuvan krompir ocediti.
 
- ampinjone oprati i iseći na listiće. Papriku i očišćen crni luk sitno iseći. Na malo ulja propržiti crni luk da omekša, pa dodati šampinjone, papriku i sitno iseckan beli luk. Dinstati dok voda ne uvri. Ukoliko je potrebno dodati malo vode.  ampinjone posoliti, pobiberiti i dodati iseckan peršunov list.
+Šampinjone oprati i iseći na listiće. Papriku i očišćen crni luk sitno iseći. Na malo ulja propržiti crni luk da omekša, pa dodati šampinjone, papriku i sitno iseckan beli luk. Dinstati dok voda ne uvri. Ukoliko je potrebno dodati malo vode.  ampinjone posoliti, pobiberiti i dodati iseckan peršunov list.
 
 Kada su šampinjoni gotovi, dodati krompir i izmešati. Odmah poslužiti.
 

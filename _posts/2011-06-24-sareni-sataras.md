@@ -40,4 +40,4 @@ Patlidžan oljuštiti, iseći na kocke, malo posoliti i ostaviti da odstoji dvad
 
 Sataraš dinstati oko četrdeset minuta na umerenoj vatri, uz povremeno dolivanje po malo tople vode, ukoliko je potrebno. Pred kraj pripreme sataraš posoliti, dodati začine i malo seckanog peršunovog lista.
 
- areni sataraš poslužiti kao samostalno jelo a može i kao prilog uz meso, krompir ili bareni pirinač.
+Šareni sataraš poslužiti kao samostalno jelo a može i kao prilog uz meso, krompir ili bareni pirinač.

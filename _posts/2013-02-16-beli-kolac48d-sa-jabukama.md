@@ -43,7 +43,7 @@ Fil
   * 50 grama suvog grožđa
   * kesica vanilin šećera
 
- am
+Šam
 
   * 3 belanceta
   * 5 kašika šećera

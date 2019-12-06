@@ -43,4 +43,4 @@ Izdinstane pečurke začiniti solju, biberom i sokom od limuna, po ukusu. Umeša
 
 Napomena: šampinjoni imaju nisku kalorijsku vrednost, pa su pogodni za ishranu osoba na dijetama. Lako se vare, bogati su belančevinama.
 
- ampinjoni sadrže veliki broj minerala (naročito selen), vitamine B kompleksa, a smanjuju i nivo masnoća i lošeg holesterola u krvi.
+Šampinjoni sadrže veliki broj minerala (naročito selen), vitamine B kompleksa, a smanjuju i nivo masnoća i lošeg holesterola u krvi.

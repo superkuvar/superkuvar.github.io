@@ -43,4 +43,4 @@ Sud za pečenje podmazati uljem, pa u njega ređati red isečenog krompira, red 
 
 Peći na 220 stepeni dok krompir i pirinač ne omekšaju, jer je onda ostalo povrće gotovo.
 
- areni letnji đuveč se može poslužiti uz dinstnu piletinu ili neko drugo meso.
+Šareni letnji đuveč se može poslužiti uz dinstnu piletinu ili neko drugo meso.

@@ -28,4 +28,4 @@ Preko piškota staviti deblji sloj umućene slatke pavlake sa malinama. Odozgo p
 
 Umesto malina može poslužiti i neko drugo sezonsko voće (kajsije iseckane na kockice, jagode, kupine, ribizle &#8230;).
 
- arlota je brz i ukusan kolač, ne zahteva pečenje, a kao stvoren je za letnje vrućine.
+Šarlota je brz i ukusan kolač, ne zahteva pečenje, a kao stvoren je za letnje vrućine.

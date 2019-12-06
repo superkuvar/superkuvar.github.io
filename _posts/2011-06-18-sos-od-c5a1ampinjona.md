@@ -35,8 +35,8 @@ O šampinjonima: šampinjoni su jedna od najčešće korišćenih jestivih peču
 
 Sadrže visok procenat vode, od 80-90%. Bogati su belančevinama, mineralima (kalijum, kalcijum, fosfor, gvožđe, selen) i vitaminima (naročito B kompleksa).
 
- ampinjoni su niskokalorični, 100 grama sadrži svega 15 kcal. Ne sadrže saharozu ni skrob, pa su pogodni za ishranu lica koja boluju od dijabetesa.
+Šampinjoni su niskokalorični, 100 grama sadrži svega 15 kcal. Ne sadrže saharozu ni skrob, pa su pogodni za ishranu lica koja boluju od dijabetesa.
 
- ampinjone treba prati neposredno pre upotrebe, pod mlazom hladne vode. Mogu se koristiti sirovi &#8211; kao salata ili kuvani, dinstani, prženi, pečeni.
+Šampinjone treba prati neposredno pre upotrebe, pod mlazom hladne vode. Mogu se koristiti sirovi &#8211; kao salata ili kuvani, dinstani, prženi, pečeni.
 
 Jela pripremljena od pečuraka ne bi trebalo podgrevati, jer stajanjem dolazi do raspadanja belančevina i ostalih sastojaka, pa može doći do razvoja mikroorganizama i nastanka toksina.

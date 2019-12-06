@@ -34,6 +34,6 @@ Dublju, malo veću šerpu podmazati uljem i na dno staviti dve kore, a zatim re�
 
 Poslednjom korom prekriti pitu i poprskati je mešavinom vode i ulja.
 
- erpu sa pitom staviti u zagrejanu pećnicu. Prvih 10-15 minuta pitu peći na 250 stepeni. Zatim smanjiti temperaturu i peći još 20 minuta na 220 stepeni.
+Šerpu sa pitom staviti u zagrejanu pećnicu. Prvih 10-15 minuta pitu peći na 250 stepeni. Zatim smanjiti temperaturu i peći još 20 minuta na 220 stepeni.
 
 Pečenu pitu pokriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na trouglove. Poslužiti uz jogurt ili kiselo mleko.
