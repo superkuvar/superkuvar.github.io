@@ -707,6 +707,11 @@ screen and (max-width: 960px) {
 
 @media print,
 screen and (max-width: 720px) {
+
+    h1 {
+        font-size: 20px;
+        padding: 10px;
+    }
     body {
         word-wrap: break-word
     }
