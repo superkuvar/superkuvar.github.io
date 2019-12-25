@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1243
 permalink: /sataras-sa-pirincem/
-redirect-from: /satara%C5%A1-sa-pirin%C4%8Dem 
+redirect-from: /satara%C5%A1-sa-pirin%C4%8Dem/ 
 totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Satarašsapirinčem-940x198.jpg
