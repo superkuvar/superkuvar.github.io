@@ -4,6 +4,7 @@ description: Tradicioalna kuhinja i praktični recepti iz bakinih vitrina.
 google_analytics: UA-42249092-1
 
 plugins:
+- jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
