@@ -4,7 +4,7 @@ title: POSNI KOLAČI SA GRIZOM I SUVIM GROŽĐEM
 date: 2019-12-31T20:15:07+00:00
 author: posni kolači sa grizom i suvim grožđem
 layout: post
-permalink: /posni-kolači-sa-grizom-i-suvim grožđem/
+permalink: /posni-kolači-sa-grizom-i-suvim-grožđem/
 categories:
   - posni kolači
 tags:

@@ -33,6 +33,6 @@ Kada dobije zlatnu boju, skloniti ga i dodati pola litre hladne vode, pa masu me
 
 U ohlađenu masu zatim dodati mlevene orahe, šećer u prahu, brašno, sodu bikarbonu i ulje, pa sve dobro izmešati. 
 
-Potom dodati i remdani orašćić, rendanu posnu čokoladu, sok i koricu limuna pa sve opet dobro izraditi.
+Potom dodati i rendani orašćić, rendanu posnu čokoladu, sok i koricu limuna pa sve opet dobro izraditi.
 
 Pleh podmazati i posuti brašnom. Masu izručiti u njega i peći na jačoj vatri.
