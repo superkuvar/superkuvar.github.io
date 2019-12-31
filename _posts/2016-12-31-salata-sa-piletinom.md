@@ -2,7 +2,7 @@
 id: 12970
 title: SALATA SA POHOVANOM PILETINOM
 date: 2019-12-31T20:15:07+00:00
-author: admin
+author: pre
 layout: post
 permalink: /salata-sa-pohovanom-piletinom/
 categories:
