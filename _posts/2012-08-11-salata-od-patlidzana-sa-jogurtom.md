@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Salataodpatlidzanasajogurtom-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - jogurt

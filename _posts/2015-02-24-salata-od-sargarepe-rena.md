@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/salataodsargarepeirena-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - ren
   - šargarepa

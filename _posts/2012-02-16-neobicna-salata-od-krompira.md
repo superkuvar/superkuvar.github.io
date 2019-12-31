@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Neobicna-salata-od-krompira-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - jabuke
   - krompir

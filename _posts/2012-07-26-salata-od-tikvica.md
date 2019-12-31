@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/07/salataodtikvica-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - sirće

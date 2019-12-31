@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - crni luk
   - majonez

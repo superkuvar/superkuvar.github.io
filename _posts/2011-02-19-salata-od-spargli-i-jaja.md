@@ -9,7 +9,7 @@ permalink: /salata-od-spargli-i-jaja/
 totvreme:
   - ""
 categories:
-  - Salate
+  - salate
 tags:
   - peršunov list
   - sirće

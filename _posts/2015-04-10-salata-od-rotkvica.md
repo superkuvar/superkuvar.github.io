@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/04/salataodrotkvica-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - crni luk
   - rotkvice

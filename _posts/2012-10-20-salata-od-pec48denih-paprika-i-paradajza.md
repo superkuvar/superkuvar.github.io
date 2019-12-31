@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - paprike

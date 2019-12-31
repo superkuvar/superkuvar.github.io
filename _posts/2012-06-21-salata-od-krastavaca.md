@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodkrastavaca-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - krastavci

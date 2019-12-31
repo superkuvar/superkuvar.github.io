@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Salatakarfiolsargarepa-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - jabuke
   - karfiol

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Salata-od-karfiola-sa-pavlakom-i-senfom-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - karfiol
   - kisela pavlaka

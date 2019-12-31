@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodsvežegkupusa-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - kupus
   - sirće

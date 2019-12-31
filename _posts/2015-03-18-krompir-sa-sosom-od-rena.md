@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/03/krompirsarenom-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - brašno
   - krompir

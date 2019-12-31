@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Salataodcvekleisargarepe1-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - cvekla
   - šargarepa

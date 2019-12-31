@@ -9,7 +9,7 @@ permalink: /pecene-paprike-u-sircetu/
 totvreme:
   - ""
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - paprike

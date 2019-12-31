@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Mesanasarenasalata-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - celer
   - limunov sok

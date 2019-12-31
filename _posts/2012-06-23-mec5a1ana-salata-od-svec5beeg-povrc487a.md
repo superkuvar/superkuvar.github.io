@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Mešanasalataodsvežegpovrća-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - krastavci
   - paprike

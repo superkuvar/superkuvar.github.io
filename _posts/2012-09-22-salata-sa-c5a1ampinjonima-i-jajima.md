@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - peršunov list
   - šampinjoni

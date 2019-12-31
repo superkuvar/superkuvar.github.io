@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Salataodparadajzasasenfom-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - crni luk
   - paradajz

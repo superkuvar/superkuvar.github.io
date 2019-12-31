@@ -37,7 +37,7 @@ Za preliv:
 
 PRIPREMA:
 
-Skuvanu palentu (kačamak) debljine 5 mm, ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
+Skuvanu palentu (kačamak) ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
 
 Piletinu iseći na kockice i posoliti. Napraviti smesu za pohovanje od jajeta, 2 kašike brašna, kašike skroba i malo vode, da dobije gustinu smese za palačinke.
 

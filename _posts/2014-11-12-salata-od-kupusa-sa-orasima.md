@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/11/Salataodkupusasaorasima-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - kupus
   - mileram

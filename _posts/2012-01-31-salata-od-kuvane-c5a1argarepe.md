@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Salata-od-sargarepe-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - limunov sok
   - peršunov list

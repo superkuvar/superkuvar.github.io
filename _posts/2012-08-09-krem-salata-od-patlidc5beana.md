@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Kremsalataodpatlidzana-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - beli luk
   - limun

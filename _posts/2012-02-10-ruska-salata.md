@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Ruska-salata-940x198.jpg
 categories:
-  - Salate
+  - salate
 tags:
   - grašak
   - krastavčići
