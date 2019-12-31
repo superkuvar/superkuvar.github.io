@@ -45,7 +45,7 @@ pohovanje od jajeta, 2 kašike brašna, kašike skroba i malo vode, da dobije gu
 Svaki komad piletine umočiti u smesu i kratko pržiti u dubokom ulju.
 Pečurke iseći na listiće i prodinstati na malo ulja.
 
-Preliv: 
+PRELIV: 
 
 U blenderu izmiksati maslinovo ulje, malo senfa, sok
 od jednog limuna i soja sosa.
