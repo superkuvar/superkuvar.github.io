@@ -5,7 +5,7 @@ date: 2012-08-09T10:07:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3925
-permalink: '/krem-salata-od-patlid%c5%beana/'
+permalink: '/krem-salata-od-patlidžana/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Kremsalataodpatlidzana-940x198.jpg

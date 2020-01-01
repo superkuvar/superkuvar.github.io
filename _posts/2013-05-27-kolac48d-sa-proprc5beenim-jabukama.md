@@ -5,7 +5,7 @@ date: 2013-05-27T14:54:02+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5703
-permalink: '/kola%c4%8d-sa-propr%c5%beenim-jabukama/'
+permalink: '/kolač-sa-proprženim-jabukama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

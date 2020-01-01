@@ -1,0 +1,27 @@
+---
+id: 12971
+title: Oblande sa čokoladom i lešnicima
+date: 2019-12-31T20:15:07+00:00
+author: dpk
+layout: post
+permalink: /oblande-sa-čokoladom-i-lešnicima/
+categories:
+  - posni kolači
+tags:
+  - čokolada
+  - lešnik
+  - oblande
+---
+Potrebno: 
+
+* 200 g čokolade za kuvanje
+* 200 g lešnika 
+* 200 g biljnog posnog margarina
+* 180 g šećera u prahu
+* pakovanje oblandi
+
+Priprema: u šerpicu staviti 200 g čokolade za kuvanje i 200 g posnog margarina. 
+
+Staviti na plotnu, na laganu vatru da se istopi. Kada se istopi i ujednači dodati prah šećer i pržene i samlevene lešnike. Dobro izmešati i skloniti sa vatre. Kada se masa malo prohladi filovati oblande. 
+
+Pritisnuti nekim težim predmetom i ostaviti da se stegnu i osuše. Pre služenja seći na štanglice.

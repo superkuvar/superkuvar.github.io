@@ -5,7 +5,7 @@ date: 2013-02-18T06:58:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5280
-permalink: '/pirina%c4%8d-sa-bundevom/'
+permalink: '/pirinač-sa-bundevom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

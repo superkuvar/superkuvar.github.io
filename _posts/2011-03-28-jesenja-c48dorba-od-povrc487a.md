@@ -5,7 +5,7 @@ date: 2011-03-28T09:32:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=288
-permalink: '/jesenja-%c4%8dorba-od-povr%c4%87a/'
+permalink: '/jesenja-čorba-od-povrća/'
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Jesenjacorbaodpovrca-940x198.jpg

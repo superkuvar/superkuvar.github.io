@@ -5,7 +5,7 @@ date: 2013-04-09T05:56:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5577
-permalink: '/%c5%a1ampinjoni-sa-pavlakom/'
+permalink: '/šampinjoni-sa-pavlakom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-06-17T11:26:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1131
-permalink: '/rolat-sa-%c5%a1ampinjonima/'
+permalink: '/rolat-sa-šampinjonima/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

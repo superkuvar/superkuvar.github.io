@@ -36,7 +36,7 @@ Potrebno je:
   * 1 jaje
   * ulje
 
-<img class="alignnone size-medium wp-image-3488" title="Zapečenetikvicesašargarepom" src="/wp-content/uploads/2012/06/Zape%C4%8Denetikvicesa%C5%A1argarepom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3488" title="Zapečenetikvicesašargarepom" src="/wp-content/uploads/2012/06/Zapečenetikvicesašargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
 

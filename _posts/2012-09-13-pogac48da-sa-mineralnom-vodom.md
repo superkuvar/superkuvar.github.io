@@ -5,7 +5,7 @@ date: 2012-09-13T05:41:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4259
-permalink: '/poga%c4%8da-sa-mineralnom-vodom/'
+permalink: '/pogača-sa-mineralnom-vodom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Mamina-pogaca-940x198.jpg

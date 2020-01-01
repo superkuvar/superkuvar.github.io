@@ -5,7 +5,7 @@ date: 2013-03-25T08:47:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5517
-permalink: '/%c4%8dorbast-pasulj-sa-slaninom/'
+permalink: '/čorbast-pasulj-sa-slaninom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

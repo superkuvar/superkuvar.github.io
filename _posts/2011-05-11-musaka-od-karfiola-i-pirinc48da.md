@@ -5,7 +5,7 @@ date: 2011-05-11T09:36:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=545
-permalink: '/musaka-od-karfiola-i-pirin%c4%8da/'
+permalink: '/musaka-od-karfiola-i-pirinča/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

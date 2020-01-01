@@ -5,7 +5,7 @@ date: 2012-06-04T09:09:41+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3325
-permalink: '/krem-%c4%8dorba-od-%c5%a1argarepe/'
+permalink: '/krem-čorba-od-šargarepe/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Kremčorbaodšargarepe-940x198.jpg
@@ -30,7 +30,7 @@ Potrebno je:
   * kašika soka od limuna
   * kisela pavlaka
 
-<img class="alignnone size-medium wp-image-3326" title="Kremčorbaodšargarepe" src="/wp-content/uploads/2012/06/Krem%C4%8Dorbaod%C5%A1argarepe-e1338651808776-300x267.jpg" alt="" width="300" height="267" /> 
+<img class="alignnone size-medium wp-image-3326" title="Kremčorbaodšargarepe" src="/wp-content/uploads/2012/06/Kremčorbaodšargarepe-e1338651808776-300x267.jpg" alt="" width="300" height="267" /> 
 
 Priprema: na ulju propržiti sitno seckani crni luk, pa dodati očišćenu i na krupno rende struganu šargarepu. Kratko propržiti, uz mešanje, da šargarepa malo omekša, a zatim naliti litrom vode i dodati kocku za supu.
 

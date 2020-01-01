@@ -29,7 +29,7 @@ Potrebno je:
   * majoran
   * kačkavalj ili stari beli sir
 
-<img class="alignnone size-medium wp-image-3534" title="Dinstanetikvicesakečapom" src="/wp-content/uploads/2012/06/Dinstanetikvicesake%C4%8Dapom-e1340262847820-300x241.jpg" alt="" width="300" height="241" /> 
+<img class="alignnone size-medium wp-image-3534" title="Dinstanetikvicesakečapom" src="/wp-content/uploads/2012/06/Dinstanetikvicesakečapom-e1340262847820-300x241.jpg" alt="" width="300" height="241" /> 
 
 Priprema: tikvice oprati, oljuštiti, iseći na kocke, staviti u ključalu vodu i kratko obariti. Obarene tikvice ocediti.
 

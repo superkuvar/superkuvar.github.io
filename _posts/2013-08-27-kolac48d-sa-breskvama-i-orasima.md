@@ -5,7 +5,7 @@ date: 2013-08-27T05:47:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6072
-permalink: '/kola%c4%8d-sa-breskvama-i-orasima/'
+permalink: '/kolač-sa-breskvama-i-orasima/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima-940x198.jpg

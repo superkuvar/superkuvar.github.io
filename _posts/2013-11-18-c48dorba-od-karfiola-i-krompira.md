@@ -5,7 +5,7 @@ date: 2013-11-18T16:07:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6281
-permalink: '/%c4%8dorba-od-karfiola-i-krompira/'
+permalink: '/čorba-od-karfiola-i-krompira/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Corbaodkarfiolaikrompira-940x198.jpg

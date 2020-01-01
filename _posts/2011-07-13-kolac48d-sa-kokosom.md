@@ -5,7 +5,7 @@ date: 2011-07-13T14:23:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1439
-permalink: '/kola%c4%8d-sa-kokosom/'
+permalink: '/kolač-sa-kokosom/'
 totvreme:
   - ""
 categories:

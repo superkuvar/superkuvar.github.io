@@ -32,7 +32,7 @@ Potrebno je:
   * suvi biljni začin
   * čaša kisele pavlake
 
-<img class="alignnone size-medium wp-image-2898" title="Tikvice punjene šargarepom" src="/wp-content/uploads/2011/05/Tikvice-punjene-%C5%A1argarepom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2898" title="Tikvice punjene šargarepom" src="/wp-content/uploads/2011/05/Tikvice-punjene-šargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati, oljuštiti i izdubiti. Ukoliko su mlade, ne treba ih ljuštiti. Očišćenu šargarepu izrendati, dodati sitno iseckanu sredinu od tikvica, oljušten i isečen paradajz, malo iseckane mirođije, pa na zagrejanom ulju propržiti da povrće omekne. Dodati šoljicu opranog pirinča, pa još malo propržiti. Posoliti, dodati suvi biljni začin, pa ovim nadevom puniti izdubljene tikvice.
 

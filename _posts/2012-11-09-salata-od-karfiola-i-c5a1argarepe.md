@@ -5,7 +5,7 @@ date: 2012-11-09T07:17:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4664
-permalink: '/salata-od-karfiola-i-%c5%a1argarepe/'
+permalink: '/salata-od-karfiola-i-šargarepe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

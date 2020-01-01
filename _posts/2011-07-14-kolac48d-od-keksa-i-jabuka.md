@@ -5,7 +5,7 @@ date: 2011-07-14T15:19:12+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1468
-permalink: '/kola%c4%8d-od-keksa-i-jabuka/'
+permalink: '/kolač-od-keksa-i-jabuka/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

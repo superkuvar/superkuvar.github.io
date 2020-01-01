@@ -5,7 +5,7 @@ date: 2013-04-13T14:43:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5584
-permalink: '/zape%c4%8dena-boranija-u-be%c5%a1amelu/'
+permalink: '/zapečena-boranija-u-bešamelu/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

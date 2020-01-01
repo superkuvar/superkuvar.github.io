@@ -5,7 +5,7 @@ date: 2012-08-28T15:05:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4120
-permalink: '/d%c5%beem-od-bresaka/'
+permalink: '/džem-od-bresaka/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Dzem-od-bresaka-940x198.jpg

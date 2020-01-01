@@ -5,7 +5,7 @@ date: 2011-06-20T11:17:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1194
-permalink: '/omlet-sa-povr%c4%87em-i-pavlakom/'
+permalink: '/omlet-sa-povrćem-i-pavlakom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

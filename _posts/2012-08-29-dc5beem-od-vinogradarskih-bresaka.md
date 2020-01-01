@@ -5,7 +5,7 @@ date: 2012-08-29T15:38:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4125
-permalink: '/d%c5%beem-od-vinogradarskih-bresaka/'
+permalink: '/džem-od-vinogradarskih-bresaka/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Dzem-od-vinogradarskih-breskvi-940x198.jpg

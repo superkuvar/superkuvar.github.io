@@ -5,7 +5,7 @@ date: 2011-09-07T10:03:14+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1827
-permalink: '/gr%c4%8dki-ajvar/'
+permalink: '/grčki-ajvar/'
 totvreme:
   - ""
 categories:

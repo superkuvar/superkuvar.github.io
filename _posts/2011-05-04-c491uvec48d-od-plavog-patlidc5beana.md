@@ -5,7 +5,7 @@ date: 2011-05-04T08:17:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=449
-permalink: '/%c4%91uve%c4%8d-od-plavog-patlid%c5%beana/'
+permalink: '/đuveč-od-plavog-patlidžana/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

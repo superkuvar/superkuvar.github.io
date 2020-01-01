@@ -5,7 +5,7 @@ date: 2013-02-22T15:14:26+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5315
-permalink: '/%c4%8dorba-sa-kukuruzom/'
+permalink: '/čorba-sa-kukuruzom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

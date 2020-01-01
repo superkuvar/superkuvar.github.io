@@ -5,7 +5,7 @@ date: 2012-11-03T15:26:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4597
-permalink: '/knedle-sa-%c5%a1ljivama-ili-kajsijama/'
+permalink: '/knedle-sa-šljivama-ili-kajsijama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

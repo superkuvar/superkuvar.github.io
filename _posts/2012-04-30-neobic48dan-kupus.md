@@ -5,7 +5,7 @@ date: 2012-04-30T10:20:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3129
-permalink: '/neobi%c4%8dan-kupus/'
+permalink: '/neobičan-kupus/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Neobičan-kupus-940x198.jpg
@@ -32,7 +32,7 @@ Potrebno je:
   * 1 limun
   * ulje
 
-<img class="alignnone size-medium wp-image-3130" title="Neobičan kupus" src="/wp-content/uploads/2012/04/Neobi%C4%8Dan-kupus-e1335780565784-300x230.jpg" alt="" width="300" height="230" /> 
+<img class="alignnone size-medium wp-image-3130" title="Neobičan kupus" src="/wp-content/uploads/2012/04/Neobičan-kupus-e1335780565784-300x230.jpg" alt="" width="300" height="230" /> 
 
 Priprema: kupus očistiti, oprati i sitno iseckati (kao za ribanac). Iseckan kupus staviti na zagrejano ulje, pa dodati izrendanu šargarepu i oljuštene izrendane jabuke. Naliti šoljom tople vode, poklopiti i dinstati na slabijoj vatri.
 

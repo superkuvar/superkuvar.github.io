@@ -5,7 +5,7 @@ date: 2011-05-16T08:57:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=601
-permalink: '/lagano-varivo-od-%c5%a1argarepe/'
+permalink: '/lagano-varivo-od-šargarepe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

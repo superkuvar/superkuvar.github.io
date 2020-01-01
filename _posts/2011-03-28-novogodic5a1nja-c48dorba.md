@@ -5,7 +5,7 @@ date: 2011-03-28T09:59:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=290
-permalink: '/novogodi%c5%a1nja-%c4%8dorba/'
+permalink: '/novogodišnja-čorba/'
 totvreme:
   - ""
 categories:

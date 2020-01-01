@@ -5,7 +5,7 @@ date: 2011-03-29T10:40:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=327
-permalink: '/zape%c4%8deni-mladi-krompir/'
+permalink: '/zapečeni-mladi-krompir/'
 totvreme:
   - ""
 categories:

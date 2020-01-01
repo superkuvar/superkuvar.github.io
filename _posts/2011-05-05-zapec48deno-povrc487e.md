@@ -5,7 +5,7 @@ date: 2011-05-05T11:53:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=477
-permalink: '/zape%c4%8deno-povr%c4%87e/'
+permalink: '/zapečeno-povrće/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

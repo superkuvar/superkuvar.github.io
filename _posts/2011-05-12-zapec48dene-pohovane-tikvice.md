@@ -5,7 +5,7 @@ date: 2011-05-12T11:57:57+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=566
-permalink: '/zape%c4%8dene-pohovane-tikvice/'
+permalink: '/zapečene-pohovane-tikvice/'
 totvreme:
   - ""
 categories:

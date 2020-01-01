@@ -28,7 +28,7 @@ Potrebno je:
   * muskatni oraščić (po želji)
   * so
 
-<img class="alignnone size-medium wp-image-2650" title="Pire od spanaća" src="/wp-content/uploads/2011/05/Pire-od-spana%C4%87a-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2650" title="Pire od spanaća" src="/wp-content/uploads/2011/05/Pire-od-spanaća-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: spanać očistiti i oprati, staviti ga u proključalu vodu i kratko obariti. Obaren spanać ocediti i sitno iseckati.
 

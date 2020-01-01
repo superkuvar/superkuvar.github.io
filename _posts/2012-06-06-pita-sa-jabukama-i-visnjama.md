@@ -30,7 +30,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3377" title="Pitasajabukamaivišnjama" src="/wp-content/uploads/2012/06/Pitasajabukamaivi%C5%A1njama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3377" title="Pitasajabukamaivišnjama" src="/wp-content/uploads/2012/06/Pitasajabukamaivišnjama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: jabuke oprati, oljuštiti i izrendati na krupno rende. Višnje takođe oprati, očistiti od koštica i ostaviti da se ocede od soka koji su pustile. Pomešati jabuke i višnje, dodati šećer po ukusu i kesicu cimeta.
 

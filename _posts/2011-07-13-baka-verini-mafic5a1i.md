@@ -5,7 +5,7 @@ date: 2011-07-13T14:57:15+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1442
-permalink: '/baka-verini-mafi%c5%a1i/'
+permalink: '/baka-verini-mafiši/'
 totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Baka-Verini-mafisi1-940x198.jpg

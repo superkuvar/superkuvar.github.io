@@ -5,7 +5,7 @@ date: 2011-03-25T11:31:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=263
-permalink: '/%c4%8dorba-od-tikvica/'
+permalink: '/čorba-od-tikvica/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

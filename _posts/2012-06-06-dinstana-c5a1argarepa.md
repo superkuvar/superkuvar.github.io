@@ -5,7 +5,7 @@ date: 2012-06-06T11:30:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3366
-permalink: '/dinstana-%c5%a1argarepa/'
+permalink: '/dinstana-šargarepa/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
@@ -31,7 +31,7 @@ Potrebno je:
   * seckani peršunov list
   * 2 dl sosa od paradajza ili kečapa
 
-<img class="alignnone size-medium wp-image-3368" title="Dinstana šargarepa" src="/wp-content/uploads/2012/06/Dinstana-%C5%A1argarepa-e1338885828961-300x240.jpg" alt="" width="300" height="240" /> 
+<img class="alignnone size-medium wp-image-3368" title="Dinstana šargarepa" src="/wp-content/uploads/2012/06/Dinstana-šargarepa-e1338885828961-300x240.jpg" alt="" width="300" height="240" /> 
 
 Priprema: crni luk očistiti, oprati, sitno iseckati i propržiti na malo ulja, da omekša.
 

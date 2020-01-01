@@ -5,7 +5,7 @@ date: 2012-02-14T22:24:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2467
-permalink: '/preliv-od-miro%c4%91ije-i-per%c5%a1una/'
+permalink: '/preliv-od-mirođije-i-peršuna/'
 totvreme:
   - ""
 categories:

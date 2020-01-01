@@ -5,7 +5,7 @@ date: 2011-03-16T11:21:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=105
-permalink: '/pita-sa-prazilukom-i-%c5%a1ampinjonima/'
+permalink: '/pita-sa-prazilukom-i-šampinjonima/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

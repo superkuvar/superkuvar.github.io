@@ -5,7 +5,7 @@ date: 2013-10-14T15:13:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6171
-permalink: '/zape%c4%8dene-tikvice-sa-prezlama/'
+permalink: '/zapečene-tikvice-sa-prezlama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Zapecenetikvicesaprezlom-940x198.jpg

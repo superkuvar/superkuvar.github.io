@@ -5,7 +5,7 @@ date: 2013-02-23T15:03:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5325
-permalink: '/pilav-sa-pile%c4%87im-belim-mesom/'
+permalink: '/pilav-sa-pilećim-belim-mesom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

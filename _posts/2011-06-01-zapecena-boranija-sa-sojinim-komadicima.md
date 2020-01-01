@@ -37,7 +37,7 @@ Potrebno je:
   * origano
   * peršunov list
 
-<img class="alignnone size-medium wp-image-2994" title="Zapečena boranija sa sojom" src="/wp-content/uploads/2011/06/Zape%C4%8Dena-boranija-sa-sojom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2994" title="Zapečena boranija sa sojom" src="/wp-content/uploads/2011/06/Zapečena-boranija-sa-sojom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: na ulju prodinstati boraniju i iseckan crni i beli luk. U to dodati sojine komadiće (koji su prethodno obareni u slanoj vodi a zatim oceđeni), pirinač prethodno napola obaren, oljušten i izrendan paradajz, alevu papriku, suvi biljni začin, origano i sitno seckani peršunov list.
 

@@ -5,7 +5,7 @@ date: 2011-07-19T08:21:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1563
-permalink: '/kola%c4%8d-sa-orasima-i-jabukama/'
+permalink: '/kolač-sa-orasima-i-jabukama/'
 totvreme:
   - ""
 categories:

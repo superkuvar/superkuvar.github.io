@@ -5,7 +5,7 @@ date: 2011-03-21T11:36:19+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=165
-permalink: '/pile%c4%87a-%c4%8dorba-sa-jabukom/'
+permalink: '/pileća-čorba-sa-jabukom/'
 ingreedients:
   - ""
 recipeinstructions:

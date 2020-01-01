@@ -5,7 +5,7 @@ date: 2012-03-03T14:52:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2628
-permalink: '/nanina-poga%c4%8da/'
+permalink: '/nanina-pogača/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Nanina-pogača-940x198.jpg
@@ -27,7 +27,7 @@ Potrebno je:
   * šećer
   * so
 
-<img class="alignnone size-medium wp-image-2631" title="Nanina pogača" src="/wp-content/uploads/2012/03/Nanina-poga%C4%8Da-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2631" title="Nanina pogača" src="/wp-content/uploads/2012/03/Nanina-pogača-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u malo mlakog mleka razmutiti izmrvljen kvasac zajedno sa kašičicom šećera i tri kašike brašna i ostaviti na toplom mestu da naraste. U sud za mešenje sipati brašno, dodati uskisli kvasac, so po ukusu, jedno jaje i belance, ulje i preostalo mleko. Izmešati varjačom, pa dodavati postepeno brašno, da se dobije testo srednje tvrdoće.
 

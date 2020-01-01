@@ -5,7 +5,7 @@ date: 2011-06-20T11:34:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1196
-permalink: '/pr%c5%beena-jaja-sa-lukom/'
+permalink: '/pržena-jaja-sa-lukom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

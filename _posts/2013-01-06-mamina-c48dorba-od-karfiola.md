@@ -5,7 +5,7 @@ date: 2013-01-06T11:18:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5043
-permalink: '/mamina-%c4%8dorba-od-karfiola/'
+permalink: '/mamina-čorba-od-karfiola/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

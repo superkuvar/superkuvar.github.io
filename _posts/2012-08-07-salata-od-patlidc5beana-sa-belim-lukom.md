@@ -5,7 +5,7 @@ date: 2012-08-07T09:18:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3901
-permalink: '/salata-od-patlid%c5%beana-sa-belim-lukom/'
+permalink: '/salata-od-patlidžana-sa-belim-lukom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Salataodpatlidzanasabelimlukom-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-01-26T13:27:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2340
-permalink: '/pe%c4%8dena-bundeva/'
+permalink: '/pečena-bundeva/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Pecena-tikva-3-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-04-04T08:22:14+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5559
-permalink: '/musaka-od-spana%c4%87a-i-krompira/'
+permalink: '/musaka-od-spanaća-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

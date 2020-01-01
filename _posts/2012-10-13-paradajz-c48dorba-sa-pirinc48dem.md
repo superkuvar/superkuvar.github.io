@@ -5,7 +5,7 @@ date: 2012-10-13T14:28:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4470
-permalink: '/paradajz-%c4%8dorba-sa-pirin%c4%8dem/'
+permalink: '/paradajz-čorba-sa-pirinčem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

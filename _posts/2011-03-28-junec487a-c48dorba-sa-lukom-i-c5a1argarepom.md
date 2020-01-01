@@ -5,7 +5,7 @@ date: 2011-03-28T09:19:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=286
-permalink: '/june%c4%87a-%c4%8dorba-sa-lukom-i-%c5%a1argarepom/'
+permalink: '/juneća-čorba-sa-lukom-i-šargarepom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

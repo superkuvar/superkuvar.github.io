@@ -33,7 +33,7 @@ Potrebno je:
   * biber
   * origano
 
-<img class="alignnone size-medium wp-image-3606" title="Šareniletnjidjuveč" src="/wp-content/uploads/2011/06/areniletnjidjuve%C4%8D-e1340605209387-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-3606" title="Šareniletnjidjuveč" src="/wp-content/uploads/2011/06/areniletnjidjuveč-e1340605209387-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: povrće oprati, očistiti i iseći na kolutove. Luk iseći na rebarca i propržiti na ulju, da postane staklast.
 

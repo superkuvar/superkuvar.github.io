@@ -5,7 +5,7 @@ date: 2012-10-09T12:33:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4459
-permalink: '/pr%c5%beeni-krompir/'
+permalink: '/prženi-krompir/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -31,7 +31,7 @@ Potrebno je:
   * prezle
   * ulje
 
-<img class="alignnone size-medium wp-image-3739" title="Zapečenetikvicesapirinčem" src="/wp-content/uploads/2012/07/Zape%C4%8Denetikvicesapirin%C4%8Dem-e1342523591730-300x224.jpg" alt="" width="300" height="224" /> 
+<img class="alignnone size-medium wp-image-3739" title="Zapečenetikvicesapirinčem" src="/wp-content/uploads/2012/07/Zapečenetikvicesapirinčem-e1342523591730-300x224.jpg" alt="" width="300" height="224" /> 
 
 Priprema: tikvice oprati, oljuštiti i iseći na kolutove. Propržiti ih na ulju sa seckanim belim lukom.
 

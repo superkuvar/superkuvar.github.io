@@ -5,7 +5,7 @@ date: 2011-06-07T11:10:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=970
-permalink: '/fa%c5%a1irane-%c5%a1nicle-sa-sojom/'
+permalink: '/faširane-šnicle-sa-sojom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

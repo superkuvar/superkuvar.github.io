@@ -5,7 +5,7 @@ date: 2013-08-29T14:18:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6081
-permalink: '/brza-poga%c4%8da/'
+permalink: '/brza-pogača/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Brza-pogaca-940x198.jpg

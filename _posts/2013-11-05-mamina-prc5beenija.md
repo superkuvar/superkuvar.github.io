@@ -5,7 +5,7 @@ date: 2013-11-05T07:02:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6234
-permalink: '/mamina-pr%c5%beenija/'
+permalink: '/mamina-prženija/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Maminaprzenija-940x198.jpg

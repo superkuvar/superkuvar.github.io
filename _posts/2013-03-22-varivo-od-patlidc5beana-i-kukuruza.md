@@ -5,7 +5,7 @@ date: 2013-03-22T07:14:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5500
-permalink: '/varivo-od-patlid%c5%beana-i-kukuruza/'
+permalink: '/varivo-od-patlidžana-i-kukuruza/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

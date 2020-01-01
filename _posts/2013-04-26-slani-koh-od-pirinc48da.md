@@ -5,7 +5,7 @@ date: 2013-04-26T06:04:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5634
-permalink: '/slani-koh-od-pirin%c4%8da/'
+permalink: '/slani-koh-od-pirinča/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

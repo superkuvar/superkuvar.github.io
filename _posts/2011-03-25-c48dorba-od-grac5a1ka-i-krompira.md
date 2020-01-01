@@ -5,7 +5,7 @@ date: 2011-03-25T09:17:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=247
-permalink: '/%c4%8dorba-od-gra%c5%a1ka-i-krompira/'
+permalink: '/čorba-od-graška-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

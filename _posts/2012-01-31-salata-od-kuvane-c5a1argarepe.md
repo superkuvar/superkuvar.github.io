@@ -5,7 +5,7 @@ date: 2012-01-31T13:05:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2384
-permalink: '/salata-od-kuvane-%c5%a1argarepe/'
+permalink: '/salata-od-kuvane-šargarepe/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Salata-od-sargarepe-940x198.jpg

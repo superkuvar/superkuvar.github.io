@@ -5,7 +5,7 @@ date: 2013-09-06T06:15:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6091
-permalink: '/slo%c5%beenac-od-krompira-pirin%c4%8da-i-slanine/'
+permalink: '/složenac-od-krompira-pirinča-i-slanine/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Slozenacodkrompiraipirinca-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-03-22T11:26:55+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=199
-permalink: '/%c4%8dorba-sa-%c5%a1ampinjonima-i-celerom/'
+permalink: '/čorba-sa-šampinjonima-i-celerom/'
 totvreme:
   - ""
 categories:

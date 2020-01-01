@@ -5,7 +5,7 @@ date: 2013-01-19T15:45:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5099
-permalink: '/prepe%c4%8deni-hleb-kao-prilog-%c4%8dorbama/'
+permalink: '/prepečeni-hleb-kao-prilog-čorbama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

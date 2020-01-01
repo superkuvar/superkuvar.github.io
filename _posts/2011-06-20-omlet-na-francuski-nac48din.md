@@ -5,7 +5,7 @@ date: 2011-06-20T08:57:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1181
-permalink: '/omlet-na-francuski-na%c4%8din/'
+permalink: '/omlet-na-francuski-način/'
 totvreme:
   - ""
 categories:

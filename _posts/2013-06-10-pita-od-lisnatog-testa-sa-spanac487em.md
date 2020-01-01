@@ -5,7 +5,7 @@ date: 2013-06-10T14:16:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5737
-permalink: '/pita-od-lisnatog-testa-sa-spana%c4%87em/'
+permalink: '/pita-od-lisnatog-testa-sa-spanaćem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

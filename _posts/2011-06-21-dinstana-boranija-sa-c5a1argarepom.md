@@ -5,7 +5,7 @@ date: 2011-06-21T12:11:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1225
-permalink: '/dinstana-boranija-sa-%c5%a1argarepom/'
+permalink: '/dinstana-boranija-sa-šargarepom/'
 totvreme:
   - ""
 categories:

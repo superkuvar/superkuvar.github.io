@@ -5,7 +5,7 @@ date: 2013-04-17T15:02:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5596
-permalink: '/integralni-kola%c4%8d-sa-brusnicama/'
+permalink: '/integralni-kolač-sa-brusnicama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

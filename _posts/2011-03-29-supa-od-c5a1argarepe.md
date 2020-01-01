@@ -5,7 +5,7 @@ date: 2011-03-29T08:56:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=312
-permalink: '/supa-od-%c5%a1argarepe/'
+permalink: '/supa-od-šargarepe/'
 totvreme:
   - ""
 categories:

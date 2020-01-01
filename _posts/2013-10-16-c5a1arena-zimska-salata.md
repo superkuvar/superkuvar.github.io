@@ -5,7 +5,7 @@ date: 2013-10-16T16:07:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6183
-permalink: '/%c5%a1arena-zimska-salata/'
+permalink: '/šarena-zimska-salata/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Sarenazimskasalata-940x198.jpg

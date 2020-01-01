@@ -5,7 +5,7 @@ date: 2011-05-12T12:17:50+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=572
-permalink: '/krompir-na-francuski-na%c4%8din/'
+permalink: '/krompir-na-francuski-način/'
 totvreme:
   - ""
 categories:

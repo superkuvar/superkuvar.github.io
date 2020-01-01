@@ -5,7 +5,7 @@ date: 2012-10-18T09:44:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4507
-permalink: '/zape%c4%8deni-karfiol/'
+permalink: '/zapečeni-karfiol/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

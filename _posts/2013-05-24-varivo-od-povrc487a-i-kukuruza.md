@@ -5,7 +5,7 @@ date: 2013-05-24T05:52:03+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5688
-permalink: '/varivo-od-povr%c4%87a-i-kukuruza/'
+permalink: '/varivo-od-povrća-i-kukuruza/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2012-01-24T13:58:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2335
-permalink: '/pr%c5%beenice/'
+permalink: '/prženice/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Pofezne-4-940x198.jpg

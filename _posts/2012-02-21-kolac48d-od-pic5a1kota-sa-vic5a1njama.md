@@ -5,7 +5,7 @@ date: 2012-02-21T13:17:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2538
-permalink: '/kola%c4%8d-od-pi%c5%a1kota-sa-vi%c5%a1njama/'
+permalink: '/kolač-od-piškota-sa-višnjama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Kolač-od-piškota-sa-višnjama-940x198.jpg
@@ -31,7 +31,7 @@ Potrebno je:
   * 2 dl kisele pavlake
   * 2 kesice šlag krema sa ukusom slatke pavlake
 
-<img class="alignnone size-medium wp-image-2539" title="Kolač od piškota sa višnjama" src="/wp-content/uploads/2012/02/Kola%C4%8D-od-pi%C5%A1kota-sa-vi%C5%A1njama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2539" title="Kolač od piškota sa višnjama" src="/wp-content/uploads/2012/02/Kolač-od-piškota-sa-višnjama-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: puding pomešati sa šećerom i gustinom, pa razmutiti u šolji hladnog mleka. Preostalo mleko staviti da se kuva, pa kada provri skloniti sa vatre, dodati komad margarina i sipati puding, uz neprekidno mešanje. Vratiti na štednjak i kuvati još minut-dva. Gotov puding prohladiti, pa dodati pavlaku. Masu mikserom kratko umutiti, da bi postala homogena i kremasta.
 

@@ -33,7 +33,7 @@ Potrebno je:
   * seckana mirođija
   * ulje
 
-<img class="alignnone size-medium wp-image-3315" title="Čorbaodšargarepeitikvica" src="/wp-content/uploads/2011/03/%C4%8Corbaod%C5%A1argarepeitikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3315" title="Čorbaodšargarepeitikvica" src="/wp-content/uploads/2011/03/%C4%8Corbaodšargarepeitikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži.
 

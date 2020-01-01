@@ -5,7 +5,7 @@ date: 2012-10-06T14:06:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4447
-permalink: '/zape%c4%8dene-tikvice-sa-gra%c5%a1kom/'
+permalink: '/zapečene-tikvice-sa-graškom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

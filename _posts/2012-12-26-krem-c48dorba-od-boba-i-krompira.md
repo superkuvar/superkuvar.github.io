@@ -5,7 +5,7 @@ date: 2012-12-26T11:30:20+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4951
-permalink: '/krem-%c4%8dorba-od-boba-i-krompira/'
+permalink: '/krem-čorba-od-boba-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

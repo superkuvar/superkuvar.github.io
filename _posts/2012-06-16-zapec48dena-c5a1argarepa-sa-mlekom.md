@@ -5,7 +5,7 @@ date: 2012-06-16T15:43:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3499
-permalink: '/zape%c4%8dena-%c5%a1argarepa-sa-mlekom/'
+permalink: '/zapečena-šargarepa-sa-mlekom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Zapečenašargarepasamlekom-940x198.jpg
@@ -31,7 +31,7 @@ Potrebno je:
   * malo prezli
   * strugani morski oraščić
 
-<img class="alignnone size-medium wp-image-3500" title="Zapečenašargarepasamlekom" src="/wp-content/uploads/2012/06/Zape%C4%8Dena%C5%A1argarepasamlekom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3500" title="Zapečenašargarepasamlekom" src="/wp-content/uploads/2012/06/Zapečenašargarepasamlekom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: šargarepu oprati, očistiti, iseći na štapiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Pirinač oprati i skuvati u posoljenoj vodi. Kada omekša, ocediti ga.
 

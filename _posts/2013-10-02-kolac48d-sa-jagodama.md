@@ -5,7 +5,7 @@ date: 2013-10-02T14:52:53+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6148
-permalink: '/kola%c4%8d-sa-jagodama/'
+permalink: '/kolač-sa-jagodama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Kolacsajagodama-940x198.jpg

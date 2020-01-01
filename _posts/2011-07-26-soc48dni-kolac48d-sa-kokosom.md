@@ -5,7 +5,7 @@ date: 2011-07-26T08:46:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1580
-permalink: '/so%c4%8dni-kola%c4%8d-sa-kokosom/'
+permalink: '/sočni-kolač-sa-kokosom/'
 totvreme:
   - ""
 categories:

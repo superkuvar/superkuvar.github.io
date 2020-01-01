@@ -27,7 +27,7 @@ Potrebno je:
   * ulje
   * 50 grama margarina
 
-<img class="alignnone size-medium wp-image-2579" title="Zapečene makarone sa sirom" src="/wp-content/uploads/2012/02/Zape%C4%8Dene-makarone-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2579" title="Zapečene makarone sa sirom" src="/wp-content/uploads/2012/02/Zapečene-makarone-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: skuvati makarone prema uputstvu na pakovanju. Kuvane makarone ocediti, isprati hladnom vodom i opet ocediti, a zatim izručiti u podmazanu posudu za pečenje.
 

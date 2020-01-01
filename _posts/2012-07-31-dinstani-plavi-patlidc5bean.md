@@ -5,7 +5,7 @@ date: 2012-07-31T06:11:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3852
-permalink: '/dinstani-plavi-patlid%c5%bean/'
+permalink: '/dinstani-plavi-patlidžan/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Dinstaniplavipatlidzan-940x198.jpg

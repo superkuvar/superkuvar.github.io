@@ -5,7 +5,7 @@ date: 2012-12-12T11:08:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4884
-permalink: '/krem-%c4%8dorba-od-%c4%8di%c4%8doke/'
+permalink: '/krem-čorba-od-čičoke/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

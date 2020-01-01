@@ -5,7 +5,7 @@ date: 2012-10-25T12:13:12+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4548
-permalink: '/musaka-od-plavog-patlid%c5%beana-sa-pirin%c4%8dem/'
+permalink: '/musaka-od-plavog-patlidžana-sa-pirinčem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

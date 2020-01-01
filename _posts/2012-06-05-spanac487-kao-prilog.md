@@ -5,7 +5,7 @@ date: 2012-06-05T08:12:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3352
-permalink: '/spana%c4%87-kao-prilog/'
+permalink: '/spanać-kao-prilog/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Spanać-kao-prilog1-940x198.jpg
@@ -27,7 +27,7 @@ Potrebno je:
   * crvena začinska paprika
   * malo muskatnog oraščića
 
-<img class="alignnone size-medium wp-image-3355" title="Spanać kao prilog" src="/wp-content/uploads/2012/06/Spana%C4%87-kao-prilog1-e1338807523650-300x231.jpg" alt="" width="300" height="231" /> 
+<img class="alignnone size-medium wp-image-3355" title="Spanać kao prilog" src="/wp-content/uploads/2012/06/Spanać-kao-prilog1-e1338807523650-300x231.jpg" alt="" width="300" height="231" /> 
 
 Priprema: spanać očistiti od drški, oprati i izručiti u dublji pleh (listove ostaviti cele, bez seckanja). Posoliti, pobiberiti i dodati na vrh noža narendanog muskatnog oraščića. Preko spanaća posuti opran pirinač i malo crvene mlevene začinske paprike.
 

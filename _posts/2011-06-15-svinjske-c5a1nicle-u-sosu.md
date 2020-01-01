@@ -5,7 +5,7 @@ date: 2011-06-15T10:28:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1090
-permalink: '/svinjske-%c5%a1nicle-u-sosu/'
+permalink: '/svinjske-šnicle-u-sosu/'
 totvreme:
   - ""
 categories:

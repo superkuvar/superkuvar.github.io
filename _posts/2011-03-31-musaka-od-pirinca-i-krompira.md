@@ -33,7 +33,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-3097" title="Musaka od krompira i pirinča" src="/wp-content/uploads/2011/03/Musaka-od-krompira-i-pirin%C4%8Da-e1335526679299.jpg" alt="" width="295" height="241" /> 
+<img class="alignnone size-medium wp-image-3097" title="Musaka od krompira i pirinča" src="/wp-content/uploads/2011/03/Musaka-od-krompira-i-pirinča-e1335526679299.jpg" alt="" width="295" height="241" /> 
 
 Priprema: očistiti i sitno iseckati crni luk ili praziluk, pa ga staviti na zagrejano ulje i propržiti. U gotov luk dodati očišćen i opran pirinač, naliti sa pola litra vode i ostaviti da se pirinač upola obari. Posoliti, pobiberiti i dodati sitno seckani peršun i malo bosiljka.
 

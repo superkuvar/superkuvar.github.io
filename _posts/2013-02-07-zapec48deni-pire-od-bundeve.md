@@ -5,7 +5,7 @@ date: 2013-02-07T16:03:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5233
-permalink: '/zape%c4%8deni-pire-od-bundeve/'
+permalink: '/zapečeni-pire-od-bundeve/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

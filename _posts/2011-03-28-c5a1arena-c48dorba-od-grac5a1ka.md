@@ -5,7 +5,7 @@ date: 2011-03-28T07:23:27+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=274
-permalink: '/%c5%a1arena-%c4%8dorba-od-gra%c5%a1ka/'
+permalink: '/šarena-čorba-od-graška/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

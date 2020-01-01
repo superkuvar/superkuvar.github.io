@@ -5,7 +5,7 @@ date: 2011-05-10T10:08:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=521
-permalink: '/pirina%c4%8d-kao-prilog/'
+permalink: '/pirinač-kao-prilog/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2012-11-06T06:37:44+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4642
-permalink: '/salata-od-kupusa-i-%c5%a1argarepe/'
+permalink: '/salata-od-kupusa-i-šargarepe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-03-25T11:41:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=265
-permalink: '/%c4%8dorba-od-tikvica-i-krompira/'
+permalink: '/čorba-od-tikvica-i-krompira/'
 totvreme:
   - ""
 categories:

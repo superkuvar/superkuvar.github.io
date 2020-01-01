@@ -5,7 +5,7 @@ date: 2012-09-18T10:10:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4312
-permalink: '/punjeni-plavi-patlid%c5%bean/'
+permalink: '/punjeni-plavi-patlidžan/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Punjeni-plavi-patlidzan-940x198.jpg

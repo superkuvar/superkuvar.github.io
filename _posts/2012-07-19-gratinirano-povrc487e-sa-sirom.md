@@ -5,7 +5,7 @@ date: 2012-07-19T10:25:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3755
-permalink: '/gratinirano-povr%c4%87e-sa-sirom/'
+permalink: '/gratinirano-povrće-sa-sirom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Gratiniranopovrcesasirom-940x198.jpg

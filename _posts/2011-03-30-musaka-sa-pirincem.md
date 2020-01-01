@@ -34,7 +34,7 @@ Potrebno je:
   * 2 jajeta
   * 2 dl kisele pavlake
 
-<img class="alignnone size-medium wp-image-2641" title="Musaka sa pirinčem" src="/wp-content/uploads/2011/03/Musaka-sa-pirin%C4%8Dem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2641" title="Musaka sa pirinčem" src="/wp-content/uploads/2011/03/Musaka-sa-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
 

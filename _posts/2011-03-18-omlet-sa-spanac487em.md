@@ -5,7 +5,7 @@ date: 2011-03-18T11:26:51+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=131
-permalink: '/omlet-sa-spana%c4%87em/'
+permalink: '/omlet-sa-spanaćem/'
 totvreme:
   - ""
 categories:

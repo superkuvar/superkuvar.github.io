@@ -5,7 +5,7 @@ date: 2012-10-01T06:12:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4405
-permalink: '/paradajz-%c4%8dorba/'
+permalink: '/paradajz-čorba/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

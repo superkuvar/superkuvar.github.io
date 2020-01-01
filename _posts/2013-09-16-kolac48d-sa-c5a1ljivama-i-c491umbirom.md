@@ -5,7 +5,7 @@ date: 2013-09-16T05:57:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6108
-permalink: '/kola%c4%8d-sa-%c5%a1ljivama-i-%c4%91umbirom/'
+permalink: '/kolač-sa-šljivama-i-đumbirom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom-940x198.jpg

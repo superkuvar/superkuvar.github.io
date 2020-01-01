@@ -5,7 +5,7 @@ date: 2011-03-18T09:31:36+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=118
-permalink: '/svinjetina-na-argentinski-na%c4%8din/'
+permalink: '/svinjetina-na-argentinski-način/'
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2013-11-26T07:18:41+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6292
-permalink: '/karfiol-u-be%c5%a1amelu-sa-sirom/'
+permalink: '/karfiol-u-bešamelu-sa-sirom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Karfiolubesamelusasirom-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-06-05T15:39:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5732
-permalink: '/%c4%8dorba-od-%c4%8di%c4%8doke-sa-pirin%c4%8dem/'
+permalink: '/čorba-od-čičoke-sa-pirinčem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

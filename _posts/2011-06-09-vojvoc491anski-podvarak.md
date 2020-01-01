@@ -5,7 +5,7 @@ date: 2011-06-09T09:44:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1040
-permalink: '/vojvo%c4%91anski-podvarak/'
+permalink: '/vojvođanski-podvarak/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

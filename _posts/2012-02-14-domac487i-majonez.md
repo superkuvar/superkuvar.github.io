@@ -5,7 +5,7 @@ date: 2012-02-14T07:18:44+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2459
-permalink: '/doma%c4%87i-majonez/'
+permalink: '/domaći-majonez/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

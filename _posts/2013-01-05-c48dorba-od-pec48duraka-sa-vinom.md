@@ -5,7 +5,7 @@ date: 2013-01-05T16:51:05+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5038
-permalink: '/%c4%8dorba-od-pe%c4%8duraka-sa-vinom/'
+permalink: '/čorba-od-pečuraka-sa-vinom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

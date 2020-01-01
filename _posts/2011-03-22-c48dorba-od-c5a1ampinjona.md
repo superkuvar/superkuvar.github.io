@@ -5,7 +5,7 @@ date: 2011-03-22T11:59:16+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=201
-permalink: '/%c4%8dorba-od-%c5%a1ampinjona/'
+permalink: '/čorba-od-šampinjona/'
 totvreme:
   - ""
 categories:

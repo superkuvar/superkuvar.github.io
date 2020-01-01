@@ -5,7 +5,7 @@ date: 2011-03-23T11:42:28+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=217
-permalink: '/paradajz-%c4%8dorba-sa-knedlama/'
+permalink: '/paradajz-čorba-sa-knedlama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

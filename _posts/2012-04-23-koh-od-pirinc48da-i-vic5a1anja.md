@@ -5,7 +5,7 @@ date: 2012-04-23T10:57:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2998
-permalink: '/koh-od-pirin%c4%8da-i-vi%c5%a1anja/'
+permalink: '/koh-od-pirinča-i-višanja/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Koh-od-pirinča-i-višanja1-940x198.jpg
@@ -29,7 +29,7 @@ Potrebno je:
   * kašika margarina
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-medium wp-image-3023" title="Koh od pirinča i višanja" src="/wp-content/uploads/2012/04/Koh-od-pirin%C4%8Da-i-vi%C5%A1anja1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3023" title="Koh od pirinča i višanja" src="/wp-content/uploads/2012/04/Koh-od-pirinča-i-višanja1-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudu sipati tri šolje vode i na vrh noža soli i staviti na štednjak. Kada voda proključa, sipati opran pirinač i kuvati desetak minuta. Nakon toga pirinač ocediti.
 

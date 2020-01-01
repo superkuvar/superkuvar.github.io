@@ -5,7 +5,7 @@ date: 2012-08-06T12:16:20+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3895
-permalink: '/%c4%8dorba-od-griza/'
+permalink: '/čorba-od-griza/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Čorbaodgriza-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-11-04T16:00:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6229
-permalink: '/musaka-od-tikvica-sa-ka%c4%8dkavaljem/'
+permalink: '/musaka-od-tikvica-sa-kačkavaljem/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem-940x198.jpg

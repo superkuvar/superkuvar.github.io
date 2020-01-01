@@ -5,7 +5,7 @@ date: 2013-01-09T15:39:45+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5048
-permalink: '/doma%c4%87i-hleb-od-me%c5%a1anog-bra%c5%a1na/'
+permalink: '/domaći-hleb-od-mešanog-brašna/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

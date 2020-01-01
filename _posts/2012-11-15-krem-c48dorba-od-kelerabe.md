@@ -5,7 +5,7 @@ date: 2012-11-15T10:07:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4719
-permalink: '/krem-%c4%8dorba-od-kelerabe/'
+permalink: '/krem-čorba-od-kelerabe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

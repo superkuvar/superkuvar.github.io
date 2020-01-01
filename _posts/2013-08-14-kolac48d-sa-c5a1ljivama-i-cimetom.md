@@ -5,7 +5,7 @@ date: 2013-08-14T14:33:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6005
-permalink: '/kola%c4%8d-sa-%c5%a1ljivama-i-cimetom/'
+permalink: '/kolač-sa-šljivama-i-cimetom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Kolac-sa-sljivama-i-cimetom11-940x198.jpg

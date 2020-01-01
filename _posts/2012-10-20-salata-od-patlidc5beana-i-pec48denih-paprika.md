@@ -5,7 +5,7 @@ date: 2012-10-20T11:59:26+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4522
-permalink: '/salata-od-patlid%c5%beana-i-pe%c4%8denih-paprika/'
+permalink: '/salata-od-patlidžana-i-pečenih-paprika/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

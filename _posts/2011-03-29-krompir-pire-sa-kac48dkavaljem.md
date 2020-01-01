@@ -5,7 +5,7 @@ date: 2011-03-29T09:43:45+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=317
-permalink: '/krompir-pire-sa-ka%c4%8dkavaljem/'
+permalink: '/krompir-pire-sa-kačkavaljem/'
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Krompirpiresakackavaljem-940x198.jpg

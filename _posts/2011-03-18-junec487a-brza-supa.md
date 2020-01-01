@@ -5,7 +5,7 @@ date: 2011-03-18T12:10:25+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=142
-permalink: '/june%c4%87a-brza-supa/'
+permalink: '/juneća-brza-supa/'
 totvreme:
   - ""
 categories:

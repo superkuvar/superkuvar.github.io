@@ -5,7 +5,7 @@ date: 2011-06-24T11:54:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1270
-permalink: '/zape%c4%8dena-jaja-sa-krompirom/'
+permalink: '/zapečena-jaja-sa-krompirom/'
 totvreme:
   - ""
 categories:

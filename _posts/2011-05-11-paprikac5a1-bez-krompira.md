@@ -5,7 +5,7 @@ date: 2011-05-11T10:34:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=554
-permalink: '/paprika%c5%a1-bez-krompira/'
+permalink: '/paprikaš-bez-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

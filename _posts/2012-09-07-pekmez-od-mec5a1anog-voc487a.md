@@ -5,7 +5,7 @@ date: 2012-09-07T15:13:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4228
-permalink: '/pekmez-od-me%c5%a1anog-vo%c4%87a/'
+permalink: '/pekmez-od-mešanog-voća/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Pekmezodmesanogvoća-940x198.jpg

@@ -34,7 +34,7 @@ Potrebno je:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-3517" title="Musakaodtikvicaipirinča" src="/wp-content/uploads/2011/05/Musakaodtikvicaipirin%C4%8Da-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3517" title="Musakaodtikvicaipirinča" src="/wp-content/uploads/2011/05/Musakaodtikvicaipirinča-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oprati, očistiti i iseći po dužini. Posoliti ih, uvaljati u brašno i ispržiti. Posebno ispržiti seckan crni luk, da dobije zlatnu boju.
 

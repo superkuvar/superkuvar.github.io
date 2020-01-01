@@ -5,7 +5,7 @@ date: 2013-11-15T15:50:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6272
-permalink: '/plavi-patlid%c5%bean-punjen-sirom/'
+permalink: '/plavi-patlidžan-punjen-sirom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Patlidzanpunjensirom-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-06-02T12:20:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=901
-permalink: '/pohovane-%c5%a1nicle-od-soje/'
+permalink: '/pohovane-šnicle-od-soje/'
 totvreme:
   - ""
 categories:

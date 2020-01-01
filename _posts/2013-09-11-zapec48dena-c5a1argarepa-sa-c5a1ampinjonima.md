@@ -5,7 +5,7 @@ date: 2013-09-11T15:43:57+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6097
-permalink: '/zape%c4%8dena-%c5%a1argarepa-sa-%c5%a1ampinjonima/'
+permalink: '/zapečena-šargarepa-sa-šampinjonima/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Zapecenasargarepasasampinjonima-940x198.jpg

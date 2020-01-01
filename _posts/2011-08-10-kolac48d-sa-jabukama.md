@@ -5,7 +5,7 @@ date: 2011-08-10T09:54:27+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1670
-permalink: '/kola%c4%8d-sa-jabukama/'
+permalink: '/kolač-sa-jabukama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

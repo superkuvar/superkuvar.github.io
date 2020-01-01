@@ -5,7 +5,7 @@ date: 2011-06-06T12:02:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=954
-permalink: '/piletina-sa-lukom-i-pirin%c4%8dem/'
+permalink: '/piletina-sa-lukom-i-pirinčem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

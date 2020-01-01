@@ -5,7 +5,7 @@ date: 2013-02-20T06:46:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5306
-permalink: '/dvobojni-kola%c4%8d/'
+permalink: '/dvobojni-kolač/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

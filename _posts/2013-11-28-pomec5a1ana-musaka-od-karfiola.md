@@ -5,7 +5,7 @@ date: 2013-11-28T07:18:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6296
-permalink: '/pome%c5%a1ana-musaka-od-karfiola/'
+permalink: '/pomešana-musaka-od-karfiola/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Pomesanamusakaodkarfiola-940x198.jpg

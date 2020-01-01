@@ -5,7 +5,7 @@ date: 2013-07-23T07:38:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5924
-permalink: '/slani-kola%c4%8d-sa-tikvicama/'
+permalink: '/slani-kolač-sa-tikvicama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Slanikolacsatikvicama-940x198.jpg

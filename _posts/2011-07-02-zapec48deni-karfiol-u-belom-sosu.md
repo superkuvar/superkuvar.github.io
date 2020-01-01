@@ -5,7 +5,7 @@ date: 2011-07-02T10:38:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1318
-permalink: '/zape%c4%8deni-karfiol-u-belom-sosu/'
+permalink: '/zapečeni-karfiol-u-belom-sosu/'
 totvreme:
   - ""
 categories:

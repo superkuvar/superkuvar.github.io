@@ -5,7 +5,7 @@ date: 2012-08-10T10:12:03+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3936
-permalink: '/%c5%a1arene-kocke-sa-kokosom-2/'
+permalink: '/šarene-kocke-sa-kokosom-2/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Šarenekockesakokosom-940x198.jpg

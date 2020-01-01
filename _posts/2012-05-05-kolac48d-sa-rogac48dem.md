@@ -5,7 +5,7 @@ date: 2012-05-05T12:23:28+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3141
-permalink: '/kola%c4%8d-sa-roga%c4%8dem/'
+permalink: '/kolač-sa-rogačem/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Kolač-sa-rogačem-940x198.jpg
@@ -32,7 +32,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3143" title="Kolač sa rogačem" src="/wp-content/uploads/2012/04/Kola%C4%8D-sa-roga%C4%8Dem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3143" title="Kolač sa rogačem" src="/wp-content/uploads/2012/04/Kolač-sa-rogačem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u posudi za mešenje umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, rogač i cimet. Dobro izmešati varjačom i sipati u podmazan i brašnom posut manji pleh.
 

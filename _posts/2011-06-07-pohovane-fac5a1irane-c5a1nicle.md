@@ -5,7 +5,7 @@ date: 2011-06-07T10:58:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=966
-permalink: '/pohovane-fa%c5%a1irane-%c5%a1nicle/'
+permalink: '/pohovane-faširane-šnicle/'
 totvreme:
   - ""
 categories:

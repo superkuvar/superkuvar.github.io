@@ -5,7 +5,7 @@ date: 2011-03-23T11:07:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=210
-permalink: '/%c4%8dorba-od-%c5%a1ampinjona-i-zeleni/'
+permalink: '/čorba-od-šampinjona-i-zeleni/'
 totvreme:
   - ""
 categories:

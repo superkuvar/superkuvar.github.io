@@ -5,7 +5,7 @@ date: 2013-07-03T15:31:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5851
-permalink: '/salata-od-gra%c5%a1ka-i-testenine/'
+permalink: '/salata-od-graška-i-testenine/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Salataodgraskaitestenine-940x198.jpg

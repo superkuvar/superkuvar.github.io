@@ -5,7 +5,7 @@ date: 2012-08-24T11:47:12+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4092
-permalink: '/brza-paradajz-%c4%8dorba/'
+permalink: '/brza-paradajz-čorba/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Brzaparadajzcorba-940x198.jpg

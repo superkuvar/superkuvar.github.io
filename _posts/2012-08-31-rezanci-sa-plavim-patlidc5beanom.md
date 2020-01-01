@@ -5,7 +5,7 @@ date: 2012-08-31T13:25:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4132
-permalink: '/rezanci-sa-plavim-patlid%c5%beanom/'
+permalink: '/rezanci-sa-plavim-patlidžanom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Rezanci-sa-patlidzanom-940x198.jpg

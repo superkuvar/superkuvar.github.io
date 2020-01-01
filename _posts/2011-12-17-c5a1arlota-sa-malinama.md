@@ -5,7 +5,7 @@ date: 2011-12-17T15:00:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2075
-permalink: '/%c5%a1arlota-sa-malinama/'
+permalink: '/šarlota-sa-malinama/'
 totvreme:
   - ""
 categories:

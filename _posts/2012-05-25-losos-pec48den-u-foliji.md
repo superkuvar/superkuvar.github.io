@@ -5,7 +5,7 @@ date: 2012-05-25T15:02:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3279
-permalink: '/losos-pe%c4%8den-u-foliji/'
+permalink: '/losos-pečen-u-foliji/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pečeni-losos-u-foliji-940x198.jpg
@@ -28,7 +28,7 @@ Potrebno je:
   * sok od jednog limuna
   * pola čaše ulja
 
-<img class="alignnone size-medium wp-image-3280" title="Pečeni losos u foliji" src="/wp-content/uploads/2012/05/Pe%C4%8Deni-losos-u-foliji-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3280" title="Pečeni losos u foliji" src="/wp-content/uploads/2012/05/Pečeni-losos-u-foliji-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: napraviti marinadu od ulja, najbolje maslinovog, bibera, suvog biljnog začina, peršuna, bosiljka, ruzmarina i soka od limuna.
 

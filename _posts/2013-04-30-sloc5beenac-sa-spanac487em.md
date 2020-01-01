@@ -5,7 +5,7 @@ date: 2013-04-30T05:17:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5640
-permalink: '/slo%c5%beenac-sa-spana%c4%87em/'
+permalink: '/složenac-sa-spanaćem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

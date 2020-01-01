@@ -5,7 +5,7 @@ date: 2011-03-25T10:12:36+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=253
-permalink: '/%c4%8dorba-od-povr%c4%87a/'
+permalink: '/čorba-od-povrća/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

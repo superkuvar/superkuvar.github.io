@@ -5,7 +5,7 @@ date: 2011-12-06T13:38:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1989
-permalink: '/su%c5%a1ene-paprike/'
+permalink: '/sušene-paprike/'
 totvreme:
   - ""
 categories:

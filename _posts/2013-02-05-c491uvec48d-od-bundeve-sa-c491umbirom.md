@@ -5,7 +5,7 @@ date: 2013-02-05T11:18:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5228
-permalink: '/%c4%91uve%c4%8d-od-bundeve-sa-%c4%91umbirom/'
+permalink: '/đuveč-od-bundeve-sa-đumbirom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

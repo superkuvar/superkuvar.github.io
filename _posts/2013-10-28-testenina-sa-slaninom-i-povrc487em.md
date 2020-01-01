@@ -5,7 +5,7 @@ date: 2013-10-28T07:27:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6209
-permalink: '/testenina-sa-slaninom-i-povr%c4%87em/'
+permalink: '/testenina-sa-slaninom-i-povrćem/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Testeninasaslaninomipovrcem-940x198.jpg

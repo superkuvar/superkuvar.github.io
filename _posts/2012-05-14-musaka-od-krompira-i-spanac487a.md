@@ -5,7 +5,7 @@ date: 2012-05-14T11:26:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3212
-permalink: '/musaka-od-krompira-i-spana%c4%87a/'
+permalink: '/musaka-od-krompira-i-spanaća/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Musaka-od-krompira-i-spanaća-940x198.jpg
@@ -36,7 +36,7 @@ Potrebno je:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-medium wp-image-3213" title="Musaka od krompira i spanaća" src="/wp-content/uploads/2012/05/Musaka-od-krompira-i-spana%C4%87a-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3213" title="Musaka od krompira i spanaća" src="/wp-content/uploads/2012/05/Musaka-od-krompira-i-spanaća-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: krompir oprati i neoljušten skuvati. Prohlađen krompir oljuštiti i iseći na kolutove. Spanać oprati, kratko obariti, ocediti a zatim iseći na rezance.
 

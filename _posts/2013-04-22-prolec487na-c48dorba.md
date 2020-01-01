@@ -5,7 +5,7 @@ date: 2013-04-22T15:42:53+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5615
-permalink: '/prole%c4%87na-%c4%8dorba/'
+permalink: '/prolećna-čorba/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

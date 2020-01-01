@@ -5,7 +5,7 @@ date: 2012-08-07T09:56:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3908
-permalink: '/zape%c4%8dene-tikvice-sa-grizom/'
+permalink: '/zapečene-tikvice-sa-grizom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Zapecenetikvicesagrizom-940x198.jpg

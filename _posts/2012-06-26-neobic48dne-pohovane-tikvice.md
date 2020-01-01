@@ -5,7 +5,7 @@ date: 2012-06-26T06:15:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3615
-permalink: '/neobi%c4%8dne-pohovane-tikvice/'
+permalink: '/neobične-pohovane-tikvice/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Neobičnepohovanetikvice-940x198.jpg
@@ -27,7 +27,7 @@ Potrebno je:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-3616" title="Neobičnepohovanetikvice" src="/wp-content/uploads/2012/06/Neobi%C4%8Dnepohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3616" title="Neobičnepohovanetikvice" src="/wp-content/uploads/2012/06/Neobičnepohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: tikvice oljuštiti, oprati i iseći na kolutove. Posoliti, ostaviti da odstoje desetak minuta, pa ocediti vodu.
 

@@ -27,7 +27,7 @@ Potrebno je:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-2844" title="Pita sa spanaćem i pirinčem" src="/wp-content/uploads/2012/03/Pita-sa-spana%C4%87em-i-pirin%C4%8Dem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2844" title="Pita sa spanaćem i pirinčem" src="/wp-content/uploads/2012/03/Pita-sa-spanaćem-i-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: pirinač oprati i skuvati u slanoj vodi, ali voditi računa da se ne prekuva. Kuvan pirinač ocediti.
 

@@ -5,7 +5,7 @@ date: 2011-08-17T11:23:22+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1743
-permalink: '/%c4%8dokoladni-%c4%8dupavci-sa-kokosom/'
+permalink: '/čokoladni-čupavci-sa-kokosom/'
 totvreme:
   - ""
 categories:

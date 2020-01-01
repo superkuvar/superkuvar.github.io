@@ -5,7 +5,7 @@ date: 2012-05-05T14:44:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3166
-permalink: '/krompir-paprika%c5%a1-sa-piletinom/'
+permalink: '/krompir-paprikaš-sa-piletinom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Krompir-paprikaš-sa-piletinom-940x198.jpg
@@ -32,7 +32,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3167" title="Krompir paprikaš sa piletinom" src="/wp-content/uploads/2012/05/Krompir-paprika%C5%A1-sa-piletinom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3167" title="Krompir paprikaš sa piletinom" src="/wp-content/uploads/2012/05/Krompir-paprikaš-sa-piletinom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: luk očistiti, sitno iseckati i propržiti zajedno sa pilećim mesom na malo ulja.
 

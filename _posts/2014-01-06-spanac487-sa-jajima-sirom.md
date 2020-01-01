@@ -5,7 +5,7 @@ date: 2014-01-06T08:38:05+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6463
-permalink: '/spana%c4%87-sa-jajima-sirom/'
+permalink: '/spanać-sa-jajima-sirom/'
 totvreme:
   - "25"
 image: /wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom-940x198.jpg

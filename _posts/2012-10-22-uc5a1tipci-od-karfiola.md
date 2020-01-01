@@ -5,7 +5,7 @@ date: 2012-10-22T05:56:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4527
-permalink: '/u%c5%a1tipci-od-karfiola/'
+permalink: '/uštipci-od-karfiola/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

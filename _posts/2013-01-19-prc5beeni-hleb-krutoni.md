@@ -5,7 +5,7 @@ date: 2013-01-19T15:12:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5093
-permalink: '/pr%c5%beeni-hleb-krutoni/'
+permalink: '/prženi-hleb-krutoni/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

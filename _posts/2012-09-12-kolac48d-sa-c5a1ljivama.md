@@ -5,7 +5,7 @@ date: 2012-09-12T12:38:46+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4254
-permalink: '/kola%c4%8d-sa-%c5%a1ljivama/'
+permalink: '/kolač-sa-šljivama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Kolac-sa-sljivama-940x198.jpg

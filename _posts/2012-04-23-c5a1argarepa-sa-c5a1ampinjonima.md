@@ -5,7 +5,7 @@ date: 2012-04-23T11:25:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3029
-permalink: '/%c5%a1argarepa-sa-%c5%a1ampinjonima/'
+permalink: '/šargarepa-sa-šampinjonima/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Šargarepa-sa-šampinjonima-940x198.jpg
@@ -30,7 +30,7 @@ Potrebno je:
   * kašika skroba ili brašna
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3030" title="Šargarepa sa šampinjonima" src="/wp-content/uploads/2012/04/%C5%A0argarepa-sa-%C5%A1ampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3030" title="Šargarepa sa šampinjonima" src="/wp-content/uploads/2012/04/%C5%A0argarepa-sa-šampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: šargarepu oprati, očistiti i iseći na kraće štapiće.  ampinjone oprati i iseći na listiće.
 

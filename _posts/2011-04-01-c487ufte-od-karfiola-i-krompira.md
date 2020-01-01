@@ -5,7 +5,7 @@ date: 2011-04-01T09:00:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=392
-permalink: '/%c4%87ufte-od-karfiola-i-krompira/'
+permalink: '/ćufte-od-karfiola-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

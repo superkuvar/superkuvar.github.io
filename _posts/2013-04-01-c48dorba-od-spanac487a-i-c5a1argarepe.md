@@ -5,7 +5,7 @@ date: 2013-04-01T08:14:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5548
-permalink: '/%c4%8dorba-od-spana%c4%87a-i-%c5%a1argarepe/'
+permalink: '/čorba-od-spanaća-i-šargarepe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

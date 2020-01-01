@@ -5,7 +5,7 @@ date: 2012-09-01T16:02:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4148
-permalink: '/d%c5%beem-od-jagoda/'
+permalink: '/džem-od-jagoda/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Dzem-od-jagoda-940x198.jpg

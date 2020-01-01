@@ -5,7 +5,7 @@ date: 2012-08-15T15:15:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3986
-permalink: '/slatko-od-vi%c5%a1anja/'
+permalink: '/slatko-od-višanja/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Slatkoodvisanja-940x198.jpg

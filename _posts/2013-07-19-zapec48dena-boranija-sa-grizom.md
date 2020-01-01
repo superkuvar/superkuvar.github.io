@@ -5,7 +5,7 @@ date: 2013-07-19T15:19:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5914
-permalink: '/zape%c4%8dena-boranija-sa-grizom/'
+permalink: '/zapečena-boranija-sa-grizom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Zapecenaboranijasagrizom-940x198.jpg

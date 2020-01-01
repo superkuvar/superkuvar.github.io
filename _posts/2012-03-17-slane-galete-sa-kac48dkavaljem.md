@@ -5,7 +5,7 @@ date: 2012-03-17T15:12:36+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2700
-permalink: '/slane-galete-sa-ka%c4%8dkavaljem/'
+permalink: '/slane-galete-sa-kačkavaljem/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-06-03T10:37:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=924
-permalink: '/povr%c4%87e-kao-prilog/'
+permalink: '/povrće-kao-prilog/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

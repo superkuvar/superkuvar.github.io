@@ -5,7 +5,7 @@ date: 2011-07-18T14:19:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1541
-permalink: '/urma%c5%a1ice-s-kokosom/'
+permalink: '/urmašice-s-kokosom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

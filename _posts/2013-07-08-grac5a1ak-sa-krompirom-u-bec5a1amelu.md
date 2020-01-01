@@ -5,7 +5,7 @@ date: 2013-07-08T06:26:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5865
-permalink: '/gra%c5%a1ak-sa-krompirom-u-be%c5%a1amelu/'
+permalink: '/grašak-sa-krompirom-u-bešamelu/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Grasaksakrompiromubesamelu-940x198.jpg

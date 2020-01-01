@@ -5,7 +5,7 @@ date: 2013-06-20T15:08:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5800
-permalink: '/lagani-kola%c4%8d-sa-jagodama/'
+permalink: '/lagani-kolač-sa-jagodama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

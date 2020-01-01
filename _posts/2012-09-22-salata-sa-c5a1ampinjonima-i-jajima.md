@@ -5,7 +5,7 @@ date: 2012-09-22T12:37:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4340
-permalink: '/salata-sa-%c5%a1ampinjonima-i-jajima/'
+permalink: '/salata-sa-šampinjonima-i-jajima/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-940x198.jpg

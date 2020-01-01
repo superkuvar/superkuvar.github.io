@@ -5,7 +5,7 @@ date: 2012-10-05T15:14:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4426
-permalink: '/mafini-sa-d%c5%beemom/'
+permalink: '/mafini-sa-džemom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

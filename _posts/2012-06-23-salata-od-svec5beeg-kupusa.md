@@ -5,7 +5,7 @@ date: 2012-06-23T14:23:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3586
-permalink: '/salata-od-sve%c5%beeg-kupusa/'
+permalink: '/salata-od-svežeg-kupusa/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodsvežegkupusa-940x198.jpg
@@ -23,7 +23,7 @@ Potrebno je:
   * sirće
   * biber
 
-<img class="alignnone size-medium wp-image-3587" title="Salataodsvežegkupusa" src="/wp-content/uploads/2012/06/Salataodsve%C5%BEegkupusa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3587" title="Salataodsvežegkupusa" src="/wp-content/uploads/2012/06/Salataodsvežegkupusa-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: kupus očistiti od spoljnih listova, oprati i iseći na pola ili četvrtine, uzduž po korenu. Ukloniti koren, pa kupus iseći nožem na tanke rezance ili izrendati pomoću rendeta, a može se isitniti i u &#8221;secku&#8221;.
 

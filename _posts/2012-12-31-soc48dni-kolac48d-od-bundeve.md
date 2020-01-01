@@ -5,7 +5,7 @@ date: 2012-12-31T13:44:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4985
-permalink: '/so%c4%8dni-kola%c4%8d-od-bundeve/'
+permalink: '/sočni-kolač-od-bundeve/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

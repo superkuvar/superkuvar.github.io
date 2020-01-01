@@ -5,7 +5,7 @@ date: 2012-09-06T11:03:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4221
-permalink: '/d%c5%beem-od-bresaka-i-%c5%a1ljiva/'
+permalink: '/džem-od-bresaka-i-šljiva/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Dzemodbresakaisljiva-940x198.jpg

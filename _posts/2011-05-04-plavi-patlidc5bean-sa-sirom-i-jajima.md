@@ -5,7 +5,7 @@ date: 2011-05-04T09:04:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=453
-permalink: '/plavi-patlid%c5%bean-sa-sirom-i-jajima/'
+permalink: '/plavi-patlidžan-sa-sirom-i-jajima/'
 totvreme:
   - ""
 categories:

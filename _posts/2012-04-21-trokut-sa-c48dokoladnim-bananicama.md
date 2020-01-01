@@ -5,7 +5,7 @@ date: 2012-04-21T15:43:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3010
-permalink: '/trokut-sa-%c4%8dokoladnim-bananicama/'
+permalink: '/trokut-sa-čokoladnim-bananicama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Trokut-sa-bananicama2-940x198.jpg

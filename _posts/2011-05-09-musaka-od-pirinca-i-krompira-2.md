@@ -31,7 +31,7 @@ Potrebno je:
   * 2 jajeta
   * veća čaša milerama
 
-<img class="alignnone size-medium wp-image-3094" title="Musaka od pirinča i krompira" src="/wp-content/uploads/2011/05/Musaka-od-pirin%C4%8Da-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3094" title="Musaka od pirinča i krompira" src="/wp-content/uploads/2011/05/Musaka-od-pirinča-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: na ulju ispržiti iseckani crni luk, dodati pirinač, naliti ga vodom da ogrezne i pirjaniti. Dodati malo origana, posoliti i pobiberiti po ukusu.
 

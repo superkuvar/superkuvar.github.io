@@ -5,7 +5,7 @@ date: 2011-04-01T10:24:27+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=411
-permalink: '/pire-od-%c5%a1argarepe-i-krompira/'
+permalink: '/pire-od-šargarepe-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2013-11-14T07:01:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6268
-permalink: '/musaka-od-patlid%c5%beana-i-krompira/'
+permalink: '/musaka-od-patlidžana-i-krompira/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira-940x198.jpg

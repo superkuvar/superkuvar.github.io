@@ -5,7 +5,7 @@ date: 2012-07-21T10:33:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3777
-permalink: '/pita-bez-kora-sa-pe%c4%8durkama/'
+permalink: '/pita-bez-kora-sa-pečurkama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Pitabezkorasapecurkama-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-06-10T11:50:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1051
-permalink: '/%c5%a1nicle-od-d%c5%beigerice-2/'
+permalink: '/šnicle-od-džigerice-2/'
 totvreme:
   - ""
 categories:

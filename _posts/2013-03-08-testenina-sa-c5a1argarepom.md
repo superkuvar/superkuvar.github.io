@@ -5,7 +5,7 @@ date: 2013-03-08T07:01:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5417
-permalink: '/testenina-sa-%c5%a1argarepom/'
+permalink: '/testenina-sa-šargarepom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

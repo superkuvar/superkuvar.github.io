@@ -5,7 +5,7 @@ date: 2013-01-24T09:50:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5157
-permalink: '/zape%c4%8deni-kupus-sa-jajima/'
+permalink: '/zapečeni-kupus-sa-jajima/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

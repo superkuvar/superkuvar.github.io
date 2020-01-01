@@ -5,7 +5,7 @@ date: 2012-03-15T14:41:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2685
-permalink: '/slane-princes-krofne-sa-%c5%a1unkom/'
+permalink: '/slane-princes-krofne-sa-šunkom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Slane-princes-krofne-sa-šunkom-940x198.jpg
@@ -26,7 +26,7 @@ Potrebno je:
   * 150 grama praške šunke ili pečenice
   * malo soli
 
-<img class="alignnone size-medium wp-image-2686" title="Slane princes krofne sa šunkom" src="/wp-content/uploads/2012/03/Slane-princes-krofne-sa-%C5%A1unkom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2686" title="Slane princes krofne sa šunkom" src="/wp-content/uploads/2012/03/Slane-princes-krofne-sa-šunkom-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: u sud sipati vodu i staviti na štednjak. Kada provri, uz mešanje, sipati ulje, brašno i na vrh noža soli. Skloniti sa štednjaka, prohladiti, a zatim dodavati jaja, jedno po jedno, uz neprestano mešanje varjačom. U pripremljeno testo umešati iseckanu prašku šunku ili pečenicu.
 

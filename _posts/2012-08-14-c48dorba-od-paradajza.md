@@ -5,7 +5,7 @@ date: 2012-08-14T10:05:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3953
-permalink: '/%c4%8dorba-od-paradajza/'
+permalink: '/čorba-od-paradajza/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Čorba-od-paradajza-940x198.jpg

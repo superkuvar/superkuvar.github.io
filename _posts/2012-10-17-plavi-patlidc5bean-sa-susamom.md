@@ -5,7 +5,7 @@ date: 2012-10-17T10:25:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4501
-permalink: '/plavi-patlid%c5%bean-sa-susamom/'
+permalink: '/plavi-patlidžan-sa-susamom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

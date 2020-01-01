@@ -5,7 +5,7 @@ date: 2012-04-27T10:57:15+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3077
-permalink: '/%c5%a1trudla-sa-makom/'
+permalink: '/štrudla-sa-makom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Štrudla-sa-makom-940x198.jpg

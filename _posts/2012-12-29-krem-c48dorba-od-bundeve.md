@@ -5,7 +5,7 @@ date: 2012-12-29T14:10:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4968
-permalink: '/krem-%c4%8dorba-od-bundeve/'
+permalink: '/krem-čorba-od-bundeve/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

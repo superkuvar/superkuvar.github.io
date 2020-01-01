@@ -5,7 +5,7 @@ date: 2013-05-04T12:07:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5653
-permalink: '/zape%c4%8deni-prokelj-u-be%c5%a1amelu/'
+permalink: '/zapečeni-prokelj-u-bešamelu/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

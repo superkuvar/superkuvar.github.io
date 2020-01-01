@@ -5,7 +5,7 @@ date: 2013-02-02T16:33:26+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5211
-permalink: '/biskvit-rolat-sa-d%c5%beemom/'
+permalink: '/biskvit-rolat-sa-džemom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

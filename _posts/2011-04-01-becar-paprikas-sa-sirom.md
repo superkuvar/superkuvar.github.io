@@ -30,7 +30,7 @@ Potrebno je:
   * bosiljak
   * seckani peršunov list
 
-<img class="alignnone size-medium wp-image-3491" title="Bećarpaprikašsasirom" src="/wp-content/uploads/2011/04/Be%C4%87arpaprika%C5%A1sasirom-e1339756838176-300x229.jpg" alt="" width="300" height="229" /> 
+<img class="alignnone size-medium wp-image-3491" title="Bećarpaprikašsasirom" src="/wp-content/uploads/2011/04/Bećarpaprikašsasirom-e1339756838176-300x229.jpg" alt="" width="300" height="229" /> 
 
 Priprema: paprike oprati, ispeći, oljuštiti, očistiti od semena i iseći na rezance. Na ulju propržiti sitno seckani crni luk, pa dodati oljušten i iseckan paradajz i uz mešanje pržiti sve dok voda ne ispari.
 

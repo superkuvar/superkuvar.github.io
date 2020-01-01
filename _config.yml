@@ -2,7 +2,7 @@ title: SUPER KUVAR 🍳
 logo: /assets/img/logo.png
 description: Tradicioalna kuhinja i praktični recepti iz bakinih vitrina.
 google_analytics: UA-42249092-1
-
+redirects: yes
 plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag

@@ -5,7 +5,7 @@ date: 2011-06-07T11:30:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=974
-permalink: '/%c4%87ufte-u-paradajz-sosu/'
+permalink: '/ćufte-u-paradajz-sosu/'
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2011-06-18T14:15:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1172
-permalink: '/gratinirane-pala%c4%8dinke-sa-pe%c4%8durkama/'
+permalink: '/gratinirane-palačinke-sa-pečurkama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2011/06/gratiniranepalacinke1-940x198.jpg

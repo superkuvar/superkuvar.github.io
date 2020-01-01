@@ -5,7 +5,7 @@ date: 2011-09-08T12:12:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1854
-permalink: '/zimska-me%c5%a1ana-salata/'
+permalink: '/zimska-mešana-salata/'
 totvreme:
   - ""
 categories:

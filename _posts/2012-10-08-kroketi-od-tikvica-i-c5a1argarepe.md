@@ -5,7 +5,7 @@ date: 2012-10-08T16:01:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4455
-permalink: '/kroketi-od-tikvica-i-%c5%a1argarepe/'
+permalink: '/kroketi-od-tikvica-i-šargarepe/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

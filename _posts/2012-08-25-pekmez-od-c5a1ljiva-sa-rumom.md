@@ -5,7 +5,7 @@ date: 2012-08-25T15:03:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4098
-permalink: '/pekmez-od-%c5%a1ljiva-sa-rumom/'
+permalink: '/pekmez-od-šljiva-sa-rumom/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Pekmezodslivasarumom-940x198.jpg

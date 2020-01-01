@@ -5,7 +5,7 @@ date: 2013-02-27T07:25:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5358
-permalink: '/zape%c4%8dene-makarone-sa-pe%c4%8durkama/'
+permalink: '/zapečene-makarone-sa-pečurkama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

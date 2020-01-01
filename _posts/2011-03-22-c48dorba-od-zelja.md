@@ -5,7 +5,7 @@ date: 2011-03-22T10:41:10+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=191
-permalink: '/%c4%8dorba-od-zelja/'
+permalink: '/čorba-od-zelja/'
 totvreme:
   - ""
 categories:

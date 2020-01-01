@@ -5,7 +5,7 @@ date: 2012-09-11T12:06:26+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4241
-permalink: '/fileti-osli%c4%87a-u-sosu-od-%c5%a1ljiva/'
+permalink: '/fileti-oslića-u-sosu-od-šljiva/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Oslicsasljivama-940x198.jpg

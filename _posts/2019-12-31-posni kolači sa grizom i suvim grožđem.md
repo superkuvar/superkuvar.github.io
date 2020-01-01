@@ -29,7 +29,7 @@ Pomešati brašno sa praškom za pecivo, dodati griz i orahe (najbolje pola mlev
 
 Dodati vanil šećer. Masu dobro izmešati i sipati u pleh podmazan i posut brašnom. 
 
-Peći u rermi zagrejanoj na oko 200 stepeni. 
+Peći u rerni zagrejanoj na oko 200 stepeni. 
 
 Za to vreme skuvati sirup od 3 šolje šećera i 2 šolje vode, da bude gust kao za slatko.
 

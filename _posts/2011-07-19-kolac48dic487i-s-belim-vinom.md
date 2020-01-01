@@ -5,7 +5,7 @@ date: 2011-07-19T09:35:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1572
-permalink: '/kola%c4%8di%c4%87i-s-belim-vinom/'
+permalink: '/kolačići-s-belim-vinom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

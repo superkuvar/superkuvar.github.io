@@ -5,7 +5,7 @@ date: 2011-03-30T07:54:15+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=335
-permalink: '/krompir-na-vojvo%c4%91anski-na%c4%8din/'
+permalink: '/krompir-na-vojvođanski-način/'
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/krompirnavojvodjanskinacin-940x198.jpg

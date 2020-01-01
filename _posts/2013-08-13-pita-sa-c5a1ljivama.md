@@ -5,7 +5,7 @@ date: 2013-08-13T07:01:03+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5994
-permalink: '/pita-sa-%c5%a1ljivama/'
+permalink: '/pita-sa-šljivama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Pita-sa-sljivama-940x198.jpg

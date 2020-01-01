@@ -5,7 +5,7 @@ date: 2011-05-11T10:06:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=549
-permalink: '/ri%c5%beoto-sa-gra%c5%a1kom/'
+permalink: '/rižoto-sa-graškom/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

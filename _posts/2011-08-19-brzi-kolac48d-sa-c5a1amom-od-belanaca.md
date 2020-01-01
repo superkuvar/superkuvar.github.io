@@ -5,7 +5,7 @@ date: 2011-08-19T12:03:44+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1762
-permalink: '/brzi-kola%c4%8d-sa-%c5%a1amom-od-belanaca/'
+permalink: '/brzi-kolač-sa-šamom-od-belanaca/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

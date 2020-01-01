@@ -5,7 +5,7 @@ date: 2013-09-13T15:37:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6104
-permalink: '/pita-sa-pe%c4%8durkama/'
+permalink: '/pita-sa-pečurkama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Pitasapecurkama-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-08-25T16:12:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4106
-permalink: '/pe%c4%8den-pekmez-od-%c5%a1ljiva/'
+permalink: '/pečen-pekmez-od-šljiva/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Pecenpekmezodsljiva-940x198.jpg

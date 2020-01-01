@@ -5,7 +5,7 @@ date: 2013-08-21T15:16:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6055
-permalink: '/varivo-od-%c5%a1argarepe/'
+permalink: '/varivo-od-šargarepe/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Varivo-od-sargarepe-940x198.jpg

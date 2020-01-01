@@ -5,7 +5,7 @@ date: 2013-08-06T06:48:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5961
-permalink: '/varivo-od-%c5%a1argarepe-i-gra%c5%a1ka/'
+permalink: '/varivo-od-šargarepe-i-graška/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Varivosagraskomisargarepom-940x198.jpg

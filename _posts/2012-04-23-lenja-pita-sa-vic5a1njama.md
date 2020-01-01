@@ -5,7 +5,7 @@ date: 2012-04-23T10:01:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3017
-permalink: '/lenja-pita-sa-vi%c5%a1njama/'
+permalink: '/lenja-pita-sa-višnjama/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Lenja-pita-sa-višnjama-940x198.jpg
@@ -32,7 +32,7 @@ Potrebno je:
   * šećer u prahu
   * 1 kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3018" title="Lenja pita sa višnjama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-vi%C5%A1njama-e1335174706593-300x237.jpg" alt="" width="300" height="237" /> 
+<img class="alignnone size-medium wp-image-3018" title="Lenja pita sa višnjama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-višnjama-e1335174706593-300x237.jpg" alt="" width="300" height="237" /> 
 
 Priprema: u sudu za mešenje penasto umutiti margarin sa šećerom i žumancima, dodati mleko, prašak za pecivo, brašno i sneg od belanaca. Zamesiti mekano testo.
 

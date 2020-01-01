@@ -5,7 +5,7 @@ date: 2012-05-25T14:28:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3272
-permalink: '/krem-%c5%a1trudla/'
+permalink: '/krem-štrudla/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Krem-štrudla-940x198.jpg
@@ -39,7 +39,7 @@ Sirup
   * 2 čaše vode
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="/wp-content/uploads/2012/05/Krem-%C5%A1trudla-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="/wp-content/uploads/2012/05/Krem-štrudla-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: podeliti kore na tri jednaka dela. Umutiti jaja sa šećerom, dodati brašno i narendanu koru od limuna.
 

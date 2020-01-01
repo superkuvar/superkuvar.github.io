@@ -28,7 +28,7 @@ Potrebno je:
   * origano
   * ulje
 
-<img class="alignnone size-medium wp-image-2567" title="Jelo od šargarepe" src="/wp-content/uploads/2012/02/Jelo-od-%C5%A1argarepe-e1330181164398.jpg" alt="" width="287" height="225" /> 
+<img class="alignnone size-medium wp-image-2567" title="Jelo od šargarepe" src="/wp-content/uploads/2012/02/Jelo-od-šargarepe-e1330181164398.jpg" alt="" width="287" height="225" /> 
 
 Priprema: šargarepu oprati, očistiti i iseći na štapiće. Crni luk oljuštiti, sitno iseći i propržiti na ulju, da malo omekša. U propržen luk dodati šargarepu i kašičicu šećera.
 

@@ -5,7 +5,7 @@ date: 2011-03-29T07:53:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=305
-permalink: '/%c4%8dorba-od-%c5%a1ampinjona-i-krompira/'
+permalink: '/čorba-od-šampinjona-i-krompira/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

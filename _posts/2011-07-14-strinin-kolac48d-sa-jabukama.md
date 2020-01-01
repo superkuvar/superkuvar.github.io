@@ -5,7 +5,7 @@ date: 2011-07-14T12:27:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1449
-permalink: '/strinin-kola%c4%8d-sa-jabukama/'
+permalink: '/strinin-kolač-sa-jabukama/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

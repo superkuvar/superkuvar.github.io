@@ -5,7 +5,7 @@ date: 2012-08-16T11:43:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3997
-permalink: '/jednostavni-%c4%91uve%c4%8d/'
+permalink: '/jednostavni-đuveč/'
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Jednostavnidjuveč-940x198.jpg
@@ -29,7 +29,7 @@ Potrebno je:
   * majoran
   * mlevena začinska paprika
 
-<img class="alignnone size-medium wp-image-3998" title="Jednostavnidjuveč" src="/wp-content/uploads/2012/08/Jednostavnidjuve%C4%8D-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3998" title="Jednostavnidjuveč" src="/wp-content/uploads/2012/08/Jednostavnidjuveč-300x225.jpg" alt="" width="300" height="225" /> 
 
 Priprema: povrće oprati, očistiti i iseći, krompir na kocke, a šargarepu i paprike na kolutove.
 

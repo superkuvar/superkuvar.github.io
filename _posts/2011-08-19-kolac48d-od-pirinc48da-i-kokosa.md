@@ -5,7 +5,7 @@ date: 2011-08-19T11:13:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1757
-permalink: '/kola%c4%8d-od-pirin%c4%8da-i-kokosa/'
+permalink: '/kolač-od-pirinča-i-kokosa/'
 totvreme:
   - ""
 categories:

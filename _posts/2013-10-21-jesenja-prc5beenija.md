@@ -5,7 +5,7 @@ date: 2013-10-21T06:13:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6189
-permalink: '/jesenja-pr%c5%beenija/'
+permalink: '/jesenja-prženija/'
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Jesenjaprzenija-940x198.jpg

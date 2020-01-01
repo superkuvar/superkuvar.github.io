@@ -5,7 +5,7 @@ date: 2011-03-25T11:11:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=259
-permalink: '/%c4%8dorba-od-%c5%a1ampinjona-na-doma%c4%87i-na%c4%8din/'
+permalink: '/čorba-od-šampinjona-na-domaći-način/'
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
