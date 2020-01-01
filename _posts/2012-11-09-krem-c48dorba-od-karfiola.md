@@ -5,7 +5,7 @@ date: 2012-11-09T06:50:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4654
-permalink: '/krem-čorba-od-karfiola/'
+permalink: /krem-čorba-od-karfiola/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

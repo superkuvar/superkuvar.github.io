@@ -5,7 +5,7 @@ date: 2012-05-31T05:52:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3307
-permalink: '/projice-sa-spanaćem/'
+permalink: /projice-sa-spanaćem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Projice-sa-spanaćem-940x198.jpg

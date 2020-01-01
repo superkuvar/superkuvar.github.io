@@ -5,7 +5,7 @@ date: 2011-06-10T12:26:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1059
-permalink: '/džigerica-sa-pavlakom/'
+permalink: /džigerica-sa-pavlakom/
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2012-01-20T10:19:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2283
-permalink: '/čorba-od-bundeve-i-šargarepe/'
+permalink: /čorba-od-bundeve-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Corba-tikva+mrkva-1-940x198.jpg

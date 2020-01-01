@@ -5,7 +5,7 @@ date: 2013-01-22T09:27:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5142
-permalink: '/tamni-kolač-sa-jabukama/'
+permalink: /tamni-kolač-sa-jabukama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

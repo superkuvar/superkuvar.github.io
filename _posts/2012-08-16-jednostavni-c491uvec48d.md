@@ -5,7 +5,7 @@ date: 2012-08-16T11:43:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3997
-permalink: '/jednostavni-đuveč/'
+permalink: /jednostavni-đuveč/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Jednostavnidjuveč-940x198.jpg

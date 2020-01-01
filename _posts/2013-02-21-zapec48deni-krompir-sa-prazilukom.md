@@ -5,7 +5,7 @@ date: 2013-02-21T06:40:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5310
-permalink: '/zapečeni-krompir-sa-prazilukom/'
+permalink: /zapečeni-krompir-sa-prazilukom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

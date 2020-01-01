@@ -5,7 +5,7 @@ date: 2012-06-23T14:23:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3586
-permalink: '/salata-od-svežeg-kupusa/'
+permalink: /salata-od-svežeg-kupusa/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodsvežegkupusa-940x198.jpg

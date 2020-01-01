@@ -5,7 +5,7 @@ date: 2011-06-15T08:54:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1074
-permalink: '/paprikaš-sa-svinjetinom/'
+permalink: /paprikaš-sa-svinjetinom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

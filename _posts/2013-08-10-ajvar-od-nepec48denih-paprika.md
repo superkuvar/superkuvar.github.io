@@ -5,7 +5,7 @@ date: 2013-08-10T11:33:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5979
-permalink: '/ajvar-od-nepečenih-paprika/'
+permalink: /ajvar-od-nepečenih-paprika/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika-940x198.jpg

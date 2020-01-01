@@ -5,7 +5,7 @@ date: 2011-06-17T09:31:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1125
-permalink: '/dinstano-meso-sa-povrćem/'
+permalink: /dinstano-meso-sa-povrćem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

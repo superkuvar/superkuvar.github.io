@@ -5,7 +5,7 @@ date: 2013-04-05T08:24:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5566
-permalink: '/kolač-sa-jogurtom-i-orasima/'
+permalink: /kolač-sa-jogurtom-i-orasima/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

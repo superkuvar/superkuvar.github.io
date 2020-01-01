@@ -5,7 +5,7 @@ date: 2013-01-04T15:29:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5018
-permalink: '/suve-paprike-punjene-pečurkama/'
+permalink: /suve-paprike-punjene-pečurkama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

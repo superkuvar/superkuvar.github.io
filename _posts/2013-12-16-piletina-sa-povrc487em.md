@@ -5,7 +5,7 @@ date: 2013-12-16T07:03:41+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6328
-permalink: '/piletina-sa-povrćem/'
+permalink: /piletina-sa-povrćem/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Piletinasapovrcem-940x198.jpg

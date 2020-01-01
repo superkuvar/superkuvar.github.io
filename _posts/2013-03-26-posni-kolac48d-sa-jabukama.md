@@ -5,7 +5,7 @@ date: 2013-03-26T07:08:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5524
-permalink: '/posni-kolač-sa-jabukama/'
+permalink: /posni-kolač-sa-jabukama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

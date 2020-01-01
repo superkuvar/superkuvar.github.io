@@ -5,7 +5,7 @@ date: 2011-03-24T11:28:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=238
-permalink: '/čorba-od-šargarepe/'
+permalink: /čorba-od-šargarepe/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

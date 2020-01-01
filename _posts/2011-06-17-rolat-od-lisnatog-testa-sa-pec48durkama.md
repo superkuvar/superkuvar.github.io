@@ -5,7 +5,7 @@ date: 2011-06-17T12:23:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1144
-permalink: '/rolat-od-lisnatog-testa-sa-pečurkama/'
+permalink: /rolat-od-lisnatog-testa-sa-pečurkama/
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2011-03-24T11:37:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=240
-permalink: '/čorba-od-celera/'
+permalink: /čorba-od-celera/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

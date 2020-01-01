@@ -5,7 +5,7 @@ date: 2012-04-05T06:20:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2868
-permalink: '/pileće-belo-meso-sa-pirinčem/'
+permalink: /pileće-belo-meso-sa-pirinčem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Pileće-belo-meso-sa-pirinčem-940x198.jpg

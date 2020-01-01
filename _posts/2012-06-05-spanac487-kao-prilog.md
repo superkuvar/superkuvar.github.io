@@ -5,7 +5,7 @@ date: 2012-06-05T08:12:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3352
-permalink: '/spanać-kao-prilog/'
+permalink: /spanać-kao-prilog/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Spanać-kao-prilog1-940x198.jpg

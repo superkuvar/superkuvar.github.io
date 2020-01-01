@@ -5,7 +5,7 @@ date: 2013-06-03T15:25:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5718
-permalink: '/zapečene-slatke-makarone/'
+permalink: /zapečene-slatke-makarone/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-12-24T15:05:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2122
-permalink: '/kakao-kolač-sa-džemom/'
+permalink: /kakao-kolač-sa-džemom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

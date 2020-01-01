@@ -5,7 +5,7 @@ date: 2011-06-15T09:40:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1081
-permalink: '/šnicle-iz-rerne/'
+permalink: /šnicle-iz-rerne/
 totvreme:
   - ""
 categories:

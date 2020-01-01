@@ -5,7 +5,7 @@ date: 2013-10-31T07:27:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6214
-permalink: '/salata-od-patlidžana-sa-sirom/'
+permalink: /salata-od-patlidžana-sa-sirom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Salataodpatlidzanasasirom-940x198.jpg

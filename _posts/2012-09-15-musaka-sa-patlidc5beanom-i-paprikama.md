@@ -5,7 +5,7 @@ date: 2012-09-15T14:07:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4280
-permalink: '/musaka-sa-patlidžanom-i-paprikama/'
+permalink: /musaka-sa-patlidžanom-i-paprikama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Musakasapatlidzanomipaprikama-940x198.jpg

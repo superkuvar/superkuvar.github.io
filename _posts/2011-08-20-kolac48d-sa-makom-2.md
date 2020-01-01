@@ -5,7 +5,7 @@ date: 2011-08-20T15:30:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1770
-permalink: '/kolač-sa-makom-2/'
+permalink: /kolač-sa-makom-2/
 totvreme:
   - ""
 categories:

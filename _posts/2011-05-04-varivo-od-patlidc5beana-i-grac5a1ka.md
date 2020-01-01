@@ -5,7 +5,7 @@ date: 2011-05-04T08:43:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=451
-permalink: '/varivo-od-patlidžana-i-graška/'
+permalink: /varivo-od-patlidžana-i-graška/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

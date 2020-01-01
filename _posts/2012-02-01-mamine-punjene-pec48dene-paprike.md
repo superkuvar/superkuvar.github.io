@@ -5,7 +5,7 @@ date: 2012-02-01T13:28:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2396
-permalink: '/mamine-punjene-pečene-paprike/'
+permalink: /mamine-punjene-pečene-paprike/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Posne-paprike-pirinac+mrkva-940x198.jpg

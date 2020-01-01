@@ -5,7 +5,7 @@ date: 2013-06-15T15:51:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5763
-permalink: '/savijača-sa-blitvom/'
+permalink: /savijača-sa-blitvom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2013-01-31T06:50:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5196
-permalink: '/bečka-šnicla/'
+permalink: /bečka-šnicla/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

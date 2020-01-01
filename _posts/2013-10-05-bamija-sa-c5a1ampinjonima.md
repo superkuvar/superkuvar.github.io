@@ -5,7 +5,7 @@ date: 2013-10-05T12:50:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6158
-permalink: '/bamija-sa-šampinjonima/'
+permalink: /bamija-sa-šampinjonima/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Bamijasasampinjonima-940x198.jpg

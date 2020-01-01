@@ -5,7 +5,7 @@ date: 2012-03-13T07:13:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2645
-permalink: '/rolat-sa-pečurkama/'
+permalink: /rolat-sa-pečurkama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Rolat-sa-pečurkama-940x198.jpg

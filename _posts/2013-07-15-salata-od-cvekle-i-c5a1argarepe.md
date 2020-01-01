@@ -5,7 +5,7 @@ date: 2013-07-15T14:51:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5900
-permalink: '/salata-od-cvekle-i-šargarepe/'
+permalink: /salata-od-cvekle-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Salataodcvekleisargarepe1-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-06-06T12:24:05+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=958
-permalink: '/belo-meso-na-bečki-način/'
+permalink: /belo-meso-na-bečki-način/
 totvreme:
   - ""
 categories:

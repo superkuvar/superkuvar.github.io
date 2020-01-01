@@ -5,7 +5,7 @@ date: 2012-04-23T10:01:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3017
-permalink: '/lenja-pita-sa-višnjama/'
+permalink: /lenja-pita-sa-višnjama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Lenja-pita-sa-višnjama-940x198.jpg

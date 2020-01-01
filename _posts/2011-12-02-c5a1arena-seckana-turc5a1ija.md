@@ -5,7 +5,7 @@ date: 2011-12-02T13:52:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1966
-permalink: '/šarena-seckana-turšija/'
+permalink: /šarena-seckana-turšija/
 totvreme:
   - ""
 categories:

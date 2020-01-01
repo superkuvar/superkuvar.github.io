@@ -5,7 +5,7 @@ date: 2011-05-10T10:02:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=519
-permalink: '/pirinač-sa-belim-lukom/'
+permalink: /pirinač-sa-belim-lukom/
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2013-03-19T15:38:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5490
-permalink: '/pire-od-šargarepe/'
+permalink: /pire-od-šargarepe/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

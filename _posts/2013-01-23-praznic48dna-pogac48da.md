@@ -5,7 +5,7 @@ date: 2013-01-23T08:38:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5151
-permalink: '/praznična-pogača/'
+permalink: /praznična-pogača/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

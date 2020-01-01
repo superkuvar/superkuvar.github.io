@@ -5,7 +5,7 @@ date: 2011-03-21T11:13:16+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=163
-permalink: '/pileća-kisela-čorba/'
+permalink: /pileća-kisela-čorba/
 ingreedients:
   - ""
 recipeinstructions:

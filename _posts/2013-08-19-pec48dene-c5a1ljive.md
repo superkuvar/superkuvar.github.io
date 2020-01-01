@@ -5,7 +5,7 @@ date: 2013-08-19T06:29:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6033
-permalink: '/pečene-šljive/'
+permalink: /pečene-šljive/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Pecenesljive1-940x198.jpg

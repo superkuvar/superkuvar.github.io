@@ -5,7 +5,7 @@ date: 2012-09-17T11:10:50+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4306
-permalink: '/kiseli-krastavčići/'
+permalink: /kiseli-krastavčići/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Kiseli-kornisoni-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-07-18T08:41:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1503
-permalink: '/nanini-salčići/'
+permalink: /nanini-salčići/
 totvreme:
   - ""
 categories:

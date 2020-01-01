@@ -5,7 +5,7 @@ date: 2011-08-16T10:54:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1734
-permalink: '/kolač-sa-filom-od-kokosa/'
+permalink: /kolač-sa-filom-od-kokosa/
 totvreme:
   - ""
 categories:

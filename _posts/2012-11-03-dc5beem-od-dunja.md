@@ -5,7 +5,7 @@ date: 2012-11-03T17:08:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4620
-permalink: '/džem-od-dunja/'
+permalink: /džem-od-dunja/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

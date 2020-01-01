@@ -5,7 +5,7 @@ date: 2012-09-27T05:57:00+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4385
-permalink: '/patlidžan-sa-bešamel-sosom/'
+permalink: /patlidžan-sa-bešamel-sosom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Patlidzansabesamelom-940x198.jpg

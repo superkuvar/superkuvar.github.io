@@ -5,7 +5,7 @@ date: 2011-12-06T13:52:28+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1993
-permalink: '/nepečeni-kolač-od-keksa-i-jabuka/'
+permalink: /nepečeni-kolač-od-keksa-i-jabuka/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

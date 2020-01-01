@@ -5,7 +5,7 @@ date: 2013-07-05T06:11:46+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5856
-permalink: '/krem-čorba-od-tikvica-i-šargarepe/'
+permalink: /krem-čorba-od-tikvica-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Kremcorbaodtikvicaisargarepe-940x198.jpg

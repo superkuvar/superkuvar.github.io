@@ -5,7 +5,7 @@ date: 2012-04-23T11:25:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3029
-permalink: '/šargarepa-sa-šampinjonima/'
+permalink: /šargarepa-sa-šampinjonima/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Šargarepa-sa-šampinjonima-940x198.jpg

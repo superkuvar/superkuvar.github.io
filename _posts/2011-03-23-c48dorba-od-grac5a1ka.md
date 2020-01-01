@@ -5,7 +5,7 @@ date: 2011-03-23T12:09:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=222
-permalink: '/čorba-od-graška/'
+permalink: /čorba-od-graška/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

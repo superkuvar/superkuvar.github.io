@@ -5,7 +5,7 @@ date: 2011-09-08T12:00:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1850
-permalink: '/zimski-sataraš/'
+permalink: /zimski-sataraš/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/09/paradajzzasataras-940x198.jpg

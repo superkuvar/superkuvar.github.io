@@ -5,7 +5,7 @@ date: 2011-06-10T12:11:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1056
-permalink: '/džigerica-sa-senfom/'
+permalink: /džigerica-sa-senfom/
 totvreme:
   - ""
 categories:

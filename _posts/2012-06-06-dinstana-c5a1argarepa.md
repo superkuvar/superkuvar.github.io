@@ -5,7 +5,7 @@ date: 2012-06-06T11:30:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3366
-permalink: '/dinstana-šargarepa/'
+permalink: /dinstana-šargarepa/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

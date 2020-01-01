@@ -5,7 +5,7 @@ date: 2011-12-19T12:13:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2093
-permalink: '/kolač-od-belanaca/'
+permalink: /kolač-od-belanaca/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

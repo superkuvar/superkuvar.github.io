@@ -5,7 +5,7 @@ date: 2012-06-22T06:05:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3568
-permalink: '/salata-od-svežih-paprika/'
+permalink: /salata-od-svežih-paprika/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodsvežihpaprikasasirom-940x198.jpg

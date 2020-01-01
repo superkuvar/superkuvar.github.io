@@ -5,7 +5,7 @@ date: 2011-03-24T11:10:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=236
-permalink: '/čorba-od-krompira/'
+permalink: /čorba-od-krompira/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/čorba-od-krompira-940x198.jpg

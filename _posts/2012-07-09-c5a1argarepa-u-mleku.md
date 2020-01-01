@@ -5,7 +5,7 @@ date: 2012-07-09T06:09:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3686
-permalink: '/šargarepa-u-mleku/'
+permalink: /šargarepa-u-mleku/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Šargarepaumleku-940x198.jpg

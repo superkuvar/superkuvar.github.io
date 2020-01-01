@@ -5,7 +5,7 @@ date: 2013-07-29T13:57:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5941
-permalink: '/štrudla-sa-jabukama/'
+permalink: /štrudla-sa-jabukama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Štrudla-sa-jabukama-940x198.jpg

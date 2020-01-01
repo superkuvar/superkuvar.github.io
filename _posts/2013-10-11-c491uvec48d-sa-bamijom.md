@@ -5,7 +5,7 @@ date: 2013-10-11T14:42:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6167
-permalink: '/đuveč-sa-bamijom/'
+permalink: /đuveč-sa-bamijom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Djuvecsabamijom-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-09-10T14:59:12+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1907
-permalink: '/ajvar-sa-patlidžanom-i-renom/'
+permalink: /ajvar-sa-patlidžanom-i-renom/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-940x198.jpg

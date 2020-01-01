@@ -5,7 +5,7 @@ date: 2011-08-19T11:21:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1759
-permalink: '/kolač-od-griza-i-jabuka/'
+permalink: /kolač-od-griza-i-jabuka/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

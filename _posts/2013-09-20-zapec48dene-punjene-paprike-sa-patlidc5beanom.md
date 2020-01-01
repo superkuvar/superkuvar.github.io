@@ -5,7 +5,7 @@ date: 2013-09-20T06:36:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6118
-permalink: '/zapečene-punjene-paprike-sa-patlidžanom/'
+permalink: /zapečene-punjene-paprike-sa-patlidžanom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom-940x198.jpg

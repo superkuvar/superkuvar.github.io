@@ -5,7 +5,7 @@ date: 2011-06-18T12:01:27+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1155
-permalink: '/sos-od-šampinjona/'
+permalink: /sos-od-šampinjona/
 totvreme:
   - ""
 categories:

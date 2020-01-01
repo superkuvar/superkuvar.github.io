@@ -5,7 +5,7 @@ date: 2013-10-07T05:47:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6153
-permalink: '/krem-kolač-sa-breskvama/'
+permalink: /krem-kolač-sa-breskvama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Kremkolacsabreskvama-940x198.jpg

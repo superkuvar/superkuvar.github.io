@@ -5,7 +5,7 @@ date: 2012-11-26T07:49:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4814
-permalink: '/pita-gužvara-sa-spanaćem/'
+permalink: /pita-gužvara-sa-spanaćem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

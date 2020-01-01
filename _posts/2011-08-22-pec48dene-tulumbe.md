@@ -5,7 +5,7 @@ date: 2011-08-22T12:00:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1782
-permalink: '/pečene-tulumbe/'
+permalink: /pečene-tulumbe/
 totvreme:
   - ""
 categories:

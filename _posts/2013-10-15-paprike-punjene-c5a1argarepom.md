@@ -5,7 +5,7 @@ date: 2013-10-15T14:40:12+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6179
-permalink: '/paprike-punjene-šargarepom/'
+permalink: /paprike-punjene-šargarepom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Paprike-punjenesargarepom-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-09-26T06:11:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6135
-permalink: '/kolač-od-kiselog-testa-sa-šljivama/'
+permalink: /kolač-od-kiselog-testa-sa-šljivama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama-940x198.jpg

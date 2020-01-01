@@ -5,7 +5,7 @@ date: 2013-11-01T16:06:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6223
-permalink: '/salata-od-patlidžana-sa-pavlakom/'
+permalink: /salata-od-patlidžana-sa-pavlakom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom-940x198.jpg

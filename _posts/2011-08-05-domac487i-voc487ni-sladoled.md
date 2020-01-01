@@ -5,7 +5,7 @@ date: 2011-08-05T11:01:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1616
-permalink: '/domaći-voćni-sladoled/'
+permalink: /domaći-voćni-sladoled/
 totvreme:
   - ""
 categories:

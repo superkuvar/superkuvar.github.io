@@ -5,7 +5,7 @@ date: 2011-03-31T08:57:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=378
-permalink: '/zapečen-pasulj-sa-sirom/'
+permalink: /zapečen-pasulj-sa-sirom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

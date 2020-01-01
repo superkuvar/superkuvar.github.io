@@ -5,7 +5,7 @@ date: 2013-08-23T15:49:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6061
-permalink: '/zapečena-boranija-sa-krompirom/'
+permalink: /zapečena-boranija-sa-krompirom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom-940x198.jpg

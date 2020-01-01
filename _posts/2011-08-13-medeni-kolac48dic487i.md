@@ -5,7 +5,7 @@ date: 2011-08-13T15:21:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1715
-permalink: '/medeni-kolačići/'
+permalink: /medeni-kolačići/
 totvreme:
   - ""
 categories:

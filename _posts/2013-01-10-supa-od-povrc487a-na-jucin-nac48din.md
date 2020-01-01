@@ -5,7 +5,7 @@ date: 2013-01-10T07:18:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5055
-permalink: '/supa-od-povrća-na-jucin-način/'
+permalink: /supa-od-povrća-na-jucin-način/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

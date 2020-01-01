@@ -5,7 +5,7 @@ date: 2013-01-11T16:09:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5060
-permalink: '/francuski-voćni-kolač/'
+permalink: /francuski-voćni-kolač/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-12-24T15:51:57+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2124
-permalink: '/kolač-od-lisnatog-testa-sa-jabukama/'
+permalink: /kolač-od-lisnatog-testa-sa-jabukama/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama-940x198.jpg

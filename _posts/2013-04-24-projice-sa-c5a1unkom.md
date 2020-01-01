@@ -5,7 +5,7 @@ date: 2013-04-24T06:12:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5629
-permalink: '/projice-sa-šunkom/'
+permalink: /projice-sa-šunkom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

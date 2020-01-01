@@ -5,7 +5,7 @@ date: 2012-05-25T14:28:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3272
-permalink: '/krem-štrudla/'
+permalink: /krem-štrudla/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Krem-štrudla-940x198.jpg

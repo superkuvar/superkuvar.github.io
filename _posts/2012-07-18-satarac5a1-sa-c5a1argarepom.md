@@ -5,7 +5,7 @@ date: 2012-07-18T13:09:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3731
-permalink: '/sataraš-sa-šargarepom/'
+permalink: /sataraš-sa-šargarepom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Sataras-sa-sargarepom-940x198.jpg

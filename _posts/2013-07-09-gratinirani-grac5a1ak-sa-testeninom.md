@@ -5,7 +5,7 @@ date: 2013-07-09T14:39:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5872
-permalink: '/gratinirani-grašak-sa-testeninom/'
+permalink: /gratinirani-grašak-sa-testeninom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Gratiniranigrasaksatesteninom-940x198.jpg

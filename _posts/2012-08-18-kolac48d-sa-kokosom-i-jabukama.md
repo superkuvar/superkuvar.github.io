@@ -5,7 +5,7 @@ date: 2012-08-18T15:30:50+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4017
-permalink: '/kolač-sa-kokosom-i-jabukama/'
+permalink: /kolač-sa-kokosom-i-jabukama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Kolacsakokosomijabukama-940x198.jpg

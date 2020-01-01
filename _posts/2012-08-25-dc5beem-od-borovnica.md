@@ -5,7 +5,7 @@ date: 2012-08-25T16:25:02+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4111
-permalink: '/džem-od-borovnica/'
+permalink: /džem-od-borovnica/
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2013-08-05T07:15:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5957
-permalink: '/čorba-od-blitve-i-šargarepe/'
+permalink: /čorba-od-blitve-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Corbaodblitveisargarepe-940x198.jpg

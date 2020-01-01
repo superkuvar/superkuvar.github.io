@@ -5,7 +5,7 @@ date: 2012-04-11T06:22:57+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2920
-permalink: '/pita-bez-kora-sa-spanaćem/'
+permalink: /pita-bez-kora-sa-spanaćem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Pita-sa-spanaćem-bez-kora-940x198.jpg

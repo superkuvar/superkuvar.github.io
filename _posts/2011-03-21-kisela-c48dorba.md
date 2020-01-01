@@ -5,7 +5,7 @@ date: 2011-03-21T10:58:54+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=161
-permalink: '/kisela-čorba/'
+permalink: /kisela-čorba/
 totvreme:
   - ""
 ingreedients:

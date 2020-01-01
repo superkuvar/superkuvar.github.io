@@ -5,7 +5,7 @@ date: 2011-06-02T10:03:45+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=857
-permalink: '/zapečeni-kelj-sa-sirom/'
+permalink: /zapečeni-kelj-sa-sirom/
 totvreme:
   - ""
 categories:

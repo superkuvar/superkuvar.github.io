@@ -5,7 +5,7 @@ date: 2012-10-16T09:14:03+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4494
-permalink: '/čorba-od-karfiola/'
+permalink: /čorba-od-karfiola/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

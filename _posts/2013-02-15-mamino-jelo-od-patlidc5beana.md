@@ -5,7 +5,7 @@ date: 2013-02-15T07:09:14+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5260
-permalink: '/mamino-jelo-od-patlidžana/'
+permalink: /mamino-jelo-od-patlidžana/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

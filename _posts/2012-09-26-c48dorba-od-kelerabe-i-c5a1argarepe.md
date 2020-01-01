@@ -5,7 +5,7 @@ date: 2012-09-26T05:49:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4375
-permalink: '/čorba-od-kelerabe-i-šargarepe/'
+permalink: /čorba-od-kelerabe-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Corbaodkelerabeisargarepe-940x198.jpg

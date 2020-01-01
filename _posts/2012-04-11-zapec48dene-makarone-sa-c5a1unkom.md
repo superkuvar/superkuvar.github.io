@@ -5,7 +5,7 @@ date: 2012-04-11T15:42:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2926
-permalink: '/zapečene-makarone-sa-šunkom/'
+permalink: /zapečene-makarone-sa-šunkom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Zapečene-makarone-sa-šunkom-940x198.jpg

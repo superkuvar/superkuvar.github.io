@@ -5,7 +5,7 @@ date: 2011-03-28T07:54:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=278
-permalink: '/krem-čorba-od-šampinjona/'
+permalink: /krem-čorba-od-šampinjona/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-07-14T13:21:46+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1454
-permalink: '/puslice-klasične/'
+permalink: /puslice-klasične/
 totvreme:
   - ""
 categories:

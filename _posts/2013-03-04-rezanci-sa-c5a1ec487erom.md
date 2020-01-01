@@ -5,7 +5,7 @@ date: 2013-03-04T16:13:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5387
-permalink: '/rezanci-sa-šećerom/'
+permalink: /rezanci-sa-šećerom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

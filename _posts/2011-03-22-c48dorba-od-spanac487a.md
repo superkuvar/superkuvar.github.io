@@ -5,7 +5,7 @@ date: 2011-03-22T09:32:07+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=181
-permalink: '/čorba-od-spanaća/'
+permalink: /čorba-od-spanaća/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

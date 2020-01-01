@@ -5,7 +5,7 @@ date: 2011-08-17T10:37:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1739
-permalink: '/žuti-čupavci-od-kokosa/'
+permalink: /žuti-čupavci-od-kokosa/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Žutičupavcisakokosom-940x198.jpg

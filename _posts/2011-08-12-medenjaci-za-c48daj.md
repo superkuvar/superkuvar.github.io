@@ -5,7 +5,7 @@ date: 2011-08-12T09:28:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1676
-permalink: '/medenjaci-za-čaj/'
+permalink: /medenjaci-za-čaj/
 totvreme:
   - ""
 categories:

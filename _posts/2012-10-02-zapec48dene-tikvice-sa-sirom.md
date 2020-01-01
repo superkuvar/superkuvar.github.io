@@ -5,7 +5,7 @@ date: 2012-10-02T06:27:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4419
-permalink: '/zapečene-tikvice-sa-sirom/'
+permalink: /zapečene-tikvice-sa-sirom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

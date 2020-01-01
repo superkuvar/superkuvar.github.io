@@ -5,7 +5,7 @@ date: 2013-05-30T05:29:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5713
-permalink: '/projara-sa-spanaćem-i-ajvarom/'
+permalink: /projara-sa-spanaćem-i-ajvarom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

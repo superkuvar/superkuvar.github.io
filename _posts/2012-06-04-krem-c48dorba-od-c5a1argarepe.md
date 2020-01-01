@@ -5,7 +5,7 @@ date: 2012-06-04T09:09:41+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3325
-permalink: '/krem-čorba-od-šargarepe/'
+permalink: /krem-čorba-od-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Kremčorbaodšargarepe-940x198.jpg

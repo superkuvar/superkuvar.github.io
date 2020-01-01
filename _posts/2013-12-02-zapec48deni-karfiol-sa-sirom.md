@@ -5,7 +5,7 @@ date: 2013-12-02T07:00:20+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6300
-permalink: '/zapečeni-karfiol-sa-sirom/'
+permalink: /zapečeni-karfiol-sa-sirom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Zapecenikarfiolsasirom-940x198.jpg

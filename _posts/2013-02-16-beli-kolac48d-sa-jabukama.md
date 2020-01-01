@@ -5,7 +5,7 @@ date: 2013-02-16T16:18:13+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5265
-permalink: '/beli-kolač-sa-jabukama/'
+permalink: /beli-kolač-sa-jabukama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

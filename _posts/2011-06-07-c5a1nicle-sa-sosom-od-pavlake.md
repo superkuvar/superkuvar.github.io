@@ -5,7 +5,7 @@ date: 2011-06-07T14:15:31+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1000
-permalink: '/šnicle-sa-sosom-od-pavlake/'
+permalink: /šnicle-sa-sosom-od-pavlake/
 totvreme:
   - ""
 categories:

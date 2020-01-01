@@ -5,7 +5,7 @@ date: 2013-06-04T06:14:50+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5725
-permalink: '/kolač-sa-ribizlama/'
+permalink: /kolač-sa-ribizlama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

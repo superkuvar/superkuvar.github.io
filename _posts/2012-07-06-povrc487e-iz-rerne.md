@@ -5,7 +5,7 @@ date: 2012-07-06T06:07:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3673
-permalink: '/povrće-iz-rerne/'
+permalink: /povrće-iz-rerne/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Povrćeizrerne-940x198.jpg

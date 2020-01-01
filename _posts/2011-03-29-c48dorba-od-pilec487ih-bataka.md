@@ -5,7 +5,7 @@ date: 2011-03-29T08:35:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=309
-permalink: '/čorba-od-pilećih-bataka/'
+permalink: /čorba-od-pilećih-bataka/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

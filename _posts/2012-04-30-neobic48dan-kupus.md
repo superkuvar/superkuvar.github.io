@@ -5,7 +5,7 @@ date: 2012-04-30T10:20:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3129
-permalink: '/neobičan-kupus/'
+permalink: /neobičan-kupus/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Neobičan-kupus-940x198.jpg

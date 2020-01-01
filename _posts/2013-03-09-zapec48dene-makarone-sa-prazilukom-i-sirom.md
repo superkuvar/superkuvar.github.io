@@ -5,7 +5,7 @@ date: 2013-03-09T14:25:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5421
-permalink: '/zapečene-makarone-sa-prazilukom-i-sirom/'
+permalink: /zapečene-makarone-sa-prazilukom-i-sirom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

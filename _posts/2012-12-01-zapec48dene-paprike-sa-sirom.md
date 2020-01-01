@@ -5,7 +5,7 @@ date: 2012-12-01T16:33:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4845
-permalink: '/zapečene-paprike-sa-sirom/'
+permalink: /zapečene-paprike-sa-sirom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

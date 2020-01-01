@@ -5,7 +5,7 @@ date: 2012-06-23T11:15:47+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3576
-permalink: '/mešana-salata-od-svežeg-povrća/'
+permalink: /mešana-salata-od-svežeg-povrća/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Mešanasalataodsvežegpovrća-940x198.jpg

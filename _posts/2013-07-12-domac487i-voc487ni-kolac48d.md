@@ -5,7 +5,7 @@ date: 2013-07-12T06:35:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5877
-permalink: '/domaći-voćni-kolač/'
+permalink: /domaći-voćni-kolač/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Domacivocnikolac-940x198.jpg

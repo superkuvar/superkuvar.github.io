@@ -5,7 +5,7 @@ date: 2012-09-19T12:02:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4320
-permalink: '/zapečeni-krompir-sa-sirom/'
+permalink: /zapečeni-krompir-sa-sirom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Krompir-sa-sirom-940x198.jpg

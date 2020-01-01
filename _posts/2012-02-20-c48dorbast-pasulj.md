@@ -5,7 +5,7 @@ date: 2012-02-20T13:11:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2519
-permalink: '/čorbast-pasulj/'
+permalink: /čorbast-pasulj/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Pasulj-940x198.jpg

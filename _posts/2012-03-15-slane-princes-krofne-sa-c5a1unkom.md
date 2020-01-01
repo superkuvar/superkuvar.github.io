@@ -5,7 +5,7 @@ date: 2012-03-15T14:41:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2685
-permalink: '/slane-princes-krofne-sa-šunkom/'
+permalink: /slane-princes-krofne-sa-šunkom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Slane-princes-krofne-sa-šunkom-940x198.jpg

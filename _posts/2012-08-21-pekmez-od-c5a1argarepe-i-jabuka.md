@@ -5,7 +5,7 @@ date: 2012-08-21T08:46:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4064
-permalink: '/pekmez-od-šargarepe-i-jabuka/'
+permalink: /pekmez-od-šargarepe-i-jabuka/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Pekmezodsargarepeijabuka-940x198.jpg

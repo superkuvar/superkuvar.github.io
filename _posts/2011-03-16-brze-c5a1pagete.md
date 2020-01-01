@@ -5,7 +5,7 @@ date: 2011-03-16T11:59:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=109
-permalink: '/brze-špagete/'
+permalink: /brze-špagete/
 totvreme:
   - ""
 categories:

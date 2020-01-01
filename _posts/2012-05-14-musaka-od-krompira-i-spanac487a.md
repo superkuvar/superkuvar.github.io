@@ -5,7 +5,7 @@ date: 2012-05-14T11:26:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3212
-permalink: '/musaka-od-krompira-i-spanaća/'
+permalink: /musaka-od-krompira-i-spanaća/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Musaka-od-krompira-i-spanaća-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-06-16T15:43:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3499
-permalink: '/zapečena-šargarepa-sa-mlekom/'
+permalink: /zapečena-šargarepa-sa-mlekom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Zapečenašargarepasamlekom-940x198.jpg

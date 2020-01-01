@@ -5,7 +5,7 @@ date: 2012-06-26T06:15:55+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3615
-permalink: '/neobične-pohovane-tikvice/'
+permalink: /neobične-pohovane-tikvice/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Neobičnepohovanetikvice-940x198.jpg

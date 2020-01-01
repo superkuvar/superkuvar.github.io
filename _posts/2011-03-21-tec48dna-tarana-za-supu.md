@@ -5,7 +5,7 @@ date: 2011-03-21T10:06:21+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=152
-permalink: '/tečna-tarana-za-supu/'
+permalink: /tečna-tarana-za-supu/
 totvreme:
   - ""
 categories:

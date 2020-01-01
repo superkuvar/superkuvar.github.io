@@ -5,7 +5,7 @@ date: 2011-03-30T08:02:36+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=337
-permalink: '/zapečeni-grašak/'
+permalink: /zapečeni-grašak/
 totvreme:
   - ""
 categories:

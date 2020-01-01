@@ -5,7 +5,7 @@ date: 2012-05-05T14:44:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3166
-permalink: '/krompir-paprikaš-sa-piletinom/'
+permalink: /krompir-paprikaš-sa-piletinom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Krompir-paprikaš-sa-piletinom-940x198.jpg

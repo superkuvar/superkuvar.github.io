@@ -5,7 +5,7 @@ date: 2012-02-21T13:17:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2538
-permalink: '/kolač-od-piškota-sa-višnjama/'
+permalink: /kolač-od-piškota-sa-višnjama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Kolač-od-piškota-sa-višnjama-940x198.jpg

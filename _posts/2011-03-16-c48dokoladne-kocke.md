@@ -5,7 +5,7 @@ date: 2011-03-16T10:43:02+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=101
-permalink: '/čokoladne-kocke/'
+permalink: /čokoladne-kocke/
 totvreme:
   - ""
 categories:

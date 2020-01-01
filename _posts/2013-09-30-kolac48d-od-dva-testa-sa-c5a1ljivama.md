@@ -5,7 +5,7 @@ date: 2013-09-30T06:35:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6142
-permalink: '/kolač-od-dva-testa-sa-šljivama/'
+permalink: /kolač-od-dva-testa-sa-šljivama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Kolacoddvatestasasljivama-940x198.jpg

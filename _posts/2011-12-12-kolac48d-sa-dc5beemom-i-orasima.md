@@ -5,7 +5,7 @@ date: 2011-12-12T12:12:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2027
-permalink: '/kolač-sa-džemom-i-orasima/'
+permalink: /kolač-sa-džemom-i-orasima/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

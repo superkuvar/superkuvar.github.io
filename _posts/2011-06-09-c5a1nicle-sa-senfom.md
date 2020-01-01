@@ -5,7 +5,7 @@ date: 2011-06-09T08:25:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1026
-permalink: '/šnicle-sa-senfom/'
+permalink: /šnicle-sa-senfom/
 totvreme:
   - ""
 categories:

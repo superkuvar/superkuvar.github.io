@@ -5,7 +5,7 @@ date: 2012-03-26T10:30:43+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2792
-permalink: '/domaći-slani-štapići/'
+permalink: /domaći-slani-štapići/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Domaći-slani-štapići-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-07-20T15:30:22+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3766
-permalink: '/čorba-od-pečuraka/'
+permalink: /čorba-od-pečuraka/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Čorbaodpečuraka-940x198.jpg

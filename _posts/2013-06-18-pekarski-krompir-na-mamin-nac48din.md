@@ -5,7 +5,7 @@ date: 2013-06-18T13:54:38+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5794
-permalink: '/pekarski-krompir-na-mamin-način/'
+permalink: /pekarski-krompir-na-mamin-način/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

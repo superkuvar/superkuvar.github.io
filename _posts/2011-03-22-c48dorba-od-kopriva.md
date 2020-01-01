@@ -5,7 +5,7 @@ date: 2011-03-22T11:09:06+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=195
-permalink: '/čorba-od-kopriva/'
+permalink: /čorba-od-kopriva/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/corbaodkopriva-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-09-23T05:46:17+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6123
-permalink: '/tikvice-punjene-pirinčem-i-slaninom/'
+permalink: /tikvice-punjene-pirinčem-i-slaninom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-940x198.jpg

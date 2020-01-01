@@ -5,7 +5,7 @@ date: 2012-05-25T15:02:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3279
-permalink: '/losos-pečen-u-foliji/'
+permalink: /losos-pečen-u-foliji/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pečeni-losos-u-foliji-940x198.jpg

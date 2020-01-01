@@ -5,7 +5,7 @@ date: 2013-11-06T15:28:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6240
-permalink: '/mešana-musaka/'
+permalink: /mešana-musaka/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Mesanamusaka-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-10-20T11:27:46+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4517
-permalink: '/salata-od-pečenih-paprika-i-paradajza/'
+permalink: /salata-od-pečenih-paprika-i-paradajza/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-03-24T12:39:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=245
-permalink: '/juneća-čorba-sa-povrćem/'
+permalink: /juneća-čorba-sa-povrćem/
 totvreme:
   - ""
 categories:

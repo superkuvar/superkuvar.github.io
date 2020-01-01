@@ -5,7 +5,7 @@ date: 2013-10-26T15:17:58+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6202
-permalink: '/gratinirani-plavi-patlidžan/'
+permalink: /gratinirani-plavi-patlidžan/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Gratiniraniplavipatlidzan-940x198.jpg

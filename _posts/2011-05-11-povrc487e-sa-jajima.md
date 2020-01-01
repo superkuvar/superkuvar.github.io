@@ -5,7 +5,7 @@ date: 2011-05-11T09:24:02+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=543
-permalink: '/povrće-sa-jajima/'
+permalink: /povrće-sa-jajima/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Povrcesajajima-940x198.jpg

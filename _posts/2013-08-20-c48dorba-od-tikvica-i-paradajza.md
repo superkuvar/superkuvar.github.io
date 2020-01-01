@@ -5,7 +5,7 @@ date: 2013-08-20T06:07:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6044
-permalink: '/čorba-od-tikvica-i-paradajza/'
+permalink: /čorba-od-tikvica-i-paradajza/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-940x198.jpg

@@ -5,7 +5,7 @@ date: 2011-03-28T07:38:51+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=276
-permalink: '/jednostavna-čorba-od-boranije/'
+permalink: /jednostavna-čorba-od-boranije/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/jednostavnacorbaodboranije-940x198.jpg

@@ -5,7 +5,7 @@ date: 2013-11-11T07:17:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6246
-permalink: '/čorba-od-paradajza-i-krompira/'
+permalink: /čorba-od-paradajza-i-krompira/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Corbaodparadajzaikrompira-940x198.jpg

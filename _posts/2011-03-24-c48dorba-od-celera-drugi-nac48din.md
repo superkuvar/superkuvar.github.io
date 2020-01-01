@@ -5,7 +5,7 @@ date: 2011-03-24T12:07:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=243
-permalink: '/čorba-od-celera-drugi-način/'
+permalink: /čorba-od-celera-drugi-način/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

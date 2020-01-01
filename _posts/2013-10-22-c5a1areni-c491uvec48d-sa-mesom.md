@@ -5,7 +5,7 @@ date: 2013-10-22T05:58:27+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6194
-permalink: '/šareni-đuveč-sa-mesom/'
+permalink: /šareni-đuveč-sa-mesom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Sarenidjuvecsamesom-940x198.jpg

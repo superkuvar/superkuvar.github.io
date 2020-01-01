@@ -5,7 +5,7 @@ date: 2011-03-21T10:43:55+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=159
-permalink: '/teleća-čorba-sa-krompirom/'
+permalink: /teleća-čorba-sa-krompirom/
 ingreedients:
   - ""
 recipeinstructions:

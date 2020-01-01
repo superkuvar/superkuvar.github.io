@@ -5,7 +5,7 @@ date: 2012-05-21T12:00:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3254
-permalink: '/brokoli-u-bešamelu/'
+permalink: /brokoli-u-bešamelu/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Brokoli-u-bešamelu-940x198.jpg

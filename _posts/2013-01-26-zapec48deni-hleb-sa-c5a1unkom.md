@@ -5,7 +5,7 @@ date: 2013-01-26T16:19:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5177
-permalink: '/zapečeni-hleb-sa-šunkom/'
+permalink: /zapečeni-hleb-sa-šunkom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

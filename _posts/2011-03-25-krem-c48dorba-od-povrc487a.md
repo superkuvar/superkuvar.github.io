@@ -5,7 +5,7 @@ date: 2011-03-25T12:09:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=272
-permalink: '/krem-čorba-od-povrća/'
+permalink: /krem-čorba-od-povrća/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

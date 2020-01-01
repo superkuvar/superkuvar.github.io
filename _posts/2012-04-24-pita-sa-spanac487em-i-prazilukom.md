@@ -5,7 +5,7 @@ date: 2012-04-24T12:19:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3055
-permalink: '/pita-sa-spanaćem-i-prazilukom/'
+permalink: /pita-sa-spanaćem-i-prazilukom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Pita-sa-spanaćem-i-prazilukom-940x198.jpg

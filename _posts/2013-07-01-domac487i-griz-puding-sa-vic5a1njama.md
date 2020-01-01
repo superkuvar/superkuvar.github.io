@@ -5,7 +5,7 @@ date: 2013-07-01T14:58:06+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5846
-permalink: '/domaći-griz-puding-sa-višnjama/'
+permalink: /domaći-griz-puding-sa-višnjama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-940x198.jpg

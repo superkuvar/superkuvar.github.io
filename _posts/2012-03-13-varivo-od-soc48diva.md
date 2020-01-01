@@ -5,7 +5,7 @@ date: 2012-03-13T15:34:41+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2654
-permalink: '/varivo-od-sočiva/'
+permalink: /varivo-od-sočiva/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Varivo-od-sočiva-940x198.jpg

@@ -5,7 +5,7 @@ date: 2012-08-23T12:12:28+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4088
-permalink: '/pita-sa-plavim-patlidžanom-2/'
+permalink: /pita-sa-plavim-patlidžanom-2/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Pitasapatlidzanom2-940x198.jpg

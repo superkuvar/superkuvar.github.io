@@ -5,7 +5,7 @@ date: 2013-03-20T10:30:21+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5495
-permalink: '/princes-krofne-sa-kačkavaljem/'
+permalink: /princes-krofne-sa-kačkavaljem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

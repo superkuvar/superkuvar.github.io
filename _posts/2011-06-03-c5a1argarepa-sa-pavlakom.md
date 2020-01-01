@@ -5,7 +5,7 @@ date: 2011-06-03T12:05:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=931
-permalink: '/šargarepa-sa-pavlakom/'
+permalink: /šargarepa-sa-pavlakom/
 totvreme:
   - ""
 categories:

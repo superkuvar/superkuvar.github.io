@@ -5,7 +5,7 @@ date: 2011-06-20T09:52:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1186
-permalink: '/pržena-jaja-sa-slaninom/'
+permalink: /pržena-jaja-sa-slaninom/
 totvreme:
   - ""
 categories:

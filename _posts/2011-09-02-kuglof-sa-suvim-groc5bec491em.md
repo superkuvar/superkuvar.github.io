@@ -5,7 +5,7 @@ date: 2011-09-02T11:43:59+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1809
-permalink: '/kuglof-sa-suvim-grožđem/'
+permalink: /kuglof-sa-suvim-grožđem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

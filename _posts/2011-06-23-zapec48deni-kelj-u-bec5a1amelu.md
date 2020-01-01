@@ -5,7 +5,7 @@ date: 2011-06-23T12:05:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1250
-permalink: '/zapečeni-kelj-u-bešamelu/'
+permalink: /zapečeni-kelj-u-bešamelu/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

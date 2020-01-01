@@ -5,7 +5,7 @@ date: 2012-07-26T14:04:25+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3820
-permalink: '/pirinač-sa-paradajzom/'
+permalink: /pirinač-sa-paradajzom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Pirinacsaparadajzom-940x198.jpg

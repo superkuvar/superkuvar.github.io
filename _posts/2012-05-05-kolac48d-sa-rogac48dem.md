@@ -5,7 +5,7 @@ date: 2012-05-05T12:23:28+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3141
-permalink: '/kolač-sa-rogačem/'
+permalink: /kolač-sa-rogačem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Kolač-sa-rogačem-940x198.jpg

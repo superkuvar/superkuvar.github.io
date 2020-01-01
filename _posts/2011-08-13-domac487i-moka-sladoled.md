@@ -5,7 +5,7 @@ date: 2011-08-13T12:30:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1705
-permalink: '/domaći-moka-sladoled/'
+permalink: /domaći-moka-sladoled/
 totvreme:
   - ""
 categories:

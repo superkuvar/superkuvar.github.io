@@ -5,7 +5,7 @@ date: 2013-09-02T15:18:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6087
-permalink: '/šareni-letnji-đuveč/'
+permalink: /šareni-letnji-đuveč/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Sareniletnjidjuvec-940x198.jpg

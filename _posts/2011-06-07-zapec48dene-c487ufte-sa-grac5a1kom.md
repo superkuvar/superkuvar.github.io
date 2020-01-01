@@ -5,7 +5,7 @@ date: 2011-06-07T12:22:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=982
-permalink: '/zapečene-ćufte-sa-graškom/'
+permalink: /zapečene-ćufte-sa-graškom/
 totvreme:
   - ""
 categories:

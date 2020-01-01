@@ -5,7 +5,7 @@ date: 2012-11-14T09:40:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4698
-permalink: '/čorba-od-karfiola-sa-senfom/'
+permalink: /čorba-od-karfiola-sa-senfom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

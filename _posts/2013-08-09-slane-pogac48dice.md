@@ -5,7 +5,7 @@ date: 2013-08-09T06:15:01+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5976
-permalink: '/slane-pogačice/'
+permalink: /slane-pogačice/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Slane-pogacicce-3-940x198.jpg

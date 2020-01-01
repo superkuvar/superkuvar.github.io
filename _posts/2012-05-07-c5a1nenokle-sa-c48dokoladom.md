@@ -5,7 +5,7 @@ date: 2012-05-07T11:05:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3156
-permalink: '/šnenokle-sa-čokoladom/'
+permalink: /šnenokle-sa-čokoladom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Šnenokle-sa-čokoladom-940x198.jpg

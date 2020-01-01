@@ -5,7 +5,7 @@ date: 2012-06-22T06:08:49+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3564
-permalink: '/salata-od-krastavaca-i-šargarepe/'
+permalink: /salata-od-krastavaca-i-šargarepe/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Salataodkrastavacaišargarepe-940x198.jpg

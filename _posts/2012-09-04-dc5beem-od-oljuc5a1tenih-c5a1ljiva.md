@@ -5,7 +5,7 @@ date: 2012-09-04T09:40:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4207
-permalink: '/džem-od-oljuštenih-šljiva/'
+permalink: /džem-od-oljuštenih-šljiva/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Dzem-od-ljust.sljiva-940x198.jpg

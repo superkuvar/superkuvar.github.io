@@ -5,7 +5,7 @@ date: 2013-02-11T16:24:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5246
-permalink: '/šnicle-u-pivskom-testu/'
+permalink: /šnicle-u-pivskom-testu/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-06-27T11:28:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1289
-permalink: '/zapečeni-pasulj/'
+permalink: /zapečeni-pasulj/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

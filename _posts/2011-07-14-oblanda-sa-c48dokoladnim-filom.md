@@ -5,7 +5,7 @@ date: 2011-07-14T14:06:54+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1460
-permalink: '/oblanda-sa-čokoladnim-filom/'
+permalink: /oblanda-sa-čokoladnim-filom/
 totvreme:
   - ""
 categories:

@@ -5,7 +5,7 @@ date: 2011-06-07T13:17:46+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=990
-permalink: '/musaka-od-mlevenog-mesa-i-pirinča/'
+permalink: /musaka-od-mlevenog-mesa-i-pirinča/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

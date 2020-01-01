@@ -5,7 +5,7 @@ date: 2011-07-26T09:42:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1590
-permalink: '/štanglice-sa-kokosom/'
+permalink: /štanglice-sa-kokosom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2012-08-31T15:02:22+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4139
-permalink: '/testenina-sa-povrćem/'
+permalink: /testenina-sa-povrćem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Testeninasapovrcem-940x198.jpg

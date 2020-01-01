@@ -5,7 +5,7 @@ date: 2012-04-23T10:57:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2998
-permalink: '/koh-od-pirinča-i-višanja/'
+permalink: /koh-od-pirinča-i-višanja/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Koh-od-pirinča-i-višanja1-940x198.jpg

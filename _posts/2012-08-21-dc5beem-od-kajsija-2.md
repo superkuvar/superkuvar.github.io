@@ -5,7 +5,7 @@ date: 2012-08-21T09:09:40+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4071
-permalink: '/džem-od-kajsija-2/'
+permalink: /džem-od-kajsija-2/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Dzemodkajsija4-940x198.jpg

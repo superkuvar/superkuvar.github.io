@@ -5,7 +5,7 @@ date: 2012-03-19T11:18:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2668
-permalink: '/jelo-iz-rerne-od-krompira-pirinča/'
+permalink: /jelo-iz-rerne-od-krompira-pirinča/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Jelo-iz-rerne-od-krompira-i-pirinča-940x198.jpg

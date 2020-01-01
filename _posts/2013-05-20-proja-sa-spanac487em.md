@@ -5,7 +5,7 @@ date: 2013-05-20T06:19:09+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5684
-permalink: '/proja-sa-spanaćem/'
+permalink: /proja-sa-spanaćem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

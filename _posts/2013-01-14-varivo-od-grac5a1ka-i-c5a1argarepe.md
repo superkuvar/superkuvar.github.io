@@ -5,7 +5,7 @@ date: 2013-01-14T06:54:16+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5077
-permalink: '/varivo-od-graška-i-šargarepe/'
+permalink: /varivo-od-graška-i-šargarepe/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

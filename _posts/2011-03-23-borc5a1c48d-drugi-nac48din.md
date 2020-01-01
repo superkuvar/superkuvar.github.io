@@ -5,7 +5,7 @@ date: 2011-03-23T12:41:18+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=229
-permalink: '/boršč-drugi-način/'
+permalink: /boršč-drugi-način/
 totvreme:
   - ""
 categories:

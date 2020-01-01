@@ -5,7 +5,7 @@ date: 2012-12-25T11:01:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4939
-permalink: '/vikend-pogača/'
+permalink: /vikend-pogača/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

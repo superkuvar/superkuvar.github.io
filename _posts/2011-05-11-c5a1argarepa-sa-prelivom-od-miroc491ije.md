@@ -5,7 +5,7 @@ date: 2011-05-11T10:19:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=552
-permalink: '/šargarepa-sa-prelivom-od-mirođije/'
+permalink: /šargarepa-sa-prelivom-od-mirođije/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

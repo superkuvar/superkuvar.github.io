@@ -5,7 +5,7 @@ date: 2011-03-29T08:11:50+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=307
-permalink: '/juneća-čorba-sa-karfiolom/'
+permalink: /juneća-čorba-sa-karfiolom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

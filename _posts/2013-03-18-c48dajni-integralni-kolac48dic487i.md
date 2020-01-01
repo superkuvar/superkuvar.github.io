@@ -5,7 +5,7 @@ date: 2013-03-18T16:06:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5461
-permalink: '/čajni-integralni-kolačići/'
+permalink: /čajni-integralni-kolačići/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

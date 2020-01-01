@@ -5,7 +5,7 @@ date: 2011-08-08T10:43:24+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1639
-permalink: '/dečiji-sladoled/'
+permalink: /dečiji-sladoled/
 totvreme:
   - ""
 categories:

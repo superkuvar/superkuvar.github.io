@@ -5,7 +5,7 @@ date: 2012-08-17T15:57:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4008
-permalink: '/dinstani-patlidžan-sa-paradajzom/'
+permalink: /dinstani-patlidžan-sa-paradajzom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Dinstanipatlidzansaparadajzom-940x198.jpg

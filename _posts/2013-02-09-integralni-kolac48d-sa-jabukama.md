@@ -5,7 +5,7 @@ date: 2013-02-09T16:42:05+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5242
-permalink: '/integralni-kolač-sa-jabukama/'
+permalink: /integralni-kolač-sa-jabukama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

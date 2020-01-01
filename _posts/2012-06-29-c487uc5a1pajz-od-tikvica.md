@@ -5,7 +5,7 @@ date: 2012-06-29T15:56:56+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3632
-permalink: '/ćušpajz-od-tikvica/'
+permalink: /ćušpajz-od-tikvica/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Ćušpajzodtikvica-940x198.jpg

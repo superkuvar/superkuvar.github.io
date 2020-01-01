@@ -5,7 +5,7 @@ date: 2012-08-21T08:49:42+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3994
-permalink: '/slatko-od-šljiva/'
+permalink: /slatko-od-šljiva/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Šljive-940x198.jpg

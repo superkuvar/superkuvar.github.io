@@ -5,7 +5,7 @@ date: 2011-08-03T11:59:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1596
-permalink: '/lagani-kolač/'
+permalink: /lagani-kolač/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2013-04-20T15:19:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5606
-permalink: '/rižoto-na-mamin-način/'
+permalink: /rižoto-na-mamin-način/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-12-26T12:12:48+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2128
-permalink: '/jednostavni-kolač-sa-pudingom-i-višnjama/'
+permalink: /jednostavni-kolač-sa-pudingom-i-višnjama/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

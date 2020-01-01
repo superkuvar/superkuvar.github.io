@@ -5,7 +5,7 @@ date: 2011-03-25T10:36:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=255
-permalink: '/najbrža-čorba/'
+permalink: /najbrža-čorba/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Najbrzacorba-940x198.jpg

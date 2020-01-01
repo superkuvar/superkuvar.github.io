@@ -5,7 +5,7 @@ date: 2011-06-07T13:54:35+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=997
-permalink: '/svinjske-šnicle-sa-jajima/'
+permalink: /svinjske-šnicle-sa-jajima/
 totvreme:
   - ""
 categories:

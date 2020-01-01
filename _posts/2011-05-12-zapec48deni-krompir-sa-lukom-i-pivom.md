@@ -5,7 +5,7 @@ date: 2011-05-12T12:10:08+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=570
-permalink: '/zapečeni-krompir-sa-lukom-i-pivom/'
+permalink: /zapečeni-krompir-sa-lukom-i-pivom/
 totvreme:
   - ""
 image: /wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-940x198.jpg

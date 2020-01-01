@@ -5,7 +5,7 @@ date: 2013-06-24T06:41:34+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5815
-permalink: '/brokoli-čorba/'
+permalink: /brokoli-čorba/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-07-18T11:48:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1513
-permalink: '/kolač-sa-džemom/'
+permalink: /kolač-sa-džemom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

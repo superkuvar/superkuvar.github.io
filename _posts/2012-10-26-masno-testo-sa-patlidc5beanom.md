@@ -5,7 +5,7 @@ date: 2012-10-26T12:15:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4556
-permalink: '/masno-testo-sa-patlidžanom/'
+permalink: /masno-testo-sa-patlidžanom/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

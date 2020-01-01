@@ -5,7 +5,7 @@ date: 2012-09-03T15:18:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4192
-permalink: '/paprike-za-punjenje-u-zamrzivaču/'
+permalink: /paprike-za-punjenje-u-zamrzivaču/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Paprikeuzamrzivacu-940x198.jpg

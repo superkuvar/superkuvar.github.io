@@ -5,7 +5,7 @@ date: 2013-03-30T14:38:39+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5541
-permalink: '/pirinač-sa-prazilukom-i-suvim-grožđem/'
+permalink: /pirinač-sa-prazilukom-i-suvim-grožđem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

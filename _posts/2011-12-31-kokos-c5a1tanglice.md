@@ -5,7 +5,7 @@ date: 2011-12-31T12:56:11+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2170
-permalink: '/kokos-štanglice/'
+permalink: /kokos-štanglice/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

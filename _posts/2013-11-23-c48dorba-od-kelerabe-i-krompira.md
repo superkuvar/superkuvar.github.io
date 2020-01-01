@@ -5,7 +5,7 @@ date: 2013-11-23T12:37:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=6287
-permalink: '/čorba-od-kelerabe-i-krompira/'
+permalink: /čorba-od-kelerabe-i-krompira/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Corbaodkelerabeikrompira-940x198.jpg

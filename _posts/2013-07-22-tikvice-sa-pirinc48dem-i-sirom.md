@@ -5,7 +5,7 @@ date: 2013-07-22T06:52:30+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5919
-permalink: '/tikvice-sa-pirinčem-i-sirom/'
+permalink: /tikvice-sa-pirinčem-i-sirom/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Tikvicesapirincemisirom-940x198.jpg

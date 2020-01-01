@@ -5,7 +5,7 @@ date: 2011-03-22T09:07:50+00:00
 author: admin
 layout: post
 guid: http://superkuvar.com/?p=178
-permalink: '/jagnjeća-čorba/'
+permalink: /jagnjeća-čorba/
 totvreme:
   - ""
 ingreedients:

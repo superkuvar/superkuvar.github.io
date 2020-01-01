@@ -5,7 +5,7 @@ date: 2011-07-15T12:42:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1481
-permalink: '/brzi-kolač-sa-orasima/'
+permalink: /brzi-kolač-sa-orasima/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2011-12-16T14:55:14+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2067
-permalink: '/bakina-čokoladna-torta/'
+permalink: /bakina-čokoladna-torta/
 totvreme:
   - ""
 categories:

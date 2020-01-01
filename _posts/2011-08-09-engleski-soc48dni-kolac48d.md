@@ -5,7 +5,7 @@ date: 2011-08-09T11:15:26+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=1655
-permalink: '/engleski-sočni-kolač/'
+permalink: /engleski-sočni-kolač/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

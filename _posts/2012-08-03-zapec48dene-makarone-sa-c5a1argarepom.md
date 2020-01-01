@@ -5,7 +5,7 @@ date: 2012-08-03T06:43:10+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3881
-permalink: '/zapečene-makarone-sa-šargarepom/'
+permalink: /zapečene-makarone-sa-šargarepom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Zapecenemakaronesasargarepom-940x198.jpg

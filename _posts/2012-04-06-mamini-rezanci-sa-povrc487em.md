@@ -5,7 +5,7 @@ date: 2012-04-06T05:28:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2873
-permalink: '/mamini-rezanci-sa-povrćem/'
+permalink: /mamini-rezanci-sa-povrćem/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Mamini-rezanci-sa-povrćem-940x198.jpg

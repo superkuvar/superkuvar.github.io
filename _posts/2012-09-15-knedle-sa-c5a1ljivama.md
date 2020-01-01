@@ -5,7 +5,7 @@ date: 2012-09-15T14:03:52+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4285
-permalink: '/knedle-sa-šljivama/'
+permalink: /knedle-sa-šljivama/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Knedlesasljivama-940x198.jpg

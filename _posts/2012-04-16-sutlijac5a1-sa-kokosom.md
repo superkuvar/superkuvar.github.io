@@ -5,7 +5,7 @@ date: 2012-04-16T13:43:33+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2981
-permalink: '/sutlijaš-sa-kokosom/'
+permalink: /sutlijaš-sa-kokosom/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Sutlijaš-sa-kokosom-940x198.jpg

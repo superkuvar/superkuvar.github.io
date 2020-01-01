@@ -5,7 +5,7 @@ date: 2011-03-23T11:58:32+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=219
-permalink: '/krem-čorba-od-graška/'
+permalink: /krem-čorba-od-graška/
 totvreme:
   - ""
 categories:

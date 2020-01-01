@@ -5,7 +5,7 @@ date: 2012-10-13T15:07:07+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4479
-permalink: '/đuveč-sa-pirinčem/'
+permalink: /đuveč-sa-pirinčem/
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:

@@ -5,7 +5,7 @@ date: 2012-07-12T06:09:04+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3700
-permalink: '/zapečena-mamina-boranija/'
+permalink: /zapečena-mamina-boranija/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Zapečenamaminaboranija-940x198.jpg

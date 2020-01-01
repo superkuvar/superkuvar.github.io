@@ -5,7 +5,7 @@ date: 2012-03-03T14:52:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2628
-permalink: '/nanina-pogača/'
+permalink: /nanina-pogača/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Nanina-pogača-940x198.jpg
