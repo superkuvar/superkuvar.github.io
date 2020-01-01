@@ -1,6 +1,6 @@
 ---
 id: 12971
-title: Oblande sa čokoladom i lešnicima
+title: OBLANDE SA ČOKOLADOM I LEŠNICIMA
 date: 2019-12-31T20:15:07+00:00
 author: dpk
 layout: post

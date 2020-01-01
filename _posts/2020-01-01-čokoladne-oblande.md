@@ -19,6 +19,8 @@ Potrebno:
 * 200 g mlevenih oraha 
 * paket oblandi
 
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="420" height="360">
+
 Priprema: u posebnim posudama lagano rastopiti čokoladu i margarin. 
 
 Zagrejane spojiti i izmešati, dodati sećer i mlevene orahe. pa sve dobro izmešati. Kada se masa malo prohladi filovati oblande a potom ih pritisnuti nekim težim predmetom (šerpom) i ostaviti da prenoće.

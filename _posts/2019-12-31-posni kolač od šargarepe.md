@@ -4,7 +4,7 @@ title: POSNI KOLAČI OD ŠARGAREPE
 date: 2019-12-31T20:15:07+00:00
 author: dpk
 layout: post
-permalink: /posni-kolači-od-šargarepe
+permalink: /posni-kolači-od-šargarepe/
 categories:
   - posni kolači
 tags:
