@@ -20,6 +20,8 @@ Potrebno:
 * 180 g šećera u prahu
 * pakovanje oblandi
 
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="420" height="360">
+
 Priprema: u šerpicu staviti 200 g čokolade za kuvanje i 200 g posnog margarina. 
 
 Staviti na plotnu, na laganu vatru da se istopi. Kada se istopi i ujednači dodati prah šećer i pržene i samlevene lešnike. Dobro izmešati i skloniti sa vatre. Kada se masa malo prohladi filovati oblande. 
