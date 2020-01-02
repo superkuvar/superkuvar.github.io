@@ -20,7 +20,7 @@ Potrebno:
 * 180 g šećera u prahu
 * pakovanje oblandi
 
-<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="420" height="360">
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="360" height="280">
 
 Priprema: u šerpicu staviti 200 g čokolade za kuvanje i 200 g posnog margarina. 
 
