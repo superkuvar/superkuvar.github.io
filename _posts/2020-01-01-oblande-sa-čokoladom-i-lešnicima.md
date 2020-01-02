@@ -12,6 +12,9 @@ tags:
   - lešnik
   - oblande
 ---
+U vreme slava i praznika, naše su trpeze uvek pune. Tu su razna pečenja, praseća ili jagnjeća, pite sa mesom, sirom ili jabukama, pršute, sirevi, sosovi prelivi, torte, kolači... Ali, kada dodu dani posta, nastaje problem pogotovo sa poslasticama. Šta spremiti ove godine, da bude posno, dekorativno i ukusno. Ova oblanda je pravi izbor.
+
+
 Potrebno: 
 
 * 200 g čokolade za kuvanje
