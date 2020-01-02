@@ -19,7 +19,7 @@ Potrebno:
 * 200 g mlevenih oraha 
 * paket oblandi
 
-<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="360" height="280">
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="300" height="225">
 
 Priprema: u posebnim posudama lagano rastopiti čokoladu i margarin. 
 
