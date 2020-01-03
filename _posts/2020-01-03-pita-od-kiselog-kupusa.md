@@ -24,8 +24,7 @@ so,
 biber,
 ulje
 
-način pripreme
-
+Način pripreme:
 Kupus sitno iseckati i pržiti na ulju, dok ne
 omekša, posoliti i pobiberiti, skinuti sa vatre i
 dodati 2 razmućena jajeta. Kore podeliti na tri dela. U

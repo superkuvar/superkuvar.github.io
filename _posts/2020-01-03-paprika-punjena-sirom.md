@@ -22,8 +22,7 @@ Potrebno je:
 100 g slatke pavlake, 
 
 
-način pripreme
-
+Način pripreme:
 Sir propasirati i pomešati sa pavlakom da se dobi-
 je kompaktna masa. Paprike oprati, očistiti od semenki
 i napuniti ih pripremljenom masom. Složiti paprike u

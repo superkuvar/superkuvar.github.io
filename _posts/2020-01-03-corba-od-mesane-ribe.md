@@ -29,8 +29,7 @@ so,
 biber 
 i ostali začini
 
-način pripreme
-
+Način pripreme:
 Očistiti povrće i iseći na komade. Ribu očistiti i
 oprati (kečiga, šaran, smuđ, deverika). Kada povrće bude.
 kuvano, dodati komade mešane ribe. Kuvati sve oko 20

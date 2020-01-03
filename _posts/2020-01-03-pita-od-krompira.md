@@ -25,8 +25,7 @@ so,
 biber 
 aleva paprika
 
-način pripreme
-
+Način pripreme:
 Luk sitno iseckati propržiti i dodati narendani
 krompir. Sve zajedno malo propržiti, posoliti, pobiber-
 iti, dodati alevu papriku i sitno iseckan peršun. Uzeti

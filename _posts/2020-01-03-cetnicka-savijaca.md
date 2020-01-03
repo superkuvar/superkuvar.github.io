@@ -13,17 +13,15 @@ categories:
 tags:
    -
 ---
-ČETNIČKA SAVIJAČA
-
 Potrebno je:
 
-500 g brašna
-300 g sira,
-300 g kajmaka
-30 g kvasca,
-200 g masti
-5 jaja,
-so.
+* 500 g brašna
+* 300 g sira
+* 300 g kajmaka
+* 30 g kvasca
+* 200 g masti
+* 5 jaja
+* so.
 
 Način pripreme.
 

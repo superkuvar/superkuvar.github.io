@@ -23,8 +23,7 @@ Potrebno je:
 300 g kajmaka
 3 kašike masti
 
-način pripreme
-
+Način pripreme:
 Kukuruzno brašno prosejati i dodati izgnječeni sir i 100 g kajmaka 
 i dobro umućena jaja. Sve pomešati sa vodom
 i mlekom (da masa ne bude mnogo gusta), sipati u pleh i

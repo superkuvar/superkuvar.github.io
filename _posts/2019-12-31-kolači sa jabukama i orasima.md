@@ -24,7 +24,7 @@ Potrebno je:
 Za glazuru: 
 
 * 3 rebra čokolade za kuvanje, 
-* 3 kašike šecera,
+* 3 kašike šecera
 * kockica biljnog margarina 
 * par kapi ulja
 

@@ -19,7 +19,7 @@ Potrebno je:
 * 500 g krompira
 * decilitar ulja
 * 2 glavice crnog luka
-* kašičica nane,
+* kašičica nane
 * kašika aleve paprike
 * so
 * biber

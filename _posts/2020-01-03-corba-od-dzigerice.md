@@ -18,14 +18,14 @@ tags:
 Potrebno je:
 
 * 300 g praseće ili jagnjeće džigerice, 
-* 200 g celera,
-* glavica crnog luka,
-* 5 čenova belog luka,
-* 150 g šargarepe,
+* 200 g celera
+* glavica crnog luka
+* 5 čenova belog luka
+* 150 g šargarepe
 * mast
-* veza zeleni,
-* ljuta papričica,
-* lovorov list,
+* veza zeleni
+* ljuta papričica
+* lovorov list
 * biber
 * kim 
 * so

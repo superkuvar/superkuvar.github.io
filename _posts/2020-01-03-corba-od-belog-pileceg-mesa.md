@@ -27,8 +27,7 @@ kim
 so
 i biber
 
-način pripreme
-
+Način pripreme:
 Pileće meso kuvati oko jedan sat, ohladiti i sorti-
 rati po želji, špic grudi (belo meso) sitno iseckati.
 Karfiol skuvati, a tokom kuvanja posoliti. U posebnoj

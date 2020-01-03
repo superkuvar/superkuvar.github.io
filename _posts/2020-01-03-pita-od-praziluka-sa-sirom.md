@@ -25,8 +25,7 @@ Potrebno je:
 ulje,
 i soli po ukusu
 
-način pripreme
-
+Način pripreme:
 Praziluk iseći na tanke rezance i prodinstati na
 ulju da dobro omekša. Skloniti sa vatre da se ohladi,
 dodati izgnječen sir i posoliti. Jaja umutiti posebno i

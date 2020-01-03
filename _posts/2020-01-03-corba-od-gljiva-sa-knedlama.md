@@ -25,7 +25,7 @@ decilitar kisele pavlake,
 
 Za knedle:
 * jaje
-* 3-4 kašike brašna,
+* 3-4 kašike brašna
 * malo ulja
 * so
 

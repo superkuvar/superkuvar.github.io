@@ -23,8 +23,7 @@ kašika masti,
 kašika brašna
 decilitar mleka i so
 
-način pripreme
-
+Način pripreme:
 Jaja dobro umutiti i dodati kašiku brašna, decili-
 tar mleka i so po ukusu. U tiganju dobro zagrejati mast,
 sipati pripremljenu masu i pržiti.

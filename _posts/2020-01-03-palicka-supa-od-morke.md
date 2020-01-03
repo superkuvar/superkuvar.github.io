@@ -21,8 +21,7 @@ Potrebno je (za 4 osobe):
 50gsala, – glavica crnog luka,
 100 g domaćih rezanaca, — začini i so
 
-način pripreme
-
+Način pripreme:
 Komade mesa od morke (guske, patke ili kokoške),
 oprati pa zajedno sa salom, ozišćenim crnim lukom i
 šargarepom staviti da se kuva oko dva sata na tihoj

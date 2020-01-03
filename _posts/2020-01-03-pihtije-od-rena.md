@@ -27,8 +27,7 @@ sok od pola limuna,
 100 g narendanog rena, 
 30 g želatina
 
-način pripreme
-
+Način pripreme:
 Mleko sa maslacem staviti da provri pa dodati
 brašno i so i mešati dok se ne zgusne. Još vrelom
 bešamelu dodati ren, narendane jabuke, prezlu i

@@ -24,8 +24,7 @@ kašika brašna,
 1,5 l vode, so, mast ili
 ulje, kiselo mleko
 
-način pripreme
-
+Način pripreme:
 Propržiti na masti ili ulju sitno seckanu glavicu
 crnog luka, dodati 300 g svežeg seckanog spanaća,
 koprive ili zelja, kašiku brašna, pa sve zajedno

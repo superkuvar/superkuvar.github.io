@@ -29,8 +29,7 @@ Potrebno je:
  začini, so, biber i lovorov list
 
  
-način pripreme
-
+Način pripreme:
 Guščije meso staviti da se kuva sve dok dobro ne
 omekša. U drugu posudu staviti sitno iseckano povrće da.
 se proprži na ulju. Fondom u kome je kuvano meso preli:

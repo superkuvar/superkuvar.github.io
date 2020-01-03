@@ -13,7 +13,7 @@ tags:
 Potrebno je:
  
 * 2 šolje brašna
-* 1 šolja šećera,
+* 1 šolja šećera
 * 1 šolja vode, 
 * pola šolje ulja
 * 1 kesica praška za pecivo 

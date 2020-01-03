@@ -16,7 +16,7 @@ tags:
 Potrebno je: 
 
 * 500 g badema
-* 500 g secera,
+* 500 g secera
 * sok od 1 limuna 
 * malo kakaoa, 
 * ekstrakt maline, 

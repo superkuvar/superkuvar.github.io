@@ -25,8 +25,7 @@ sveža paprika babura slatka i ljuta
 riblji začin
 sirće i so
 
-način pripreme
-
+Način pripreme:
 Šarana očistiti, oprati, iseći na komade, staviti
 u kotlić i naliti sa dva litara hladne vode, dodati
 pola kašike sirćeta i kotlić staviti na vatru. Kada

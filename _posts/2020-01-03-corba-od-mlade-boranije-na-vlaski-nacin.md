@@ -18,15 +18,14 @@ tags:
 
 Potrebno je:
 
-* kilogram boranije,
-* veza zeleni,
-* paradajz,
-* 200 g tvrdog ovčijeg sira,
-* 2 jajeta, začin,
+* kilogram boranije
+* veza zeleni
+* paradajz
+* 200 g tvrdog ovčijeg sira
+* 2 jajeta, začin
 * mirođija i so
 
-način pripreme
-
+Način pripreme:
 Boraniju oprati, očistiti i sitno iseckati, dodati
 iseckano povrće i staviti da se kuva, dodati so i začin.
 Kada je sve dobro kuvano izgnječiti ovčiji sir i dodati u

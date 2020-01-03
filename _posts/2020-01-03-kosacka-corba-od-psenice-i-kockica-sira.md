@@ -28,8 +28,7 @@ so, biber
 200 g sira, 
 1 g ruzmarina
 
-način pripreme
-Povrće samleti na vodenici za mlevenje mesa na
+Način pripreme:Povrće samleti na vodenici za mlevenje mesa na
 krupniju šajbnu, dinstati ga na ulju 15 minuta a zatim
 naliti tri litre vode i kuvati. Kada provri dodati
 kuvanu pšenicu i sitno iseckano kocke sira. Sve kuvati

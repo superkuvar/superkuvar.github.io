@@ -24,8 +24,7 @@ glavica crnog luka,
 celerov koren,
 list lovora so i biber
 
-način pripreme
-
+Način pripreme:
 Šargarepu narendati, luk i koren celera sitno
 iseckati i na 1 dl ulja dinstati 10-15 minuta, Zatim naliti.
 litar vode i kuvati oko pola sata, dok povrće dobro ne

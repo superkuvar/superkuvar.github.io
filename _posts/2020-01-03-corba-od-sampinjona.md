@@ -31,8 +31,7 @@ mast,
 
  
 
-način pripreme
-
+Način pripreme:
 Na zagrejanom maslacu propržiti sitno iseckan
 mladi crni luk, dodati sitno iseckane šampinjone i
 iseckanu šunku, sve to dinstati oko 15 minuta, naliti

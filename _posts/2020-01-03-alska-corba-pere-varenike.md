@@ -17,15 +17,15 @@ tags:
 Potrebno je:
 
 * 500 g ribe
-* 2 dl ulja,
+* 2 dl ulja
 * 300 g crnog luka
 * 2 šargarope
 * 300 g paradajza
 
 Začini: 
 
-* ljuta paprika,
-* aleva paprika,
+* ljuta paprika
+* aleva paprika
 * biber
 * so
 

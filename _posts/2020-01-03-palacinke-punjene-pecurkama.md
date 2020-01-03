@@ -28,8 +28,7 @@ začin:
 * biber
 * borove iglice
 
-način pripreme
-
+Način pripreme:
 Ispeći slane palačinke (isto kao slatke samo je raz-
 lika što se u ove stavi so a ne šećer). Masu za punjenje
 palačinki pripremiti tako što se na ulju proprži sitno

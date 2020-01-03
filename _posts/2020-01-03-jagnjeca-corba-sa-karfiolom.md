@@ -27,8 +27,7 @@ manja glavica karfiola,
  peršun 
 i bosiljak
 
-način pripreme
-
+Način pripreme:
 Jagnjeće meso kuvati u dva litra vode oko jedan sat.
 Očišćenu glavicu crnog luka na plotni zapeći (raseći je
 na dva dela) i dodati u čorbu. 

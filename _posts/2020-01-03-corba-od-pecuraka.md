@@ -29,8 +29,7 @@ gl mlevenog paradajza,
 
  
 
-način pripreme
-
+Način pripreme:
 Crni luk, pečurke, stručak ruzmarina i ljute
 papričice iseći sitno i prodinstati na ulju. U dinstano
 povrće naliti 2 dl vode. Meso prethodno skuvati u vodi,

@@ -21,8 +21,7 @@ Potrebno je:
 50 g kvasca, 
  so i ulje
 
-način pripreme
-
+Način pripreme:
 Kvasac razmutiti u šolji mlake vode, dodati
 kašičicu soli, kašičicu šećera i tri kašike brašna,
 ostaviti da nadođe (oko 15 minuta). U tu masu dodati

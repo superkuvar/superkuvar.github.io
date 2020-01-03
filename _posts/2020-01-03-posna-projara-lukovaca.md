@@ -15,8 +15,8 @@ tags:
 Potrebno je:
 
 * 500 g kukuruznog belog brašna
-* decilitar ulja,
-* 3 vezice mladog crnog luka,
+* decilitar ulja
+* 3 vezice mladog crnog luka
 * vode po potrebi i so
 
 Način pripreme:

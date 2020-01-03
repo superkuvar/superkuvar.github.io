@@ -14,7 +14,7 @@ tags:
 ---
 Potrebno je:
 
-* kilogram belog kukuruznog brašna,
+* kilogram belog kukuruznog brašna
 * voda
 * so
 

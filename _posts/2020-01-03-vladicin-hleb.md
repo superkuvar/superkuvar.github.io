@@ -20,9 +20,9 @@ Ovaj recept preporučuje korišćenje integralnog pšeničnog brašna.
 Potrebno je:
 
 * 180 g masti, 
-* 50 g suvog grožđa,
+* 50 g suvog grožđa
 * 150 g šećera, 
-* 40 g badema,
+* 40 g badema
 * 5 jaja. 
 * 30 g smokvi
 * 100 g brašna (integralnog)

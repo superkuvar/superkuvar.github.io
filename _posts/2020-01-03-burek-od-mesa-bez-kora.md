@@ -13,28 +13,25 @@ categories:
 tags:
    -
 ---
-BUREK OD MESA BEZ KORA
-
 Potrebno je:
 
-300 g mlevenog mesa 
-2-3 glavice crnog luka
-4 jajta
-jedan jogurt
-šoljica mleka
-12 kašika brašna,
-prašak za pecivo,
-ulje, so i biber
+* 300 g mlevenog mesa 
+* 2-3 glavice crnog luka
+* 4 jajta
+* jedan jogurt
+* šoljica mleka
+* 12 kašika brašna
+* prašak za pecivo
+* ulje
+* so 
+* biber
 
 
-način pripreme
+Način pripreme:
 
-Mleveno meso, sitno iseckani crni luk, jaja, jogurt,
-mleko i prašak za pecivo dobro izmešati, pripremljenoj
-smesi dodati 12 kašika brašna i sve dobro izmešati.
-Smesu staviti u dobro podmazan pleh i peći u zagrejanoj
-pećnici. Kada je pečeno iseći na kocke željene veličine
-i služiti toplo.
+Mleveno meso, sitno iseckani crni luk, jaja, jogurt, mleko i prašak za pecivo dobro izmešati. Pripremljenoj smesi dodati 12 kašika brašna i sve dobro umešati.
+
+Smesu staviti u dobro podmazan pleh i peći u zagrejanoj pećnici. Kada je pečeno iseći na kocke željene veličine i služiti toplo.
 
 
   

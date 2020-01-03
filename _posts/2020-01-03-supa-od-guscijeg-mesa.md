@@ -21,8 +21,7 @@ glavica crnog luka,
 2 šargarepe, 
  ulje, kim, biber i so
 
-način pripreme
-
+Način pripreme:
 Guščije meso staviti da se kuva. Zelen i celer
 očistiti, luk iseći na sitne kockice i pržiti na vrelom
 ulju uz povremeno mešanje (oko 5 minuta). Naliti supom u

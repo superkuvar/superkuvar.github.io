@@ -23,8 +23,7 @@ kilogram telećih kostiju,
 25 gmasti, kašika brašna, 
  začini
 
-način pripreme
-
+Način pripreme:
 Koprivu obariti i propasirati. Na zagrejanoj masti
 propržiti brašno i dodati koprivu. Sve dobro
 izmešati i naliti supom od kuvanih kostiju. Slaninu

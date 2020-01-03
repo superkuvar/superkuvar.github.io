@@ -24,8 +24,7 @@ Potrebno je.
 6 jaja
 so
 
-način pripreme
-
+Način pripreme:
 Od prosejanog brašna (tip 400) zamesiti testo sa 3
 umućena jajeta i mlakom vodom koja je posoljena i ostavi-
 ti da nadođe oko jedan sat. Testo izdeliti na loptice i

@@ -26,8 +26,7 @@ dve kašičice
 jebukovog sirćeta, 
  i soli
 
-način pripreme
-
+Način pripreme:
 Očišćeno sočivo uveče potopiti u mlaku vodu, a
 sutradan ocediti i staviti da se kuva u vodi sa
 dodatkom zeleni i pola glavice očišćenog crnog luka.

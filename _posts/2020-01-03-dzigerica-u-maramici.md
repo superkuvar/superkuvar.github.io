@@ -30,8 +30,7 @@ začini
 * biber
 * žalfija
 
-način pripreme
-
+Način pripreme:
 Džigericu obariti (crnu po želji od bilo koje životinje)
 ohladiti, iseći na kocke i samleti na vodenici za meso
 (šajbna br. 8). Kuvanu i opranu pšenicu, mlevenu džigericu i
