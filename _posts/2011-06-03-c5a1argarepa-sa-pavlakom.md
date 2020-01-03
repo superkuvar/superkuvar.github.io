@@ -9,7 +9,7 @@ permalink: /šargarepa-sa-pavlakom/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - kisela pavlaka

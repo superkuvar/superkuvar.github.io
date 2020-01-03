@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/03/pireodmladihkopriva-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - brašno

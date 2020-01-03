@@ -9,7 +9,7 @@ permalink: /zapečeni-mladi-krompir/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - kisela pavlaka

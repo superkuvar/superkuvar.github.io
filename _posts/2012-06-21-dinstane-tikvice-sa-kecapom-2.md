@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Dinstanetikvicesakečapom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kačkavalj
   - kisela pavlaka

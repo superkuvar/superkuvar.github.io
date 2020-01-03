@@ -30,7 +30,7 @@ breadcrumbs:
   - ""
 image: /wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - kačkavalj

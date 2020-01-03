@@ -9,7 +9,7 @@ permalink: /cufte-od-praziluka-i-krompira/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - peršunov list

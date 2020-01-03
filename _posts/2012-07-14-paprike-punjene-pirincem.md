@@ -16,7 +16,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Paprikepunjenepirincem-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - paprike
   - paradajz pire

@@ -9,7 +9,7 @@ permalink: /posna-sarma-od-kupusa/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - kupus

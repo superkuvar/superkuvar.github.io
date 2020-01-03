@@ -33,7 +33,7 @@ cooktime:
 breadcrumbs:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - bosiljak
   - jaje

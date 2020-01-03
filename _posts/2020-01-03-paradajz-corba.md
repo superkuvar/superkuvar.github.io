@@ -1,0 +1,43 @@
+---
+id: 12971
+title: PARADAJZ ČORBA
+date: 2020-01-03
+author: sneki
+layout: post
+permalink: /paradajz-corba/
+published: true
+image: 
+posno: 
+categories:
+   -
+tags:
+   -
+---
+PARADAJZ ČORBA
+
+Potrebno je:
+
+
+kašika masti (ili ulja)
+domaći kuvani paradajz ili koncentrat,
+glavica crnog luka,
+peršunovo lišće,
+kašika brašna, 
+ so, biber
+kašičica aleve paprike, 
+ i rezanci za supu
+
+Priprema:
+
+
+Iseckati luk i propržiti na masnoći, dodati brašno,
+
+promešati, naliti kuvanim paradajzom ili koncentratom.
+
+paradajza razblaženim vodom (oko litar). Zatim dodati
+
+so i biber i kuvati. Pred kraj kuvanja dodati rezance za
+supu i iseckano lišće peršuna i celera.
+
+  
+

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Pohovane-paprike-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - paprike
   - prezle

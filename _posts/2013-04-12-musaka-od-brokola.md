@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/04/Musakabrokoli-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - brokoli
   - kačkavalj

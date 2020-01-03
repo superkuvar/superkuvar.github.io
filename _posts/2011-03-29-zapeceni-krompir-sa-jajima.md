@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/zapecenikrompirsajajima1-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - crni luk

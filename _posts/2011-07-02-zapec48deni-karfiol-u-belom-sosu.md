@@ -9,7 +9,7 @@ permalink: /zapečeni-karfiol-u-belom-sosu/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kačkavalj
   - karfiol

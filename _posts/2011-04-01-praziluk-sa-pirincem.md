@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/04/Pirinac+praziluk-4-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - origano
   - pirinač

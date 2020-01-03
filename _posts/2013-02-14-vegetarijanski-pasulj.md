@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Vegetarijanskipasulj-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - kari

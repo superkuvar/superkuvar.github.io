@@ -9,7 +9,7 @@ permalink: /sufle-od-krompira-i-pecuraka/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - margarin

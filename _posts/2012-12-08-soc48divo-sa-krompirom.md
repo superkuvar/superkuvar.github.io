@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Sočivo-sa-krompirom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - beli luk

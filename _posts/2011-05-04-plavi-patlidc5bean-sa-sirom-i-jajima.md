@@ -9,7 +9,7 @@ permalink: /plavi-patlidžan-sa-sirom-i-jajima/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - mleko
   - paradajz

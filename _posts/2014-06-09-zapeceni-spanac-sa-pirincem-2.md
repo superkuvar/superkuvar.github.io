@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/06/zapecenispanacsapirincem-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - pirinač

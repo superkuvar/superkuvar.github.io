@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - kupus

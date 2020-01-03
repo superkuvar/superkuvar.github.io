@@ -9,7 +9,7 @@ permalink: /krompir-u-belom-sosu/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - lovorov list

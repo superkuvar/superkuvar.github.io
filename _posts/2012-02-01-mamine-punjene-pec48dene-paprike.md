@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Posne-paprike-pirinac+mrkva-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - paprike
   - peršunov list

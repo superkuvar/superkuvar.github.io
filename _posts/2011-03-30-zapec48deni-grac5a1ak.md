@@ -9,7 +9,7 @@ permalink: /zapečeni-grašak/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - grašak
   - margarin

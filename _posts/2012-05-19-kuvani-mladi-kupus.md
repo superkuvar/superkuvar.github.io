@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Kuvani-mladi-kupus1-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kupus
   - paprike

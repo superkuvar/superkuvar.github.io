@@ -9,7 +9,7 @@ permalink: /sufle-od-karfiola/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kačkavalj
   - karfiol

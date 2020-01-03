@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - mleko

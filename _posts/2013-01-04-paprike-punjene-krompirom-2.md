@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Suvepaprikepunjenekrompirom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - krompir

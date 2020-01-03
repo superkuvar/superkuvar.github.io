@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Grasaksakrompiromubesamelu-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - grašak

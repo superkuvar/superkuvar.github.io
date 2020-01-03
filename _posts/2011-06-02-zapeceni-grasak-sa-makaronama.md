@@ -9,7 +9,7 @@ permalink: /zapeceni-grasak-sa-makaronama/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - grašak
   - kačkavalj

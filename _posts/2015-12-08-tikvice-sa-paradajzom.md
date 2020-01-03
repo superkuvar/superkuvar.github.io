@@ -12,7 +12,7 @@ post_views_count:
   - "1"
 image: /wp-content/uploads/2015/12/tikvicesaparadajzom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - bosiljak
   - crni luk

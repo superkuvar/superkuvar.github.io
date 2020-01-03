@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Ćušpajzodtikvica-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - mirođija
   - paradajz

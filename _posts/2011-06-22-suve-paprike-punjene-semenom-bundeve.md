@@ -9,7 +9,7 @@ permalink: /suve-paprike-punjene-semenom-bundeve/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - kuvani paradajz

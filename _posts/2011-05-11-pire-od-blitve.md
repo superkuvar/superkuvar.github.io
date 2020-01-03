@@ -9,7 +9,7 @@ permalink: /pire-od-blitve/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - blitva

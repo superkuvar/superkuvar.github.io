@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Pilav-sa-pečurkama-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kari
   - pirinač

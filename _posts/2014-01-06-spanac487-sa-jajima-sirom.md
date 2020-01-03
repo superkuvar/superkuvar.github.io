@@ -10,7 +10,7 @@ totvreme:
   - "25"
 image: /wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - muskatni oraščić
   - sir

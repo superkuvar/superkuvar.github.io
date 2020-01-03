@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/09/zapecenetikvicesalukom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - kisela pavlaka

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/05/zapecenipraziluksakrompirom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - aleva paprika
   - krompir

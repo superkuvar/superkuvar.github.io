@@ -9,7 +9,7 @@ permalink: /krompir-u-pavlaci/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - kačkavalj

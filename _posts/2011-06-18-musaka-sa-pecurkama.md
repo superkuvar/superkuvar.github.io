@@ -9,7 +9,7 @@ permalink: /musaka-sa-pecurkama/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - mileram

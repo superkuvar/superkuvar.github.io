@@ -9,7 +9,7 @@ permalink: /musaka-sa-spanacem/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kisela pavlaka
   - pirinač

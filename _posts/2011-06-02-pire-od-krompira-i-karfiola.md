@@ -9,7 +9,7 @@ permalink: /pire-od-krompira-i-karfiola/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kačkavalj
   - karfiol

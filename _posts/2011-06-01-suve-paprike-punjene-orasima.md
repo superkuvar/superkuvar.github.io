@@ -9,7 +9,7 @@ permalink: /suve-paprike-punjene-orasima/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - orasi

@@ -15,7 +15,7 @@ totvreme:
 image: /wp-content/uploads/2013/01/Kupussajajima-940x198.jpg
 categories:
   - Glavna jela
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kupus
   - lovorov list

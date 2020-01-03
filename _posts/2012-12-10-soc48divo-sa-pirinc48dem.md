@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Socivo-sa-pirincem-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - crni luk

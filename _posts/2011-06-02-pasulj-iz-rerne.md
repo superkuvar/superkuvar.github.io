@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Pasulj-iz-rerne-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - lovorov list

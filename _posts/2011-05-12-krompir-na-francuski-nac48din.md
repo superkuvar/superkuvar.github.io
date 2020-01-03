@@ -9,7 +9,7 @@ permalink: /krompir-na-francuski-način/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - margarin

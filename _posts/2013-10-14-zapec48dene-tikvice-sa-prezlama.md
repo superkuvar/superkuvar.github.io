@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Zapecenetikvicesaprezlom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - bosiljak
   - mileram

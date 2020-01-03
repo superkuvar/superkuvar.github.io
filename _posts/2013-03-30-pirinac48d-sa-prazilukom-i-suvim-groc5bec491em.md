@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - limun
   - pirinač

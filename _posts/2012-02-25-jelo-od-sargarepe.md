@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Jelo-od-šargarepe-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - origano
   - peršunov list

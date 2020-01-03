@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Zapeceniprokeljubesamelu-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kačkavalj
   - krompir

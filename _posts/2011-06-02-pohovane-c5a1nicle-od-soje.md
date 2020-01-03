@@ -9,7 +9,7 @@ permalink: /pohovane-šnicle-od-soje/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - lovorov list
   - prezle

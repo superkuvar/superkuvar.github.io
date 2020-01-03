@@ -9,7 +9,7 @@ permalink: /zapečene-pohovane-tikvice/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - kisela pavlaka
   - majoran

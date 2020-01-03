@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Čorbasti-krompir-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - kari

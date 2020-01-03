@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Jednostavnidjuveč-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - crni luk
   - krompir

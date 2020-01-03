@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Krompir-sa-sirom-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - krompir
   - mleko

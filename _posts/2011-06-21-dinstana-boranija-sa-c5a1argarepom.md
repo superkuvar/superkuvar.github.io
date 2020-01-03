@@ -9,7 +9,7 @@ permalink: /dinstana-boranija-sa-šargarepom/
 totvreme:
   - ""
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - beli luk
   - boranija

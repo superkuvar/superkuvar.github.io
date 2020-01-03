@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Zapečena-bundeva-s-pirinčem-940x198.jpg
 categories:
-  - Jela bez mesa
+  - jela bez mesa
 tags:
   - bundeva
   - kačkavalj
