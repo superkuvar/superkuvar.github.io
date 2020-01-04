@@ -9,23 +9,20 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - super i čorbe
 tags:
-   -
+   - kajmak
 ---
-JAGNjEĆA ČORBA
-
 Potrebno je:
 
-300 g jagnjećeg mesa, 
-100 g kajmaka,
-300 g crnog luka, 
-decilitar ulja,
-200 g šargarepe, 
-zelena sveža paprika, 
-so 
-biber
-ostali začini,
+* 300 g jagnjećeg mesa 
+* 100 g kajmaka
+* decilitar ulja
+* 300 g crnog luka 
+* 200 g šargarepe 
+* zelena sveža paprika 
+* so 
+* biber
 
 Način pripreme:
 

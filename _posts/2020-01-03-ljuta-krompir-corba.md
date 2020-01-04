@@ -9,28 +9,26 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - supe i corbe
 tags:
-   -
+   - paprika
 ---
-LjUTA KROMPIR ČORBA
 Potrebno je:
 
-500 g krompira, 
- mast ili ulje,
-glavica crnog luka
-sveža paprika, 
-peršunovo lišće,
-ljuta papričica
-so i biber
+* 500 g krompira, 
+* mast ili ulje,
+* glavica crnog luka
+* sveža paprika, 
+* peršunovo lišće,
+* ljuta papričica
+* so i biber
 
-Način pripreme
+Način pripreme:
 
-Na masnoći propržiti crni luk, dodati isečenu
-papriku i još malo propržiti. U to sipati litar vode, krom-
-pir isečen na kockice, so, biber i ljutu papričicu. Kada.
-Čorba bude kuvana, dodati sitno iseckano peršunovo
-lišće.
+Na masnoći propržiti crni luk, dodati isečenu papriku i još malo propržiti. U to sipati litar vode, krom
+pir isečen na kockice, so, biber i ljutu papričicu. 
+
+Kada čorba bude kuvana, dodati sitno iseckano peršunovo lišće.
 
   
 

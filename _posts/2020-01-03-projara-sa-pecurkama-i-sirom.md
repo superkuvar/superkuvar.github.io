@@ -28,7 +28,7 @@ jedna kesica praška za pecivo
 
 
 
-Način pripreme
+Način pripreme:
 
 Prosejati brašno, a u drugoj posudi izgnječiti sir,
 dodati umućena jaja, prašak za pecivo i sastaviti sa

@@ -9,28 +9,30 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjela
 tags:
-   -
+   - sir
+   - kajmak
 ---
 KROKETI OD SIRA
 
 Potrebno je:
 
-2 kriške sira, 
-2 kašike kajmaka ili margarina 
-2 jajeta,
-2 šoljice mleka 
-brašno,
-kašičica praška za pecivo, 
-so i ulje
+* 2 kriške sira, 
+* 2 kašike kajmaka ili margarina 
+* 2 jajeta
+* 2 šoljice mleka 
+* brašno
+* kašičica praška za pecivo,
+* ulje
+* so
 
-Način pripreme.
+Način pripreme:
 
-Sir u odgovarajućoj posudi izgnječiti, dodati kaj-
-mak, prašak za pecivo, jaja, mleko, so i brašno toliko
-da testo bude mekše, pa sve dobro zamesiti. Kašikom
-vaditi krokete i pržiti na vrelom ulju. Služiti tople.
+Sir u odgovarajućoj posudi izgnječiti, dodati kajmak, prašak za pecivo, jaja, mleko, so i brašno toliko
+da testo bude mekše, pa sve dobro zamesiti. 
+
+Kašikom vaditi krokete i pržiti na vrelom ulju. Služiti tople.
 
   
 

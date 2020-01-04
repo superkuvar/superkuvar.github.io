@@ -11,18 +11,20 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - jaja
 ---
 Potrebno je:
 
-* litar mleka, – kukuruznog
-2-3 jajeta, – brašna,
+* litar mleka,
+* 3 kašike belog kukuruznog brašna,
+* 2-3 jajeta 
+* so
+* biber
 
-3 kašike belog so i biber
-Način pripreme
+Način pripreme:
 
-Mleko staviti da provri. Za to vreme umutiti jaja sa
-brašnom. Ovu masu polako sipati u mleko koje vri. Kada
-provri, dodati so i biber po ukusu. Služiti toplo.
+Mleko staviti da provri. Za to vreme umutiti jaja sa brašnom. Ovu masu polako sipati u mleko koje vri. 
+
+Kada provri, dodati so i biber po ukusu. Služiti toplo.
   
 

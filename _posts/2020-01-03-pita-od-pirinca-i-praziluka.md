@@ -23,7 +23,7 @@ Potrebno je:
 2 dl ulja, 
 so i biber
 
-Način pripreme
+Način pripreme:
 
 Za nadev skuvati pirinač, ali tako da zrna ostanu
 cela. Odvojeno propržiti praziluk, dodati pirinač, so i

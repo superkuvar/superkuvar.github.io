@@ -8,13 +8,14 @@ permalink: /vladicin-hleb/
 image: 
 posno: 
 categories:
+   - kolači
    - hleb
 tags:
    - jaja
    - smokve
    - badem
 ---
-Hleb kao najhranljivija namirnica mesi se pretežno od pšeničnog „mekog“ brašna (ređe od ražanog, ječmenog i kukuruznog).
+Hleb se mesi pretežno od pšeničnog „mekog“ brašna (ređe od ražanog, ječmenog i kukuruznog).
 Ovaj recept preporučuje korišćenje integralnog pšeničnog brašna.
 
 Potrebno je:
@@ -23,7 +24,7 @@ Potrebno je:
 * 50 g suvog grožđa
 * 150 g šećera, 
 * 40 g badema
-* 5 jaja. 
+* 5 jaja 
 * 30 g smokvi
 * 100 g brašna (integralnog)
 * 1 limun

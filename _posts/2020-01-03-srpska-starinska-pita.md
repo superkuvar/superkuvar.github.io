@@ -9,31 +9,24 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - pite
 tags:
-   -
+   - jaje
 ---
-SRPSKA STARINSKA PITA
-
 Potrebno je:
 
-500 g tankih kora
-500 g sira, 
-3 jajeta,
-2,5 dl mleka
-decilitar ulja i so
+* 500 g tankih kora
+* 500 g sira, 
+* 3 jajeta,
+* 2,5 dl mleka
+* decilitar ulja
+* so
 
-Način pripreme
+Način pripreme:
 
-Nadev se priprema tako što se sir izgnječi, dodaju.
-žumanca, mleko i šne od belanaca, posoli po ukusu i sve
-dobro izmeša. Odvojiti šest kora, a ostale kore iski-
-dati i dodati u nadev. Pleh podmazati uljem, poređati po
-tri kore, svaku poprskati uljem kako se ne bi zalepile,
-preliti ih nadevom i odozgo staviti preostale. kore.
+Nadev se priprema tako što se sir izgnječi, dodaju žumanca, mleko i šne od belanaca, posoli po ukusu i sve dobro izmeša. Odvojiti šest kora, a ostale kore iskidati i dodati u nadev. Pleh podmazati uljem, poređati po tri kore, svaku poprskati uljem kako se ne bi zalepile, preliti ih nadevom i odozgo staviti preostale kore.
 
-Pitu preliti odozgo uljem i poprskati vodom. Peći u
-dobro zagrejanoj pećnici oko 20 minuta. Kada pita bude
+Pitu preliti odozgo uljem i poprskati vodom. Peći u dobro zagrejanoj pećnici oko 20 minuta. Kada pita bude
 pečena iseći na komade željene veličine.
 
   

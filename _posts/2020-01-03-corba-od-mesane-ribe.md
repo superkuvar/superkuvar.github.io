@@ -11,31 +11,29 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - riba   
 ---
-ČORBA OD MEŠANE RIBE
+Potrebno je:
 
-Potrebno 
-
-
-kilogram ribe,
-100 g šargarepe, 
-300 g crnog luka, 
-100 g masti, 
-2 sveže paprike, 
-3 l vode,
- decilitar sirćeta,
-so, 
-biber 
-i ostali začini
+* kilogram ribe
+* 100 g šargarepe 
+* 300 g crnog luka 
+* 100 g masti
+* 2 sveže paprike
+* 3 l vode
+* decilitar sirćeta
+* so 
+* biber 
 
 Način pripreme:
-Očistiti povrće i iseći na komade. Ribu očistiti i
-oprati (kečiga, šaran, smuđ, deverika). Kada povrće bude.
-kuvano, dodati komade mešane ribe. Kuvati sve oko 20
-minuta. Kuvanu ribu procediti, zatim ribu na komade
-iskidati i ponovo vratiti u lonac sa proceđenim fondom
-i kuvati još nekoliko minuta. Čorbu začiniti po ukusu i
-dodati 1 dl sarćeta.
+
+Očistiti povrće i iseći na komade. Ribu očistiti i oprati (kečiga, šaran, smuđ, deverika). 
+
+Kada povrće bude kuvano, dodati komade mešane ribe. Kuvati sve oko 20 minuta. 
+
+Kuvanu ribu procediti, zatim ribu na komade iskidati i ponovo vratiti u lonac sa proceđenim fondom
+i kuvati još nekoliko minuta. Čorbu začiniti po ukusu i dodati 1 dl sarćeta.
+
+
   
 

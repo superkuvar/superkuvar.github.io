@@ -9,32 +9,28 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - paradajz
+   - paprika
 ---
-LESKOVAČKI LjUTENAC
-
 Potrebno je:
 
-300 g sveže zelene paprike
-2 paradajza,
-kašika sirćeta,
-100 gljute sveže crvene paprike,
-decilitar ulja,
-2 čena belog luka,
-5 g šećera
-so
+* 300 g sveže zelene paprike
+* 2 paradajza
+* kašika sirćeta
+* 100 gljute sveže crvene paprike
+* decilitar ulja
+* 2 čena belog luka
+* 5 g šećera
+* so
 
 Priprema:
 
-
-Paprike dobro oprati i očistiti od semena (bilo bi
-dobro da jedna paprika bude zelena, a ljuta crvena),
+Paprike dobro oprati i očistiti od semena (bilo bi dobro da jedna paprika bude zelena, a ljuta crvena),
 dodati šećer, so i sirće i pržiti na ulju oko 30 minuta.
-U tako proprženu masu dodati mleveni paradajz, sitno
-iseckan beli luk i pržiti dok se ne dobije gusta masa,
-posoliti, ohladiti i služiti kao pikantnu salatu.
+
+U tako proprženu masu dodati mleveni paradajz, sitno iseckan beli luk i pržiti dok se ne dobije gusta masa, posoliti, ohladiti i služiti kao pikantnu salatu.
 
   
 

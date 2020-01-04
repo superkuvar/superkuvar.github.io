@@ -11,11 +11,8 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - boranija
 ---
-
-ČORBA OD MLADE BORANIJE NA VLAŠKI NAČIN
-
 Potrebno je:
 
 * kilogram boranije
@@ -26,11 +23,10 @@ Potrebno je:
 * mirođija i so
 
 Način pripreme:
-Boraniju oprati, očistiti i sitno iseckati, dodati
-iseckano povrće i staviti da se kuva, dodati so i začin.
-Kada je sve dobro kuvano izgnječiti ovčiji sir i dodati u
-lonac i začiniti jajima. Na kraju kuvanja dodati sitno
-seckanu mirođiju. Čorbu služiti toplu.
+
+Boraniju oprati, očistiti i sitno iseckati, dodati iseckano povrće i staviti da se kuva, dodati so i začin.
+
+Kada je sve dobro kuvano izgnječiti ovčiji sir i dodati u lonac i začiniti jajima. Na kraju kuvanja dodati sitno seckanu mirođiju. Čorbu služiti toplu.
 
   
 

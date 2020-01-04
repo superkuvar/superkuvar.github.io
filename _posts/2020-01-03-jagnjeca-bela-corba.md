@@ -9,33 +9,27 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - supe i čorbe
 tags:
-   -
+   - šargarepa
 ---
-
-JAGNjEĆA BELA ČORBA
-
 Potrebno je:
 
-500 g jagnjećeg mesa
-čaša pavlake,
-2 glavice crnog luka, 
-2 šargarepe, 
- 
-lovor,
-peršunovo lišće,
-kašika brašna, 
- biber 
-i so
+* 500 g jagnjećeg mesa
+* čaša pavlake
+* 2 glavice crnog luka 
+* 2 šargarepe 
+* lovor
+* peršunovo lišće
+* kašika brašna 
+* so
+* biber 
 
-Način pripreme.
+Način pripreme:
 
-U odgovarajući sud staviti jagnjeće meso, crni luk
-šargarepu, naliti vodom, dodati biber, povorov list i so
-i kuvati. Kada meso bude kuvano, izvaditi ga, odvojiti od
-kostiju i nastaviti kuvanje. Kada čorba bude kuvana,
-začiniti jednom kašikom brašna i čašom pavlake. Na
-kraju čorbu začiniti peršunovim lišćem
+U odgovarajući sud staviti jagnjeće meso, crni luk, šargarepu, naliti vodom, dodati biber, lovorov list, so i kuvati. 
+
+Kada meso bude kuvano, izvaditi ga, odvojiti od kostiju i nastaviti kuvanje. Kada čorba bude kuvana,
+začiniti jednom kašikom brašna i čašom pavlake. Na kraju čorbu začiniti peršunovim lišćem.
   
 

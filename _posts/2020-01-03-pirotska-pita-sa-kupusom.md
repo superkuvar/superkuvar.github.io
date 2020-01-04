@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - pite
 tags:
    -
 ---
@@ -17,14 +17,15 @@ PIROTSKA PITA SA KUPUSOM
 
 Potrebno je:
 
-500 g kora
-kilogram sitno iseckanog kiselog kupusa
-2 dl ulja
-200 g luka
-aleva palrika,
-so i biber
+* 500 g kora
+* kilogram sitno iseckanog kiselog kupusa
+* 2 dl ulja
+* 200 g luka
+* aleva palrika,
+* so 
+* biber
 
-Način pripreme
+Način pripreme:
 Iseckati kupus, preliti toplom vodom i kuvati na
 umerenoj vatri dok dobro ne omekša. Za to vreme u drugoj posu-
 Di na ulju propržiti sitno iseckani crni luk dok ne dobije

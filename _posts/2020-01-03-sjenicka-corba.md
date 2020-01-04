@@ -25,7 +25,7 @@ Potrebno je:
 kašika aleve paprike,
 so i biber
 
-Način pripreme.
+Način pripreme:
 
 Meso kuvati oko 2 sata, da dobro omekša. Kuvano meso
 iseći na male kocke i sa iseckanim povrćem dinstati još

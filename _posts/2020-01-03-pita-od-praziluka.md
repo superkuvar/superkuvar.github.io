@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - pite
 tags:
    -
 ---
@@ -21,7 +21,7 @@ Potrebno je:
 2 dl ulja,
 so i biber.
 
-Način pripreme
+Način pripreme:
 
 Praziluk iseckati, obariti, procediti i malo
 propržiti na ulju, dodati so i biber po ukusu. U pleh

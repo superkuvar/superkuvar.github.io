@@ -9,35 +9,27 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - supe i corbe
 tags:
-   -
+   - paradajz
 ---
-PARADAJZ ČORBA
-
 Potrebno je:
 
-
-kašika masti (ili ulja)
-domaći kuvani paradajz ili koncentrat,
-glavica crnog luka,
-peršunovo lišće,
-kašika brašna, 
- so, biber
-kašičica aleve paprike, 
- i rezanci za supu
+* kašika masti (ili ulja)
+* domaći kuvani paradajz ili koncentrat,
+* glavica crnog luka,
+* peršunovo lišće,
+* kašika brašna, 
+* kašičica aleve paprike, 
+* rezanci za supu
+* so
+* biber
 
 Priprema:
 
+Iseckati luk i propržiti na masnoći, dodati brašno, promešati, naliti kuvanim paradajzom ili koncentratom paradajza razblaženim vodom (oko litar). Zatim dodati so i biber i kuvati. 
 
-Iseckati luk i propržiti na masnoći, dodati brašno,
-
-promešati, naliti kuvanim paradajzom ili koncentratom.
-
-paradajza razblaženim vodom (oko litar). Zatim dodati
-
-so i biber i kuvati. Pred kraj kuvanja dodati rezance za
-supu i iseckano lišće peršuna i celera.
+Pred kraj kuvanja dodati rezance za supu i iseckano lišće peršuna i celera.
 
   
 

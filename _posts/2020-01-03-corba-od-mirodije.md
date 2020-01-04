@@ -10,30 +10,23 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - jaja
 ---
-ČORBA OD MIROĐIJE
-
 Potrebno je (za 4-6 osoba):
 
-5 glavica crnog luka, 
- veza mirođije,
-manja glavica celera, 
- kiselo mleko,
-2 kašike masti ili ulja, 
- žumance, sirće i so
+* 5 glavica crnog luka 
+* veza mirođije
+* manja glavica celera 
+* kiselo mleko,
+* 2 kašike masti ili ulja, 
+* žumance
+* sirće
+* so
 
- 
+Način pripreme:
 
-Način pripreme
+Crni luk iseći na rebarca, naliti vodom i kuvati dok ne omekša, zatim izgnječiti, propasirati, tako da se dobije gusta tečnost. Dodati još vode i kuvati dok celer na omekša. 
 
-Crni luk iseći na rebarca, naliti vodom i kuvati
-dok ne omekša, zatim izgnječiti, propasirati, tako da se
-dobije gusta tečnost. Dodati još vode i kuvati dok celer
-na omekša. Začiniti žumancem i kiselim mlekom, a
-sirće dodati po ukusu. Ova čorba se za vreme leta jede
-
-hladna.
-
+Začiniti žumancem i kiselim mlekom, a sirće dodati po ukusu. Ova čorba se za vreme leta jede hladna.
   
 

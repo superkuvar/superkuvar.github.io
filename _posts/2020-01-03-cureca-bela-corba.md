@@ -10,29 +10,30 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - paprike
+   - ćuretina
 ---
-ĆUREĆA BELA ČORBA
-
 Potrebno je:
 
-200 g ćurećeg mesa, 
- 3 kašike brašna,
-3 glavice crnog luka, 2 dl ulja, so, biber,
-3 sveže paprike, _ peršunovo lišće
-2 šargarepe, — i ruzmarin
+* 200 g ćurećeg mesa 
+* 3 kašike brašna
+* 3 glavice crnog luka
+* 2 dl ulja
+* 3 sveže paprike
+* 2 šargarepe
+* peršunovo lišće
+* so
+* biber
+* ruzmarin
 
 Priprema:
 
+Ćureće meso kuvati u litru vode. Dok se meso kuva sitno iseckati crni luk, papriku i šargarepu. U loncu gde će se čorba kuvati propržiti povrće i preliti sa malo vode kako bi se dobro udinstalo. 
 
-Ćureće meso kuvati u litru vode. Dok se meso kuva
-sitno iseckati crni luk, papriku i šargarepu. U loncu gde.
-će se čorba kuvati propržiti povrće i preliti sa malo
-vode kako bi se dobro udinstalo. Kada meso bude kuvano.
-ohladiti ga, a fond procediti i preliti povrće, pa kuvati
-još 20 minuta. Razmutiti 3 kašike brašna u vodi, tako da
-masa bude tečna, i sipati kroz cediljku u čorbu kako bi se.
-dobila gustina. Začiniti začinima i služiti toplu
+Kada meso bude kuvano ohladiti ga, a fond procediti i preliti povrće, pa kuvati još 20 minuta. 
+
+Razmutiti 3 kašike brašna u vodi, tako da masa bude tečna, i sipati kroz cediljku u čorbu kako bi se
+dobila gustina. Začiniti začinima i služiti toplu.
 
  
   

@@ -9,25 +9,21 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - paprike
 ---
-PAPRIKA PUNjENA SIROM
-
 Potrebno je:
 
-600 g punomasnog sira
-6 većih crvenih paprika
-100 g slatke pavlake, 
-
+* 600 g punomasnog sira
+* 6 većih crvenih paprika
+* 100 g slatke pavlake 
 
 Način pripreme:
-Sir propasirati i pomešati sa pavlakom da se dobi-
-je kompaktna masa. Paprike oprati, očistiti od semenki
-i napuniti ih pripremljenom masom. Složiti paprike u
-odgovarajuću posudu i staviti u frižider da se ohlade.
-Ohlađene paprike iseći po želji i služiti uz proju ili
-pogaču.
+
+Sir propasirati i pomešati sa pavlakom da se dobije kompaktna masa. Paprike oprati, očistiti od semenki
+i napuniti ih pripremljenom masom. Složiti paprike u odgovarajuću posudu i staviti u frižider da se ohlade.
+
+Ohlađene paprike iseći po želji i služiti uz proju ili pogaču.
   
 

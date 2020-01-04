@@ -9,26 +9,25 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - jela od mesa
 tags:
-   -
+   - koprive
 ---
 PLjESKAVICE OD KOPRIVE
 
 Potrebno je:
 
-400 g mlade koprive, 
- 100 g kukuruznog belog
-50 g kajmaka ili sira, 
- brašna i biber.
+* 400 g mlade koprive, 
+* 100 g kukuruznog belog
+* 50 g kajmaka ili sira, 
+* brašno
+* biber
 
-Način pripreme
+Način pripreme:
 
-Obarene i samlevene koprive pomešati sa malo kaj
-maka ili sira, pobiberiti i dodati kukuruzno brašno,
-sve dobro izmešati i praviti pljeskavice. Tako obliko-
-vane pljeskavice peći na roštilju. Služiti sa kajmakom,
-sirom ili kiselim mlekom.
+Obarene i samlevene koprive pomešati sa malo kajmaka ili sira, pobiberiti i dodati kukuruzno brašno, sve dobro izmešati i praviti pljeskavice. Tako oblikovane pljeskavice peći na roštilju. 
+
+Služiti sa kajmakom, sirom ili kiselim mlekom.
 
   
 

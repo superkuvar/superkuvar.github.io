@@ -1,10 +1,10 @@
 ---
 id: 12971
-title: ALSKA ČORBA PERE VARENIKE
+title: ALAS ČORBA PERE VARENIKE
 date: 2020-01-03
 author: sneki
 layout: post
-permalink: /alska-corba-pere-varenike/
+permalink: /alas-corba-pere-varenike/
 published: true
 image: 
 posno: 

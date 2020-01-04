@@ -9,28 +9,26 @@ published: true
 image: 
 posno: 
 categories:
-   -
-tags:
-   -
+   - predjelo
+tags: 
+   - jaja
 ---
-JAJA SA LUKOM
-
 Potrebno je:
 
-2 veze mladog luka, 
-6 jaja, 
-decilitar ulja, 
-so i biber
-peršunovo lišće,
+* 2 veze mladog luka 
+* 6 jaja 
+* decilitar ulja 
+* peršunovo lišće
+* so
+* biber
 
 Priprema:
 
-Mladi luk očistiti, oprati i iseći i beli i zeleni
-deo, staviti na ulje i propržiti na umerenoj temperaturi.
-Kada luk sasvim omekani, umutiti jaja, dodati iseckani
-peršunov list, posoliti i pobiberiti i sve nasuti preko.
-luka koji se prži. Brzo mešati i skinuti sa vatre. Uz
-ovako pržena jaja služiti sir, kiselo mleko ili jogurt.
+Mladi luk očistiti, oprati i iseći i beli i zeleni deo, staviti na ulje i propržiti na umerenoj temperaturi.
+
+Kada luk sasvim omekani, umutiti jaja, dodati iseckani peršunov list, posoliti i pobiberiti i sve nasuti preko luka koji se prži. 
+
+Brzo mešati i skinuti sa vatre. Uz ovako pržena jaja služiti sir, kiselo mleko ili jogurt.
 
   
 

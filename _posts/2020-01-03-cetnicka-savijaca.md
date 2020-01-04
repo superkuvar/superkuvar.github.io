@@ -9,9 +9,9 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - sir
 ---
 Potrebno je:
 
@@ -23,22 +23,16 @@ Potrebno je:
 * 5 jaja
 * so.
 
-Način pripreme.
+Način pripreme:
 
-Brašno prosejati u sudu za mešanje, dodati so,
-istopljen kvasac u malo tople vode i zamesiti testo pa
-ga prekriti platnenom salvetom i ostaviti da stoji i da
-nadođe. U drugoj posudi izgnječiti sir i kajmak i dodati
-ulupana jaja. Kada testo nadođe, napraviti manje loptice,
-namazati ih sa malo masti i ostaviti da odstoje još 5
-minuta. Loptice testa razviti oklagijom u obliku kore i
-svaku filovati sa masom od sira i kajmaka. Svaku uviti
-u rolnu. Savijaču složiti tako što treba početi od zida.
-pleha ka sredini i to ukrug, preliti sa malo masti i peći.
-u pećnici oko 45 minuta.
+Brašno prosejati u sudu za mešanje, dodati so, istopljen kvasac u malo tople vode i zamesiti testo pa
+ga prekriti platnenom salvetom i ostaviti da stoji i da nadođe. 
 
-Napomena: Četnička savijača je najbolja kada pliva u
-dosta masti.
+U drugoj posudi izgnječiti sir i kajmak i dodati ulupana jaja. Kada testo nadođe, napraviti manje loptice, namazati ih sa malo masti i ostaviti da odstoje još 5 minuta. 
 
-  
+Loptice testa razviti oklagijom u obliku kore i svaku filovati sa masom od sira i kajmaka. Svaku uviti
+u rolnu. Savijaču složiti tako što treba početi od zida pleha ka sredini i to ukrug, preliti sa malo masti i peći u pećnici oko 45 minuta.
+
+Napomena: Četnička savijača je najbolja kada pliva u dosta masti.
+ 
 

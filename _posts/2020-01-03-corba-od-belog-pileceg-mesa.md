@@ -11,32 +11,28 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - karfiol
 ---
-ČORBA OD BELOG PILEĆEG MESA
-
 Potrebno je:
 
-250 g belog pilećeg mesa,
-150 g karfiola,
-100 g crnog luka,
-decilitar ulja,
-50 g brašna, jaje,
-decilitar mleka,
-kim
-so
-i biber
+* 250 g belog pilećeg mesa,
+* 150 g karfiola,
+* 100 g crnog luka,
+* decilitar ulja,
+* 50 g brašna, jaje,
+* decilitar mleka,
+* kim (mleven)
+* so
+* i biber
 
 Način pripreme:
-Pileće meso kuvati oko jedan sat, ohladiti i sorti-
-rati po želji, špic grudi (belo meso) sitno iseckati.
-Karfiol skuvati, a tokom kuvanja posoliti. U posebnoj
-posudi na ulju prodinstati sitno iseckan luk, dodati
-meso i sve zajedno dinstati oko 5 minuta, zatim dodati
-brašno i naliti vodom. Karfiol iseckati, staviti u
-čorbu i kuvati još oko 10 minuta. Ostatak ulja malo
-zagrejati i dodati u čorbu. Začiniti sa soli, biberom i
-mlevenim kimom po ukusu.
 
-  
+Pileće meso kuvati oko jedan sat, ohladiti i sortirati po želji, špic grudi (belo meso) sitno iseckati.
+Karfiol skuvati, a tokom kuvanja posoliti. 
+
+U posebnoj posudi na ulju prodinstati sitno iseckan luk, dodati meso i sve zajedno dinstati oko 5 minuta, zatim dodati brašno i naliti vodom. 
+
+Karfiol iseckati, staviti u čorbu i kuvati još oko 10 minuta. Ostatak ulja malo zagrejati i dodati u čorbu. Začiniti sa soli, biberom i mlevenim kimom po ukusu.
+
+ 
 

@@ -24,7 +24,7 @@ Potrebno je:
 prašak za pecivo
 kim
 
-Način pripreme
+Način pripreme:
 
 Sir izgnječiti, dodati celo jaje i jedno žumance,
 margarin, brašno, prašak za pecivo i malo soli.

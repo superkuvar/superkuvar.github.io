@@ -29,7 +29,7 @@ biber,
 peršunovo lišće
 i zelena salata
 
-Način pripreme.
+Način pripreme:
 
 Pšenicu skuvati u vodi i ostaviti da se ohladi, a zatim
 je procediti i na platnenoj salveti malo prosušiti, Jaja.

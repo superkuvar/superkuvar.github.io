@@ -11,31 +11,31 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - gljive
+   - kisela pavlaka
 ---
-ČORBA OD GLjIVA SA KNEDLAMA
-
 Potrebno je:
-200 g gljiva,
-glavica crnog luka, 
-mirođija peršunovo lišće, so, biber
-decilitar ulja, 
-kašika brašna,
-decilitar kisele pavlake,
+
+* 200 g gljiva,
+* glavica crnog luka, 
+* mirođija peršunovo lišće
+* decilitar ulja, 
+* kašika brašna,
+* decilitar kisele pavlake
+* so
+* biber
 
 Za knedle:
+
 * jaje
 * 3-4 kašike brašna
 * malo ulja
 * so
 
-Način pripreme.
+Način pripreme:
 
-Gljive oprati, sitno iseći i propržiti na ulju zajed-
-no sa iseckanim crnim lukom. Dinstati 30 minuta. Kad
-povrće omekša dodati knedle i belu zapršku. Začiniti po.
-ukusu i kuvati još 15 minuta.
+Gljive oprati, sitno iseći i propržiti na ulju zajedno sa iseckanim crnim lukom. Dinstati 30 minuta. 
 
-
+Kad povrće omekša dodati knedle i belu zapršku. Začiniti po ukusu i kuvati još 15 minuta.
   
 

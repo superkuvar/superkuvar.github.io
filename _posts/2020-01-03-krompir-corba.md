@@ -11,30 +11,25 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+   - krompir
 ---
-
-KROMPIR ČORBA
-
 Potrebno je:
 
-500 g krompira
-200 g kuvanog goveđeg mesa
-200 crnog luka,
-100 g kajmaka,
-200 g svežih paprika
-kašika masti,
-20 g ljutog ajvara, 
-so i biber
+* 500 g krompira
+* 200 g kuvanog goveđeg mesa
+* 200 crnog luka
+* 100 g kajmaka
+* 200 g svežih paprika
+* kašika masti
+* 20 g ljutog ajvara 
+* so i biber
 
 Priprema:
 
+Krompir očistiti, oprati i iseći na 4 ili 8 dolova. Kuvati sa isečenim povrćem oko 30 minuta, pa dodati
+prethodno kuvanu govedinu. Na masti rastopiti kajmak i preliti čorbu. 
 
-Krompir očistiti, oprati i iseći na 4 ili 8 dolova.
-Kuvati sa isečenim povrćem oko 30 minuta, pa dodati
-prethodno kuvanu govedinu. Na masti rastopiti kajmak i
-preliti čorbu. Posoliti i pobiberiti po ukusu. Služiti
-toplo.
+Posoliti i pobiberiti po ukusu. Služiti toplo.
 
 
 

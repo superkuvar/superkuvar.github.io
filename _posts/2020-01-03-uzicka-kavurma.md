@@ -9,24 +9,21 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - aleva
 ---
-UŽIČKA KAVURMA
-
 Potrebno je (za 8 osoba):
 
-2 kg iznutrica,
-2 kašike masti,
-4 glavice crnog luka,
-glavica belog luka,
-aleva paprika,
-začin, so i lovorov list
-
+* 2 kg iznutrica
+* 2 kašike masti
+* 4 glavice crnog luka
+* glavica belog luka
+* aleva paprika
+* lovorov list
+* so
 
 Priprema:
-
 
 Iznutrice (džigerice, srce, bubrezi, svinjske
 kožice) kuvati 2–3 sata. 

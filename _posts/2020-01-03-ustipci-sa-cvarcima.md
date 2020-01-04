@@ -9,32 +9,26 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - jaja
 ---
 UŠTIPCI SA ČVARCIMA
 
 Potrebno je:
 
-500 g brašna, 
-200 g čvaraka,
-3 jajeta,
-10 g kvasca,
-2 dl mleka,
-5 dl ulja 
-so
+* 500 g brašna
+* 200 g čvaraka
+* 3 jajeta
+* 10 g kvasca
+* 2 dl mleka
+* 5 dl ulja 
+* so
 
-Način pripreme.
+Način pripreme:
 
-Brašno prosejati, posoliti i dodati kvasac koji je
-prethodno rastopljen u mlakoj vodi. U posebnu posudu
-sipati mleko i vodu, a zatim dodati brašno i lagano
-mešati. Kada se sjedinilo testo, dodati umućena jaja i
-čvarke. Testo prekriti platnenom salvetom i ostaviti da.
-stoji oko dva sata na toplom mestu. Nadošlo testo.
-kašikom vaditi i pržiti u dobro zagrejanom dubokom
-ulju. Uštipke služiti tople.
+Brašno prosejati, posoliti i dodati kvasac koji je prethodno rastopljen u mlakoj vodi. U posebnu posudu sipati mleko i vodu, a zatim dodati brašno i lagano mešati. Kada se sjedinilo testo, dodati umućena jaja i čvarke. 
 
-  
+Testo prekriti platnenom salvetom i ostaviti da stoji oko dva sata na toplom mestu. Nadošlo testo kašikom vaditi i pržiti u dobro zagrejanom dubokom ulju. Uštipke služiti tople.
+
 

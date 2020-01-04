@@ -7,29 +7,25 @@ layout: post
 permalink: /hrskava-pogaca/
 published: true
 image: 
-posno: 
+posno: false
 categories:
-   -
+   - hleb
 tags:
-   -
+   - jaje
 ---
 Potrebno je:
 
-kilogram brašna, 
- malo ulja,
-žumance, 
- mleka i vode.
-20 g kvasca, 
- iso
+* kilogram brašna 
+* žumance, 
+* malo ulja
+* malo mleko
+* 20 g kvasca 
+* so
 
 Način pripreme:
 
-Testo zamesiti tako da ne bude previše čvrsto, mesi-
-ti dok ne počne da se odvaja od ruku. Ostaviti da nadođe
-oko pola sata, pa preručiti u podmazanu tepsiju. Pro
-pečenja premazati dobro ulupanim snegom od jednog
-belanceta. Peći u dobro zagrejanoj rerni. Pečeno je kada
+Testo zamesiti tako da ne bude previše čvrsto, mesiti dok ne počne da se odvaja od ruku. Ostaviti da nadođe oko pola sata, pa preručiti u podmazanu tepsiju.
 
-seča el
+Pre pečenja premazati dobro ulupanim snegom od jednog belanceta. Peći u dobro zagrejanoj rerni. Pečeno je kada seča se odvoji od tepsije.
   
 

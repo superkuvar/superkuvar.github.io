@@ -9,15 +9,15 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - predjelo
 tags:
-   -
+   - jaja
 ---
 Potrebno je:
 
 * 300 g mlevenog mesa 
 * 2-3 glavice crnog luka
-* 4 jajta
+* 4 jaja
 * jedan jogurt
 * šoljica mleka
 * 12 kašika brašna

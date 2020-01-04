@@ -9,32 +9,31 @@ published: true
 image: 
 posno: 
 categories:
-   -
+   - super i čorbe
 tags:
-   -
+   - ruzmarin
 ---
-KOSAČKA ČORBA OD PŠENICE I KOCKICA SIRA
-
 Potrebno je:
 
-100 g crnog luka
-200 g kuvane pšenice,
-100 g šargarepe
-kašika aleve paprike,
-100 g korena celera 
-2 dl ulja
-so, biber
-2 jajeta, 
-200 g sira, 
-1 g ruzmarina
+* 100 g crnog luka
+* 200 g kuvane pšenice
+* 200 g sira, 
+* 100 g šargarepe
+* 2 jajeta, 
+* kašika aleve paprike
+* 100 g korena celera 
+* 2 dl ulja
+* 1 g ruzmarina
+* soli
+* bibera
 
-Način pripreme:Povrće samleti na vodenici za mlevenje mesa na
-krupniju šajbnu, dinstati ga na ulju 15 minuta a zatim
-naliti tri litre vode i kuvati. Kada provri dodati
-kuvanu pšenicu i sitno iseckano kocke sira. Sve kuvati
-još 20 minuta. Dodati alevu papriku i ostale začine. Na
-samom kraju kuvanja dodati 1 g ruzmarina i umućena jaja.
-lagano sipati i mešati da se ne zgruša u čorbi,
+Način pripreme:
+
+Povrće samleti na vodenici za mlevenje mesa na krupniju šajbnu, dinstati ga na ulju 15 minuta a zatim
+naliti tri litre vode i kuvati. 
+
+Kada provri dodati kuvanu pšenicu i sitno iseckane kocke sira. Sve kuvati još 20 minuta. Dodati alevu papriku i ostale začine. Na samom kraju kuvanja dodati 1 g ruzmarina u umućena jaja, lagano sipati i mešati. 
+
 Napomena: Gram ruzmarina je dovoljan za tri litra čorbe.
 
  
