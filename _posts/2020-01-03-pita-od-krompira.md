@@ -13,25 +13,21 @@ categories:
 tags:
    -
 ---
-PITA OD KROMPIRA
-
 Potrebno je:
 
-500 g kora, 
-3 glavice crnog luka, 
-kilogram krompira,
-peršunovo lišće,
-so,
-biber 
-aleva paprika
+* 500 g kora 
+* 3 glavice crnog luka 
+* kilogram krompira
+* peršunovo lišće
+* aleva paprika
+* so
+* biber 
 
 Način pripreme:
-Luk sitno iseckati propržiti i dodati narendani
-krompir. Sve zajedno malo propržiti, posoliti, pobiber-
-iti, dodati alevu papriku i sitno iseckan peršun. Uzeti
-kore, svaku poprskati uljem i staviti nadev. Saviti u
-rodne, složiti u pleh i pouljiti. Peći u dobro zagrejanoj
-pećnici oko 40 minuta. Služiti toplo.
+
+Luk sitno iseckati propržiti i dodati narendani krompir. 
+
+Sve zajedno malo propržiti, posoliti, pobiberiti, dodati alevu papriku i sitno iseckan peršun. Uzeti kore, svaku poprskati uljem i staviti nadev. Saviti u rolne, složiti u pleh i pouljiti. Peći u dobro zagrejanoj pećnici oko 40 minuta. Služiti toplo.
 
  
   

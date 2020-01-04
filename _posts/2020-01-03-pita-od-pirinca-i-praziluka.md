@@ -13,15 +13,13 @@ categories:
 tags:
    -
 ---
-PITA OD PIRINČA I PRAZILUKA
-
 Potrebno je:
 
-500 g kora, 
-4-6 strukova praziluka,
-250 g pirinča, 
-2 dl ulja, 
-so i biber
+* 500 g kora 
+* 4-6 strukova praziluka
+* 250 g pirinča 
+* 2 dl ulja 
+* so i biber
 
 Način pripreme:
 

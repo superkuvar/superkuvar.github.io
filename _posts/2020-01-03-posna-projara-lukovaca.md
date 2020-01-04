@@ -8,7 +8,7 @@ permalink: /posna-projara-lukovaca/
 image: 
 posno: 
 categories:
-   -proja
+   - proja
 tags:
    -luk
 ---
