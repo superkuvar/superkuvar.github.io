@@ -15,15 +15,16 @@ tags:
 ---
 Sama reč predjelo kazuje da je to jelo koje se prvo iznosi na sto. Svojim ukusom predjela treba u prvom redu da otvaraju apetit. Zato se mora paziti da ona budu pikantnog ukusa.
 
-Najčešće ih treba služiti u malim količinama, mada predjela ponekad mogu biti i snažnija i obilnija.
-Kod nas se smatra da su predjela znak novog vremena, novog načina ishrane i novog načina služenja za stolom. Međutim to nije tačno.
+Najčešće ih treba služiti u malim količinama, mada predjela ponekad mogu biti i snažnija i obilnija. Kod nas se smatra da su predjela znak novog vremena, novog načina ishrane i novog načina služenja za stolom. Međutim to nije tačno.
 
-Svaki ko je makar samo jednom bio za trpezom nekog uglednijeg seoskog domaćina potvrdiće vam da ni tamo predjelo nije nikakva retkost. Na tim seljačkim trpezama, skoro uvek dok se čeka glavni ručak, uz rashlađenu
+Svako ko je makar samo jednom bio za trpezom nekog uglednijeg seoskog domaćina potvrdiće vam da ni tamo predjelo nije nikakva retkost. Na tim seljačkim trpezama, skoro uvek dok se čeka glavni ručak, uz rashlađenu
 rakiju poslužuju se razna predjela: sir s mladim lukom, kajmak, suve kobasipe, pršuta, kajgana sa sirom i razni drugi specijaliteti.
 
-Predjela su deo skoro svakog obeda. Služe se i u obične dane i za vreme praznika. Zato što otvaraju apetit zovu se još i apetajzeri (appetizer).
+Predjela su deo skoro svakog obeda. Služe se i u obične dane i za vreme praznika. Zato što otvaraju apetit zovu se još apetajzeri (en. appetizer).
 
-U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske pro izvode kao što su šunka, parizer i kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, jaja u svim oblicima.
+Napomena: Predjela se zovu još i meze (it. mezze), antipaste (it. antipasto).
+
+U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske proizvode kao što su šunka, parizer,kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, kao i jaja u svim oblicima.
 
 Ovo je moje omiljeno predjelo:
 
@@ -37,7 +38,7 @@ Potrebno je (za 4 osobe):
 
 Način pripreme:
 
-Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuslni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
+Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuelni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
 
  
 
