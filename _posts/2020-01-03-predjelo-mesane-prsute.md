@@ -23,11 +23,11 @@ rakiju poslužuju se razna predjela: sir s mladim lukom, kajmak, suve kobasipe, 
 
 Predjela su deo skoro svakog obeda. Služe se i u obične dane i za vreme praznika. Zato što otvaraju apetit zovu se još i apetajzeri (appetizer).
 
-U hladne zakuske (predjela) mogli bismo da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske pro izvode kao što su šunka, parizer i kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, jaja u svim oblicima.
+U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske pro izvode kao što su šunka, parizer i kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, jaja u svim oblicima.
 
 Ovo je moje omiljeno predjelo:
 
-<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/prcuta.jpg" alt="prsuta" width="300" height="285">
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/prsuta.jpg" alt="prsuta" width="300" height="285">
 
 Potrebno je (za 4 osobe):
 
