@@ -27,7 +27,7 @@ U hladne zakuske (predjela) mogli bismo da uračunamo razne konzervisane ribe, m
 
 Ovo je moje omiljeno predjelo:
 
-<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/prcuta.jpg" alt="oblanda cokolada" width="300" height="225">
+<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/prcuta.jpg" alt="prsuta" width="300" height="285">
 
 Potrebno je (za 4 osobe):
 
