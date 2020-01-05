@@ -25,7 +25,8 @@ Priprema: u šolji viljuškom razmutiti jaje, vodu, brašno i so u glatku, retku
 
 Testo za taranu sipati preko viljuške, kroz koju će se slivati u tankim mlazevima u supu koja vri. Mešati da se testo ne zalepi za dno posude. Supu kuvati još 3-5 minuta na umerenoj vatri.
 
-Napomena: ovo je količina tarane za oko jedan i po litar supe ili čorbe.
+### Napomena:
+> ovo je količina tarane za oko jedan i po litar supe ili čorbe.
 
 Dodaci se stavljaju u supe i čorbe da bi bile hranljivije i ukusnije. To mogu biti gotove namirnice kao: jaje, pirinač, griz, industrijska testenina (rezanci, pužići, zvezdice) i dodaci koji se mogu pripremiti, kao noklice, knedle, tarana.
 

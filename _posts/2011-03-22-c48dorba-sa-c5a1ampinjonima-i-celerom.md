@@ -35,6 +35,7 @@ Kada su šampinjoni i celer malo omekšali, naliti ih litrom i po tople vode. Č
 
 Umutiti žumance sa pavlakom i sipati u gotovu čorbu.
 
-Napomena: šampinjoni i celer, kada su kuvani, mogu se izmiksati, da se dobije krem čorba.
+### Napomena:
+> šampinjoni i celer, kada su kuvani, mogu se izmiksati, da se dobije krem čorba.
 
 &nbsp;

@@ -38,4 +38,5 @@ Pri kraju dinstanja, u varivo dodati seckani peršunov list. Ukoliko je potrebno
 
 Varivo od šargarepe poslužiti kao prilog uz meso.
 
-Napomena: šargarepa se najčešće koristi kao kuvana ili dinstana i skoro je nezaobilazni sastojak u supama i čorbama.
+### Napomena:
+> šargarepa se najčešće koristi kao kuvana ili dinstana i skoro je nezaobilazni sastojak u supama i čorbama.

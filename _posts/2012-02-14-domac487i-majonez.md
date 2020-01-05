@@ -31,7 +31,8 @@ Potrebno je:
 
 Priprema: u posudu za mućenje staviti žumanca, senf i so i razmutiti mikserom. Postepeno dodavati ulje, kap po kap, uz neprestano mućenje, dok masa ne postane homogena. Zatim ulje sipati u tankom mlazu, uz neprestano mućenje, sve dok se ne potroši čitava količina. Na kraju dodati sok od limuna i još malo mutiti. Gotov majonez čuvati u frižideru.
 
-Napomena: da bi se majonez dobro umutio, sastojci treba da imaju sobnu temperaturu. Jaja odnosno žumaca, pre pripreme majoneza, treba da budu van frižidera najmanje dva sata. So i ulje takođe treba da imaju sobnu temperaturu. Ovo je potrebno zato što se hladni sastojci ne mogu umutiti u homogenu masu.
+### Napomena:
+> da bi se majonez dobro umutio, sastojci treba da imaju sobnu temperaturu. Jaja odnosno žumaca, pre pripreme majoneza, treba da budu van frižidera najmanje dva sata. So i ulje takođe treba da imaju sobnu temperaturu. Ovo je potrebno zato što se hladni sastojci ne mogu umutiti u homogenu masu.
 
 Za mućenje koristiti srednju brzinu miksera i ne menjati je sve dok majonez ne bude gotov.
 

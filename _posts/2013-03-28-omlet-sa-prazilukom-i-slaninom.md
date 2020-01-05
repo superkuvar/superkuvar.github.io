@@ -42,4 +42,5 @@ Umutiti jaja sa mlekom, kurkumom, solju i seckanim peršunovim listom. Umućena 
 
 Omlet služiti topao.
 
-Napomena: umesto kurkume, može se dodati mleveni biber.
+### Napomena:
+> umesto kurkume, može se dodati mleveni biber.

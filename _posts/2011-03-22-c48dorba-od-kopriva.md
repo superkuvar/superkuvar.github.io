@@ -38,4 +38,5 @@ Posebno na ulju propržiti mladi crni luk isečen na kolutove, dodati brašno i 
 
 Kada čorba provri, dodati opran pirinač i kuvati oko 30 minuta. Gotovu čorbu začiniti žumancetom razmućenim u kiseloj pavlaci.
 
-Napomena: kopriva je jedna od najkorisnijih lekovitih biljaka. Svi njeni delovi &#8211; stabljika, list, koren, cvet, seme imaju lekovita svojstva. Kopriva je najbolja biljka za čišćenje krvi, pomaže snižavanju šećera u krvi, a ima i mnoga druga lekovita svojstva.
+### Napomena:
+> kopriva je jedna od najkorisnijih lekovitih biljaka. Svi njeni delovi &#8211; stabljika, list, koren, cvet, seme imaju lekovita svojstva. Kopriva je najbolja biljka za čišćenje krvi, pomaže snižavanju šećera u krvi, a ima i mnoga druga lekovita svojstva.

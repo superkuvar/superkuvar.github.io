@@ -41,7 +41,8 @@ Krajeve maramice saviti u sredinu i slagati u pleh jednu do druge (voditi račun
 
 Zatim preliti sa rojal masom i nastaviti pečenje dok ne dobije lepu rumenu boja.
 
-Napomena: rojal masa se pravi tako što se umuti posebno belance i žumance, zatim sjedini, doda brašno,
+### Napomena:
+> rojal masa se pravi tako što se umuti posebno belance i žumance, zatim sjedini, doda brašno,
 mleko, začin i sve dobro izmuti. 
 
   

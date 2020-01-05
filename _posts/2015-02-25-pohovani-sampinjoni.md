@@ -36,4 +36,5 @@ Kada su šampinjoni gotovi vaditi ih rešetkastom kašikom i stavljati na papirn
 
 Pohovani šampinjoni mogu biti predjelo, a mogu se poslužiti i kao jelo sa barenim pirinčem, uz kiselu pavlaku, majonez ili salatu od povrća.
 
-Napomena: šampinjoni se mogu uvaljati umesto u prezlu u susam.
+### Napomena:
+> šampinjoni se mogu uvaljati umesto u prezlu u susam.

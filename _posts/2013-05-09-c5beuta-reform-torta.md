@@ -49,7 +49,8 @@ Premazati kore pripremljenim filom i slagati jednu na drugu. Deo fila odvojiti i
 
 Torta treba da odstoji na hladnom mestu nekoliko sati. Nakon toga je iseći i poslužiti.
 
-Napomena: u skuvan fil, kada se ohladi, može se umešati penasto umućen maslac i margarin, umesto načina koji je prikazan u receptu.
+### Napomena:
+> u skuvan fil, kada se ohladi, može se umešati penasto umućen maslac i margarin, umesto načina koji je prikazan u receptu.
 
 Ukoliko imate veći pleh, smesa od belanca i oraha može se izliti u njega i staviti da se peče. U tom slučaju pečenu koru podeliti na tri uže pravougaone kore.
 

@@ -27,7 +27,8 @@ Masu zamesiti da ne bude suviše gusta, podmazati pleh, staviti masu i peći u z
 
 Projara je pečena kada dobije lepu rumenu boju.
 
-Napomena: Posna projara lukovača se pripremala još u doba Nemanjića i to za vrome velikog posta. Na kraju XX veka projara lukovača je svoje mesto zauzela na trpezama kao toplo predjelo, a dobro je služiti je uz pivo.
+### Napomena:
+> Posna projara lukovača se pripremala još u doba Nemanjića i to za vrome velikog posta. Na kraju XX veka projara lukovača je svoje mesto zauzela na trpezama kao toplo predjelo, a dobro je služiti je uz pivo.
 
   
 

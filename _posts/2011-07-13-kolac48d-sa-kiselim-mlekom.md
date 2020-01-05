@@ -40,4 +40,5 @@ Priprema: umutiti jaja sa šećerom, pa dodati kiselo mleko, mleko, ulje, vanilu
 
 Pleh prekriti papirom za pečenje, pa sipati polovinu mase. U drugu polovinu dodati kašiku kakao praha, izmešati i sipati preko žutog testa. Peći na 200 stepeni oko 40 minuta. Kad se kolač ispeče, iseći ga na kocke i posuti prah šećerom.
 
-Napomena: ponekad, kada želim da kolač izgleda malo drugačije, testo sipam ovako: na sredinu pleha sipam kašiku žutog testa, pa preko njega kašiku tamnog i tako naizmenično, dok se testo ne utroši. Kolač još lepše izgleda, ako se peče u tepsiji, a ne u plehu.
+### Napomena:
+> ponekad, kada želim da kolač izgleda malo drugačije, testo sipam ovako: na sredinu pleha sipam kašiku žutog testa, pa preko njega kašiku tamnog i tako naizmenično, dok se testo ne utroši. Kolač još lepše izgleda, ako se peče u tepsiji, a ne u plehu.

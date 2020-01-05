@@ -45,6 +45,7 @@ U malo zagrejanog ulja dodati brašno i pržiti da blago porumeni. Isključiti t
 
 Kad pasulj omekša posoliti ga i zapržiti pripremljenom zaprškom, uz stalno mešanje da se brašno ne zgrudva. Kuvati na tihoj vatri još desetak minuta. Po želji, u pasulj dodati malo mlevenog bibera.
 
-Napomena: umesto slanine, u pasulj se mogu staviti suva rebra ili suve kosti.
+### Napomena:
+> umesto slanine, u pasulj se mogu staviti suva rebra ili suve kosti.
 
 Savet za mlade domaćice: pasulj se pri kuvanju, sve do zapržavanja, ne sme mešati kako ne bi došlo do lomljenja zrna i zagorevanja.

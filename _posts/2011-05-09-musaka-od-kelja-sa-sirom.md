@@ -43,4 +43,5 @@ U podmazan sud ređati red kelja, red struganog sira, posuti prezlom i preliti j
 
 Na kraju, musaku preliti sa malo ulja i staviti u pećnicu da se zapeče oko 20 minuta, na 180 stepeni.
 
-Napomena: umesto jajima i mlekom, musaka se može preliti bešamel sosom.
+### Napomena:
+> umesto jajima i mlekom, musaka se može preliti bešamel sosom.

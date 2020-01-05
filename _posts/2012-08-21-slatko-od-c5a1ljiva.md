@@ -34,4 +34,5 @@ Slatko kuvati dotle dok ne vidimo da sa kašike kojom zahvatamo sok ne curi mlaz
 
 Gotovo slatko skloniti sa vatre, sa površine ukloniti penu, pokriti mokrom salvetom i ostaviti da se hladi. Sutradan sipati u čiste sterilisane tegle i povezati celofanom. Paziti da uvek ostane soka iznad šljiva.
 
-Napomena: slatko koje se priprema od voća koje nema dovoljno kiseline lako se ušećeri. Da bi se to sprečilo, pri kuvanju u slatko treba dodati limun ili odgovarajuću količinu limunske kiseline.
+### Napomena:
+> slatko koje se priprema od voća koje nema dovoljno kiseline lako se ušećeri. Da bi se to sprečilo, pri kuvanju u slatko treba dodati limun ili odgovarajuću količinu limunske kiseline.

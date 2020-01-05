@@ -33,7 +33,8 @@ Gotov pirinač preliti vrelim uljem i preručiti u činiju za služenje.
 
 Ovako pripremljen pirinač poslužiti kao prilog uz šnicle, dinstano meso ili ribu.
 
-Napomena: pirinač je žitarica poreklom iz tropske Azije. Osnovna je hrana za više od polovine čovečanstva. Postoji oko hiljadu vrsta pirinča.
+### Napomena:
+> pirinač je žitarica poreklom iz tropske Azije. Osnovna je hrana za više od polovine čovečanstva. Postoji oko hiljadu vrsta pirinča.
 
 Pirinač je siromašan mastima, a bogat skrobom, mineralima, vitaminima (najviše E &#8211; u klici i B &#8211; u ljusci). Lako se vari.
 

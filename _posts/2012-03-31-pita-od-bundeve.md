@@ -37,4 +37,5 @@ Uvijene rolne pite poređati u pleh prekriven papirom za pečenje i svaku premaz
 
 Pečenu pitu prekriti platnenom salvetom i ostaviti da se ohladi. Seći na parčiće i posuti šećerom u prahu pomešanim sa vanilom.
 
-Napomena: bundeva se prethodno može prodinstati sa 2-3 kašike ulja, da omekša, pa joj dodati šećer i suvo grožđe. Ukoliko je bundeva slatka, treba staviti manju količinu šećera.
+### Napomena:
+> bundeva se prethodno može prodinstati sa 2-3 kašike ulja, da omekša, pa joj dodati šećer i suvo grožđe. Ukoliko je bundeva slatka, treba staviti manju količinu šećera.

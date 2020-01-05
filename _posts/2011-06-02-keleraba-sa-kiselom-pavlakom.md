@@ -32,7 +32,8 @@ U drugoj posudi prokuvati pavlaku, spustiti kolutove kelerabe, dodati ulje i bra
 
 Kelerabu sa kiselom pavlakom služiti kao prilog uz meso.
 
-Napomena: keleraba pripada porodici kupusa. Vodi poreklo iz severne Evrope. Naročito je omiljena u Nemačkoj.
+### Napomena:
+> keleraba pripada porodici kupusa. Vodi poreklo iz severne Evrope. Naročito je omiljena u Nemačkoj.
 
 Keleraba je niskokalorično povrće, bogato vitaminima (B kompleks, C), mineralima (bakar, kalcijum, kalijum, mangan, gvožđe, fosfor) i dijetnim vlaknima. Iako je niskokalorična, zasitna je zbog biljnih vlakana, pa se naročito preporučuje u dijetama za mršavljenje.
 

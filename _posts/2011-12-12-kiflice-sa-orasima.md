@@ -38,7 +38,8 @@ Testo dobro  umesiti, otkidati komadiće, oblikovati ih rukama u valjčiće i pr
 
 Nepečene kiflice uvaljati u mlevene orahe i ređati u pleh prekriven papirom za pečenje. Peći na 200 stepeni 10-15 minuta, dok kiflice ne porumene.
 
-Napomena: kiflice uvaljati u orahe, ako se prave ručno, a ako se testo stavlja u modlice onda ne, već ih kada su pečene, preliti istopljenom čokoladom.
+### Napomena:
+> kiflice uvaljati u orahe, ako se prave ručno, a ako se testo stavlja u modlice onda ne, već ih kada su pečene, preliti istopljenom čokoladom.
 
 &nbsp;
 

@@ -40,4 +40,5 @@ Crni luk očistiti, iseckati na rebarca i propržiti na ulju. Dodati paradajz, p
 
 Patlidžan, prethodno uvaljan u brašno, poređati u podmazanu posudu za pečenje, preko sipati trećinu količine sosa od paradajza i posuti narendanim kačkavaljem. Odozgo opet staviti patlidžan, sos, kačkavalj, pa opet patlidžan, sos i kačkavalj. Jelo staviti u pećnicu zagrejanu na 220 stepeni i peći 45 minuta.
 
-Napomena: patlidžan se može prethodno ispržiti na ulju ili ispohovati.
+### Napomena:
+> patlidžan se može prethodno ispržiti na ulju ili ispohovati.

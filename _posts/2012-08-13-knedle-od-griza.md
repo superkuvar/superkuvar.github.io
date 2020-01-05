@@ -30,4 +30,5 @@ Kašičicom vaditi knedle i spuštati ih u ključalu supu. Ukoliko se prva knedl
 
 Prilikom kuvanja knedle će narasti i upiti supu, tako da treba staviti više nego uobičajeno bistre supe. Kuvati desetak minuta, odnosno kada se knedla preseče i unutra bude kuvana poslužiti supu.
 
-Napomena: pre zahvatanja testa za knedle, kašičicu uvek potopiti u ključalu supu, da se testo ne bi lepilo za kašičicu.
+### Napomena:
+> pre zahvatanja testa za knedle, kašičicu uvek potopiti u ključalu supu, da se testo ne bi lepilo za kašičicu.

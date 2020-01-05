@@ -33,6 +33,7 @@ Kada tikvice omekšaju i suvišna voda uvri, začiniti kiselom pavlakom, dodati 
 
 Varivo od tikvica poslužiti kao samostalno jelo ili kao prilog uz pileće meso.
 
-Napomena: postoji mnogo načina na koje se tikvice mogu pripremiti. Mogu se kuvati, peći, pohovati, puniti različitim nadevima sa i bez mesa ili pripremiti kao ukusna salata sa raznim povrćem.
+### Napomena:
+> postoji mnogo načina na koje se tikvice mogu pripremiti. Mogu se kuvati, peći, pohovati, puniti različitim nadevima sa i bez mesa ili pripremiti kao ukusna salata sa raznim povrćem.
 
 Tikvice su odlične kao predjelo ili glavno jelo, a najbolje ih je kombinovati sa povrćem kao što je: paradajz, plavi patlidžan, crni luk, paprika ili pečurke.

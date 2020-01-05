@@ -37,4 +37,5 @@ Kolutiće za vanilice peći desetak minuta u rerni zagrejanoj na 200 stepeni.
 
 Ispečene, još tople kolutiće s jedne strane namazati pekmezom i spajati po dva, da se dobiju vanilice. Vanilice uvaljati u prah šećer kojem je dodat vanilin šećer.
 
-Napomena: umesto masti može se upotrebiti margarin.
+### Napomena:
+> umesto masti može se upotrebiti margarin.

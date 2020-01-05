@@ -39,4 +39,5 @@ Priprema: skuvati makarone u posoljenoj vodi i ocediti ih. Očišćen i sitno is
 
 Izmešati grašak i makarone i sipati u podmazanu posudu za pečenje. Odozgo preliti jajima umućenim sa mlekom i posuti margarinom isečenim na listiće. Grašak i makarone peći 30 minuta u pećnici zagrejanoj na 200 stepeni.
 
-Napomena: umesto listićima margarina, jelo se može posuti narendanim kačkavaljem.
+### Napomena:
+> umesto listićima margarina, jelo se može posuti narendanim kačkavaljem.

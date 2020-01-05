@@ -33,4 +33,5 @@ U umućen margarin dodati mleveni keks, iseckane žele bombone i oceđeno suvo g
 
 Trouglasti uski pleh obložiti folijom i napuniti ga pripremljenom masom. Pleh staviti u frižider da se masa ohladi i stegne. Nakon toga kolač izručiti iz pleha na radnu površinu i iseći na trouglove. Žele trouglovi treba da se čuvaju na hladnom.
 
-Napomena: žele bombone treba da budu različite boje, jer će trouglovi lepše izgledati.
+### Napomena:
+> žele bombone treba da budu različite boje, jer će trouglovi lepše izgledati.

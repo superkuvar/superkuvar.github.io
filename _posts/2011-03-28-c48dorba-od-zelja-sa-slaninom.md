@@ -43,7 +43,8 @@ Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratk
 
 Umesto slaninom, čorba se može začitini kiselom pavlakom.
 
-Napomena: zelje je samonikla višegodišnja biljka. Koriste se mladi listovi, koji su sočni i ukusni. Čim zelje ostari, postaje gorko i oporo.
+### Napomena:
+> zelje je samonikla višegodišnja biljka. Koriste se mladi listovi, koji su sočni i ukusni. Čim zelje ostari, postaje gorko i oporo.
 
 Od zelja se prave čorbe, sarmice, pite, proja.
 

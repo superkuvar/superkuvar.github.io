@@ -35,4 +35,5 @@ Priprema: kelerabu oprati, oljuštiti i isitniti na kockice ili kriške. Crni lu
 
 Kada je čorba kuvana dodati kiselu pavlaku u kojoj je razmućeno žumance, promešati, skloniti sa štednjaka i servirati.
 
-Napomena: mlada, sirova keleraba može da se doda u sezonske salate. Keleraba je ukusna i ako se dinsta, kuva pa zatim pohuje ili peče u rerni.
+### Napomena:
+> mlada, sirova keleraba može da se doda u sezonske salate. Keleraba je ukusna i ako se dinsta, kuva pa zatim pohuje ili peče u rerni.

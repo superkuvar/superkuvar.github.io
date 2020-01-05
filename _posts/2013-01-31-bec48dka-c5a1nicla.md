@@ -41,7 +41,8 @@ U dubljem tiganju zagrejati ulje, pa u njega spuštati šniclu po šniclu. Prži
 
 Ispržene šnicle rešetkastom kašikom izvaditi na tanjir, po želji dekorisati kriškama limuna i služiti uz dodatke od povrća i salatu.
 
-Napomena: u posudi u kojoj se šnicle prže ne treba da bude previše masnoće, odnosno gornja strana šnicle ne treba da bude uronjena u masnoću.
+### Napomena:
+> u posudi u kojoj se šnicle prže ne treba da bude previše masnoće, odnosno gornja strana šnicle ne treba da bude uronjena u masnoću.
 
 Zanimljivost: u stručnoj literaturi se može naići na podatak da je Milano postojbina pohovane teleće šnicle. Neki istoričari tvrde da se još u Vizantiji pripremalo pohovano prženo meso.
 

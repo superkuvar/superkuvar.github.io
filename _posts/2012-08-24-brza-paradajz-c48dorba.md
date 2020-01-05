@@ -36,6 +36,7 @@ Priprema: u lonac sipati ulje, dobro ga zagrejati, dodati šećer i pržiti da p
 
 Luk očistiti, sitno iseckati i dodati u čorbu. Istovremeno, dodati kašičicu aleve paprike, so, malo bosiljka i fidu ili neku drugu testeninu za supu. Kuvati 10-15 minuta na umerenoj temperaturi. Gotovu čorbu posuti seckanim peršunovim listom.
 
-Napomena: ova paradajz čorba obično se priprema u zimskim mesecima, kada nema svežeg paradajza. Za pripremu čorbe umesto paradajz pirea može se koristiti i paradajz iz zimnice.
+### Napomena:
+> ova paradajz čorba obično se priprema u zimskim mesecima, kada nema svežeg paradajza. Za pripremu čorbe umesto paradajz pirea može se koristiti i paradajz iz zimnice.
 
 Umesto bosiljka u čorbu se može staviti list-dva lovora, a umesto rezanaca pirinač, prethodno obaren.

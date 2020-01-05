@@ -33,6 +33,7 @@ Podmazati tepsiju (veću šerpu) ili pleh i staviti jednu koru, poprskati je sa 
 
 Kada je pita pečena izvaditi je iz pećnice, prekriti vlažnom krpom ili malo poprskati vodom i pustiti da se prohladi pre sečenja.
 
-Napomena: u luk se može dodati i 200-300 grama izmrvljenog punomasnog belog sira.
+### Napomena:
+> u luk se može dodati i 200-300 grama izmrvljenog punomasnog belog sira.
 
 &nbsp;

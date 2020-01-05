@@ -30,6 +30,7 @@ Džigericu iseći na tanje šnicle, uvaljati ih u brašno i pržiti na ulju, da 
 
 Džigericu služiti sa kuvanim pirinčem, pire krompirom ili makaronama i salatom od paradajza ili nekog drugog sezonskog povrća.
 
-Napomena: sa džigerice pre pripreme treba oštrim nožem ukloniti opnu i čvrste krvne sudove, ukoliko ih ima.
+### Napomena:
+> sa džigerice pre pripreme treba oštrim nožem ukloniti opnu i čvrste krvne sudove, ukoliko ih ima.
 
 Za iznutrice važi pravilo &#8211; kada ih kupujemo treba da budu sveže i treba ih odmah pripremiti. Džigerica treba da bude glatka, sjajna i dovoljno svetle boje.

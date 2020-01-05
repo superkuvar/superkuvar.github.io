@@ -35,6 +35,7 @@ Priprema: svo povrće dobro oprati, očistiti, iseckati na komade (karifol na cv
 
 Za presolac skuvati vodu sa solju i sirćetom i kada se ohladi, dodati konzervans. Povezati tegle.
 
-Napomena: za presolac na svaki litar vode dodati po 3 kašike soli i 200 mililitara sirćeta.
+### Napomena:
+> za presolac na svaki litar vode dodati po 3 kašike soli i 200 mililitara sirćeta.
 
 U zimskim danima, kada nema dovoljno svežeg povrća, zimska mešana salata odlično ide uz jela od pasulja, krompira, mesa.

@@ -33,4 +33,5 @@ Isečene rotkvice i luk staviti u činiju za salatu. U posebnoj posudi pomešati
 
 Salata se, po želji, može ukrasiti osminama ili kolutovima tvrdo kuvanih jaja.
 
-Napomena: prilikom kupovine treba birati čvrste rotkvice sa korenčićima na kraju, sa svežim zelenim lišćem. Obratiti pažnju i na veličinu rotkvica, jer veće rotkvice mogu biti stare, šupljikave i vlaknaste.
+### Napomena:
+> prilikom kupovine treba birati čvrste rotkvice sa korenčićima na kraju, sa svežim zelenim lišćem. Obratiti pažnju i na veličinu rotkvica, jer veće rotkvice mogu biti stare, šupljikave i vlaknaste.

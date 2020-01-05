@@ -31,4 +31,5 @@ Priprema: kriškama hleba odstraniti koru, a sredinu iseći na kockice. U posudu
 
 Služiti kao prilog uz krem čorbe, supe ili variva. Krutoni se mogu poslužiti i kao grickalice uz pivo.
 
-Napomena: u ulje se može dodati i neki drugi začin, po želji.
+### Napomena:
+> u ulje se može dodati i neki drugi začin, po želji.

@@ -35,4 +35,5 @@ Svaki režanj tikvica provući kroz testo i stavljati u zagrejano ulje. Pržiti 
 
 Pohovane tikvice poređati na tanjir, a između njih može se staviti malo iseckanog belog luka ili ih posuti iseckanim bosiljkom. Služiti uz salatu.
 
-Napomena: po istom principu može se pohovati plavi patlidžan ili belo meso. Pohovane tikvice mogu se pripremiti i u posnoj varijanti. Tada u masu za pohovanje ne treba dodavati jaje.
+### Napomena:
+> po istom principu može se pohovati plavi patlidžan ili belo meso. Pohovane tikvice mogu se pripremiti i u posnoj varijanti. Tada u masu za pohovanje ne treba dodavati jaje.

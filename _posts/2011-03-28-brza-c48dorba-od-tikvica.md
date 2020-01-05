@@ -42,4 +42,5 @@ U vodu dodati tikvice isečene na kockice i iseckan beli luk, dodati suvi biljni
 
 Kada je čorba gotova, posuti je seckanom mirođijom i začiniti kiselom pavlakom u kojoj je razmućeno jaje.
 
-Napomena: brza čorba od tikvica lako se i jednostavno sprema i naročito je pogodna za pripremu u letnjim mesecima.
+### Napomena:
+> brza čorba od tikvica lako se i jednostavno sprema i naročito je pogodna za pripremu u letnjim mesecima.

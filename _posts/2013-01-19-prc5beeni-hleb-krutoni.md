@@ -30,4 +30,5 @@ Priprema: hleb iseći na kriške jednake debljine, odstraniti koru i sredinu ise
 
 Ispržene kockice hleba izvaditi na papirni ubrus da upije suvišnu masnoću, a zatim staviti u posebnu posudu i servirati kao prilog uz krem čorbu ili supu (od karfiola, krompira, spanaća, šargarepe, graška &#8230;). Krutone dodati u čorbu neposredno pred služenje, da bi ostali hrskavi.
 
-Napomena: prilikom prženja može se dodati na primer: izgnječen beli luk, origano, bosiljak ili neki drugi začin, po želji.
+### Napomena:
+> prilikom prženja može se dodati na primer: izgnječen beli luk, origano, bosiljak ili neki drugi začin, po želji.

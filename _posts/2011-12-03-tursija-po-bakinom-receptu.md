@@ -35,6 +35,7 @@ Napraviti presolac od vode, soli, šećera i sirćeta, dodati konzervans i vinob
 
 Povrće treba da bude u presolcu, pa napraviti onoliko tečnosti koliko je potrebno da sud bude pun. Turšiju držati na hladnom mestu.
 
-Napomena: Za presolac se na svaki litar vode dodaju 4 kašike soli, 50 grama šećera i 3 decilitra sirćeta.
+### Napomena:
+> Za presolac se na svaki litar vode dodaju 4 kašike soli, 50 grama šećera i 3 decilitra sirćeta.
 
 Ova turšija je jednostavna za pripremu, tako da je mogu spremati i mlade domaćice.

@@ -29,6 +29,7 @@ Priprema: u posudu za mešenje sipati brašno i kesicu praška za pecivo, pa rav
 
 Od pripremljenog testa otkidati manje komade, praviti kuglice, malo veće od oraha, stavljati ih u aparat za galete i peći.
 
-Napomena: galete su vrsta peciva koje se priprema tako što se ređe testo izlije u metalni specijalni kalup, prethodno podmazan i dobro zagrejan i za minut-dva testo je pečeno. Mogu da se peku i u starinskom metalnom kalupu, koji se greje na štednjaku, kao što se radilo u vreme naših baka.
+### Napomena:
+> galete su vrsta peciva koje se priprema tako što se ređe testo izlije u metalni specijalni kalup, prethodno podmazan i dobro zagrejan i za minut-dva testo je pečeno. Mogu da se peku i u starinskom metalnom kalupu, koji se greje na štednjaku, kao što se radilo u vreme naših baka.
 
 Postoje razne varijante galeta, slatke, slane.

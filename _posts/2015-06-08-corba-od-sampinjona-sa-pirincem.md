@@ -32,4 +32,5 @@ Priprema: crni luk očistiti, oprati, iseći na rebarca i propržiti na malo ulj
 
 Kada čorba provri dodati opran pirinač, posoliti, pobiberiti i nastaviti sa kuvanjem dok pirinač ne omekša. Kada je čorba gotova posuti je sitno seckanim peršunovim listom.
 
-Napomena: šampinjoni se mogu naliti i supom od kocke umesto vodom.
+### Napomena:
+> šampinjoni se mogu naliti i supom od kocke umesto vodom.

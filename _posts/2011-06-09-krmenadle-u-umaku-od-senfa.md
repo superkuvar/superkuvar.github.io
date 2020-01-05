@@ -34,4 +34,5 @@ Senf izmešati sa malo mlevenog bibera, kašikom brašna i konjakom, preliti krm
 
 Krmendale služiti sa pireom od krompira ili barenim pirinčem i salatom.
 
-Napomena: svinjsko meso sadrži manje belančevina i vode, a više masti od goveđeg mesa. Međutim, neki delovi, kao na primer krmenadle nisu ništa kaloričniji od piletine.
+### Napomena:
+> svinjsko meso sadrži manje belančevina i vode, a više masti od goveđeg mesa. Međutim, neki delovi, kao na primer krmenadle nisu ništa kaloričniji od piletine.

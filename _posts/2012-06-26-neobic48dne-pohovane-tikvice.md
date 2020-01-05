@@ -35,7 +35,8 @@ Umutiti jaja viljuškom i posoliti. Svaki kolut tikvica uvaljati u brašno, umo�
 
 Tikvice poslužiti uz bareni ili pire krompir, a mogu biti i prilog uz meso.
 
-Napomena: tikvice pomažu da se izbace voda i štetne materije iz organizma. Poboljšavaju varenje proteina. Zbog toga ih treba jesti uz meso i ribu.
+### Napomena:
+> tikvice pomažu da se izbace voda i štetne materije iz organizma. Poboljšavaju varenje proteina. Zbog toga ih treba jesti uz meso i ribu.
 
 Tikvice su odlične kao glavno jelo i predjelo, a najbolje se kombinuju sa plavim patlidžanom, paradajzom, lukom, paprikom, pečurkama.
 

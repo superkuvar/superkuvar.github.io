@@ -37,4 +37,5 @@ Očišćen i iseckan luk propržiti na ulju, dodati paprike i pržiti 10 minuta 
 
 Paprike sa krompirom poslužiti kao prilog uz dinstano meso ili faširane šnicle.
 
-Napomena: ovo jelo može se pripremati i u toku zime. Tada koristiti pečene paprike iz zamrzivača. Ko voli pikantan ukus, može dodati i jednu-dve ljute paprike.
+### Napomena:
+> ovo jelo može se pripremati i u toku zime. Tada koristiti pečene paprike iz zamrzivača. Ko voli pikantan ukus, može dodati i jednu-dve ljute paprike.

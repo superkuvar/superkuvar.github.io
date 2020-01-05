@@ -33,7 +33,8 @@ Salata pre služenja treba da se malo ohladi u frižideru.
 
 Ova salata se brzo priprema, pošto cvekla ne treba da se kuva. Ko voli, može dodati i narendani celer (pola korena).
 
-Napomena: cvekla je vrlo lekovito povrće, prava riznica zdravlja. Reguliše krvni pritisak, holesterol, stimuliše rad jetre. Za lečenje se koristi sveže ceđen sok.
+### Napomena:
+> cvekla je vrlo lekovito povrće, prava riznica zdravlja. Reguliše krvni pritisak, holesterol, stimuliše rad jetre. Za lečenje se koristi sveže ceđen sok.
 
 Cvekla je izuzetno bogata belančevinama, mastima i ugljenim hidratima. Sadrži gotovo sve minerale.
 

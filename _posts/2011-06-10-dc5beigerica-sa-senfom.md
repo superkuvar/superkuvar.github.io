@@ -33,7 +33,8 @@ Džigericu dinstati, uz povremeno mešanje, još desetak minuta. Posoliti je na 
 
 Džigericu sa senfom poslužiti uz kuvani krompir ili pirinač i salatu.
 
-Napomena: pre pripreme džigericu očistiti od opne oštrim nožem. Opnu zarezati, a zatim oljuštiti celu. Ukoliko ima krvnih sudova i njih treba ukloniti.
+### Napomena:
+> pre pripreme džigericu očistiti od opne oštrim nožem. Opnu zarezati, a zatim oljuštiti celu. Ukoliko ima krvnih sudova i njih treba ukloniti.
 
 Iznutrice su jeftinije od ostalih vrsta mesa. Međutim, ne treba ih jesti često, a osobe sa povišenim holesterolom trebalo bi da ih izbegavaju.
 

@@ -43,4 +43,5 @@ Pleh sa pripremljenim hlebom staviti u hladnu pećnicu i uključiti je na 250 st
 
 Kada je hleb pečen izvaditi ga iz pleha i staviti na metalnu rešetku da se ohladi.
 
-Napomena: umesto semenki bundeve u testo za hleb se mogu dodati semenke suncokreta, lana, kim ili njihova mešavina.
+### Napomena:
+> umesto semenki bundeve u testo za hleb se mogu dodati semenke suncokreta, lana, kim ili njihova mešavina.

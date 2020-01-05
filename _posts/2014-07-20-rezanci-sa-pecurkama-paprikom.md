@@ -39,6 +39,7 @@ Ispržene paprike i izdinstane pečurke sjediniti.
 
 Rezance skuvati prema uputstvu na ambalaži, a zatim ocediti. Tople rezance izmešati sa paprikama i pečurkama i poslužiti.
 
-Napomena: rezanci se mogu zameniti nekom drugom vrstom testenine.
+### Napomena:
+> rezanci se mogu zameniti nekom drugom vrstom testenine.
 
 Paprike ispeći u pećnici, pa kada se malo prohlade oljuštiti.

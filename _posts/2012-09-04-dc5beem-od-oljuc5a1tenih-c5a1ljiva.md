@@ -30,4 +30,5 @@ Sutradan šljive kuvati na umerenoj temperaturi oko četrdeset minuta, neprestan
 
 Vreo džem sipati u zagrejane sterilisane tegle, pa ih staviti u toplu pećnicu, da se uhvati korica na površini džema. Ohlađene tegle povezati celofanom ili hermetički zatvoriti.
 
-Napomena: da bi se lakše ljuštile, manje količine šljiva stavljati u cediljku, pa potopiti u ključalu vodu 2-3 minuta, a zatim preliti hladnom vodom i odmah ljuštiti. Ili drugi način &#8211; propasirati šljive kroz đevđir, ali tada treba da budu malo mekanije.
+### Napomena:
+> da bi se lakše ljuštile, manje količine šljiva stavljati u cediljku, pa potopiti u ključalu vodu 2-3 minuta, a zatim preliti hladnom vodom i odmah ljuštiti. Ili drugi način &#8211; propasirati šljive kroz đevđir, ali tada treba da budu malo mekanije.

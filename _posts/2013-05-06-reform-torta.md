@@ -50,7 +50,8 @@ U ohlađen fil dodati penasto umućen maslac. Dobro umutiti mikserom i filovati 
 
 Svaku koru, po želji, poprskati sa malo ruma, pa premazati filom. Ostatkom fila premazati celu tortu i posuti je čokoladnim mrvicama, krupno rendanom čokoladom ili mlevenim orasima.
 
-Napomena: ukoliko se prilikom filovanja krem zgusne, pa ne može lako da se premaže preko korica, staviti ga kratko iznad posude sa vrelom vodom na kojoj su se prethodno kuvala žumanca.
+### Napomena:
+> ukoliko se prilikom filovanja krem zgusne, pa ne može lako da se premaže preko korica, staviti ga kratko iznad posude sa vrelom vodom na kojoj su se prethodno kuvala žumanca.
 
 Kore za reform tortu mogu biti i okrugle, tada ih peći na poleđini podmazane šerpe ili manje tepsije.
 

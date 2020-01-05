@@ -45,4 +45,5 @@ U sirup od vode i šećera dodati jagode isečene na četvrtine i kuvati 5 minut
 
 Preko ohlađenog fila premazati čvrsto umućen šlag. Kolač staviti u frižider da se ohladi, a zatim seći na kocke. Na svaku kocku kolača može se staviti po jedna jagoda, kao dekoracija.
 
-Napomena: umesto jagoda može se upotrebiti drugo voće &#8211; višnje ili maline.
+### Napomena:
+> umesto jagoda može se upotrebiti drugo voće &#8211; višnje ili maline.

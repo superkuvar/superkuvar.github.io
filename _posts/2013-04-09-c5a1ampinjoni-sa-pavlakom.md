@@ -41,6 +41,7 @@ Na ulju propržiti sitno seckani crni luk, pa dodati šampinjone. Pirjaniti na t
 
 Izdinstane pečurke začiniti solju, biberom i sokom od limuna, po ukusu. Umešati kiselu pavlaku, pustiti da proključa i odmah skloniti sa štednjaka. Posuti sitno seckanim peršunom. Pečurke poslužiti sa pireom od krompira ili barenim pirinčem.
 
-Napomena: šampinjoni imaju nisku kalorijsku vrednost, pa su pogodni za ishranu osoba na dijetama. Lako se vare, bogati su belančevinama.
+### Napomena:
+> šampinjoni imaju nisku kalorijsku vrednost, pa su pogodni za ishranu osoba na dijetama. Lako se vare, bogati su belančevinama.
 
 Šampinjoni sadrže veliki broj minerala (naročito selen), vitamine B kompleksa, a smanjuju i nivo masnoća i lošeg holesterola u krvi.

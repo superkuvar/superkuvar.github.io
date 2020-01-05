@@ -53,7 +53,8 @@ Gotovu čorbu posuti sitno seckanim celerovim ili peršunovim listom.
 
 Čorba se može poslužiti i sa kiselom pavlakom.
 
-Napomena: kukuruz šećerac je vrsta kukuruza koja je namenjena ishrani ljudi i ima najveći sadržaj šećera u odnosu na druge vrste kukuruza.
+### Napomena:
+> kukuruz šećerac je vrsta kukuruza koja je namenjena ishrani ljudi i ima najveći sadržaj šećera u odnosu na druge vrste kukuruza.
 
 Za razliku od običnog kukuruza koji se bere kada je zreo, kukuruz šećerac se bere dok nije još sasvim dozreo, odnosno dok zrna nisu postala suva i tvrda.
 

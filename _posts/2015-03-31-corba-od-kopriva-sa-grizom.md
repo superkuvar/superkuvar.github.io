@@ -35,4 +35,5 @@ Luk očistiti, oprati i sitno iseći (iseći i perca), pa ga propržiti na malo 
 
 Čorba se može poslužiti sa kiselom pavlakom ili kockicama prepečenog hleba.
 
-Napomena: kopriva u narodnoj medicini ima široku primenu, što ukazuje na ogromno poverenje u njene lekovite moći. Kopriva se savetuje kod reumatskih bolova, artritisa, bubrežnih kamenaca, za zaustavljanje krvarenja, kod bolesti žuči i jetre.
+### Napomena:
+> kopriva u narodnoj medicini ima široku primenu, što ukazuje na ogromno poverenje u njene lekovite moći. Kopriva se savetuje kod reumatskih bolova, artritisa, bubrežnih kamenaca, za zaustavljanje krvarenja, kod bolesti žuči i jetre.

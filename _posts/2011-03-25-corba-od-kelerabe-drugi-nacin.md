@@ -35,7 +35,8 @@ Napraviti belu zapršku od brašna i malo ulja, pa sipati u čorbu. Pri kraju po
 
 Kada je čorba gotova začiniti je kiselom pavlakom u kojoj je razmućeno žumace i posuti sitno seckanim peršunovim listom.
 
-Napomena: keleraba, povrće iz porodice kupusnjača, male je energetske vrdnosti, a bogato dijetnim vlaknima.
+### Napomena:
+> keleraba, povrće iz porodice kupusnjača, male je energetske vrdnosti, a bogato dijetnim vlaknima.
 
 Stabljika i mlado lišće kelerabe su takođe jestivi, pa ih ne treba bacati, već isitniti i dodati u čorbu.
 

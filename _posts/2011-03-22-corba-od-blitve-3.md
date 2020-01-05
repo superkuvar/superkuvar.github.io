@@ -36,7 +36,8 @@ U ispržen luk dodati isečenu blitvu i kratko pirjaniti poklopljenu. Zatim je p
 
 Kada je čorba gotova, skloniti je sa štednjaka i umešati žumance razmućeno u mleku.
 
-Napomena: blitva, osim za pripremu čorbi, može da se koristi i kao dodatak jelima sa testom, za pravljnje pita, savijača, slanih torti. Dok je sasvim mlada, blitva može da se priprema i kao salata.
+### Napomena:
+> blitva, osim za pripremu čorbi, može da se koristi i kao dodatak jelima sa testom, za pravljnje pita, savijača, slanih torti. Dok je sasvim mlada, blitva može da se priprema i kao salata.
 
 &nbsp;
 

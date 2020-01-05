@@ -42,7 +42,8 @@ Skuvano pile izvaditi iz supe i procediti je. U proceđenu supu dodati fidu ili 
 
 Povrće izgnječiti viljuškom, vratiti ga u supu i posuti je seckanim peršunovim listom.
 
-Napomena: umesto fide ili rezanaca u supu se mogu zakuvati knedle.
+### Napomena:
+> umesto fide ili rezanaca u supu se mogu zakuvati knedle.
 
 Pile se može staviti u zagrejanu pećnicu i malo zapeći i poslužiti sa nekim prilogom od povrća ili se može ispohovati.
 

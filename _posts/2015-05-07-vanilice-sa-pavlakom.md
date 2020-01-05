@@ -38,4 +38,5 @@ Pečene vanilice, kada se malo ohlade, spajati po dve džemom po izboru (najbolj
 
 Vanilice su ukusnije ukoliko stoje nekoliko dana.
 
-Napomena: u testo se može dodati i narendana kora od limuna.
+### Napomena:
+> u testo se može dodati i narendana kora od limuna.

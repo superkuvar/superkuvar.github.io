@@ -41,4 +41,8 @@ Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju. 
 
 Čorba od koprive je pravo okrepljenje za organizam u rano proleće.
 
-Napomena: kopriva, samonikla divlja biljka koja raste na napuštenim staništima, od davnina je služila kao jelo. Hranljivost i delotvornost koprive poznavali su još stari Egipćani, koji su je gajili kao povrće.
+### ### Napomena:
+> 
+
+>Kopriva, samonikla divlja biljka koja raste na napuštenim staništima, od davnina je služila kao jelo. Hranljivost i delotvornost koprive poznavali su još stari Egipćani, koji su je gajili kao povrće.
+Zajedno sa aronijom i alojom i kopriva je čistač radioaktivnosti iz organizma čoveka.

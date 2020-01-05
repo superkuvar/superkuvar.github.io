@@ -58,4 +58,5 @@ Glazura: 250 grama šećera preliti čašom vode i ušpinovati, da sirup bude gu
 
 Tortu staviti u frižider i kada se dobro ohladi, seći na štanglice ili kocke.
 
-Napomena: rozen torta se može napraviti i na jednostavniji način. Umesto domaćih mogu poslužiti gotove kore za rozen tortu, koje se mogu nabaviti u bolje snabdevenim supermarketima.
+### Napomena:
+> rozen torta se može napraviti i na jednostavniji način. Umesto domaćih mogu poslužiti gotove kore za rozen tortu, koje se mogu nabaviti u bolje snabdevenim supermarketima.

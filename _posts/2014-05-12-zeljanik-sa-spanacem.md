@@ -38,6 +38,7 @@ Testo za zeljanik sipati u manji podmazan pleh ili tepsiju i staviti u zagrejanu
 
 Zeljanik služiti topao sa kiselim mlekom ili jogurtom.
 
-Napomena: umesto spanaća može se koristiti zelje.
+### Napomena:
+> umesto spanaća može se koristiti zelje.
 
 Prijatno!

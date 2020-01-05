@@ -46,4 +46,5 @@ Pitu peći 35 minuta u pećnici zagrejanoj na 220 stepeni. Kada je pita pečena,
 
 Pita se može poslužiti sa jogurtom ili kiselim mlekom, a može i kao predjelo.
 
-Napomena: umesto aleve paprike može se staviti kašika-dve ajvara.
+### Napomena:
+> umesto aleve paprike može se staviti kašika-dve ajvara.

@@ -37,4 +37,5 @@ Krompir kuvati oko trideset minuta, posoliti, pobiberiti i posuti iseckanim per�
 
 Krompir u belom sosu poslužiti uz šnicle ili dinstano meso i salatu.
 
-Napomena: krompir može da se prethodno obari, ali ne previše.
+### Napomena:
+> krompir može da se prethodno obari, ali ne previše.

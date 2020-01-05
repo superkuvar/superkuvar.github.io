@@ -31,4 +31,5 @@ U prohlađen griz sipati sok od jednog limuna, a zatim mutiti mikserom dok masa 
 
 Gotov krem sipati u staklene činijice ili čaše za sladoled i staviti u frižider da se dobro ohladi. Pred služenje krem ukrasiti celim plodovima malina.
 
-Napomena: za pripremu krema može se koristiti sveže ili zamrznuto voće, a maline se mogu zameniti jagodama.
+### Napomena:
+> za pripremu krema može se koristiti sveže ili zamrznuto voće, a maline se mogu zameniti jagodama.

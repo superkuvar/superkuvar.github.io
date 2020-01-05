@@ -31,4 +31,5 @@ Pripremljenu masu za desert od banana sipati u pogodnu posudu i staviti u zamrzi
 
 Desert od banana je jednostavan za pripremu, ne zahteva mnogo vremena ni truda, a pravo je osveženje u vrelim letnjim danima.
 
-Napomena: banana sadrži manji procenat vode od ostalog voća, ima više ugljenih hidrata, nema masti, ali sadrži šećer. Međutim, ukoliko u toku dana jedemo veću količinu banana (više od dve) glikogen umesto da se pretvori u energiju, skladišti se u jetri i pretvara u mast. Zato ne treba preterivati u količini.
+### Napomena:
+> banana sadrži manji procenat vode od ostalog voća, ima više ugljenih hidrata, nema masti, ali sadrži šećer. Međutim, ukoliko u toku dana jedemo veću količinu banana (više od dve) glikogen umesto da se pretvori u energiju, skladišti se u jetri i pretvara u mast. Zato ne treba preterivati u količini.

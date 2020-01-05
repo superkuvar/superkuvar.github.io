@@ -32,4 +32,5 @@ Priprema: šargarepu oprati, očistiti i istrugati na trenici. Očišćen i opra
 
 Razmutiti jaje sa grizom, pa u tankom mlazu, mešajući, sipati u supu koja vri. Promešati i na tihoj vatri kuvati još nekoliko minuta. Kada je supa gotova posuti je sitno seckanim peršunovim listom (po želji).
 
-Napomena: umesto vodom, šargarepa se može naliti supom pripremljenom od kocke za supu.
+### Napomena:
+> umesto vodom, šargarepa se može naliti supom pripremljenom od kocke za supu.

@@ -37,7 +37,8 @@ Krompir i celer izgnječiti viljuškom. Pomešati propržen luk, celer i krompir
 
 Pire od celera i krompira služiti kao prilog uz meso.
 
-Napomena: celer može da se nabavi na pijaci tokom cele godine. Lišće i koren bogati su osnovnim mineralima, vitaminima i esencijalnim uljima koja biljci daju karakterističan miris.
+### Napomena:
+> celer može da se nabavi na pijaci tokom cele godine. Lišće i koren bogati su osnovnim mineralima, vitaminima i esencijalnim uljima koja biljci daju karakterističan miris.
 
 Celer ima i lekovita svojstva: smanjuje nivo lošeg holesterola u krvi, ublažava simptome prehlade, pomaže kod artritisa, reume, dobar je lek i kod astme i bronhitisa.
 

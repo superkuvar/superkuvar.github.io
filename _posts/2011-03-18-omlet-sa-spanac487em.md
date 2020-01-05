@@ -36,4 +36,5 @@ Očišćen i opran spanać obariti u slanoj vodi. Zatim spanać ocediti, iseckat
 
 Na omlet staviti spanać, preklopiti ga, preliti mileramom i kratko zapeći u pećnici na 180 stepeni.
 
-Napomena: ukoliko imate manji tiganj, onda testo podelite na dva dela i ispecite dva omleta.
+### Napomena:
+> ukoliko imate manji tiganj, onda testo podelite na dva dela i ispecite dva omleta.

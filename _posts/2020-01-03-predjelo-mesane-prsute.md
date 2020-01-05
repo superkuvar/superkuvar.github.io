@@ -1,6 +1,6 @@
 ---
 id: 12971
-title: PREDJELO MEŠANE PRŠUTE
+title: MEŠANA PRŠUTA (PREDJELO)
 date: 2020-01-03
 author: sneki
 layout: post
@@ -21,7 +21,8 @@ Svako ko je makar samo jednom bio za trpezom nekog uglednijeg seoskog domaćina 
 
 Predjela su deo skoro svakog obeda. Služe se i u obične dane i za vreme praznika. Zato što otvaraju apetit zovu se još apetajzeri (en. appetizer).
 
-### Napomena: Predjela se zovu još i meze (it. mezze) ili antipaste (it. antipasto).
+### ### Napomena:
+> Predjela se zovu još i meze (it. mezze) ili antipaste (it. antipasto).
 
 U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske proizvode kao što su šunka, parizer,kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, kao i jaja u svim oblicima.
 
@@ -39,9 +40,6 @@ Ovo je moje omiljeno predjelo:
 
 Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuelni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
 
-### Trenutno nemate tri vrste pršute
-
-Nikakav problem. Postavite one koje imate. 
 
   
 

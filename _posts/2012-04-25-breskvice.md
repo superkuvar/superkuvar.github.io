@@ -38,4 +38,5 @@ Svaku pečenu lopticu izdubiti. Polovinu izdubljenih loptica na kratko potopiti 
 
 Fil: mrvice od kolača pomešati sa marmeladom i dobijenom smesom puniti izdubljene loptice.
 
-Napomena: umesto gore navedenim, breskvice se mogu puniti sledećim filom &#8211; penasto umutiti 150 grama šećera u prahu sa 150 grama margarina, pa dodati 150 grama mlevenih oraha.
+### Napomena:
+> umesto gore navedenim, breskvice se mogu puniti sledećim filom &#8211; penasto umutiti 150 grama šećera u prahu sa 150 grama margarina, pa dodati 150 grama mlevenih oraha.

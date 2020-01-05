@@ -34,4 +34,5 @@ Pirinač sa paradajzom poslužiti kao prilog uz dinstano meso ili šnicle.
 
 Za pripremu ovog priloga može se upotrebiti i integralni pirinač.
 
-Napomena: da li će neko jelo od pirinča uspeti zavisi od izbora samog pirinča. Za pripremu pilava je najpogodniji onaj azijskog porekla, a za rižoto pirinač iz Italije.
+### Napomena:
+> da li će neko jelo od pirinča uspeti zavisi od izbora samog pirinča. Za pripremu pilava je najpogodniji onaj azijskog porekla, a za rižoto pirinač iz Italije.

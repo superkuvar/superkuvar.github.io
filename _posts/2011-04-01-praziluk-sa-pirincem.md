@@ -34,7 +34,8 @@ Jelo dinstati na tihoj vatri i po potrebi dolivati po malo tople vode. Pri kraju
 
 Ovo jelo se može služiti samostalno ili kao prilog uz meso.
 
-Napomena: praziluk je gajen od davnina u oblasti Sredozemlja, jeli su ga i stari Egipćani, Grci i Rimljani.
+### Napomena:
+> praziluk je gajen od davnina u oblasti Sredozemlja, jeli su ga i stari Egipćani, Grci i Rimljani.
 
 Praziluk je poželjno jesti na pragu proleća, kada je ponuda povrća oskudna, jer je bogat vitaminom C, skoro svim vitaminima B grupe, kao i beta karotenom, a sadrži i puno kalijuma koji pomaže izbacivanje otpadnih materija koje se kao posledica zimske ishrane nakupe u oraganizmu.
 

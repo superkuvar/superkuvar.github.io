@@ -33,4 +33,5 @@ Vruć ajvar sipati u zagrejane tegle i staviti u toplu pećnicu, da se na površ
 
 Sutradan površinu ajvara zaliti vrelim uljem (kašičica na teglu ajvara). Tegle povezati duplim celofanom ili zatvoriti hermetičkim zatvaračima.
 
-Napomena: po želji, pri kraju prženja u ajvar se može dodati oljušten i sitno narendan ren (oko 200-300 grama, može i više, ukoliko volite pikantniji ukus). Promešati ajvar i pustiti da još jednom proključa.
+### Napomena:
+> po želji, pri kraju prženja u ajvar se može dodati oljušten i sitno narendan ren (oko 200-300 grama, može i više, ukoliko volite pikantniji ukus). Promešati ajvar i pustiti da još jednom proključa.

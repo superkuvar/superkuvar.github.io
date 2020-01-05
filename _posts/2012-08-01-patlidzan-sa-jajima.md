@@ -42,4 +42,5 @@ Pri kraju dinstanja u patlidžan dodati malo suvog biljnog začina, biber, bosil
 
 U gotovo jelo umešati umućena jaja, dobro izmešati i propržiti još minut-dva, da se jaja stegnu. Poslužiti toplo, može i kao prilog uz dinstano meso.
 
-Napomena: prilikom kupovine patlidžana boja nije presudna, jer je ona osobina sorte. Palidžan je najčešće tamno plave boje (otuda i ime), ali može biti i ljubičaste, narandžaste, smeđe, bele. Po obliku može biti jajast, ovalan, valjkast, izdužen kao krastavac.
+### Napomena:
+> prilikom kupovine patlidžana boja nije presudna, jer je ona osobina sorte. Palidžan je najčešće tamno plave boje (otuda i ime), ali može biti i ljubičaste, narandžaste, smeđe, bele. Po obliku može biti jajast, ovalan, valjkast, izdužen kao krastavac.

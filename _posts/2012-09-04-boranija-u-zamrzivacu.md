@@ -27,7 +27,8 @@ Ohlađenu boraniju dobro ocediti, spakovati u plastične kese i zatvoriti. Iz ke
 
 Kese sa boranijom smestiti u zamrzivač u odeljak za zamrzavanje. Ovako pripremljena boranija može da se dugo održi u zamrzivaču, i do godinu dana.
 
-Napomena: skoro sve vrste povrća mogu da se zamrznu, osim onog koje sadrži veliku količinu vode (paradajz, zelena salata, krastavac), jer se prilikom odmrzavanja oštećuje njegova struktura.
+### Napomena:
+> skoro sve vrste povrća mogu da se zamrznu, osim onog koje sadrži veliku količinu vode (paradajz, zelena salata, krastavac), jer se prilikom odmrzavanja oštećuje njegova struktura.
 
 Predugo čuvanje namirnica u zamrzivaču se ne preporučuje, jer se gube korisni sastojci.
 
