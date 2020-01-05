@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Poslovi u kuhinji
+permalink: /poslovi-u-kuhinji/
 ---
 Pri kuvanju, naročito pri njegovom opisivanju u knjigama za kuvanje, upotrebljavaju se razni izrazi koji rečju treba da predstave način izvođenja raznovrsnih radnji pri gotovljenju jela.
 
