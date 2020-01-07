@@ -9,17 +9,17 @@ published: true
 image: 
 posno: 
 categories:
-   - supe i corbe
+   - supe i čorbe
 tags:
    - paprika
 ---
 Potrebno je:
 
-* 500 g krompira, 
-* mast ili ulje,
+* 500 g krompira
+* mast ili ulje
 * glavica crnog luka
-* sveža paprika, 
-* peršunovo lišće,
+* sveža paprika 
+* peršunovo lišće
 * ljuta papričica
 * so i biber
 

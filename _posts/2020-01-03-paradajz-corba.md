@@ -9,18 +9,18 @@ published: true
 image: 
 posno: 
 categories:
-   - supe i corbe
+   - supe i čorbe
 tags:
    - paradajz
 ---
 Potrebno je:
 
 * kašika masti (ili ulja)
-* domaći kuvani paradajz ili koncentrat,
-* glavica crnog luka,
-* peršunovo lišće,
-* kašika brašna, 
-* kašičica aleve paprike, 
+* domaći kuvani paradajz ili koncentrat
+* glavica crnog luka
+* peršunovo lišće
+* kašika brašna 
+* kašičica aleve paprike 
 * rezanci za supu
 * so
 * biber
