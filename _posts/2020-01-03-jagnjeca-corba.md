@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   - super i čorbe
+   - supe i čorbe
 tags:
    - kajmak
 ---

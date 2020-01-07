@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   - super i čorbe
+   - supe i čorbe
 tags:
    - ruzmarin
 ---
@@ -17,9 +17,9 @@ Potrebno je:
 
 * 100 g crnog luka
 * 200 g kuvane pšenice
-* 200 g sira, 
+* 200 g sira 
 * 100 g šargarepe
-* 2 jajeta, 
+* 2 jajeta 
 * kašika aleve paprike
 * 100 g korena celera 
 * 2 dl ulja
