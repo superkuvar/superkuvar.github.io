@@ -6,10 +6,6 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5177
 permalink: /zapečeni-hleb-sa-šunkom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
 totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Zapečenihlebsašunkom-940x198.jpg
