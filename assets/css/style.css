@@ -500,10 +500,11 @@ hr {
     margin: 0 0 24px
 }
 
-section img {
+section > img, section > p > img {
     width: 100%; /* or any custom size */
     height: 100%;  
     object-fit: contain;
+
 }
 
 img {
