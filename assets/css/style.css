@@ -500,6 +500,12 @@ hr {
     margin: 0 0 24px
 }
 
+section img {
+    width: 100%; /* or any custom size */
+    height: 100%;  
+    object-fit: contain;
+}
+
 img {
     position: relative;
     margin: 0 auto;
