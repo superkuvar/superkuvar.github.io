@@ -3,6 +3,3 @@ _site
 .jekyll-cache
 Gemfile.lock
 *.gem
-index2.md
-index3.md
-index4.md
