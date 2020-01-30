@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   - predjelo
+   - predjela
 tags:
    - aleva
 ---
