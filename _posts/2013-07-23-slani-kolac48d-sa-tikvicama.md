@@ -1,16 +1,17 @@
 ---
 id: 5924
-title: SLANI KOLAČ SA TIKVICAMA
+title: SLANA PITA SA TIKVICAMA
 date: 2013-07-23T07:38:29+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=5924
-permalink: /slani-kolač-sa-tikvicama/
+permalink: /slana-pita-sa-tikvicama
+redirect_from: /slani-kolač-sa-tikvicama/
 totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Slanikolacsatikvicama-940x198.jpg
 categories:
-  - testa
+  - slane pite
 tags:
   - bosiljak
   - brašno
