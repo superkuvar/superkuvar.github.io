@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Vikendpogača-940x198.jpg
 categories:
-  - hlebovi i pogače i pogače i pogače
+  - hlebovi i pogače
 tags:
   - brašno
   - kiselo mleko
