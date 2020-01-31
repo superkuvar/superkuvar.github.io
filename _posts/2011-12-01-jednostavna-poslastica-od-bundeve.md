@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Poslastica-tikva-1-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - bundeva
   - cimet

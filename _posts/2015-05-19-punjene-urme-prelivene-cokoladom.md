@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/05/urme-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - čokolada
   - keks

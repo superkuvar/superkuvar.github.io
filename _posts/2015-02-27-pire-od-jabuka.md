@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/pireodjabuka-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - cimet
   - jabuke

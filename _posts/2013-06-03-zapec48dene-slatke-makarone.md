@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/06/Zapeceneslatkemkarone-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - kokosovo brašno
   - makarone

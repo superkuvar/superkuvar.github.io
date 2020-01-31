@@ -9,7 +9,7 @@ permalink: /domaca-alva-od-griza/
 totvreme:
   - ""
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - cimet
   - griz

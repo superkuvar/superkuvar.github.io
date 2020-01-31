@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Rezanci-sa-šećerom-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - prezle
   - rezanci

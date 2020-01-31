@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Baka-Verini-mafisi1-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - brašno
   - šećer

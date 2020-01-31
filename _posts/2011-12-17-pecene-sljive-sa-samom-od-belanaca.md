@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Pecenesljivesasamom-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - belanca
   - cimet

@@ -9,7 +9,7 @@ permalink: /jabuke-u-testu/
 totvreme:
   - ""
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - belanca
   - cimet

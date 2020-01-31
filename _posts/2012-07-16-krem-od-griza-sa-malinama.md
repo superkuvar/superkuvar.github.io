@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Kremodgrizasamalinama-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - griz
   - limun

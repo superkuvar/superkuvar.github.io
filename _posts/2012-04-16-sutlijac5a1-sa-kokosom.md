@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Sutlijaš-sa-kokosom-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - kokosovo brašno
   - mleko

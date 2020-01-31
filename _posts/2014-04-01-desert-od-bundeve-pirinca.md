@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/04/desertodpirincaibundeve-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - bundeva
   - cimet

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/K.t.5-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - bundeva
   - cimet

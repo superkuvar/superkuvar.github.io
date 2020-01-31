@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Koh-od-pirinča-i-višanja1-940x198.jpg
 categories:
-  - Slatkiši
+  - slatkiši
 tags:
   - griz
   - mleko
