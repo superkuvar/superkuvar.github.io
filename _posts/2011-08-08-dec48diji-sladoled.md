@@ -9,7 +9,7 @@ permalink: /dečiji-sladoled/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - jagode
   - mleko

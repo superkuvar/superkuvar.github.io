@@ -9,7 +9,7 @@ permalink: /sladoled-od-kivija/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - kivi
   - mleko

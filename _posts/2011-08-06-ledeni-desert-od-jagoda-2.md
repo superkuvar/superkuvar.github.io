@@ -9,7 +9,7 @@ permalink: /ledeni-desert-od-jagoda-2/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - limun
   - maline

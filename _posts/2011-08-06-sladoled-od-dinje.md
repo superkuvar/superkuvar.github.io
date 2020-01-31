@@ -9,7 +9,7 @@ permalink: /sladoled-od-dinje/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - dinja
   - šećer

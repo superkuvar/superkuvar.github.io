@@ -9,7 +9,7 @@ permalink: /krem-sladoled-od-banana/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - banane
   - limun

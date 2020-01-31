@@ -8,7 +8,6 @@ permalink: /vladicin-hleb/
 image: 
 posno: 
 categories:
-   - kolači
    - hlebovi i pogače
 tags:
    - jaja

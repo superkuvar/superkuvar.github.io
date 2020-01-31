@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Ledenibananadesert-940x198.jpg
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - banane
   - jogurt

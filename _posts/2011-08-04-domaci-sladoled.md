@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Domaći-sladoled-940x198.jpg
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - margarin
   - mleko

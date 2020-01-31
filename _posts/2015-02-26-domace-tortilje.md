@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/domacetortilje-940x198.jpg
 categories:
-  - hleb i pogače
+  - hlebovi i pogače
 tags:
   - kukuruzno brašno
   - maslinovo ulje

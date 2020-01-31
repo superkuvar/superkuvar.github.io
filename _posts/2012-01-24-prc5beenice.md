@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Pofezne-4-940x198.jpg
 categories:
-  - hleb i pogače
+  - hlebovi i pogače
 tags:
   - hlebovi i pogače
   - mleko

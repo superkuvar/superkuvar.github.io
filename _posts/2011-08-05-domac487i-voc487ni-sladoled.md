@@ -9,7 +9,7 @@ permalink: /domaći-voćni-sladoled/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - jagode
   - jogurt

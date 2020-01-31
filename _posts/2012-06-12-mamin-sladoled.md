@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Mamin-sladoled-940x198.jpg
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - čokolada
   - margarin

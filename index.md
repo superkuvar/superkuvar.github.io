@@ -16,32 +16,36 @@ font-size: 20px;
 </style>
 
 
-<!-- super i čorbe
-dodaci za supe i čorbe
-salate
-prelivi za salate
-predjela
-prilozi
-jela od mesa
-jela bez mesa
-jela od ribe
-jela od jaja
-sosovi
-hlebovi i pogače
-proje
-slane pite
-slatke pite
-peciva
-testenine
-kolači
-posni kolači
-slatkiši
-torte
-rolati
-sladoled
-slana zimnica
-slatka zimnica -->
-
+<a href="#salate">SALATE</a>
+<a href="#Prelivi za salate">PRELIVI ZA SALATE</a>
+<a href="#predjela">PREDJELA</a>
+<a href="#Dodaci za supe i čorbe">DODACI ZA SUPE I ČORBE</a>
+<a href="#supe i čorbe">SUPE I ČORBE</a>
+<a href="#prilozi">PRILOZI</a>
+<a href="#jela od mesa">JELA OD MESA</a>
+<a href="#jela bez mesa">JELA BEZ MESA</a>
+<a href="#Jela od ribe">JELA OD RIBE</a>
+<a href="#Jela od jaja">JELA OD JAJA</a>
+<a href="#hleb i pogače">HLEB I POGAČE</a>
+<a href="#Sosovi">SOSOVI</a>
+<a href="#Peciva">PECIVA</a>
+<a href="#slatkiši">SLATKIŠI</a>
+<a href="#Sladoled">SLADOLED</a>
+<a href="#Testenine">TESTENINE</a>
+<a href="#Rolati">ROLATI</a>
+<a href="#Slana zimnica">SLANA ZIMNICA</a>
+<a href="#peciva">PECIVA</a>
+<a href="#torte">TORTE</a>
+<a href="#slane pite">SLANE PITE</a>
+<a href="#hlebovi i pogače">HLEBOVI I POGAČE</a>
+<a href="#proje">PROJE</a>
+<a href="#slatke pite">SLATKE PITE</a>
+<a href="#Slatka zimnica">SLATKA ZIMNICA</a>
+<a href="#testa">TESTA</a>
+<a href="#kolači">KOLAČI</a>
+<a href="#posni kolači">POSNI KOLAČI</a>
+<a href="#čvarci">ČVARCI</a>
+<a href="#napici">NAPICI</a>
 
 
 {% for category in site.categories %}

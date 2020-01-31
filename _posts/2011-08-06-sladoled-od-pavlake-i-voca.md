@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Sladoledodpavlakeivoća-940x198.jpg
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - jagode
   - kisela pavlaka

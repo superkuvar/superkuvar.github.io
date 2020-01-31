@@ -9,7 +9,7 @@ permalink: /sladoled-od-vanile/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - čokolada
   - margarin

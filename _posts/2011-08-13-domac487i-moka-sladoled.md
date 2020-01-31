@@ -9,7 +9,7 @@ permalink: /domaći-moka-sladoled/
 totvreme:
   - ""
 categories:
-  - Sladoled
+  - sladoledi
 tags:
   - kafa
   - mleko
