@@ -16,31 +16,11 @@ font-size: 20px;
 </style>
 
 
-<!-- super i čorbe
-dodaci za supe i čorbe
-salate
-prelivi za salate
-predjela
-prilozi
-jela od mesa
-jela bez mesa
-jela od ribe
-jela od jaja
-sosovi
-hlebovi i pogače
-proje
-slane pite
-slatke pite
-peciva
-testenine
-kolači
-posni kolači
-slatkiši
-torte
-rolati
-sladoled
-slana zimnica
-slatka zimnica -->
+
+<!-- 
+{% for category in site.categories %}
+  <h3 id="{{ category[0] }}">{{ category[0] | upcase }} ({{ category[1].size }})</h3>
+{% endfor %} -->
 
 
 {% for category in site.categories %}
