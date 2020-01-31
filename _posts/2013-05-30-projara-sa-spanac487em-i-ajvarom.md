@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/projarasaspanacemiajvarom-940x198.jpg
 categories:
-  - Proje
+  - proje
 tags:
   - ajvar
   - kisela pavlaka

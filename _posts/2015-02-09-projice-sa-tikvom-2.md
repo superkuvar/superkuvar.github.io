@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/projicesatikvom-940x198.jpg
 categories:
-  - Proje
+  - proje
 tags:
   - kukuruzno brašno
   - mleko

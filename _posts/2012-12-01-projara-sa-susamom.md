@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Projarasasusamom-940x198.jpg
 categories:
-  - Proje
+  - proje
 tags:
   - kiselo mleko
   - kukuruzno brašno

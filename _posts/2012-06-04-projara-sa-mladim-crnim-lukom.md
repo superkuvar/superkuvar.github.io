@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Projara-sa-crnim-lukom-940x198.jpg
 categories:
-  - Proje
+  - proje
 tags:
   - crni luk
   - kukuruzno brašno

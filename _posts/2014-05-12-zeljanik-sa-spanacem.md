@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/05/zeljaniksaspanacem-940x198.jpg
 categories:
-  - Proje
+  - proje
 tags:
   - brašno
   - jogurt
