@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Testo-za-palačinke-940x198.jpg
 categories:
-  - Pržena testa
+  - hleb i pogače
 tags:
   - brašno
   - mleko
