@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Štrudla-sa-makom-940x198.jpg
 categories:
-  - Testa
+  - kolači
 tags:
   - kvasac
   - limun

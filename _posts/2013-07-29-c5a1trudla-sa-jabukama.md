@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Štrudla-sa-jabukama-940x198.jpg
 categories:
-  - Testa
+  - testa
 tags:
   - brašno
   - cimet

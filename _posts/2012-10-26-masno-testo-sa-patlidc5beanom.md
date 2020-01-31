@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/10/Masnotestosapatlidzanom-940x198.jpg
 categories:
-  - Testa
+  - testa
 tags:
   - beli luk
   - bosiljak

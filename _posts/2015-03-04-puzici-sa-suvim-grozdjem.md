@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/03/puzicisasuvimgrozđem-940x198.jpg
 categories:
-  - Testa
+  - kolači
 tags:
   - brašno
   - kvasac

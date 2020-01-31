@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Slanikolacsatikvicama-940x198.jpg
 categories:
-  - Testa
+  - testa
 tags:
   - bosiljak
   - brašno

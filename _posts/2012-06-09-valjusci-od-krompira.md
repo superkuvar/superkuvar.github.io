@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Valjušciodkrompira-940x198.jpg
 categories:
-  - Testa
+  - testa
 tags:
   - krompir
   - prezle
