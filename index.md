@@ -16,6 +16,7 @@ font-size: 20px;
 </style>
 
 
+<div style="clear:both; padding-top:20px">
 <a href="#salate">SALATE</a> | 
 <a href="#prelivi za salate">PRELIVI ZA SALATE</a> | 
 <a href="#predjela">PREDJELA</a> | 
@@ -44,7 +45,7 @@ font-size: 20px;
 <a href="#slatka zimnica">SLATKA ZIMNICA</a> | 
 <a href="#čvarci">ČVARCI</a> | 
 <a href="#napici">NAPICI</a>  
-
+</div>
 ---
 
 {% for category in site.categories %}
