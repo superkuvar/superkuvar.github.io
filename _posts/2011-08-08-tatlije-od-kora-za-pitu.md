@@ -9,7 +9,7 @@ permalink: /tatlije-od-kora-za-pitu/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - griz
   - kore za pitu

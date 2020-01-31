@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/05/kekskolacsajagodama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - jagode
   - keks

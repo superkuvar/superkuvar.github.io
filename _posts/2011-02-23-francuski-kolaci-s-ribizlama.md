@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/02/Ribizlezakolac-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - maslac

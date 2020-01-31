@@ -9,7 +9,7 @@ permalink: /pogacice-od-kajsija/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - badem
   - belanca

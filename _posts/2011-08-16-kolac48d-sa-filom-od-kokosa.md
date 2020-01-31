@@ -9,7 +9,7 @@ permalink: /kolač-sa-filom-od-kokosa/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kakao
   - kokosovo brašno

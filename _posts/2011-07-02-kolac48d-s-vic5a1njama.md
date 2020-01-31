@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Kolač-s-višnjama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - limun

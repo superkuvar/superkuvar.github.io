@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/Mafini-sa-brusnicom-1-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - brusnice

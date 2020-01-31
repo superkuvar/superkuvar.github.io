@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/03/mafinisabundevom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - bundeva

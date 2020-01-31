@@ -9,7 +9,7 @@ permalink: /lagani-kolac-od-belanaca/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - limunov sok
   - orasi

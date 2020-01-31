@@ -9,7 +9,7 @@ permalink: /malc-bonbone/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kafa
   - med

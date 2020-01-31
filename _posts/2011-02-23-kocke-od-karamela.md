@@ -9,7 +9,7 @@ permalink: /kocke-od-karamela/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kafa
   - šećer

@@ -9,7 +9,7 @@ permalink: /coko-rolat-punjen-pavlakom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kakao

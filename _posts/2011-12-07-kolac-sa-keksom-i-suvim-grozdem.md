@@ -9,7 +9,7 @@ permalink: /kolac-sa-keksom-i-suvim-grozdem/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - keks

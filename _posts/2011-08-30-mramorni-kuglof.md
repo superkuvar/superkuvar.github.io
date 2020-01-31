@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Mramorni-kuglof-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kakao

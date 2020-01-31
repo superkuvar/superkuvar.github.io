@@ -9,7 +9,7 @@ permalink: /sočni-kolač-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kokosovo brašno
   - mleko

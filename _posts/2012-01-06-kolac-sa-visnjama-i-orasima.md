@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Kolacsavisnjamaiorasima-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - mleko
   - orasi

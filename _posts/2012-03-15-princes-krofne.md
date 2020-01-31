@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Princes-krofne-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - margarin

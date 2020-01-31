@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Kolač-od-piškota-sa-višnjama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - kisela pavlaka
   - mleko

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Kolacicisbelimvinom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - margarin
   - vino

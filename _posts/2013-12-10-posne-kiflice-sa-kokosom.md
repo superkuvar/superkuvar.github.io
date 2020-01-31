@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - kokosovo brašno

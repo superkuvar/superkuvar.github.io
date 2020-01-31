@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/05/Lenjapitasabundevom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - bundeva

@@ -9,7 +9,7 @@ permalink: /lagani-preliveni-kolac/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - mleko
   - orasi

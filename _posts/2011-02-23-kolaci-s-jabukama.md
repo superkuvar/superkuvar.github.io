@@ -9,7 +9,7 @@ permalink: /kolaci-s-jabukama/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - jabuke
   - limun

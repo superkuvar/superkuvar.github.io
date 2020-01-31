@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/03/medenasrca-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - cimet

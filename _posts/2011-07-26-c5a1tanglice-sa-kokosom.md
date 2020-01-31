@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Stanglicesakokosom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - kakao
   - keks

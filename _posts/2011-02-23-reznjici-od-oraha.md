@@ -9,7 +9,7 @@ permalink: /reznjici-od-oraha/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - čokolada

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Melspajz-sa..-5-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - mleko
   - orasi

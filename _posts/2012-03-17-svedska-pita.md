@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Švedska-pita-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - cimet
   - jabuke

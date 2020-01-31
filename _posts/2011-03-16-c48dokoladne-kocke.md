@@ -9,7 +9,7 @@ permalink: /čokoladne-kocke/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - margarin

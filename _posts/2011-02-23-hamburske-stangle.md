@@ -9,7 +9,7 @@ permalink: /hamburske-stangle/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - čokolada

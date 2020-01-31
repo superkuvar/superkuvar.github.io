@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Brzi-kolač-sa-jabukama-i-orasima-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - jabuke
   - margarin

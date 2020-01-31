@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/04/posnekiflicesapivom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - orasi

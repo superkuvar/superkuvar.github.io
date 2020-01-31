@@ -9,7 +9,7 @@ permalink: /engleski-kolaci/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - limun

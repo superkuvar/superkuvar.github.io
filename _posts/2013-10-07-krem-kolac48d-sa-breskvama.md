@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Kremkolacsabreskvama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - breskve
   - margarin

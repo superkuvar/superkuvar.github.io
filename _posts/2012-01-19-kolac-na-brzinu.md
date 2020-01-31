@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Kolac-na-brzinu-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - cimet
   - čokolada

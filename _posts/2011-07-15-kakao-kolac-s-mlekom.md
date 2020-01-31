@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Kakao-kolač-s-mlekom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - kakao
   - mleko

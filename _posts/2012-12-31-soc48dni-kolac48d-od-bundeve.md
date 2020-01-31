@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Sočnikolačodbundeve-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - bundeva
   - griz

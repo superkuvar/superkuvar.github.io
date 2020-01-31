@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Jeftin-brzi-kolač-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - kakao
   - mleko

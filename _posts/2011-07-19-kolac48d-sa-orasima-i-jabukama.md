@@ -9,7 +9,7 @@ permalink: /kolač-sa-orasima-i-jabukama/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - jabuke
   - mleko

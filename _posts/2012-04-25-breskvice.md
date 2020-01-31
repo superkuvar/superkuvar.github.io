@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Breskvice-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - džem

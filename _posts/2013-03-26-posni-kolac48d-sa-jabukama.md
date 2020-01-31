@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Posnikolacsajabukama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - čokolada

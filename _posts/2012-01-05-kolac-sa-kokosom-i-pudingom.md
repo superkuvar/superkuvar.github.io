@@ -9,7 +9,7 @@ permalink: /kolac-sa-kokosom-i-pudingom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - griz
   - jogurt

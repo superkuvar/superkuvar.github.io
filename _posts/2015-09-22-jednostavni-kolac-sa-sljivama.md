@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/09/jednostavnikolacsasljivama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - cimet
   - šljive

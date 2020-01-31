@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Žutičupavcisakokosom-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - kokosovo brašno
   - jaja

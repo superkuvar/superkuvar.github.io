@@ -9,7 +9,7 @@ permalink: /kolac-sa-makom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - čokolada

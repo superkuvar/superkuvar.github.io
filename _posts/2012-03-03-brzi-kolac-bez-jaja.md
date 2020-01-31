@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Brzi-kolač-bez-jaja-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - džem

@@ -9,7 +9,7 @@ permalink: /kolac-od-piskota-i-pudinga/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - mleko
   - piškote

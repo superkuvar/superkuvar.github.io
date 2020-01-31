@@ -9,7 +9,7 @@ permalink: /nepecene-kriske-od-kestena/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kesten

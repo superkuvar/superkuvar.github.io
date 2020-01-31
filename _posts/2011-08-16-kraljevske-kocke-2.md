@@ -9,7 +9,7 @@ permalink: /kraljevske-kocke-2/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - čokolada

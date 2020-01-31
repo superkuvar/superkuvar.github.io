@@ -9,7 +9,7 @@ permalink: /vodeni-biskvit-sa-kremom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - margarin
   - mleko

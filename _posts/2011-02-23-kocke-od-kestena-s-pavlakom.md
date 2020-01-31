@@ -9,7 +9,7 @@ permalink: /kocke-od-kestena-s-pavlakom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kesten
   - maslac

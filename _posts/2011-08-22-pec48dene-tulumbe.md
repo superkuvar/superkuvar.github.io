@@ -9,7 +9,7 @@ permalink: /pečene-tulumbe/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - griz
   - limun

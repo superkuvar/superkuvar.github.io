@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Kolačodkeksaijabuka-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - jabuke
   - keks

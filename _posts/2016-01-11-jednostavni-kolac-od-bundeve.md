@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2016/01/jednostavnikolacodbundeve-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - bundeva
   - cimet

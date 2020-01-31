@@ -9,7 +9,7 @@ permalink: /kolač-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kokosovo brašno

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Kolacsabelancima3-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - belanca
   - limun

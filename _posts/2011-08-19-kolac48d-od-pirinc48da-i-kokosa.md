@@ -9,7 +9,7 @@ permalink: /kolač-od-pirinča-i-kokosa/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kokos
   - mleko

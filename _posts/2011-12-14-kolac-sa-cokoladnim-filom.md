@@ -9,7 +9,7 @@ permalink: /kolac-sa-cokoladnim-filom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kakao

@@ -9,7 +9,7 @@ permalink: /kolač-sa-makom-2/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - limun

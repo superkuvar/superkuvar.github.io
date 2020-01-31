@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Engleski-socni-kolac-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - griz
   - mleko

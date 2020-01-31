@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Kolacsaproprzenimjabukama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - brašno
   - jabuke

@@ -16,7 +16,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Mafini-sa-bananama-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - banane
   - čokolada

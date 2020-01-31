@@ -9,7 +9,7 @@ permalink: /čokoladni-čupavci-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - čokolada
   - kokosovo brašno

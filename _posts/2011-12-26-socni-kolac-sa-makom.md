@@ -9,7 +9,7 @@ permalink: /socni-kolac-sa-makom/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - mak
   - mleko

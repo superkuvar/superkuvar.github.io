@@ -9,7 +9,7 @@ permalink: /dadini-kolaci/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kafa
   - marmelada

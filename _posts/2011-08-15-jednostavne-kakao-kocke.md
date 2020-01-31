@@ -9,7 +9,7 @@ permalink: /jednostavne-kakao-kocke/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kakao
   - margarin

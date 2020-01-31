@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Nepeceni-kolac-od-keksa-i-jabuka-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - jabuke
   - keks

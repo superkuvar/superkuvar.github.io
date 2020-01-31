@@ -9,7 +9,7 @@ permalink: /domace-bonbone/
 totvreme:
   - ""
 categories:
-  - Kolači
+  - kolači
 tags:
   - kafa
   - mleko

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/02/Kolacici-940x198.jpg
 categories:
-  - Kolači
+  - kolači
 tags:
   - limun
   - maslac
