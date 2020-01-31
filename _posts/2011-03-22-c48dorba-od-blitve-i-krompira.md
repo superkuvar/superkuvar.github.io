@@ -9,7 +9,7 @@ permalink: /čorba-od-blitve-i-krompira/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - blitva
   - krompir

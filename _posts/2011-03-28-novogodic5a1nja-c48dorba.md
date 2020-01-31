@@ -9,7 +9,7 @@ permalink: /novogodišnja-čorba/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - celer
   - grašak

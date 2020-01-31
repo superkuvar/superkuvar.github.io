@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Brza-supa-bez-mesa-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - knedle
   - peršunov list

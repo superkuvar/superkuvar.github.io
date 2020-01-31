@@ -9,7 +9,7 @@ permalink: /krem-čorba-od-graška/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - grašak
   - mirođija

@@ -9,7 +9,7 @@ permalink: /juneća-čorba-sa-povrćem/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - kisela pavlaka
   - lovorov list

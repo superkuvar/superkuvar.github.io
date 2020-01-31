@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/04/spanaccorba-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - beli luk
   - pirinač

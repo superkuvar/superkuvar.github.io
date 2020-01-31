@@ -9,7 +9,7 @@ permalink: /corba-od-bundeve-drugi-nacin/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - bundeva
   - paradajz pire

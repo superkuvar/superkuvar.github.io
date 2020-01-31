@@ -9,7 +9,7 @@ permalink: /čorba-sa-šampinjonima-i-celerom/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - celer
   - kisela pavlaka

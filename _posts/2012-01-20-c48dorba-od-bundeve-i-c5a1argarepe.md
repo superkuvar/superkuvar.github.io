@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Corba-tikva+mrkva-1-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - bosiljak
   - bundeva

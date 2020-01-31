@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/corbaodkopriva-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - aleva paprika
   - crni luk

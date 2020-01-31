@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/06/Brokoli-corba-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - brokoli
   - kisela pavlaka

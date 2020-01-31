@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/10/Corba-od-karfiola-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - karfiol
   - kim

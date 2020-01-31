@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Junecacorbasakarfiolom-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - karfiol
   - kisela pavlaka

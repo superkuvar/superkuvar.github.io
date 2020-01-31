@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Čorbaodgriza-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - griz
   - kisela pavlaka

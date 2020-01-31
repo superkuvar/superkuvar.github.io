@@ -9,7 +9,7 @@ permalink: /gusta-čorba-od-tikvica/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - crni luk
   - kisela pavlaka

@@ -9,7 +9,7 @@ permalink: /boršč-drugi-način/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - beli luk
   - cvekla

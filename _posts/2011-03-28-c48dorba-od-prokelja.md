@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - celer
   - kisela pavlaka

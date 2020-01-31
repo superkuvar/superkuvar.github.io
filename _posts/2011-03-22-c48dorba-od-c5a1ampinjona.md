@@ -9,7 +9,7 @@ permalink: /čorba-od-šampinjona/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - kisela pavlaka
   - lovorov list

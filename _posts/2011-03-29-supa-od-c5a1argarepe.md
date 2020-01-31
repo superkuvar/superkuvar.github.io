@@ -9,7 +9,7 @@ permalink: /supa-od-šargarepe/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - celerov list
   - margarin

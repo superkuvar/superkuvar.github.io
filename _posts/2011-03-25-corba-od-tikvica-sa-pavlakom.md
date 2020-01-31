@@ -9,7 +9,7 @@ permalink: /corba-od-tikvica-sa-pavlakom/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - kisela pavlaka
   - limunov sok

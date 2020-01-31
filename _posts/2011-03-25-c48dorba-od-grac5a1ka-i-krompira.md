@@ -16,7 +16,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - grašak
   - krompir

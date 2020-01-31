@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Čorba-od-paradajza-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - crni luk
   - origano

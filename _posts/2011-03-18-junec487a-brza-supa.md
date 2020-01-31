@@ -9,7 +9,7 @@ permalink: /juneća-brza-supa/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - crni luk
   - mleveno meso

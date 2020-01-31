@@ -9,7 +9,7 @@ permalink: /čorba-od-zelja/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - brašno
   - kisela pavlaka

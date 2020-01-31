@@ -9,7 +9,7 @@ permalink: /čorba-od-kopriva-i-povrća/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - crni luk
   - jaje

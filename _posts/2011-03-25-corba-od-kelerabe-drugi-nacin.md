@@ -9,7 +9,7 @@ permalink: /corba-od-kelerabe-drugi-nacin/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - keleraba
   - kisela pavlaka

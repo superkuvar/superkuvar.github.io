@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Corbaodblitveisargarepe-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - aleva paprika
   - beli luk

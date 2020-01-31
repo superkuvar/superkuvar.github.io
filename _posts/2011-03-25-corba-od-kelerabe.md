@@ -9,7 +9,7 @@ permalink: /corba-od-kelerabe/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - crni luk
   - keleraba

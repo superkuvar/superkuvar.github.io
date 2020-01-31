@@ -25,7 +25,7 @@ cooktime:
 breadcrumbs:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - grašak
   - kisela pavlaka

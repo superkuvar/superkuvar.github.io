@@ -9,7 +9,7 @@ permalink: /čorba-od-šampinjona-i-zeleni/
 totvreme:
   - ""
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - kisela pavlaka
   - šampinjoni

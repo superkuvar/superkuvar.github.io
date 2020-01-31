@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Corba-od-karfiola-sa-senfom-940x198.jpg
 categories:
-  - Supe i Čorbe
+  - supe i čorbe
 tags:
   - karfiol
   - limunov sok
