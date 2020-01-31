@@ -9,13 +9,10 @@ published: true
 image: 
 posno: 
 categories:
-   - pite
+   - slane pite
 tags:
    -
 ---
-
-PITA OD PRAZILUKA SA SIROM
-
 Potrebno je:
 
 * 500 g kora za pitu 

@@ -9,9 +9,9 @@ published: true
 image: 
 posno: 
 categories:
-   - pite
+   - slane pite
 tags:
-   -
+   - kupus
 ---
 Potrebno je:
 

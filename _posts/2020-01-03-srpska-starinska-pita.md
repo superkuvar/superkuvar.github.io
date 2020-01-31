@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   - pite
+   - slane pite
 tags:
    - jaje
 ---
