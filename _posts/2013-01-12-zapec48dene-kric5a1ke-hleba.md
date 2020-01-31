@@ -17,7 +17,7 @@ categories:
   - hlebovi i pogače
 tags:
   - aleva paprika
-  - hlebovi i pogače i pogače
+  - hlebovi i pogače
   - margarin
   - sir
 ---

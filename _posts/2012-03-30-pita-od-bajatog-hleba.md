@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/03/Pita-od-bajatog-hleba-940x198.jpg
 categories:
   - slane pite
 tags:
-  - hlebovi i pogače i pogače
+  - hlebovi i pogače
   - mleko
   - sir
   - jaja

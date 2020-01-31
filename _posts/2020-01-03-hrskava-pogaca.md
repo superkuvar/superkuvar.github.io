@@ -9,7 +9,7 @@ published: true
 image: 
 posno: false
 categories:
-   - hlebovi i pogače i pogače
+   - hlebovi i pogače
 tags:
    - jaje
 ---

@@ -8,7 +8,7 @@ permalink: /slavski-kolac/
 image: 
 posno: 
 categories:
-   - hlebovi i pogače i pogače
+   - hlebovi i pogače
 tags:
    - slava
 ---

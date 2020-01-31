@@ -17,7 +17,7 @@ categories:
   - Slani prilozi
 tags:
   - beli luk
-  - hlebovi i pogače i pogače
+  - hlebovi i pogače
 ---
 Potrebno je:
 

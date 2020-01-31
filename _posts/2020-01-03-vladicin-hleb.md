@@ -9,7 +9,7 @@ image:
 posno: 
 categories:
    - kolači
-   - hlebovi i pogače i pogače
+   - hlebovi i pogače
 tags:
    - jaja
    - smokve

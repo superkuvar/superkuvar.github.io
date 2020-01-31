@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/01/Pofezne-4-940x198.jpg
 categories:
   - Pržena testa
 tags:
-  - hlebovi i pogače i pogače
+  - hlebovi i pogače
   - mleko
   - jaja
 ---
