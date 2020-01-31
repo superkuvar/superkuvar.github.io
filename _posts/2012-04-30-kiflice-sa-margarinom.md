@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Kiflice-sa-margarinom-940x198.jpg
 categories:
-  - testa
+  - peciva
 tags:
   - brašno
   - kvasac
