@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Pite
+  - slane pite
 tags:
   - kore za pitu
   - mleko
