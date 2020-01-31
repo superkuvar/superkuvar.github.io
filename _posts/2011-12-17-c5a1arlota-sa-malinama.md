@@ -9,7 +9,7 @@ permalink: /šarlota-sa-malinama/
 totvreme:
   - ""
 categories:
-  - Torte
+  - torte
 tags:
   - maline
   - piškote

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Posna-keks-torta-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - čokolada
   - keks

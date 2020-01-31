@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Reform-torta-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - čokolada
   - margarin

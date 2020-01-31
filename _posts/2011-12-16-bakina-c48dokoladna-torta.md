@@ -9,7 +9,7 @@ permalink: /bakina-čokoladna-torta/
 totvreme:
   - ""
 categories:
-  - Torte
+  - torte
 tags:
   - čokolada
   - margarin

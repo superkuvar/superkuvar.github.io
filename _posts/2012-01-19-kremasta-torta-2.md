@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Krem-torta-12-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - maslac
   - mleko

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Jaffa-torta-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - čokolada
   - keks

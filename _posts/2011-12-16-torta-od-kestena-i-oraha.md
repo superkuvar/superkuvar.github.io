@@ -9,7 +9,7 @@ permalink: /torta-od-kestena-i-oraha/
 totvreme:
   - ""
 categories:
-  - Torte
+  - torte
 tags:
   - čokolada
   - kesten

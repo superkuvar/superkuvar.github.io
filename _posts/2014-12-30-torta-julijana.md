@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/12/tortajulijana-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - brašno
   - čokolada

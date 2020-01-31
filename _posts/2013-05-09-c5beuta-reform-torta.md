@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Zuta-reform-torta-940x198.jpg
 categories:
-  - Torte
+  - torte
 tags:
   - griz
   - margarin
