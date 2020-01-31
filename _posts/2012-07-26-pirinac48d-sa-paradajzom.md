@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Pirinacsaparadajzom-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - origano
   - paradajz

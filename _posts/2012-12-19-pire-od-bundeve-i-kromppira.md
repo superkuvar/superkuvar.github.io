@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Pireodbundeveikrompira-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - bundeva
   - kisela pavlaka

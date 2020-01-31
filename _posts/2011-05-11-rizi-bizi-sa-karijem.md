@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Rizi-bizi-sa-karijem-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - grašak
   - kari

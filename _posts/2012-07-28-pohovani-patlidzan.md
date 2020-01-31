@@ -12,7 +12,7 @@ post_views_count:
   - "1"
 image: /wp-content/uploads/2012/07/Pohovani-patlidzan-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - plavi patlidžan
   - jaja

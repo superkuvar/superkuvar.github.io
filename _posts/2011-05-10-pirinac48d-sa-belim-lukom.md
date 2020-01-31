@@ -9,7 +9,7 @@ permalink: /pirinač-sa-belim-lukom/
 totvreme:
   - ""
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - beli luk
   - margarin

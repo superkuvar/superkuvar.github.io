@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Sargerpa-sa-prelivom-od-mirodjije-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - mileram
   - mirođija

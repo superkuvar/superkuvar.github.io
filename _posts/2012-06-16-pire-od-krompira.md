@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Pireodkrompira-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - krompir
   - margarin

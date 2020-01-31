@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Restovani-krompir-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - aleva paprika
   - crni luk

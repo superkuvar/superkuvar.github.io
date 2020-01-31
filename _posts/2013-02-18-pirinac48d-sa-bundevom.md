@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Pirinač-sa-bundevom-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - bundeva
   - crni luk

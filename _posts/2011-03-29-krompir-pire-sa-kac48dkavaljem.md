@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Krompirpiresakackavaljem-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - jaje
   - kačkavalj

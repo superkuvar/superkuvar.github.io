@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - pirinač
   - ulje

@@ -9,7 +9,7 @@ permalink: /jelo-od-rendanih-tikvica/
 totvreme:
   - ""
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - crni luk
   - mirođija

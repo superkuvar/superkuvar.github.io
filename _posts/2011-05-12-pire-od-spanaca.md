@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Pire-od-spanaća-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - beli luk
   - mleko

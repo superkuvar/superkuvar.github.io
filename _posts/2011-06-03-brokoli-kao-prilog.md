@@ -9,7 +9,7 @@ permalink: /brokoli-kao-prilog/
 totvreme:
   - ""
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - beli luk
   - brokoli

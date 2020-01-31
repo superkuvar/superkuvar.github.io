@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/04/Maminrizoto-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - kačkavalj
   - kari

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/gratiniranipirekrompir1-940x198.jpg
 categories:
-  - Slani prilozi
+  - slani prilozi
 tags:
   - kačkavalj
   - kisela pavlaka
