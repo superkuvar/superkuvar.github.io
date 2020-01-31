@@ -13,8 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Kupussajajima-940x198.jpg
-categories:
-  - Glavna jela
+categories:  
   - jela bez mesa
 tags:
   - kupus
