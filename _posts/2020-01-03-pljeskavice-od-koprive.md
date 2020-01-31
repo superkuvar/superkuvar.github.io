@@ -17,9 +17,9 @@ PLjESKAVICE OD KOPRIVE
 
 Potrebno je:
 
-* 400 g mlade koprive, 
+* 400 g mlade koprive
 * 100 g kukuruznog belog
-* 50 g kajmaka ili sira, 
+* 50 g kajmaka ili sira
 * brašno
 * biber
 
@@ -29,5 +29,5 @@ Obarene i samlevene koprive pomešati sa malo kajmaka ili sira, pobiberiti i dod
 
 Služiti sa kajmakom, sirom ili kiselim mlekom.
 
-  
+
 
