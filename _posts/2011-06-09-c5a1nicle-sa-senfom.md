@@ -9,7 +9,7 @@ permalink: /šnicle-sa-senfom/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - beli luk
   - peršunov list

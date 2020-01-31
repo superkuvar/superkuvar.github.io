@@ -9,7 +9,7 @@ permalink: /sufle-od-kelja/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kelj
   - kisela pavlaka

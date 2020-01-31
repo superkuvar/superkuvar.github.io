@@ -9,7 +9,7 @@ permalink: /junece-natur-snicle/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - brašno
   - meso

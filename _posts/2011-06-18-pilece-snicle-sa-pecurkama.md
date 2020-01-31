@@ -9,7 +9,7 @@ permalink: /pilece-snicle-sa-pecurkama/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kačkavalj
   - kisela pavlaka

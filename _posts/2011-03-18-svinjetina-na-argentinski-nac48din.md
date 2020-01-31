@@ -9,7 +9,7 @@ permalink: /svinjetina-na-argentinski-način/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - beli luk
   - krompir

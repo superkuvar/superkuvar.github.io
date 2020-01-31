@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Punjene-tikvice-u-sosu-od-paradajza-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - mirođija
   - mleveno meso

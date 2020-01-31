@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/06/sargarepasapilecimmesom-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - bosiljak
   - crni luk

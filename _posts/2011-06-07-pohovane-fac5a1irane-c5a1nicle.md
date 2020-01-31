@@ -9,7 +9,7 @@ permalink: /pohovane-faširane-šnicle/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - mleveno meso
   - peršunov list

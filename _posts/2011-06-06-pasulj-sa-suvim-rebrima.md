@@ -9,7 +9,7 @@ permalink: /pasulj-sa-suvim-rebrima/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - lovorov list
   - pasulj

@@ -9,7 +9,7 @@ published: true
 image: 
 posno: 
 categories:
-   - jela s mesom
+   - jela od mesa
 tags:
    - crni luk
 ---

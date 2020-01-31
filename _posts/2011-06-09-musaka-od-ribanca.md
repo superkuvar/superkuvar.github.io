@@ -9,7 +9,7 @@ permalink: /musaka-od-ribanca/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kupus
   - lovorov list

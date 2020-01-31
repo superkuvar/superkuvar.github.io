@@ -9,7 +9,7 @@ permalink: /musaka-od-pohovanih-tikvica/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - mleko

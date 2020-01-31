@@ -9,7 +9,7 @@ permalink: /krmenadle-u-umaku-od-senfa/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kisela pavlaka
   - kremenadle

@@ -9,7 +9,7 @@ permalink: /musaka-od-blitve-sa-mesom/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - blitva
   - mleko

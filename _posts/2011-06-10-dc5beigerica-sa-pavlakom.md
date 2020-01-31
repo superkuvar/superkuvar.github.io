@@ -9,7 +9,7 @@ permalink: /džigerica-sa-pavlakom/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - džigerica

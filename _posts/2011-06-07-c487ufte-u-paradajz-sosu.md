@@ -9,7 +9,7 @@ permalink: /ćufte-u-paradajz-sosu/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kuvani paradajz
   - mleveno meso

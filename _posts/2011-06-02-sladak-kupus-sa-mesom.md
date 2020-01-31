@@ -9,7 +9,7 @@ permalink: /sladak-kupus-sa-mesom/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kupus
   - meso

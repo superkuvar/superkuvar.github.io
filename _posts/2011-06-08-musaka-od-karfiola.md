@@ -9,7 +9,7 @@ permalink: /musaka-od-karfiola/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - karfiol
   - kisela pavlaka

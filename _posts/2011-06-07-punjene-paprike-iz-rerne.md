@@ -9,7 +9,7 @@ permalink: /punjene-paprike-iz-rerne/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - mleveno meso
   - paprike

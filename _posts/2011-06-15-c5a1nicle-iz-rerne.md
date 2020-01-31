@@ -9,7 +9,7 @@ permalink: /šnicle-iz-rerne/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - beli luk
   - kuvani paradajz

@@ -16,7 +16,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Punjene-tikvice-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - mirođija
   - mleveno meso

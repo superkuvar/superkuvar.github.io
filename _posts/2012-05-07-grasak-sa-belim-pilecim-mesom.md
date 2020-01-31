@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Grašaksabelimpilećimmesom-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - grašak
   - mirođija

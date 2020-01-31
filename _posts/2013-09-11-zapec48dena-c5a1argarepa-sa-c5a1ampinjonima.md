@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Zapecenasargarepasasampinjonima-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - bosiljak
   - crni luk

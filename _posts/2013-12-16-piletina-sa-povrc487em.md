@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Piletinasapovrcem-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - aleva paprika
   - crni luk

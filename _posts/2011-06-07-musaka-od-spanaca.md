@@ -9,7 +9,7 @@ permalink: /musaka-od-spanaca/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - mleko
   - mleveno meso

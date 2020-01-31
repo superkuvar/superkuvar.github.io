@@ -9,7 +9,7 @@ permalink: /svinjske-šnicle-u-sosu/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - aleva paprika
   - beli luk

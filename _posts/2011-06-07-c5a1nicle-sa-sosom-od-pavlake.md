@@ -9,7 +9,7 @@ permalink: /šnicle-sa-sosom-od-pavlake/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - aleva paprika
   - kisela pavlaka

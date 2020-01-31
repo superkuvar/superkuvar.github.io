@@ -9,7 +9,7 @@ permalink: /snicle-na-lovacki-nacin/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - lovorov list
   - senf

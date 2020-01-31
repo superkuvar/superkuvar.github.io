@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Zapecenikrompirsaslaninom-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - krompir
   - mleko

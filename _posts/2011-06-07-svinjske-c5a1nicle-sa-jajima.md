@@ -9,7 +9,7 @@ permalink: /svinjske-šnicle-sa-jajima/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kisela pavlaka
   - senf

@@ -9,7 +9,7 @@ permalink: /šnicle-od-džigerice-2/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - džigerica

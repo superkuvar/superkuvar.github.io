@@ -9,7 +9,7 @@ permalink: /pileci-file-sa-povrcem/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - paprike
   - paradajz pire

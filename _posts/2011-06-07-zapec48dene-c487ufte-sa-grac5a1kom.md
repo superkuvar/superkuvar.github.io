@@ -9,7 +9,7 @@ permalink: /zapečene-ćufte-sa-graškom/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - grašak

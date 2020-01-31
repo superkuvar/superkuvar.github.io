@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Šnicle-u-pivskom-testu-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - meso
   - pivo

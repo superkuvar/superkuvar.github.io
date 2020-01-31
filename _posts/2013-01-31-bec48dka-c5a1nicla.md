@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Bečka-šnicla-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - brašno
   - meso

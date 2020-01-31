@@ -9,7 +9,7 @@ permalink: /sarmice-od-vinovog-lista/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kiselo mleko
   - mleveno meso

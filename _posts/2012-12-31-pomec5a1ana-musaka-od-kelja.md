@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Pomešanamusakaodkelja-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - kelj
   - mleveno meso

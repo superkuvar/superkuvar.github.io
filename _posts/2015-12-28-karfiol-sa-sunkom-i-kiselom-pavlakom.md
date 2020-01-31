@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/12/Karfiolsasunkomipavlakom-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - karfiol
   - kisela pavlaka

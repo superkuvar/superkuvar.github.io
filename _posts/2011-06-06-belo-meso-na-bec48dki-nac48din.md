@@ -9,7 +9,7 @@ permalink: /belo-meso-na-bečki-način/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - pileće meso
   - prezle

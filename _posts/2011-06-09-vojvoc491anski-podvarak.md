@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Vojvodjanski-podvarak-940x198.jpg
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - kupus

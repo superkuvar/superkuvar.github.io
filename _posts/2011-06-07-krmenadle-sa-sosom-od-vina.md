@@ -9,7 +9,7 @@ permalink: /krmenadle-sa-sosom-od-vina/
 totvreme:
   - ""
 categories:
-  - Jela s mesom
+  - jela od mesa
 tags:
   - crni luk
   - kremenadle
