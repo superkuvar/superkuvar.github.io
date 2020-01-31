@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/09/Pitasapecurkama-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - bosiljak
   - kore za pitu

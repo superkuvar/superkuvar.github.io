@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/pitasakupusomipirincem-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - brašno
   - crni luk

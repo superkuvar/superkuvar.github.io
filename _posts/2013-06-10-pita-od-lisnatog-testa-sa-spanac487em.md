@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - aleva paprika
   - kiselo mleko

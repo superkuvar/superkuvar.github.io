@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/pitasavijacasakupusom-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - aleva paprika
   - kore za pitu

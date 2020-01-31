@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/06/pitasamladimlukom-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - crni luk
   - kore za pitu

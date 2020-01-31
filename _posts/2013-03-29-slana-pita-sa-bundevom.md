@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Slana-pita-sa-bundevom-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - bundeva
   - kisela pavlaka

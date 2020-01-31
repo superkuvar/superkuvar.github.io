@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pita-sa-koprivama-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - kisela pavlaka
   - koprive

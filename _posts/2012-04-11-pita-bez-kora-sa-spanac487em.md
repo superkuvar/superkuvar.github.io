@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Pita-sa-spanaćem-bez-kora-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - brašno
   - kisela pavlaka

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Pitasaprazilukomisirom-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - jogurt
   - kore za pitu

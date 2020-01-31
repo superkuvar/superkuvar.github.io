@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Pita-sa-sirom-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - kajmak
   - kore za pitu

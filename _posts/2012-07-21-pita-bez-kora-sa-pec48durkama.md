@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Pitabezkorasapecurkama-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - jogurt
   - origano

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Pitaguzvarasaspanacem-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - griz
   - kisela pavlaka

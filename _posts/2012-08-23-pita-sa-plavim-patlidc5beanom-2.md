@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Pitasapatlidzanom2-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - kisela pavlaka
   - kore za pitu

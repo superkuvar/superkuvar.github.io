@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Slana-pita-bez-kora-940x198.jpg
 categories:
-  - Slane pite
+  - slane pite
 tags:
   - margarin
   - mleko
