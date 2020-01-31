@@ -12,8 +12,6 @@ ingreedients:
   - ""
 recipeinstructions:
   - ""
-category:
-  - ""
 recipeyield:
   - ""
 url:
