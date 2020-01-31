@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Knedlesasljivama-940x198.jpg
 categories:
-  - testa
+  - kolači
 tags:
   - brašno
   - cimet
@@ -45,4 +45,4 @@ Kada sve knedle budu pripremljene, spuštati ih u posudu sa ključalom vodom i k
 Gotove knedle vaditi rešetkastom kašikom, ređati na tanjir i preliti prezlama proprženim na ulju ili mešavini margarina i ulja. Posuti ih kristal šećerom i cimetom. Služiti tople.
 
 ### Napomena:
-> umesto sa šljivama, knedle se mogu pripremiti sa kajsijama.
+> Umesto sa šljivama, knedle se mogu pripremiti sa kajsijama.
