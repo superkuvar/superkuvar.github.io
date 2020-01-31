@@ -6,15 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4556
 permalink: /masno-testo-sa-patlidžanom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/10/Masnotestosapatlidzanom-940x198.jpg
 categories:
-  - testa
+  - slane pite
 tags:
   - beli luk
   - bosiljak
