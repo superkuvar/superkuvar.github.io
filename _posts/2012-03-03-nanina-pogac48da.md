@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Nanina-pogača-940x198.jpg
 categories:
-  - hlebovi i pogače i pogače
+  - hlebovi i pogače i pogače i pogače
 tags:
   - brašno
   - kvasac

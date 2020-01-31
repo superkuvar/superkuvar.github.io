@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/10/Uštipciodkarfiola-940x198.jpg
 categories:
   - Slani prilozi
 tags:
-  - hlebovi i pogače
+  - hlebovi i pogače i pogače
   - karfiol
   - mleko
   - peršunov list

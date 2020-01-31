@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/01/Prženi-hleb-940x198.jpg
 categories:
   - Slani prilozi
 tags:
-  - hlebovi i pogače
+  - hlebovi i pogače i pogače
   - maslac
 ---
 Potrebno je:
