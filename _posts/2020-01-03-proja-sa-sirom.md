@@ -8,7 +8,7 @@ permalink: /proja-sa-sirom/
 image: 
 posno: false
 categories:
-   - hlebovi
+   - hlebovi i pogačeovi
 tags:
    - jaja
    - sir

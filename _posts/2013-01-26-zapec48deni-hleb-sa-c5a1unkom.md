@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Zapečenihlebsašunkom-940x198.jpg
 categories:
-  - Hleb i pogače
+  - hlebovi i pogače i pogače
 tags:
   - kačkavalj
   - mleko

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/06/Integralnihlebsasemenkama-940x198.jpg
 categories:
-  - Hleb i pogače
+  - hlebovi i pogače i pogače
 tags:
   - brašno
   - kvasac

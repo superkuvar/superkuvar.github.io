@@ -14,10 +14,10 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Zapečeni-hleb-940x198.jpg
 categories:
-  - Hleb i pogače
+  - hlebovi i pogače i pogače
 tags:
   - aleva paprika
-  - hleb
+  - hlebovi i pogače
   - margarin
   - sir
 ---

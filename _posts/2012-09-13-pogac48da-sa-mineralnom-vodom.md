@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Mamina-pogaca-940x198.jpg
 categories:
-  - Hleb i pogače
+  - hlebovi i pogače i pogače
 tags:
   - brašno
   - ulje

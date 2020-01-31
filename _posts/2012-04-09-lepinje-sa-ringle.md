@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Lepinje-sa-ringle-940x198.jpg
 categories:
-  - Hleb i pogače
+  - hlebovi i pogače i pogače
 tags:
   - brašno
 ---
