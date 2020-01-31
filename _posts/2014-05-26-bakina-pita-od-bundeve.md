@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/05/Bakinapitaodbundeve-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - bundeva
   - cimet

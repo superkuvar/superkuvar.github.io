@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Pitasajabukamaodlisnatogtesta-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - cimet
   - đumbir

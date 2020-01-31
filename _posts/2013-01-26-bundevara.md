@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Bundevara-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - bundeva
   - kore za pitu

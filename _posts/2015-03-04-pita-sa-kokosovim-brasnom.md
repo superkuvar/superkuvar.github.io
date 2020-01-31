@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/03/pitasakokosom-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - kisela pavlaka
   - kokosovo brašno

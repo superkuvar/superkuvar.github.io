@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Pita-sa-jabukama-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - jabuke
   - kore za pitu

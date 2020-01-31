@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pita-sa-makom-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - kore za pitu
   - mak

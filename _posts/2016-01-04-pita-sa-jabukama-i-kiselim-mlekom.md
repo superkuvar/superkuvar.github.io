@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2016/01/pitasajabukamaikiselimmlekom-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - jabuke
   - kiselo mleko

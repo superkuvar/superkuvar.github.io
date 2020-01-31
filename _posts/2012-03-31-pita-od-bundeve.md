@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Pita-od-bundeve-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - bundeva
   - cimet

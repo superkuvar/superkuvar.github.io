@@ -12,7 +12,7 @@ totvreme:
   - "45"
 image: /wp-content/uploads/2014/01/Pitasabundevomijabukama-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - bundeva
   - cimet

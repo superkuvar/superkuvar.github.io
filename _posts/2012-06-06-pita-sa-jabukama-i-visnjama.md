@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Pitasajabukamaivišnjama-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - cimet
   - griz

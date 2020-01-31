@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pita-sa-grizom1-940x198.jpg
 categories:
-  - Slatke pite
+  - slatke pite
 tags:
   - cimet
   - griz
