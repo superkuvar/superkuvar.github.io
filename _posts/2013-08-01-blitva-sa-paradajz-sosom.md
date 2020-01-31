@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Blitvasaparadajzsosom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - beli luk
   - blitva

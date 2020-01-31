@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Dinstanikupus-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - aleva paprika
   - crni luk

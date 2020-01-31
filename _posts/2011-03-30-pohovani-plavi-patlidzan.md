@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Pohovaniplavipatlidzan2-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - brašno
   - jaje

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Varivoodgraskaisargarepe-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - grašak

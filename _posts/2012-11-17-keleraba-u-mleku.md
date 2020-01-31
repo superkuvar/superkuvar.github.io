@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Kelerabaumleku-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - keleraba
   - mleko

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Dinstani-grašak-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - aleva paprika
   - crni luk

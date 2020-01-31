@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/11/pireodceleraikrompira-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - celer
   - kisela pavlaka

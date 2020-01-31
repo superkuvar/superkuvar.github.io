@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Pirinač-za-rižoto-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - kačkavalj

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Pire-od-sargarepe-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - brašno
   - margarin

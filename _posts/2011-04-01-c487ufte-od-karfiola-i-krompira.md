@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/04/Cufte-od-karfiola-i-krompira-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - karfiol
   - krompir

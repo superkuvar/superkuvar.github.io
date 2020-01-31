@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Krompirsajajima-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - krompir
   - mleko

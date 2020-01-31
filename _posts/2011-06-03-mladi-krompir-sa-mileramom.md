@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Mladi-krompir-sa-mileramom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - krompir
   - mileram

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Mladi-krompir-sa-kimom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - kim
   - krompir

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Pirinacnaitalijanskinacin-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - kačkavalj

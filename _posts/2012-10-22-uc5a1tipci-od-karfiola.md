@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/10/Uštipciodkarfiola-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - hlebovi i pogače
   - karfiol

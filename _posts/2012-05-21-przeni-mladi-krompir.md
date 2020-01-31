@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Prženi-mladi-krompir-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - krompir
   - ulje

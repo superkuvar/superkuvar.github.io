@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/11/Paprikesakrompirom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - krompir

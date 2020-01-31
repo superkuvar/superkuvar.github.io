@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Dinstanomesosapovrcem-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - aleva paprika
   - beli luk

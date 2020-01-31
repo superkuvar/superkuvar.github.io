@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Dinstana-šargarepa-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - bosiljak
   - peršunov list

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Prženi-hleb-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - hlebovi i pogače
   - maslac

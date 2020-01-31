@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/10/Kroketi-od-tikvica-i-sargarepe-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - beli luk
   - bosiljak

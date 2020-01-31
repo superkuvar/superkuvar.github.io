@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Zapečeni-pire-od-bundeve-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - bundeva
   - kačkavalj

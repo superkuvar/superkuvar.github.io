@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Krompirsapavlakom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - kisela pavlaka

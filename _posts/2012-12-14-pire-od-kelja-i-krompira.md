@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Pireodkeljaikrompira-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - beli luk
   - kelj

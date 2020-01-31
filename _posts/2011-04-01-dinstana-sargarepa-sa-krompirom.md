@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/04/Dinstana-šargarepa-sa-krompirom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - crni luk
   - krompir

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Prepecen-hleb-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - beli luk
   - hlebovi i pogače

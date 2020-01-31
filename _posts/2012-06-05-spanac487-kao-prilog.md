@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Spanać-kao-prilog1-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - muskatni oraščić
   - pirinač

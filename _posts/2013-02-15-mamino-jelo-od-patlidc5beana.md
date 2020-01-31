@@ -14,8 +14,8 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-940x198.jpg
 categories:
-  - slani prilozi
-  - slani prilozi
+  - prilozi
+  - prilozi
 tags:
   - bosiljak
   - crni luk

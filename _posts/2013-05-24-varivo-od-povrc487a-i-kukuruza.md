@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/05/Jelo-sa-kukuruzom-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - krompir
   - kukuruz šećerac

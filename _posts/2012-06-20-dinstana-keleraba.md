@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Dinstana-keleraba-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - keleraba
   - peršunov list

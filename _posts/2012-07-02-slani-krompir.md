@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Slanikrompir-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - krompir
   - peršunov list

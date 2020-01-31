@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Šargarepaumleku-940x198.jpg
 categories:
-  - slani prilozi
+  - prilozi
 tags:
   - beli luk
   - majoran
