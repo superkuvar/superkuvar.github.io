@@ -7,9 +7,8 @@ layout: post
 permalink: /pogacice-sa-sirom/
 published: true
 image: 
-posno: 
 categories:
-   -
+   - hlebovi i pogače
 tags:
    -
 ---
