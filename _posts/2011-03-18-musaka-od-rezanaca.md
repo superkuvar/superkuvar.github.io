@@ -9,7 +9,7 @@ permalink: /musaka-od-rezanaca/
 totvreme:
   - ""
 categories:
-  - Testenine
+  - testenine
 tags:
   - crni luk
   - mileram

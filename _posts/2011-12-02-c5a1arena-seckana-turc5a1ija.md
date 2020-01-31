@@ -9,7 +9,7 @@ permalink: /šarena-seckana-turšija/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - karfiol
   - krastavčići

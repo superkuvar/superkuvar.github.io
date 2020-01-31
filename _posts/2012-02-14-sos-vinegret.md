@@ -9,7 +9,7 @@ permalink: /sos-vinegret/
 totvreme:
   - ""
 categories:
-  - Prelivi za salate
+  - prelivi za salate
 tags:
   - peršunov list
   - senf

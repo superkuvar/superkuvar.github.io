@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Zapečene-makarone-sa-šunkom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - kačkavalj
   - makarone

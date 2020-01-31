@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Paprike-punjenesargarepom-940x198.jpg
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - beli luk
   - paprike

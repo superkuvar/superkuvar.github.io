@@ -9,7 +9,7 @@ permalink: /paprike-punjene-kupusom/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - kupus
   - paprike

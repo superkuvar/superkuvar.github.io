@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/10/kajganasatikvicama-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - tikvice
   - jaja

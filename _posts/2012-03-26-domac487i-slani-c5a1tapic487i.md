@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Domaći-slani-štapići-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - aleva paprika
   - brašno

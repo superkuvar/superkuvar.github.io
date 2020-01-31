@@ -9,7 +9,7 @@ permalink: /sos-od-šampinjona/
 totvreme:
   - ""
 categories:
-  - Sosovi
+  - sosovi
 tags:
   - mleko
   - peršunov list

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Zapecenemakaronesapecurkama-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - crni luk
   - makarone

@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Omlet-sa-prazilukom-i-slaninom-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - kurkuma
   - mleko

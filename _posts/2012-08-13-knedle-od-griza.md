@@ -9,7 +9,7 @@ permalink: /knedle-od-griza/
 totvreme:
   - ""
 categories:
-  - Dodaci za supe i čorbe
+  - dodaci za supe i čorbe
 tags:
   - griz
   - jaja

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Mamini-rezanci-sa-povrćem-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - bosiljak
   - kečap

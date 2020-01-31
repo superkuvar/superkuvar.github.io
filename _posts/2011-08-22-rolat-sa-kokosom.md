@@ -9,7 +9,7 @@ permalink: /rolat-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Rolati
+  - rolati
 tags:
   - čokolada
   - kafa

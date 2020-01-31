@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Zeleni-paradajz-940x198.jpg
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paradajz
   - ren

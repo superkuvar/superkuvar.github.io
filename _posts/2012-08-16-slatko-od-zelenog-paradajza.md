@@ -9,7 +9,7 @@ permalink: /slatko-od-zelenog-paradajza/
 totvreme:
   - ""
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - limun
   - paradajz

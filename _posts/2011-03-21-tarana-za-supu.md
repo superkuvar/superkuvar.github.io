@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Dodaci za supe i čorbe
+  - dodaci za supe i čorbe
 tags:
   - brašno
   - jaje

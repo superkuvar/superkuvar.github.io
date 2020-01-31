@@ -9,7 +9,7 @@ permalink: /nepeceni-rolat-od-oraha/
 totvreme:
   - ""
 categories:
-  - Rolati
+  - rolati
 tags:
   - belanca
   - čokolada

@@ -9,7 +9,7 @@ permalink: /tursija-po-bakinom-receptu/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - celer
   - krastavčići

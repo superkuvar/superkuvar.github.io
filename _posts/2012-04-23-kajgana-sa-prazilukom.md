@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Kajgana-sa-prazilukom-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - praziluk
   - sir

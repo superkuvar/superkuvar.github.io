@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/04/omletsapaprikama1-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - paprike
   - jaja

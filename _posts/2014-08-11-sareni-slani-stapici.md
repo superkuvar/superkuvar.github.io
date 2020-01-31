@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/08/sarenislanistapici-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - mak

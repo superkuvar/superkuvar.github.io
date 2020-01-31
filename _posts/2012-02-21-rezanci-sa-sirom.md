@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Rezancisasirom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - rezanci
   - sir

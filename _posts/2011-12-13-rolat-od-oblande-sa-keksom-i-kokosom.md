@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-940x198.jpg
 categories:
-  - Rolati
+  - rolati
 tags:
   - kakao
   - keks

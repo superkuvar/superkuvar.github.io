@@ -9,7 +9,7 @@ permalink: /pržena-jaja-sa-slaninom/
 totvreme:
   - ""
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - slanina
   - jaja

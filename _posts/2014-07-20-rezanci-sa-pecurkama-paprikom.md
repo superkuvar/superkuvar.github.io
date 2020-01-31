@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/07/rezancisapecurkamaipaprikom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - crni luk
   - paprike

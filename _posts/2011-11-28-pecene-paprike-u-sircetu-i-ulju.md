@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/11/Pecene-paprike-940x198.jpg
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paprike
   - sirće

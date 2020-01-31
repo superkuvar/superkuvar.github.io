@@ -9,7 +9,7 @@ permalink: /preliv-od-mirođije-i-peršuna/
 totvreme:
   - ""
 categories:
-  - Prelivi za salate
+  - prelivi za salate
 tags:
   - limunov sok
   - mileram

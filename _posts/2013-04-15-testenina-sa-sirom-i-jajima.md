@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/04/Testeninasasiromijajima-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - kisela pavlaka
   - makarone

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/omletsapecenimpaprikama-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - beli luk
   - paprike

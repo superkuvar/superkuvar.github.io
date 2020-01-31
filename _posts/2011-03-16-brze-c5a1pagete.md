@@ -9,7 +9,7 @@ permalink: /brze-špagete/
 totvreme:
   - ""
 categories:
-  - Testenine
+  - testenine
 tags:
   - paradajz pire
   - špagete

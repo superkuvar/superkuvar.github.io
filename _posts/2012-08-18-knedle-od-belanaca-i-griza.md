@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Knedleodbelanacaigriza-940x198.jpg
 categories:
-  - Dodaci za supe i čorbe
+  - dodaci za supe i čorbe
 tags:
   - griz
 ---

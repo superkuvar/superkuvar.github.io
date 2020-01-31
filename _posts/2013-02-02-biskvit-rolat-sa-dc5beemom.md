@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Rolat-sa-dzemom-940x198.jpg
 categories:
-  - Rolati
+  - rolati
 tags:
   - brašno
   - džem

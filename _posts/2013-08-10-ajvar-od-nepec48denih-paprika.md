@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika-940x198.jpg
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paprike
   - ulje

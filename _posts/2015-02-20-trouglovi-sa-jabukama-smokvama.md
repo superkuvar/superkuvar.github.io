@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/trouglovisajabukamaismokvama-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - cimet
   - jabuke

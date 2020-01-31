@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Testeninasašargarepom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - bosiljak
   - mleko

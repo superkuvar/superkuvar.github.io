@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Pečeni-losos-u-foliji-940x198.jpg
 categories:
-  - Jela od ribe
+  - jela od ribe
 tags:
   - bosiljak
   - limunov sok

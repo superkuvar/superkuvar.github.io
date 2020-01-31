@@ -9,7 +9,7 @@ permalink: /sušene-paprike/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paprike
 ---

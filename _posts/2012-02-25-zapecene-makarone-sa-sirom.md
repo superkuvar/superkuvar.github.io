@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Zapečene-makarone-sa-sirom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - makarone
   - mleko

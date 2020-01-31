@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Kiseli-kornisoni-940x198.jpg
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - krastavčići
   - lovorov list

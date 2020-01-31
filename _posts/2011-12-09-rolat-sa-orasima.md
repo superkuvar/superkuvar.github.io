@@ -9,7 +9,7 @@ permalink: /rolat-sa-orasima/
 totvreme:
   - ""
 categories:
-  - Rolati
+  - rolati
 tags:
   - čokolada
   - margarin

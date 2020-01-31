@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/11/Dunje-1-940x198.jpg
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - dunje
   - limun

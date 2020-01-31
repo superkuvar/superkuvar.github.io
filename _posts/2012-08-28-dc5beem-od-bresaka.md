@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Dzem-od-bresaka-940x198.jpg
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - breskve
   - šećer

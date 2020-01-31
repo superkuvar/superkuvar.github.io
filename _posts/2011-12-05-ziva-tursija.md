@@ -9,7 +9,7 @@ permalink: /ziva-tursija/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - karfiol
   - krastavčići

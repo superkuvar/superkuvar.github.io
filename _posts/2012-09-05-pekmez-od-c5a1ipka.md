@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Pekmezodsipka-940x198.jpg
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - šećer
   - šipurak

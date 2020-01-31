@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/slanegaletesakackavaljem-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - kačkavalj
   - margarin

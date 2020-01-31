@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Kajgana-sa-sampinjonima-940x198.jpg
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - crni luk
   - šampinjoni

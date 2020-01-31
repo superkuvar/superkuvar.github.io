@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Oslić-iz-rerne-940x198.jpg
 categories:
-  - Jela od ribe
+  - jela od ribe
 tags:
   - limun
   - oslić

@@ -9,7 +9,7 @@ permalink: /oblanda-rolat-sa-orasima-i-smokvama/
 totvreme:
   - ""
 categories:
-  - Rolati
+  - rolati
 tags:
   - čokolada
   - margarin

@@ -9,7 +9,7 @@ permalink: /kuvani-paradajz/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paradajz
 ---

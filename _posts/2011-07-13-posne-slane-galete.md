@@ -9,7 +9,7 @@ permalink: /posne-slane-galete/
 totvreme:
   - ""
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - pivo

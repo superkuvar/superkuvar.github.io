@@ -9,7 +9,7 @@ permalink: /oblanda-rolat-sa-orasima/
 totvreme:
   - ""
 categories:
-  - Rolati
+  - rolati
 tags:
   - margarin
   - oblande

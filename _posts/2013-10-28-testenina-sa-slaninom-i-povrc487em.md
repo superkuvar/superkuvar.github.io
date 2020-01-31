@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/10/Testeninasaslaninomipovrcem-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - bosiljak
   - crni luk

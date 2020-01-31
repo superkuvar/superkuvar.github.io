@@ -9,7 +9,7 @@ permalink: /kuvani-paradajz-s-paprikama-3/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paprike
   - paradajz

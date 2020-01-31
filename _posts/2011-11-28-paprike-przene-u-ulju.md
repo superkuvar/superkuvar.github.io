@@ -9,7 +9,7 @@ permalink: /paprike-przene-u-ulju/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - beli luk
   - paprike

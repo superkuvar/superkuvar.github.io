@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Testeninasatikvicama1-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - beli luk
   - kisela pavlaka

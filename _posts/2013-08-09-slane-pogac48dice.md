@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/08/Slane-pogacicce-3-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - margarin

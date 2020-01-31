@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/02/prelivodrena-940x198.jpg
 categories:
-  - Sosovi
+  - sosovi
 tags:
   - ren
   - sirće

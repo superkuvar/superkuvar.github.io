@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/slanegalete-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - margarin

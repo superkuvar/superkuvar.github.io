@@ -9,7 +9,7 @@ permalink: /grčki-ajvar/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - paprike
   - plavi patlidžan

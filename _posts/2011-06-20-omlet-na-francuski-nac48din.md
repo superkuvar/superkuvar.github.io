@@ -9,7 +9,7 @@ permalink: /omlet-na-francuski-način/
 totvreme:
   - ""
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - kačkavalj
   - mleko

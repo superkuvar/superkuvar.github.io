@@ -9,7 +9,7 @@ permalink: /omlet-sa-spanaćem/
 totvreme:
   - ""
 categories:
-  - Jela od jaja
+  - jela od jaja
 tags:
   - mileram
   - mleko

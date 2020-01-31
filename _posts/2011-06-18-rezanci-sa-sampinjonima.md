@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/Rezanci-sa-šampinjonima-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - kisela pavlaka
   - origano

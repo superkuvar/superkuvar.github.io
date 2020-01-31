@@ -9,7 +9,7 @@ permalink: /slatko-od-kupina/
 totvreme:
   - ""
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - kupine
   - šećer

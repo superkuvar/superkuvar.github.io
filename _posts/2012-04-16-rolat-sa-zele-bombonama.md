@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Rolat-sa-žele-bombonama-940x198.jpg
 categories:
-  - Rolati
+  - rolati
 tags:
   - čokolada
   - margarin

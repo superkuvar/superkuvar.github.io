@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Oslicsasljivama-940x198.jpg
 categories:
-  - Jela od ribe
+  - jela od ribe
 tags:
   - limunov sok
   - oslić

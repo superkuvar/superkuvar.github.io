@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Slanepogacicesabelimvinom-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - susam

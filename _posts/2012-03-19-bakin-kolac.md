@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Bakin-kolač-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - mleko

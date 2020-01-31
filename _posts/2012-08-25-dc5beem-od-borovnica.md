@@ -9,7 +9,7 @@ permalink: /džem-od-borovnica/
 totvreme:
   - ""
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - borovnice
   - šećer

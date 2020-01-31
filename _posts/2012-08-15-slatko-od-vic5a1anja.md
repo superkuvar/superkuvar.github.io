@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Slatkoodvisanja-940x198.jpg
 categories:
-  - Slatka zimnica
+  - slatka zimnica
 tags:
   - šećer
   - višnje

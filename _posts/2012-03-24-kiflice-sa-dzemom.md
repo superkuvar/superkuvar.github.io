@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Kiflice-sa-džemom-940x198.jpg
 categories:
-  - Peciva
+  - peciva
 tags:
   - brašno
   - kvasac

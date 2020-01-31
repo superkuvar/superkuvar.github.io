@@ -9,7 +9,7 @@ permalink: /rezanci-za-supu/
 totvreme:
   - ""
 categories:
-  - Dodaci za supe i čorbe
+  - dodaci za supe i čorbe
 tags:
   - brašno
   - jaje

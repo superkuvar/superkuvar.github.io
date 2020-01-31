@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/02/Makaronesakrompirom-940x198.jpg
 categories:
-  - Testenine
+  - testenine
 tags:
   - krompir
   - makarone

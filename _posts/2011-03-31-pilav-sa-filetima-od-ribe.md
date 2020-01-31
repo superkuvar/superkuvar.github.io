@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/03/Pilavsafiletimaribe-940x198.jpg
 categories:
-  - Jela od ribe
+  - jela od ribe
 tags:
   - paradajz pire
   - pirinač

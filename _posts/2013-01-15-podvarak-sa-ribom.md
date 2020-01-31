@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/01/Podvaraksaribom-940x198.jpg
 categories:
-  - Jela od ribe
+  - jela od ribe
 tags:
   - aleva paprika
   - crni luk

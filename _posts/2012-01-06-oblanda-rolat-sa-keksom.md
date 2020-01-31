@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Oblanda-rolat-sa-keksom-940x198.jpg
 categories:
-  - Rolati
+  - rolati
 tags:
   - čokolada
   - kakao

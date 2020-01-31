@@ -9,7 +9,7 @@ permalink: /zimska-mešana-salata/
 totvreme:
   - ""
 categories:
-  - Slana zimnica
+  - slana zimnica
 tags:
   - crni luk
   - karfiol
