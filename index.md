@@ -17,6 +17,7 @@ font-size: 20px;
 
 
 <div style="clear:both; padding-top:20px">
+<h2>Kategorije:</h2>
 <a href="#salate">SALATE</a> * 
 <a href="#prelivi za salate">PRELIVI ZA SALATE</a> * 
 <a href="#predjela">PREDJELA</a> * 
@@ -31,7 +32,6 @@ font-size: 20px;
 <a href="#hlebovi i pogače">HLEBOVI I POGAČE</a> * 
 <a href="#proje">PROJE</a> * 
 <a href="#peciva">PECIVA</a> * 
-<a href="#testa">TESTA</a> * 
 <a href="#testenine">TESTENINE</a> * 
 <a href="#slane pite">SLANE PITE</a> * 
 <a href="#slatke pite">SLATKE PITE</a> * 
@@ -46,6 +46,7 @@ font-size: 20px;
 <a href="#čvarci">ČVARCI</a> * 
 <a href="#napici">NAPICI</a>  
 </div>
+
 ---
 
 {% for category in site.categories %}
