@@ -9,7 +9,7 @@ permalink: /keks-na-masini/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - margarin

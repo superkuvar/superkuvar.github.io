@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/Kuglice-od-jabuka-1-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - jabuke
   - limun

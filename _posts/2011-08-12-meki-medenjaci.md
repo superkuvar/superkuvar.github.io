@@ -9,7 +9,7 @@ permalink: /meki-medenjaci/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - cimet
   - margarin

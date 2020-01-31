@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/02/bombiceodcokolade-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - orasi

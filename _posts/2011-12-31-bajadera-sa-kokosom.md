@@ -9,7 +9,7 @@ permalink: /bajadera-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - keks

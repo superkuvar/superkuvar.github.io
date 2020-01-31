@@ -9,7 +9,7 @@ permalink: /oblande-sa-mlekom-i-orasima/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - margarin
   - mleko

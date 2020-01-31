@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Cajni-integralni-kolacici-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - đumbir

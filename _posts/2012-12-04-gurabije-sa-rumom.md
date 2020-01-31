@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Gurabijesarumom-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - karanfilić

@@ -9,7 +9,7 @@ permalink: /puslice-klasične/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - belanca
   - limunov sok

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/salamasaorasimaisuvimgrozdjem-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - keks

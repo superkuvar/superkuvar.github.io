@@ -13,7 +13,7 @@ fb_social_plugin_settings_box_send:
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - kokosovo brašno

@@ -9,7 +9,7 @@ permalink: /medeni-kolačići/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - cimet
   - limun

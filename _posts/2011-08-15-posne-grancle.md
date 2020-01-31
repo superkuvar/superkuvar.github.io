@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/posnegancle-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - pekmez

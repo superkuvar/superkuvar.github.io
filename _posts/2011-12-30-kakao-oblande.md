@@ -9,7 +9,7 @@ permalink: /kakao-oblande/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - kakao

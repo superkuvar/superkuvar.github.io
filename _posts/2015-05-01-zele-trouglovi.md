@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/05/zeletrouglovi-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - keks
   - margarin

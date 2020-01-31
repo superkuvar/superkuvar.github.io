@@ -9,7 +9,7 @@ permalink: /kiflice-sa-kokosom/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - kokosovo brašno

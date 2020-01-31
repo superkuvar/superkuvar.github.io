@@ -9,7 +9,7 @@ permalink: /stangle-od-smokava-i-lesnika/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - limun
   - smokve

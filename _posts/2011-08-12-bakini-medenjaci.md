@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/08/Bakini-medenjaci-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - cimet
   - đumbir

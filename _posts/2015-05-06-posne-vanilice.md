@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2015/05/vanilice-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - džem

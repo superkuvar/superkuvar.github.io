@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Bajadere-2-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - keks
   - margarin

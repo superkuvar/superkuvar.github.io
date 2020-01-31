@@ -9,7 +9,7 @@ permalink: /bele-oblande/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - margarin
   - mleko u prahu

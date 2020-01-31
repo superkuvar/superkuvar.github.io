@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - kakao
   - keks

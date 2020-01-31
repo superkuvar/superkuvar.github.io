@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/01/Kuglice-od-jabuka-3-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - jabuke
   - orasi

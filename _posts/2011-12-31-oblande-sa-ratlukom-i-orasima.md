@@ -9,7 +9,7 @@ permalink: /oblande-sa-ratlukom-i-orasima/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - limun
   - oblande

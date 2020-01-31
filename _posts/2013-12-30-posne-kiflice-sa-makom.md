@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/12/Posnekiflicesamakom-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - brašno
   - mak

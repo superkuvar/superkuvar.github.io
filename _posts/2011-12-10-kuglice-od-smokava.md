@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/12/kugliceodsmokavaioraha-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - limun
   - orasi

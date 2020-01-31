@@ -9,7 +9,7 @@ permalink: /oblanda-sa-čokoladnim-filom/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - margarin

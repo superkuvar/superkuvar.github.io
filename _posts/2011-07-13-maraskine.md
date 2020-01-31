@@ -9,7 +9,7 @@ permalink: /maraskine/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - margarin

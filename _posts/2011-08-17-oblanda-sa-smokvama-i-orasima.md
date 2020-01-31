@@ -9,7 +9,7 @@ permalink: /oblanda-sa-smokvama-i-orasima/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - belanca
   - oblande

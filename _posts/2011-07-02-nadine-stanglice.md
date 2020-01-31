@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/07/Nadinestanglice-940x198.jpg
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - keks

@@ -9,7 +9,7 @@ permalink: /stanglice-sa-keksom-i-orasima-2/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - čokolada
   - keks

@@ -9,7 +9,7 @@ permalink: /medenjaci/
 totvreme:
   - ""
 categories:
-  - Sitni kolači
+  - kolači
 tags:
   - cimet
   - karanfilić
