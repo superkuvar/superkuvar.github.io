@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/02/Bombice-od-sira-sa-susamom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - kisela pavlaka
   - margarin

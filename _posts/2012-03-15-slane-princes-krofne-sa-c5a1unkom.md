@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Slane-princes-krofne-sa-šunkom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - brašno
   - šunka

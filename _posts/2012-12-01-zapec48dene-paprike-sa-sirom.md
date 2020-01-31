@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/12/Zapecenepaprikesasirom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - kisela pavlaka
   - paprike

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/04/Zeleni-rolat-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - brašno
   - kisela pavlaka

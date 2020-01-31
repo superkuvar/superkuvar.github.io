@@ -15,7 +15,7 @@ fb_social_plugin_settings_box_comments:
 totvreme:
   - ""
 categories:
-  - Predjela
+  - predjela
 tags:
   - bosiljak
   - brašno

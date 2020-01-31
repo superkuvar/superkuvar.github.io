@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/06/Zeleneprojice-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - jogurt
   - kukuruzno brašno

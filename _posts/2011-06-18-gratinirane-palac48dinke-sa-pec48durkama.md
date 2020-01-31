@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/06/gratiniranepalacinke1-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - crni luk
   - mileram

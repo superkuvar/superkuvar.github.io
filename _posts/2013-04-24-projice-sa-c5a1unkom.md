@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/04/Projice-sa-sunkom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - kukuruzno brašno
   - mleko

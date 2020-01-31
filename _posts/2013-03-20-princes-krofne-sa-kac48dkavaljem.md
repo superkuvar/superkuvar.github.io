@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/03/Princeskrofnesakackavaljem-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - brašno
   - kačkavalj

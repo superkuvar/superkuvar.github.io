@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/07/Projicesatikvicama-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - griz
   - kukuruzno brašno

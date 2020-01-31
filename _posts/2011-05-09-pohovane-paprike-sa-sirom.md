@@ -14,7 +14,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2011/05/Pohovane-paprike-sa-sirom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - paprike
   - prezle

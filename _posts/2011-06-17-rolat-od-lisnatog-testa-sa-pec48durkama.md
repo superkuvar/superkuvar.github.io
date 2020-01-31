@@ -9,7 +9,7 @@ permalink: /rolat-od-lisnatog-testa-sa-pečurkama/
 totvreme:
   - ""
 categories:
-  - Predjela
+  - predjela
 tags:
   - crni luk
   - kisela pavlaka

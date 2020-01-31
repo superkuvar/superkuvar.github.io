@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/05/Projice-sa-paprikom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - jogurt
   - kukuruzno brašno

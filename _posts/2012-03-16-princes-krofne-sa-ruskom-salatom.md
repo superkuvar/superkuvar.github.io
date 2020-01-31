@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Princes-krofne-sa-ruskom-salatom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - brašno
   - ulje

@@ -9,7 +9,7 @@ permalink: /slani-komisbrot/
 totvreme:
   - ""
 categories:
-  - Predjela
+  - predjela
 tags:
   - kačkavalj
   - mileram

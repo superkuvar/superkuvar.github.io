@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/06/Projicesakiselompavlakom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - kisela pavlaka
   - kukuruzno brašno

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2014/03/projicesabundevom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - bundeva
   - jogurt

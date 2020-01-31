@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/08/Zapecenetikvicesagrizom-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - griz
   - kačkavalj

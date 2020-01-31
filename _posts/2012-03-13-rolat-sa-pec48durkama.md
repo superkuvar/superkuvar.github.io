@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2012/03/Rolat-sa-pečurkama-940x198.jpg
 categories:
-  - Predjela
+  - predjela
 tags:
   - kisela pavlaka
   - margarin
