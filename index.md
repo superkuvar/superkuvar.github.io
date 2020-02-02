@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Index
+description: Tradicionalna kuhinja i praktični recepti iz bakinih vitrina.
 ---
 
 <form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="superkuvar.com" /><input type="text" name="q" maxlength="255" value="" placeholder="Google pretraga" class="form-control" /></form>
