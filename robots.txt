@@ -1,3 +1,4 @@
+Sitemap: https://superkuvar.com/sitemap.xml
 User-agent: *
 Disallow:
 
