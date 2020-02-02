@@ -5,6 +5,7 @@ date: 2020-01-03
 author: sneki
 layout: post
 permalink: /corba-od-sampinjona/
+redirect_from: /čorba-od-šampinjona
 image: 
 posno: 
 categories:
