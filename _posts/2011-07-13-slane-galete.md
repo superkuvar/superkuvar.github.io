@@ -28,7 +28,7 @@ Potrebno je:
   * 250 grama isitnjenog margarina
   * 2 dl ulja
 
-[<img class="alignnone size-medium wp-image-9391" src="/wp-content/uploads/2011/07/slanegalete-300x225.jpg" alt="slanegalete" width="300" height="225" />](/wp-content/uploads/2011/07/slanegalete.jpg)
+![Slane galete](/wp-content/uploads/2011/07/slanegalete-1024x768.jpg)
 
 Priprema: u sud za mešenje sipati brašno i izmešati ga sa praškom za pecivo. Zatim dodati so, ulje, susam i margarin isitnjen na komadiće i dolivajući mlaku vodu, zamesiti glatko mekše testo.
 
