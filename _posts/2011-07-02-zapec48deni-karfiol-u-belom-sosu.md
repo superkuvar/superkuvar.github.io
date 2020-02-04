@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * prezla
 
-![Zapečeni karfiol u Bešamel sosu](wp-content/uploads/2011/07/karfiolubesamelu1-e1309603081285.jpg)
+![Zapečeni karfiol u Bešamel sosu](/wp-content/uploads/2011/07/karfiolubesamelu1-e1309603081285.jpg)
 
 Priprema: karfiol očistiti, oprati i podeliti na cvetove. Kuvati ga u slanoj vodi dok ne omekša, a zatim ocediti.
 
