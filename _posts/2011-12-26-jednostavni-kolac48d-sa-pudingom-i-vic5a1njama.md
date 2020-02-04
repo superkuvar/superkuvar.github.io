@@ -35,7 +35,7 @@ Fil:
   * 2 kesice pudinga od jagode
   * kesica šlaga (po želji)
 
-<img class="alignnone size-medium wp-image-5190" src="/wp-content/uploads/2011/12/Kolačsapudingomivisnjama-300x225.jpg" alt="Kolačsapudingomivisnjama" width="300" height="225" /> 
+![Jednostavni kolač sa pudingom i višnjama](/wp-content/uploads/2011/12/Kolačsapudingomivisnjama-1024x768.jpg)
 
 Priprema: u posudu  za mešenje polupati jaja, dodati šećer i mutiti. Kada su jaja čvrsto umućena, dodati brašno (kašiku po kašiku) i lagano promešati. Testo sipati u podmazan i brašnom posut pleh, staviti u pećnicu i peći na 180 stepeni oko 20 minuta.
 

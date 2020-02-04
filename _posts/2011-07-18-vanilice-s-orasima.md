@@ -27,7 +27,7 @@ Potrebno je:
   * 2 kesice vanilin šećera
   * pekmez (od kajsija ili šipaka)
 
-[<img class="alignnone size-medium wp-image-9605" src="/wp-content/uploads/2011/07/vanilice3-300x225.jpg" alt="vanilice" width="300" height="225" />](/wp-content/uploads/2011/07/vanilice3-e1430808592731.jpg)
+![Vanilice sa orasima](/wp-content/uploads/2011/07/vanilice3-1024x768.jpg)
 
 Priprema: umutiti varjačom mast sa šećerom, jajetom i žumacima, pa dodati brašno i mlevene orahe. Testo dobro izmesiti i razvući u koru debljine oko pola santimetra.
 
@@ -38,4 +38,4 @@ Kolutiće za vanilice peći desetak minuta u rerni zagrejanoj na 200 stepeni.
 Ispečene, još tople kolutiće s jedne strane namazati pekmezom i spajati po dva, da se dobiju vanilice. Vanilice uvaljati u prah šećer kojem je dodat vanilin šećer.
 
 ### Napomena:
-> umesto masti može se upotrebiti margarin.
+> Umesto masti može se upotrebiti margarin.

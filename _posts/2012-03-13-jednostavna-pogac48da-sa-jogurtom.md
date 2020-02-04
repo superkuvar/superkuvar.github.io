@@ -25,7 +25,7 @@ Potrebno je:
   * kesica praška za pecivo
   * malo soli
 
-<img class="alignnone size-medium wp-image-2665" title="Jednostavna pogača sa jogurtom" src="/wp-content/uploads/2012/03/Jednostavna-pogača-sa-jogurtom-300x225.jpg" alt="" width="300" height="225" /> 
+![Jednostavna pogača sa jogurtom](/wp-content/uploads/2012/03/Jednostavna-pogača-sa-jogurtom-1024x768.jpg) 
 
 Priprema: u posudu za mešenje sipati brašno, dodati so, prašak za pecivo, jaje, ulje i jogurt. Sve sastojke izmešati, pa napraviti glatko testo.
 
