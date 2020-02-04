@@ -30,8 +30,3 @@ U međuvremenu, pripremiti sos na sledeći način: očistiti crni luk i sitno ga
 
 Kada je sos gotov preliti špagete. Poslužiti toplo.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
