@@ -17,7 +17,7 @@ tags:
   - margarin
   - šećer
 ---
-Potrebno je:  
+Potrebno je:
 * 250 grama margarina  
 * brašno (oko 400 grama)  
 * 100 grama šećera  
@@ -27,7 +27,7 @@ Potrebno je:
 * šećer u prahu  
 * kesica vanilin šećera
 
-[<img class="alignnone size-medium wp-image-9614" src="/wp-content/uploads/2015/05/vanilice-300x225.jpg" alt="vanilice" width="300" height="225" />](/wp-content/uploads/2015/05/vanilice-e1430921141157.jpg)
+![Posne vanilice](/wp-content/uploads/2015/05/vanilice-1024x768.jpg)
 
 Priprema: penasto umutiti margarin sa šećerom, dodati sok od limuna i brašno pomešano sa praškom za pecivo. Umesiti glatko testo.
 
