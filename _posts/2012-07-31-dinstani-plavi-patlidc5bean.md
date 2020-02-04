@@ -32,7 +32,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3854" title="Dinstaniplavipatlidzan" src="/wp-content/uploads/2012/07/Dinstaniplavipatlidzan-e1343714957785-300x243.jpg" alt="" width="300" height="243" /> 
+![Dinstani plavi patlidzan](/wp-content/uploads/2012/07/Dinstaniplavipatlidzan-e1343714957785-1024x830.jpg) 
 
 Priprema: plavi patlidžan oljuštiti, oprati, iseći na kocke, posoliti i ostaviti da odstoji 20 minuta, a zatim ocediti od vode koju je pustio.
 
