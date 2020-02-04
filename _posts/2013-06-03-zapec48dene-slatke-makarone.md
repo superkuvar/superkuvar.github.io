@@ -35,7 +35,7 @@ Potrebno je:
   * 50 g kokosovog brašna
   * 50 g suvog grožđa
 
-![Zapečene slatke makarone](wp-content/uploads/2013/06/Zapeceneslatkemkarone-1024x768.jpg)
+![Zapečene slatke makarone](/wp-content/uploads/2013/06/Zapeceneslatkemkarone-1024x768.jpg)
 
 Priprema: skuvati makarone prema uputstvu na ambalaži i ocediti ih.
 
