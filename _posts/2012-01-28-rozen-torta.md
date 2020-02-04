@@ -44,7 +44,7 @@ Za glazuru
   * malo ekstrakta od maline ili ružičaste boje za kolače
   * nekoliko kapi ulja
 
-![Royen torta](/wp-content/uploads/2012/01/Rozen-2-1024x768.jpg)
+![Rozen torta](/wp-content/uploads/2012/01/Rozen-2-1024x768.jpg)
 
 Priprema: u sudu za mešenje umutiti maslac ili margarin sa  šećerom, a zatim dodati jaja, mleko, kesicu vanilin šećera, sodu bikarbonu i brašna koliko je potrebno da se zamesi čvrsto glatko testo (otprilike 15 kašika brašna).
 
