@@ -28,7 +28,7 @@ Potrebno je:
   * malo prezli
   * ulje
 
-[<img class="alignnone size-medium wp-image-8611" src="/wp-content/uploads/2011/03/francuskikrompirsajajima-300x225.jpg" alt="francuskikrompirsajajima" width="300" height="225" />](/wp-content/uploads/2011/03/francuskikrompirsajajima.jpg)
+![Francuski krompir sa jajima](/wp-content/uploads/2011/03/francuskikrompirsajajima-1024x768.jpg)
 
 Priprema: krompir oprati i neoljušten naliti vodom da ogrezne, posoliti i staviti da se kuva. Kada je krompir kuvan ocediti ga, ostaviti kratko poklopljen, a zatim oljuštiti i iseći na kolutove.
 
