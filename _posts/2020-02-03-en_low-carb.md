@@ -8,14 +8,11 @@ layout: post
 permalink: /en/low-carb/
 description: Low carb diet tips and tricks
 published: false
-image: 
-posno: 
 categories:
    - diet
 tags:
    - low-carb
 ---
-
 ## What is low carb diet?
 
 A low-carb diet means you eat whole foods natural proteins, fats and vegetables instead of sugary foods, pasta and white bread.
