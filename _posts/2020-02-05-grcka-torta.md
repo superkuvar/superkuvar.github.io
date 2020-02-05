@@ -1,13 +1,13 @@
 ---
 id: 12971
-title: DONUTS (AMERIČKE KROFNE)
+title: GRCKA TORTA
 date: 2020-01-05
 author: slava b
 layout: post
-permalink: /donuts/
+permalink: /grcka-torta/
 published: false
 categories:
-   - slatkiši
+   - torte
 tags:
-   - krofne
+   - grcka
 ---

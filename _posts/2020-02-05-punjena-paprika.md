@@ -1,13 +1,13 @@
 ---
 id: 12971
-title: DONUTS (AMERIČKE KROFNE)
+title: PUNjENA PAPRIKA
 date: 2020-01-05
 author: slava b
 layout: post
-permalink: /donuts/
+permalink: /punjena-paprika/
 published: false
 categories:
-   - slatkiši
+   - glavna jela
 tags:
-   - krofne
+   - 
 ---
