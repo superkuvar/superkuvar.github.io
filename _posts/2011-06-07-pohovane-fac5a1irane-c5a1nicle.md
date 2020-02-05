@@ -28,7 +28,7 @@ Potrebno je:
   * brašno
   * ulje
 
-![Pohovane faširane šnicle](/wp-content/uploads/2011/06/fasiranesnicle.jpg) 
+![Pohovane faširane šnicle](/wp-content/uploads/2011/06/pohovane_snicle.jpg)
 
 Priprema: komad hleba bez korice potopiti u malo mleka. Crni luk očistiti i izrendati, pa ga dodati mlevenom mesu, kao i oceđen hleb. Dodati kašiku sitno seckanog peršunovog lista, so, biber i jaje, pa zamesiti. Pripremljenu smesu ostaviti da odstoji u frižideru 20 minuta.
 
