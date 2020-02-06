@@ -36,3 +36,4 @@ Gotovu oblandu prekriti folijom ili čistom platnenom salvetom, pritisnuti nekim
 
 Oblande seći oštrim nožem, po želji, na štanglice, kvadrate, romboide.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZyUUBDQOrOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
