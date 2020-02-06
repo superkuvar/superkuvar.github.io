@@ -38,4 +38,28 @@ Kada kupus omekša i voda uvri, dodati sitnije komade fileta ribe, izmešati, si
 
 Podvarak peći na 220 stepeni. Posle 40 minuta skloniti poklopac sa posude, smanjiti temperaturu na 200 stepeni i ostaviti da se podvarak zapeče, ali paziti da ne pregori.
 
-&nbsp;
+---
+
+STARINSKI PODVARAK
+
+**Potrebno je**:
+ * glavica kiselog kupusa 2kg
+ * 100gr masti
+ * 2-3 glavice crnog luka
+ * aleva paprika
+ * biber 
+ * pirinač
+ * fileti ribe (450 gr)
+
+
+Glavicu kisela kupusa od 2kg sitno iseckati na dasci ili pomoću secka. U šerpu staviti punu varijaču masti (100 gr) da se mast dobro zagreje.
+
+Iseći sitno 2-3 glavice crna luka, spustiti na mast i upola ispržiti. Sad izručiti u luk kupus, dobro promešati i pirjaniti
+ga dok kupus ne postane mek i blago rumen. 
+
+Dobro je, za vreme pirjanjenja, dolivati pomalo supe, dok kupus ne bude potpuno gotov. Usuti u kupus na vrh noža aleve paprike, malo bibera i 1 šoljicu za crnu kafu oprana pirinča. 
+
+Za kraj dodati filete ribe i sjediniti mešanjem.
+
+**Napomena**: pirinač se stavlja se u podvarak da upije vodu koju kupus obično pusti, a koje ne sme biti u podvarku.
+
