@@ -28,16 +28,11 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2111" title="mamina oblanda" src="/wp-content/uploads/2011/12/mamina-oblanda-e1324559971864.jpg" alt="" width="207" height="145" /> 
 
-Priprema: sipati mleko u šerpu, dodati šećer i kuvati na tihoj vatri, uz mešanje, najmanje sat vremena, dok se ne zgusne i dobije zlatastu boju. Skloniti sa vatre, dodati margarin, vanilin šećer i mlevene orahe i lagano izmešati.
+**Fil za oblandu** priprema: sipati mleko u šerpu, dodati šećer i kuvati na tihoj vatri, uz mešanje, najmanje sat vremena, dok se ne zgusne i dobije zlatastu boju. Skloniti sa vatre, dodati margarin, vanilin šećer i mlevene orahe i lagano izmešati.
 
 Vrelim filom premazivati listove oblande. Prilikom stavljanja sledećeg lista pritisnuti dlanovima po celoj površini oblande, da se spoje fil i oblanda, pa zatim nastaviti sa filovanjem. Gornji list oblande ne mazati filom.
 
 Gotovu oblandu prekriti folijom ili čistom platnenom salvetom, pritisnuti nekim težim predmetom i ostaviti neko vreme (5-6 sati) da odstoji, kako bi se fil dobro sjedinio sa listovima oblande.
 
-Oblande seći, po želji, na štanglice, kvadrate, romboide.
+Oblande seći oštrim nožem, po želji, na štanglice, kvadrate, romboide.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
