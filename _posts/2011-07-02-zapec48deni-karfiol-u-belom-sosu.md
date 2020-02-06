@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * prezla
 
-![Zapečeni karfiol u Bešamel sosu](/wp-content/uploads/2011/07/karfiolubesamelu1-e1309603081285.jpg)
+![Zapečeni karfiol u Bešamel sosu](/wp-content/uploads/2011/07/zapeceni_karfiol1.jpg)
 
 Priprema: karfiol očistiti, oprati i podeliti na cvetove. Kuvati ga u slanoj vodi dok ne omekša, a zatim ocediti.
 
@@ -38,3 +38,5 @@ Na margarinu ispržiti brašno, dodati mleko i skuvati bešamel sos. U gotov sos
 Vatrostalnu posudu dobro podmazati margarinom i posuti prezlom, sipati karfiol, pa ga preliti pripremljenim bešamel sosom. Preko sosa posuti ostatak struganog kačkavalja i margarin isečen na listiće.
 
 Karfiol staviti u pećnicu zagrejanu na 200 stepeni i zapeći, da porumeni.
+
+![Zapečeni karfiol u Bešamel sosu](/wp-content/uploads/2011/07/zapeceni_karfiol2.jpg)
