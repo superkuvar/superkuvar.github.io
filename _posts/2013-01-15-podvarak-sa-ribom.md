@@ -6,12 +6,6 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5083
 permalink: /podvarak-sa-ribom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2013/01/Podvaraksaribom-940x198.jpg
 categories:
   - jela od ribe
@@ -34,9 +28,9 @@ Potrebno je:
   * kašičica šećera
   * ulje
 
-<img class="alignnone size-medium wp-image-5084" src="/wp-content/uploads/2013/01/Podvaraksaribom-300x225.jpg" alt="Podvaraksaribom" width="300" height="225" /> 
+![Podvarak sa ribom](/wp-content/uploads/2013/01/Podvaraksaribom-1024x768.jpg)
 
-Priprema: kupus oprati u hladnoj vodi, da bi se malo isprala so ili ukoliko je kiseliji nego što želite. Zatim ga ocediti i sitno iseckati.
+**Priprema**: kupus oprati u hladnoj vodi, da bi se malo isprala so ili ukoliko je kiseliji nego što želite. Zatim ga ocediti i sitno iseckati.
 
 Crni luk očistiti, iseckati i propržiti na ulju. Sjediniti kupus i luk, ukoliko je potrebno posoliti, dodati kašičicu šećera, lovorov list i alevu papriku. Kupus dinstati dok ne omekne, uz dolivanje po malo tople vode.
 
