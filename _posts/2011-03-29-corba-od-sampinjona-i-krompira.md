@@ -37,7 +37,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-5015" src="/wp-content/uploads/2011/03/Čorbaodšampinjonaikrompira-300x225.jpg" alt="Čorbaodšampinjonaikrompira" width="300" height="225" /> 
+![Čorba od šampinjona i krompira](/wp-content/uploads/2011/03/Čorbaodšampinjonaikrompira-1024x768.jpg)
 
 **Priprema**: krompir oprati, oljuštiti i iseći na kocke.  ampinjone očistiti, oprati i iseći na listiće. Isečene šampinjone i krompir staviti u lonac, naliti litrom vode i kuvati 30 minuta.
 

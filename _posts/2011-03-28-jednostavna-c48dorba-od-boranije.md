@@ -30,7 +30,7 @@ tags:
   * biber
   * so
 
-[<img class="alignnone size-medium wp-image-9711" src="/wp-content/uploads/2011/03/jednostavnacorbaodboranije-300x225.jpg" alt="jednostavnacorbaodboranije" width="300" height="225" />](/wp-content/uploads/2011/03/jednostavnacorbaodboranije-e1440742212516.jpg)
+![jednostavna corba od boranije](/wp-content/uploads/2011/03/jednostavnacorbaodboranije-1024x768.jpg)
 
 Ova jednostavna čorba priprema se na sledeći način: boraniju iseći na sitnije komade, a zatim obariti u ključaloj vodi (koju sačuvati).
 

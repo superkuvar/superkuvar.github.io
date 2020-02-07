@@ -32,7 +32,7 @@ tags:
   * seckani peršunov list
   * biber u zrnu
 
-<img class="alignnone size-full wp-image-724" title="junecacorbasasargarepom" src="/wp-content/uploads/2011/03/junecacorbasasargarepom.jpg" alt="" width="271" height="186" /> 
+![juneca corba sargarepica](/wp-content/uploads/2011/03/junecacorbasasargarepom.jpg)
 
 **Priprema**: juneće meso i šargarepu isitniti na kocke, a luk na listiće, pa sve dinstati na laganoj vatri dok luk ne postane staklast. Zatim meso i povrće naliti sa pola litra vode, dodati suvi biljni začin i nekoliko zrna bibera. Čorbu kuvati na umerenoj temperaturi dok meso ne bude mekano.
 
