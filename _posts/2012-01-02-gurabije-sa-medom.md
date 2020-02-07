@@ -6,12 +6,8 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2191
 permalink: /gurabije-sa-medom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description:
+keywords:
 image: /wp-content/uploads/2012/01/Gurabije-sa-medom-940x198.jpg
 categories:
   - kolači
@@ -29,10 +25,14 @@ tags:
   * 3 kašike šećera
   * kašičica praška za pecivo
 
-<img class="alignnone size-medium wp-image-5481" src="/wp-content/uploads/2012/01/Gurabije-sa-medom-300x225.jpg" alt="Gurabije sa medom" width="300" height="225" /> 
+![Gurabije sa medom](/wp-content/uploads/2012/01/Gurabije-sa-medom-1024x768.jpg)
 
-**Priprema**: penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
+**Priprema**:
+
+Penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
 
 Testo razviti oklagijom i kalupom vaditi okrugle kolačiće-gurabije. Gurabije se mogu praviti i rukom na sledeći način: na radnoj površini od komada testa napraviti valjak, pa ga nožem seći na jednake komadiće. Svaki valjati između dlanova da se napravi loptica, pritisnuti da se spljošti kao pogačica i prstom malo udubiti u sredini.
 
-Gurabije ređati u podmazan pleh i peći u umereno zagrejanoj pećnici, dok ne porumene.  to duže stoje, gurabije su ukusnije.
+**Pečenje**:
+
+Gurabije ređati u podmazan pleh i peći u umereno zagrejanoj pećnici, dok ne porumene.  Što duže stoje, gurabije su ukusnije.
