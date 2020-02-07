@@ -40,11 +40,11 @@ Podvarak peći na 220 stepeni. Posle 40 minuta skloniti poklopac sa posude, sman
 
 ---
 
-STARINSKI PODVARAK
+STARINSKI PODVARAK NA MASTI
 
 **Potrebno je**:
  * glavica kiselog kupusa 2kg
- * 100gr masti
+ * 100 gr masti
  * 2-3 glavice crnog luka
  * aleva paprika
  * biber 
@@ -52,7 +52,7 @@ STARINSKI PODVARAK
  * fileti ribe (450 gr)
 
 
-Glavicu kisela kupusa od 2kg sitno iseckati na dasci ili pomoću secka. U šerpu staviti punu varijaču masti (100 gr) da se mast dobro zagreje.
+**Priprema**: glavicu kisela kupusa od 2 kg sitno iseckati na dasci. U šerpu staviti punu varijaču masti (100 gr) da se mast dobro zagreje.
 
 Iseći sitno 2-3 glavice crna luka, spustiti na mast i upola ispržiti. Sad izručiti u luk kupus, dobro promešati i pirjaniti
 ga dok kupus ne postane mek i blago rumen. 
