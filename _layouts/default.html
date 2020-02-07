@@ -6,10 +6,18 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
     {% if post.title == "" %}
-      <title> {{site.title | upcase}}  </title>
+      <title>{{site.title | upcase}}</title>
     {% else %}    
-      <title> {{page.title | upcase}} - {{site.title | upcase}}  </title>
-    {% endif %}           
+      <title>{{page.title | upcase}} - {{site.title | upcase}}</title>
+    {% endif %}
+
+    {% if post.description == "" %}
+      <meta name="description" content="{{post.description}}" />
+    {% endif %}
+
+    {% if post.keywords == "" %}
+      <meta name="keywords" content="{{post.keywords}}" />
+    {% endif %}
     
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>    
