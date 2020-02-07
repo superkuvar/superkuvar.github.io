@@ -12,7 +12,7 @@ image: /wp-content/uploads/2015/03/pasuljsakoprivom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - crni luk
   - koprive
@@ -26,7 +26,7 @@ tags:
 * 2 čena belog luka  
 * 2 šargarepe  
 * so  
-* aleva paprika  
+* crvena mlevena paprika  
 * 2 kašike brašna  
 * ulje
 

@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/05/Kupus-sa-sojom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - krompir
   - kupus
   - lovorov list

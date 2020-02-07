@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/07/Zapecenepaprikepunjenepatlidzanom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - origano
   - paprike
   - pirinač
@@ -25,7 +25,7 @@ tags:
   * glavica crnog luka
   * šolja pirinča
   * mleveni biber
-  * aleva paprika
+  * crvena mlevena paprika
   * origano
   * so
   * suvi biljni začin

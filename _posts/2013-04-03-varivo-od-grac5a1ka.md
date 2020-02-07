@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/04/Varivo-od-graška-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - grašak
   - mirođija
@@ -28,7 +28,7 @@ tags:
   * 1 glavica crnog luka
   * 1 šargarepa
   * 1 kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * so
   * suvi biljni začin
   * mirođija ili peršunov list

@@ -19,7 +19,7 @@ tags:
 * 3 glavice crnog luka 
 * kilogram krompira
 * peršunovo lišće
-* aleva paprika
+* crvena mlevena paprika
 * so
 * biber 
 

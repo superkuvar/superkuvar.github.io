@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/01/Paprikepunjenepecurkama-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - paprike

@@ -22,7 +22,7 @@ tags:
   * 1 glavica crnog luka
   * 200 grama makarona
   * ulje
-  * aleva paprika
+  * crvena mlevena paprika
   * so
   * biber
   * suvi biljni začin

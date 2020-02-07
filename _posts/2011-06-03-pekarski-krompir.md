@@ -15,7 +15,7 @@ totvreme:
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - krompir
 ---
 **Potrebno je**:
@@ -23,7 +23,7 @@ tags:
   * krompir (1,5 kg)
   * so
   * ulje
-  * aleva paprika (po želji)
+  * crvena mlevena paprika (po želji)
 
 <img class="alignnone size-full wp-image-939" title="pekarski krompir" src="/wp-content/uploads/2011/06/pekarski-krompir-e1307103069619.jpg" alt="" width="244" height="156" /> 
 

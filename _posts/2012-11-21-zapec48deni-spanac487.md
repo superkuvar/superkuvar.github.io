@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/11/Zapečeni-spanać-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - paradajz pire
   - pirinač
@@ -29,7 +29,7 @@ tags:
   * pola šolje pirinča
   * 2 kašike paradajz pirea
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
 
 <img class="alignnone size-medium wp-image-4790" title="Zapečeni spanać" src="/wp-content/uploads/2012/11/Zapečeni-spanać-300x225.jpg" alt="" width="300" height="225" /> 

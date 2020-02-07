@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/01/Suvepaprikepunjenepirinčem-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - paprike
@@ -30,7 +30,7 @@ tags:
   * 200 grama pirinča
   * so
   * peršunov list
-  * aleva paprika
+  * crvena mlevena paprika
   * 2 kašike brašna
   * 2 dl kuvanog paradajza
   * 2 manja krompira

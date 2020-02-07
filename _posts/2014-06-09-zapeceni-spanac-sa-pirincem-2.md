@@ -12,7 +12,7 @@ image: /wp-content/uploads/2014/06/zapecenispanacsapirincem-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - pirinač
   - sir
   - spanać
@@ -27,7 +27,7 @@ tags:
   * kriška belog masnijeg sira
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * muskatni oraščić
   * ulje ili margarin
 

@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/01/Zapečeni-hleb-940x198.jpg
 categories:
   - hlebovi i pogače
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - hlebovi i pogače
   - margarin
   - sir
@@ -26,7 +26,7 @@ tags:
   * bajat hleb
   * margarin ili svinjska mast
   * sir ili kačkavalj
-  * aleva paprika (po želji)
+  * crvena mlevena paprika (po želji)
 
 <img class="alignnone size-medium wp-image-5073" src="/wp-content/uploads/2013/01/Zapečeni-hleb-300x225.jpg" alt="Zapečeni hleb" width="300" height="225" /> 
 

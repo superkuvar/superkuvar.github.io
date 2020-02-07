@@ -25,7 +25,7 @@ tags:
 Začini: 
 
 * ljuta paprika
-* aleva paprika
+* crvena mlevena paprika
 * biber
 * so
 

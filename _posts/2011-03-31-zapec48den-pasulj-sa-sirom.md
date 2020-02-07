@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/03/Zapeceni-pasulj-sa-sirom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - pasulj
   - sir
@@ -26,7 +26,7 @@ tags:
   * pasulj (500 grama)
   * 2 glavice crnog luka
   * 200 grama belog starijeg sira
-  * aleva paprika
+  * crvena mlevena paprika
   * nana
   * so
   * iseckan peršunov list

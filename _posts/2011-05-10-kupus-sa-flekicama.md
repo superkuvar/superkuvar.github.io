@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/05/Kupus-sa-flekicama-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kupus
   - lovorov list
   - jaja
@@ -29,7 +29,7 @@ tags:
   * pola kašičice šećera
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * 1 list lovora
   * ulje
 

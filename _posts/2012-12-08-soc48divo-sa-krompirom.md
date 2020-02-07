@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/12/Sočivo-sa-krompirom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - krompir
   - lovorov list
@@ -34,7 +34,7 @@ tags:
   * 1 dl soka od kuvanog paradajza
   * 2 čena belog luka
   * kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * mleveni biber
   * ulje
 

@@ -36,7 +36,7 @@ tags:
   * mirođija
   * suvi biljni začin
   * kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
   * kisela pavlaka
 

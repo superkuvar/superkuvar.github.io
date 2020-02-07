@@ -11,7 +11,7 @@ totvreme:
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - kisela pavlaka
   - meso
@@ -21,7 +21,7 @@ tags:
 
   * svinjsko meso od buta (800 grama)
   * 3 čena belog luka
-  * aleva paprika
+  * crvena mlevena paprika
   * kisela pavlaka
   * so
   * biber

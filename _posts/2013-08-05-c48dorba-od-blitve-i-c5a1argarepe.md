@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/08/Corbaodblitveisargarepe-940x198.jpg
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - blitva
   - kisela pavlaka

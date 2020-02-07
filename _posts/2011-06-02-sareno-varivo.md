@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/06/Šarenovarivo-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - paprike
   - paradajz
   - peršunov list
@@ -28,7 +28,7 @@ tags:
   * 2 kašike brašna
   * so
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * peršunov list
 

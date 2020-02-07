@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-940x198.jpg
 categories:
   - slane pite
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kiselo mleko
   - lisnato testo
   - sir

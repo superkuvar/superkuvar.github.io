@@ -28,7 +28,7 @@ tags:
   * 2 šargarepe
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * lovorov list
   * pola kašičice kima
   * ulje

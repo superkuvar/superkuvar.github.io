@@ -10,7 +10,7 @@ published: false
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kupus
   - lovorov list

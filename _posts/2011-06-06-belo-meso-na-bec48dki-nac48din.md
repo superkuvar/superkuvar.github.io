@@ -21,7 +21,7 @@ tags:
   * 3 jaja
   * brašno
   * prezle
-  * slatka aleva paprika
+  * slatka crvena mlevena paprika
   * beli biber
   * suvi biljni začin
   * ulje za prženje

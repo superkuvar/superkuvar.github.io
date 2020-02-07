@@ -10,7 +10,7 @@ image: /wp-content/uploads/2013/01/Podvaraksaribom-940x198.jpg
 categories:
   - jela od ribe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kupus
   - lovorov list
@@ -46,7 +46,7 @@ STARINSKI PODVARAK NA MASTI
  * glavica kiselog kupusa 2kg
  * 100 gr masti
  * 2-3 glavice crnog luka
- * aleva paprika
+ * crvena mlevena paprika
  * biber 
  * pirinač
  * fileti ribe (450 gr)

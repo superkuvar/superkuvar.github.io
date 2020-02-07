@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/03/Posna-sarma-sa-sargarepom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kupus
   - pirinač
@@ -33,7 +33,7 @@ tags:
   * biber
   * list lovora
   * kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
   * čaša kisele pavlake (po želji)
 

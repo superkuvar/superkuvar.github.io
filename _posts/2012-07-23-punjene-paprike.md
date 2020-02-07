@@ -28,7 +28,7 @@ tags:
   * ulje
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * peršunov list
 
 <img class="alignnone size-medium wp-image-3796" title="Punjenepaprike" src="/wp-content/uploads/2012/07/Punjenepaprike-300x225.jpg" alt="" width="300" height="225" /> 

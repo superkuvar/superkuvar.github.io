@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - bosiljak
   - krompir
@@ -29,7 +29,7 @@ tags:
   * biber
   * bosiljak
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * kašika brašna
   * 1 krompir
   * ulje

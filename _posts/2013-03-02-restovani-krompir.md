@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/03/Restovani-krompir-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - peršunov list
@@ -25,7 +25,7 @@ tags:
 
   * 1 kilogram krompira
   * 2 veće glavice crnog luka
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * so
   * peršunov list

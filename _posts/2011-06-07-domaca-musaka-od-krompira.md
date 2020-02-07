@@ -28,7 +28,7 @@ tags:
   * so
   * suvi biljni začin
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * peršunov list
   * ulje
 

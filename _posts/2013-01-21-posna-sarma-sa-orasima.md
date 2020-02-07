@@ -15,7 +15,7 @@ totvreme:
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kupus
   - lovorov list
   - luk
@@ -29,7 +29,7 @@ tags:
   * 3 glavice crnog luka i struk praziluka
   * 200 grama pirinča
   * 2 šargarepe
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * so
   * šolja mlevenih oraha (mogu i seckani)

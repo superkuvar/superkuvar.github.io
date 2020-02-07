@@ -12,7 +12,7 @@ image: /wp-content/uploads/2015/02/pitasavijacasakupusom-940x198.jpg
 categories:
   - slane pite
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kore za pitu
   - kupus
   - lovorov list

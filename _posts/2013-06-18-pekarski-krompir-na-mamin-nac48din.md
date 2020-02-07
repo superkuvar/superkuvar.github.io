@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/06/Pekarskikrompirnamaminnacin-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - peršunov list
@@ -26,7 +26,7 @@ tags:
   * 1 kilogram krompira
   * 2 glavice crnog luka
   * šoljica ulja
-  * aleva paprika
+  * crvena mlevena paprika
   * mleveni biber
   * so
   * peršunov list

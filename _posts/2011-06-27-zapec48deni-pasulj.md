@@ -32,7 +32,7 @@ tags:
   * 3 čena belog luka
   * lovorov list
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * ulje
 

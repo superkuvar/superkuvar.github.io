@@ -27,7 +27,7 @@ tags:
   * ulje
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
 
 <img class="alignnone size-full wp-image-880" title="suvepaprike" src="/wp-content/uploads/2011/06/suvepaprike-e1306931465609.jpg" alt="" width="234" height="170" /> 
 

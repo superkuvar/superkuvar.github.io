@@ -23,7 +23,7 @@ tags:
   * 5 jaja
   * veća čaša milerama
   * 100 grama margarina
-  * aleva paprika
+  * crvena mlevena paprika
   * prezle
   * so
 

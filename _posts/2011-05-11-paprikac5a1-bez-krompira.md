@@ -31,7 +31,7 @@ tags:
   * 2 kašike brašna
   * so
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * peršunov list
   * ulje

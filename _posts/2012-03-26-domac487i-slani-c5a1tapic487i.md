@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/03/Domaći-slani-štapići-940x198.jpg
 categories:
   - peciva
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - brašno
   - kvasac
   - susam
@@ -26,7 +26,7 @@ tags:
   * 1 kašičica šećera
   * 100 grama susama
   * oko 800-900 grama mekog brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * 1 jaje
 
 <img class="alignnone size-medium wp-image-2793" title="Domaći slani štapići" src="/wp-content/uploads/2012/03/Domaći-slani-štapići-300x225.jpg" alt="" width="300" height="225" /> 

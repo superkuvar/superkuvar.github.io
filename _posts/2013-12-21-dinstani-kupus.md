@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/12/Dinstanikupus-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kisela pavlaka
   - kupus
@@ -24,7 +24,7 @@ tags:
   * 1 glavica crnog luka ili struk praziluka
   * 2 lista lovora
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * kašičica šećera
   * kašika brašna
   * biber

@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/03/krompirnavojvodjanskinacin-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
 ---
@@ -23,7 +23,7 @@ tags:
   * 2 kašike brašna
   * 500 ml vode
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
 
 [<img class="alignnone size-medium wp-image-8970" src="/wp-content/uploads/2011/03/krompirnavojvodjanskinacin-300x225.jpg" alt="krompirnavojvodjanskinacin" width="300" height="225" />](/wp-content/uploads/2011/03/krompirnavojvodjanskinacin.jpg)

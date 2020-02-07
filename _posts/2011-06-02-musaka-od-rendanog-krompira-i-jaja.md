@@ -30,7 +30,7 @@ tags:
   * 3 glavice crnog luka
   * 1 jaje
   * 300 ml mleka
-  * aleva paprika
+  * crvena mlevena paprika
   * so
   * biber
   * muskatni oraščić

@@ -33,7 +33,7 @@ tags:
   * so
   * biber
   * 1 list lovora
-  * aleva paprika
+  * crvena mlevena paprika
   * 1 kašika brašna
   * ulje
   * peršunov list

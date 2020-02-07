@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/12/Posnasarmaodslatkogkupusa-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kupus
   - lovorov list
   - paprike
@@ -34,7 +34,7 @@ tags:
   * suvi biljni začin
   * biber
   * sirće
-  * aleva paprika
+  * crvena mlevena paprika
   * lovorov list
   * kašika brašna
   * ulje

@@ -27,7 +27,7 @@ tags:
   * so
   * biber
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * 5 dl kuvanog paradajza
   * 2 kašike brašna
   * ulje

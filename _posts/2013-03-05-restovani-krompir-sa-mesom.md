@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/03/Restovani-krompir-sa-mesom-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - meso
@@ -29,7 +29,7 @@ tags:
   * meso (juneće, svinjsko ili živinsko)
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * peršunov list
   * ulje ili mast
 

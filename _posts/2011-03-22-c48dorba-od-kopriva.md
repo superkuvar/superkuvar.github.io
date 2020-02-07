@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/03/corbaodkopriva-940x198.jpg
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kisela pavlaka
   - koprive
@@ -27,7 +27,7 @@ tags:
   * kašika brašna
   * žumance
   * malo ulja
-  * aleva paprika
+  * crvena mlevena paprika
   * kisela pavlaka
 
 ![corba od kopriva](/wp-content/uploads/2011/03/corbaodkopriva-1024x768.jpg)

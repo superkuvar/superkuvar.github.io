@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/12/Mesosapaprikom-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - meso
   - paprike
@@ -27,7 +27,7 @@ tags:
   * 1 glavica crnog luka
   * 2 paprike
   * kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * so
   * biber
   * ulje

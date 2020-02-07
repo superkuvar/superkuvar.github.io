@@ -65,7 +65,7 @@ u dubljem sudu mikserom ili drvenom varjačom mešati neprestano maslo ili mast,
 kroz meso provlačiti tanke prutiće isečene slanine, krastavca, mrkve. Za taj posao postoje naročite igle i šiljati noževi, pa je najbolje za ovu svrhu njih upotrebljavati. Slanina mora biti tanko sečena i mora se duboko u meso ubadati.
 
 ## Zapržiti
- šerpu staviti kašiku masti (ulj), zagrejati je, usuti kašiku brašna i pržiti ga, naliti mlakom supom ili vodom pa dobivenu zapršku izručiti u jelo. Kao dodaci zapršci smatraju se obično beli i crni luk i aleva paprika.
+ šerpu staviti kašiku masti (ulj), zagrejati je, usuti kašiku brašna i pržiti ga, naliti mlakom supom ili vodom pa dobivenu zapršku izručiti u jelo. Kao dodaci zapršci smatraju se obično beli i crni luk i crvena mlevena paprika.
 
 
 ## Začiniti

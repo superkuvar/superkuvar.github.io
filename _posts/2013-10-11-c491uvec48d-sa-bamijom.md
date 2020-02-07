@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/10/Djuvecsabamijom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - bamija
   - krompir
   - paradajz
@@ -35,7 +35,7 @@ tags:
   * šolja pirinča
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * čaša belog vina
   * sirće
   * peršunov list

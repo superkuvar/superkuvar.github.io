@@ -11,7 +11,7 @@ totvreme:
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kisela pavlaka
   - peršunov list
   - šnicle
@@ -24,7 +24,7 @@ tags:
   * brašno
   * so
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * seckani peršunov list
   * ulje
 

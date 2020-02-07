@@ -27,7 +27,7 @@ tags:
 * 2 čena belog luka  
 * peršunov list  
 * kašika brašna  
-* aleva paprika
+* crvena mlevena paprika
 
 [<img class="alignnone size-medium wp-image-9681" src="/wp-content/uploads/2015/07/tikvicepunjenekrompirom-300x225.jpg" alt="tikvicepunjenekrompirom" width="300" height="225" />](/wp-content/uploads/2015/07/tikvicepunjenekrompirom-e1436796154880.jpg)
 

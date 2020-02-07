@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/04/Corbaodspanacaisargarepe-940x198.jpg
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - šargarepa
   - spanać
 ---
@@ -28,7 +28,7 @@ tags:
   * kašika brašna
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
 
 <img class="alignnone size-medium wp-image-5550" src="/wp-content/uploads/2013/04/Corbaodspanacaisargarepe-300x225.jpg" alt="Corbaodspanacaisargarepe" width="300" height="225" /> 

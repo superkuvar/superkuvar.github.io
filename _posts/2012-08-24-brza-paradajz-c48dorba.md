@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/08/Brzaparadajzcorba-940x198.jpg
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - paradajz pire
   - peršunov list
@@ -24,7 +24,7 @@ tags:
   * kafena kašičica šećera
   * 2 kašike pirea od paradajza
   * 1 manja glavica crnog luka
-  * aleva paprika
+  * crvena mlevena paprika
   * so
   * bosiljak
   * fida (rezanci)

@@ -31,7 +31,7 @@ tags:
   * paradajz pire
   * so
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
 
 <img class="alignnone size-medium wp-image-5809" src="/wp-content/uploads/2011/03/Paprikepunjenepecurkama1-300x225.jpg" alt="Paprikepunjenepecurkama1" width="300" height="225" /> 

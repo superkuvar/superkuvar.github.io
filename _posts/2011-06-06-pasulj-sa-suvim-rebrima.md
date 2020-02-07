@@ -22,7 +22,7 @@ tags:
   * 400 grama suvih rebara
   * šoljica ulja
   * 2 kašike brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * lovorov list
   * biber
   * so

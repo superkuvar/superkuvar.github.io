@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/06/Boranijasakrompirom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - boranija
   - krompir
   - šargarepa
@@ -29,7 +29,7 @@ tags:
   * suvi biljni začin
   * biber
   * 1 kašika brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
   * peršunov list
 

@@ -20,7 +20,7 @@ tags:
 * 3 jajeta
 * 20 g brašna
 * ulje,
-* aleva paprika
+* crvena mlevena paprika
 * crni i beli luk 
 * so
 

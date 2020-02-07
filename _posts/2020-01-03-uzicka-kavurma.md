@@ -19,7 +19,7 @@ Potrebno je (za 8 osoba):
 * 2 kašike masti
 * 4 glavice crnog luka
 * glavica belog luka
-* aleva paprika
+* crvena mlevena paprika
 * lovorov list
 * so
 

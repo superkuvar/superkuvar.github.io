@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/09/Bamijesapiletinom-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - bamija
   - paradajz
   - pileće meso
@@ -32,7 +32,7 @@ tags:
   * so
   * suvi biljni začin
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * peršunov list
   * ulje
 

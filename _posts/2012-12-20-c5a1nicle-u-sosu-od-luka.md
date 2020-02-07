@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/12/Šnicleusosuodluka-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kisela pavlaka
   - meso
@@ -27,7 +27,7 @@ tags:
   * 3 glavice crnog luka
   * 1 čaša kisele pavlake
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * ulje
 

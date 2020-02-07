@@ -16,7 +16,7 @@ image: /wp-content/uploads/2012/12/Dinstani-grašak-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - grašak
   - mirođija

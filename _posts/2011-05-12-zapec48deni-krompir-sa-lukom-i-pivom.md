@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kisela pavlaka
   - krompir
@@ -25,7 +25,7 @@ tags:
   * pivo (4 dl)
   * čaša kisele pavlake
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje ili margarin
 
 [<img class="alignnone size-medium wp-image-8730" src="/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-300x225.jpg" alt="zapecenikrompirsalukomipivom" width="300" height="225" />](/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)

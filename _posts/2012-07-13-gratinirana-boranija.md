@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/07/Gratiniranaboranija-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - boranija
   - paradajz
@@ -27,7 +27,7 @@ tags:
   * 1 kašika brašna
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * ulje
 

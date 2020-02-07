@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/03/Čorba-od-boranije-i-krompira1-940x198.jpg
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - boranija
   - kisela pavlaka
   - krompir

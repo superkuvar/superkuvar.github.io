@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/12/Piletinasapovrcem-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - paprike
@@ -25,7 +25,7 @@ tags:
   * 2 glavice crnog luka
   * 5 paprika (2 zelene i 3 crvene)
   * 4 paradajza
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * 500 grama krompira
   * so

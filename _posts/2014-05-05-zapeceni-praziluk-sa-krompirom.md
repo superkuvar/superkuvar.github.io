@@ -12,7 +12,7 @@ image: /wp-content/uploads/2014/05/zapecenipraziluksakrompirom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - krompir
   - mileram
   - praziluk
@@ -25,7 +25,7 @@ tags:
   * ulje
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * 1/2 litra supe od kocke (od povrća)
   * kašika brašna
   * 200 grama milerama

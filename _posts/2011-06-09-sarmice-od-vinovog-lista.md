@@ -24,7 +24,7 @@ tags:
   * jedno jaje
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * ovčije kiselo mleko
 
 <img class="alignnone size-full wp-image-1048" title="sarmicevinove" src="/wp-content/uploads/2011/06/sarmicevinove-e1307619633423.jpg" alt="" width="234" height="159" /> 

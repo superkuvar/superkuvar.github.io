@@ -12,7 +12,7 @@ image: /wp-content/uploads/2015/04/pitaodkopriva-940x198.jpg
 categories:
   - slane pite
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - koprive
   - kore za pitu
@@ -22,7 +22,7 @@ tags:
 * 1 kg mladih kopriva  
 * mladi crni luk (2 vezice)  
 * 2 kašike brašna  
-* aleva paprika  
+* crvena mlevena paprika  
 * biber  
 * so  
 * ulje

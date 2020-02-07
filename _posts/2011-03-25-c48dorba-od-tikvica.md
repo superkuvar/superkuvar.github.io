@@ -15,7 +15,7 @@ totvreme:
 categories:
   - supe i čorbe
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kisela pavlaka
   - mirođija
@@ -31,7 +31,7 @@ tags:
   * ulje
   * mirođija
   * so
-  * aleva paprika
+  * crvena mlevena paprika
 
 <img class="alignnone size-medium wp-image-4576" title="Čorba od tikvica" src="/wp-content/uploads/2011/03/orba-od-tikvica-e1351528346632-300x227.jpg" alt="" width="300" height="227" /> 
 

@@ -24,7 +24,7 @@ tags:
   * 1 glavica crnog luka
   * 3 čena belog luka
   * 2 kašike brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * muskatni oraščić
   * suvi biljni začin

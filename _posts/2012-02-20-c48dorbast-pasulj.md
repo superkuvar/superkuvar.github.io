@@ -12,7 +12,7 @@ image: /wp-content/uploads/2012/02/Pasulj-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - lovorov list
   - pasulj
   - šargarepa
@@ -28,7 +28,7 @@ tags:
   * mleveni biber
   * ulje
   * brašno
-  * aleva paprika
+  * crvena mlevena paprika
 
 <img class="alignnone size-medium wp-image-2520" title="Pasulj" src="/wp-content/uploads/2012/02/Pasulj-300x225.jpg" alt="" width="300" height="225" /> 
 

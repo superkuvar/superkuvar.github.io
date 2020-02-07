@@ -29,7 +29,7 @@ tags:
   * 1 šargarepa
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * šolja mleka
   * 2 jajeta
   * ulje

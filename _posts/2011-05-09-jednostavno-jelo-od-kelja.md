@@ -24,7 +24,7 @@ tags:
   * 1 šargarepa
   * crni luk (glavica)
   * 2 čena belog luka
-  * aleva paprika
+  * crvena mlevena paprika
   * biber
   * so
   * 2-3 kašike sirćeta

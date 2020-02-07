@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/06/Dinstanomesosapovrcem-940x198.jpg
 categories:
   - prilozi
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - meso
   - paprike
@@ -35,7 +35,7 @@ tags:
   * so
   * suvi biljni začin
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * kašika brašna
   * ulje
 

@@ -11,7 +11,7 @@ totvreme:
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kupus
   - pirinač
 ---
@@ -22,7 +22,7 @@ tags:
   * glavica crnog luka
   * biber
   * so
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
 
 <img class="alignnone size-full wp-image-618" title="posnesarmeodkupusa" src="/wp-content/uploads/2011/05/posnesarmeodkupusa.jpg" alt="" width="248" height="192" /> 
@@ -33,6 +33,6 @@ Posebno na ulju propržiti iseckan crni luk, dodati opran pirinač i kratko prop
 
 Sa listova odseći koren i na sredinu svakog stavljati kašiku nadeva od pirinča, uvijati sarme i ređati ih u podmazan sud, na čije dno je stavljeno malo sitno iseckanog kupusa.
 
-Sarme preliti vodom u kojoj je razmućena aleva paprika, da ogreznu, i staviti u rernu da se peku.
+Sarme preliti vodom u kojoj je razmućena crvena mlevena paprika, da ogreznu, i staviti u rernu da se peku.
 
 Posna sarma može da se služi i topla i hladna.

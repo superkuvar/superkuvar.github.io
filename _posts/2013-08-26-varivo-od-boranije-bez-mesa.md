@@ -31,7 +31,7 @@ tags:
   * so
   * biber
   * bosiljak
-  * aleva paprika
+  * crvena mlevena paprika
   * 1 jaje
   * 1 dl kisele pavlake
   * sok od limuna

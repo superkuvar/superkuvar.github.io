@@ -25,7 +25,7 @@ tags:
 * pola šolje pirinča  
 * so  
 * biber  
-* aleva paprika  
+* crvena mlevena paprika  
 * ulje
 
 [<img class="alignnone size-medium wp-image-9705" src="/wp-content/uploads/2015/08/posnasarmaodblitve-300x225.jpg" alt="posnasarmaodblitve" width="300" height="225" />](/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)

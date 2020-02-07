@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/06/Musaka-1-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - krompir
   - mleveno meso
   - šargarepa
@@ -27,7 +27,7 @@ tags:
   * 500 grama mlevenog junećeg mesa
   * 1 glavica crnog luka
   * 2 šargarepe
-  * aleva paprika
+  * crvena mlevena paprika
   * mleveni biber
   * suvi biljni začin
   * so

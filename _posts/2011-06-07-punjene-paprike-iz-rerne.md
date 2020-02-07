@@ -25,7 +25,7 @@ tags:
   * šoljica pirinča
   * suvi biljni začin
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
   * paradajz ili krompir
 

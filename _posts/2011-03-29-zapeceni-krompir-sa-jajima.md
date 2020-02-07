@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/03/zapecenikrompirsajajima1-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - kajmak
   - kisela pavlaka

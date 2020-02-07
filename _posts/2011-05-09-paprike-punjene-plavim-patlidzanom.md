@@ -12,7 +12,7 @@ image: /wp-content/uploads/2011/05/Paprikepunjenepatlidzanom-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - paprike
   - paradajz
   - pirinač

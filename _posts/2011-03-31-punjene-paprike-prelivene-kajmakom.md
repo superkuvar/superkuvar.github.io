@@ -16,7 +16,7 @@ image: /wp-content/uploads/2011/03/punjenepaprike1-940x198.jpg
 categories:
   - jela bez mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - kajmak
   - krompir
   - paprike
@@ -30,7 +30,7 @@ tags:
   * so
   * suvi biljni začin
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * ulje
   * peršunov list
   * lovorov list

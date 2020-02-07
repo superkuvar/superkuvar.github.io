@@ -26,7 +26,7 @@ tags:
   * kocka za supu (od povrća)
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * 2 lista lovora
   * pirinač (2 šoljice)
   * ulje

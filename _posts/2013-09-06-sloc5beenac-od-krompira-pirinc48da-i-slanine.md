@@ -28,7 +28,7 @@ tags:
   * 4 režnja dimljene mesnate slanine
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * peršunov list
   * 2 dl kisele pavlake
   * 1 dl mleka

@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/12/Kupussaprelivomodmesa-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - crni luk
   - krompir
   - kupus
@@ -32,7 +32,7 @@ tags:
   * biber
   * 2 lista lovora
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * kašika šećera
   * kašika brašna
   * 3 kašike jabukovog sirćeta

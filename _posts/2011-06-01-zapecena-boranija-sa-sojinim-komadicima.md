@@ -33,7 +33,7 @@ tags:
   * 2 čena belog luka
   * so
   * suvi biljni začin
-  * aleva paprika
+  * crvena mlevena paprika
   * origano
   * peršunov list
 

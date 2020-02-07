@@ -29,7 +29,7 @@ tags:
   * 1 glavica crnog luka
   * so
   * biber
-  * aleva paprika
+  * crvena mlevena paprika
   * suvi biljni začin
   * ulje
   * 2 jajeta

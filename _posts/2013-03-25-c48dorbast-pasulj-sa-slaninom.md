@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-940x198.jpg
 categories:
   - jela od mesa
 tags:
-  - aleva paprika
+  - crvena mlevena paprika
   - beli luk
   - crni luk
   - pasulj
@@ -30,7 +30,7 @@ tags:
   * lovorov list
   * 1 paprika (sveža, suva ili pečena iz zamrzivača)
   * kašičica brašna
-  * aleva paprika
+  * crvena mlevena paprika
   * 2-3 čena belog luka
   * so
   * ulje
