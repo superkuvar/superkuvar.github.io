@@ -6,8 +6,8 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2191
 permalink: /gurabije-sa-medom/
-description:
-keywords:
+description: Recept za gurabije sa medom. Za spremanje poslastice potrebno je pripremiti brašno, jaja, šećer, puter, prašak za pacivo.
+keywords: gurabije, gurabije sa medom, gurabije med, med, starinske gurabije, gurabije poslastica
 image: /wp-content/uploads/2012/01/Gurabije-sa-medom-940x198.jpg
 categories:
   - kolači
@@ -30,6 +30,8 @@ tags:
 **Priprema**:
 
 Penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
+
+**Testo**:
 
 Testo razviti oklagijom i kalupom vaditi okrugle kolačiće-gurabije. Gurabije se mogu praviti i rukom na sledeći način: na radnoj površini od komada testa napraviti valjak, pa ga nožem seći na jednake komadiće. Svaki valjati između dlanova da se napravi loptica, pritisnuti da se spljošti kao pogačica i prstom malo udubiti u sredini.
 
