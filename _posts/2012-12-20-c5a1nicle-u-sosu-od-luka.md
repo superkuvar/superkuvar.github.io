@@ -35,6 +35,6 @@ tags:
 
 **Priprema**: šnicle izlupati tučkom za meso i zarezati nožem po ivicama, da se prilikom prženja ne bi skupile. Ispržiti ih na ulju, sa obe strane, uz dolivanje po malo tople vode. Ispržene šnicle posoliti, staviti na tanjir i poklopiti da se ne bi ohladile.
 
-U međuvremenu, pripremiti sos. Na malo ulja ispržiti sitno seckani crni luk, da postane staklast, posoliti pa dodati kiselu pavlaku, alevu papriku i biber i kratko prokuvati na slaboj vatri. Ovim sosom preliti šnicle.
+U međuvremenu, pripremiti sos. Na malo ulja ispržiti sitno seckani crni luk, da postane staklast, posoliti pa dodati kiselu pavlaku, crvenu mlevenu papriku i biber i kratko prokuvati na slaboj vatri. Ovim sosom preliti šnicle.
 
  nicle u sosu od luka poslužiti sa pireom od krompira, barenim pirinčem ili nekim prilogom od povrća.

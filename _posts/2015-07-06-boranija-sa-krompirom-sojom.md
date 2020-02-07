@@ -34,6 +34,6 @@ tags:
 
 Na malo zagrejanog ulja propržiti crni luk zajedno sa šargarepom, dodati krompir i naliti sa oko 6-7 decilitara tople vode, da ogrezne. Kada voda provri dodati boraniju i komadiće soje. Kuvati na umerenoj temperaturi dok krompir i boranija ne omekšaju. Pri kraju kuvanja jelo posoliti i dodati bosiljak.
 
-U malo hladne vode razmutiti skrob i alevu papriku, pa sipati u boraniju. Ostaviti da se kuva na trihoj vatri još oko pet minuta.
+U malo hladne vode razmutiti skrob i crvenu mlevenu papriku, pa sipati u boraniju. Ostaviti da se kuva na trihoj vatri još oko pet minuta.
 
 Boranija sa krompirom može se poslužiti uz sezonsku salatu.

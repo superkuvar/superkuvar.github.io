@@ -35,7 +35,7 @@ tags:
 
 U propržen luk dodati krompir i paprike isečene na komade, naliti toplom vodom, da ogrezne, i kuvati na umerenoj vatri. Paprikaš posoliti, dodati suvi biljni začin i biber.
 
-Razmutiti brašno i alevu papriku u malo hladne vode, pa pri kraju kuvanja sipati u paprikaš. Promešati i kuvati još desetak minuta, dok krompir ne bude mekan.
+Razmutiti brašno i crvenu mlevenu papriku u malo hladne vode, pa pri kraju kuvanja sipati u paprikaš. Promešati i kuvati još desetak minuta, dok krompir ne bude mekan.
 
 ### Napomena:
-> ko voli pikantan ukus, može u paprikaš dodati ljutu alevu papriku.
+> ko voli pikantan ukus, može u paprikaš dodati ljutu crvenu mlevenu papriku.

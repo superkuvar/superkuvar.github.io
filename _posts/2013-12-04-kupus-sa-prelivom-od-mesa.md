@@ -43,6 +43,6 @@ tags:
 
 Na ulju propržiti šećer, da porumeni, dodati kupus, krompir i papriku, naliti malo vode, poklopiti i dinstati na umerenoj temperaturi. Posoliti, pobiberiti, dodati suvi biljni začin, sirće i lovorov list. U toku dinstanja dolivati po malo tople vode i povremeno promešati. Nastaviti sa dinstanjem dok povrće ne omekša.
 
-Crni luk očistiti, iseckati na rebarca i propržiti na ulju, a zatim dodati meso isečeno na kocke. Kada meso porumeni, uz povremeno dolivanje po malo vode dinstati dok ne omekša. Posoliti, pobiberiti, umešati kašiku brašna i alevu papriku. Još malo propržiti.
+Crni luk očistiti, iseckati na rebarca i propržiti na ulju, a zatim dodati meso isečeno na kocke. Kada meso porumeni, uz povremeno dolivanje po malo vode dinstati dok ne omekša. Posoliti, pobiberiti, umešati kašiku brašna i crvenu mlevenu papriku. Još malo propržiti.
 
 Izdinstan kupus sipati u tanjire, a preko njega staviti meso.

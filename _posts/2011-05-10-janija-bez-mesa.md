@@ -42,4 +42,4 @@ tags:
 
 Kada je krompir upola gotov, dodati isečene paprike, paradajz pire, so, biber i biljni začin, pa nastaviti sa kuvanjem.
 
-Pri kraju kuvanja u jelo sipati brašno i alevu papriku, razmućene u malo vode i kuvati još nekoliko minuta. Gotovu janiju posuti seckanim peršunovim listom.
+Pri kraju kuvanja u jelo sipati brašno i crvenu mlevenu papriku, razmućene u malo vode i kuvati još nekoliko minuta. Gotovu janiju posuti seckanim peršunovim listom.

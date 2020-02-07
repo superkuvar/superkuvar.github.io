@@ -37,6 +37,6 @@ tags:
 
 U pogodnu podmazanu posudu ređati red krompira, red praziluka i svaki posoliti i pobiberiti. Odozgo treba da bude praziluk. Naliti supom od kocke, da ogrezne, poklopiti i pirjaniti oko 30 minuta.
 
-U međuvremenu, pomešati jaje razmućeno viljuškom, alevu papriku, brašno, mileram i malo supe. Ovom masom preliti izdinstano povrće, staviti u pećnicu zagrejanu na 200 stepeni i zapeći.
+U međuvremenu, pomešati jaje razmućeno viljuškom, crvenu mlevenu papriku, brašno, mileram i malo supe. Ovom masom preliti izdinstano povrće, staviti u pećnicu zagrejanu na 200 stepeni i zapeći.
 
 Zapečeni praziluk sa krompirom može se poslužiti kao samostalno jelo ili kao prilog uz šnicle ili dinstano meso.

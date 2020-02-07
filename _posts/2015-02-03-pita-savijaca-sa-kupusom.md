@@ -33,7 +33,7 @@ tags:
 
 **Priprema**: kupus očistiti, oprati i sitno iseći (kao za salatu) ili narendati na krupno rende.
 
-Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati kupus, šećer i lovorov list pa pržiti na umerenoj vatri, dok ne omekša i ne dobije zlatno smeđu boju. Povremeno, ukoliko je potrebno, doliti po malo vode. Pri kraju dinstanja dodati so, biber i alevu papriku, izmešati i pržiti još nekoliko minuta.
+Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati kupus, šećer i lovorov list pa pržiti na umerenoj vatri, dok ne omekša i ne dobije zlatno smeđu boju. Povremeno, ukoliko je potrebno, doliti po malo vode. Pri kraju dinstanja dodati so, biber i crvenu mlevenu papriku, izmešati i pržiti još nekoliko minuta.
 
 Kore podeliti na četiri dela (za svaku savijaču po četiri kore). Ređati po dve kore jednu preko druge, poprskati ih uljem, premazati filom, pa preko sledeće dve kore, pripremljene na isti način. Ovo uviti u rolnu i staviti u podmazan pleh. Tako uraditi i sa ostatkom kora i fila.
 

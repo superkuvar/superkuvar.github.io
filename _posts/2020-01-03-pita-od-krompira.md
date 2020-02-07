@@ -27,7 +27,7 @@ Način pripreme:
 
 Luk sitno iseckati propržiti i dodati narendani krompir. 
 
-Sve zajedno malo propržiti, posoliti, pobiberiti, dodati alevu papriku i sitno iseckan peršun. Uzeti kore, svaku poprskati uljem i staviti nadev. Saviti u rolne, složiti u pleh i pouljiti. Peći u dobro zagrejanoj pećnici oko 40 minuta. Služiti toplo.
+Sve zajedno malo propržiti, posoliti, pobiberiti, dodati crvenu mlevenu papriku i sitno iseckan peršun. Uzeti kore, svaku poprskati uljem i staviti nadev. Saviti u rolne, složiti u pleh i pouljiti. Peći u dobro zagrejanoj pećnici oko 40 minuta. Služiti toplo.
 
  
   

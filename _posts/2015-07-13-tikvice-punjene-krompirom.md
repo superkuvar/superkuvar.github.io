@@ -37,7 +37,7 @@ Pripremljenom masom od krompira puniti izdubljene tikvice i svaku zatvoriti kolu
 
 Na dno dublje šerpe rasporediti izdubljenu sredinu od tikvica, a odozgo staviti napunjene tikvice. Poređati ih uspravno. Naliti vodom da ogreznu, poklopiti i kuvati na umerenoj temperaturi.
 
-Brašno i alevu papriku razmutiti u malo hladne vode i pred kraj kuvanja sipati u tikvice. Kuvati na laganoj vatri još desetak minuta.
+Brašno i crvenu mlevenu papriku razmutiti u malo hladne vode i pred kraj kuvanja sipati u tikvice. Kuvati na laganoj vatri još desetak minuta.
 
 ### Napomena:
 > tikvice se mogu zapržiti i klasičnom zaprškom od brašna, aleve paprike i ulja.

@@ -49,7 +49,7 @@ Zagrejati polovinu predviđene količine ulja, pa dodati očišćen sitno isecka
 
 Opran pirinač obariti i ocediti. Pirinač treba da bude napola kuvan.
 
-Kada luk, šargarepa i šampinjoni budu dobro uprženi dodati so, biber i na kraju pirinač, seckani peršunov list i alevu papriku.
+Kada luk, šargarepa i šampinjoni budu dobro uprženi dodati so, biber i na kraju pirinač, seckani peršunov list i crvenu mlevenu papriku.
 
 Pripremljenim nadevom, kada se prohladi, puniti paprike, zatvoriti ih kolutovima krompira i složiti u vatrostalnu posudu ili zemljani đuveč. Paprike preliti vodom u kojoj je rastvoren kuvani paradajz, da ogreznu i preliti ostatkom ulja.
 

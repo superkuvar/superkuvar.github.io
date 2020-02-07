@@ -39,6 +39,6 @@ tags:
 
 Plavi patlidžan oljuštiti, oprati i iseći na kockice. Tikvice oprati i neoljuštene iseći na kolutove. Paprike očistiti od semena i iseći na manje komade. Paradajz oljuštiti i takođe iseći.
 
-U propržen crni luk dodati paprike i pržiti na umerenoj temperaturi dok ne omekšaju. Zatim dodati patlidžan i tikvice i još malo pržiti. Dodati isitnjen paradajz, posoliti, pobiberiti, dodati alevu papriku, lovor i belo vino.
+U propržen crni luk dodati paprike i pržiti na umerenoj temperaturi dok ne omekšaju. Zatim dodati patlidžan i tikvice i još malo pržiti. Dodati isitnjen paradajz, posoliti, pobiberiti, dodati crvenu mlevenu papriku, lovor i belo vino.
 
 Varivo dinstati dok povrće ne omekša i tečnost ne uvri. Na kraju dodati isitnjen peršunov list. Varivo poslužiti uz pržene kobasice ili ćufte.

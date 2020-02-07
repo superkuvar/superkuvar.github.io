@@ -38,4 +38,4 @@ tags:
 
 U propržen luk dodati šargarepu isečenu na kolutove i oljušten krompir isečen na kocke, pa naliti vodom da ogrezne. Paprikaš kuvati dok meso i krompir ne omekšaju.
 
-Pri kraju kuvanja krompir paprikaš posoliti, pobiberiti, dodati suvi biljni začin i malo origana. Brašno i alevu papriku razmutiti u malo vode i sipati u jelo. Kuvati još nekoliko minuta. Paprikaš skloniti sa vatre i dodati sitno seckani peršunov list.
+Pri kraju kuvanja krompir paprikaš posoliti, pobiberiti, dodati suvi biljni začin i malo origana. Brašno i crvenu mlevenu papriku razmutiti u malo vode i sipati u jelo. Kuvati još nekoliko minuta. Paprikaš skloniti sa vatre i dodati sitno seckani peršunov list.

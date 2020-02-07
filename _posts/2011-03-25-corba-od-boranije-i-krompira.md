@@ -29,7 +29,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-2847" title="Čorba od boranije i krompira" src="/wp-content/uploads/2011/03/%C4%8Corba-od-boranije-i-krompira1-300x225.jpg" alt="" width="300" height="225" /> 
 
-**Priprema**: boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi. Kada je boranija upola kuvana, dodati izgnječen beli luk, alevu papriku i kocku za supu. Nastaviti sa kuvanjem još dvadesetak minuta, dok boranija ne omekša.
+**Priprema**: boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi. Kada je boranija upola kuvana, dodati izgnječen beli luk, crvenu mlevenu papriku i kocku za supu. Nastaviti sa kuvanjem još dvadesetak minuta, dok boranija ne omekša.
 
 U međuvremenu, oprati krompir, oljuštiti, iseći na kocke, obariti, ocediti i izgnječiti viljuškom.
 

@@ -33,7 +33,7 @@ tags:
 
 <img class="alignnone size-medium wp-image-2967" title="Krompir sa spanaćem" src="/wp-content/uploads/2012/04/Krompir-sa-spanaćem-e1334577791685.jpg" alt="" width="295" height="226" /> 
 
-**Priprema**: na ulju propržiti seckani crni luk, da blago porumeni. Dodati alevu papriku i promešati.
+**Priprema**: na ulju propržiti seckani crni luk, da blago porumeni. Dodati crvenu mlevenu papriku i promešati.
 
 Krompir oprati, oljuštiti, iseći na kocke i dodati u proprženi luk. Naliti toplom vodom, da krompir ogrezne, i pustiti da proključa. Dodati spanać isečen na krupnije rezance, prethodno obaren. Kuvati dok krompir upola ne omekša (otprilike dvadesetak minuta). Zatim posoliti i dodati suvi biljni začin. Ukoliko je potrebno, doliti malo tople vode.
 

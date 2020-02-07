@@ -38,4 +38,4 @@ tags:
 
 Boraniju oprati, očistiti i dodati u napola omekšalu piletinu, naliti vodom da ogrezne, pa i dalje dinstati. Pred kraj posoliti, dodati suvi biljni začin po ukusu i malo bosiljka.
 
-Razmutiti brašno i alevu papriku u malo vode, pa sipati u boraniju. Promešati i kuvati još desetak minuta. Gotovo jelo posuti seckanim peršunovim listom.
+Razmutiti brašno i crvenu mlevenu papriku u malo vode, pa sipati u boraniju. Promešati i kuvati još desetak minuta. Gotovo jelo posuti seckanim peršunovim listom.

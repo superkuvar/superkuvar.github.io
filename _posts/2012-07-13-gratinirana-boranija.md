@@ -35,7 +35,7 @@ tags:
 
 **Priprema**: boraniju očistiti, oprati i iseći na komade. Na ulju propržiti sitno seckani crni luk, dodati pripremljenu boraniju, naliti malo tople vode, posoliti, pobiberiti i dinstati.
 
-U šoljici vode razmutiti brašno i alevu papriku, pa sipati u boraniju, lagano izmešati i nastaviti sa dinstanjem dok boranija ne omekša. Povremeno, ukoliko je potrebno, dodati po malo tople vode.
+U šoljici vode razmutiti brašno i crvenu mlevenu papriku, pa sipati u boraniju, lagano izmešati i nastaviti sa dinstanjem dok boranija ne omekša. Povremeno, ukoliko je potrebno, dodati po malo tople vode.
 
 Izdinstanu boraniju sipati u podmazanu posudu, dodati seckani beli luk, papriku isečenu na komade, oljušten paradajz isečen na komade i seckani peršunov list. Boraniju izmešati, pa preliti sa malo tople vode i ulja, staviti u pećnicu i peći na 200 stepeni dok voda ne uvri.
 

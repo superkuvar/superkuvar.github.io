@@ -27,7 +27,7 @@ Način pripreme:
 
 Iseckati kupus, preliti toplom vodom i kuvati na umerenoj vatri dok dobro ne omekša. Za to vreme u drugoj posudi na ulju propržiti sitno iseckani crni luk dok ne dobije rumenu boju. 
 
-Kupus ocediti i dodati prženom luku, dodati alevu papriku posoliti i pobiberiti po ukusu i sve dobro izmešati.
+Kupus ocediti i dodati prženom luku, dodati crvenu mlevenu papriku posoliti i pobiberiti po ukusu i sve dobro izmešati.
 
 Pleh ili crepulju podmazati uljem, na dno staviti 2–3 kore poprskane uljem i staviti nadev od pripremljene mase, redom (red kora, red mase i na kraju kore). 
 

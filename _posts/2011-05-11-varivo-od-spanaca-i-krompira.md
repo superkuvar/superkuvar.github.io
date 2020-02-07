@@ -31,7 +31,7 @@ tags:
 
 <img class="alignnone size-medium wp-image-3305" title="Varivo od spanaća i krompira" src="/wp-content/uploads/2011/05/Varivo-od-spanaća-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-**Priprema**: mladi crni luk očistiti, oprati, isitniti i staviti na zagrejano ulje da se malo proprži. U propržen luk umešati brašno, iseckan spanać i alevu papriku. Izmešati, još kratko propržiti pa naliti toplom vodom i staviti da se kuva na umerenoj temperaturi.
+**Priprema**: mladi crni luk očistiti, oprati, isitniti i staviti na zagrejano ulje da se malo proprži. U propržen luk umešati brašno, iseckan spanać i crvenu mlevenu papriku. Izmešati, još kratko propržiti pa naliti toplom vodom i staviti da se kuva na umerenoj temperaturi.
 
 Kada spanać provri, dodati prethodno očišćen i na kockice isečen krompir, posoliti i pobiberiti. Varivo kuvati dok krompir ne omekša.
 

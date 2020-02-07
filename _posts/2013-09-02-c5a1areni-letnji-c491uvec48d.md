@@ -44,7 +44,7 @@ tags:
 
 **Priprema**: na ulju propržiti iseckan crni luk, dodati oljušten paradajz isečen na komadiće i još malo pržiti.
 
-U propržen luk i paradajz dodati šargarepu isečenu na kolutove, papriku isečenu na komadiće, grašak i pirinač, naliti vodom da ogrezne i ostaviti na štednjaku da proključa. Posoliti, pobiberiti, dodati suvi biljni začin, alevu papriku, iseckan peršunov list i kari.
+U propržen luk i paradajz dodati šargarepu isečenu na kolutove, papriku isečenu na komadiće, grašak i pirinač, naliti vodom da ogrezne i ostaviti na štednjaku da proključa. Posoliti, pobiberiti, dodati suvi biljni začin, crvenu mlevenu papriku, iseckan peršunov list i kari.
 
 U podmazanu dublju posudu za pečenje (najbolje pekač) sipati izdinstano povrće i pomešati ga sa oljuštenim krompirom i patlidžanom isečenim na kockice. Đuveč dobro izmešati, doliti još malo tople vode ukoliko je potrebno, poklopiti i staviti u zagrejanu pećnicu.
 

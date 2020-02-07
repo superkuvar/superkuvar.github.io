@@ -35,7 +35,7 @@ tags:
 
 <img class="alignnone size-medium wp-image-4576" title="Čorba od tikvica" src="/wp-content/uploads/2011/03/orba-od-tikvica-e1351528346632-300x227.jpg" alt="" width="300" height="227" /> 
 
-**Priprema**: mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju. Dodati alevu papriku, promešati i naliti nekoliko čaša vrele vode (oko litar i po).
+**Priprema**: mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju. Dodati crvenu mlevenu papriku, promešati i naliti nekoliko čaša vrele vode (oko litar i po).
 
 Tikvice oprati, oljuštiti i iseći na kockice. Ukoliko su tikvice starije, ukloniti seme.
 

@@ -32,7 +32,7 @@ tags:
 
 **Priprema**: kupus oprati u hladnoj vodi, da bi se malo isprala so ili ukoliko je kiseliji nego što želite. Zatim ga ocediti i sitno iseckati.
 
-Crni luk očistiti, iseckati i propržiti na ulju. Sjediniti kupus i luk, ukoliko je potrebno posoliti, dodati kašičicu šećera, lovorov list i alevu papriku. Kupus dinstati dok ne omekne, uz dolivanje po malo tople vode.
+Crni luk očistiti, iseckati i propržiti na ulju. Sjediniti kupus i luk, ukoliko je potrebno posoliti, dodati kašičicu šećera, lovorov list i crvenu mlevenu papriku. Kupus dinstati dok ne omekne, uz dolivanje po malo tople vode.
 
 Kada kupus omekša i voda uvri, dodati sitnije komade fileta ribe, izmešati, sipati u podmazanu posudu za pečenje, doliti malo vode, odozgo preliti uljem, poklopiti i staviti u zagrejanu pećnicu.
 

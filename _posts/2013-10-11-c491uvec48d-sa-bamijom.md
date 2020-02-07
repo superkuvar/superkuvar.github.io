@@ -49,4 +49,4 @@ Crni luk očistiti, sitno iseći i propržiti na ulju. Dodati paradajz, prethodn
 
 Ostalo povrće oprati, očistiti i iseći na kockice. Patlidžan, takođe isečen na kockice posoliti, ostaviti da odstoji 15 minuta, a zatim ocediti od vode koju je pustio.
 
-U podmazanu posudu za pečenje sipati isitnjeno povrće, posoliti, pobiberiti, dodati peršunov list, alevu papriku i ispržen paradajz i luk. Dobro izmešati, pa dodati pirinač i bamije. Još jednom pažljivo izmešati da se bamije ne bi oštetile, naliti šoljom tople vode i vinom, odozgo sipati šoljicu ulja, poklopiti i staviti u zagrejanu pećnicu. Đuveč peći na 200 stepeni oko 60 minuta.
+U podmazanu posudu za pečenje sipati isitnjeno povrće, posoliti, pobiberiti, dodati peršunov list, crvenu mlevenu papriku i ispržen paradajz i luk. Dobro izmešati, pa dodati pirinač i bamije. Još jednom pažljivo izmešati da se bamije ne bi oštetile, naliti šoljom tople vode i vinom, odozgo sipati šoljicu ulja, poklopiti i staviti u zagrejanu pećnicu. Đuveč peći na 200 stepeni oko 60 minuta.

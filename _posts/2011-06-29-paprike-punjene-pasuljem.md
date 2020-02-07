@@ -43,6 +43,6 @@ Na zagrejanom ulju propržiti  sitno seckani luk, pa kad postane staklast dodati
 
 Suve paprike staviti da odstoje u toploj vodi 20 minuta. Ocediti ih i puniti pripremljenim nadevom. Svaku zatvoriti kolutom  krompira ili paradajza. Paprike poređati u posudu za pečenje, prethodno podmazanu uljem.
 
-Na zagrejanom ulju propržiti alevu papriku i brašno i tom zaprškom preliti paprike.
+Na zagrejanom ulju propržiti crvenu mlevenu papriku i brašno i tom zaprškom preliti paprike.
 
 Naliti paprike vodom u kojoj se pasulj kuvao, da ogreznu, pa u umereno zagrejanoj pećnici peći oko 40 minuta.

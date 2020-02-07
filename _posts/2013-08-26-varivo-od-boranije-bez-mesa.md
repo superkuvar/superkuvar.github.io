@@ -41,7 +41,7 @@ tags:
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati boraniju i šargarepu isečenu na kolutove i naliti toplom vodom da ogrezne.
 
-Krompir oprati, oljuštiti, iseći na kockice i dodati u boraniju. Posoliti, dodati suvi biljni začin i alevu papriku. Sve zajedno kuvati dok povrće ne omekša i dok se ne dobije gušće varivo. Pri kraju kuvanja dodati mleveni biber i bosiljak, po ukusu. U toku kuvanja, ukoliko je potrebno dolivati po malo tople vode.
+Krompir oprati, oljuštiti, iseći na kockice i dodati u boraniju. Posoliti, dodati suvi biljni začin i crvenu mlevenu papriku. Sve zajedno kuvati dok povrće ne omekša i dok se ne dobije gušće varivo. Pri kraju kuvanja dodati mleveni biber i bosiljak, po ukusu. U toku kuvanja, ukoliko je potrebno dolivati po malo tople vode.
 
 Umutiti jaje sa pavlakom i sipati u gotovo varivo. Izmešati, dodati kašiku limunovog soka i posuti seckanim peršunovim listom.
 

@@ -41,7 +41,7 @@ tags:
 
 Smanjiti temperaturu i ostaviti pasulj da tiho vri. Po potrebi dolivati toplu vodu.
 
-U malo zagrejanog ulja dodati brašno i pržiti da blago porumeni. Isključiti toplotu, pa odmah dodati sitno seckani beli luk i alevu papriku i sve dobro izmešati.
+U malo zagrejanog ulja dodati brašno i pržiti da blago porumeni. Isključiti toplotu, pa odmah dodati sitno seckani beli luk i crvenu mlevenu papriku i sve dobro izmešati.
 
 Kad pasulj omekša posoliti ga i zapržiti pripremljenom zaprškom, uz stalno mešanje da se brašno ne zgrudva. Kuvati na tihoj vatri još desetak minuta. Po želji, u pasulj dodati malo mlevenog bibera.
 

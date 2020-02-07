@@ -43,7 +43,7 @@ tags:
 
 **Priprema**: meso iseći na kockice, luk na listiće, papriku na manje komade, šargarepu i paradajz, prethodno oljušten, na kocke.
 
-Na zagrejanom ulju propržiti luk da postane staklast, smanjiti temperaturu i dodati alevu papriku. U luk dodati meso i kratko propržiti. Posuti biberom i suvim biljnim začinom, po želji dodati seckanu ljutu papričicu, naliti malo tople vode i poklopljeno dinstati.
+Na zagrejanom ulju propržiti luk da postane staklast, smanjiti temperaturu i dodati crvenu mlevenu papriku. U luk dodati meso i kratko propržiti. Posuti biberom i suvim biljnim začinom, po želji dodati seckanu ljutu papričicu, naliti malo tople vode i poklopljeno dinstati.
 
 Meso promešati povremeno, a po potrebi dolivati po malo tople vode. Kada je omekšalo, dodati iseckano povrće i beli luk. Dinstati dok povrće ne omekša.
 

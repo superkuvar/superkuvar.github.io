@@ -39,4 +39,4 @@ tags:
 
 Pripremljenim nadevom puniti paprike i svaku zatvoriti kolutom krompira. Napunjene paprike poređati u šerpu i naliti mešavinom vode i kuvanog paradajza (šoljica), da ogreznu. Kuvati na umerenoj temperaturi petnaestak minuta.
 
-Kašiku brašna i alevu papriku razmutiti u malo vode, preliti paprike i staviti u pećnicu da se zapeku (na 200 stepeni oko 30 minuta).
+Kašiku brašna i crvenu mlevenu papriku razmutiti u malo vode, preliti paprike i staviti u pećnicu da se zapeku (na 200 stepeni oko 30 minuta).

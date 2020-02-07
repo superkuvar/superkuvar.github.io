@@ -36,6 +36,6 @@ tags:
 
 **Priprema**: naliti pasulj hladnom vodom i ostaviti preko noći da nabubri.  Sutradan naliti novom hladnom vodom  i staviti da se kuva. Kada pasulj proključa, prosuti vodu, naliti drugom vodom i kuvati dok pasulj ne omekša. Pri kraju kuvanja dodati malo nane. Pasulj treba da bude gušći.
 
-Na ulju propržiti sitno seckan crni luk, dodati alevu papriku, usitnjen sir, malo soli i iseckan peršunov list, pa pomešati sa skuvanim pasuljem.
+Na ulju propržiti sitno seckan crni luk, dodati crvenu mlevenu papriku, usitnjen sir, malo soli i iseckan peršunov list, pa pomešati sa skuvanim pasuljem.
 
 U podmazan sud sipati ovu masu i zapeći u prethodno zagrejanoj pećnici.

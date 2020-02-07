@@ -37,6 +37,6 @@ tags:
 
 **Priprema**: na zagrejanom ulju propržiti sitno seckani crni luk, da blago porumeni. U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati. U toku dinstanja, povremeno, dolivati po malo vode. Grašak posoliti, dodati suvi biljni začin, biber i mirođiju.
 
-U malo hladne vode razmutiti brašno ili skrob i alevu papriku pa sipati u grašak. Dinstati još desetak minuta na umerenoj temperaturi, dok grašak ne omekša.
+U malo hladne vode razmutiti brašno ili skrob i crvenu mlevenu papriku pa sipati u grašak. Dinstati još desetak minuta na umerenoj temperaturi, dok grašak ne omekša.
 
 Grašak servirati kao prilog uz dinstano meso, šnicle, piletinu ili pečenje i salatu.

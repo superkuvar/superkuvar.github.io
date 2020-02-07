@@ -39,7 +39,7 @@ tags:
 
 **Priprema**: kupus očistiti, oprati i iseći na rezance ili naribati na krupnoj trenici, a zatim ga izdinstati na malo ulja. Prilikom dinstanja dolivati po malo tople vode. Kupus posoliti i kad omekša, pobiberiti.
 
-Crni luk očistiti, sitno iseckati, propržiti na ulju, a zatim dodati meso i još malo propržiti. Posoliti, pobiberiti i dodati alevu papriku.
+Crni luk očistiti, sitno iseckati, propržiti na ulju, a zatim dodati meso i još malo propržiti. Posoliti, pobiberiti i dodati crvenu mlevenu papriku.
 
 Na dno podmazane posude za pečenje rasporediti polovinu količine izdinstanog kupusa, zatim proprženo meso, pa opet kupus i preliti šoljicom tople vode. Musaku staviti u zagrejanu pećnicu i peći na 200 stepeni.
 

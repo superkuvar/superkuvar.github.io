@@ -35,7 +35,7 @@ tags:
 
 **Priprema**: luk očistiti, sitno iseckati i propržiti na malo ulja ili margarina. Spanać očistiti, oprati, staviti u sud sa ključalom vodom i bariti 3-4 minuta. Zatim spanać ocediti i kada se prohladi iseći sitnije.
 
-Isečen spanać dodati u propržen luk i pržiti još 2-3 minuta. Posoliti, pobiberiti, dodati alevu papriku i narendani musaktni oraščić po ukusu.
+Isečen spanać dodati u propržen luk i pržiti još 2-3 minuta. Posoliti, pobiberiti, dodati crvenu mlevenu papriku i narendani musaktni oraščić po ukusu.
 
 Pirinač oprati i obariti u posoljenoj vodi, a zatim ocediti.
 

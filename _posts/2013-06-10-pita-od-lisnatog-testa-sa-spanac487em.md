@@ -38,7 +38,7 @@ tags:
 
 **Priprema**: spanać očistiti, oprati, kratko obariti i ocediti. Kada se spanać ohladi sitno ga iseckati.
 
-Umutiti viljuškom dva jajeta, pa dodati kiselo mleko, izmrvljen sir, so, biber, alevu papriku i spanać. Masu dobro izmešati.
+Umutiti viljuškom dva jajeta, pa dodati kiselo mleko, izmrvljen sir, so, biber, crvenu mlevenu papriku i spanać. Masu dobro izmešati.
 
 Odmrznuti lisnato testo i na radnoj površini posutoj brašnom razviti ga oklagijom u pravougaoni oblik debljine 1 santimetar. Premazati ga nadevom, uviti kao rolat i staviti u pleh prekriven papirom za pečenje. Odozgo premazati umućenim žumancetom.
 

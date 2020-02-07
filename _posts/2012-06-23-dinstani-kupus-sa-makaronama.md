@@ -31,7 +31,7 @@ tags:
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Kupus očistiti, oprati, iseći na rezance i dodati u luk. Promešati, poklopiti i dinstati uz povremeno mešanje i dolivanje po malo tople vode.
 
-Pri kraju dinstanja kupus posoliti, dodati suvi biljni začin, alevu papriku i biber, izmešati i dinstati dok potpuno ne omekša.
+Pri kraju dinstanja kupus posoliti, dodati suvi biljni začin, crvenu mlevenu papriku i biber, izmešati i dinstati dok potpuno ne omekša.
 
 U međuvremenu, skuvati makarone, ocediti ih i preliti vrelim uljem. Pomešati makarone i dinstani kupus i dobro izmešati.
 

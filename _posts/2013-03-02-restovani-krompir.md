@@ -35,7 +35,7 @@ tags:
 
 **Priprema**: oprati krompir, naliti hladnom vodom, posoliti i kuvati. Kada se skuva, ocediti vodu i ostaviti ga poklopljen u posudi da malo odstoji. Zatim krompir, dok je još vruć, oljuštiti.
 
-U međuvremenu, očititi crni luk, iseći sitno ili na kolutove, pa propržiti na vreloj masnoći, da blago porumeni. Dodati alevu papriku, so , biber i sitno seckani peršunov list.
+U međuvremenu, očititi crni luk, iseći sitno ili na kolutove, pa propržiti na vreloj masnoći, da blago porumeni. Dodati crvenu mlevenu papriku, so , biber i sitno seckani peršunov list.
 
 Oljušten krompir, po želji, grubo isitniti viljuškom ili iseći na kockice ili kolutove.
 

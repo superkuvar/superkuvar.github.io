@@ -42,7 +42,7 @@ tags:
 
 Krompir oprati i neoljušten preliti hladnom vodom, da ogrezne, posoliti i kuvati. Napola skuvan krompir ocediti, oljuštiti i prohlađen izrendati.
 
-Praziluk oljuštiti, sitno iseckati i propržiti na polovini predviđene količine ulja, dodati izrendan krompir i još kratko pržiti. Dodati sitno seckani beli luk, so, biber, alevu papriku i sitno seckani peršunov list.
+Praziluk oljuštiti, sitno iseckati i propržiti na polovini predviđene količine ulja, dodati izrendan krompir i još kratko pržiti. Dodati sitno seckani beli luk, so, biber, crvenu mlevenu papriku i sitno seckani peršunov list.
 
 Oceđene paprike puniti pripremljenim nadevom, zatvoriti kolutovima krompira ili paradajza i ređati u posudu za pečenje (može i zemljanu). Paprike preliti vrelom vodom pomešanom sa paradajz pireom, da ogreznu, a odozgo sipati ostatak ulja.
 

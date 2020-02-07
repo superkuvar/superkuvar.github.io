@@ -37,7 +37,7 @@ tags:
 
 Pirinač oprati i takođe obariti, vodeći računa da se ne raskuva.
 
-Na malo ulja propržiti sitno seckani crni luk, dodati pirinač i patlidžan isečen na kockice. Posoliti, dodati suvi biljni začin, biber, alevu papriku i origano. Masu dobro izmešati.
+Na malo ulja propržiti sitno seckani crni luk, dodati pirinač i patlidžan isečen na kockice. Posoliti, dodati suvi biljni začin, biber, crvenu mlevenu papriku i origano. Masu dobro izmešati.
 
 Paprike oprati, očistiti od semena, napuniti pripremljenim nadevom i svaku zatvoriti kolutom paradajza ili krompira.
 

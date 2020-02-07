@@ -31,7 +31,7 @@ tags:
 
 <img class="alignnone size-full wp-image-988" title="paprikeizrerne" src="/wp-content/uploads/2011/06/paprikeizrerne-e1307451175284.jpg" alt="" width="248" height="169" /> 
 
-**Priprema**: paprike oprati i očistiti od semenki. Potom spremiti nadev na sledeći način: glavicu crnog luka sitno iseći i dinstati na ulju. Kad je luk upola izdinstan, dodati narendanu šargarepu. Još malo propržiti, pa dodati mleveno meso, šoljicu pirinča, začin, biber i alevu papriku. Propržiti nekoliko minuta.
+**Priprema**: paprike oprati i očistiti od semenki. Potom spremiti nadev na sledeći način: glavicu crnog luka sitno iseći i dinstati na ulju. Kad je luk upola izdinstan, dodati narendanu šargarepu. Još malo propržiti, pa dodati mleveno meso, šoljicu pirinča, začin, biber i crvenu mlevenu papriku. Propržiti nekoliko minuta.
 
 Paprike puniti pripremljenim nadevom i ređati u šerpu namazanu uljem. U svaku papriku sipati kafenu kašičicu ulja i zatvoriti kolutom paradajza ili krompira. Naliti toplom vodom, da ogreznu.
 

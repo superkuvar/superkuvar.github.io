@@ -47,7 +47,7 @@ Na svaki list kupusa stavljati kašiku nadeva i uvijati sarme. Na dno šerpe sa 
 
 Sarme naliti toplom vodom, da ogreznu i kuvati poklopljene na tihoj vatri, dok kupus ne omekša (otprilike sat i po). Po potrebi, u toku kuvanja dolivati po malo tople vode.
 
-U tiganju zagrejati ostatak ulja, dodati brašno, propržiti ga da blago porumeni pa dodati alevu papriku. Preliti sarme zaprškom i kuvati još desetak minuta na tihoj vatri.
+U tiganju zagrejati ostatak ulja, dodati brašno, propržiti ga da blago porumeni pa dodati crvenu mlevenu papriku. Preliti sarme zaprškom i kuvati još desetak minuta na tihoj vatri.
 
 Sarma se može poslužiti i topla i hladna.
 

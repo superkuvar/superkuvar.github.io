@@ -40,11 +40,11 @@ tags:
 
 **Priprema**: suve paprike oprati, preliti vrelom vodom i ostaviti petnaestak minuta da omekšaju, a zatim ocediti.
 
-Crni luk i praziluk očistiti, sitno iseckati i propržiti na polovini predviđene količine ulja. Dodati so, alevu papriku, seckani peršunov list i opran pirinač. Izmešati i kratko propržiti.
+Crni luk i praziluk očistiti, sitno iseckati i propržiti na polovini predviđene količine ulja. Dodati so, crvenu mlevenu papriku, seckani peršunov list i opran pirinač. Izmešati i kratko propržiti.
 
 Pripremljenim nadevom puniti oceđene paprike, svaku zatvoriti kolutom krompira i ređati u tavu ili posudu za đuveč.
 
-Preostalo ulje zagrejati, dodati brašno, propržiti, dodati alevu papriku, promešati, a zatim sipati kuvani paradajz. Kratko prokuvati i preliti paprike. Doliti vrele vode da paprike ogreznu.
+Preostalo ulje zagrejati, dodati brašno, propržiti, dodati crvenu mlevenu papriku, promešati, a zatim sipati kuvani paradajz. Kratko prokuvati i preliti paprike. Doliti vrele vode da paprike ogreznu.
 
 Posudu sa paprikama staviti u zagrejanu pećnicu. Peći na temperaturi od 200 stepeni dok sok gotovo ne uvri, a paprike dobiju tamno mrku boju.
 

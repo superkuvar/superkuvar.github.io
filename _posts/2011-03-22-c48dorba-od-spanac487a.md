@@ -33,10 +33,10 @@ tags:
   * so
   * kašičica aleve paprike
 
-<img class="alignnone size-medium wp-image-4657" title="Corbaspanac" src="/wp-content/uploads/2011/03/Corbaspanac-300x225.jpg" alt="" width="300" height="225" /> 
+![Corba spanac](/wp-content/uploads/2011/03/Corbaspanac-1024x768.jpg)
 
 **Priprema**: spanać očistiti, dobro oprati, preliti ključalom vodom i ocediti. Oceđen spanać iseći na rezance, pa ga sa opranim pirinčem spustiti u lonac i preliti litrom i po vrele vode. Čorbu kuvati 15 minuta na umerenoj vatri.
 
-Na ulju propržiti sitno isečenu glavicu crnog luka, dodati brašno, dobro promešati, skloniti sa štednjaka, dodati alevu papriku i zapržiti čorbu.
+Na ulju propržiti sitno isečenu glavicu crnog luka, dodati brašno, dobro promešati, skloniti sa štednjaka, dodati crvenu mlavenu papriku i zapržiti čorbu.
 
-Čorbu posoliti i ostaviti da vri 5 minuta, a potom skloniti sa štednjaka. Po želji, umutiti jaje sa mlekom i umešati u čorbu. Poklopiti i ostaviti da odstoji desetak minuta, a zatim poslužiti.
+Čorbu posoliti i ostaviti da vri **5 minuta**, a potom skloniti sa štednjaka. Po želji, umutiti jaje sa mlekom i umešati u čorbu. Poklopiti i ostaviti da odstoji desetak minuta, a zatim poslužiti.

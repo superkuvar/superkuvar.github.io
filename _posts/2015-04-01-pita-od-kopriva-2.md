@@ -29,7 +29,7 @@ tags:
 
 [<img class="alignnone size-medium wp-image-9579" src="/wp-content/uploads/2015/04/pitaodkopriva-300x225.jpg" alt="pitaodkopriva" width="300" height="225" />](/wp-content/uploads/2015/04/pitaodkopriva-e1430747125697.jpg)
 
-**Priprema**: koprivu očistiti, oprati i preliti ključalom vodom. Kada se kopriva ohladi iseckati je na rezance. Mladi crni luk očistiti, oprati, zajedno sa perima sitno iseći i propržiti na malo ulja. U luk dodati iseckanu koprivu, alevu papriku, so, biber i brašno. Nadev dobro izmešati.
+**Priprema**: koprivu očistiti, oprati i preliti ključalom vodom. Kada se kopriva ohladi iseckati je na rezance. Mladi crni luk očistiti, oprati, zajedno sa perima sitno iseći i propržiti na malo ulja. U luk dodati iseckanu koprivu, crvenu mlevenu papriku, so, biber i brašno. Nadev dobro izmešati.
 
 Odvojiti po četiri kore, svaku poprskati mešavinom ulja i vode, pa preko četvrte rasporediti deo fila i uviti kao štrudlu. Tako uraditi sa ostatkom kora i fila. Uvijene štrudle staviti u pleh prekriven papirom za pečenje, premazati ih uljem i peći oko 35 minuta u pećnici zagrejanoj na 200 stepeni.
 

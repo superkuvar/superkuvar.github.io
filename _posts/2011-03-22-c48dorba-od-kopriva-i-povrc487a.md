@@ -35,7 +35,7 @@ tags:
 
 **Priprema**: koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
 
-Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju. U proprženo povrće dodati alevu papriku i šoljicu pirinča, pa naliti sa 7 šolja vode (oko 1,5 litar). Kada voda provri dodati isitnjenu koprivu.
+Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju. U proprženo povrće dodati crvenu mlevenu papriku i šoljicu pirinča, pa naliti sa 7 šolja vode (oko 1,5 litar). Kada voda provri dodati isitnjenu koprivu.
 
 Čorbu kuvati 30 minuta na umerenoj temperaturi, a pred kraj kuvanja začiniti je kiselom pavlakom u kojoj je razmućeno žumance.
 
