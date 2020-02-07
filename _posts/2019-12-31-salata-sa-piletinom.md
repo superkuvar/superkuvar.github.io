@@ -25,7 +25,7 @@ tags:
 * prezle
 * ulje
 
-Za preliv:
+**Za preliv**:
 
 * 3 kašike soja sosa
 * 1 limun
@@ -33,20 +33,17 @@ Za preliv:
 * ½ dl. maslinovog ulja
 * listovi rukole
 
-<img class="alignnone size-medium wp-image-6224" src="/wp-content/uploads/2019/12/salata.jpg" alt="Salata" width="300" height="225">
+![salata](/wp-content/uploads/2019/12/salata.jpg)
 
-PRIPREMA:
 
-Skuvanu palentu (kačamak) ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
+**Priprame**: Skuvanu palentu (kačamak) ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
 
 Piletinu iseći na kockice i posoliti. Napraviti smesu za pohovanje od jajeta, 2 kašike brašna, kašike skroba i malo vode, da dobije gustinu smese za palačinke.
 
 Svaki komad piletine umočiti u smesu i kratko pržiti u dubokom ulju.
 Pečurke iseći na listiće i prodinstati na malo ulja.
 
-PRELIV: 
-
-U blenderu izmiksati maslinovo ulje, malo senfa, sok
+**Preliv**:  U blenderu izmiksati maslinovo ulje, malo senfa, sok
 od jednog limuna i soja sosa.
 
 Salatu poslužiti na listovima rukole ili seckane zelene salate, posuti je rendanim kačkavalem i preliti prelivom.
