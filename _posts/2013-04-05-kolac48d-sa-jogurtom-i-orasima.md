@@ -47,5 +47,5 @@ Pripremljeno testo sipati u pleh prekriven papirom za pečenje i staviti u zagre
 
 Ohlađen kolač poprskati rumom, iseći na kocke i po želji posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > za merenje sastojaka kolača koristiti čašu od jogurta.

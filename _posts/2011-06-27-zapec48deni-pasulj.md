@@ -46,5 +46,5 @@ U napola skuvan pasulj dodati  cele suve paprike, pa nastaviti sa kuvanjem, dok 
 
 Izmešati oceđen skuvan pasulj i ispržen luk, sipati u nauljenu posudu za pečenje i naliti vodom u kojoj se pasulj kuvao, da ogrezne. Odozgo preliti  uljem. Jelo peći u prethodno zagrejanoj pećnici, na umerenoj temperaturi, dok voda ne uvri i napravi se rumena korica.
 
-### Napomena:
+**Napomena**: 
 > ko voli pikantniji ukus, u pasulj može dodati crvenu ljutu papriku.

@@ -27,7 +27,7 @@ Komade mesa od morke (guske, patke ili kokoške), oprati pa zajedno sa salom, oz
 šargarepom staviti da se kuva oko dva sata na tihoj vatri. Fond ocediti, meso sitno iskidati i vratiti U
 fond, ali bez povrća, začiniti po ukusu, dodati rezance i kuvati još oko deset minuta.
 
-### Napomena:
+**Napomena**: 
 > Luk izvaditi i ne koristiti, a šargarepu posoliti i staviti kao prilog uz glavno jelo
 pripremljeno za ručak.
 

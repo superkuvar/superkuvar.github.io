@@ -32,5 +32,5 @@ Pleh podmazati uljem, pa staviti testo prethodno oblikovano u okruglu pogaču. P
 Pogaču staviti u pećnicu zagrejanu na 200 stepeni i peći dok ne bude rumeno ispečena.  
 Pogača se služi topla.
 
-### Napomena:
+**Napomena**: 
 > pola količine brašna može da bude meko, a pola oštro.

@@ -50,5 +50,5 @@ U podmazanu dublju posudu za pečenje (najbolje pekač) sipati izdinstano povrć
 
 Đuveč peći na 250 stepeni oko jedan sat. Pri kraju pečenja skloniti poklopac, da se jelo malo zapeče.
 
-### Napomena:
+**Napomena**: 
 > u đuveč se može doliti i pola čaše belog vina, ali tada ne dodavati kari.

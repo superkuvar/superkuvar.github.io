@@ -39,5 +39,5 @@ Pečenu pitu pokriti salvetom, ostaviti da se malo ohladi, a zatim seći na par�
 
 Pitu poslužiti sa kiselim mlekom ili jogurtom.
 
-### Napomena:
+**Napomena**: 
 > kore se ne moraju uvijati, već se mogu slagati jedna preko druge, pa premazivati nadevom, ukoliko tako više volite.

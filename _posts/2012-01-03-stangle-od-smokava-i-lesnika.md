@@ -30,5 +30,5 @@ Masu lagano izmešati i sipati u pleh prekriven pek papirom podmazanim uljem. Ko
 
 Pečen kolač, kada se ohladi, iseći na štangle i posuti šećerom u prahu zamirisanim vanilom.
 
-### Napomena:
+**Napomena**: 
 > umesto mlevenih lešnika u testo za štangle mogu se staviti mleveni orasi.

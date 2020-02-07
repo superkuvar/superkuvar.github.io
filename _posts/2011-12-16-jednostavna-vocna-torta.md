@@ -48,5 +48,5 @@ Skuvati preliv za tortu prema uputstvu sa ambalaže i preliti preko malina. Stav
 
 Pre služenja tortu ukrasiti umućenim šlagom ili ulupanom slatkom pavlakom.
 
-### Napomena:
+**Napomena**: 
 > umesto malina, za pripremu ove voćne torte može se upotrebiti neko drugo sezonsko voće (jagode, ribizle, kupine, kivi&#8230;).

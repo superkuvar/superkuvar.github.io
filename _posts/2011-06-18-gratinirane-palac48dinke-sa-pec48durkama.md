@@ -41,5 +41,5 @@ Urolane palačinke poređati u podmazan vatrostalni sud.
 
 Preostalu količinu milerama i mleko izmešati sa dva umućena jajeta, pa tom mešavinom preliti palačinke. Zapeći. Servirati toplo.
 
-### Napomena:
+**Napomena**: 
 > palačinke možete pripremiti po receptu &#8221;testo za palačinke&#8221; iz SUPER KUVAR-a.

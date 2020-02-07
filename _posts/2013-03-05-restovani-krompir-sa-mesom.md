@@ -45,7 +45,7 @@ Pomešati isitnjen krompir sa isprženim lukom i mesom, pa na slabijoj vatri jo�
 
 Restovani krompir poslužiti uz salatu.
 
-### Napomena:
+**Napomena**: 
 > restovan krompir na ovaj način najčešće pripremam kada preostane meso od prethodnog ručka, bilo da je kuvano, dinstano ili šnicle.
 
 &nbsp;

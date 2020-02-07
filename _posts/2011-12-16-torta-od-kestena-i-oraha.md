@@ -40,5 +40,5 @@ Ohlađenu tortu izvaditi iz kalupa na tanjir i preliti je glazurom, odozgo i sa 
 
 Glazura: u šerpicu staviti izlomljenu čokoladu, šećer, margarin i mleko, pa na štednjaku na tihoj vatri istopiti, da se dobije glatka masa.
 
-### Napomena:
+**Napomena**: 
 > Ova torta može se napraviti i u posnoj varijanti. Umesto maslaca koristiti margarin, posnu čokoladu i vodu.

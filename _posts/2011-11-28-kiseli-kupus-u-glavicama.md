@@ -38,7 +38,7 @@ Kupus pritisnuti obručem i nečim teškim (najbolje, dobro opranim kamenom koji
 
 U početku kupus treba pretakati dva puta nedeljno, a kasnije jednom, sve dok se ne ukiseli. Pretakanje se vrši zbog toga da se raso ne bi otezao.
 
-### Napomena:
+**Napomena**: 
 > na deset kilograma kupusa potrebno je staviti 200-250 grama soli (najbolja je krupna morska so).
 
 Bure sa kupusom dobro zatvoriti i smestiti u podrum ili na neko drugo prohladno mesto, gde će ostati tokom zime. Voditi računa da ne bude na suviše hladnom mestu, jer može da zamrzne.

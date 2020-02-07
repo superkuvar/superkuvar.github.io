@@ -33,7 +33,7 @@ U podmazanu posudu za pečenje poređati izdubljeni paradajz, u svaki razbiti po
 
 Pečen paradajz posuti seckanim peršunovim listom i poslužiti uz pire od krompira, bareni pirinač ili testeninu.
 
-### Napomena:
+**Napomena**: 
 > paradajz se preporučuje za jačanje odbrambenog sistema organizma, ali i u dijetalnoj ishrani zato što je hranljiv a niskokaloričan.
 
 Paradajz se u ishrani koristi na mnogo načina: svež (kao salata), kuvan (čorba, supa), pržen, kao pire, kao dodatak jelima.

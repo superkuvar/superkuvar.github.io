@@ -32,7 +32,7 @@ Na ulju propržiti brašno i sitno iseckan beli luk, ali paziti da ostane svetlo
 
 U pire od kopriva može se umešati kisela pavlaka. Pire poslužiti sa jajima prženim &#8221;na oko&#8221;.
 
-### Napomena:
+**Napomena**: 
 > umesto vodom, koprive se mogu naliti supom od kocke ili mlekom (oko 5 dl).
 
 Kopriva je divlja, samonikla biljka, a raste kao korov pored puteva i na zapuštenim mestima. Njenu delotvornost i hranljivost poznavali su još antički narodi. Kod Rusa poznat je stari običaj peckanja tela koprivom kako bi se podstakao krovotok.

@@ -40,5 +40,5 @@ Oceđene tikvice pomešati sa obarenim pirinčem.
 
 Umutiti jaja viljuškom pa dodati mleko, sir, ulje, biber, suvi biljni začin i origano ili muskatni oraščić. Pripremljenom masom preliti tikvice, lagano izmešati i izručiti u podmazanu posudu za pečenje. Odozgo preliti sa malo ulja ili poređati listiće margarina. Jelo peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni.
 
-### Napomena:
+**Napomena**: 
 > umesto sitnog sira može se dodati beli sir, izgnječen viljuškom ili narendani kačkavalj.

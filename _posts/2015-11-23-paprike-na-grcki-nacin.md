@@ -29,5 +29,5 @@ U šerpu sipati ulje, pa kad se zagreje dodati isečen crni luk i paprike. Posol
 
 Paprike sipati u činiju i poslužiti uz pire krompir i meso. Paprike na grčki način mogu se jesti i hladne, a mogu da stoje dva-tri dana.
 
-### Napomena:
+**Napomena**: 
 > jelo lepše izgleda kada se pomešaju zelene i crvene paprike. U paprike se može dodati i seckani peršunov list.

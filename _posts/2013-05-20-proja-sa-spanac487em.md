@@ -39,5 +39,5 @@ Testo sipati u pleh, prethodno podmazan uljem. Proju peći 45 minuta u pećnici 
 
 Kada je proja pečena, izvaditi je iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi. Iseći je na kocke i poslužiti toplu uz jogurt, kiselo mleko ili prevreli beli sir.
 
-### Napomena:
+**Napomena**: 
 > umesto sa spanaćem, proja se može pripremiti sa zeljem, blitvom ili koprivom.

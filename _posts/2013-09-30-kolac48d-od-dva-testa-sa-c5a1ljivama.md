@@ -47,5 +47,5 @@ U drugoj posudi, za drugo testo, umutiti žumanca sa šećerom i kesicom vanilin
 
 Ohlađen kolač iseći na kocke i posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > ovaj kolač može se napraviti i sa drugim sezonskim voćem (jabuke, breskve, kajsije, višnje).

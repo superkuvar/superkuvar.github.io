@@ -44,7 +44,7 @@ Salata treba da se malo ohladi u frižideru, pa tek onda da se posluži.
 
 U celer i jabuke može se dodati narendani kačkavalj (oko 100 grama).
 
-### Napomena:
+**Napomena**: 
 > celer sadrži kumarin, supstancu koja sprečava štetno delovanje slobodnih radikala.
 
 Svež, sirov celer se preporučuje osobama koje imaju kamen u bubregu, jer je dobar diuretik.

@@ -36,7 +36,7 @@ U isitnjen patlidžan i paprike dodati sir izmrvljen viljuškom, majonez, senf, 
 
 Salatu sipati u činiju i staviti u frižider. Kada se salata ohladi poslužiti je kao lagan obrok.
 
-### Napomena:
+**Napomena**: 
 > plavi patlidžan nije skupo povrće, a stimuliše rad jetre, bubrega i pankreasa. Zbog niske kalorijske vrednosti preporučuje se u dijetama za mršavljenje.
 
 Patlidžan se može naći u prodaji tokom cele godine, ali je onaj letnji ukusniji i jeftiniji.

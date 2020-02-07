@@ -35,7 +35,7 @@ Proprženu džigericu poređati preko luka. Posudu poklopiti i staviti u zagreja
 
  nicle od džigerice poslužiti sa barenim pirinčem ili prilogom od povrća.
 
-### Napomena:
+**Napomena**: 
 > od džigerice, kao i od ostalih iznutrica mogu se pripremati ukusna jela. Međutim, potrebno ih je malo više začiniti. Naročito, belo vino, senf, sirće, pavlaka daju im posebno dobar ukus.
 
 Pre prženja džigericu, očišćenu i isečenu na šnicle, treba neko vreme držati potopljenu u mleko, da bi bila mekša i ukusnija.

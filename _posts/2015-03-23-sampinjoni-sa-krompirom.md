@@ -37,5 +37,5 @@ tags:
 
 Kada su šampinjoni gotovi, dodati krompir i izmešati. Odmah poslužiti.
 
-### Napomena:
+**Napomena**: 
 > paprika može da bude i iz zamrzivača (ukoliko ih u jesen pečete i zamrzavate).

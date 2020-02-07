@@ -42,5 +42,5 @@ Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati oceđen patlidž
 
 Napunjene paprike poređati u podmazanu dublju posudu za pečenje, nasuti dve-tri šoljice vode i preliti ih mešavinom brašna i aleve paprike razmućenim u malo vode. Paprike peći 40 minuta na umerenoj temperaturi.
 
-### Napomena:
+**Napomena**: 
 > umesto brašna i aleve paprike razmućenih u vodi, možete napraviti tanku zapršku od malo ulja, brašna i aleve paprike, pa sipati preko paprika.

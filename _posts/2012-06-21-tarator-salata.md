@@ -34,7 +34,7 @@ Beli luk i mirođiju sitno iseckati, dodati ulje, pa umešati u krastavce. Sve p
 
 Tarator salata može se pripremiti i sa kiselom pavlakom.
 
-### Napomena:
+**Napomena**: 
 > ko voli ljuto, u tarator salatu može dodati i sitno seckanu ljutu papričicu.
 
 Tarator salata je veoma osvežavajuća u letnjim mesecima i može se pripremiti i sa više kiselog mleka nego što je predviđeno u receptu.

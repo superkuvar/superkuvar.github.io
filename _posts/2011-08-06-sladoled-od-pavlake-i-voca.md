@@ -31,7 +31,7 @@ Umućenu masu sipati u odgovarajuću posudu i staviti u zamrzivač. Povremeno pr
 
 Gotov sladoled sipati u čaše ili činijice i po želji ukrasiti celim voćem ili komadićima (ukoliko se pravi od krupnijeg voća).
 
-### Napomena:
+**Napomena**: 
 > ukoliko nemate slatku pavlaku, može se upotrebiti  šlag pena. Dve kesice šlag pene umutiti prema uputstvu na ambalaži, pa onda dodati kiselu pavlaku, šećer i voće i još malo umutiti mikserom.
 
 &nbsp;

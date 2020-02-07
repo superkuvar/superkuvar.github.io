@@ -31,9 +31,9 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5513" src="/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-300x225.jpg" alt="Corba od zelja sa slaninom" width="300" height="225" /> 
+![](/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-1024x768.jpg)
 
-**Priprema**: zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
+**Priprema**: Zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
 
 U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku. Dodati isečeno zelje i kratko propržiti.
 
@@ -43,13 +43,9 @@ Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratk
 
 Umesto slaninom, čorba se može začitini kiselom pavlakom.
 
-### Napomena:
-> zelje je samonikla višegodišnja biljka. Koriste se mladi listovi, koji su sočni i ukusni. Čim zelje ostari, postaje gorko i oporo.
+**Napomena**: Zelje je samonikla višegodišnja biljka. Koriste se mladi listovi, koji su sočni i ukusni. Čim zelje ostari, postaje gorko i oporo.
 
 Od zelja se prave čorbe, sarmice, pite, proja.
 
 Kopriva i zelje su od davnina smatrani namirnicama siromašnih, uprkos tome što obiluju hranljivim sastojcima.
 
-&nbsp;
-
-&nbsp;

@@ -35,7 +35,7 @@ Na malo ulja propržiti crni luk i šargarepu, dodati brašno i još malo pržit
 
 U proleće, zbog hranljivih sastojaka koje sadrži kopriva, ova čorba trebalo bi da bude češće na našoj trpezi.
 
-### Napomena:
+**Napomena**: 
 > čorba se može začiniti jajetom umućenim sa tri-četiri kašike kisele pavlake.
 
 Kopriva odnosno njeni mladi listovi po ukusu podsećaju na spanać. Da prilikom pripreme kopriva ne bi žarila treba je preliti ključalom vodom.

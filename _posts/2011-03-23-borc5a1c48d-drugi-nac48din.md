@@ -47,7 +47,7 @@ Jednu svežu cveklu izrendati, iscediti sok, sipati ga u boršč i još malo pro
 
 U gotov boršč dodati sirće (limunov sok), iseckani peršunov list i preliti kiselom pavlakom.
 
-### Napomena:
+**Napomena**: 
 > boršč zauzima počasno mesto među čorbama u ruskoj kuhinji. Boršč ima kiselkasto-slatkast ukus i obično se služi sa pavlakom.
 
 Može se pripremiti i vegetarijanska varijanta boršča.

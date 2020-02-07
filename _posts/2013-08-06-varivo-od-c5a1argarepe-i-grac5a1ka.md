@@ -40,5 +40,5 @@ U izdinstanu šargarepu dodati pirinač i grašak, promešati i dinastati još 5
 
 Varivo se može poslužiti samostalno ili kao prilog uz dinstano meso ili šnicle.
 
-### Napomena:
+**Napomena**: 
 > umesto da se obari, pirinač može da se dinsta sa šargarepom, uz dolivanje po malo tople vode ili supe od kocke, uz češće mešanje da ne zagori.

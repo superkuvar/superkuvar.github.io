@@ -35,7 +35,7 @@ Mikserom mutiti belanca, pa kada sneg bude srednje čvrst dodavati, kap po kap, 
 
 Pripremljenu masu za sladoled sipati u plastičnu posudu i staviti u zamrzivač. Promešati jednom ili dva puta. Gotov sladoled sipati u čaše i poslužiti.
 
-### Napomena:
+**Napomena**: 
 > sirup od šećera skuvati od 4 kašike šećera i 3 kašike vode, da bude srednje gustine.
 
 Po želji, masu za sladoled podeliti na dva dela, pa u polovinu dodati narendanu čokoladu. Može se napraviti i voćna varijanta, uz dodatak ispasiranog voća (jagode, maline ili neko drugo voće).

@@ -40,5 +40,5 @@ U podmazanu posudu poređati sloj tikvica, pa preko sipati polovinu pripremljeno
 
 Musaku staviti u pećnicu zagrejanu na 200 stepeni i peći dok gornji sloj tikvica ne porumeni.
 
-### Napomena:
+**Napomena**: 
 > musaka se može pripremiti i sa pohovanim tikvicama.

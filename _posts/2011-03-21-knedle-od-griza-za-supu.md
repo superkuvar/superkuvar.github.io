@@ -32,7 +32,7 @@ Kašičicu svaki put umakati u vrelu supu da bi se knedle lako odvajale od kaši
 
 Knedle kuvati dok ne narastu i isplivaju na površinu supe.
 
-### Napomena:
+**Napomena**: 
 > umesto margarina može se upotrebiti mast.
 
 Ove knedle se obično zakuvavaju u slabije bistre supe, koje se ne prave od masnog mesa.

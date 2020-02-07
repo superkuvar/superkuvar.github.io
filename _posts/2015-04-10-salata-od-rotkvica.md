@@ -30,7 +30,7 @@ tags:
 
 Salata se, po želji, može ukrasiti maslinama isečenim na kolutiće ili četvrtinama tvrdo kuvanih jaja.
 
-### Napomena:
+**Napomena**: 
 > rotkvice se mogu čuvati u frižideru, u plastičnoj kesi, najviše 5-6 dana. Prethodno rotkvicama odrezati lišće, jer ono prouzrokuje stvaranje vlage koja uništava hranljive sastojke.
 
 Rotkvice se koriste za pripremu različitih salata, ali se mogu i dinstati, a od lišća se mogu pripremati ukusne supe i prilozi.

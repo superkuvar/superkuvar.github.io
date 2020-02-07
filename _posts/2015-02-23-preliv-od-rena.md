@@ -27,7 +27,7 @@ tags:
 
 **Priprema**: ren oprati, oljuštiti i istrugati sitno na trenici. Dodati malo soli, šećer, sirće i malo ulja. Dobro izmešati. Ovako pripremljen ren servirati uz kuvano meso ili kuvanu ribu.
 
-### Napomena:
+**Napomena**: 
 > prilikom kupovine svežeg rena voditi računa da koren bude čvrst i da nema zelenkastu nijansu na sebi.
 
 Ren može da se dugo čuva u frižideru, a u zamrzivaču još duže.

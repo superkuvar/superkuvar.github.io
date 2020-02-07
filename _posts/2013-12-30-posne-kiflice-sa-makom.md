@@ -37,5 +37,5 @@ Kiflice peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni. Voditi računa
 
 Posne kiflice su ukusnije kada odstoje jedan dan.
 
-### Napomena:
+**Napomena**: 
 > umesto mlevenog maka može se upotrebiti mak u zrnu.

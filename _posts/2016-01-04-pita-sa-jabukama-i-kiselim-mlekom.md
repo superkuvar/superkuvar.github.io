@@ -38,5 +38,5 @@ Pitu staviti u pećnicu zagrejanu na 200 stepeni. Nakon petnaest minuta smanjiti
 
 Kada je pita pečena izvaditi je iz pećnice, prekriti platnenom salvetom, ostaviti da se ohladi, a zatim iseći na parčad i po želji posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > umesto jabuka za fil se mogu koristiti mleveni orasi, mak, džem, višnje.

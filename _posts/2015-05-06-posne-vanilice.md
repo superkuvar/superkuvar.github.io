@@ -35,7 +35,7 @@ Na radnoj površini posutoj brašnom rastanjiti testo oklagijom na debljinu od p
 
 Vanilice, kada se malo ohlade, premazati tanko džemom i spajati po dve. Svaku vanilicu uvaljati u šećer u prahu pomešan sa vanilin šećerom.
 
-### Napomena:
+**Napomena**: 
 > ukoliko nemate kalup za vanilice, možete koristiti čašicu za rakiju.
 
 Posne vanilice, pošto ne sadrže jaja, mogu se pripremati za dane posta.

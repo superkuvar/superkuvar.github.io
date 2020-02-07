@@ -32,7 +32,7 @@ U odgovarajuću posudu naliti 1 dl ulja, staviti povrće i dinstati oko 30 minut
 
 Na kraju začiniti začinima i dodati kajmak. Čorbu služiti vruću.
 
-### Napomena:
+**Napomena**: 
 > U čorbu se može dodati malo ruzmarina ili majčine dušice ako se želi umanjiti miris jagnjetine.
   
 

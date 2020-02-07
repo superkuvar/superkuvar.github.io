@@ -34,7 +34,7 @@ Oceđene tikvice preručiti u činiju, dodati iseckani beli luk, seckani peršun
 
 Ova salata može da se posluži i kao osvežavajući obrok u toplim letnjim danima.
 
-### Napomena:
+**Napomena**: 
 > umesto peršuna u salatu možete dodati seckanu mirođiju ili sitno iscepkane listiće svežeg bosiljka. Ukoliko volite pikantan ukus, možete dodati i nekoliko kolutića ljute papričice.
 
 Zbog odličnog ukusa, niske kaloričnosti i povoljnog uticaja na zdravlje, tikvice su postale omiljeno povrće u mnogim kuhinjama, a u mediteranskoj su skoro obavezan sastojak.

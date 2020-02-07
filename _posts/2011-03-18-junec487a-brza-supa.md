@@ -35,7 +35,7 @@ Proprženu zelen i luk dodati u supu, posoliti i kuvati još 10 minuta.
 
 Kada je supa gotova posuti je sitno seckanim peršunovim listom.
 
-### Napomena:
+**Napomena**: 
 > zelen se može isitniti i na kockice.
 
 U supu se mogu dodati rezanci ili 2 kašike pirinča.

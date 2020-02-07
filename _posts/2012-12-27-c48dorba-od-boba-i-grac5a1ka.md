@@ -45,7 +45,7 @@ U šoljici hladne vode razmutiti brašno, sipati u čorbu, promešati i kuvati d
 
 Čorba se može poslužiti sa kiselom pavlakom ili mileramom.
 
-### Napomena:
+**Napomena**: 
 > bob je zdravo i ukusno povrće, koje se kod nas manje koristi od ostalih mahunarki (pasulj, grašak, sočivo).
 
 Bob se može pripremati na razne načine: kao pasulj, u obliku variva, čorbi, salata.

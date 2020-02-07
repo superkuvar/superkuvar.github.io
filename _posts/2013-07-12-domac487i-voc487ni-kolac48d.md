@@ -47,5 +47,5 @@ Kada je testo napola pečeno, izvaditi ga iz pećnice i preliti pripremljenim fi
 
 Pečen kolač, kada se ohladi, iseći na kocke i posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > umesto jagoda u fil se mogu dodati višnje, breskve, kajsije, maline ili neko drugo voće.

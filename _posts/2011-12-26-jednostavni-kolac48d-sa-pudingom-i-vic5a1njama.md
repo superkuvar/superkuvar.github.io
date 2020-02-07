@@ -47,5 +47,5 @@ Vreli fil od pudinga i višanja preliti preko ispečenog patišpanja i ostaviti 
 
 Po želji, kolač se može ukrasiti šlagom.
 
-### Napomena:
+**Napomena**: 
 > da ispečeno testo kolača ne bi bilo suvo, ja ga poprskam  šerbetom skuvanim od pola čaše vode i 2 kašike šećera, pa zatim premažem filom.

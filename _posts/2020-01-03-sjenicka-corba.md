@@ -30,7 +30,7 @@ Meso kuvati oko 2 sata, da dobro omekša. Kuvano meso iseći na male kocke i sa 
 
 Napraviti zapršku i naliti u čorbu. Posoliti i začiniti po ukusu.
 
-### Napomena:
+**Napomena**: 
 > Može se dodati koja kocka sjeničkog starog sira i to najviše 200 g.
 
   

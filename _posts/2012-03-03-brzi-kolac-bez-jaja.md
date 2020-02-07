@@ -35,5 +35,5 @@ Pleh sa testom staviti u pećnicu zagrejanu na 200 stepeni. Kolač peći oko 30 
 
 Gotov kolač, kada se ohladi, iseći na kocke.
 
-### Napomena:
+**Napomena**: 
 > ovo je posna varijanta kolača. Ko želi, u testo može da doda jedno jaje, a vodu da zemeni mlekom. U kolač se može staviti džem po izboru.

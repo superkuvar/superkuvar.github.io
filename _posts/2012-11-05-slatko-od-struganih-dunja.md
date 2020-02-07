@@ -34,5 +34,5 @@ U međuvremenu, od šećera i dve čaše vode skuvati sirup, malo ređi nego za 
 
 Kada je slatko kuvano skloniti ga sa štednjaka i šerpu pokriti vlažnom krpom. Ohlađeno slatko sipati u čiste i suve tegle. Tegle povezati celofanom.
 
-### Napomena:
+**Napomena**: 
 > pred kraj kuvanja, u slatko se mogu dodati seckani orasi.

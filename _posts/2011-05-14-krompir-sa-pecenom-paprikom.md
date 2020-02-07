@@ -33,5 +33,5 @@ Krompir oprati, oljuštiti, iseći na kriške i takođe ispržiti, na tihoj vatr
 
 Pred kraj prženja u krompir dodati paprike i sve zajedno još malo propržiti. Služiti toplo uz dinstano meso ili šnicle.
 
-### Napomena:
+**Napomena**: 
 > ovo jelo se može pripremati i u toku zime, kada nije sezona paprika. Tada se mogu koristiti pečene paprike iz zamrzivača.

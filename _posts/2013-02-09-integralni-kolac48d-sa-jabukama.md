@@ -53,7 +53,7 @@ Sjediniti mokre i suve sastojke, a zatim dodati suvo grožđe i narendane jabuke
 
 Pečen kolač ostaviti nekoliko minuta u kalupu, a zatim izvaditi iz kalupa i ostaviti da se ohladi. Kolač iseći na šnite i po želji posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > da suvo grožđe ne bi palo na dno kalupa ili pleha, prethodno ga uvaljati u brašno pa onda dodati u testo.
 
 Suvo grožđe može da se zameni seckanim orasima.

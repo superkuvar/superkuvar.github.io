@@ -37,5 +37,5 @@ U gotovu čorbu dodati paradajz pire i seckani peršunov ili celerov list.
 
 Čorba se može poslužiti sa kockicama preprženog hleba.
 
-### Napomena:
+**Napomena**: 
 > muskatna bundeva ima nešto svetliju žućkastu boju, a meso je tamno narandžasto. Najčešće se koristi za pripremu čorbi, krem supa i kolača.

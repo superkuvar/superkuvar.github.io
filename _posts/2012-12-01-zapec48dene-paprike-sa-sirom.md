@@ -45,5 +45,5 @@ Preostala dva jajeta umutiti viljuškom, dodati kašičicu suvog biljnog začina
 
 Zapečene paprike se mogu poslužiti kao predjelo, ali i kao jelo, sa pireom od krompira ili barenim pirinčem.
 
-### Napomena:
+**Napomena**: 
 > sir se može zameniti kačkavaljem, isečenim na uzdužne komade.

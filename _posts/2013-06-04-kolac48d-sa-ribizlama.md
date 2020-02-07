@@ -43,7 +43,7 @@ U podmazan i brašnom posut pleh sipati polovinu količine testa, preko njega po
 
 Ohlađen kolač iseći na kocke i posuti šećerom u prahu.
 
-### Napomena:
+**Napomena**: 
 > čaša za merenje sastojaka je zapremine 2 dl.
 
 Ribizla je bobičato voće, crvene, crne ili bele boje, zavisno od vrste. Ima sočne sitne bobice, prijatnog kiselkasto slatkog ukusa.

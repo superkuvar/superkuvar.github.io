@@ -42,5 +42,5 @@ U međuvremenu, umutiti belanca sa 3 kašike šećera i vanilin šećerom. Izvad
 
 Kolač pre služenja držati sat-dva u frižideru, a zatim iseći na kocke i služiti.
 
-### Napomena:
+**Napomena**: 
 > umesto sa breskvama, kolač se može pripremiti sa kajsijama.

@@ -34,7 +34,7 @@ Isitnjene šljive sipati u širi emajlirani sud i kuvati na srednjoj vatri, uz m
 
 Ukuvan pekmez sipati u čiste tople tegle, staviti ih u toplu rernu da se uhvati korica, koja je dobar izolator od vazduha. Kada se ohlade povezati ih celofanom ili hermetički zatvoriti.
 
-### Napomena:
+**Napomena**: 
 > u pekmez se može dodati i čokolada za jelo i kuvanje (3 štangle čokolade od 200 grama).
 
 Kada se pekmezu dodaje šećer, onda to treba učiniti pri kraju kuvanja.

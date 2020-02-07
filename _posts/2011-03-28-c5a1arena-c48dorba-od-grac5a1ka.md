@@ -35,7 +35,7 @@ tags:
   * 1 jaje
   * čaša kisele pavlake
 
-<img class="alignnone size-medium wp-image-5613" src="/wp-content/uploads/2011/03/Sarena-corba-od-graska-300x225.jpg" alt="Sarena corba od graska" width="300" height="225" /> 
+![šarena čorba od graška](/wp-content/uploads/2011/03/Sarena-corba-od-graska-1024x768.jpg)
 
 **Priprema**: zelen za supu oprati, očistiti i isitniti. Crni luk takođe očistiti i sitno iseckati. U lonac sa zagrejanim uljem spustiti luk i zelen i dinstati poklopljeno na tihoj vatri, uz povremeno dolivanje po malo tople vode.
 

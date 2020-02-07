@@ -28,7 +28,7 @@ Raskuvan i mekan šipak prohladiti i ispasirati. Ispasiranu masu vratiti u čist
 
 Vruć pekmez sipati u sterilisane zagrejane tegle i staviti u mlaku pećnicu da se uhvati korica. Sutradan tegle povezati celofanom ili zatvoriti poklopcem.
 
-### Napomena:
+**Napomena**: 
 > postoji i lakši način pripreme ovog pekmeza &#8211; šipak očišćen od drščica oprati, staviti u šerpu, naliti vodom i kuvati dok ne omekša. Kad se prohladi ispasirati ga i u dobijenu masu staviti šećer, pa kuvati dok se ne zgusne. Na kilogram dobijene mase ide kilogram šećera.
 
 Prethodni način je zahtevniji i oduzima više vremena, ali je pekmez čistiji i bez dlačica.

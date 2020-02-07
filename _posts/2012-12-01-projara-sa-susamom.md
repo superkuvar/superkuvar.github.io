@@ -43,5 +43,5 @@ Projaru peći oko 40 minuta u pećnici zagrejanoj na 220 stepeni, da dobije zlat
 
 Pečenu projaru izvaditi iz pećnice i pokriti platnenom salvetom. Kada se projara malo prohladi, iseći je na kocke. Poslužiti, dok je još topla, uz jogurt, kiselo mleko ili sir.
 
-### Napomena:
+**Napomena**: 
 > ukoliko nemate domaće kukuruzno brašno, projara se može pripremiti i od industrijskog.

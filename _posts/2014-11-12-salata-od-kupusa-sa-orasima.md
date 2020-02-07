@@ -34,5 +34,5 @@ tags:
 
 Oceđen kupus staviti u činiju, dodati malo bibera, sirće u kom je rastvoren šećer i preliti uljem. Izmešati, a zatim dodati seckane orahe i mileram i još jednom dobro izmešati. Pripremljenu salatu staviti u frižider da se ohladi, a zatim služiti.
 
-### Napomena:
+**Napomena**: 
 > u salatu se, osim seckanih oraha, mogu dodati i mleveni orasi (tri-četiri kašike).

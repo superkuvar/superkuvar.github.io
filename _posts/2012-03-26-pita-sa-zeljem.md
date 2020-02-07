@@ -36,7 +36,7 @@ U podmazanu tepsiju ili pleh staviti dve-tri kore, poprskati ih mešavinom ulja 
 
 Pečenu pitu poprskati vodom, prekriti platnenom salvetom i ostaviti da se malo ohladi. Poslužiti za doručak ili večeru uz jogurt ili kiselo mleko, a može se poslužiti i kao predjelo.
 
-### Napomena:
+**Napomena**: 
 > kore se mogu ređati po četiri, jedna na drugu, premazati nadevom i uvijati kao štrudla.
 
 Ukoliko želite da pita ima hrskavu koricu, ne treba je nakon pečenja prskati vodom.

@@ -34,7 +34,7 @@ tags:
   * čaša kisele pavlake
   * malo seckane mirođije
 
-<img class="alignnone size-medium wp-image-4580" title="Brza corba od tikvica" src="/wp-content/uploads/2011/03/Brza-corba-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
+![brza čorba od tikvica](/wp-content/uploads/2011/03/Brza-corba-od-tikvica-300x225.jpg)
 
 **Priprema**: na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po vode.
 
@@ -42,5 +42,4 @@ U vodu dodati tikvice isečene na kockice i iseckan beli luk, dodati suvi biljni
 
 Kada je čorba gotova, posuti je seckanom mirođijom i začiniti kiselom pavlakom u kojoj je razmućeno jaje.
 
-### Napomena:
-> brza čorba od tikvica lako se i jednostavno sprema i naročito je pogodna za pripremu u letnjim mesecima.
+**Napomena**: Brza čorba od tikvica lako se i jednostavno sprema i naročito je pogodna za pripremu u letnjim mesecima.

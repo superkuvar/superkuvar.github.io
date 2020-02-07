@@ -32,7 +32,7 @@ tags:
 
 Kada je povrće gotovo preručiti ga u vatrostalnu posudu, odozgo razbiti jaja i staviti u pećnicu da se jelo zapeče.
 
-### Napomena:
+**Napomena**: 
 > ovo jednostavno jelo može se pripremiti svaki naredni put na drugačiji način, pošto daje mogućnost za kombinovanje raznih vrsta povrća. Naročito je pogodno za letnji i jesenji period kada pijačne tezge pružaju bogat izbor povrća.
 
 &nbsp;

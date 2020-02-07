@@ -51,5 +51,5 @@ Na vlažni list oblande, uz ivicu (oko jedna trećina širine oblande) premazati
 
 Gotove rolate staviti u frižider da se stegnu, a zatim seći.
 
-### Napomena:
+**Napomena**: 
 > ovaj rolat može se praviti i u posnoj varijanti, umesto mleka koristiti vodu, a umesto pti ber keksa posni keks.

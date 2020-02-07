@@ -37,5 +37,5 @@ Kada povrće omekša, usitniti ga blenderom. Ukoliko nemate blender, povrće izv
 
 Od malo ulja i brašna napraviti svetlu zapršku, sipati je u čorbu, dodati origano i kuvati još nekoliko minuta. Čorbu skloniti sa štednjaka i začiniti jajetom umućenim sa mlekom.
 
-### Napomena:
+**Napomena**: 
 > ukoliko su tikvice starije, ukloniti sredinu sa semenkama.

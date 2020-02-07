@@ -35,5 +35,5 @@ Na mlakoj ringli rastopiti čokoladu sa prah šećerom, uljem i mlekom. Svaku na
 
 Napunjene urme staviti u frižider da se ohlade i da se glazura stegne. Pred služenje urme staviti u korpice od papira.
 
-### Napomena:
+**Napomena**: 
 > umesto meda u orahe i keks može se staviti malo džema od šipuraka i rum.

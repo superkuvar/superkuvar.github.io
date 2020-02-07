@@ -53,5 +53,5 @@ Pečenu štrudlu, kada se ohladi, preliti vrelim sirupom. Ostaviti je da upije s
 
 Sirup pripremiti na sledeći način: šećer preliti vodom i staviti na štednjak da se kuva na umerenoj temperaturi. Kada sirup provri, dodati vanilin šećer i kuvati desetak minuta.
 
-### Napomena:
+**Napomena**: 
 > prilikom sipanja sirupa preko štrudle, truditi se da štrudla bude ravnomerno prelivena.

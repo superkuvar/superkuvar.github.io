@@ -31,7 +31,7 @@ Brašno prosejati u posudu za mešenje, dodati kvasac rastopljen u mlakoj vodi, 
 
 Testo uzimati kašikom, razvlačiti rukom što duže i pržiti na vrelom ulju u dubljoj posudi.
 
-### Napomena:
+**Napomena**: 
 > Uštipci su kao mekike, a u stara vremena spremali su se za Pavlovdan i prodavali po vašarima.
 
   

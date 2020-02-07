@@ -45,5 +45,5 @@ U podmazanu posudu za pečenje sipati pripremljenu boraniju. Peći oko 30 minuta
 
 Zapečena boranija može se servirati uz sezonsku salatu.
 
-### Napomena:
+**Napomena**: 
 > za pripremu ovog jela može se upotrebiti zamrznuta boranija.

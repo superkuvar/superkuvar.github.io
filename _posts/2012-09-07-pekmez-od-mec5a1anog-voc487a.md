@@ -32,7 +32,7 @@ Isitnjeno voće staviti u odgovarajuću emajliranu šerpu, dodati šećer i uz n
 
 Pekmez, dok je još vruć sipati u čiste zagrejane tegle koje treba staviti u malo zarejanu pećnicu, da bi se na površini uhvatila korica. Ohlađene tegle zatvoriti poklopcima ili povezati celofanom.
 
-### Napomena:
+**Napomena**: 
 > odabrati kruške i breskve koje nisu &#8221;vodene&#8221;.
 
 Savet: načeta tegla pekmeza, marmelade i slatka i kad je dobro zatvorena ne može da stoji dugo. Zato sadržaj treba potrošiti u roku od dve nedelje.

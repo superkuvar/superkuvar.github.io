@@ -32,7 +32,7 @@ Razvijeno testo iseći na trake ili urolati kao za rolat i seći oštrim nožem 
 
 Isečene rezance staviti na platnenu salvetu da se malo prosuše, a zatim ih zakuvati u supu.
 
-### Napomena:
+**Napomena**: 
 > domaći rezanci za supu su mnogo ukusniji od kupljenih, a i lako se prave. Ovakav način pripreme rezanaca datira od davnina. Do danas suština njihovih sastojaka ostala je ista (brašno, jaja, so).
 
 Ukoliko se pravi veća količina rezanaca, isečeni rezanci treba da se dobro prosuše (oko dva dana) a zatim da se spakuju u papirnu kesu i čuvaju na sobnoj temperaturi.

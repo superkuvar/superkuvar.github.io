@@ -47,5 +47,5 @@ Pečenu pitu izvaditi iz pećnice, pokriti platnenom salvetom i ostaviti da se m
 
 Savijača sa blitvom može se poslužiti i kao predjelo.
 
-### Napomena:
+**Napomena**: 
 > ova pita savijača može se pripremiti i sa spanaćem.

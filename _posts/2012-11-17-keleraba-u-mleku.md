@@ -37,7 +37,7 @@ Kada keleraba omekša, posoliti je, pobiberiti, dodati brašno razmućeno u malo
 
 Gotovo jelo posuti seckanim peršunovim listom i poslužiti uz pečeno-dinstano meso ili ribu.
 
-### Napomena:
+**Napomena**: 
 > keleraba je ukusno i korisno povrće, bledozelene ili ljubičaste boje.
 
 Mlada keleraba je sočna, mekana i ukusna, pa se može koristiti sirova za pripremu salata, bilo kao samostalna ili pomešana sa drugim povrćem.

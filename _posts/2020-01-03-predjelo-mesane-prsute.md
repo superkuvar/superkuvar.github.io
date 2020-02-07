@@ -21,7 +21,7 @@ Svako ko je makar samo jednom bio za trpezom nekog uglednijeg seoskog domaćina 
 
 Predjela su deo skoro svakog obeda. Služe se i u obične dane i za vreme praznika. Zato što otvaraju apetit zovu se još apetajzeri (en. appetizer).
 
-### Napomena:
+**Napomena**: 
 > Predjela se zovu još i meze (it. mezze) ili antipaste (it. antipasto).
 
 U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, maslo, kajmak, ajvar, aspik, zatim razne kobasičarske proizvode kao što su šunka, parizer,kolenice i pršuta, pihtije, sva predjela sa hladnim majonezom, kao i jaja u svim oblicima.

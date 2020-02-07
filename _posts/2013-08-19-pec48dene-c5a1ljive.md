@@ -32,7 +32,7 @@ Pečene šljive, kada se ohlade, sipati u činijice i posuti mlevenim orasima.
 
 Pre služenja pečene šljive se mogu ohladiti u frižideru.
 
-### Napomena:
+**Napomena**: 
 > iako se njihova sezona proteže od maja do oktobra, šljive su najprisutnije u ranu jesen, kada ih jedemo sveže ili ih prerađujemo u pekmez i džem.
 
  ljive su bogate fenolom koji povoljno utiče na neutralizaciju slobodnih radikala, kao i na očuvanje dobrog holesterola u organizmu.

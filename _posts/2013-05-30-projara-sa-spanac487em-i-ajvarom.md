@@ -43,7 +43,7 @@ Testo dobro izmešati varjačom, a zatim sipati u pleh podmazan uljem i posut br
 
 Kada je projara pečena, izvaditi je iz pećnice, prekriti platnenom salvetom i ostavti da kratko odstoji. Zatim je iseći na parčiće i poslužiti uz kiselo mleko ili jogurt.
 
-### Napomena:
+**Napomena**: 
 > projara je ukusnija ako se testo sipa u veći pleh, da bude tanja.
 
 &nbsp;

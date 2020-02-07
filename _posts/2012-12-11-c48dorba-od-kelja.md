@@ -41,7 +41,7 @@ U dubljoj posudi, na malo ulja kratko propržiti šargarepu, dodati kelj i nalit
 
 Pri kraju kuvanja čorbu posoliti i dodati suvi biljni začin. Gotovu čorbu skloniti sa vatre i poslužiti sa pavlakom.
 
-### Napomena:
+**Napomena**: 
 > umesto vodom, kelj se može naliti supom od povrća (kocka).
 
 Savet: kada kupujemo kelj treba birati teže glavice, sa svežim listovima, bez rupica i mrlja.

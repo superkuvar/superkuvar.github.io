@@ -31,7 +31,7 @@ Iseckan kupus posoliti, izmešati pa dodati sirće, ulje i biber, ponovo izmeša
 
 Salata od svežeg kupusa ukusnija je ako je malo rashlađena.
 
-### Napomena:
+**Napomena**: 
 > kupus, jeftino povrće, koristi se na više načina &#8211; svež kao salata, kuvan, dinstan, zapečen, ukiseljen. Mnogi specijaliteti i ukusna jela pripremaju se od kupusa tokom čitave godine.
 
 Kupus je niskokalorično povrće, pa se koristi u redukcionim dijetama. Sadrži znatnu količinu vitamina C, minerale (kalcijum, kalijum, gvožđe, sumpor, magnezijum), dijetna vlakna.
