@@ -32,7 +32,7 @@ fil
   * 150 g šećera u prahu
   * ribizle (1/2 kg)
 
-[<img class="alignnone size-medium wp-image-9282" src="/wp-content/uploads/2011/02/Ribizlezakolac-300x225.jpg" alt="Ribizlezakolac" width="300" height="225" />](/wp-content/uploads/2011/02/Ribizlezakolac.jpg)
+![Kolac od ribizle](/wp-content/uploads/2011/02/Ribizlezakolac-1024x768.jpg)
 
 **Priprema**: umutiti žumanca sa šećerom, dodati brašno i čvrst sneg od belanaca. Rastopiti maslac ili margarin, pa dodati u umućeno testo i izmešati. Pleh dobro podmazati maslacem i posuti brašnom i izručiti pripremljeno testo. Peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 

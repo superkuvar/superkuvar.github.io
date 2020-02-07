@@ -25,7 +25,7 @@ tags:
   * suvi začin od povrća
   * kim
 
-<img class="alignnone size-medium wp-image-3722" title="Ajnpren supa" src="/wp-content/uploads/2011/03/Ajnpren-supa-e1342433699327-300x227.jpg" alt="" width="300" height="227" /> 
+![ajnpren supa](/wp-content/uploads/2011/03/Ajnpren-supa-e1342433699327-1024x777.jpg)
 
 **Priprema**: u lonac sipati malo ulja, zagrejati ga, dodati brašno i propržiti kao za zapršku. Kada brašno porumeni, naliti ga litrom vode i dobro izmešati da se ne bi stvorile grudvice. Posoliti i dodati suvi začin od povrća. Supu kuvati na laganoj vatri 15 minuta.
 

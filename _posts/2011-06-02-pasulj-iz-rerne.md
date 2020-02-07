@@ -6,8 +6,8 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=860
 permalink: /pasulj-iz-rerne/
-description: Recept za zapečen, dobro začinjen pasulj koji se sprema u vatrostalnim ili zemljanim sudovima. Koristi belim luk, i mileram. Pasulj na tafče.
-keywords: pasulj, rerna, pasulj iz rerne, peršun, pasuljčina, zapečen pasulj, zapečen pasulj iz rerne, starinski pasulj, seljački pasulj, pasulj tafče, najbolji pasulj, stari pasulj recept
+description: Recept za zapečen, dobro začinjen pasulj koji se sprema u vatrostalnim ili zemljanim sudovima. Koristi belim luk, i mileram. Slično ko pasulj na tavče.
+keywords: pasulj, rerna, pasulj iz rerne, peršun, pasuljčina, zapečen pasulj, zapečen pasulj iz rerne, starinski pasulj, seljački pasulj, pasulj tavče, najbolji pasulj, stari pasulj recept
 image: /wp-content/uploads/2011/06/Pasulj-iz-rerne-940x198.jpg
 categories:
   - jela bez mesa

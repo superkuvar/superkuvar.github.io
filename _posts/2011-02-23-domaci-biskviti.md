@@ -30,7 +30,8 @@ tags:
 * malo sode bikarbone  
 * 1 kašika mleka
 
-<img class="alignnone size-medium wp-image-5699" src="/wp-content/uploads/2011/02/Kolacici-300x225.jpg" alt="Kolacici" width="300" height="225" /> 
+![domaci kolaci](/wp-content/uploads/2011/02/Kolacici-1024x768.jpg)
+
 
 **Priprema**: prosejati na radnoj površini brašno, dodati jaja, šećer u prahu, maslac, malo strugane limunove kore, malo sode bikarbone i kašiku mleka.
 
