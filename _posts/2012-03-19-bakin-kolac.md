@@ -28,7 +28,7 @@ tags:
   * 2 kesice vanilin šećera
   * 600 grama mekog brašna
 
-<img class="alignnone size-medium wp-image-2750" title="Bakin kolač" src="/wp-content/uploads/2012/03/Bakin-kolač-1024x768.jpg" alt="" width="300" height="225" /> 
+![Bakin kolač](/wp-content/uploads/2012/03/Bakin-kolač-1024x768.jpg)
 
 **Priprema**: u sudu za mešenje umutiti jaja sa šećerom, pa dodati ulje, mleko, prašak za pecivo, vanilin šećer i brašno. Dobro izmešati da se dobije glatka masa. Treba se držati navedenih količina sastojaka. Testo treba da bude ređe.
 
