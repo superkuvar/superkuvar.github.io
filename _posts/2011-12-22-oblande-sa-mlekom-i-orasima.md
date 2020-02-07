@@ -32,24 +32,28 @@ Uz [bakin kolač](/bakin-kolac), oblanda je jedno od omiljenih sltkiša koje je 
 
 ![oblande](/wp-content/uploads/2011/12/mamina-oblanda-e1324559971864.jpg) 
 
-**Priprema fila oblande**: 
-Sipati mleko u šerpu, dodati šećer i kuvati na tihoj vatri, uz mešanje varijačom, najmanje sat vremena, dok se ne zgusne i dobije zlatastu boju. Zlatasta ili zlano smeđa boje potiče od **karamelizacije šećera**. Ništa novo složićete se.
+**Priprema fila**: 
 
-Porces karamelizacije možete ubrzati ukoliko pojačate vatru na štednjaku, ali pritom morate mešati intenzivnije da fil ne zagori. Sa mešanjem prestati kada varijača ostavlja jasni trag nakon provlačenja.
+Sipati mleko u šerpu da **provri**. Bolje je da koristite **široku šerpu**, kako bi mleko bolje isparavalo. Kad mleko provri, dodati šećer i mešati varijačom, dok se fil ne zgusne i dobije zlatastu boju. 
 
-Skloniti fil sa vatre, dodati margarin, vanilin šećer i mlevene orahe pa lagano izmešati. 
+Zlatasta ili zlano smeđa boje potiče od **karamelizacije šećera**. Ništa novo složićete se.
 
-> Iako originalni recept zahteva margarin, ako ga nemate pri ruci, moguće ga je potpuno izostaviti. 
+Porces karamelizacije možete ubrzati ukoliko pojačate vatru na štednjaku, ali pritom morate mešati još intenzivnije kako fil ne bi zagoreo. Sa mešanjem prestati kada varijača ostavlja jasni trag nakon provlačenja kroz fil.
 
-> Neko mesto mlevenih oraha dodaje sitno seckane orahe. Meni je uvek **lakše i praktičnije** da brzo sameljem orahe pomoću mlinčeta nego da iz sitno seckam.
+Skloniti fil sa vatre, dodati margarin, vanilin šećer i mlevene orahe pa lagano izmešati.
+
+**Napomena**: Iako originalni recept zahteva margarin, ako ga nemate pri ruci, moguće ga je potpuno izostaviti. 
+
+Umesto mlevenih oraha možete koristiti sitno seckane orahe. Meni je uvek **lakše i praktičnije** da brzo sameljem orahe mlinom za orahe nego da iz sitno seckam.
 
 **Mazanje filom**:
 
-Vrelim filom premazivati listove oblande. Prilikom stavljanja sledećeg lista pritisnuti dlanovima po celoj površini oblande, da se spoje fil i oblanda, pa zatim nastaviti sa filovanjem. Gornji list oblande ne mazati filom.
+**Vrelim filom** premazivati listove oblande. Prilikom stavljanja sledećeg lista pritisnuti dlanovima po celoj površini oblande, da se spoje fil i oblanda, pa zatim nastaviti sa filovanjem. Gornji list oblande ne mazati filom.
 
-Gotovu oblandu prekriti folijom ili čistom platnenom salvetom, pritisnuti nekim težim predmetom i ostaviti neko vreme (5-6 sati) da odstoji, kako bi se fil dobro sjedinio sa listovima oblande.
+Gotovu oblandu prekriti folijom ili čistom platnenom salvetom, pritisnuti nekim težim predmetom i ostaviti neko vreme da odstoji, kako bi se fil dobro sjedinio sa listovima oblande.
 
 **Sečenje oblande**:
+
 Oblande seći oštrim nožem, po želji, na štanglice, kvadrate, romboide.
 
 Sledeći video prilično dobro objašnjava proces:
