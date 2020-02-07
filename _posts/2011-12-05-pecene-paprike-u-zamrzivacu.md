@@ -18,7 +18,7 @@ tags:
 
 crvene paprike
 
-<img class="alignnone size-medium wp-image-4156" title="Pecenepaprikeuzamrzivacu" src="/wp-content/uploads/2011/12/Pecenepaprikeuzamrzivacu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4156" title="Pecenepaprikeuzamrzivacu" src="/wp-content/uploads/2011/12/Pecenepaprikeuzamrzivacu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 Mesnate crvene paprike (koje se koriste za pripremu ajvara) oprati i ispeći na plotni štednjaka ili u pećnici (zagrejanoj na 270 stepeni C).
 

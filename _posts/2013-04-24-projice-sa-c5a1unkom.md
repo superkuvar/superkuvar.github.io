@@ -35,7 +35,7 @@ tags:
   * biber
   * susam
 
-<img class="alignnone size-medium wp-image-5630" src="/wp-content/uploads/2013/04/Projice-sa-sunkom-300x225.jpg" alt="Projice sa sunkom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5630" src="/wp-content/uploads/2013/04/Projice-sa-sunkom-1024x768.jpg" alt="Projice sa sunkom" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti jaja, dodati mleko, ulje, so, biber i brašno pomešano sa praškom za pecivo. Testo izmešati varjačom i dodati iseckanu šunku.
 

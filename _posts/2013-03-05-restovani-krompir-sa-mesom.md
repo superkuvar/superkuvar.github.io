@@ -33,7 +33,7 @@ tags:
   * peršunov list
   * ulje ili mast
 
-<img class="alignnone size-medium wp-image-5376" src="/wp-content/uploads/2013/03/Restovani-krompir-sa-mesom-300x225.jpg" alt="Restovani krompir sa mesom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5376" src="/wp-content/uploads/2013/03/Restovani-krompir-sa-mesom-1024x768.jpg" alt="Restovani krompir sa mesom" width="300" height="225" /> 
 
 **Priprema**: oprati krompir i neoljušten skuvati u malo posoljenoj vodi. Ocediti ga i dok je još vruć oljuštiti. Krompir zatim iseći na kockice ili grubo izdrobiti viljuškom.
 

@@ -37,7 +37,7 @@ tags:
   * biber
   * origano
 
-<img class="alignnone size-medium wp-image-4448" title="Zapecene tikvice sa graskom" src="/wp-content/uploads/2012/10/Zapecene-tikvice-sa-graskom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4448" title="Zapecene tikvice sa graskom" src="/wp-content/uploads/2012/10/Zapecene-tikvice-sa-graskom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, iseći na kockice i staviti u slanu ključalu vodu da se bare. Nakon pet minuta tikvice izaditi iz vode rešetkastom kašikom. U istoj vodi obariti grašak i šargarepu isečenu na kockice.
 

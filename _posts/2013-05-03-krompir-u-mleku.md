@@ -32,7 +32,7 @@ tags:
   * peršunov list
   * 4 kašike ulja
 
-<img class="alignnone size-medium wp-image-5649" src="/wp-content/uploads/2013/05/Krompirumleku-300x225.jpg" alt="Krompirumleku" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5649" src="/wp-content/uploads/2013/05/Krompirumleku-1024x768.jpg" alt="Krompirumleku" width="300" height="225" /> 
 
 **Priprema**: krompir oprati, oljuštiti i iseći na krupnije kocke.
 

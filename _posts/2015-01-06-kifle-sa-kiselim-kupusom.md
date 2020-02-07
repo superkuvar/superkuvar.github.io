@@ -33,7 +33,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-9346" src="/wp-content/uploads/2015/01/kiflesakiselimkupusom-300x225.jpg" alt="kiflesakiselimkupusom" width="300" height="225" />](/wp-content/uploads/2015/01/kiflesakiselimkupusom.jpg)
+[<img class="alignnone size-medium wp-image-9346" src="/wp-content/uploads/2015/01/kiflesakiselimkupusom-1024x768.jpg" alt="kiflesakiselimkupusom" width="300" height="225" />](/wp-content/uploads/2015/01/kiflesakiselimkupusom.jpg)
 
 **Priprema**: u 2 decilitra mlakog mleka dodati kašičicu šećera i izmrvljen kvasac i ostaviti na toplom mestu da kvasac nadođe. U posudu za mešenje sipati polovinu brašna, dodati so po ukusu, ulje, dva jajeta, nadošli kvasac i preostalo mleko, pa varjačom dobro izmešati. Zatim postepeno dodavati brašno i mesiti da se dobije glatko testo, ne previše tvrdo.
 

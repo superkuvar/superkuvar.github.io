@@ -41,7 +41,7 @@ Bešamel sos
   * biber
   * narendani kačkavalj (nije neophodno)
 
-<img class="alignnone size-medium wp-image-5359" src="/wp-content/uploads/2013/02/Zapecenemakaronesapecurkama-300x225.jpg" alt="Zapecenemakaronesapecurkama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5359" src="/wp-content/uploads/2013/02/Zapecenemakaronesapecurkama-1024x768.jpg" alt="Zapecenemakaronesapecurkama" width="300" height="225" /> 
 
 **Priprema**: skuvati makarone prema uputstvu na ambalaži, a zatim ih ocediti.
 

@@ -34,7 +34,7 @@ tags:
   * 1 jaje
   * ulje
 
-<img class="alignnone size-medium wp-image-5708" src="/wp-content/uploads/2013/05/Corbaodkrompirasakurkumom-300x225.jpg" alt="Corbaodkrompirasakurkumom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5708" src="/wp-content/uploads/2013/05/Corbaodkrompirasakurkumom-1024x768.jpg" alt="Corbaodkrompirasakurkumom" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. Opran i oljušten krompir iseći na kockice.
 

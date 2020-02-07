@@ -31,7 +31,7 @@ tags:
   * malo prezli
   * strugani morski oraščić
 
-<img class="alignnone size-medium wp-image-3500" title="Zapečenašargarepasamlekom" src="/wp-content/uploads/2012/06/Zapečenašargarepasamlekom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3500" title="Zapečenašargarepasamlekom" src="/wp-content/uploads/2012/06/Zapečenašargarepasamlekom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: šargarepu oprati, očistiti, iseći na štapiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Pirinač oprati i skuvati u posoljenoj vodi. Kada omekša, ocediti ga.
 

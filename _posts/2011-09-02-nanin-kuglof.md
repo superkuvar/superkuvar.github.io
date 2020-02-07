@@ -39,7 +39,7 @@ tags:
   * 50 g seckanih oraha
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5432" src="/wp-content/uploads/2011/09/Nanin-kuglof-300x225.jpg" alt="Nanin kuglof" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5432" src="/wp-content/uploads/2011/09/Nanin-kuglof-1024x768.jpg" alt="Nanin kuglof" width="300" height="225" /> 
 
 **Priprema**: umutiti penasto margarin sa šećerom i žumanacima. U umućenu masu dodati mleko, kesicu vanilin šećera, rum, malo strugane kore od limuna, polovinu količine brašna i prašak za pecivo. Sve umutiti varjačom, pa potom umešati ostatak brašna, čvrsto ulupan sneg od belanaca, suvo grožđe i seckane orahe.
 

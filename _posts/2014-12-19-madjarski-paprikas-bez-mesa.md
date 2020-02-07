@@ -29,7 +29,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-9333" src="/wp-content/uploads/2014/12/madjarskipaprikas-300x225.jpg" alt="madjarskipaprikas" width="300" height="225" />](/wp-content/uploads/2014/12/madjarskipaprikas.jpg)
+[<img class="alignnone size-medium wp-image-9333" src="/wp-content/uploads/2014/12/madjarskipaprikas-1024x768.jpg" alt="madjarskipaprikas" width="300" height="225" />](/wp-content/uploads/2014/12/madjarskipaprikas.jpg)
 
 **Priprema**: očišćen luk sitno iseckati i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kriške.
 

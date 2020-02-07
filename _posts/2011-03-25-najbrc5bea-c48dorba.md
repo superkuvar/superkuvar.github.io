@@ -30,7 +30,7 @@ tags:
   * 1,5 litar vode
   * 1 limun
 
-![Najbrza corba](/wp-content/uploads/2011/03/Najbrzacorba-300x225.jpg)
+![Najbrza corba](/wp-content/uploads/2011/03/Najbrzacorba-1024x768.jpg)
 
 **Priprema**: u loncu zagrejati ulje i dodati kašiku brašna. Propržiti da se dobije bleda zaprška, pa naliti litrom i po vode. Promešati i ostaviti da voda provri. Čorbu posoliti, dodati suvi biljni začin i dronjke od testa.
 

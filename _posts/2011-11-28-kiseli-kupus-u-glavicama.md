@@ -24,7 +24,7 @@ tags:
   * oko 1,5 kg soli
   * voda
 
-<img class="alignnone size-medium wp-image-4588" title="Kupus (1)" src="/wp-content/uploads/2011/11/Kupus-1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4588" title="Kupus (1)" src="/wp-content/uploads/2011/11/Kupus-1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kupus se kiseli krajem novembra ili početkom decembra. Za kiseljenje treba odabrati čvrste glavice srednje veličine.
 

@@ -34,7 +34,7 @@ tags:
   * 3 kašike džema od kajsija ili šipka
   * 100 g seckanih oraha
 
-<img class="alignnone size-medium wp-image-5470" src="/wp-content/uploads/2011/12/Kolacsadzemomiorasima-300x225.jpg" alt="Kolacsadzemomiorasima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5470" src="/wp-content/uploads/2011/12/Kolacsadzemomiorasima-1024x768.jpg" alt="Kolacsadzemomiorasima" width="300" height="225" /> 
 
 **Priprema**: penasto umutiti margarin sa 100 grama šećera, pa dodati žumanca, mleko ili jogurt, brašno, prašak za pecivo i malo narendane kore od limuna (prethodno dobro opranog). Zamesiti testo i podeliti ga na dva dela.
 

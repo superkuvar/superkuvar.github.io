@@ -30,7 +30,7 @@ tags:
   * šećer u prahu
   * šećer za šerbet
 
-<img class="alignnone size-medium wp-image-3064" title="Breskvice" src="/wp-content/uploads/2012/04/Breskvice-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3064" title="Breskvice" src="/wp-content/uploads/2012/04/Breskvice-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti jaja sa šećerom, a zatim dodati ulje, mleko, prašak za pecivo i brašno, onoliko koliko je potrebno da se zamesi glatko testo, ali ne mnogo tvrdo. Kada je testo gotovo, kidati komadiće i oblikovati loptice veličine većeg oraha. Peći u podmazanom plehu na 200 stepeni, da dobiju žućkastu boju.
 

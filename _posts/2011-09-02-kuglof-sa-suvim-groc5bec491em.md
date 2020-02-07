@@ -37,7 +37,7 @@ tags:
   * šećer u prahu
   * 1 kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5434" src="/wp-content/uploads/2011/09/Kuglofsasuvimgrozdjem-300x225.jpg" alt="Kuglofsasuvimgrozdjem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5434" src="/wp-content/uploads/2011/09/Kuglofsasuvimgrozdjem-1024x768.jpg" alt="Kuglofsasuvimgrozdjem" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati žumanca, mleko, rum, struganu koru od limuna, polovinu količine brašna i prašak za pecivo. Umutiti, a zatim dodati čvrsto ulupan sneg od belanaca, ostatak brašna i suvo grožđe.
 

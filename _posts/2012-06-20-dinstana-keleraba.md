@@ -25,7 +25,7 @@ tags:
   * kašičica šećera
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3525" title="Dinstana keleraba" src="/wp-content/uploads/2012/06/Dinstana-keleraba-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3525" title="Dinstana keleraba" src="/wp-content/uploads/2012/06/Dinstana-keleraba-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kelerabu oprati, očistiti i iseći na komade. U vrelo ulje dodati komade kelerabe i dinstati u poklopljenoj posudi, uz povremeno mešanje i dolivanje po malo tople vode.
 

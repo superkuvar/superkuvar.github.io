@@ -35,7 +35,7 @@ tags:
   * limun
   * ulje
 
-<img class="alignnone size-medium wp-image-5542" src="/wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-300x225.jpg" alt="Pirinac sa prazilukom i suvim grozdjem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5542" src="/wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-1024x768.jpg" alt="Pirinac sa prazilukom i suvim grozdjem" width="300" height="225" /> 
 
 **Priprema**: pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
 

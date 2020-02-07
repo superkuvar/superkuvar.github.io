@@ -27,7 +27,7 @@ tags:
   * mirođija
   * ulje
 
-<img class="alignnone size-medium wp-image-3634" title="Ćušpajzodtikvica" src="/wp-content/uploads/2012/06/%C4%86ušpajzodtikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3634" title="Ćušpajzodtikvica" src="/wp-content/uploads/2012/06/%C4%86ušpajzodtikvica-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju da postane staklast. Tikvice oprati, oljuštiti, iseći na kocke i posoliti. Ostaviti ih da odstoje desetak minuta, ocediti od vode koju su pustile i dodati u propržen luk. Dinstati uz dolivanje po malo tople vode.
 

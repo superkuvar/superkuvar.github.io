@@ -34,7 +34,7 @@ tags:
   * bosiljak
   * mirođija
 
-<img class="alignnone size-medium wp-image-3412" title="Pitabezkorasatikvicama" src="/wp-content/uploads/2012/06/Pitabezkorasatikvicama1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3412" title="Pitabezkorasatikvicama" src="/wp-content/uploads/2012/06/Pitabezkorasatikvicama1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprati, oljuštiti i narendati tikvice. Dodati soli po ukusu, malo bosiljka i mirođije.
 

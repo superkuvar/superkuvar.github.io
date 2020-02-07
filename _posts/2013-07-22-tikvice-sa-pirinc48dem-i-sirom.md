@@ -32,7 +32,7 @@ tags:
   * biber
   * origano ili muskatni oraščić
 
-<img class="alignnone size-medium wp-image-5920" src="/wp-content/uploads/2013/07/Tikvicesapirincemisirom-300x225.jpg" alt="Tikvicesapirincemisirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5920" src="/wp-content/uploads/2013/07/Tikvicesapirincemisirom-1024x768.jpg" alt="Tikvicesapirincemisirom" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, iseći na deblje kolutove i obariti u slanoj vodi. Nakon toga staviti ih u cediljku da se dobro ocede.
 

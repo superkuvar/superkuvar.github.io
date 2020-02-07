@@ -29,7 +29,7 @@ Za preliv
   * kesica vanilin šećera
   * 150 grama kokosovog brašna
 
-[<img class="alignnone size-medium wp-image-7079" src="/wp-content/uploads/2011/08/Žutičupavcisakokosom-300x225.jpg" alt="Žutičupavcisakokosom" width="300" height="225" />](/wp-content/uploads/2011/08/Žutičupavcisakokosom.jpg)
+[<img class="alignnone size-medium wp-image-7079" src="/wp-content/uploads/2011/08/Žutičupavcisakokosom-1024x768.jpg" alt="Žutičupavcisakokosom" width="300" height="225" />](/wp-content/uploads/2011/08/Žutičupavcisakokosom.jpg)
 
 **Priprema**: umutiti mikserom jaja sa šećerom, kao za tortu, pa dodati ulje i brašno pomešano sa praškom za pecivo. Masu lagano izmešati i sipati u podmazan pleh, da bude debljine dva prsta. Peći na umerenoj temperaturi oko pola sata.
 

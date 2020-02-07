@@ -36,7 +36,7 @@ tags:
   * biber
   * žumance
 
-<img class="alignnone size-medium wp-image-5582" src="/wp-content/uploads/2013/04/Musakabrokoli-300x225.jpg" alt="Musakabrokoli" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5582" src="/wp-content/uploads/2013/04/Musakabrokoli-1024x768.jpg" alt="Musakabrokoli" width="300" height="225" /> 
 
 **Priprema**: krompir i šargarepu oprati, oljuštiti i isitniti na kockice. Naliti vodom da ogreznu, posoliti i skuvati. Opran brokoli iskidati na cvetiće i takođe obariti u posoljenoj vodi. Skuvano povrće ocediti.
 

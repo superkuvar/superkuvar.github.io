@@ -37,7 +37,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5039" src="/wp-content/uploads/2013/01/Čorbaodpečurakasavinom-300x225.jpg" alt="Čorbaodpečurakasavinom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5039" src="/wp-content/uploads/2013/01/Čorbaodpečurakasavinom-1024x768.jpg" alt="Čorbaodpečurakasavinom" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju.  ampinjone oprati, iseći na listiće, dodati u luk i dinstati da omekšaju. Zatim šampinjone naliti litrom tople vode i vinom. Kada čorba provri, dodati kocku za supu i kuvati 30 minuta na umerenoj temperaturi.
 

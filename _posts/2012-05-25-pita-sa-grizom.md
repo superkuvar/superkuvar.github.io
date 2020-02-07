@@ -31,7 +31,7 @@ tags:
   * kesica cimeta ili vanilin šećera
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-3267" title="Pita sa grizom" src="/wp-content/uploads/2012/05/Pita-sa-grizom1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3267" title="Pita sa grizom" src="/wp-content/uploads/2012/05/Pita-sa-grizom1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u sud sipati mleko, dodati šećer i staviti na štednjak. U provrelo mleko zakuvati griz. Kada se griz malo prohladi, dodati razmućena jaja i umutiti žicom ili mikserom. U umućen griz dodati suvo grožđe, prethodno oprano, i kesicu cimeta ili vanilin šećera.
 

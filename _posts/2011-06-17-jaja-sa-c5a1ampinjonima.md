@@ -29,7 +29,7 @@ tags:
   * 5 jaja
   * margarin ili ulje
 
-<img class="alignnone size-medium wp-image-5013" src="/wp-content/uploads/2011/06/Kajgana-sa-sampinjonima-300x225.jpg" alt="Kajgana sa sampinjonima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5013" src="/wp-content/uploads/2011/06/Kajgana-sa-sampinjonima-1024x768.jpg" alt="Kajgana sa sampinjonima" width="300" height="225" /> 
 
 **Priprema**: šampinjone očistiti, oprati i iseći na listiće. Crni luk očistiti, iseckati i zajedno sa šampinjonima dinstati na margarinu ili ulju, dok tečnost ne uvri. Posoliti i pobiberiti.
 

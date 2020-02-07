@@ -42,7 +42,7 @@ tags:
   * šolja mleka
   * ulje
 
-<img class="alignnone size-medium wp-image-4769" title="Djuvec od patlidzana" src="/wp-content/uploads/2011/05/Djuvec-od-patlidzana-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4769" title="Djuvec od patlidzana" src="/wp-content/uploads/2011/05/Djuvec-od-patlidzana-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan i krompir oprati, oljuštiti i iseći na kolutove. Paprike oprati, očistiti od semena i iseći na komadiće. Paradajz oljuštiti i iseći na kolutove.
 

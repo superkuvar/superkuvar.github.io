@@ -31,7 +31,7 @@ tags:
   * ulje
   * 2 dl kisele pavlake
 
-[<img class="alignnone size-medium wp-image-6335" src="/wp-content/uploads/2013/12/Dinstanikupus-300x225.jpg" alt="Dinstanikupus" width="300" height="225" />](/wp-content/uploads/2013/12/Dinstanikupus.jpg)
+[<img class="alignnone size-medium wp-image-6335" src="/wp-content/uploads/2013/12/Dinstanikupus-1024x768.jpg" alt="Dinstanikupus" width="300" height="225" />](/wp-content/uploads/2013/12/Dinstanikupus.jpg)
 
 **Priprema**: kupus očistiti, oprati i iseći na rezance, kao za salatu.
 

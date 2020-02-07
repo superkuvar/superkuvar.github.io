@@ -26,7 +26,7 @@ tags:
   * šoljica ulja
   * so
 
-<img class="alignnone size-medium wp-image-2839" title="Pita od bajatog hleba" src="/wp-content/uploads/2012/03/Pita-od-bajatog-hleba-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2839" title="Pita od bajatog hleba" src="/wp-content/uploads/2012/03/Pita-od-bajatog-hleba-1024x768.jpg" alt="" width="300" height="225" /> 
 
 Kada preostane hleb ne treba ga bacati. Osim prženica i popare, od njega se može napraviti i ukusna pita.
 

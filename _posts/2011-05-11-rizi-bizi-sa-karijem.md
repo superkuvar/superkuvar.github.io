@@ -31,7 +31,7 @@ tags:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5624" src="/wp-content/uploads/2011/05/Rizi-bizi-sa-karijem-300x225.jpg" alt="Rizi bizi sa karijem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5624" src="/wp-content/uploads/2011/05/Rizi-bizi-sa-karijem-1024x768.jpg" alt="Rizi bizi sa karijem" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, iseckati i propržiti na ulju, dodati grašak i pirjaniti, uz dolivanje po malo tople vode. Pri kraju dinstanja posoliti.
 

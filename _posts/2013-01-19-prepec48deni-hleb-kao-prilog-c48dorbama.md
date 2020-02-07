@@ -25,7 +25,7 @@ tags:
   * ulje
   * beli luk
 
-<img class="alignnone size-medium wp-image-5101" src="/wp-content/uploads/2013/01/Prepecen-hleb-300x225.jpg" alt="Prepecen hleb" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5101" src="/wp-content/uploads/2013/01/Prepecen-hleb-1024x768.jpg" alt="Prepecen hleb" width="300" height="225" /> 
 
 **Priprema**: kriškama hleba odstraniti koru, a sredinu iseći na kockice. U posudu sipati malo ulja (može i maslinovog), dodati beli luk, izgnječen ili u prahu i kockice hleba. Izmešati, najbolje rukom, da sve kockice hleba upiju ulje. Izručiti u pleh i peći na 180 stepeni oko 15 minuta, u prethodno zagrejanoj pećnici. Krutoni treba da porumene i da se prosuše, paziti da ne pregore.
 

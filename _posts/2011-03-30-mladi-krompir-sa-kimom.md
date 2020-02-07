@@ -23,7 +23,7 @@ tags:
   * so
   * kim
 
-<img class="alignnone size-medium wp-image-3291" title="Mladi krompir sa kimom" src="/wp-content/uploads/2011/03/Mladi-krompir-sa-kimom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3291" title="Mladi krompir sa kimom" src="/wp-content/uploads/2011/03/Mladi-krompir-sa-kimom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: krompir očistiti, oprati, dobro ocediti i raseći na polovine ili četvrtine. Rasečene površine krompira premazati margarinom i posuti solju i kimom.
 

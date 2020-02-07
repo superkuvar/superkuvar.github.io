@@ -30,7 +30,7 @@ Potrebeno je:
   * brašno
   * ulje
 
-<img class="alignnone size-medium wp-image-4242" title="Oslicsasljivama" src="/wp-content/uploads/2012/09/Oslicsasljivama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4242" title="Oslicsasljivama" src="/wp-content/uploads/2012/09/Oslicsasljivama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: filete oslića odmrznuti, posuti suvim biljnim začinom, uvaljati u brašno i ispržiti na ulju.  ljive oprati i isitniti na listiće.
 

@@ -31,7 +31,7 @@ tags:
   * 2 decilitra kisele pavlake
   * 1 šolja mleka
 
-<img class="alignnone size-medium wp-image-4089" title="Pitasapatlidzanom" src="/wp-content/uploads/2012/08/Pitasapatlidzanom2-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4089" title="Pitasapatlidzanom" src="/wp-content/uploads/2012/08/Pitasapatlidzanom2-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oljuštiti, oprati i obariti u posoljenoj vodi. Bariti desetak minuta, a zatim ga staviti u cediljku da se ocedi. Oceđen patlidžan iseći na kockice, staviti u zagrejano ulje i malo propržiti. Posoliti, pobiberiti i dodati origano. Kada se patlidžan prohladi, dodati razmućeno jaje i kiselu pavlaku i dobro izmešati.
 

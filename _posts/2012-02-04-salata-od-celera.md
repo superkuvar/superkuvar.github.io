@@ -26,7 +26,7 @@ tags:
   * so
   * malo seckanog peršunovog lista
 
-<img class="alignnone size-medium wp-image-2437" title="Salata od celera" src="/wp-content/uploads/2012/02/Salata-od-celera-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2437" title="Salata od celera" src="/wp-content/uploads/2012/02/Salata-od-celera-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: opran celer oljuštiti i izrendati na trenici. Pomešati pavlaku i majonez, pa dodati sok od limuna i so. Ovom mešavinom preliti celer, a zatim dodati seckani peršunov list. Salatu lagano izmešati.
 

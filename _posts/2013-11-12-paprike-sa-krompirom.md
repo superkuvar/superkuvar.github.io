@@ -27,7 +27,7 @@ tags:
   * biber
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-6258" src="/wp-content/uploads/2013/11/Paprikesakrompirom-300x225.jpg" alt="Paprikesakrompirom" width="300" height="225" />](/wp-content/uploads/2013/11/Paprikesakrompirom.jpg)
+[<img class="alignnone size-medium wp-image-6258" src="/wp-content/uploads/2013/11/Paprikesakrompirom-1024x768.jpg" alt="Paprikesakrompirom" width="300" height="225" />](/wp-content/uploads/2013/11/Paprikesakrompirom.jpg)
 
 **Priprema**: paprike oprati i ispeći u pećnici. Kada se ohlade oljuštiti ih i iseći na rezance.
 

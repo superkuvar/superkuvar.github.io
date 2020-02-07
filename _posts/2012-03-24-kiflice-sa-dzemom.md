@@ -29,7 +29,7 @@ tags:
   * na vrh noža soli
   * susam (za posipanje)
 
-<img class="alignnone size-medium wp-image-2771" title="Kiflice sa džemom" src="/wp-content/uploads/2012/03/Kiflice-sa-džemom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2771" title="Kiflice sa džemom" src="/wp-content/uploads/2012/03/Kiflice-sa-džemom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u mlakom mleku, u koje je dodata kašika šećera, razmutiti izdrobljeni kvasac i ostaviti na toplom mestu da nadođe.
 

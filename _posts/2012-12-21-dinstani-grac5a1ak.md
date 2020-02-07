@@ -33,7 +33,7 @@ tags:
   * kašika brašna ili gustina
   * ulje
 
-<img class="alignnone size-medium wp-image-4925" title="Dinstani grašak" src="/wp-content/uploads/2012/12/Dinstani-grašak-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4925" title="Dinstani grašak" src="/wp-content/uploads/2012/12/Dinstani-grašak-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: na zagrejanom ulju propržiti sitno seckani crni luk, da blago porumeni. U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati. U toku dinstanja, povremeno, dolivati po malo vode. Grašak posoliti, dodati suvi biljni začin, biber i mirođiju.
 

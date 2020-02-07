@@ -31,7 +31,7 @@ tags:
   * šećer u prahu
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-3005" title="Lenja pita sa jabukama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-jabukama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3005" title="Lenja pita sa jabukama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-jabukama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: jabuke oprati, oljuštiti, izrendati na krupno rende, dodati dve šoljice šećera i kratko prodinstati. U izdinstane jabuke dodati kesicu cimeta.
 

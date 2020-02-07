@@ -30,7 +30,7 @@ tags:
   * fida (rezanci)
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4094" title="Brzaparadajzcorba" src="/wp-content/uploads/2012/08/Brzaparadajzcorba-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4094" title="Brzaparadajzcorba" src="/wp-content/uploads/2012/08/Brzaparadajzcorba-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u lonac sipati ulje, dobro ga zagrejati, dodati šećer i pržiti da postane smeđe boje. Zatim dodati paradajz pire i litar vode.
 

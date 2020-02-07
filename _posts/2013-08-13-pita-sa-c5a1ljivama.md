@@ -31,7 +31,7 @@ tags:
   * šećer u prahu
   * ulje
 
-[<img class="alignnone size-medium wp-image-5999" src="/wp-content/uploads/2013/08/Pita-sa-sljivama-300x225.jpg" alt="Pita sa sljivama" width="300" height="225" />](/wp-content/uploads/2013/08/Pita-sa-sljivama.jpg)
+[<img class="alignnone size-medium wp-image-5999" src="/wp-content/uploads/2013/08/Pita-sa-sljivama-1024x768.jpg" alt="Pita sa sljivama" width="300" height="225" />](/wp-content/uploads/2013/08/Pita-sa-sljivama.jpg)
 
 **Priprema**: šljive oprati, očistiti od koštica, iseći na rezance i pomešati sa suvim grožđem.
 

@@ -29,7 +29,7 @@ tags:
   * lovorov list
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-8809" src="/wp-content/uploads/2011/11/przenepaprike-300x225.jpg" alt="przenepaprike" width="300" height="225" />](/wp-content/uploads/2011/11/przenepaprike.jpg)
+[<img class="alignnone size-medium wp-image-8809" src="/wp-content/uploads/2011/11/przenepaprike-1024x768.jpg" alt="przenepaprike" width="300" height="225" />](/wp-content/uploads/2011/11/przenepaprike.jpg)
 
 **Priprema**: paprike oprati, posušiti i iseći im drške. Paprike, svaku, na nekoliko mesta izbosti viljuškom i pržiti na vrelom ulju, sa svih strana.
 

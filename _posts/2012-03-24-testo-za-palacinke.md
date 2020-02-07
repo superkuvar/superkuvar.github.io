@@ -26,7 +26,7 @@ tags:
   * prstohvat soli
   * ulje za prženje
 
-<img class="alignnone size-medium wp-image-2765" title="Testo za palačinke" src="/wp-content/uploads/2012/03/Testo-za-palačinke-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2765" title="Testo za palačinke" src="/wp-content/uploads/2012/03/Testo-za-palačinke-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u pogodnu dublju posudu staviti brašno, jaja, ulje i so, pa uz postepeno dolivanje mešavine mleka i vode i neprestano mućenje žicom, napraviti testo da nema grudvica. Dobro umućeno testo ostaviti da odstoji oko pola sata do sat.
 

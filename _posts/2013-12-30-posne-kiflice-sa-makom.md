@@ -27,7 +27,7 @@ tags:
   * 1 kesica vanilin šećera
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-6377" src="/wp-content/uploads/2013/12/Posnekiflicesamakom-300x225.jpg" alt="Posnekiflicesamakom" width="300" height="225" />](/wp-content/uploads/2013/12/Posnekiflicesamakom.jpg)
+[<img class="alignnone size-medium wp-image-6377" src="/wp-content/uploads/2013/12/Posnekiflicesamakom-1024x768.jpg" alt="Posnekiflicesamakom" width="300" height="225" />](/wp-content/uploads/2013/12/Posnekiflicesamakom.jpg)
 
 **Priprema**: penasto umutiti margarin sa šećerom, a zatim dodati mak, prašak za pecivo i brašna onoliko koliko je potrebno da se dobije srednje čvrsto testo.
 

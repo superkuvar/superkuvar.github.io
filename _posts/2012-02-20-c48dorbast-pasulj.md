@@ -30,7 +30,7 @@ tags:
   * brašno
   * crvena mlevena paprika
 
-<img class="alignnone size-medium wp-image-2520" title="Pasulj" src="/wp-content/uploads/2012/02/Pasulj-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2520" title="Pasulj" src="/wp-content/uploads/2012/02/Pasulj-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: pasulj prebrati, oprati, naliti hladnom vodom i ostaviti potopljen preko noći. Sutradan pasulj ocediti, staviti u dublju posudu, naliti vodom i kuvati.
 

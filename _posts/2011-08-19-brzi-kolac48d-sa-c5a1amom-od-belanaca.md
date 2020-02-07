@@ -31,7 +31,7 @@ tags:
   * kesica praška za pecivo
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5789" src="/wp-content/uploads/2011/08/Brzikolacsasamomodbelanaca-300x225.jpg" alt="Brzikolacsasamomodbelanaca" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5789" src="/wp-content/uploads/2011/08/Brzikolacsasamomodbelanaca-1024x768.jpg" alt="Brzikolacsasamomodbelanaca" width="300" height="225" /> 
 
 **Priprema**: umutiti žumanca sa pet kašika šećera, pa tome dodati ulje, mleko, kakao i brašno pomešano sa praškom za pecivo. Izmešati i sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi dvadesetak minuta.
 

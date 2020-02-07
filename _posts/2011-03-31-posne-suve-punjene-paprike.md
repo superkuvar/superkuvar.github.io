@@ -34,7 +34,7 @@ tags:
   * crvena mlevena paprika
   * ulje
 
-<img class="alignnone size-medium wp-image-5809" src="/wp-content/uploads/2011/03/Paprikepunjenepecurkama1-300x225.jpg" alt="Paprikepunjenepecurkama1" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5809" src="/wp-content/uploads/2011/03/Paprikepunjenepecurkama1-1024x768.jpg" alt="Paprikepunjenepecurkama1" width="300" height="225" /> 
 
 **Priprema**: očistiti i sitno iseckati crni luk i propržiti ga na ulju, da postane staklast. U propržen luk dodati očišćen i opran pirinač, izrendan krompir, so, crvenu mlevenu papriku, suvi biljni začin, i neprestano mešajući prodinstati.
 

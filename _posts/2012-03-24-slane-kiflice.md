@@ -32,7 +32,7 @@ tags:
   * kašičica šećera
   * susam
 
-<img class="alignnone size-medium wp-image-2781" title="Slane kiflice" src="/wp-content/uploads/2012/03/Slane-kiflice-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2781" title="Slane kiflice" src="/wp-content/uploads/2012/03/Slane-kiflice-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: razmutiti izmrvljeni kvasac u mlakom mleku, kome je dodata kašičica šećera i ostaviti na toplom da naraste. U sud za mešenje staviti jedno celo jaje i jedno belance, so, ulje i brašno, sipati nadošli kvasac i varjačom izmešati.
 

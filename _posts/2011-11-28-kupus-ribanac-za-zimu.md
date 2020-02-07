@@ -23,7 +23,7 @@ tags:
   * 10 kilograma kupusa
   * soli po ukusu (najbolje morske)
 
-<img class="alignnone size-medium wp-image-4594" title="Kupus ribanac" src="/wp-content/uploads/2011/11/Kupus-ribanac-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4594" title="Kupus ribanac" src="/wp-content/uploads/2011/11/Kupus-ribanac-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: treba odabrati zdrave, tvrde glavice kupusa, pa ih očistiti od spoljnih listova i oprati. Glavice iseći na pola i odstraniti im koren.
 

@@ -37,7 +37,7 @@ tags:
   * kesica vanilin šećera
   * šećer u prahu (za posipanje)
 
-<img class="alignnone size-medium wp-image-5598" src="/wp-content/uploads/2013/04/Integralni-kolac-sa-brusnicom-300x225.jpg" alt="Integralni kolac sa brusnicom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5598" src="/wp-content/uploads/2013/04/Integralni-kolac-sa-brusnicom-1024x768.jpg" alt="Integralni kolac sa brusnicom" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, jogurt, sok od limuna i vanilin šećer. Dodati brašno pomešano sa praškom za pecivo. Masu dobro izmešati varjačom i dodati brusnice.
 

@@ -26,7 +26,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-2637" title="Starinski postan pasulj" src="/wp-content/uploads/2011/03/Starinski-postan-pasulj-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2637" title="Starinski postan pasulj" src="/wp-content/uploads/2011/03/Starinski-postan-pasulj-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: očistiti i oprati pasulj, naliti ga hladnom vodom i ostaviti preko noći da odstoji. Sutradan, pasulj sipati u lonac, naliti hladnom vodom i staviti da se kuva. Dok pasulj ne provri, temperatura treba da je jaka. Posle toga smanjiti temperaturu na umerenu. U toku kuvanja staviti u pasulj glavicu belog luka i celer, samo očišćene od spoljnih slojeva ljuske i oprane.
 

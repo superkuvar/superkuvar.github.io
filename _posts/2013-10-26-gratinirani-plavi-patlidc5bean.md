@@ -32,7 +32,7 @@ tags:
   * bosiljak
   * ulje
 
-[<img class="alignnone size-medium wp-image-6203" src="/wp-content/uploads/2013/10/Gratiniraniplavipatlidzan-300x225.jpg" alt="Gratiniraniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2013/10/Gratiniraniplavipatlidzan.jpg)
+[<img class="alignnone size-medium wp-image-6203" src="/wp-content/uploads/2013/10/Gratiniraniplavipatlidzan-1024x768.jpg" alt="Gratiniraniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2013/10/Gratiniraniplavipatlidzan.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći na uzdužne šnite, posoliti i ostaviti da odstoji 30 minuta. Zatim patlidžan ocediti od vode koju je pustio, pritiskajući parčiće između dlanova.
 

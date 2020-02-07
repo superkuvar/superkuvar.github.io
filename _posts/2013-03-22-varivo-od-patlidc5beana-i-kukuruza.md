@@ -33,7 +33,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5501" src="/wp-content/uploads/2013/03/Patlidzan-sa-kukuruzom-300x225.jpg" alt="Patlidzan sa kukuruzom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5501" src="/wp-content/uploads/2013/03/Patlidzan-sa-kukuruzom-1024x768.jpg" alt="Patlidzan sa kukuruzom" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, obariti, a zatim ocediti i kada se ohladi iseći na rezance. Kukuruz takođe obariti.
 

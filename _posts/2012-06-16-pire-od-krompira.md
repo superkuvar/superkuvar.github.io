@@ -23,7 +23,7 @@ tags:
   * ulje ili margarin (oko 50 grama)
   * so
 
-<img class="alignnone size-medium wp-image-3508" title="Pireodkrompira" src="/wp-content/uploads/2012/06/Pireodkrompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3508" title="Pireodkrompira" src="/wp-content/uploads/2012/06/Pireodkrompira-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
 

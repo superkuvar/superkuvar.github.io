@@ -32,7 +32,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-4902" title="Mesosapaprikom" src="/wp-content/uploads/2012/12/Mesosapaprikom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4902" title="Mesosapaprikom" src="/wp-content/uploads/2012/12/Mesosapaprikom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. Meso isitniti na kockice i dodati u propržen luk. Dinstati, uz povremeno dolivanje po malo tople vode. Dodati papriku isečenu na sitnije komade i nastaviti sa dinstanjem dok meso ne omekša.
 

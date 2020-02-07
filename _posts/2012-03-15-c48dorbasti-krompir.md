@@ -32,7 +32,7 @@ tags:
   * 2 kašike skroba (gustina)
   * ulje
 
-<img class="alignnone size-medium wp-image-2681" title="Čorbasti krompir" src="/wp-content/uploads/2012/03/%C4%8Corbasti-krompir-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2681" title="Čorbasti krompir" src="/wp-content/uploads/2012/03/%C4%8Corbasti-krompir-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: na ulju propržiti sitno seckani crni luk. šargarepu oprati, oljuštiti i iseći na štapiće, a papriku (može i iz zamrzivača) iseckati, pa ih dodati u propržen luk. Dinstati nekoliko minuta, a zatim sipati paradajz pire ili kuvani paradajz.
 

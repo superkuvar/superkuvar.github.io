@@ -29,7 +29,7 @@ tags:
   * 1 čen belog luka
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-6224" src="/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom-300x225.jpg" alt="Salataodpatlidzanasapavlakom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom.jpg)
+[<img class="alignnone size-medium wp-image-6224" src="/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom-1024x768.jpg" alt="Salataodpatlidzanasapavlakom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom.jpg)
 
 **Priprema**: plavi patlidžan i paprike oprati i ispeći u pećnici. Kada se ohlade, oljuštiti ih, iseći na rezance i pomešati.
 

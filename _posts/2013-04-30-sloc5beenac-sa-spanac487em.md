@@ -37,7 +37,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5641" src="/wp-content/uploads/2013/04/Slozenac-sa-spanacem-300x225.jpg" alt="Slozenac sa spanacem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5641" src="/wp-content/uploads/2013/04/Slozenac-sa-spanacem-1024x768.jpg" alt="Slozenac sa spanacem" width="300" height="225" /> 
 
 **Priprema**: spanać očistiti, oprati i obariti u ključaloj vodi. Obaren spanać ocediti, a kada se ohladi isitniti.
 

@@ -31,7 +31,7 @@ tags:
   * so
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-4946" title="Vikendpogača" src="/wp-content/uploads/2012/12/Vikendpogača-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4946" title="Vikendpogača" src="/wp-content/uploads/2012/12/Vikendpogača-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje razbiti jaja, umutiti ih viljuškom, pa dodati kiselo mleko, ulje, izmrvljen sir i brašno pomešano sa solju i praškom za pecivo. Varjačom dobro izmešati sastojke. Testo malo izraditi rukom. Ukoliko je potrebno dodati još kašiku-dve brašna.
 

@@ -19,7 +19,7 @@ tags:
   * paprike
   * so
 
-<img class="alignnone size-medium wp-image-4193" title="Paprikeuzamrzivacu" src="/wp-content/uploads/2012/09/Paprikeuzamrzivacu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4193" title="Paprikeuzamrzivacu" src="/wp-content/uploads/2012/09/Paprikeuzamrzivacu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: odabrati paprike srednje veličine, po mogućnosti babure, oprati ih i očistiti od peteljki i semena.
 

@@ -29,7 +29,7 @@ tags:
 * mileram (3 kašike)  
 * sirće (2-3 kašike)
 
-[<img class="alignnone size-medium wp-image-10802" src="/wp-content/uploads/2015/12/corbaodprokeljasamileramom-300x225.jpg" alt="corbaodprokeljasamileramom" width="300" height="225" />](/wp-content/uploads/2015/12/corbaodprokeljasamileramom-e1450523861983.jpg)
+[<img class="alignnone size-medium wp-image-10802" src="/wp-content/uploads/2015/12/corbaodprokeljasamileramom-1024x768.jpg" alt="corbaodprokeljasamileramom" width="300" height="225" />](/wp-content/uploads/2015/12/corbaodprokeljasamileramom-e1450523861983.jpg)
 
 **Priprema**: prokelj očistiti, dobro oprati i staviti u ključalu posoljenu vodu kojoj je dodato pola kašičice kima. Kuvati oko desetak minuta, dok prokelj omekša, a zatim ocediti. Polovinu prokelja izgnječiti viljuškom a drugu polovinu ostaviti celu.
 

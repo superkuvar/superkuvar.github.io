@@ -27,7 +27,7 @@ tags:
   * 1 jaje i 1 žumance (za premazivanje)
   * susam ili kim
 
-<img class="alignnone size-medium wp-image-5937" src="/wp-content/uploads/2011/12/Slanepogacicesabelimvinom-300x225.jpg" alt="Slanepogacicesabelimvinom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5937" src="/wp-content/uploads/2011/12/Slanepogacicesabelimvinom-1024x768.jpg" alt="Slanepogacicesabelimvinom" width="300" height="225" /> 
 
 **Priprema**: u sud za mešenje sipati brašno pomešano sa praškom za pecivo, dodati so, jaje, ulje i vino, pa zamesiti testo. Testo dobro izraditi, ukoliko je potrebno dodati još malo brašna, a zatim rastanjiti na debljinu od pola santimetra.
 

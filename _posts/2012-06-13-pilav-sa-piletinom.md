@@ -29,7 +29,7 @@ tags:
   * kari začin
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3493" title="Pilavsapiletinom" src="/wp-content/uploads/2012/06/Pilavsapiletinom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3493" title="Pilavsapiletinom" src="/wp-content/uploads/2012/06/Pilavsapiletinom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: skuvati pileće meso u litru i po posoljene vode. U drugoj posudi, na malo ulja, propržiti sitno iseckan crni luk, pa dodati izrendanu šargarepu i opran pirinač, promešati i propržiti. Pobiberiti, dodati suvi biljni začin, iseckan peršunov list i malo kari začina. Naliti supom u kojoj se kuvalo meso, da pirinač ogrezne.
 

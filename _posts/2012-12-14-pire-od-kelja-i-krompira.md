@@ -35,7 +35,7 @@ tags:
   * 2 čena belog luka
   * ulje
 
-<img class="alignnone size-medium wp-image-4907" title="Pireodkeljaikrompira" src="/wp-content/uploads/2012/12/Pireodkeljaikrompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4907" title="Pireodkeljaikrompira" src="/wp-content/uploads/2012/12/Pireodkeljaikrompira-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti, prohladiti i sitno iseckati.
 

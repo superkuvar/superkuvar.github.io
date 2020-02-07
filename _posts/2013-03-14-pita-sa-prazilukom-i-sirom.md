@@ -33,7 +33,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5453" src="/wp-content/uploads/2013/03/Pitasaprazilukomisirom-300x225.jpg" alt="Pitasaprazilukomisirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5453" src="/wp-content/uploads/2013/03/Pitasaprazilukomisirom-1024x768.jpg" alt="Pitasaprazilukomisirom" width="300" height="225" /> 
 
 **Priprema**: praziluk oprati, očistiti, sitno iseckati i ispržiti na vrelom ulju. Na kraju praziluk začiniti solju i biberom i skloniti sa vatre.
 

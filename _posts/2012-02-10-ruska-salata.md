@@ -31,7 +31,7 @@ tags:
   * 300 grama majoneza (gotovog)
   * so
 
-<img class="alignnone size-medium wp-image-2455" title="Ruska salata" src="/wp-content/uploads/2012/02/Ruska-salata-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2455" title="Ruska salata" src="/wp-content/uploads/2012/02/Ruska-salata-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: krompir i šargarepu oprati, oljuštiti i skuvati u posoljenoj vodi. Grašak i jaja takođe skuvati. Kuvano povrće ocediti od vode i ostaviti da se ohladi.
 

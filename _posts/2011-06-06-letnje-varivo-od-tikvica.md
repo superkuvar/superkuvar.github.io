@@ -29,7 +29,7 @@ tags:
   * mirođija
   * čaša kisele pavlake
 
-<img class="alignnone size-medium wp-image-3289" title="Letnje varivo od tikvica" src="/wp-content/uploads/2011/06/Letnje-varivo-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3289" title="Letnje varivo od tikvica" src="/wp-content/uploads/2011/06/Letnje-varivo-od-tikvica-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprane i oljuštene tikvice iseći na krupnije kocke. Na malo ulja propržiti sitno seckani crni luk, samo da omekša. U luk zatim dodati isečene tikvice, preliti ih vodom da ogreznu, dodati lovorov list, iseckan beli luk i mirođiju, kocku za supu i brašno razmućeno u malo hladne vode.
 

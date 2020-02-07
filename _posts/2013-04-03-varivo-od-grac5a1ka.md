@@ -34,7 +34,7 @@ tags:
   * mirođija ili peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5555" src="/wp-content/uploads/2013/04/Varivo-od-graška-300x225.jpg" alt="Varivo od graška" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5555" src="/wp-content/uploads/2013/04/Varivo-od-graška-1024x768.jpg" alt="Varivo od graška" width="300" height="225" /> 
 
 **Priprema**: na malo zagrejanog ulja staviti sitno iseckan crni luk i pržiti da postane staklast. U propržen luk dodati grašak i narendanu šargarepu, pa sve zajedno dinstati, uz dolivanje po malo tople vode ili supe od povrća. Povremeno promešati.
 

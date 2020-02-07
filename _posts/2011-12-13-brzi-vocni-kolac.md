@@ -33,7 +33,7 @@ tags:
   * 400 grama višanja očišćenih od koštica
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5121" src="/wp-content/uploads/2011/12/Brzi-voćni-kolač-300x225.jpg" alt="Brzi voćni kolač" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5121" src="/wp-content/uploads/2011/12/Brzi-voćni-kolač-1024x768.jpg" alt="Brzi voćni kolač" width="300" height="225" /> 
 
 **Priprema**: u sud za mešenje staviti jaja i šećer i mutiti mikserom. Kad su jaja dobro umućena dodati ulje, jogurt, malo soka i kore od limuna i brašno pomešano sa praškom za pecivo.
 

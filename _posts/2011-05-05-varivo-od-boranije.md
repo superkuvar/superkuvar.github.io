@@ -30,7 +30,7 @@ tags:
   * suvi biljni začin
   * so
 
-<img class="alignnone size-medium wp-image-2575" title="Varivo od boranije" src="/wp-content/uploads/2011/05/Varivo-od-boranije-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2575" title="Varivo od boranije" src="/wp-content/uploads/2011/05/Varivo-od-boranije-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: sipati malo ulja u šerpu i propržiti sitno seckani crni luk da postane staklast, dolivajući po potrebi malo vode. U propržen luk odati očišćenu i isečenu boraniju, posoliti i dinstati dok ne omekša.
 

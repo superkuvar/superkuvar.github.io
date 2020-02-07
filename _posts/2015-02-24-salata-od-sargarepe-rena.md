@@ -24,7 +24,7 @@ tags:
   * jabukovo sirće (3 kašike)
   * ulje
 
-[<img class="alignnone size-medium wp-image-9430" src="/wp-content/uploads/2015/02/salataodsargarepeirena-300x225.jpg" alt="salataodsargarepeirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodsargarepeirena.jpg)
+[<img class="alignnone size-medium wp-image-9430" src="/wp-content/uploads/2015/02/salataodsargarepeirena-1024x768.jpg" alt="salataodsargarepeirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodsargarepeirena.jpg)
 
 **Priprema**: šargarepu i ren oprati, oljuštiti i sitno narendati na trenici. U činiju za salatu staviti narendanu šargarepu i ren, posoliti po ukusu, dodati sirće i ulje i izmešati.
 

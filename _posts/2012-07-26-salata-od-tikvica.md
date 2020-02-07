@@ -26,7 +26,7 @@ tags:
   * 3 čena belog luka
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-9674" src="/wp-content/uploads/2015/07/salataodtikvica-300x225.jpg" alt="salataodtikvica" width="300" height="225" />](/wp-content/uploads/2015/07/salataodtikvica-e1436770754937.jpg)
+[<img class="alignnone size-medium wp-image-9674" src="/wp-content/uploads/2015/07/salataodtikvica-1024x768.jpg" alt="salataodtikvica" width="300" height="225" />](/wp-content/uploads/2015/07/salataodtikvica-e1436770754937.jpg)
 
 **Priprema**: tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
 

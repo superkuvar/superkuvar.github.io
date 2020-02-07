@@ -31,7 +31,7 @@ tags:
   * semenke bundeve (3 kašike)
   * ulje
 
-<img class="alignnone size-medium wp-image-5826" src="/wp-content/uploads/2013/06/Integralnihlebsasemenkama-300x225.jpg" alt="Integralnihlebsasemenkama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5826" src="/wp-content/uploads/2013/06/Integralnihlebsasemenkama-1024x768.jpg" alt="Integralnihlebsasemenkama" width="300" height="225" /> 
 
 **Priprema**: pre početka pripreme hleba, semenke bundeve preliti vodom, da ogreznu, i ostaviti da odstoje oko sat vremena. Nakon toga u decilitar tople vode ili mleka sipati šećer i meko brašno i dodati izmrvljen kvasac. Ostaviti na toplom da kvasac nadođe.
 

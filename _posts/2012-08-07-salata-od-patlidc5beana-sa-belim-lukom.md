@@ -26,7 +26,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3903" title="Salataodpatlidzanasabelimlukom" src="/wp-content/uploads/2012/08/Salataodpatlidzanasabelimlukom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3903" title="Salataodpatlidzanasabelimlukom" src="/wp-content/uploads/2012/08/Salataodpatlidzanasabelimlukom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji 30 minuta. Nakon toga patlidžan ocediti od vode koju je pustio. Na zagrejanom ulju pržiti svaki kolut sa obe strane.
 

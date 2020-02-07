@@ -23,7 +23,7 @@ tags:
   * 8 kašika šećera
   * 300 grama voća (jagode, maline, višnje, kupine, dinja&#8230;)
 
-<img class="alignnone size-medium wp-image-3452" title="Sladoledodpavlakeivoća" src="/wp-content/uploads/2011/08/Sladoledodpavlakeivoća-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3452" title="Sladoledodpavlakeivoća" src="/wp-content/uploads/2011/08/Sladoledodpavlakeivoća-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprano i očišćeno voće izgnječiti viljuškom. U dublju posudu sipati slatku i kiselu pavlaku, šećer i ispasirano voće. Mutiti mikserom dok se ne dobije gušća masa.
 

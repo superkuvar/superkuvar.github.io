@@ -32,7 +32,7 @@ tags:
   * kesica cimeta
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-2713" title="Švedska pita" src="/wp-content/uploads/2012/03/%C5%A0vedska-pita-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2713" title="Švedska pita" src="/wp-content/uploads/2012/03/%C5%A0vedska-pita-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti margarin, žumanca, jogurt ili slatko mleko, četiri kašike šećera, brašno i prašak za pecivo. U veći, podmazan i brašnom posut pleh rukama rastanjiti testo u koru (kao za lenju pitu).
 

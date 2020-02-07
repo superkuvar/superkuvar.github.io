@@ -31,7 +31,7 @@ tags:
   * 3-4 kašike džema od šipka ili kajsije
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9370" src="/wp-content/uploads/2015/01/cajnikolacici-300x225.jpg" alt="cajnikolacici" width="300" height="225" />](/wp-content/uploads/2015/01/cajnikolacici.jpg)
+[<img class="alignnone size-medium wp-image-9370" src="/wp-content/uploads/2015/01/cajnikolacici-1024x768.jpg" alt="cajnikolacici" width="300" height="225" />](/wp-content/uploads/2015/01/cajnikolacici.jpg)
 
 **Priprema**: penasto umutiti margarin sa šećerom, dodati žumaca i ulje, pa još malo mutiti. U umućenu masu dodati brašno pomešano sa praškom za pecivo i umesiti glatko testo. Ukoliko je potrebno, dodati malo mleka.
 

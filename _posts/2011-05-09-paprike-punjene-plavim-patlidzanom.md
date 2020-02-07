@@ -33,7 +33,7 @@ tags:
   * 1 kašika brašna
   * malo aleve paprike
 
-<img class="alignnone size-medium wp-image-3799" title="Paprikepunjenepatlidzanom" src="/wp-content/uploads/2011/05/Paprikepunjenepatlidzanom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3799" title="Paprikepunjenepatlidzanom" src="/wp-content/uploads/2011/05/Paprikepunjenepatlidzanom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: patlidžan oprati, oljuštiti i iseći na kockice, posoliti i ostaviti da pusti vodu.
 

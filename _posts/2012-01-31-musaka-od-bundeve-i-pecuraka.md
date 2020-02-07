@@ -29,7 +29,7 @@ tags:
   * čaša milerama
   * 1 jaje
 
-<img class="alignnone size-medium wp-image-2389" title="Musaka pecurke+bundeva (5)" src="/wp-content/uploads/2012/01/Musaka-pecurke+bundeva-5-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2389" title="Musaka pecurke+bundeva (5)" src="/wp-content/uploads/2012/01/Musaka-pecurke+bundeva-5-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: bundevu oljuštiti, oprati i izrendati na krupno rende. Praziluk i pečurke očistiti i oprati. Praziluk iseći na kolutove, a šampinjone na listiće.
 

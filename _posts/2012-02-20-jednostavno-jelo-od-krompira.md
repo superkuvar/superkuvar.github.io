@@ -30,7 +30,7 @@ tags:
   * seckani peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-2502" title="Jelo od krompira" src="/wp-content/uploads/2012/02/Jelo-od-krompira-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2502" title="Jelo od krompira" src="/wp-content/uploads/2012/02/Jelo-od-krompira-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, isitniti i propržiti na malo ulja. šargarepu očistiti, izrendati i dodati u luk, pa još malo propržiti. Krompir oprati, oljuštiti, iseći na kockice i dodati u luk. Naliti toplom vodom (otprilike litar) i staviti da se kuva na umerenoj temperaturi.
 

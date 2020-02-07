@@ -25,7 +25,7 @@ tags:
   * prezle
   * ulje za prženje
 
-<img class="alignnone size-medium wp-image-3666" title="Pohovanetikvice" src="/wp-content/uploads/2012/07/Pohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3666" title="Pohovanetikvice" src="/wp-content/uploads/2012/07/Pohovanetikvice-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, iseći uzdužno na tanje režnjeve i posoliti. Ostaviti tikvice da odstoje dvadesetak minuta, a zatim ih ocediti od vode koju su pustile.
 

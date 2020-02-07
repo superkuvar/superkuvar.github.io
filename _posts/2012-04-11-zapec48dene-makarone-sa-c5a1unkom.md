@@ -31,7 +31,7 @@ tags:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-2927" title="Zapečene makarone sa šunkom" src="/wp-content/uploads/2012/04/Zapečene-makarone-sa-šunkom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2927" title="Zapečene makarone sa šunkom" src="/wp-content/uploads/2012/04/Zapečene-makarone-sa-šunkom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: makarone skuvati prema uputstvu na ambalaži i ocediti ih. Šunku isitniti na kockice a kačkavalj izrendati.
 

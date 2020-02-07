@@ -26,7 +26,7 @@ tags:
   * 2 kašike milerama
   * so
 
-<img class="alignnone size-medium wp-image-3566" title="Salataodkrastavacaišargarepe" src="/wp-content/uploads/2012/06/Salataodkrastavacaišargarepe-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3566" title="Salataodkrastavacaišargarepe" src="/wp-content/uploads/2012/06/Salataodkrastavacaišargarepe-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: krastavce oprati, oljuštiti, iseckati i ostaviti da se ocede od vode koju su pustili. šargarepu oprati, oljuštiti, obariti u slanoj vodi i iseckati.
 

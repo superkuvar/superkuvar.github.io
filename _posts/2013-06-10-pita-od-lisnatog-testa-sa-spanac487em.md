@@ -34,7 +34,7 @@ tags:
   * 1 kašičica aleve paprike
   * biber
 
-<img class="alignnone size-medium wp-image-5738" src="/wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-300x225.jpg" alt="Pitaodlisnatogtestaspanac" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5738" src="/wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-1024x768.jpg" alt="Pitaodlisnatogtestaspanac" width="300" height="225" /> 
 
 **Priprema**: spanać očistiti, oprati, kratko obariti i ocediti. Kada se spanać ohladi sitno ga iseckati.
 

@@ -31,7 +31,7 @@ tags:
   * vanilin šećer
   * cimet
 
-<img class="alignnone size-medium wp-image-3752" title="Letnjikolacsabreskvama" src="/wp-content/uploads/2012/07/Letnjikolacsabreskvama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3752" title="Letnjikolacsabreskvama" src="/wp-content/uploads/2012/07/Letnjikolacsabreskvama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: očišćen i opran pirinač staviti u ključalo mleko, dodati šećer i kuvati na tihoj vatri, uz povremeno mešanje. Pri kraju kuvanja u pirinač dodati kašiku griza, izmešati i kuvati još dva-tri minuta. Skloniti sa vatre, pa kad se malo prohladi dodati žumanca i izmešati kašikom.
 

@@ -25,7 +25,7 @@ tags:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-3249" title="Varivo od tikvica" src="/wp-content/uploads/2011/04/Varivo-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3249" title="Varivo od tikvica" src="/wp-content/uploads/2011/04/Varivo-od-tikvica-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti i izrendati. Crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati izrendane tikvice i seckanu mirođiju, pa dinstati.
 

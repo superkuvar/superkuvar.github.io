@@ -31,7 +31,7 @@ tags:
   * so
   * ulje
 
-[<img class="alignnone size-medium wp-image-6329" src="/wp-content/uploads/2013/12/Piletinasapovrcem-300x225.jpg" alt="Piletinasapovrcem" width="300" height="225" />](/wp-content/uploads/2013/12/Piletinasapovrcem.jpg)
+[<img class="alignnone size-medium wp-image-6329" src="/wp-content/uploads/2013/12/Piletinasapovrcem-1024x768.jpg" alt="Piletinasapovrcem" width="300" height="225" />](/wp-content/uploads/2013/12/Piletinasapovrcem.jpg)
 
 **Priprema**: crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
 

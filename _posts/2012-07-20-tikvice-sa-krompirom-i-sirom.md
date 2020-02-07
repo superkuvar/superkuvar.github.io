@@ -33,7 +33,7 @@ tags:
   * čaša milerama
   * ulje
 
-<img class="alignnone size-medium wp-image-3771" title="Tikvicesakrompiromisirom" src="/wp-content/uploads/2012/07/Tikvicesakrompiromisirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3771" title="Tikvicesakrompiromisirom" src="/wp-content/uploads/2012/07/Tikvicesakrompiromisirom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: očistiti crni i beli luk, sitno iseckati i propržiti na malo ulja. Posoliti, dodati suvi biljni začin, majoran i seckani peršunov list. Krompir oprati, oljuštiti, iseći na kolutove i preliti hladnom vodom da ogrezne. Krompir posoliti i kuvati deset minuta, a zatim ocediti.
 

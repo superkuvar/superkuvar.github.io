@@ -31,7 +31,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-4917" title="Šnicleusosuodluka" src="/wp-content/uploads/2012/12/Šnicleusosuodluka-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4917" title="Šnicleusosuodluka" src="/wp-content/uploads/2012/12/Šnicleusosuodluka-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: šnicle izlupati tučkom za meso i zarezati nožem po ivicama, da se prilikom prženja ne bi skupile. Ispržiti ih na ulju, sa obe strane, uz dolivanje po malo tople vode. Ispržene šnicle posoliti, staviti na tanjir i poklopiti da se ne bi ohladile.
 

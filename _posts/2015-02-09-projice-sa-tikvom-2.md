@@ -29,7 +29,7 @@ tags:
   * muskatni oraščić
   * semenke bundeve ili suncokreta
 
-[<img class="alignnone size-medium wp-image-9397" src="/wp-content/uploads/2015/02/projicesatikvom-300x225.jpg" alt="projicesatikvom" width="300" height="225" />](/wp-content/uploads/2015/02/projicesatikvom.jpg)
+[<img class="alignnone size-medium wp-image-9397" src="/wp-content/uploads/2015/02/projicesatikvom-1024x768.jpg" alt="projicesatikvom" width="300" height="225" />](/wp-content/uploads/2015/02/projicesatikvom.jpg)
 
 **Priprema**: tikvu očistiti, oprati i skuvati u malo vode, a zatim ocediti i kada se ohladi ispasirati viljuškom. Po želji dodati vrlo malo rendanog muskatnog oraščića.
 

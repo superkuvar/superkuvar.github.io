@@ -27,7 +27,7 @@ tags:
   * peršunov list
   * 100 grama izrendanog kačkavalja (po želji)
 
-<img class="alignnone size-medium wp-image-2863" title="Pirinač za rižoto" src="/wp-content/uploads/2011/05/Pirinač-za-rižoto-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2863" title="Pirinač za rižoto" src="/wp-content/uploads/2011/05/Pirinač-za-rižoto-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i na zagrejanom ulju propržiti, da postane staklast. U izdinstan luk dodati prethodno opran pirinač, so, suvi biljni začin, biber i sitno seckani peršunov list.
 

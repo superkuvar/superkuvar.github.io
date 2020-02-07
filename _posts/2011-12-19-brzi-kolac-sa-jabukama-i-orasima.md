@@ -29,7 +29,7 @@ tags:
   * šolja brašna
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-2535" title="Brzi kolač sa jabukama i orasima" src="/wp-content/uploads/2011/12/Brzi-kolač-sa-jabukama-i-orasima-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2535" title="Brzi kolač sa jabukama i orasima" src="/wp-content/uploads/2011/12/Brzi-kolač-sa-jabukama-i-orasima-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u sudu za mešenje umutiti jaja sa šećerom, a zatim dodati mleko, istopljeni margarin, jabuke, orahe i brašno pomešano sa praškom za pecivo. Varjačom lagano izmešati da se masa ujednači.
 

@@ -24,7 +24,7 @@ tags:
   * jedna kašika šećera
   * koren rena
 
-<img class="alignnone size-medium wp-image-4159" title="Pečene paprike" src="/wp-content/uploads/2011/12/Pečene-paprike-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4159" title="Pečene paprike" src="/wp-content/uploads/2011/12/Pečene-paprike-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: paprike oprati, posušiti, poređati u pleh i peći u prethodno zagrejanoj pećnici, na roštilju ili ploči štednjaka. U međuvremenu, postepeno zagrevati pripremljene tegle, a vinsko sirće prokuvati sa šećerom i solju.
 

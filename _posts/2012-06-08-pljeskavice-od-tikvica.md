@@ -30,7 +30,7 @@ tags:
   * majoran
   * ulje
 
-<img class="alignnone size-medium wp-image-3400" title="Pljeskavice od tikvica" src="/wp-content/uploads/2012/06/Pljeskavice-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3400" title="Pljeskavice od tikvica" src="/wp-content/uploads/2012/06/Pljeskavice-od-tikvica-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti i narendati na krupno rende, posoliti, staviti u cediljku i ostaviti dvadesetak minuta da se malo ocede.
 

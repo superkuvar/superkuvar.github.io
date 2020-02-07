@@ -26,7 +26,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-2351" title="Cvekla sa pavlakom# (2)" src="/wp-content/uploads/2012/01/Cvekla-sa-pavlakom-2-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2351" title="Cvekla sa pavlakom# (2)" src="/wp-content/uploads/2012/01/Cvekla-sa-pavlakom-2-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice. Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
 

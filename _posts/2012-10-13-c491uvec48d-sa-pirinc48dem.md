@@ -36,7 +36,7 @@ tags:
   * 100 grama belog sira
   * ulje
 
-<img class="alignnone size-medium wp-image-4480" title="Djuvec sa pirincem" src="/wp-content/uploads/2012/10/Djuvec-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4480" title="Djuvec sa pirincem" src="/wp-content/uploads/2012/10/Djuvec-sa-pirincem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: pirinač oprati, obariti u slanoj vodi i ocediti. Crni luk očistiti i sitno iseći. šargarepu oprati, oljuštiti i iseći na kockice. Paprike oprati i sitno iseći.
 

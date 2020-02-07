@@ -37,7 +37,7 @@ tags:
   * ulje
   * prezle
 
-<img class="alignnone size-medium wp-image-4509" title="Zapeceni karfiol" src="/wp-content/uploads/2012/10/Zapeceni-karfiol-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4509" title="Zapeceni karfiol" src="/wp-content/uploads/2012/10/Zapeceni-karfiol-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi, ali da bude upola kuvan. Obaren karfiol ocediti i ostaviti da se ohladi.
 

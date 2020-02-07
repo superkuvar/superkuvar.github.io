@@ -41,7 +41,7 @@ tags:
   * ulje
   * čaša kisele pavlake (po želji)
 
-<img class="alignnone size-medium wp-image-5333" src="/wp-content/uploads/2011/05/Paprikepunjenesojom-300x225.jpg" alt="Paprikepunjenesojom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5333" src="/wp-content/uploads/2011/05/Paprikepunjenesojom-1024x768.jpg" alt="Paprikepunjenesojom" width="300" height="225" /> 
 
 **Priprema**: sitno iseckati crni luk i propržiti na ulju, a zatim dodati pirinač i sojine ljuspice natopljene šoljicom supe.
 

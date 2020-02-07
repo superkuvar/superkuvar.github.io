@@ -29,7 +29,7 @@ tags:
   * voda
   * so
 
-<img class="alignnone size-medium wp-image-4188" title="Feferoniupresolcu" src="/wp-content/uploads/2012/09/Feferoniupresolcu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4188" title="Feferoniupresolcu" src="/wp-content/uploads/2012/09/Feferoniupresolcu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: feferone oprati i skratiti im peteljke. Kada se ocede, složiti ih u manje tegle, posuti seckanim peršunovim listom i dodati po nekoliko zrna bibera.
 

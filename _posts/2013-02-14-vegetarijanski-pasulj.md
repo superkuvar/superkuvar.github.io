@@ -35,7 +35,7 @@ tags:
   * kari
   * ulje
 
-<img class="alignnone size-medium wp-image-5257" src="/wp-content/uploads/2013/02/Vegetarijanskipasulj-300x225.jpg" alt="Vegetarijanskipasulj" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5257" src="/wp-content/uploads/2013/02/Vegetarijanskipasulj-1024x768.jpg" alt="Vegetarijanskipasulj" width="300" height="225" /> 
 
 **Priprema**: pasulj prebrati, oprati, preliti hladnom vodom i ostaviti da odstoji preko noći. Sutradan pasulj preliti hladnom vodom i kuvati na jačoj temperaturi 15 minuta, da provri. Zatim ga ocediti i vodu baciti. U pasulj sipati drugu vodu i nastaviti sa kuvanjem na umerenoj temperaturi. Skuvan pasulj ocediti od vode, a istu sačuvati.
 

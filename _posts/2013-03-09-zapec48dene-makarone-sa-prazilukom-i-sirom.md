@@ -34,7 +34,7 @@ tags:
   * 2 manja praziluka
   * 200 grama tvrdog žutog sira-kačkavalja
 
-<img class="alignnone size-medium wp-image-5424" src="/wp-content/uploads/2013/03/Zapecenemakaronesaprazilukomisirom-300x225.jpg" alt="Zapecenemakaronesaprazilukomisirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5424" src="/wp-content/uploads/2013/03/Zapecenemakaronesaprazilukomisirom-1024x768.jpg" alt="Zapecenemakaronesaprazilukomisirom" width="300" height="225" /> 
 
 **Priprema**: opran i očišćen praziluk iseći na kolutove i obariti u manjoj količini slane vode, a zatim ocediti.
 

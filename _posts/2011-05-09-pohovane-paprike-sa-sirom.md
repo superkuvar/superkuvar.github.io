@@ -31,7 +31,7 @@ tags:
   * brašno
   * prezle
 
-<img class="alignnone size-medium wp-image-4599" title="Pohovane paprike sa sirom" src="/wp-content/uploads/2011/05/Pohovane-paprike-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4599" title="Pohovane paprike sa sirom" src="/wp-content/uploads/2011/05/Pohovane-paprike-sa-sirom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: lepe veće, mesnate crvene paprike oprati, posušiti i ispeći ili na ploči štednjaka, okrećući ih sa svih strana, ili u pećnici. Lakši način pečenja je u pećnici. U pleh prekriven papirom za pečenje ili aluminijumskom folijom poređati paprike i staviti ih u pećnicu zagrejanu na 250 stepeni. Peći ih dok kožica ne potamni.
 

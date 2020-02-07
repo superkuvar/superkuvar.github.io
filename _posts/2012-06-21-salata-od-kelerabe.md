@@ -27,7 +27,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3548" title="Salataodkelerabe" src="/wp-content/uploads/2012/06/Salataodkelerabe-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3548" title="Salataodkelerabe" src="/wp-content/uploads/2012/06/Salataodkelerabe-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kelerabu oprati, oljuštiti, iseći na tanke štapiće ili komade i obariti u posoljenoj vodi kojoj je dodato pola kašičice šećera.
 

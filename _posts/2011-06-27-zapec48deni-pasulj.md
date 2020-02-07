@@ -36,7 +36,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5134" src="/wp-content/uploads/2011/06/Zapečeni-pasulj-300x225.jpg" alt="Zapečeni pasulj" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5134" src="/wp-content/uploads/2011/06/Zapečeni-pasulj-1024x768.jpg" alt="Zapečeni pasulj" width="300" height="225" /> 
 
 **Priprema**: potopiti pasulj u hladnu vodu i ostaviti da prenoći. Sutradan ga ocediti, naliti vodom i staviti da se kuva. Kada pasulj provri ocediti ga, naliti novom vodom, dodati lovorov list i kašiku ulja i kuvati na umerenoj temperaturi. Po potrebi dolivati po malo tople vode.
 

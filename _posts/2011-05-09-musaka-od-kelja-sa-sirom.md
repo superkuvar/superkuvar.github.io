@@ -35,7 +35,7 @@ tags:
   * biljni začin
   * biber
 
-<img class="alignnone size-medium wp-image-4889" title="Musakaodkeljasasirom" src="/wp-content/uploads/2011/05/Musakaodkeljasasirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4889" title="Musakaodkeljasasirom" src="/wp-content/uploads/2011/05/Musakaodkeljasasirom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: očišćen i opran kelj obariti u posoljenoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti i iseći na rezance. Sir nastrugati na rende.
 

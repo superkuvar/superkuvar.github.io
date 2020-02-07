@@ -30,7 +30,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4864" title="Dinstana čičoka" src="/wp-content/uploads/2012/12/Dinstana-čičoka-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4864" title="Dinstana čičoka" src="/wp-content/uploads/2012/12/Dinstana-čičoka-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprati i ostrugati čičoku (kao mlade krompiriće), pa izrezati na tanje kolutove. Praziluk sitno iseckati i propržiti na malo ulja. Dodati čičoku i dinstati na umerenoj temperaturi.
 

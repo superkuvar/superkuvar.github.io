@@ -21,7 +21,7 @@ tags:
   * šećer
   * cimet
 
-<img class="alignnone size-medium wp-image-2347" title="K.t.5" src="/wp-content/uploads/2012/01/K.t.5-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2347" title="K.t.5" src="/wp-content/uploads/2012/01/K.t.5-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: bundevu oljuštiti, oprati, skloniti semenke i iseći na komade ili ujednačene kocke. Staviti je u šerpu sa debljim dnom, da prilikom dinstanja ne bi zagorela. Dodati malo šećera, pa sipati dve čaše vode.
 

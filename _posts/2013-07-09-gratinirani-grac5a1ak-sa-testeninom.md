@@ -33,7 +33,7 @@ tags:
   * 50 grama margarina
   * ulje
 
-<img class="alignnone size-medium wp-image-5873" src="/wp-content/uploads/2013/07/Gratiniranigrasaksatesteninom-300x225.jpg" alt="Gratiniranigrasaksatesteninom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5873" src="/wp-content/uploads/2013/07/Gratiniranigrasaksatesteninom-1024x768.jpg" alt="Gratiniranigrasaksatesteninom" width="300" height="225" /> 
 
 **Priprema**: skuvati makarone u posoljenoj vodi i ocediti ih. Očišćen i sitno iseckan crni luk propržiti na ulju, dodati grašak i uz dolivanje po malo tople vode dinstati dok ne omekša. Posoliti, dodati suvi biljni začin, biber i mirođiju.
 

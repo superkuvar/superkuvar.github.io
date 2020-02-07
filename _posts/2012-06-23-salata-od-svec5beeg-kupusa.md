@@ -23,7 +23,7 @@ tags:
   * sirće
   * biber
 
-<img class="alignnone size-medium wp-image-3587" title="Salataodsvežegkupusa" src="/wp-content/uploads/2012/06/Salataodsvežegkupusa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3587" title="Salataodsvežegkupusa" src="/wp-content/uploads/2012/06/Salataodsvežegkupusa-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kupus očistiti od spoljnih listova, oprati i iseći na pola ili četvrtine, uzduž po korenu. Ukloniti koren, pa kupus iseći nožem na tanke rezance ili izrendati pomoću rendeta, a može se isitniti i u &#8221;secku&#8221;.
 

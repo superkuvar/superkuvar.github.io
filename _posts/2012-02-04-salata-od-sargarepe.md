@@ -25,7 +25,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-2434" title="Salata od šargarepe" src="/wp-content/uploads/2012/02/Salata-od-šargarepe-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2434" title="Salata od šargarepe" src="/wp-content/uploads/2012/02/Salata-od-šargarepe-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: šargarepu očistiti, oprati i sitno nastrugati na trenici, po ukusu posoliti, pobiberiti i dodati šećer. Salatu zakiseliti sirćetom ili sokom od limuna (ko više voli), dodati ulje i izmešati.
 

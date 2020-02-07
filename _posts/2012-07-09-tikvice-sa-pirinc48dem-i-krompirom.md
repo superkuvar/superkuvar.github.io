@@ -32,7 +32,7 @@ tags:
   * seckani peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3681" title="Tikvicesapirinčemikrompirom" src="/wp-content/uploads/2012/07/Tikvicesapirinčemikrompirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3681" title="Tikvicesapirinčemikrompirom" src="/wp-content/uploads/2012/07/Tikvicesapirinčemikrompirom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice i krompir oprati, oljuštiti i iseći (tikvice na kolutove a krompir na kocke). Na ulju propržiti sitno seckani crni luk, dodati krompir, naliti malo tople vode i dinstati desetak minuta. Zatim dodati tikvice i opran pirinač, lagano izmešati, naliti sa sedam-osam decilitara vode, posoliti, dodati suvi biljni začin i poklopljeno kuvati na laganoj vatri.
 

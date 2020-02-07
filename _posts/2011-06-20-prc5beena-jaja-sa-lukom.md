@@ -29,7 +29,7 @@ tags:
   * peršunov list ili mirođija
   * ulje
 
-<img class="alignnone size-medium wp-image-5468" src="/wp-content/uploads/2011/06/Przena-jaja-sa-lukom-300x225.jpg" alt="Przena jaja sa lukom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5468" src="/wp-content/uploads/2011/06/Przena-jaja-sa-lukom-1024x768.jpg" alt="Przena jaja sa lukom" width="300" height="225" /> 
 
 **Priprema**: luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
 

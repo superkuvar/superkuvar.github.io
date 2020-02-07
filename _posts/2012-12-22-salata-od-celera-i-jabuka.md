@@ -34,7 +34,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-4931" title="Salataodceleraijabuka" src="/wp-content/uploads/2012/12/Salataodceleraijabuka-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4931" title="Salataodceleraijabuka" src="/wp-content/uploads/2012/12/Salataodceleraijabuka-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: celer očistiti, oljuštiti, oprati pa sitno nastrugati. Jabuke oprati, oljuštiti i takođe nastrugati, pomešati sa celerom i posuti sokom od limuna.
 

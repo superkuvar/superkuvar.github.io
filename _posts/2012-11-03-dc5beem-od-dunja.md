@@ -26,7 +26,7 @@ tags:
   * 1,8 kg šećera
   * 1 limun
 
-<img class="alignnone size-medium wp-image-4621" title="Dunje (1)" src="/wp-content/uploads/2012/11/Dunje-1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4621" title="Dunje (1)" src="/wp-content/uploads/2012/11/Dunje-1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: dunje dobro oprati i očistiti od semenki i semenih loža, ali ne ljuštiti. Iseći ih na sitnije komade, naliti vodom da ogreznu i poklopljene kuvati. Kada dunje omekšaju, izvaditi ih iz vode i propasirati.
 

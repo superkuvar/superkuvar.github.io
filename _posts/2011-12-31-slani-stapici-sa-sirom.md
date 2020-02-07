@@ -31,7 +31,7 @@ tags:
   * malo soli
   * kim ili susam
 
-<img class="alignnone size-medium wp-image-5292" src="/wp-content/uploads/2011/12/Slaništapićisasirom-300x225.jpg" alt="Slaništapićisasirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5292" src="/wp-content/uploads/2011/12/Slaništapićisasirom-1024x768.jpg" alt="Slaništapićisasirom" width="300" height="225" /> 
 
 **Priprema**: umutiti margarin sa dva jajeta, dodati sir izgnječen viljuškom, malo soli i brašno pomešano sa praškom za pecivo.
 

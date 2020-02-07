@@ -34,7 +34,7 @@ tags:
   * kašičica sode bikarbone
   * kašičica đumbira u prahu
 
-<img class="alignnone size-medium wp-image-5462" src="/wp-content/uploads/2013/03/Cajni-integralni-kolacici-300x225.jpg" alt="Cajni integralni kolacici" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5462" src="/wp-content/uploads/2013/03/Cajni-integralni-kolacici-1024x768.jpg" alt="Cajni integralni kolacici" width="300" height="225" /> 
 
 **Priprema**: umutiti jaja sa šećerom, pa dodati ulje, sok od limuna, pekmez, đumbir i integralno brašno pomešano sa sodom bikarbonom. Dobro izmešati varjačom. Testo treba da bude gušće.
 

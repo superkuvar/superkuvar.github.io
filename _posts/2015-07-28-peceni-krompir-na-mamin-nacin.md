@@ -26,7 +26,7 @@ tags:
 * crvena mlevena paprika  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9696" src="/wp-content/uploads/2015/07/krompirnamaminnacin-300x225.jpg" alt="krompirnamaminnacin" width="300" height="225" />](/wp-content/uploads/2015/07/krompirnamaminnacin-e1438065088632.jpg)
+[<img class="alignnone size-medium wp-image-9696" src="/wp-content/uploads/2015/07/krompirnamaminnacin-1024x768.jpg" alt="krompirnamaminnacin" width="300" height="225" />](/wp-content/uploads/2015/07/krompirnamaminnacin-e1438065088632.jpg)
 
 **Priprema**: krompir i šargarepu oprati, oljuštiti i iseći, krompir na kriške a šargarepu na kolutove. Paprike oprati, očistiti od semena i iseći na krupnije komade. Crni luk iseći na rebarca, kratko propržiti na ulju, a zatim dodati šargarepu i paprike i kratko propržiti. Krompir posoliti, posuti alevom paprikom i izmešati da se so i crvena mlevena paprika ravnomerno rasporede.
 

@@ -29,7 +29,7 @@ tags:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-4601" title="Pohovane paprike" src="/wp-content/uploads/2011/03/Pohovane-paprike-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4601" title="Pohovane paprike" src="/wp-content/uploads/2011/03/Pohovane-paprike-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: mesnate, veće crvene paprike oprati, posušiti ubrusom, poređati u pleh prekriven papirom za pečenje i peći u pećnici zagrejanoj na 220 stepeni, dok se na ljusci ne počnu stvarati tamni mehurići.
 

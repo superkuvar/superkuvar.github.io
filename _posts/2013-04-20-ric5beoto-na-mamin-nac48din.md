@@ -35,7 +35,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5607" src="/wp-content/uploads/2013/04/Maminrizoto-300x225.jpg" alt="Maminrizoto" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5607" src="/wp-content/uploads/2013/04/Maminrizoto-1024x768.jpg" alt="Maminrizoto" width="300" height="225" /> 
 
 **Priprema**: praziluk očistiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati narendanu šargarepu i još kratko pržiti, a zatim dodati opran pirinač. Pržiti na umerenoj temperaturi dok pirinač ne postane staklast. Pirinač naliti šoljom i po supe od kocke i kuvati na tihoj vatri. Rižoto povremeno promešati i doliti po malo supe.
 

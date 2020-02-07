@@ -26,7 +26,7 @@ tags:
   * so
   * ulje
 
-<img class="alignnone size-medium wp-image-5383" src="/wp-content/uploads/2012/02/Rezancisasirom-300x225.jpg" alt="Rezancisasirom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5383" src="/wp-content/uploads/2012/02/Rezancisasirom-1024x768.jpg" alt="Rezancisasirom" width="300" height="225" /> 
 
 **Priprema**: u tri litra ključale vode sipati kašiku ulja i soli po ukusu, dodati rezance i kuvati ih 5-10 minuta. Kada su rezanci gotovi, ocediti ih.
 

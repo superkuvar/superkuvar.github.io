@@ -41,7 +41,7 @@ Za bešamel sos:
   * 2 jajeta
   * 2-3 kašike struganog kačkavalja (po želji)
 
-<img class="alignnone size-medium wp-image-4281" title="Musakasapatlidzanomipaprikama" src="/wp-content/uploads/2012/09/Musakasapatlidzanomipaprikama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4281" title="Musakasapatlidzanomipaprikama" src="/wp-content/uploads/2012/09/Musakasapatlidzanomipaprikama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, oljuštiti i iseći na šnite ili kolutove, posoliti i ostaviti da odstoji dvadesetak minuta. Nakon toga patlidžan dobro ocediti. Svaku krišku uvaljati u brašno i na ulju kratko propržiti.
 

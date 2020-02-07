@@ -29,7 +29,7 @@ tags:
 * so  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9598" src="/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-300x225.jpg" alt="Sampinjoni sa krompirom (1)" width="300" height="225" />](/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-e1430749102363.jpg)
+[<img class="alignnone size-medium wp-image-9598" src="/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-1024x768.jpg" alt="Sampinjoni sa krompirom (1)" width="300" height="225" />](/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-e1430749102363.jpg)
 
 **Priprema**: krompir oprati, oljuštiti i iseći na kockice, preliti vodom da ogrezne, posoliti i staviti da se kuva. Skuvan krompir ocediti.
 

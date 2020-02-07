@@ -35,7 +35,7 @@ tags:
   * đumbir
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-6019" src="/wp-content/uploads/2013/08/Kolac-sa-sljivama-i-cimetom11-300x225.jpg" alt="Kolac sa sljivama i cimetom1" width="300" height="225" />](/wp-content/uploads/2013/08/Kolac-sa-sljivama-i-cimetom11-e1376403683853.jpg)
+[<img class="alignnone size-medium wp-image-6019" src="/wp-content/uploads/2013/08/Kolac-sa-sljivama-i-cimetom11-1024x768.jpg" alt="Kolac sa sljivama i cimetom1" width="300" height="225" />](/wp-content/uploads/2013/08/Kolac-sa-sljivama-i-cimetom11-e1376403683853.jpg)
 
 **Priprema**: šljive oprati i očistiti od koštica. U pleh prekriven papirom za pečenje poređati šljive iscepkane na polovine, tako da kora bude dole, prema dnu pleha. Svaku šljivu posuti sa malo šećera pomešanog sa cimetom i đumbirom u prahu.
 

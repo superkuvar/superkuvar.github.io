@@ -36,7 +36,7 @@ tags:
   * 2 manja krompira
   * čaša ulja
 
-<img class="alignnone size-medium wp-image-5031" src="/wp-content/uploads/2013/01/Suvepaprikepunjenepirinčem-300x225.jpg" alt="Suvepaprikepunjenepirinčem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5031" src="/wp-content/uploads/2013/01/Suvepaprikepunjenepirinčem-1024x768.jpg" alt="Suvepaprikepunjenepirinčem" width="300" height="225" /> 
 
 **Priprema**: suve paprike oprati, preliti vrelom vodom i ostaviti petnaestak minuta da omekšaju, a zatim ocediti.
 

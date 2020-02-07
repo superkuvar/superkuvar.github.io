@@ -37,7 +37,7 @@ tags:
   * origano
   * ulje
 
-<img class="alignnone size-medium wp-image-4502" title="Plavipatlidzansasusamom" src="/wp-content/uploads/2012/10/Plavipatlidzansasusamom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4502" title="Plavipatlidzansasusamom" src="/wp-content/uploads/2012/10/Plavipatlidzansasusamom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, neoljušten iseći uzdužno na polovine i kašičicom malo izdubiti. Crni luk oljuštiti, sitno iseckati, pa na malo ulja, zajedno sa isitnjenom izdubljenom sredinom patlidžana, propržiti da omekša. Dodati sitno seckani beli luk, so, biber, origano, susam i izmrvljeni sir. Masu izmešati, pa puniti izdubljene patlidžane.
 

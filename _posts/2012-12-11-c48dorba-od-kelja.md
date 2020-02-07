@@ -33,7 +33,7 @@ tags:
   * ulje
   * čaša kisele pavlake
 
-<img class="alignnone size-medium wp-image-4880" title="Corbaodkelja" src="/wp-content/uploads/2012/12/Corbaodkelja-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4880" title="Corbaodkelja" src="/wp-content/uploads/2012/12/Corbaodkelja-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprati i očistiti šargarepu i kelj. šargarepu narendati sitno, a kelj iseći na rezance.
 

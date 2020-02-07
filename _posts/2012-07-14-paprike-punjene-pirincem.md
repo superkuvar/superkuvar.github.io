@@ -38,7 +38,7 @@ tags:
   * seckani peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4410" title="Paprikepunjenepirincem" src="/wp-content/uploads/2012/07/Paprikepunjenepirincem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4410" title="Paprikepunjenepirincem" src="/wp-content/uploads/2012/07/Paprikepunjenepirincem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: očistiti crni luk, sitno ga iseckati i propržiti na ulju. Dodati očišćenu i narendanu šargarepu, pa još malo pržiti. U to dodati opran pirinač i kratko zajedno propržiti. Zatim posoliti, pobiberiti, dodati crvenu mlevenu papriku, suvi biljni začin, paradajz pire i seckani peršunov list, pa sve izmešati. Umesto paradajz pirea može se dodati oljušten i sitno isečen svež paradajz.
 

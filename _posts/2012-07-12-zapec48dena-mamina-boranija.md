@@ -35,7 +35,7 @@ tags:
   * kašika brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-3703" title="Zapečenamaminaboranija" src="/wp-content/uploads/2012/07/Zapečenamaminaboranija-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3703" title="Zapečenamaminaboranija" src="/wp-content/uploads/2012/07/Zapečenamaminaboranija-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: boraniju očistiti, oprati i iseći na komade dužine 3-4 santimetra. U šerpu staviti pripremljenu boraniju, dodati sitno seckani crni luk, šargarepu isečenu na štapiće, papriku isečenu na rezance i paradajz pire ili oljušten paradajz isečen na komade. Boraniju naliti vodom da ogrezne, pa kuvati na umerenoj temperaturi dok ne omekša. Pri kraju kuvanja posoliti i pobiberiti.
 

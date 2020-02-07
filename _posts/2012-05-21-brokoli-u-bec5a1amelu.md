@@ -33,7 +33,7 @@ tags:
   * 100 g kačkavalja
   * ulje
 
-<img class="alignnone size-medium wp-image-3255" title="Brokoli u bešamelu" src="/wp-content/uploads/2012/05/Brokoli-u-bešamelu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3255" title="Brokoli u bešamelu" src="/wp-content/uploads/2012/05/Brokoli-u-bešamelu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: brokoli oprati, razdeliti na cvetiće, kratko obariti u slanoj vodi i ocediti.
 

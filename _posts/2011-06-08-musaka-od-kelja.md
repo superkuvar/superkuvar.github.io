@@ -34,7 +34,7 @@ tags:
   * 3 dl mleka
   * ulje
 
-[<img class="alignnone size-medium wp-image-9358" src="/wp-content/uploads/2011/06/musakaodkelja3-300x225.jpg" alt="musakaodkelja" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkelja3.jpg)
+[<img class="alignnone size-medium wp-image-9358" src="/wp-content/uploads/2011/06/musakaodkelja3-1024x768.jpg" alt="musakaodkelja" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkelja3.jpg)
 
 **Priprema**: oprati kelj, odvojiti ga na listove i obariti u slanoj vodi u koju je dodato malo sirćeta. Kada kelj omekša ocediti ga, ostaviti da se ohladi pa iseći na rezance.
 

@@ -35,7 +35,7 @@ tags:
   * 2 kašike kakao praha
   * sok i kora od pola limuna
 
-<img class="alignnone size-medium wp-image-5307" src="/wp-content/uploads/2013/02/Dvobojni-kolač-300x225.jpg" alt="Dvobojni kolač" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5307" src="/wp-content/uploads/2013/02/Dvobojni-kolač-1024x768.jpg" alt="Dvobojni kolač" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje dobro umutiti jaja sa šećerom. Dodati ulje, mleko, koricu i sok od limuna, a zatim brašno pomešano sa praškom za pecivo. Varjačom dobro izmešati masu i podeliti je na dva jednaka dela. U jedan deo testa umešati kakao.
 

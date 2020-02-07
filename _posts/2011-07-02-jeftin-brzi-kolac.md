@@ -27,7 +27,7 @@ tags:
   * kašika kakao praha
   * gotov čokladni preliv (po želji)
 
-<img class="alignnone size-medium wp-image-2529" title="Jeftin brzi kolač" src="/wp-content/uploads/2011/07/Jeftin-brzi-kolač-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2529" title="Jeftin brzi kolač" src="/wp-content/uploads/2011/07/Jeftin-brzi-kolač-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: umutiti jaja sa šećerom, a zatim dodati ulje, mleko, brašno i prašak za pecivo. Lagano izmešati.
 

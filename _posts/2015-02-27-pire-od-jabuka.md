@@ -26,7 +26,7 @@ tags:
   * šlag krem
   * suvo grožđe (50 g)
 
-[<img class="alignnone size-medium wp-image-9450" src="/wp-content/uploads/2015/02/pireodjabuka-300x225.jpg" alt="pireodjabuka" width="300" height="225" />](/wp-content/uploads/2015/02/pireodjabuka.jpg)
+[<img class="alignnone size-medium wp-image-9450" src="/wp-content/uploads/2015/02/pireodjabuka-1024x768.jpg" alt="pireodjabuka" width="300" height="225" />](/wp-content/uploads/2015/02/pireodjabuka.jpg)
 
 **Priprema**: jabuke oprati, oljuštiti i izrendati. U šerpu staviti šećer, izrendane jabuke i šoljicu vode. Kuvati na umerenoj temperaturi, dok se jabuke ne zgusnu kao pire. U jabuke dodati malo cimeta i oprano suvo grožđe.
 

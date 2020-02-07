@@ -31,7 +31,7 @@ tags:
   * 2 čaše jogurta
   * 250 grama očišćenog spanaća
 
-<img class="alignnone size-medium wp-image-3308" title="Projice sa spanaćem" src="/wp-content/uploads/2012/05/Projice-sa-spanaćem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3308" title="Projice sa spanaćem" src="/wp-content/uploads/2012/05/Projice-sa-spanaćem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: spanać očistiti, oprati, pa ga zatim sitno izrezati nožem, posoliti i ostaviti desetak minuta da odstoji. Nakon toga, spanać rukama ovlaš izgnječiti, da se ocedi od suvišne vode.
 

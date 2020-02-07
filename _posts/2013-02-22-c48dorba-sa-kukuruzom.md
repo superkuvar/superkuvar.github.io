@@ -39,7 +39,7 @@ tags:
   * ulje
   * list celera ili peršuna
 
-<img class="alignnone size-medium wp-image-5316" src="/wp-content/uploads/2013/02/Čorbasakukuruzom-300x225.jpg" alt="Čorbasakukuruzom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5316" src="/wp-content/uploads/2013/02/Čorbasakukuruzom-1024x768.jpg" alt="Čorbasakukuruzom" width="300" height="225" /> 
 
 **Priprema**: povrće oprati, očistiti i iseći: praziluk sitno, šargarpu na kolutove, a celer, paškanat i krompir na kockice.
 

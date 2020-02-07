@@ -30,7 +30,7 @@ tags:
   * 250 grama šećera (za sirup)
   * kesica vanilin šećera
 
-<img class="alignnone size-medium wp-image-5449" src="/wp-content/uploads/2011/08/Engleski-socni-kolac-300x225.jpg" alt="Engleski socni kolac" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5449" src="/wp-content/uploads/2011/08/Engleski-socni-kolac-1024x768.jpg" alt="Engleski socni kolac" width="300" height="225" /> 
 
 **Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, mlevene orahe, brašno i prašak za pecivo. Sve lagano izmešati. Pripremljeno testo sipati u podmazan i brašnom posut pleh.
 

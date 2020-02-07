@@ -31,7 +31,7 @@ tags:
   * crvena mlevena paprika
   * ulje
 
-<img class="alignnone size-medium wp-image-5550" src="/wp-content/uploads/2013/04/Corbaodspanacaisargarepe-300x225.jpg" alt="Corbaodspanacaisargarepe" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5550" src="/wp-content/uploads/2013/04/Corbaodspanacaisargarepe-1024x768.jpg" alt="Corbaodspanacaisargarepe" width="300" height="225" /> 
 
 **Priprema**: na vrelom ulju propržiti sitno seckani crni luk. šargarepu oprati, očistiti i narendati, dodati u luk i još malo pržiti.
 

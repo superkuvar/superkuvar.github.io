@@ -25,7 +25,7 @@ tags:
   * 9 dl ulja
   * kesica konzervansa
 
-<img class="alignnone size-medium wp-image-4326" title="Ajvarsapatlidzanom" src="/wp-content/uploads/2011/09/Ajvarsapatlidzanom1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4326" title="Ajvarsapatlidzanom" src="/wp-content/uploads/2011/09/Ajvarsapatlidzanom1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u veći sud sipati četiri litra vode, dodati so, šećer i sirće, pa staviti na štednjak da provri. U ovoj vodi obariti paprike i patlidžan, pa kad se ohlade samleti ih na mašini za mlevenje mesa.
 

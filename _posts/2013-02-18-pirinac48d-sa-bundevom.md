@@ -33,7 +33,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5281" src="/wp-content/uploads/2013/02/Pirinač-sa-bundevom-300x225.jpg" alt="Pirinač sa bundevom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5281" src="/wp-content/uploads/2013/02/Pirinač-sa-bundevom-1024x768.jpg" alt="Pirinač sa bundevom" width="300" height="225" /> 
 
 **Priprema**: bundevu oljuštiti, oprati i iseći na kockice. Pirinač oprati, skuvati u posoljenoj vodi i ocediti.
 

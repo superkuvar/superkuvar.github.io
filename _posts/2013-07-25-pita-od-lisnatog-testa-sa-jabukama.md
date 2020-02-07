@@ -36,7 +36,7 @@ tags:
   * žumance
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5934" src="/wp-content/uploads/2013/07/Pitasajabukamaodlisnatogtesta-300x225.jpg" alt="Pitasajabukamaodlisnatogtesta" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5934" src="/wp-content/uploads/2013/07/Pitasajabukamaodlisnatogtesta-1024x768.jpg" alt="Pitasajabukamaodlisnatogtesta" width="300" height="225" /> 
 
 **Priprema**: jabuke oprati, oljuštiti, narendati na krupno rende i prodinstati na margarinu sa malo šećera i sokom od limuna. U prohlađene jabuke dodati suvo grožđe, cimet, mleveni keks i pola kašičice đumbira u prahu.
 

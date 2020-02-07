@@ -40,7 +40,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5616" src="/wp-content/uploads/2013/04/Prolećna-čorba-300x225.jpg" alt="Prolećna čorba" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5616" src="/wp-content/uploads/2013/04/Prolećna-čorba-1024x768.jpg" alt="Prolećna čorba" width="300" height="225" /> 
 
 **Priprema**: korenasto povrće oprati, očistiti i isitniti na kockice, a spanać na rezance.
 

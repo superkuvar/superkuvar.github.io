@@ -26,7 +26,7 @@ tags:
   * celerov list
   * koren rena ili šargarepe
 
-<img class="alignnone size-medium wp-image-4293" title="Zeleni paradajz" src="/wp-content/uploads/2012/09/Zeleni-paradajz-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4293" title="Zeleni paradajz" src="/wp-content/uploads/2012/09/Zeleni-paradajz-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: sitniji zeleni paradajz očistiti od peteljki, dobro oprati i preliti ključalom vodom. Posle pet minuta prosuti vrelu vodu i paradajz preliti hladnom vodom, a zatim staviti u cediljku ili đevđir da se ocedi. Oceđen paradajz ređati u tegle, dodajući zrna bibera i celerov list.
 

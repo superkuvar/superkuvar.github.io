@@ -34,7 +34,7 @@ tags:
   * ulje
   * 1 kašičica skroba
 
-<img class="alignnone size-medium wp-image-5947" src="/wp-content/uploads/2013/07/Francuski-kupus-6-300x225.jpg" alt="Francuski kupus (6)" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5947" src="/wp-content/uploads/2013/07/Francuski-kupus-6-1024x768.jpg" alt="Francuski kupus (6)" width="300" height="225" /> 
 
 **Priprema**: meso iseći na kockice, a crni luk na rebarca. Luk kratko propržiti,  posoliti, pobiberiti, dodati crvenu mlevenu papriku, kim i lovorov list. Izmešati, sjediniti sa mesom, naliti sa malo tople vode i dinstati oko 20 minuta.
 

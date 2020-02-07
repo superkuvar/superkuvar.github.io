@@ -25,7 +25,7 @@ tags:
   * soli po ukusu
   * kesica konzervansa
 
-<img class="alignnone size-medium wp-image-4166" title="Ajvarodpaprikaiparadajza" src="/wp-content/uploads/2011/09/Ajvarodpaprikaiparadajza-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4166" title="Ajvarodpaprikaiparadajza" src="/wp-content/uploads/2011/09/Ajvarodpaprikaiparadajza-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: paradajz i paprike oprati, ispeći i staviti preko noći u đevđir da se ocede. Sutradan ih očistiti i sitno iseckati.
 

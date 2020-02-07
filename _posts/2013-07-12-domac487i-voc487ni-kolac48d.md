@@ -37,7 +37,7 @@ Fil
   * 1 kesica vanilin šećera
   * 250 g jagoda
 
-<img class="alignnone size-medium wp-image-5879" src="/wp-content/uploads/2013/07/Domacivocnikolac-300x225.jpg" alt="Domacivocnikolac" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5879" src="/wp-content/uploads/2013/07/Domacivocnikolac-1024x768.jpg" alt="Domacivocnikolac" width="300" height="225" /> 
 
 **Priprema**: penasto umutiti margarin sa šećerom i žumancetom. Dodati mleko i brašno pomešano sa praškom za pecivo. Testo izmešati i sipati u pleh prekriven papirom za pečenje. Staviti u pećnicu zagrejanu na 180 stepeni.
 

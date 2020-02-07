@@ -33,7 +33,7 @@ tags:
   * 5 dl mleka
   * ulje
 
-<img class="alignnone size-medium wp-image-4639" title="Musakaodmlevenogmesaipirinča" src="/wp-content/uploads/2011/06/Musakaodmlevenogmesaipirinča-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4639" title="Musakaodmlevenogmesaipirinča" src="/wp-content/uploads/2011/06/Musakaodmlevenogmesaipirinča-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti i iseckati, pa ga propržiti na ulju. Kada luk postane staklast, dodati mleveno meso i dinstati dok tečnost ne ispari. U meso dodati prokuvan i oceđen pirinač, posoliti i pobiberiti, pa lagano izmešati.
 

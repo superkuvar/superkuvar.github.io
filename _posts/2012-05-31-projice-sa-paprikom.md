@@ -32,7 +32,7 @@ tags:
   * komad belog starijeg sira (oko 150 grama)
   * 2 crvene paprike (pečene)
 
-<img class="alignnone size-medium wp-image-3312" title="Projice sa paprikom" src="/wp-content/uploads/2012/05/Projice-sa-paprikom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3312" title="Projice sa paprikom" src="/wp-content/uploads/2012/05/Projice-sa-paprikom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudu za mešenje staviti jaja, malo ih umutiti viljuškom, pa dodati ulje i jogurt. Pomešati brašno (kukuruzno, pšenično i kukuruzni griz) sa praškom za pecivo i lagano ga sipati u prethodnu masu. Dodati čašu mineralne vode, da se zamesi malo ređe testo, a zatim dodati izmrvljen sir i sitno iseckanu papriku. Testo dobro izmešati varjačom. Ovo je količina testa za dvanaest projica.
 

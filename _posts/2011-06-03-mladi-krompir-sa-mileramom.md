@@ -29,7 +29,7 @@ tags:
   * suvi biljni začin
   * ulje
 
-<img class="alignnone size-medium wp-image-3300" title="Mladi krompir sa mileramom" src="/wp-content/uploads/2011/06/Mladi-krompir-sa-mileramom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3300" title="Mladi krompir sa mileramom" src="/wp-content/uploads/2011/06/Mladi-krompir-sa-mileramom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: mladi krompir oprati, oljuštiti, iseći na četvrtine i staviti u ključalu posoljenu vodu. Kada je krompir kuvan ocediti ga.
 

@@ -30,7 +30,7 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-5962" src="/wp-content/uploads/2013/08/Varivosagraskomisargarepom-300x225.jpg" alt="Varivosagraskomisargarepom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5962" src="/wp-content/uploads/2013/08/Varivosagraskomisargarepom-1024x768.jpg" alt="Varivosagraskomisargarepom" width="300" height="225" /> 
 
 **Priprema**: šargarepu i crni luk očistiti, oprati i iseći na kockice. Na malo ulja propržiti luk, dodati šargarepu i uz dolivanje po malo tople vode pirjaniti dok šargarepa ne omekša. Posoliti i dodati suvi biljni začin i kurkumu po ukusu.
 

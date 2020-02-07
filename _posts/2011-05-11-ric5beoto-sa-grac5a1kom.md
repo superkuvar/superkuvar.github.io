@@ -32,7 +32,7 @@ tags:
   * 50 grama slanine
   * parmezan ili rendani kačkavalj (nije obavezno)
 
-<img class="alignnone size-medium wp-image-5627" src="/wp-content/uploads/2011/05/Rizoto-sa-graskom-300x225.jpg" alt="Rizoto sa graskom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5627" src="/wp-content/uploads/2011/05/Rizoto-sa-graskom-1024x768.jpg" alt="Rizoto sa graskom" width="300" height="225" /> 
 
 **Priprema**: na ulju propržiti glavicu crnog luka, a zatim dodati opran pirinač. Čim pirinač upije masnoću naliti ga toplom vodom, ali ne mnogo. Pirinač posoliti i dinstati na tihoj vatri, uz često mešanje i dolivanje tople vode po potrebi.
 

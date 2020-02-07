@@ -27,7 +27,7 @@ tags:
   * vezica mirođije
   * list lovora (po želji)
 
-<img class="alignnone size-medium wp-image-4303" title="Kornisoni" src="/wp-content/uploads/2011/09/Kornisoni-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4303" title="Kornisoni" src="/wp-content/uploads/2011/09/Kornisoni-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u šerpu sipati tri i po litra vode, dodati sirće, so i šećer i staviti da provri. Pri kraju dodati kesicu vinobrana.
 

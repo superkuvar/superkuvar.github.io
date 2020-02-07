@@ -31,7 +31,7 @@ tags:
   * origano
   * ulje
 
-[<img class="alignnone size-medium wp-image-6230" src="/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem-300x225.jpg" alt="Musakaodtikvicasakackavaljem" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem.jpg)
+[<img class="alignnone size-medium wp-image-6230" src="/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem-1024x768.jpg" alt="Musakaodtikvicasakackavaljem" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem.jpg)
 
 **Priprema**: tikvice oljuštiti, oprati, iseći na režnjeve, kratko obariti u posoljenoj vodi, a zatim ocediti. Kada se tikvice ohlade, uvaljati ih u brašno.
 

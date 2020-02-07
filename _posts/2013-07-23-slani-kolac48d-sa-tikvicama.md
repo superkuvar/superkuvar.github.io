@@ -34,7 +34,7 @@ tags:
   * kesica praška za pecivo
   * bosiljak ili origano
 
-<img class="alignnone size-medium wp-image-5925" src="/wp-content/uploads/2013/07/Slanikolacsatikvicama-300x225.jpg" alt="Slanikolacsatikvicama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5925" src="/wp-content/uploads/2013/07/Slanikolacsatikvicama-1024x768.jpg" alt="Slanikolacsatikvicama" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, narendati na krupno rende i malo posoliti. Ostaviti da odstoje desetak minuta, a zatim ocediti rukama.
 

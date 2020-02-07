@@ -39,7 +39,7 @@ tags:
   * kašika brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-4775" title="Dinstanomesosapovrcem" src="/wp-content/uploads/2011/06/Dinstanomesosapovrcem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4775" title="Dinstanomesosapovrcem" src="/wp-content/uploads/2011/06/Dinstanomesosapovrcem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: meso iseći na kockice, luk na listiće, papriku na manje komade, šargarepu i paradajz, prethodno oljušten, na kocke.
 

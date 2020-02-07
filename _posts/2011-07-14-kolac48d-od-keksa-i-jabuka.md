@@ -30,7 +30,7 @@ tags:
   * 2 kesice pudinga od vanile
   * 2 kesice šlaga
 
-<img class="alignnone size-medium wp-image-5349" src="/wp-content/uploads/2011/07/Kolačodkeksaijabuka-300x225.jpg" alt="Kolačodkeksaijabuka" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5349" src="/wp-content/uploads/2011/07/Kolačodkeksaijabuka-1024x768.jpg" alt="Kolačodkeksaijabuka" width="300" height="225" /> 
 
 **Priprema**: u sud sa vodom staviti jabuke, prethodno oprane, oljuštene i isečene na kocke i dodati šećer. Kada se jabuke skuvaju, procediti ih i propasirati.
 

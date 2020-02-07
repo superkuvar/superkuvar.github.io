@@ -33,7 +33,7 @@ tags:
   * muskatni oraščić
   * ulje
 
-<img class="alignnone size-medium wp-image-5538" src="/wp-content/uploads/2013/03/Slana-pita-sa-bundevom-300x225.jpg" alt="Slana pita sa bundevom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5538" src="/wp-content/uploads/2013/03/Slana-pita-sa-bundevom-1024x768.jpg" alt="Slana pita sa bundevom" width="300" height="225" /> 
 
 **Priprema**: bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
 

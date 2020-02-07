@@ -23,7 +23,7 @@ tags:
 * peršunov list  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9766" src="/wp-content/uploads/2015/10/kajganasatikvicama-300x225.jpg" alt="kajganasatikvicama" width="300" height="225" />](/wp-content/uploads/2015/10/kajganasatikvicama-e1443871098358.jpg)
+[<img class="alignnone size-medium wp-image-9766" src="/wp-content/uploads/2015/10/kajganasatikvicama-1024x768.jpg" alt="kajganasatikvicama" width="300" height="225" />](/wp-content/uploads/2015/10/kajganasatikvicama-e1443871098358.jpg)
 
 **Priprema**: tikvice dobro oprati i neoljuštene iseći na što tanje kolutove. Pržiti na vrelom ulju dok tikvice ne omekšaju.
 

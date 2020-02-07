@@ -30,7 +30,7 @@ tags:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-4532" title="Karfiolutestu" src="/wp-content/uploads/2012/10/Karfiolutestu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4532" title="Karfiolutestu" src="/wp-content/uploads/2012/10/Karfiolutestu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: karfiol očistiti, oprati, razdvojiti na cvetiće (ali ne previše sitne) i obariti u slanoj vodi. Obaren karfiol ocediti od vode u kojoj se kuvao.
 

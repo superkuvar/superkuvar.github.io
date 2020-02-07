@@ -28,7 +28,7 @@ tags:
   * cimet
   * vanilin šećer
 
-[<img class="alignnone size-medium wp-image-9162" src="/wp-content/uploads/2014/05/Pitasabundevom-300x225.jpg" alt="Pitasabundevom" width="300" height="225" />](/wp-content/uploads/2014/05/Pitasabundevom.jpg)
+[<img class="alignnone size-medium wp-image-9162" src="/wp-content/uploads/2014/05/Pitasabundevom-1024x768.jpg" alt="Pitasabundevom" width="300" height="225" />](/wp-content/uploads/2014/05/Pitasabundevom.jpg)
 
 **Priprema**: bundevu očistiti, istrugati na trenici a zatim kratko propržiti na ulju, sa malo mleka. Kada bundeva omekša, dodati šećer po ukusu i cimet. Kada se ohladi, umešati umućena žumaca i sneg od belanaca.
 

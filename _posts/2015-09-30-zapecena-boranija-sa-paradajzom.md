@@ -28,7 +28,7 @@ tags:
 * čaša kisele pavlake  
 * 2 jajeta
 
-[<img class="alignnone size-medium wp-image-9760" src="/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-300x225.jpg" alt="zapecenaboranijasaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-e1443702436715.jpg)
+[<img class="alignnone size-medium wp-image-9760" src="/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-1024x768.jpg" alt="zapecenaboranijasaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-e1443702436715.jpg)
 
 **Priprema**: boraniju očistiti, iseći na manje komade, oprati i obariti u posoljenoj vodi. Kada je boranija kuvana ocediti je.
 

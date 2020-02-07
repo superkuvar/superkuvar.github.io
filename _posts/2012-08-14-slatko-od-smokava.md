@@ -23,7 +23,7 @@ tags:
   * 2 limuna
   * šipka vanile
 
-<img class="alignnone size-medium wp-image-3977" title="Slatko od smokava" src="/wp-content/uploads/2012/08/Slatko-od-smokava-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3977" title="Slatko od smokava" src="/wp-content/uploads/2012/08/Slatko-od-smokava-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: sveže i čvrste smokve oprati i što tanje oljuštiti oštrim nožem. Probosti ih iglom za pletenje, staviti u veću šerpu, preliti hladnom vodom i na štednjaku kuvati do vrenja. Za vreme kuvanja promeniti vodu tri-četiri puta, ali ne dozvoliti da smokve mnogo vriju. Nakon toga smokve pažljivo izručiti u cediljku i ostaviti da se ocede.
 

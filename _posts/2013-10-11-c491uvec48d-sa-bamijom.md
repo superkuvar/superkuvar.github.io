@@ -41,7 +41,7 @@ tags:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-6168" src="/wp-content/uploads/2013/10/Djuvecsabamijom-300x225.jpg" alt="Djuvecsabamijom" width="300" height="225" />](/wp-content/uploads/2013/10/Djuvecsabamijom.jpg)
+[<img class="alignnone size-medium wp-image-6168" src="/wp-content/uploads/2013/10/Djuvecsabamijom-1024x768.jpg" alt="Djuvecsabamijom" width="300" height="225" />](/wp-content/uploads/2013/10/Djuvecsabamijom.jpg)
 
 **Priprema**: bamije oprati, očistiti od peteljki i kuvati 5 minuta u ključaloj vodi u koju je dodato sirće. Zatim ih ocediti. Ukoliko su bamije veće, pre kuvanja ih preseći na pola.
 

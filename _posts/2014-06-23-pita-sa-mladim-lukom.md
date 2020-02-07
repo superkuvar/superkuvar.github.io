@@ -25,7 +25,7 @@ tags:
   * 3 jajeta
   * ulje
 
-[<img class="alignnone size-medium wp-image-9192" src="/wp-content/uploads/2014/06/pitasamladimlukom-300x225.jpg" alt="pitasamladimlukom" width="300" height="225" />](/wp-content/uploads/2014/06/pitasamladimlukom-e1403527121209.jpg)
+[<img class="alignnone size-medium wp-image-9192" src="/wp-content/uploads/2014/06/pitasamladimlukom-1024x768.jpg" alt="pitasamladimlukom" width="300" height="225" />](/wp-content/uploads/2014/06/pitasamladimlukom-e1403527121209.jpg)
 
 **Priprema**: mladi crni luk očistiti, oprati i zajedno sa perima sitno iseći i propržiti na malo ulja. Kada luk omekša dodati so i biber po ukusu. U prohlađen luk dodati jaja, prethodno umućena viljuškom. Lagano izmešati.
 

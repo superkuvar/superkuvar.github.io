@@ -31,7 +31,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5194" src="/wp-content/uploads/2013/01/Bečka-šnicla-300x225.jpg" alt="Bečka šnicla" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5194" src="/wp-content/uploads/2013/01/Bečka-šnicla-1024x768.jpg" alt="Bečka šnicla" width="300" height="225" /> 
 
 **Priprema**: meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
 

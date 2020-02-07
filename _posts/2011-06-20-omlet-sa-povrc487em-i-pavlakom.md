@@ -35,7 +35,7 @@ tags:
   * biber
   * so
 
-<img class="alignnone size-medium wp-image-4440" title="Omlet sa povrcem" src="/wp-content/uploads/2011/06/Omlet-sa-povrcem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4440" title="Omlet sa povrcem" src="/wp-content/uploads/2011/06/Omlet-sa-povrcem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: glavicu crnog luka očistiti, iseckati na rebarca i propržiti na malo ulja. Kad luk postane staklast, dodati papriku isečenu na komadiće i oljušten i na komade isečen paradajz. Dinstati na tihoj vatri da povrće omekša i uvri sok koji je pustilo. Dodati so, biber i malo seckanog peršunovog lista.
 

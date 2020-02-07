@@ -29,7 +29,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-5458" src="/wp-content/uploads/2013/03/Pita-sa-prazilukom-300x225.jpg" alt="Pita sa prazilukom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5458" src="/wp-content/uploads/2013/03/Pita-sa-prazilukom-1024x768.jpg" alt="Pita sa prazilukom" width="300" height="225" /> 
 
 **Priprema**: praziluk oprati i očistiti, a zatim iseći na kolutove i pržiti na ulju. Kada praziluk omekša začiniti ga solju i biberom po ukusu.
 

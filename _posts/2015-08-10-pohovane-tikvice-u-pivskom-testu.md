@@ -25,7 +25,7 @@ tags:
 * so  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9702" src="/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-300x225.jpg" alt="pohovanetikviceupivskomtestu" width="300" height="225" />](/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-e1439205342274.jpg)
+[<img class="alignnone size-medium wp-image-9702" src="/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-1024x768.jpg" alt="pohovanetikviceupivskomtestu" width="300" height="225" />](/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-e1439205342274.jpg)
 
 **Priprema**: tikvice oprati, oljuštiti i iseći na režnjeve, posoliti i ostaviti da odstoje oko petnaest minuta. Nakon toga tikvice ocediti od vode koju su pustile.
 

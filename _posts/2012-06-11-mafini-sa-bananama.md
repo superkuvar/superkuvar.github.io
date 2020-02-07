@@ -46,7 +46,7 @@ Za preliv:
   * 2 kašike ulja
   * čokoladne mrvice
 
-<img class="alignnone size-medium wp-image-3432" title="Mafini sa bananama" src="/wp-content/uploads/2012/06/Mafini-sa-bananama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3432" title="Mafini sa bananama" src="/wp-content/uploads/2012/06/Mafini-sa-bananama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti jaja sa šećerom i vanilin šećerom, pa dodati ulje, jogurt i rum. Brašno pomešati sa praškom za pecivo, solju, sodom bikarbonom i kakao prahom, pa sipati u smesu sa jajima. Dodati banane, prethodno ispasirane viljuškom. Izmešati varjačom.
 

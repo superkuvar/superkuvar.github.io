@@ -26,7 +26,7 @@ tags:
   * 1 kilogram šećera
   * 1 limun
 
-<img class="alignnone size-medium wp-image-4628" title="Slatko od dunja" src="/wp-content/uploads/2012/11/Slatko-od-dunja1-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4628" title="Slatko od dunja" src="/wp-content/uploads/2012/11/Slatko-od-dunja1-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: zdrave i neoštećene dunje oprati, posušiti, očistiti od semene lože, oljuštiti i istrugati na krupnoj trenici.
 

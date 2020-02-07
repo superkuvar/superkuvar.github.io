@@ -27,7 +27,7 @@ tags:
   * pola kašičice kari začina
   * 1 kašika gustina (skroba)
 
-[<img class="alignnone size-medium wp-image-9342" src="/wp-content/uploads/2012/02/belomesousosuodpecuraka-300x225.jpg" alt="belomesousosuodpecuraka" width="300" height="225" />](/wp-content/uploads/2012/02/belomesousosuodpecuraka.jpg)
+[<img class="alignnone size-medium wp-image-9342" src="/wp-content/uploads/2012/02/belomesousosuodpecuraka-1024x768.jpg" alt="belomesousosuodpecuraka" width="300" height="225" />](/wp-content/uploads/2012/02/belomesousosuodpecuraka.jpg)
 
 **Priprema**: belo meso iseći na kockice. Pečurke oprati i iseći na listiće. Staviti u tiganj margarin ili ulje, zagrejati ga i dodati meso i pečurke. Dinstati na umerenoj temperaturi. Ukoliko je potrebno, dolivati po malo tople vode.
 

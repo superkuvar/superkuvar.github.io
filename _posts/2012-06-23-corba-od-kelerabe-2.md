@@ -26,7 +26,7 @@ tags:
   * biber
   * peršunov list
 
-<img class="alignnone size-medium wp-image-3595" title="Čorbaodkelerabe" src="/wp-content/uploads/2012/06/%C4%8Corbaodkelerabe-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3595" title="Čorbaodkelerabe" src="/wp-content/uploads/2012/06/%C4%8Corbaodkelerabe-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
 

@@ -35,7 +35,7 @@ tags:
   * sok od limuna
   * so
 
-<img class="alignnone size-medium wp-image-5768" src="/wp-content/uploads/2012/02/Mesanasarenasalata-300x225.jpg" alt="Mesanasarenasalata" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5768" src="/wp-content/uploads/2012/02/Mesanasarenasalata-1024x768.jpg" alt="Mesanasarenasalata" width="300" height="225" /> 
 
 **Priprema**: povrće oprati i očistiti. šargarepu i celer sitno izrendati, praziluk iseći na kolutove, a zelenu salatu na rezance.
 

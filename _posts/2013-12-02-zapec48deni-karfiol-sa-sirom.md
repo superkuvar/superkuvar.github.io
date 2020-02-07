@@ -30,7 +30,7 @@ tags:
   * prezle
   * ulje ili margarin
 
-[<img class="alignnone size-medium wp-image-6302" src="/wp-content/uploads/2013/11/Zapecenikarfiolsasirom-300x225.jpg" alt="Zapecenikarfiolsasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Zapecenikarfiolsasirom.jpg)
+[<img class="alignnone size-medium wp-image-6302" src="/wp-content/uploads/2013/11/Zapecenikarfiolsasirom-1024x768.jpg" alt="Zapecenikarfiolsasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Zapecenikarfiolsasirom.jpg)
 
 **Priprema**: karfiol očistiti, oprati, izdeliti na krupnije cvetove i skuvati u posoljenoj vodi u koju je dodat i šećer. Obaren karfiol ocediti od vode i izgnječiti viljuškom.
 

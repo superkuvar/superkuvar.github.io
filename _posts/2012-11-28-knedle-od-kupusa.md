@@ -33,7 +33,7 @@ tags:
   * ulje
   * 100 grama kačkavalja
 
-<img class="alignnone size-medium wp-image-4830" title="Knedleodkupusa" src="/wp-content/uploads/2012/11/Knedleodkupusa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4830" title="Knedleodkupusa" src="/wp-content/uploads/2012/11/Knedleodkupusa-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kupus očistiti, oprati i iseći na sitne rezance ili istrugati sitno na trenici.
 

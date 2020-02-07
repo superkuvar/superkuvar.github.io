@@ -32,7 +32,7 @@ tags:
   * margarin
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-6274" src="/wp-content/uploads/2013/11/Patlidzanpunjensirom-300x225.jpg" alt="Patlidzanpunjensirom" width="300" height="225" />](/wp-content/uploads/2013/11/Patlidzanpunjensirom.jpg)
+[<img class="alignnone size-medium wp-image-6274" src="/wp-content/uploads/2013/11/Patlidzanpunjensirom-1024x768.jpg" alt="Patlidzanpunjensirom" width="300" height="225" />](/wp-content/uploads/2013/11/Patlidzanpunjensirom.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti i obariti u osoljenoj vodi. Kada patlidžan bude dovoljno mekan preručiti ga u cediljku da se ocedi i ohladi. Svaki raseći po dužini na pola i kašičicom izdubiti sredinu.
 

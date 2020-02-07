@@ -33,7 +33,7 @@ tags:
   * 400 grama višanja (svežih ili iz zamrzivača)
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5123" src="/wp-content/uploads/2011/07/Kolač-s-višnjama-300x225.jpg" alt="Kolač s višnjama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5123" src="/wp-content/uploads/2011/07/Kolač-s-višnjama-1024x768.jpg" alt="Kolač s višnjama" width="300" height="225" /> 
 
 **Priprema**: mikserom umutiti jaja sa šećerom, kao za patišpanj. Kada su jaja dobro umućena dodati ulje, mleko, narendanu koru od dobro opranog limuna i brašno pomešano sa praškom za pecivo. Lagano promešati varjačom.
 

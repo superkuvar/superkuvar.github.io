@@ -32,7 +32,7 @@ tags:
   * 2 jajeta
   * ulje
 
-<img class="alignnone size-medium wp-image-3670" title="Tikviceumileramu" src="/wp-content/uploads/2012/07/Tikviceumileramu-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3670" title="Tikviceumileramu" src="/wp-content/uploads/2012/07/Tikviceumileramu-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da odstoje petnaest-dvadeset minuta. Nakon toga tikvice ocediti od vode koju su pustile. Svaki režanj tikvica uvaljati u brašno, pa u razmućena jaja i pržiti na zagrejanom ulju, da porumene sa obe strane.
 

@@ -32,7 +32,7 @@ tags:
   * bosiljak
   * ulje
 
-[<img class="alignnone size-medium wp-image-6048" src="/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-300x225.jpg" alt="Corba od tikvica i paradajza" width="300" height="225" />](/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-e1376924208361.jpg)
+[<img class="alignnone size-medium wp-image-6048" src="/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-1024x768.jpg" alt="Corba od tikvica i paradajza" width="300" height="225" />](/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-e1376924208361.jpg)
 
 **Priprema**: na malo ulja propržiti sitno seckani crni luk, a zatim dodati oljušten i sitno iseckan paradajz, pa pržiti nekoliko minuta. Dodati oljuštene tikvice, isitnjene na manje kocke. Naliti sa litar do litar i po vode i staviti da se kuva.
 

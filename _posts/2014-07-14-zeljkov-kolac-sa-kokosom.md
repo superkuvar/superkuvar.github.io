@@ -44,7 +44,7 @@ Glazura
   * komadić margarina ili kašika ulja
   * 2 kašike mleka
 
-[<img class="alignnone size-medium wp-image-9221" src="/wp-content/uploads/2014/07/Zeljkovkolacsakokosom-300x225.jpg" alt="Zeljkovkolacsakokosom" width="300" height="225" />](/wp-content/uploads/2014/07/Zeljkovkolacsakokosom.jpg)
+[<img class="alignnone size-medium wp-image-9221" src="/wp-content/uploads/2014/07/Zeljkovkolacsakokosom-1024x768.jpg" alt="Zeljkovkolacsakokosom" width="300" height="225" />](/wp-content/uploads/2014/07/Zeljkovkolacsakokosom.jpg)
 
 **Priprema**: u malo hladnog mleka razmutiti brašno, da nema grudvica. Ostatak mleka, u koje je dodat šećer, staviti da se kuva. Kada mleko provri skloniti ga sa vatre, sipati razmućeno brašno, vratiti na štednjak i kuvati dva-tri minuta na tihoj vatri, da se zgusne. U gotov krem dodati kokosovo brašno i izmešati.
 

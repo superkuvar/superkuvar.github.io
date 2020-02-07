@@ -34,7 +34,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5261" src="/wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-300x225.jpg" alt="Mamino jelo sa patlidzanom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5261" src="/wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-1024x768.jpg" alt="Mamino jelo sa patlidzanom" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
 

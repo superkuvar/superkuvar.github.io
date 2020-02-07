@@ -29,7 +29,7 @@ tags:
   * cimet
   * prezle
 
-<img class="alignnone size-medium wp-image-3788" title="Slatkapitasatikvicama" src="/wp-content/uploads/2012/07/Slatkapitasatikvicama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3788" title="Slatkapitasatikvicama" src="/wp-content/uploads/2012/07/Slatkapitasatikvicama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: po tri kore ređati jednu preko druge, svaku poprskati uljem i posuti sa malo prezli. Treću koru posuti mlevenim orasima, oljuštenim narendanim tikvicama i suvim grožđem. Suvo grožđe prethodno oprati i na kratko potopiti u vodu, a zatim ocediti. Preko tikvica staviti malo cimeta i šećera po ukusu, pa kore uviti u rolnu, kao štrudlu i staviti u podmazan pleh. Na isti način postupiti sa ostatkom kora i nadeva.
 

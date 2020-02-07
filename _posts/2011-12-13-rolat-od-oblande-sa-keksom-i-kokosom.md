@@ -35,7 +35,7 @@ tags:
   * 2 kašike kakaoa
   * 100 grama žele bombona
 
-<img class="alignnone size-medium wp-image-4582" title="Rolat od oblande sa keksom i kokosom" src="/wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4582" title="Rolat od oblande sa keksom i kokosom" src="/wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 Prvo pripremiti oba fila, tamni i beli.
 

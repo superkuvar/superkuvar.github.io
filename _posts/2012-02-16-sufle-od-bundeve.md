@@ -28,7 +28,7 @@ tags:
   * ulje ili margarin
   * prezle
 
-<img class="alignnone size-medium wp-image-2491" title="Sufle od bundeve" src="/wp-content/uploads/2012/02/Sufle-od-bundeve-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2491" title="Sufle od bundeve" src="/wp-content/uploads/2012/02/Sufle-od-bundeve-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: bundevu oljuštiti, iseći na komade i staviti da se kuva u manjoj količini vode. Kada bundeva omekša, ocediti je i propasirati ili izgnječiti viljuškom. U dobijeni pire dodati žumanca, so, muskatni oraščić, malo bibera i rendani kačkavalj. U pire umešati čvrst sneg od belanaca i lagano izmešati.
 

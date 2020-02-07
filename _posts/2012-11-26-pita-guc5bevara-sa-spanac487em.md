@@ -37,7 +37,7 @@ tags:
   * malo slatkog mleka
   * ulje
 
-<img class="alignnone size-medium wp-image-4815" title="Pitaguzvarasaspanacem" src="/wp-content/uploads/2012/11/Pitaguzvarasaspanacem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4815" title="Pitaguzvarasaspanacem" src="/wp-content/uploads/2012/11/Pitaguzvarasaspanacem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: spanać očistiti, oprati, iseći na rezance, malo posoliti i ostaviti da odstoji desetak minuta. Nakon toga spanać blago izgnječiti rukama i ocediti od soka koji je pustio.
 

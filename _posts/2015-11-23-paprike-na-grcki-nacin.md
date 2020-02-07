@@ -21,7 +21,7 @@ tags:
 * ulje  
 * so
 
-[<img class="alignnone size-medium wp-image-10525" src="/wp-content/uploads/2015/11/paprikenagrckinacin-300x225.jpg" alt="paprikenagrckinacin" width="300" height="225" />](/wp-content/uploads/2015/11/paprikenagrckinacin-e1448262791370.jpg)
+[<img class="alignnone size-medium wp-image-10525" src="/wp-content/uploads/2015/11/paprikenagrckinacin-1024x768.jpg" alt="paprikenagrckinacin" width="300" height="225" />](/wp-content/uploads/2015/11/paprikenagrckinacin-e1448262791370.jpg)
 
 **Priprema**: očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
 

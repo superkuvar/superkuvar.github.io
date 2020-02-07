@@ -32,7 +32,7 @@ tags:
   * ulje
   * 100 grama kačkavalja
 
-<img class="alignnone size-medium wp-image-4313" title="Punjeni plavi patlidzan" src="/wp-content/uploads/2012/09/Punjeni-plavi-patlidzan-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4313" title="Punjeni plavi patlidzan" src="/wp-content/uploads/2012/09/Punjeni-plavi-patlidzan-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oprati, neoljušten prepoloviti po dužini, kašičicom izdubiti sredinu, a zatim kratko izblanširati u slanoj vodi i ocediti.
 

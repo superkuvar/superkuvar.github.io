@@ -37,7 +37,7 @@ Fil
   * 125 g maslaca
   * 125 g margarina
 
-<img class="alignnone size-medium wp-image-5669" src="/wp-content/uploads/2013/05/Zuta-reform-torta-300x225.jpg" alt="Zuta reform torta" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5669" src="/wp-content/uploads/2013/05/Zuta-reform-torta-1024x768.jpg" alt="Zuta reform torta" width="300" height="225" /> 
 
 **Priprema**: ulupati belanca sa šećerom u čvrst sneg, a zatim lagano umešati mlevene orahe ili lešnike i griz. Od testa ispeći 4 okrugle ili četvrtaste kore, na poleđini pleha prekrivenog papirom za pečenje. Kore peći 15-20 minuta u pećnici zagrejanoj na 180 stepeni.
 

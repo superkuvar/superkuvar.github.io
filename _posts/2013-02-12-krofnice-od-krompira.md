@@ -32,7 +32,7 @@ tags:
   * muskatni oraščić
   * ulje
 
-<img class="alignnone size-medium wp-image-5252" src="/wp-content/uploads/2013/02/Krofnice-od-krompira-300x225.jpg" alt="Krofnice od krompira" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5252" src="/wp-content/uploads/2013/02/Krofnice-od-krompira-1024x768.jpg" alt="Krofnice od krompira" width="300" height="225" /> 
 
 **Priprema**: opran, neoljušten krompir skuvati u posoljenoj vodi. Kada se krompir malo ohladi, oljuštiti ga i propasirati.
 

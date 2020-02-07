@@ -30,7 +30,7 @@ tags:
 * 2 kašike brašna  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9573" src="/wp-content/uploads/2015/03/pasuljsakoprivom-300x225.jpg" alt="pasuljsakoprivom" width="300" height="225" />](/wp-content/uploads/2015/03/pasuljsakoprivom-e1430746126811.jpg)
+[<img class="alignnone size-medium wp-image-9573" src="/wp-content/uploads/2015/03/pasuljsakoprivom-1024x768.jpg" alt="pasuljsakoprivom" width="300" height="225" />](/wp-content/uploads/2015/03/pasuljsakoprivom-e1430746126811.jpg)
 
 **Priprema**: pasulj oprati i preko noći ostaviti potopljen u vodi. Ujutru ga ocediti, naliti hladnom vodom i staviti da se kuva. Kada pasulj proključa ocediti vodu, naliti drugu i nastaviti sa kuvanjem.
 

@@ -34,7 +34,7 @@ tags:
   * čaša kisele pavlake
   * malo seckane mirođije
 
-![brza čorba od tikvica](/wp-content/uploads/2011/03/Brza-corba-od-tikvica-300x225.jpg)
+![brza čorba od tikvica](/wp-content/uploads/2011/03/Brza-corba-od-tikvica-1024x768.jpg)
 
 **Priprema**: na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po vode.
 

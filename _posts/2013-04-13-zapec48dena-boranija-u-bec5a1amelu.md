@@ -38,7 +38,7 @@ tags:
   * 4 dl mleka
   * 3 kašike milerama ili kisele pavlake
 
-<img class="alignnone size-medium wp-image-5585" src="/wp-content/uploads/2013/04/Zapecenaboranijaubesamelu-300x225.jpg" alt="Zapecenaboranijaubesamelu" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5585" src="/wp-content/uploads/2013/04/Zapecenaboranijaubesamelu-1024x768.jpg" alt="Zapecenaboranijaubesamelu" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, isitniti i propržiti na  ulju, da postane staklast. U propržen luk dodati boraniju, sipati malo tople vode i dinstati dvadesetak minuta. Posoliti, dodati suvi biljni začin i majčinu dušicu.
 

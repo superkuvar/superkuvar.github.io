@@ -20,7 +20,7 @@ tags:
   * 2 kilograma vinogradarskih breskvi
   * 1 kilogram šećera
 
-<img class="alignnone size-medium wp-image-4126" title="Dzem od vinogradarskih breskvi" src="/wp-content/uploads/2012/08/Dzem-od-vinogradarskih-breskvi-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4126" title="Dzem od vinogradarskih breskvi" src="/wp-content/uploads/2012/08/Dzem-od-vinogradarskih-breskvi-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: odabrati zdrave, zrele breskve, oprati ih, oljuštiti i skloniti koštice. Breskve iseći na komade, poređati u dublju šerpu i posuti šećerom. Ostaviti ih da tako odstoje tri-četiri sata, a zatim kuvati na jakoj vatri uz neprestano mešanje, da džem ne zagori.
 

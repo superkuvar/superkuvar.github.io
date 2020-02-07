@@ -28,7 +28,7 @@ tags:
   * ulje
   * margarin
 
-<img class="alignnone size-medium wp-image-2600" title="Pilav sa pečurkama" src="/wp-content/uploads/2012/02/Pilav-sa-pečurkama-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2600" title="Pilav sa pečurkama" src="/wp-content/uploads/2012/02/Pilav-sa-pečurkama-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: praziluk oprati i sitno iseckati, pa ga propržiti na malo ulja. Dodati opran pirinač, naliti toplom vodom, da ogrezne, i dinstati dok pirinač ne bude polukuvan. Začiniti solju i suvim biljnim začinom.
 

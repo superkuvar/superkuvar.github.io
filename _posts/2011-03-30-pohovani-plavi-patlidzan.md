@@ -26,7 +26,7 @@ tags:
   * so
   * ulje za prženje
 
-[<img class="alignnone size-medium wp-image-6024" src="/wp-content/uploads/2011/03/Pohovaniplavipatlidzan2-300x225.jpg" alt="Pohovaniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2011/03/Pohovaniplavipatlidzan2.jpg)
+[<img class="alignnone size-medium wp-image-6024" src="/wp-content/uploads/2011/03/Pohovaniplavipatlidzan2-1024x768.jpg" alt="Pohovaniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2011/03/Pohovaniplavipatlidzan2.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći na režnjeve ili kolutove debljine oko pola santimetra, posoliti i ostaviti da stoji 20 minuta. Nakon toga patlidžan ocediti od soka koji je pustio, blago pritiskajući između dlanova svaki režanj.
 

@@ -30,7 +30,7 @@ tags:
   * kesica cimeta (po želji)
   * 2 kesice šlaga
 
-<img class="alignnone size-medium wp-image-5446" src="/wp-content/uploads/2011/12/Nepeceni-kolac-od-keksa-i-jabuka-300x225.jpg" alt="Nepeceni kolac od keksa i jabuka" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5446" src="/wp-content/uploads/2011/12/Nepeceni-kolac-od-keksa-i-jabuka-1024x768.jpg" alt="Nepeceni kolac od keksa i jabuka" width="300" height="225" /> 
 
 **Priprema**: jabuke oprati, oljuštiti i iseći na komadiće. Staviti ih u šerpu, dodati šećer, preliti litrom vode i kuvati dok ne omekšaju.
 

@@ -34,7 +34,7 @@ tags:
   * malo brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-4528" title="Uštipciodkarfiola" src="/wp-content/uploads/2012/10/Uštipciodkarfiola-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4528" title="Uštipciodkarfiola" src="/wp-content/uploads/2012/10/Uštipciodkarfiola-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: karfiol oprati, očistiti, odvojiti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti od vode i kada se prohladi izgnječiti viljuškom.
 

@@ -30,7 +30,7 @@ tags:
   * rum
   * 3 kesice šlag krema sa ukusom slatke pavlake
 
-<img class="alignnone size-medium wp-image-2449" title="Jastuk torta" src="/wp-content/uploads/2012/02/Jastuk-torta-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2449" title="Jastuk torta" src="/wp-content/uploads/2012/02/Jastuk-torta-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti čvrst sneg od 6 belanaca, dodati 6 žumanaca umućenih sa 6 kašika šećera i još malo mutiti. Tome dodati 6 kašika brašna i lagano izmešati.
 

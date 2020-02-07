@@ -23,7 +23,7 @@ tags:
   * 2-3 glavice kupusa
   * so po ukusu
 
-<img class="alignnone size-medium wp-image-4591" title="Kupus" src="/wp-content/uploads/2011/11/Kupus-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4591" title="Kupus" src="/wp-content/uploads/2011/11/Kupus-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: ukoliko nam je potreban, kupus može da se ukiseli vrlo brzo, za samo 4-5 dana. Glavice kupusa očistiti od spoljnih listova, oprati, izdubiti im koren, pa u dobijenu šupljinu sipati so.
 

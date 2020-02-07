@@ -33,7 +33,7 @@ tags:
   * so
   * biber
 
-<img class="alignnone size-medium wp-image-5764" src="/wp-content/uploads/2013/06/Savijaca-sa-spanacem-2-300x225.jpg" alt="Savijaca sa spanacem (2)" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5764" src="/wp-content/uploads/2013/06/Savijaca-sa-spanacem-2-1024x768.jpg" alt="Savijaca sa spanacem (2)" width="300" height="225" /> 
 
 **Priprema**: blitvu očistiti, oprati, ukloniti beli deo, kratko obariti i ocediti. Kada se blitva ohladi sitno je iseckati.
 

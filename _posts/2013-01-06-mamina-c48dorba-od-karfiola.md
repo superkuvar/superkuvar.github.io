@@ -30,7 +30,7 @@ tags:
   * muskatni oraščić
   * kisela pavlaka
 
-<img class="alignnone size-medium wp-image-5044" src="/wp-content/uploads/2013/01/Maminačorbaodkarfiola-300x225.jpg" alt="Maminačorbaodkarfiola" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5044" src="/wp-content/uploads/2013/01/Maminačorbaodkarfiola-1024x768.jpg" alt="Maminačorbaodkarfiola" width="300" height="225" /> 
 
 **Priprema**: karfiol oprati, izdeliti na cvetiće, naliti sa litar i po vode, posoliti i staviti da se kuva. Obaren karfiol izgnječiti ,,gnječilicom&#8221; za pire krompir (nije potrebno da se vadi iz vode u kojoj se kuvao) ili štapnim mikserom.
 

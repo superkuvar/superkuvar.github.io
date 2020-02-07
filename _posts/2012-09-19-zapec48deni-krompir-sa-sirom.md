@@ -31,7 +31,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-4321" title="Krompir sa sirom" src="/wp-content/uploads/2012/09/Krompir-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4321" title="Krompir sa sirom" src="/wp-content/uploads/2012/09/Krompir-sa-sirom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: krompir u ljusci oprati i skuvati u posoljenoj vodi, pazeći da se ne prekuva, treba samo da omekša. Ohlađen krompir oljuštiti i iseći na kolutove.
 

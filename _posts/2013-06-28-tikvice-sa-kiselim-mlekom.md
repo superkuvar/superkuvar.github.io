@@ -31,7 +31,7 @@ tags:
   * origano
   * čaša kiselog mleka
 
-<img class="alignnone size-medium wp-image-5831" src="/wp-content/uploads/2013/06/Tikvicesakiselimmlekom-300x225.jpg" alt="Tikvicesakiselimmlekom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5831" src="/wp-content/uploads/2013/06/Tikvicesakiselimmlekom-1024x768.jpg" alt="Tikvicesakiselimmlekom" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. šargarepu i krompir oprati, očistiti i narendati. Dodati narendanu šargarepu u luk i dinstati još pet minuta, a zatim dodati narendan krompir i oljuštene tikvice isečene na kockice.
 

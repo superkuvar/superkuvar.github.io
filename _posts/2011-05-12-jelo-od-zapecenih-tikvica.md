@@ -28,7 +28,7 @@ tags:
   * 2-3 šoljice brašna
   * ulje
 
-<img class="alignnone size-medium wp-image-3439" title="Jeloodzapečenihtikvica" src="/wp-content/uploads/2011/05/Jeloodzapečenihtikvica-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3439" title="Jeloodzapečenihtikvica" src="/wp-content/uploads/2011/05/Jeloodzapečenihtikvica-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, oljuštiti, iseći na šnite i ređati u podmazanu posudu, kao za musaku. Preko svakog reda tikvica sipati po malo ulja, soli i majorana. Jelo peći na 200 stepeni.
 

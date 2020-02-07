@@ -33,7 +33,7 @@ tags:
   * ulje ili mast
   * 300 grama suvog mesa
 
-<img class="alignnone size-medium wp-image-4799" title="Podvarakodslatkogkupusa" src="/wp-content/uploads/2012/11/Podvarakodslatkogkupusa-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4799" title="Podvarakodslatkogkupusa" src="/wp-content/uploads/2012/11/Podvarakodslatkogkupusa-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: kupus očistiti, oprati i iseći na rezance ili krupno narendati. Na zagrejanom ulju ili masti propržiti sitno iseckan crni luk, dodati kupus i dinstati, da omekša. Prilikom dinstanja u kupus povremeno dolivati po malo tople vode.
 

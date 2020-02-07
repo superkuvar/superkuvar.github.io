@@ -27,7 +27,7 @@ tags:
   * soli po ukusu
   * sirće
 
-<img class="alignnone size-medium wp-image-4164" title="Paprike" src="/wp-content/uploads/2011/12/Paprike-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4164" title="Paprike" src="/wp-content/uploads/2011/12/Paprike-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: oprane paprike staviti u pećnicu da se ispeku. Vruće staviti u lonac, poklopiti i ostaviti da se prohlade. Ohlađene paprike oljuštiti i očistiti od semena. U međuvremenu nastrugati ren, isitniti peršunov list i beli luk, pa sve to izmešati i posoliti. Skuvati presolac od vode, soli i sirćeta.
 

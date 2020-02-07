@@ -33,7 +33,7 @@ tags:
   * malo suvog grožđa
   * žele bombone ili ratluk
 
-<img class="alignnone size-medium wp-image-5729" src="/wp-content/uploads/2011/12/Kolacsabelancima3-300x225.jpg" alt="Kolacsabelancima3" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5729" src="/wp-content/uploads/2011/12/Kolacsabelancima3-1024x768.jpg" alt="Kolacsabelancima3" width="300" height="225" /> 
 
 **Priprema**: umutiti čvrst sneg od belanaca i šećera. U umućena belanca dodati sok i koru od prethodno dobro opranog limuna, iseckane orahe, suvo grožđe, iseckane žele bombone ili ratluk i brašno.
 

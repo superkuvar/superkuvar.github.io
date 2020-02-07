@@ -36,7 +36,7 @@ tags:
   * susam
   * muskatni oraščić
 
-[<img class="alignnone size-medium wp-image-8978" src="/wp-content/uploads/2014/03/projicesabundevom-300x225.jpg" alt="projicesabundevom" width="300" height="225" />](/wp-content/uploads/2014/03/projicesabundevom.jpg)
+[<img class="alignnone size-medium wp-image-8978" src="/wp-content/uploads/2014/03/projicesabundevom-1024x768.jpg" alt="projicesabundevom" width="300" height="225" />](/wp-content/uploads/2014/03/projicesabundevom.jpg)
 
 **Priprema**: umutiti žumanca viljuškom, pa dodati ulje, jogurt i kiselu pavlaku. Izmešati, a zatim dodati brašno pomešano sa solju, praškom za pecivo i narendanim muskatnim oraščićem. Izmešati a zatim dodati sneg od belanaca i narendanu bundevu. Testo još jednom izmešati varjačom.
 

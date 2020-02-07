@@ -33,7 +33,7 @@ tags:
   * ulje
   * 1 kašika skroba
 
-<img class="alignnone size-medium wp-image-4858" title="Bundeva sa paradajzom" src="/wp-content/uploads/2012/12/Bundeva-sa-paradajzom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4858" title="Bundeva sa paradajzom" src="/wp-content/uploads/2012/12/Bundeva-sa-paradajzom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: bundevu oljuštiti, oprati i iseći na kockice. Crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati isitnjenu bundevu i kuvani paradajz, pa naliti sasvim malo tople vode.
 

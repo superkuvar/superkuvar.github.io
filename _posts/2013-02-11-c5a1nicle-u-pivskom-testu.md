@@ -30,7 +30,7 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-5247" src="/wp-content/uploads/2013/02/Šnicle-u-pivskom-testu-300x225.jpg" alt="Šnicle u pivskom testu" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5247" src="/wp-content/uploads/2013/02/Šnicle-u-pivskom-testu-1024x768.jpg" alt="Šnicle u pivskom testu" width="300" height="225" /> 
 
 **Priprema**: meso iseći na šnicle. Svaku šniclu izlupati tučkom, da bude debljine oko jedan santimetar, posoliti i posuti mlevenim biberom.
 

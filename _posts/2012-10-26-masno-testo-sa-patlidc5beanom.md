@@ -33,7 +33,7 @@ tags:
   * 2-3 čena belog luka
   * ulje
 
-<img class="alignnone size-medium wp-image-4557" title="Masnotestosapatlidzanom" src="/wp-content/uploads/2012/10/Masnotestosapatlidzanom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4557" title="Masnotestosapatlidzanom" src="/wp-content/uploads/2012/10/Masnotestosapatlidzanom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudu za mešenje sipati brašno, dodati so, izmrvljen margarin i malo vode. Umesiti testo i staviti ga u frižider da odstoji dvadesetak minuta.
 

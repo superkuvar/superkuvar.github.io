@@ -35,7 +35,7 @@ tags:
   * biber
   * kesica praška za pecivo
 
-<img class="alignnone size-medium wp-image-5714" src="/wp-content/uploads/2013/05/projarasaspanacemiajvarom-300x225.jpg" alt="projarasaspanacemiajvarom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5714" src="/wp-content/uploads/2013/05/projarasaspanacemiajvarom-1024x768.jpg" alt="projarasaspanacemiajvarom" width="300" height="225" /> 
 
 **Priprema**: u posudi za mešenje umutiti jaja, dodati pavlaku, izmrvljen sir, ulje, ajvar, so i malo bibera. Izmešati, pa dodati brašno pomešano sa praškom za pecivo.
 

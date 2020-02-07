@@ -30,7 +30,7 @@ tags:
   * kari
   * ulje
 
-<img class="alignnone size-medium wp-image-2870" title="Pileće belo meso sa pirinčem" src="/wp-content/uploads/2012/04/Pileće-belo-meso-sa-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2870" title="Pileće belo meso sa pirinčem" src="/wp-content/uploads/2012/04/Pileće-belo-meso-sa-pirinčem-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. šargarepu oprati, očistiti i izrendati. Kada luk postane staklast dodati narendanu šargarepu i još malo dinstati, uz dolivanje po malo vode.
 

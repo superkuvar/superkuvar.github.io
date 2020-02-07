@@ -42,7 +42,7 @@ Fil:
   * 5 decilitara vode
   * 2 kesice šlaga
 
-<img class="alignnone size-medium wp-image-5473" src="/wp-content/uploads/2012/01/Kolacsavisnjamaiorasima-300x225.jpg" alt="Kolacsavisnjamaiorasima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5473" src="/wp-content/uploads/2012/01/Kolacsavisnjamaiorasima-1024x768.jpg" alt="Kolacsavisnjamaiorasima" width="300" height="225" /> 
 
 **Priprema**: u sudu za mešenje penasto umutiti jaja sa šećerom, dodati mleko, ulje, mlevene orahe i brašno pomešano sa praškom za pecivo. Masu dobro izmešati i sipati u podmazan pleh. Peći na 200 stepeni oko pola sata. Ispečen kolač izvaditi iz pećnice i preliti hladnim mlekom.
 

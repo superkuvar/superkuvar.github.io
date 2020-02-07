@@ -36,7 +36,7 @@ tags:
   * origano
   * 2 tvrdo kuvana jaja
 
-<img class="alignnone size-medium wp-image-4736" title="Vrivoodpatlidzanaigraska" src="/wp-content/uploads/2011/05/Vrivoodpatlidzanaigraska-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4736" title="Vrivoodpatlidzanaigraska" src="/wp-content/uploads/2011/05/Vrivoodpatlidzanaigraska-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: patlidžan oprati, oljuštiti i obariti u kipućoj posoljenoj vodi, zatim ocediti i sitno iseckati.
 

@@ -35,7 +35,7 @@ tags:
   * 4 dl mleka
   * ulje
 
-<img class="alignnone size-medium wp-image-3208" title="Pomešana musaka" src="/wp-content/uploads/2011/06/Pomešana-musaka-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3208" title="Pomešana musaka" src="/wp-content/uploads/2011/06/Pomešana-musaka-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati meso i još malo pržiti. šargarepu i tikvice očistiti, izrendati, dodati šolju kuvanog pirinča, izmešati i staviti u fil sa mesom da se malo prodinsta. Po potrebi doliti malo tople vode. Posoliti, pobiberiti, dodati malo bosiljka i seckani peršun.
 

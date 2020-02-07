@@ -21,7 +21,7 @@ tags:
   * 1,25 kg šećera
   * šolja vode
 
-<img class="alignnone size-medium wp-image-5836" src="/wp-content/uploads/2012/08/Slatkoodvisanja-300x225.jpg" alt="Slatkoodvisanja" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5836" src="/wp-content/uploads/2012/08/Slatkoodvisanja-1024x768.jpg" alt="Slatkoodvisanja" width="300" height="225" /> 
 
 **Priprema**: višnje oprati i očistiti od peteljki i koštica. Koštice vaditi specijalnom spravom, a ukoliko je nemate, može poslužiti tupa strana male ukosnice. U veću šerpu ređati red višanja, red šećera, dok se ne utroši materijal. Odozgo treba da bude šećer.  erpu prekriti salvetom i ostaviti da prenoći.
 

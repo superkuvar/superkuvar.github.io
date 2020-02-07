@@ -26,7 +26,7 @@ tags:
 * ulje  
 * jabukovo sirće
 
-[<img class="alignnone size-medium wp-image-9636" src="/wp-content/uploads/2015/05/lakojeloodspanaca-300x225.jpg" alt="lakojeloodspanaca" width="300" height="225" />](/wp-content/uploads/2015/05/lakojeloodspanaca-e1431584975891.jpg)
+[<img class="alignnone size-medium wp-image-9636" src="/wp-content/uploads/2015/05/lakojeloodspanaca-1024x768.jpg" alt="lakojeloodspanaca" width="300" height="225" />](/wp-content/uploads/2015/05/lakojeloodspanaca-e1431584975891.jpg)
 
 **Priprema**: spanać očistiti i dobro oprati. Mladi crni luk očistiti, oprati i sitno iseći, zajedno sa perima.
 

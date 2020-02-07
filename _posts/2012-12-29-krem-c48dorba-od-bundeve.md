@@ -36,7 +36,7 @@ tags:
   * ulje
   * kisela pavlaka
 
-<img class="alignnone size-medium wp-image-4969" title="Kremčorbaodbundeve" src="/wp-content/uploads/2012/12/Kremčorbaodbundeve-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4969" title="Kremčorbaodbundeve" src="/wp-content/uploads/2012/12/Kremčorbaodbundeve-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: na malo ulja propržiti sitno iseckan crni luk, dodati šargarepu isečenu na kolutove i kratko propržiti.
 

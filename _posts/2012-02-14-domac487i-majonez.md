@@ -27,7 +27,7 @@ tags:
   * kašika senfa
   * kašika soka od limuna
 
-<img class="alignnone size-medium wp-image-4573" title="domaci majonez" src="/wp-content/uploads/2012/02/domaci-majonez1-e1351341453598-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-4573" title="domaci majonez" src="/wp-content/uploads/2012/02/domaci-majonez1-e1351341453598-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u posudu za mućenje staviti žumanca, senf i so i razmutiti mikserom. Postepeno dodavati ulje, kap po kap, uz neprestano mućenje, dok masa ne postane homogena. Zatim ulje sipati u tankom mlazu, uz neprestano mućenje, sve dok se ne potroši čitava količina. Na kraju dodati sok od limuna i još malo mutiti. Gotov majonez čuvati u frižideru.
 

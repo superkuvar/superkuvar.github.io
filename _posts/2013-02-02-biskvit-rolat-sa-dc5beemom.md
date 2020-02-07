@@ -29,7 +29,7 @@ tags:
   * 1 kašika ulja
   * džem po izboru
 
-<img class="alignnone size-medium wp-image-5213" src="/wp-content/uploads/2013/02/Rolat-sa-dzemom-300x225.jpg" alt="Rolat sa dzemom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5213" src="/wp-content/uploads/2013/02/Rolat-sa-dzemom-1024x768.jpg" alt="Rolat sa dzemom" width="300" height="225" /> 
 
 **Priprema**: razbiti jaja i odvojiti belanca od žumanaca. Mikserom umutiti sneg od belanaca, dodati šećer i nastaviti sa mućenjem dok se ne dobije sasvim čvrst sneg. Smanjiti brzinu miksera, pa dodavati jedno po jedno žumance i mutiti još malo (oko jedan minut).
 

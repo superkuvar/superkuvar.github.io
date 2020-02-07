@@ -35,7 +35,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5733" src="/wp-content/uploads/2013/06/Corbaodcicokesapirincem-300x225.jpg" alt="Corbaodcicokesapirincem" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5733" src="/wp-content/uploads/2013/06/Corbaodcicokesapirincem-1024x768.jpg" alt="Corbaodcicokesapirincem" width="300" height="225" /> 
 
 **Priprema**: oprati i očistiti povrće, pa praziluk i šargarepu iseći na kolutove, a čičoku na komadiće.
 

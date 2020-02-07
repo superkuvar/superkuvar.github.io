@@ -30,7 +30,7 @@ tags:
 * 2 jajeta  
 * ulje
 
-<img class="alignnone wp-image-9792 size-medium" src="/wp-content/uploads/2015/10/zapecenetikvicesapirincem-300x225.jpg" alt="zapecenetikvicesapirincem" width="300" height="225" /> 
+<img class="alignnone wp-image-9792 size-medium" src="/wp-content/uploads/2015/10/zapecenetikvicesapirincem-1024x768.jpg" alt="zapecenetikvicesapirincem" width="300" height="225" /> 
 
 **Priprema**: tikvice oprati, pa neoljuštene iseći na kolutove. Pirinač oprati i skuvati u slanoj vodi, ali da se ne prekuva. Kuvan pirinač ocediti.
 

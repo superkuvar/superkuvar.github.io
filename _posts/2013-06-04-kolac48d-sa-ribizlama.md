@@ -35,7 +35,7 @@ tags:
   * ribizla (250 grama)
   * malo muskatnog oraščića
 
-<img class="alignnone size-medium wp-image-5726" src="/wp-content/uploads/2013/06/Kolacsaribizlama-300x225.jpg" alt="Kolacsaribizlama" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5726" src="/wp-content/uploads/2013/06/Kolacsaribizlama-1024x768.jpg" alt="Kolacsaribizlama" width="300" height="225" /> 
 
 **Priprema**: umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, muskatni oraščić i seckane orahe. Masu izmešati varjačom.
 

@@ -34,7 +34,7 @@ tags:
   * seckani peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-5531" src="/wp-content/uploads/2013/03/Omlet-sa-prazilukom-i-slaninom-300x225.jpg" alt="Omlet sa prazilukom i slaninom" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5531" src="/wp-content/uploads/2013/03/Omlet-sa-prazilukom-i-slaninom-1024x768.jpg" alt="Omlet sa prazilukom i slaninom" width="300" height="225" /> 
 
 **Priprema**: oprati praziluk, iseći sitno i beli i zeleni deo i ispržiti na zagrejanom ulju, da omekša. U pržen praziluk dodati slaninu isečenu na kockice i još malo pržiti.
 

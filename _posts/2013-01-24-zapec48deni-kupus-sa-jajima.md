@@ -34,7 +34,7 @@ tags:
   * 1 kocka za supu (od povrća)
   * ulje
 
-<img class="alignnone size-medium wp-image-5158" src="/wp-content/uploads/2013/01/Kupussajajima-300x225.jpg" alt="Kupussajajima" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5158" src="/wp-content/uploads/2013/01/Kupussajajima-1024x768.jpg" alt="Kupussajajima" width="300" height="225" /> 
 
 **Priprema**: kupus očistiti i iseći na rezance. Praziluk oprati, očistiti i sitno iseckati.
 

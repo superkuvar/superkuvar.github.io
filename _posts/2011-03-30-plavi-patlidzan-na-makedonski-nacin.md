@@ -31,7 +31,7 @@ Potrebno:
   * 3 čena belog luka
   * 1,5 dl ulja
 
-<img class="alignnone size-medium wp-image-3812" title="Plavipatlidzannamakedonskinacin" src="/wp-content/uploads/2011/03/Plavipatlidzannamakedonskinacin-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3812" title="Plavipatlidzannamakedonskinacin" src="/wp-content/uploads/2011/03/Plavipatlidzannamakedonskinacin-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: plavi patlidžan oljuštiti, iseći na jednake šnite, posoliti i ostaviti da stoji oko 20 minuta, a potom ocediti od soka koji je pustio.
 

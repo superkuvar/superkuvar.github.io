@@ -27,7 +27,7 @@ tags:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-3616" title="Neobičnepohovanetikvice" src="/wp-content/uploads/2012/06/Neobičnepohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3616" title="Neobičnepohovanetikvice" src="/wp-content/uploads/2012/06/Neobičnepohovanetikvice-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: tikvice oljuštiti, oprati i iseći na kolutove. Posoliti, ostaviti da odstoje desetak minuta, pa ocediti vodu.
 

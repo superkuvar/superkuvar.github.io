@@ -25,7 +25,7 @@ tags:
   * malo soli
   * ruska salata
 
-<img class="alignnone size-medium wp-image-2694" title="Princes krofne sa ruskom salatom" src="/wp-content/uploads/2012/03/Princes-krofne-sa-ruskom-salatom-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2694" title="Princes krofne sa ruskom salatom" src="/wp-content/uploads/2012/03/Princes-krofne-sa-ruskom-salatom-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: u sud sipati vodu i ulje i staviti na štednjak. Kada provri, dodati brašno, skloniti sa štednjaka i mešati varjačom, da se dobije masa bez grudvica. Vratiti na tihu vatru, nastaviti sa mešanjem dok se testo ne odvoji od suda i ne formira loptu.
 

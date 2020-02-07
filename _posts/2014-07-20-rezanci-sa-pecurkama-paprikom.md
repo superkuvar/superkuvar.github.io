@@ -29,7 +29,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-9229" src="/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom-300x225.jpg" alt="rezancisapecurkamaipaprikom" width="300" height="225" />](/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom.jpg)
+[<img class="alignnone size-medium wp-image-9229" src="/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom-1024x768.jpg" alt="rezancisapecurkamaipaprikom" width="300" height="225" />](/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom.jpg)
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju, da malo omekša. Očišćenu i opranu šargarepu krupno narendati, dodati u luk i pržiti nekoliko minuta. Paprike iseći na rezance, dodati u luk i šargarepu i nastaviti sa prženjem još desetak minuta na umerenoj vatri. Posoliti i pobiberiti po ukusu.
 

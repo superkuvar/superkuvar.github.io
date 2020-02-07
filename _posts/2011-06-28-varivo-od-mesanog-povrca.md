@@ -30,7 +30,7 @@ tags:
   * 1 dl kisele pavlake
   * kašika seckane mirođije
 
-<img class="alignnone size-medium wp-image-3529" title="Varivoodmešanogpovrća" src="/wp-content/uploads/2011/06/Varivoodmešanogpovrća-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-3529" title="Varivoodmešanogpovrća" src="/wp-content/uploads/2011/06/Varivoodmešanogpovrća-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: šargarepu i tikvice oprati, oljuštiti i iseći na kockice. U posudu sa zagrejanim uljem staviti grašak, isitnjenu šargarepu i tikvice, pa poklopljeno dinstati, uz dolivanje po malo vode. Posoliti i pobiberiti. Povremeno promešati da povrće ne zagori.
 

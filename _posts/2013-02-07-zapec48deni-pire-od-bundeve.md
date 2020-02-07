@@ -35,7 +35,7 @@ tags:
   * biber
   * muskatni oraščić
 
-<img class="alignnone size-medium wp-image-5234" src="/wp-content/uploads/2013/02/Zapečeni-pire-od-bundeve-300x225.jpg" alt="Zapečeni pire od bundeve" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-5234" src="/wp-content/uploads/2013/02/Zapečeni-pire-od-bundeve-1024x768.jpg" alt="Zapečeni pire od bundeve" width="300" height="225" /> 
 
 **Priprema**: bundevu očistiti, oljuštiti, iseći na kockice, naliti vodom, da ogrezne, posoliti, dodati lovorov list i kuvati. U toku kuvanja dolivati po malo tople vode. Kada je bundeva kuvana, ocediti je od vode i ispasirati.
 

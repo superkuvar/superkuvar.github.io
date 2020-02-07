@@ -24,7 +24,7 @@ tags:
   * 150 grama mlevenih oraha
   * jedna pomorandža
 
-<img class="alignnone size-medium wp-image-2293" title="Kuglice od jabuka 3" src="/wp-content/uploads/2012/01/Kuglice-od-jabuka-3-300x225.jpg" alt="" width="300" height="225" /> 
+<img class="alignnone size-medium wp-image-2293" title="Kuglice od jabuka 3" src="/wp-content/uploads/2012/01/Kuglice-od-jabuka-3-1024x768.jpg" alt="" width="300" height="225" /> 
 
 **Priprema**: sipati šećer u šerpu, preliti ga šoljom vode i staviti na štednjak. Kuvati dok se ne dobije gust sirup, kao za slatko.
 
