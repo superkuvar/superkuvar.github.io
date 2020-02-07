@@ -50,10 +50,3 @@ Napraviti preliv na sledeći način: staviti u šerpicu izlomljenu čokoladu, š
 
 Pripremljenim prelivom preliti rolat. Kada se preliv stegne rolat ukrasiti slatkom pavlakom pomoću šprica (kesice) za šlag.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
