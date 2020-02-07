@@ -41,4 +41,4 @@ Kada se karfiol ohladi preko njega sipati preliv i posuti iseckanim peršunovim 
 
 Za preliv umutiti kiselu pavlaku, majonez, ravnu kašičicu senfa i propržen susam. Salata je ukusnija kada se malo ohladi u frižideru.
 
-Savet: glavicu karfiola pre pripreme potopiti na 10-15 minuta u hladnu slanu vodu, kako bi se odstranile eventualne štetočine, koje se mogu naći između cvetića.
+**Savet**: glavicu karfiola pre pripreme potopiti na 10-15 minuta u hladnu slanu vodu, kako bi se odstranile eventualne štetočine, koje se mogu naći između cvetića.

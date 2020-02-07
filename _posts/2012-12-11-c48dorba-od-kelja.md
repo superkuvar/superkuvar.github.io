@@ -44,6 +44,6 @@ Pri kraju kuvanja čorbu posoliti i dodati suvi biljni začin. Gotovu čorbu skl
 **Napomena**: 
 > umesto vodom, kelj se može naliti supom od povrća (kocka).
 
-Savet: kada kupujemo kelj treba birati teže glavice, sa svežim listovima, bez rupica i mrlja.
+**Savet**: kada kupujemo kelj treba birati teže glavice, sa svežim listovima, bez rupica i mrlja.
 
 Iako je kelj veoma korisno povrće, ipak se ne preporučuje osobama koje imaju bolesne bubrege i poremećen rad štitaste žlezde.

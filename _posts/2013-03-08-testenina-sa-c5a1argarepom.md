@@ -42,4 +42,4 @@ Na ulju prodinstati sitno isečen crni luk, a zatim dodati kuvanu šargarepu i i
 
 Testeninu skuvati prema uputstvu na ambalaži, ocediti i pomešati sa šargarepom. Sipati u nauljenu posudu za pečenje, pa preliti jajetom umućenim sa mlekom i brašnom. Preko testenine sipati malo ulja. Zapeći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
 
-Savet: šargarepa će se brže skuvati ako u vodu u kojoj se kuva dodate kašičicu šećera.
+**Savet**: šargarepa će se brže skuvati ako u vodu u kojoj se kuva dodate kašičicu šećera.

@@ -52,4 +52,4 @@ Zaprženo sočivo kuvati na tihoj vatri još dvadesetak minuta, uz povremeno me�
 
 Sočivo pripada porodici mahunarki. U bliskoj prošlosti bilo je zastupljenije u ishrani. Nepravedno je potcenjeno i zapostavljeno, jer se kao i pasulj, smatra hranom za siromašne.
 
-Savet: sočivo stavite da se kuva u vreloj vodi, jer se lakše vari.
+**Savet**: sočivo stavite da se kuva u vreloj vodi, jer se lakše vari.

@@ -38,6 +38,6 @@ Razmutiti jaja viljuškom, dodati kiselu pavlaku, mleko i strugani kačkavalj, p
 
 Krompir sa pavlakom i sirom poslužiti samostalno ili sa šniclama i salatom.
 
-Savet: oljušten krompir ne treba ostavljati da dugo stoji u vodi. Ako je to neizbežno, onda treba da bude sav pokriven vodom i prekriven čistom salvetom.
+**Savet**: oljušten krompir ne treba ostavljati da dugo stoji u vodi. Ako je to neizbežno, onda treba da bude sav pokriven vodom i prekriven čistom salvetom.
 
 &nbsp;

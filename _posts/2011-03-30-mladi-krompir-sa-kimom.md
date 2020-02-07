@@ -31,7 +31,7 @@ Krompir poređati u podmazan pleh, staviti u pećnicu zagrejanu na 200 stepeni i
 
 Mladi krompir sa kimom poslužiti uz šnicle i salatu.
 
-Savet: mladi krompir treba ljuštiti neposredno pre pripeme.
+**Savet**: mladi krompir treba ljuštiti neposredno pre pripeme.
 
 Ljuštenje mladog krompira predstavlja dosadan posao, a naročito ako se radi o vrsti koja se teško ljušti. Zato treba mladi krompir pre ljuštenja staviti u sud sa slanom vodom i ostaviti da u njoj odstoji 10 minuta. Na taj način izbeći ćete i da vam ruke potamne.
 

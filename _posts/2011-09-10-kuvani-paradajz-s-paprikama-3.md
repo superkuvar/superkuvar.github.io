@@ -27,6 +27,6 @@ tags:
 
 Skuvan, vruć paradajz sipati u zagrejane flaše, uviti u ćebe i ostaviti do sutradan, a zatim povezati i smestiti u ostavu.
 
-Savet: i pored toga što je pripemljena po dobrom receptu, dešava se da zimnica ne bude onakva kakvu smo očekivali. Najčešće je greška napravljena u samom postupku pripreme.
+**Savet**: i pored toga što je pripemljena po dobrom receptu, dešava se da zimnica ne bude onakva kakvu smo očekivali. Najčešće je greška napravljena u samom postupku pripreme.
 
 Prilikom pripreme zimnice treba se držati važnih pravila. Jedno od njih je da se za pripremu zimnice koristi samo zrelo, zdravo, kvalitetno i čvrsto povrće.

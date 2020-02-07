@@ -37,4 +37,4 @@ Pripremljene trouglove poređati u pleh prekriven papirom za pečenje. Peći oko
 
 Gotove trouglove posuti šećerom u prahu pomešanim sa vanilom.
 
-Savet: prilikom pečenja staviti na dno pećnice šerpicu sa vodom, testo će se bolje listati.
+**Savet**: prilikom pečenja staviti na dno pećnice šerpicu sa vodom, testo će se bolje listati.

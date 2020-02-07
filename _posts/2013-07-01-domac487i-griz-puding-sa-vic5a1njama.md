@@ -33,6 +33,6 @@ Gotov puding sipati u činijice i ukrasiti višnjama iz slatka ili svežim plodo
 
 Pre služenja griz puding može se rashladiti u frižideru.
 
-Savet: prilikom kupovine odabrati sveže i neoštećene plodove višnje, najbolje sa peteljkom. Višnje pre pipreme oprati i najbolje konzumirati sveže.
+**Savet**: prilikom kupovine odabrati sveže i neoštećene plodove višnje, najbolje sa peteljkom. Višnje pre pipreme oprati i najbolje konzumirati sveže.
 
 Osim u svežem stanju, višnje se mogu koristiti kao nadev za kolače, torte (čuvena  varcvald torta), pite i savijače, peciva, sladolede, džemove, sokove, kompote, sosove.

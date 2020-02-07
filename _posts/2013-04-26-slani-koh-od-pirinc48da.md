@@ -43,4 +43,4 @@ Masu lagano izmešati i sipati u podmazanu vatrostalnu posudu. Koh od pirinča p
 
 Slani koh od pirinča poslužiti kao samostalno jelo ili kao prilog uz meso.
 
-Savet: pirinač pre pripreme treba oprati pod mlazom vode da bi se odstranila prašina od poliranja, kao i lepljivi skrob koji u toku kuvanja može da slepi zrna.
+**Savet**: pirinač pre pripreme treba oprati pod mlazom vode da bi se odstranila prašina od poliranja, kao i lepljivi skrob koji u toku kuvanja može da slepi zrna.

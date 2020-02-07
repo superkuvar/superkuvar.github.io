@@ -33,4 +33,4 @@ Pržene paprike ređati u tegle i svaki red posoliti i posuti struganim renom, s
 
 Kada se paprike ohlade, tegle povezati celofanom i smestiti sa ostalom zimnicom.
 
-Savet: tegle pre upotrebe treba sterilisati. Prvo ih oprati toplom vodom i deterdžentom za sudove, isprati hladnom vodom, staviti u pećnicu, uključiti na temeraturu od 100 stepeni i ostaviti dvadesetak minuta.
+**Savet**: tegle pre upotrebe treba sterilisati. Prvo ih oprati toplom vodom i deterdžentom za sudove, isprati hladnom vodom, staviti u pećnicu, uključiti na temeraturu od 100 stepeni i ostaviti dvadesetak minuta.

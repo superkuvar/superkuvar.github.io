@@ -45,4 +45,4 @@ Jelo skloniti sa vatre i posuti narendanim kačkavaljem ili parmezanom (nije oba
 
 Pirinač sa bundevom poslužiti kao prilog uz dinstano meso ili šnicle.
 
-Savet: kada se kuva u vodi, pirinač se dodaje u posudu pošto posoljena voda počne da vri i meša se varjačom da se ne bi lepio za dno.
+**Savet**: kada se kuva u vodi, pirinač se dodaje u posudu pošto posoljena voda počne da vri i meša se varjačom da se ne bi lepio za dno.

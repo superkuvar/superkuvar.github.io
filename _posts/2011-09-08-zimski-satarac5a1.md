@@ -35,6 +35,6 @@ Vruć sataraš sipati u tegle i držati u umereno zagrejanoj pećnici, da se odo
 
 Ohlađene tegle sa satarašem povezati i odložiti u ostavu.
 
-Savet: plodove i posuđe koji se koriste prilikom pripreme zimnice treba pažljivo oprati.
+**Savet**: plodove i posuđe koji se koriste prilikom pripreme zimnice treba pažljivo oprati.
 
 &nbsp;

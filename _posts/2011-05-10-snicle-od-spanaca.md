@@ -40,4 +40,4 @@ Ispržene šnicle staviti na papirni ubrus da upije suvišnu masnoću.
 
  nicle od spanaća služiti uz pire od krompira ili bareni pirinač.
 
-Savet: pre pripreme spanać treba oprati u hladnoj vodi i ukloniti drške.
+**Savet**: pre pripreme spanać treba oprati u hladnoj vodi i ukloniti drške.

@@ -38,4 +38,4 @@ Pomešati majonez sa pavlakom, dodati iseckanu mirođiju, malo soli, bibera i so
 
 Ova salata se može pripremati u toku cele godine, pošto se može praviti i od smrznutog graška.
 
-Savet: nikada ne treba dugo kuvati testa, pirinač ili povrće od kojih se pravi salata. Izgled, ukus i hranljiva vrednost povrća se gube pri dužem kuvanju.
+**Savet**: nikada ne treba dugo kuvati testa, pirinač ili povrće od kojih se pravi salata. Izgled, ukus i hranljiva vrednost povrća se gube pri dužem kuvanju.

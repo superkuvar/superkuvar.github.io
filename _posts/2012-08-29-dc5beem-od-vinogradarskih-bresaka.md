@@ -30,6 +30,6 @@ Sutradan preko korice džema sipati po malo vinobrana. Umesto vinobrana može se
 
 Džem je ukusan i ukoliko se sprema od neoljuštenih breskvi.
 
-Savet: pravilo je da se manje zrelo voće koristi za pripremanje kompota, slatka i želea, a zrelije voće za pripremanje pekmeza, džemova, marmelada i sokova. Uvek odabrati zrelo voće, ali ne prezrelo, jer prezrelo voće nema dovoljno pektina.
+**Savet**: pravilo je da se manje zrelo voće koristi za pripremanje kompota, slatka i želea, a zrelije voće za pripremanje pekmeza, džemova, marmelada i sokova. Uvek odabrati zrelo voće, ali ne prezrelo, jer prezrelo voće nema dovoljno pektina.
 
 &nbsp;

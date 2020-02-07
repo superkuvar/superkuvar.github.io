@@ -35,4 +35,4 @@ tags:
 
 Od vode, sirćeta, šećera i soli skuvati presolac. U ohlađen presolac dodati kesicu vinobrana, pa preliti krastavčiće. Tegle povezati ili zatvoriti poklopcima i odložiti u ostavu.
 
-Savet: prilikom slaganja krastavčića u tegle, svaki krastavčić se može izbosti čistom iglom ili čačkalicom na nekoliko mesta da bi bolje i lakše upili presolac.
+**Savet**: prilikom slaganja krastavčića u tegle, svaki krastavčić se može izbosti čistom iglom ili čačkalicom na nekoliko mesta da bi bolje i lakše upili presolac.

@@ -30,6 +30,6 @@ Pećnicu ukuljučiti na 250 stepeni, staviti šerpu sa šljivama i kuvati (peći
 
 Gotov vreo pekmez sipati u sterilisane tople tegle i vratiti u toplu pećnicu da se uhvati korica. Sutradan tegle povezati celofanom ili hermetički zatvoriti.
 
-Savet: za pripremu pekmeza koristiti zrelo i kvalitetno voće.
+**Savet**: za pripremu pekmeza koristiti zrelo i kvalitetno voće.
 
 Pekmez se sipa dok je vruć u čiste tople tegle. Teglu treba staviti na krpu ili drvenu podlogu, sipati kašiku-dve pekmeza pa sačekati nekoliko trenutaka i onda dopuniti.

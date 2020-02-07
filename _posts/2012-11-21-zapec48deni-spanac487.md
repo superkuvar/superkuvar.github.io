@@ -40,4 +40,4 @@ U propržen spanać dodati paradajz pire, so, crvenu mlevenu papriku i opran pir
 
 Zapečeni spanać polužiti sa kiselim mlekom ili kao prilog uz dinstano meso ili šnicle.
 
-Savet: vodu u kojoj se spanać kuvao treba baciti, jer je zasićena nitratima koji se pod uticajem bakterija pretvaraju u nitrite. Iz tog razloga spanać treba da se priprema neposredno pre konzumiranja.
+**Savet**: vodu u kojoj se spanać kuvao treba baciti, jer je zasićena nitratima koji se pod uticajem bakterija pretvaraju u nitrite. Iz tog razloga spanać treba da se priprema neposredno pre konzumiranja.

@@ -35,6 +35,6 @@ Umutiti jaja, dodati izmrvljen sir, so, biber i narendani muskatni oraščić po
 
 Spanać sa jajima i sirom brzo se priprema, a umesto svežeg može se upotrebiti zamrznut spanać.
 
-Savet: spanać treba kuvati u maloj količini ključale vode, najduže 5 minuta. Ako želite da obaren spanać sačuva lepu zelenu boju, treba ga na kratko potopiti u hladnu vodu, a zatim ocediti.
+**Savet**: spanać treba kuvati u maloj količini ključale vode, najduže 5 minuta. Ako želite da obaren spanać sačuva lepu zelenu boju, treba ga na kratko potopiti u hladnu vodu, a zatim ocediti.
 
 &nbsp;

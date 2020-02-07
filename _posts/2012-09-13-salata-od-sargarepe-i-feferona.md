@@ -36,4 +36,4 @@ U manje tegle slagati kolutove šargarepe, iseckan beli luk i peršunov list, pa
 
 U međuvremenu, od vode, soli i sirćeta skuvati presolac, ohladiti ga i preliti salatu u teglama. Tegle sa salatom povezati celofanom i smestiti u ostavu.
 
-Savet: pre nego što se salata sipa u tegle treba ih sterilisati. Prvo tegle oprati toplom vodom i deterdžentom, isprati hladnom vodom i ocediti. Staviti tegle u hladnu rernu, uključiti je na 75-100 stepeni i ostaviti oko 25 minuta.
+**Savet**: pre nego što se salata sipa u tegle treba ih sterilisati. Prvo tegle oprati toplom vodom i deterdžentom, isprati hladnom vodom i ocediti. Staviti tegle u hladnu rernu, uključiti je na 75-100 stepeni i ostaviti oko 25 minuta.

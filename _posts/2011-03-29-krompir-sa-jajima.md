@@ -37,4 +37,4 @@ U propržen luk dodati izdrobljena žumanca i naseckana belanca, krompir, isecka
 
 Krompir sa jajima služiti topao, kao prilog uz meso ili posebno jelo, uz salatu.
 
-Savet: u krompiru nisu svi sastojci ravnomerno raspoređeni. Najviše skroba ima u površinskim slojevima, a najviše belančevina neposredno ispod kore. Zbog toga krompir treba ljuštiti što tanje ili ga kuvati s korom, pa tek onda ljuštiti.
+**Savet**: u krompiru nisu svi sastojci ravnomerno raspoređeni. Najviše skroba ima u površinskim slojevima, a najviše belančevina neposredno ispod kore. Zbog toga krompir treba ljuštiti što tanje ili ga kuvati s korom, pa tek onda ljuštiti.

@@ -26,7 +26,7 @@ tags:
 
 Kuvan džem skloniti sa štednjaka i vreo sipati u čiste, zagrejane tegle. Tegle sa džemom staviti u toplu pećnicu da se uhvati korica. Sutradan povezati celofanom ili zatvoriti hermetički.
 
-Savet: uvek stavljati propisane količine šećera, jer ako ga stavite manje voće ćete morati duže kuvati, čime gubi na kvalitetu, boji i ukusu.
+**Savet**: uvek stavljati propisane količine šećera, jer ako ga stavite manje voće ćete morati duže kuvati, čime gubi na kvalitetu, boji i ukusu.
 
 Odnos voća i šećera je obično 1:1, odnosno na kilogram voća dodaje se kilogram šećera. Međitim, taj odnos zavisi i od vrste voća i od količine prirodnog šećera koji ono sadrži.
 

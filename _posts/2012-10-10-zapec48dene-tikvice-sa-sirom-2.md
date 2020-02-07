@@ -42,4 +42,4 @@ U podmazanu posudu za pečenje staviti nakoliko kašika sosa od paradajza, prekr
 
 Jelo staviti u prethodno zagrejanu pećnicu i peći na 200 stepeni dvadesetak minuta.
 
-Savet: sitno seckani crni luk potpuno omekša tokom dinstanja, odlično se sjedinjuje sa ostalim sastojcima, a da pri tom ne gubi ukus.
+**Savet**: sitno seckani crni luk potpuno omekša tokom dinstanja, odlično se sjedinjuje sa ostalim sastojcima, a da pri tom ne gubi ukus.

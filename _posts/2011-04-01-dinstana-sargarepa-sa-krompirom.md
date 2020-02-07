@@ -34,4 +34,4 @@ Kada je šargarepa upola mekana, dodati oljušten i na kockice isečen krompir, 
 
 Dinstanu šargarepu služiti kao prilog uz šnicle ili dinstano meso.
 
-Savet: šargarepa prilikom pripreme treba da se dobro opere i što tanje oljušti ili ostruže, jer se najvredniji sastojci nalaze pri površini.
+**Savet**: šargarepa prilikom pripreme treba da se dobro opere i što tanje oljušti ili ostruže, jer se najvredniji sastojci nalaze pri površini.

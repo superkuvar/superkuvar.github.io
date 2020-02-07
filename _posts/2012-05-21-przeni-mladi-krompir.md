@@ -29,7 +29,7 @@ U sud sipati ulje, pa kada se dobro zagreje, staviti krompiriće i pržiti ih do
 
 Pržene krompiriće posoliti i izvaditi iz ulja rešetkastom kašikom. Služiti kao prilog uz šnicle, dinstano ili pečeno meso.
 
-Savet: mnogi od nas vole pržene mlade krompiriće, ali ne vole kada im koža na rukama posle njihovog čišćenja dobije ružnu smeđu boju, koja se teško uklanja čak i sokom od limuna. Zbog toga krompiriće čistiti pod tankim mlazom vode iz česme ili potopljene u sud sa hladnom vodom.
+**Savet**: mnogi od nas vole pržene mlade krompiriće, ali ne vole kada im koža na rukama posle njihovog čišćenja dobije ružnu smeđu boju, koja se teško uklanja čak i sokom od limuna. Zbog toga krompiriće čistiti pod tankim mlazom vode iz česme ili potopljene u sud sa hladnom vodom.
 
 Kožica sa krompirića se može očistiti i grubljom, abrazivnom stranom sunđera za posuđe.
 

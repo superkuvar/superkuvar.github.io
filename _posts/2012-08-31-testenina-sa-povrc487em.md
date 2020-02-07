@@ -42,4 +42,4 @@ Na malo ulja propržiti patlidžan, dodati paradajz, biber, bosiljak, sitno isec
 
 Rezance ili neku drugu testeninu skuvati, ocediti i pomešati sa izdinstanim povrćem. Odozgo, po želji, posuti struganim parmezanom.
 
-Savet: rezanci, makarone ili špagete neće se lepiti ako u vodu u kojoj se kuvaju dodamo malo ulja.
+**Savet**: rezanci, makarone ili špagete neće se lepiti ako u vodu u kojoj se kuvaju dodamo malo ulja.

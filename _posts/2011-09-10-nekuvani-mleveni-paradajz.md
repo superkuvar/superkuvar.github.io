@@ -33,6 +33,6 @@ U dobro oprane i sterilisane flaše sipati paradajz, dodati peršunov i celerov 
 
 Nekuvani mleveni paradajz i praziluk u hladnim zimskim danima mogu poslužiti za pripremu vrlo ukusne i zdrave salate.
 
-Savet: sav pribor koji se koristi tokom pripreme zimnice, kao i vaše ruke, moraju biti besprekorno čisti.
+**Savet**: sav pribor koji se koristi tokom pripreme zimnice, kao i vaše ruke, moraju biti besprekorno čisti.
 
 &nbsp;

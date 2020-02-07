@@ -42,7 +42,7 @@ Isitnjeno povrće i jabuku preliti mešavinom ulja, soli i soka od limuna. Umest
 
 Ren ovoj salati daje pikantan ukus.
 
-Savet: kada kupujete ren vodite računa da koren bude čvrst i bez zelenih nijansi.
+**Savet**: kada kupujete ren vodite računa da koren bude čvrst i bez zelenih nijansi.
 
 Ren se dodaje u salate od kupusa, cvekle i drugog povrća.
 

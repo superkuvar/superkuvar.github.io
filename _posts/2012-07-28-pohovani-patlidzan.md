@@ -35,4 +35,4 @@ Pohovani plavi patlidžan staviti na tanjir prekriven papirnim ubrusom ili salve
 
 Pohovani patlidžan poslužiti uz pire krompir, bareni pirinač ili varivo od povrća.
 
-Savet: pre upotrebe, po pravilu, patlidžan se očisti, posoli i ostavi da odstoji oko pola sata, a zatim se ocedi sok koji pusti. Tako patlidžan izgubi gorčinu, a upija znatno manje masnoće prilikom prženja. Patlidžan ne treba pržiti u dubokom ulju, baš zbog sklonosti da upija masnoću.
+**Savet**: pre upotrebe, po pravilu, patlidžan se očisti, posoli i ostavi da odstoji oko pola sata, a zatim se ocedi sok koji pusti. Tako patlidžan izgubi gorčinu, a upija znatno manje masnoće prilikom prženja. Patlidžan ne treba pržiti u dubokom ulju, baš zbog sklonosti da upija masnoću.

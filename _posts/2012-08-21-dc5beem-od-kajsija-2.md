@@ -30,4 +30,4 @@ Gotov, vreo džem sipati u zagrejane čiste, suve, sterilisane tegle. Prilikom p
 
 Tegle sa džemom staviti u toplu rernu da se uhvati korica. Nakon toga ostaviti ih da se ohlade preko noći. Sutradan povezati celofanom ili hermetički zatvoriti i ostaviti sa ostalom zimnicom.
 
-Savet: zimnicu od voća treba uvek pripremati u emajliranim ili posudama od nerđajućeg materijala, jer kiselina iz voća hemijski reaguje na metal u oštećenim posudama. Nikada ne upotrebljavati pocinkovane ili bakarne posude za kuvanje zimnice.
+**Savet**: zimnicu od voća treba uvek pripremati u emajliranim ili posudama od nerđajućeg materijala, jer kiselina iz voća hemijski reaguje na metal u oštećenim posudama. Nikada ne upotrebljavati pocinkovane ili bakarne posude za kuvanje zimnice.

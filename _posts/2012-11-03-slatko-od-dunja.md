@@ -34,6 +34,6 @@ U međuvremenu, od šećera i vode u kojoj su se dunje barile skuvati sirup. U s
 
 Kada je slatko gotovo, skloniti ga sa štednjaka i šerpu pokriti vlažnom krpom. Ohlađeno slatko sipati u čiste i suve tegle. Tegle povezati celofanom ili hermetički zatvoriti poklopcima.
 
-Savet: za pravljenje zimnice od dunja, raznih marmelada, sulceva, pogodnije su vrste koje imaju oblik jabuke nego one kruškolikog oblika, jer prilikom kuvanja zadržavaju lepu svetlu boju i brže se želiraju.
+**Savet**: za pravljenje zimnice od dunja, raznih marmelada, sulceva, pogodnije su vrste koje imaju oblik jabuke nego one kruškolikog oblika, jer prilikom kuvanja zadržavaju lepu svetlu boju i brže se želiraju.
 
 U pripremljeni sirup dodaje se voće i važno je da se slatko kuva na jačoj vatri, da bi voće sačuvalo boju. Ovo se odnosi na pripremu ne samo slatkog od dunja, već i od drugih vrsta voća.

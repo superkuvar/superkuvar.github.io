@@ -40,6 +40,6 @@ Od ulja i brašna napraviti bledu zapršku, pa dodati mleko i čašu vode. Meša
 
 Kada je krompir skoro gotov posoliti ga, pobiberiti i posuti seckanim peršunovim listom. Poslužiti kao prilog uz meso.
 
-Savet: po spoljnem izgledu krompira može se ustanoviti količina skroba. Na primer beli krompir sadrži više skroba i dobar je za kuvanje (pire, testo). Roze ili crveni krompir sadrži manje skroba i pogodniji je za pripremu jela gde treba da ostane ceo (pečenje).
+**Savet**: po spoljnem izgledu krompira može se ustanoviti količina skroba. Na primer beli krompir sadrži više skroba i dobar je za kuvanje (pire, testo). Roze ili crveni krompir sadrži manje skroba i pogodniji je za pripremu jela gde treba da ostane ceo (pečenje).
 
 Količinu skroba možemo da procenimo ako uzmemo krompir i prerežemo ga na pola. Ukoliko je na preseku beo i sluzav ima više skroba od suvog.

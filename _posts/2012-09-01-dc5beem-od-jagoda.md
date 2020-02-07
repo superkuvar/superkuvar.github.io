@@ -30,4 +30,4 @@ Džem je dovoljno kuvan kada dobije staklast izgled, odnosno kada kapljica stavl
 
 Vreo džem sipati u sterilisane zagrejane tegle. Tegle sa džemom staviti u toplu pećnicu desetak minuta. Kada se potpuno ohlade povezati ih celofanom ili zatvoriti poklopcem.
 
-Savet: jagodičasto voće (jagode, kupine, maline) pre pripreme oprati u manjim količinama u cediljki ili đevđiru, pod blažim mlazom hladne vode iz česme. Posudu povremeno protresti da se svi plodovi dobro operu, a da se voće ne ošteti i ne iscuri sok.
+**Savet**: jagodičasto voće (jagode, kupine, maline) pre pripreme oprati u manjim količinama u cediljki ili đevđiru, pod blažim mlazom hladne vode iz česme. Posudu povremeno protresti da se svi plodovi dobro operu, a da se voće ne ošteti i ne iscuri sok.

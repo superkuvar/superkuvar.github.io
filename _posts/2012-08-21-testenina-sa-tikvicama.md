@@ -37,6 +37,6 @@ tags:
 
 Testeninu skuvati prema uputstvu na ambalaži, ocediti, sjediniti sa tikvicama, izmešati i poslužiti.
 
-Savet:kada se testenina ubaci u ključalu vodu odmah se promeša varjačom, poveća temperatura i posuda poklopi. Čim ponovo provri, skloniti poklopac i kuvati na srednjoj temperaturi. Često mešati.
+**Savet**:kada se testenina ubaci u ključalu vodu odmah se promeša varjačom, poveća temperatura i posuda poklopi. Čim ponovo provri, skloniti poklopac i kuvati na srednjoj temperaturi. Često mešati.
 
 &nbsp;

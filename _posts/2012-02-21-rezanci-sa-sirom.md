@@ -36,4 +36,4 @@ Sir izmrviti viljuškom ili istrugati na trenici, pa pomešati sa rezancima ili 
 
 Za pripremu ovog jela mogu se upotrebiti i makarone ili neka druga testenina, a najukusniji su domaći rezanci.
 
-Savet: u vodu u kojoj se testenina kuva treba dodati kašiku ulja, da se ne bi slepila.
+**Savet**: u vodu u kojoj se testenina kuva treba dodati kašiku ulja, da se ne bi slepila.

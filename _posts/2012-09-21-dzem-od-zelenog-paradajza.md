@@ -31,4 +31,4 @@ Paradajz propasirati ili isitniti u blenderu i staviti u čistu šerpu. Kuvati n
 
 Pri kraju kuvanja u džem dodati štapić vanile i sok od limuna. Vruć džem sipati u zagrejane sterilisane tegle i staviti u toplu pećnicu, da se na površini uhvati korica. Ohlađene tegle povezati celofanom.
 
-Savet: tegle nikada ne treba puniti do vrha. Ostaviti prazno oko 2 santimetra.
+**Savet**: tegle nikada ne treba puniti do vrha. Ostaviti prazno oko 2 santimetra.

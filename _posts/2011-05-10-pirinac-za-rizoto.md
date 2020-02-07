@@ -35,4 +35,4 @@ Pirinač i luk naliti vodom, da ogrezne, i kuvati u poklopljenom sudu, uz doliva
 
 Mekan, sočan pirinač izručiti u činiju, posuti izrendanim kačkavaljem i služiti uz neku sezonsku salatu i šnicle ili dinstano meso.
 
-Savet: za rižoto se obično koristi pirinač duguljastog zrna.
+**Savet**: za rižoto se obično koristi pirinač duguljastog zrna.

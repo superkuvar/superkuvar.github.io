@@ -36,6 +36,6 @@ Vreo džem sipati u vruće, prethodno sterilisane tegle. Tegle sa džemom stavit
 
 Kada se džem prohladi, po korici posuti malo šećera. Tegle povezeti celofanom ili hermetički zatvoriti i staviti u ostavu sa ostalom zimnicom.
 
-Savet: ne treba nikada kuvati više od 5 kilogama, računajući i voće i šećer.
+**Savet**: ne treba nikada kuvati više od 5 kilogama, računajući i voće i šećer.
 
 Tegle u koje se sipa topla masa moraju biti malo zagrejane. Prvo sipati manju količinu (dve-tri kašike), pa kada se staklo zagreje sipati ostatak.

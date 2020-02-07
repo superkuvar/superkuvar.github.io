@@ -35,4 +35,4 @@ Pekmez, dok je još vruć sipati u čiste zagrejane tegle koje treba staviti u m
 **Napomena**: 
 > odabrati kruške i breskve koje nisu &#8221;vodene&#8221;.
 
-Savet: načeta tegla pekmeza, marmelade i slatka i kad je dobro zatvorena ne može da stoji dugo. Zato sadržaj treba potrošiti u roku od dve nedelje.
+**Savet**: načeta tegla pekmeza, marmelade i slatka i kad je dobro zatvorena ne može da stoji dugo. Zato sadržaj treba potrošiti u roku od dve nedelje.

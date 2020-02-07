@@ -37,4 +37,4 @@ Na zagrejanom ulju propržiti sitno iseckan crni luk, pa dodati iseckan beli luk
 
 U pire pre služenja umešati kiselu pavlaku i seckani peršunov list.
 
-Savet: blitva kao i spanać sadrži dosta oksalne kiseline, pa je treba pripremati sa mlekom zato što ono sadrži kalcijum, kako bi se dobila neutralna so kalcijum oksalat i popravila nutritivna vrednost blitve.
+**Savet**: blitva kao i spanać sadrži dosta oksalne kiseline, pa je treba pripremati sa mlekom zato što ono sadrži kalcijum, kako bi se dobila neutralna so kalcijum oksalat i popravila nutritivna vrednost blitve.

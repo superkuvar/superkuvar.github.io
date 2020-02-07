@@ -29,6 +29,6 @@ Kada se džem skuva ukloniti penu, sipati ga u zagrejane tegle i staviti u mlaku
 
 Sutradan tegle povezati celofanom ili hermetički zatvoriti.
 
-Savet: slatko, pekmez, džem uvek je bolje pripremati u manjim količinama, jer se veća količina znatno duže kuva i tako je gubitak vitamina veći, a menja se i boja voća.
+**Savet**: slatko, pekmez, džem uvek je bolje pripremati u manjim količinama, jer se veća količina znatno duže kuva i tako je gubitak vitamina veći, a menja se i boja voća.
 
 &nbsp;

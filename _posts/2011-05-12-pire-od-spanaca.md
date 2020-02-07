@@ -38,4 +38,4 @@ U propržen spanać sipati mleko ili vodu. Kuvati desetak minuta na tihoj vatri,
 
 Pire od spanaća poslužiti s jajima &#8221;na oko&#8221;, uz faširane ili neke druge šnicle.
 
-Savet: spanać sadrži oksalnu kiselinu i da bi se uklonila, treba ga pripremati sa mlekom, jer se ova kiselina vezuje za kalcijum iz mleka i stvara se kalcijum oksalat koji se izlučuje iz organizma.
+**Savet**: spanać sadrži oksalnu kiselinu i da bi se uklonila, treba ga pripremati sa mlekom, jer se ova kiselina vezuje za kalcijum iz mleka i stvara se kalcijum oksalat koji se izlučuje iz organizma.

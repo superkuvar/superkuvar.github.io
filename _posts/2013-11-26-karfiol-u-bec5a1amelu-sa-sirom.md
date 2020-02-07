@@ -39,4 +39,4 @@ Na zagrejanom margarinu propržiti brašno, pa u njega postepeno sipati vodu u k
 
 Pripremljen sos skloniti sa vatre, posoliti, dodati biber, malo narendanog muskatnog oraščića, narendani kačkavalj i žumanca. U bešamel ubaciti cvetiće karfiola, izmešati i prokuvati još minut-dva na slaboj vatri. Poslužiti toplo, kao samostalno jelo ili kao prilog uz meso.
 
-Savet: karfiol pre pripreme potopiti u posoljenu vodu i ostaviti da tako stoji 10 minuta, kako bi izašle štetočine koje se mogu naći između cvasti.
+**Savet**: karfiol pre pripreme potopiti u posoljenu vodu i ostaviti da tako stoji 10 minuta, kako bi izašle štetočine koje se mogu naći između cvasti.

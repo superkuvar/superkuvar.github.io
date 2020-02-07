@@ -34,4 +34,4 @@ Na ulju propržiti iseckan crni luk, da postane staklast. Skloniti ga sa vatre, 
 
 Krompir sa pavlakom poslužiti kao prilog uz dinstano meso ili faširane šnicle.
 
-Savet: krompir se lako raskuva i hranljivi sastojci odlaze u vodu. Da bi se to izbeglo, u vodu u kojoj se krompir kuva treba dodati so.
+**Savet**: krompir se lako raskuva i hranljivi sastojci odlaze u vodu. Da bi se to izbeglo, u vodu u kojoj se krompir kuva treba dodati so.

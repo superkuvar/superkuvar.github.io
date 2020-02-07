@@ -40,4 +40,4 @@ Kada čorba proključa dodati opran pirinač. Kuvati na umerenoj temperaturi, do
 
 U gotovu čorbu umešati pavlaku.
 
-Savet: prilikom kupovine treba birati brokoli koji ima zelenu boju i čvrste cvetove. Ukoliko je glavica žuta, znači da je brokoli prezreo.
+**Savet**: prilikom kupovine treba birati brokoli koji ima zelenu boju i čvrste cvetove. Ukoliko je glavica žuta, znači da je brokoli prezreo.

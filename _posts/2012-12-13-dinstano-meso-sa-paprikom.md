@@ -40,4 +40,4 @@ Pri kraju dinstanja meso posoliti, dodati biber, kašičicu aleve paprike i kaš
 
 Dinstano meso poslužiti uz testeninu, obareni pirinač, pire od krompira ili neko bareno povrće.
 
-Savet: crni luk će biti lakše svarljiv, ako se iseckan spusti na vrelo ulje, a zatim se doda kašika-dve vrele vode i onda prži na uobičajen način.
+**Savet**: crni luk će biti lakše svarljiv, ako se iseckan spusti na vrelo ulje, a zatim se doda kašika-dve vrele vode i onda prži na uobičajen način.

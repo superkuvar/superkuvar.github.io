@@ -34,4 +34,4 @@ Pripremljene šnicle spustiti u vrelo ulje i pržiti na umerenoj temperaturi. U 
 
 Belo meso (šnicle) poslužiti uz pomfrit, pire ili prženi krompir i salatu.
 
-Savet: za pripremu šnicli bolje je kupiti belo meso &#8211; pileće grudi, jer je znatno jeftinije od pilećeg filea. Od pola kilograma pilećih grudi mogu se dobiti četiri šnicle, a od ostatka grudi može se pripremiti ukusna čorba.
+**Savet**: za pripremu šnicli bolje je kupiti belo meso &#8211; pileće grudi, jer je znatno jeftinije od pilećeg filea. Od pola kilograma pilećih grudi mogu se dobiti četiri šnicle, a od ostatka grudi može se pripremiti ukusna čorba.

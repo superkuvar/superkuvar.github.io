@@ -30,7 +30,7 @@ Vreo džem sipati u zagrejane sterilisane tegle i ostaviti u mlakoj pećnici da 
 
 Ovaj džem se može pripremiti i u pećnici.  erpu sa voćem, koje je prethodno pustilo sok, staviti u pećnicu i peći na 200 stepeni, uz povremeno mešanje. Pri kraju pečenja, po želji, u džem se može dodati šoljica ruma.
 
-Savet: u zimnici se tokom stajanja mogu pojaviti mehurići. Razlog za to je loš kvalitet voća i povrća, premalo šećera, soli ili sirćeta, nedovoljno ukuvana zimnica ili se čuva na toplom i vlažnom mestu.
+**Savet**: u zimnici se tokom stajanja mogu pojaviti mehurići. Razlog za to je loš kvalitet voća i povrća, premalo šećera, soli ili sirćeta, nedovoljno ukuvana zimnica ili se čuva na toplom i vlažnom mestu.
 
 Na pojavu mehurića obavezno treba proveriti da li je zimnica promenila ukus. Ako nije, pekmez, džem ili slatko se može prokuvati uz dodatak soka od jednog limuna. Takvu zimnicu treba što pre potrošiti.
 

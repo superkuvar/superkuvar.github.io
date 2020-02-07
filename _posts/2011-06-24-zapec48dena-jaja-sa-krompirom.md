@@ -35,4 +35,4 @@ U podmazanu vatrostalnu posudu ređati naizmenično kolutove krompira i jaja i z
 
 Krompir i jaja preliti mileramom pomešanim sa prezlom i seckanim peršunovim listom. Zapeći na 200 stepeni, u prethodno zagrejanoj pećnici.
 
-Savet: krompir ne treba suviše dugo kuvati, kada se kasnije još priprema.
+**Savet**: krompir ne treba suviše dugo kuvati, kada se kasnije još priprema.

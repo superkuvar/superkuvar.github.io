@@ -24,6 +24,6 @@ tags:
 
 Gotov vruć džem sipati u zagrejane sterilisane tegle, pa ih staviti u mlaku pećnicu da se na površini stvori korica. Sutradan tegle povezati celofanom.
 
-Savet: šećerni sirup kuvati na slabijoj vatri. Prilikom kuvanja sirupa treba skidati penu.
+**Savet**: šećerni sirup kuvati na slabijoj vatri. Prilikom kuvanja sirupa treba skidati penu.
 
 Borovnice pre pripreme džema staviti u cediljku ili đevđir, u manjim količinama i prati pod srednjim mlazom vode iz česme. Cediljku protresti da bi se borvnice ravnomerno oprale.

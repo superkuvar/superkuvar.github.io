@@ -46,4 +46,4 @@ Na zagrejanom ulju propržiti sitno iseckan crni luk i paradajz. Dodati blitvu, 
 
 Jelo kuvati na slabijoj vatri dvadesetak minuta. Voditi računa da jelo prilikom kuvanja ima dovoljno tečnosti.
 
-Savet: krompir koji će se kasnije još spremati, ne treba suviše dugo kuvati.
+**Savet**: krompir koji će se kasnije još spremati, ne treba suviše dugo kuvati.

@@ -36,6 +36,6 @@ Jaja obariti, iseći na kolutove i pomešati sa pečurkama.  ampinjone i jaja pr
 
 Ova salata može da bude i kompletan obrok.
 
-Savet: jela od pečuraka najbolje je utrošiti istog dana kada su spremljena.
+**Savet**: jela od pečuraka najbolje je utrošiti istog dana kada su spremljena.
 
 Šampinjoni treba da se peru pod slabim mlazom vode, kako ne bi omekšali.

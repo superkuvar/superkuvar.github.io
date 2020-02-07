@@ -35,4 +35,4 @@ Kada su tikvice upola gotove dodati paradajz, prethodno oljušten i isečen na k
 
 Ćušpajz poslužiti uz dinstano meso ili faširane šnicle, a može i kao samostalno jelo.
 
-Savet: tikvice, ako su mlade, ne treba ljuštiti, starije obavezno oljuštiti i ukloniti seme.
+**Savet**: tikvice, ako su mlade, ne treba ljuštiti, starije obavezno oljuštiti i ukloniti seme.

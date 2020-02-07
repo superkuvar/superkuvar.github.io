@@ -28,7 +28,7 @@ tags:
 
 Od vode, sirćeta i soli skuvati presolac. Ohlađenim presolcem preliti paradajz da ogrezne. Ostaviti preko noći da paradajz upije presolac, a zatim povezati tegle.
 
-Savet: prostorija u kojoj se zimnica čuva treba da bude suva, provetrena i prohladna.
+**Savet**: prostorija u kojoj se zimnica čuva treba da bude suva, provetrena i prohladna.
 
 Zimnicu treba povremeno kontrolisati kako bi se na vreme uočilo eventualno kvarenje.
 

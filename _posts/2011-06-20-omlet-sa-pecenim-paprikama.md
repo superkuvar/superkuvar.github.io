@@ -36,7 +36,7 @@ Omlet poslužiti dok je topao, uz sir.
 
 Umesto pečenih mogu se upotrebiti sveže paprike. Paprike oprati, iseći i pržiti na ulju dok ne omeknu. Dalji postupak pripreme je isti kao i sa pečenim paprikama.
 
-Savet: za pripremu omleta najbolje je koristiti teflonski tiganj, da se ne bi zalepio.
+**Savet**: za pripremu omleta najbolje je koristiti teflonski tiganj, da se ne bi zalepio.
 
 Omlet ne treba peći na jakoj, već na umerenoj vatri.
 

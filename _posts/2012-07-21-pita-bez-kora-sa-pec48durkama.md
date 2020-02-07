@@ -40,4 +40,4 @@ U manji pouljen i brašnom posut pleh sipati pripremljeno testo. Pitu peći oko 
 
 Kada se pita malo ohladi, iseći je i poslužiti.
 
-Savet: prilikom kupovine birati šampinjone koji su čvrsti, a izbegavati one koji su izgubili vlagu ili su na dodir mekani.
+**Savet**: prilikom kupovine birati šampinjone koji su čvrsti, a izbegavati one koji su izgubili vlagu ili su na dodir mekani.

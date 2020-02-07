@@ -41,4 +41,4 @@ Krompir staviti u pećnicu zagrejanu na 180 stepeni i peći oko 20 minuta, dok n
 
 Jelo peći u prethodno zagrejanoj pećnici na 180 stepeni, dok ne porumeni.
 
-Savet: izbegavati suviše dugo kuvanje krompira koji ćete kasnije još spremati.
+**Savet**: izbegavati suviše dugo kuvanje krompira koji ćete kasnije još spremati.

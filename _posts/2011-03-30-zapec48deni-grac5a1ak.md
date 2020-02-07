@@ -36,4 +36,4 @@ Umutiti pavlaku i jaja, preliti grašak i staviti u pećnicu zagrejanu na 200 st
 
 Zapečeni grašak poslužiti samostalno ili sa faširanim šniclama.
 
-Savet: grašak će brže omekašati i sačuvati lepu zelenu boju, a biće i mnogo ukusniji ako u vodu u kojoj se kuva osim soli dodate i kašičicu šećera.
+**Savet**: grašak će brže omekašati i sačuvati lepu zelenu boju, a biće i mnogo ukusniji ako u vodu u kojoj se kuva osim soli dodate i kašičicu šećera.

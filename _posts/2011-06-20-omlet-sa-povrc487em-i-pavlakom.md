@@ -43,4 +43,4 @@ Posebno umutiti jaja sa malo mleka (4-5 kašika), posoliti i ispeći omlet sa ob
 
 U toplo povrće umešati kiselu pavlaku, pa preliti preko ispečenog omleta. Posuti seckanim peršunom i odmah služiti.
 
-Savet: jaja treba razbiti nepsoredno pre upotrebe, jer u dodiru sa vazduhom na sobnoj temperaturi se brzo kvare i postaju pogodna podloga za razvoj raznih mikroorganizama.
+**Savet**: jaja treba razbiti nepsoredno pre upotrebe, jer u dodiru sa vazduhom na sobnoj temperaturi se brzo kvare i postaju pogodna podloga za razvoj raznih mikroorganizama.

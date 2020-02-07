@@ -37,4 +37,4 @@ Povrće staviti u veću posudu, izmešati ga, preliti ohlađenim sirćetom, prek
 
 Sutradan salatu sipati u čiste, sterilisane tegle i povezati celofanom.
 
-Savet: ukiseljeno povrće ne čuvati u teglama koje se zatvaraju metalnim poklopcem. Bolje ih je zatvoriti celofanom.
+**Savet**: ukiseljeno povrće ne čuvati u teglama koje se zatvaraju metalnim poklopcem. Bolje ih je zatvoriti celofanom.

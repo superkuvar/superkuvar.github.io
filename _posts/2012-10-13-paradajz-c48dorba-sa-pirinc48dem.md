@@ -40,4 +40,4 @@ Paradajz oprati, oljuštiti, ukloniti seme, isitniti i dodati u čorbu. Pirinač
 
 Gotovu čorbu posuti seckanim peršunovim listom. Čorba se može poslužiti sa kiselom pavlakom.
 
-Savet: da bi se paradajz lakše oljuštio, pređite tupom stranom noža po celoj površini ploda, malo pritiskajući, a zatim oljuštite koricu.
+**Savet**: da bi se paradajz lakše oljuštio, pređite tupom stranom noža po celoj površini ploda, malo pritiskajući, a zatim oljuštite koricu.

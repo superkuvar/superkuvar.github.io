@@ -34,4 +34,4 @@ Prženi krompir služiti kao prilog uz pečenje, dinstana ili pržena mesa, odre
 
 Ukoliko želite da prženi krompir bude mekan, u toku prženja treba ga poklopiti.
 
-Savet: kada oljuštite krompir ne treba ga držati dugo u vodi. Ukoliko je to neophodno, treba da je sav pokriven vodom i prekriven salvetom.
+**Savet**: kada oljuštite krompir ne treba ga držati dugo u vodi. Ukoliko je to neophodno, treba da je sav pokriven vodom i prekriven salvetom.

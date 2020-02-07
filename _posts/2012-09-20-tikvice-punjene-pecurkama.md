@@ -40,6 +40,6 @@ Pirinač oprati, skuvati, ocediti od vode i pomešati sa šampinjonima.
 
 Pripremljenim nadevom puniti polovine tikvica, a odozgo preliti sa malo ulja, može i maslinovog.
 
-Savet: kada kupujete tikvice birajte one manje i čvršće, jer veće znaju da budu pune semenki i vodenaste.
+**Savet**: kada kupujete tikvice birajte one manje i čvršće, jer veće znaju da budu pune semenki i vodenaste.
 
 Tikvice se mogu naći na pijacama skoro cele godine, ali su najvrednije od maja do avgusta, pa su idealne za ishranu tokom letnjih meseci.

@@ -41,4 +41,4 @@ Pirinač oprati i obariti u slanoj vodi. Kada je pirinač kuvan, ali ne prekuvan
 
 U podmazanu vatrostalnu posudu poređati polovine patlidžana, napuniti ih pripremljenim nadevom i preliti pavlakom u kojoj je razmućeno jaje. Jelo peći na 200 stepeni oko 30 minuta.
 
-Savet: kada kupujete patlidžan birajte plodove zategnute, sjajene kore, bez oštećenja i mrlja i ne čuvajte ih dugo, jer stajanjem postaju sve gorčiji.
+**Savet**: kada kupujete patlidžan birajte plodove zategnute, sjajene kore, bez oštećenja i mrlja i ne čuvajte ih dugo, jer stajanjem postaju sve gorčiji.

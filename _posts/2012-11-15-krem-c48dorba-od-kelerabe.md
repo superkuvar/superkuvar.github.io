@@ -44,4 +44,4 @@ Kada čorba proključa, dodati nekoliko zrna kima i kuvati dok povrće ne omekš
 
 U gotovu čorbu umešati jaje razmućeno u kiseloj pavlaci i posuti je seckanim peršunovim listom.
 
-Savet: lišće i stabljiku nemojte bacati, već ih isitnite i dodajte u čorbu zajedno sa izrendanom kelerabom. Lišće kelerabe sadrži znatnu količinu vitamina A.
+**Savet**: lišće i stabljiku nemojte bacati, već ih isitnite i dodajte u čorbu zajedno sa izrendanom kelerabom. Lišće kelerabe sadrži znatnu količinu vitamina A.

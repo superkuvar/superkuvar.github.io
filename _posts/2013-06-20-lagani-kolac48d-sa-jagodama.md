@@ -40,7 +40,7 @@ U podmazan i brašnom posut pleh sipati pripremljeno testo, a odozgo poređati j
 
 Pečen kolač, kada se ohladi, iseći na kocke i posuti šećerom u prahu.
 
-Savet: kad kupujete jagode treba birati plodove sa peteljkama, zrele, sočne i crvene, bez belih ili zelenih vrhova.
+**Savet**: kad kupujete jagode treba birati plodove sa peteljkama, zrele, sočne i crvene, bez belih ili zelenih vrhova.
 
 Neoprane jagode mogu se čuvati u frižideru do dva dana.
 

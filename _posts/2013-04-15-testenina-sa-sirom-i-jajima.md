@@ -38,6 +38,6 @@ Izgnječiti sir viljuškom pa dodati žumanca, malo soli i kiselu pavlaku. Pome�
 
 Pripremljene makarone sipati u podmazanu posudu za pečenje. Odozgo ih preliti sa malo ulja. Makarone staviti u pećnicu zagrejanu na 180 stepeni i peći 10-15 minuta, dok ne porumene. Poslužiti tople za ručak ili večeru.
 
-Savet: testenina se kuva u većoj posudi, tako što se na litar vode stavlja 100 grama nekuvane testenine. Vodu obavezno posoliti po ukusu i dodati malo ulja. Ulje sprečava da se makarone ili druga testenina lepe.
+**Savet**: testenina se kuva u većoj posudi, tako što se na litar vode stavlja 100 grama nekuvane testenine. Vodu obavezno posoliti po ukusu i dodati malo ulja. Ulje sprečava da se makarone ili druga testenina lepe.
 
 &nbsp;

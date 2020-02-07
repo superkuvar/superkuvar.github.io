@@ -33,4 +33,4 @@ Vruć ajvar sipati u zagrejane sterilisane tegle, staviti ih u toplu pećnicu (z
 
 Kada se ajvar ohladi, u svaku teglu sipati po kašičicu ulja, povezati celofanom i odložiti u ostavu.
 
-Savet: kada se ajvar sipa u tegle, ne treba ih prepuniti već ostaviti prazno oko jedan santimetar.
+**Savet**: kada se ajvar sipa u tegle, ne treba ih prepuniti već ostaviti prazno oko jedan santimetar.

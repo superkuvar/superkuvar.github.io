@@ -35,4 +35,4 @@ tags:
 
 Pustiti da se smesa prohladi, a zatim je kašičicom vaditi i stavljati u papirne korpice ili na aluminijumsku foliju. Ostaviti da se bombice stegnu i prosuše, a zatim služiti.
 
-Savet: kada kupujete kronflejks za ove bombice treba kupiti onaj žute boje i mekanih ljuspica, a ne beli čije ljuspice ne upijaju margarin i čokoladu, već ostaju tvrde.
+**Savet**: kada kupujete kronflejks za ove bombice treba kupiti onaj žute boje i mekanih ljuspica, a ne beli čije ljuspice ne upijaju margarin i čokoladu, već ostaju tvrde.

@@ -35,4 +35,4 @@ Vatrostalnu posudu premazati margarinom i istrljati belim lukom, pa izručiti is
 
 Zapečeni mladi krompir služiti topao, samostalno ili kao prilog uz dinstano meso ili šnicle.
 
-Savet: da bi se mladi krompir lakše oljuštio treba ga posuti krupnom morskom solju i istrljati ili ga istrljati grubljom stranom sunđera za sudove.
+**Savet**: da bi se mladi krompir lakše oljuštio treba ga posuti krupnom morskom solju i istrljati ili ga istrljati grubljom stranom sunđera za sudove.

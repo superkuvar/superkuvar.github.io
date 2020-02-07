@@ -32,4 +32,4 @@ tags:
 
 Skuvati presolac od tri litra vode, sirćeta, soli i šećera, ohladiti i preliti paradajz u teglama, da ogrezne. Na vrhu, paradajz pritisnuti korenom rena ili šargarepe, tako da svi plodovi budu prekriveni presolcem. Tegle povezati celofanom i staviti na hladno mesto.
 
-Savet: prostorija u kojoj se čuva zimnica treba da bude polumračna, suva i hladna, jer jaka svetlost i toplota mogu da dovedu do vrenja pa će se zimnica pokvariti.
+**Savet**: prostorija u kojoj se čuva zimnica treba da bude polumračna, suva i hladna, jer jaka svetlost i toplota mogu da dovedu do vrenja pa će se zimnica pokvariti.

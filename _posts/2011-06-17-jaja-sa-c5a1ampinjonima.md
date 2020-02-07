@@ -37,4 +37,4 @@ Dobro umutiti jaja viljuškom, sipati preko šampinjona i pržiti kao kajganu na
 
 Kajgana spada u jedno od najjednostavnijih jela. Za pripremu je dovoljno samo nekoliko komada jaja, so i masnoća. Zato što se lako priprema, kajgana je omiljena u narodu, a obično se jede za doručak.
 
-Savet: jaja čuvati na hladnom, najbolje u frižideru. Van frižidera mogu ostati sveža do dve nedelje. U frižideru se jaja mogu održati sveža i do mesec dana. Treba ih staviti u kartonsku kutiju, okrenuta vrhom nadole. Ne stavljati ih u vrata frižidera, jer će biti izložena toploti svaki put kada se ona otvore.
+**Savet**: jaja čuvati na hladnom, najbolje u frižideru. Van frižidera mogu ostati sveža do dve nedelje. U frižideru se jaja mogu održati sveža i do mesec dana. Treba ih staviti u kartonsku kutiju, okrenuta vrhom nadole. Ne stavljati ih u vrata frižidera, jer će biti izložena toploti svaki put kada se ona otvore.
