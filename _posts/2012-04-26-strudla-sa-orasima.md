@@ -54,6 +54,8 @@ Testo mutiti (lupati) varjačom, dok se ne pojave mehurići i dok ne počne da s
 
 U posudu sipati mleko, zagrejati ga do vrenja, pošećeriti (100 gr), dodati vanilin šećer i mlevene orahe i malo prokuvati, mešajući da se nadev zgusne. Skloniti sa štednjaka i dodati cimet i suvo grožđe, prethodno oprano. Ohlađenim filom premazati testo.
 
+![jufke, priprema testa](/wp-content/uploads/2012/04/strudla.orasi.jpg)
+
 Radnu površinu posuti brašnom i na nju prebaciti testo. Podeliti ga na tri jufke. Svaku jufku rastanjiti oklagijom na debljinu oko jedan santimetar, premazati po celoj površini pripremljenim filom od oraha i urolati.
 
 **Pečenje**:
