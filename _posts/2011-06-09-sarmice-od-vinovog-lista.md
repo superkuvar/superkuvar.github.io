@@ -37,6 +37,6 @@ Na svaki vinov list stavljati po kašičicu fila, a zatim zavijati sitne, čvrst
 
 Staviti sarmice da se kuvaju, do vrenja na jačoj vatri, a kad provre, smanjiti temperaturu i kuvati oko jedan sat.
 
-Pri kraju kuvanja, napraviti zapršku od ulja, kašike brašna i kašičice aleve paprike, pa preliti sarmice. Jelo ne treba da bude čorbasto, a ako uvri više nego što je potrebno, doliti malo tople vode.
+Pri kraju kuvanja, napraviti zapršku od ulja, kašike brašna i kašičice crvene sitne paprike, pa preliti sarmice. Jelo ne treba da bude čorbasto, a ako uvri više nego što je potrebno, doliti malo tople vode.
 
 Sarmice od vinovog lista služiti sa ovčijim kiselim mlekom.

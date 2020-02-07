@@ -30,7 +30,7 @@ tags:
   * 1 struk praziluka ili 2 glavice crnog luka
   * 2 čena belog luka
   * peršunov list
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * šoljica paradajz pirea
   * so
   * biber

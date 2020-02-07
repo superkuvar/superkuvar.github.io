@@ -39,6 +39,6 @@ Paprike oprati i očistiti od semena. Pripremljenom masom puniti paprike do polo
 
 Oko napunjenih paprika može se rasporediti oljušten paradajz isečen na kockice. Umesto paradajza može se sipati paradajz sos.  erpu poklopiti i jelo kuvati na tihoj vatri sat do sat i po.
 
-Pri kraju kuvanja, po želji, paprike zapržiti tankom zaprškom. Na malo ulja ispržiti kašiku brašna, da porumeni, skloniti sa vatre i umešati malo aleve paprike. Zapržiti jelo, blago protresti šerpu da se zaprška ravnomerno rasporedi i kuvati još desetak minuta. Paprike se mogu i zapeći u pećnici (dvadesetak minuta na 200 stepeni).
+Pri kraju kuvanja, po želji, paprike zapržiti tankom zaprškom. Na malo ulja ispržiti kašiku brašna, da porumeni, skloniti sa vatre i umešati malo crvene sitne paprike. Zapržiti jelo, blago protresti šerpu da se zaprška ravnomerno rasporedi i kuvati još desetak minuta. Paprike se mogu i zapeći u pećnici (dvadesetak minuta na 200 stepeni).
 
 Punjene paprike služiti kao samostalno jelo ili u kombinaciji sa nekim prilogom (krompir pire, restovani krompir i slično).

@@ -36,7 +36,7 @@ tags:
 
 U pasulj dodati sitno iseckan crni luk i šargarepu isečenu na kolutove. Na polovini kuvanja dodati iseckane koprive, prethodno prelivene ključalom vodom i oceđene.
 
-Kada pasulj omekša dodati mu zapršku pripremljenu od ulja, brašna, sitno iseckanog belog luka i aleve paprike. Ostaviti da se pasulj kuva još desetak minuta.
+Kada pasulj omekša dodati mu zapršku pripremljenu od ulja, brašna, sitno iseckanog belog luka i crvene sitne paprike. Ostaviti da se pasulj kuva još desetak minuta.
 
 Uz pasulj poslužiti salatu.
 

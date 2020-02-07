@@ -20,7 +20,7 @@ tags:
 * glavica crnog luka
 * peršunovo lišće
 * kašika brašna 
-* kašičica aleve paprike 
+* kašičica crvene sitne paprike 
 * rezanci za supu
 * so
 * biber

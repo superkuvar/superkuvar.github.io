@@ -45,7 +45,7 @@ tags:
 
 U lonac staviti očišćen bob, praziluk, krompir, šargarepu, list lovora i naliti litrom vode. Čorbu kuvati na umerenoj temperaturi dok povrće ne omekša, a bob se raspadne.
 
-Na malo ulja propržiti brašno, dodati pola kašičice aleve paprike i napraviti zapršku. Čorbu posoliti, pobiberiti, sipati pripremljenu zapršku i kuvati još desetak minuta na slabijoj vatri.
+Na malo ulja propržiti brašno, dodati pola kašičice crvene sitne paprike i napraviti zapršku. Čorbu posoliti, pobiberiti, sipati pripremljenu zapršku i kuvati još desetak minuta na slabijoj vatri.
 
 Kada je čorba kuvana, povrće u čorbi ispasirati štapnim mikserom ili pomoću &#8221;gnječilice&#8221; za pire krompir. Posuti seckanim peršunovim listom.
 

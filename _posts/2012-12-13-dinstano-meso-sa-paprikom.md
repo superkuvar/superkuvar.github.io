@@ -36,7 +36,7 @@ tags:
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. Meso isitniti na kockice i dodati u propržen luk. Dinstati, uz povremeno dolivanje po malo tople vode. Dodati papriku isečenu na sitnije komade i nastaviti sa dinstanjem dok meso ne omekša.
 
-Pri kraju dinstanja meso posoliti, dodati biber, kašičicu aleve paprike i kašiku brašna. Dinstati još nekoliko minuta.
+Pri kraju dinstanja meso posoliti, dodati biber, kašičicu crvene sitne paprike i kašiku brašna. Dinstati još nekoliko minuta.
 
 Dinstano meso poslužiti uz testeninu, obareni pirinač, pire od krompira ili neko bareno povrće.
 

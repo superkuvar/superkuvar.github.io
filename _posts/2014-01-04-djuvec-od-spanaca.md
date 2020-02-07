@@ -40,6 +40,6 @@ tags:
 
 Na ulju propržiti praziluk i šargarepu, dodati isečen spanać i pržiti nekoliko minuta. Posoliti, pobiberiti, dodati narendani muskatni oraščić, opran pirinač i krompir isečen na kocke. Izmešati i sipati u podmazanu posudu za pečenje. Đuveč preliti vodom da ogrezne.
 
-Na malo ulja propržiti kašiku brašna, dodati kašičicu aleve paprike, pa ovom zaprškom preliti đuveč. Peći na 200 stepeni oko 45 minuta.
+Na malo ulja propržiti kašiku brašna, dodati kašičicu crvene sitne paprike, pa ovom zaprškom preliti đuveč. Peći na 200 stepeni oko 45 minuta.
 
 Đuveč od spanaća može se poslužiti samostalno, a može i sa dinstanom piletinom ili junetinom.

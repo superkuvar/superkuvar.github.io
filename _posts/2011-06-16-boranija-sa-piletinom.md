@@ -28,7 +28,7 @@ tags:
   * suvi biljni začin
   * bosiljak
   * 2 kašike brašna
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * peršunov list
   * ulje
 

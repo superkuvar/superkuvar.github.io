@@ -21,7 +21,7 @@ tags:
 **Potrebno je**:
 
   * pasulj (500 grama)
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * 1 pečena crvena paprika
   * čaša milerama
   * 2 čena belog luka

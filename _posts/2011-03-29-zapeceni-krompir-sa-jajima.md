@@ -27,7 +27,7 @@ tags:
   * suvi biljni začin
   * biber
   * so
-  * 1 kašičica slatke aleve paprike
+  * 1 kašičica slatke crvene sitne paprike
   * 1 dl ulja
   * kajmak (150 g)
   * 2 dl kisele pavlake ili milerama

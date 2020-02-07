@@ -27,7 +27,7 @@ tags:
   * suvi biljni začin
   * mleveni biber
   * mirođija (sveža ili suva)
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * kašika gustina ili brašna
   * ulje
 
@@ -35,4 +35,4 @@ tags:
 
 **Priprema**: na ulju izdinstati sitno seckani crni luk, šargarepu isečenu na kolutove i pileće belo meso isečeno na kockice. Dodati grašak i naliti toplom vodom, da ogrezne. Dinstati dok grašak i meso ne omekšaju. Pri kraju dinstanja grašak posoliti, dodati suvi biljni začin, mleveni biber i mirođiju.
 
-U malo vode razmutiti kašičicu aleve paprike i kašiku gustina ili brašna, pa sipati u grašak. Promešati i kuvati još nekoliko minuta.
+U malo vode razmutiti kašičicu crvene sitne paprike i kašiku gustina ili brašna, pa sipati u grašak. Promešati i kuvati još nekoliko minuta.

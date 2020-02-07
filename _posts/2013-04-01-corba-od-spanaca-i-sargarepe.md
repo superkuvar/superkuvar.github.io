@@ -37,6 +37,6 @@ tags:
 
 U propržen luk i šargarepu dodati prethodno opran i isitnjen spanać, pa još kratko pržiti. Sipati litar i po vrele vode, posoliti i pobiberiti po ukusu. Čorbu kuvati na tihoj vatri 20 minuta.
 
-U malo hladne vode razmutiti brašno i pola kašičice aleve paprike, pa sipati u čorbu. Dobro promešati, da se brašno ne bi zgrudvalo. Kuvati još desetak minuta.
+U malo hladne vode razmutiti brašno i pola kašičice crvene sitne paprike, pa sipati u čorbu. Dobro promešati, da se brašno ne bi zgrudvalo. Kuvati još desetak minuta.
 
 Čorba se, po želji, može začiniti kiselom pavlakom i poslužiti uz kockice proprženog hleba.

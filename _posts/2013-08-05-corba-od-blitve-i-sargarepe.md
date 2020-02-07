@@ -29,7 +29,7 @@ tags:
   * 2 čena belog luka
   * so
   * biber
-  * pola kašičice aleve paprike
+  * pola kašičice crvene sitne paprike
   * muskatni oraščić
   * 1 kašika brašna
   * kisela pavlaka
@@ -39,7 +39,7 @@ tags:
 
 **Priprema**: očišćen crni luk sitno iseckati i propržiti na ulju. Dodati šargarepu isitnjenu na kockice i još malo pržiti.
 
-Blitvu oprati, očistiti, iseći na rezance i dodati u luk i šargarepu i pržiti dok blitva malo ne omekša. Posoliti, dodati malo aleve paprike i brašno, promešati i naliti toplom vodom (litar do litar i po). Čorbu kuvati na umerenoj temperaturi.
+Blitvu oprati, očistiti, iseći na rezance i dodati u luk i šargarepu i pržiti dok blitva malo ne omekša. Posoliti, dodati malo crvene sitne paprike i brašno, promešati i naliti toplom vodom (litar do litar i po). Čorbu kuvati na umerenoj temperaturi.
 
 Pri kraju kuvanja u čorbu dodati biber, muskatni oraščić i iseckani beli luk (po želji).
 

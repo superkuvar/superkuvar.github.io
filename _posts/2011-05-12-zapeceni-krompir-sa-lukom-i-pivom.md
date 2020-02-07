@@ -34,7 +34,7 @@ tags:
 
 U podmazanu posudu za pečenje ređati kolutove krompira, pa kolutove luka, krompir, luk i krompir. Svaki red posoliti, posuti alevom paprikom i preliti sa malo ulja.
 
-Nasložen krompir preliti mešavinom od piva i kisele pavlake, posuti listićima margarina ili preliti uljem i poprašiti sa malo aleve paprike.
+Nasložen krompir preliti mešavinom od piva i kisele pavlake, posuti listićima margarina ili preliti uljem i poprašiti sa malo crvene sitne paprike.
 
 Posudu (najbolje pekač) poklopiti i staviti u pećnicu zagrejanu na 250 stepeni. Peći poklopljeno oko 40 minuta, a zatim skloniti poklopac, smanjiti temperaturu na 200 stepeni i ostaviti da se krompir zapeče još 10-15 minuta.
 

@@ -41,7 +41,7 @@ tags:
 
 **Priprema**: odvojiti listove na glavici kupusa i ukloniti žilu u sredini svakog lista. Ukoliko je kupus mnogo kiseo ili slan, oprati ga u hladnoj vodi.
 
-Crni luk i praziluk očistiti i sitno iseckati. šargarepu očistiti, narendati i zajedno sa lukom propržiti na polovini predviđene količine ulja. Posoliti, dodati opran pirinač i još kratko pržiti. Dodati pola kašičice aleve paprike i biber, promešati i skloniti sa vatre. Kad se fil prohladi dodati mlevene orahe i izmešati.
+Crni luk i praziluk očistiti i sitno iseckati. šargarepu očistiti, narendati i zajedno sa lukom propržiti na polovini predviđene količine ulja. Posoliti, dodati opran pirinač i još kratko pržiti. Dodati pola kašičice crvene sitne paprike i biber, promešati i skloniti sa vatre. Kad se fil prohladi dodati mlevene orahe i izmešati.
 
 Na svaki list kupusa stavljati kašiku nadeva i uvijati sarme. Na dno šerpe sa debljim dnom sipati malo ulja, staviti sitno iseckan kupus, pa odozgo poređati sarme. Između sarmi ubaciti tri lista lovora.
 

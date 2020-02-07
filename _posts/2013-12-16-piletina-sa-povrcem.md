@@ -37,6 +37,6 @@ tags:
 
 Na ulju propržiti pileće meso, dodati iseckan luk i zajedno pržiti dok ne porumeni. Ubaciti isitnjeno povrće, poklopiti i dinstati dok meso ne omekša. Povremeno, ukoliko je potrebno, doliti po malo tople vode.
 
-Na polovini dinstanja meso i povrće posoliti, pobiberiti i dodati pola kašičice aleve paprike. Nastaviti sa dinstanjem dok meso ne omekša.
+Na polovini dinstanja meso i povrće posoliti, pobiberiti i dodati pola kašičice crvene sitne paprike. Nastaviti sa dinstanjem dok meso ne omekša.
 
 Pileće meso i povrće servirati sa prženim ili kuvanim krompirom.

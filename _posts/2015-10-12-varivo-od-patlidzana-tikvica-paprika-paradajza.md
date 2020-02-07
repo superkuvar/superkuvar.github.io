@@ -26,7 +26,7 @@ tags:
 * 4 čena belog luka  
 * glavica crnog luka  
 * belo vino (1 dl)  
-* kašičica aleve paprike  
+* kašičica crvene sitne paprike  
 * 1 lovorov list  
 * so  
 * biber  

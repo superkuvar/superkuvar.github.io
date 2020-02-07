@@ -37,7 +37,7 @@ tags:
 
 Crni luk očistiti, sitno iseći i propržiti na ulju. Dodati kupus, šećer i lovor. Dinstati na umerenoj temperaturi. U toku dinstanja dolivati po malo vode.
 
-Na polovini dinstanja kupus posoliti, dodati biber, kašičicu aleve paprike i brašno razmućeno u malo hladne vode. Promešati varjačom i nastaviti sa dinstanjem dok kupus ne omekša.
+Na polovini dinstanja kupus posoliti, dodati biber, kašičicu crvene sitne paprike i brašno razmućeno u malo hladne vode. Promešati varjačom i nastaviti sa dinstanjem dok kupus ne omekša.
 
 Kada je varivo gotovo, sipati ga u tanjire i preliti kiselom pavlakom.
 

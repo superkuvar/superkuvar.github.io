@@ -23,7 +23,7 @@ tags:
   * crni luk (3 glavice)
   * 2-3 sveže ili zamrznute paprike
   * kašika brašna
-  * 1 kašičica aleve paprike
+  * 1 kašičica crvene sitne paprike
   * so
   * suvi biljni začin
   * biber

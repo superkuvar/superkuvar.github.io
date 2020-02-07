@@ -32,7 +32,7 @@ tags:
 
 **Priprema**: sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, a zatim ih ocediti.
 
-Mladi crni luk i šargarepu oprati i očistiti. Luk sitno iseckati a šargarepu narendati i zatim ih propržiti na malo vrelog ulja. U propržen luk i šargarepu dodati sojine ljuspice i opran pirinač. Posoliti, pobiberiti, dodati kašičicu aleve paprike i izmešati.
+Mladi crni luk i šargarepu oprati i očistiti. Luk sitno iseckati a šargarepu narendati i zatim ih propržiti na malo vrelog ulja. U propržen luk i šargarepu dodati sojine ljuspice i opran pirinač. Posoliti, pobiberiti, dodati kašičicu crvene sitne paprike i izmešati.
 
 Listove blitve oprati i nožem ukloniti beli debeli deo kako bi blitva kasnije mogla da se lako uvija u sarme. Preliti vrelom vodom, a zatim ostaviti da se blitva ocedi.
 

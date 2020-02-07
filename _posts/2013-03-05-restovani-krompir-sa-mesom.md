@@ -39,7 +39,7 @@ tags:
 
 Meso isitniti na kocke. Crni luk oljuštiti, iseći na kockice i propržiti na vrelom ulju ili masti, da porumeni.
 
-U propržen luk dodati isitnjeno meso i zajedno pržiti 5-6 minuta, ukoliko se radi o već ranije pripremljenom mesu, a ako je sirovo pržiti dok ne omekša. Posoliti, pobiberiti, dodati pola kašičice aleve paprike i sitno seckani peršunov list.
+U propržen luk dodati isitnjeno meso i zajedno pržiti 5-6 minuta, ukoliko se radi o već ranije pripremljenom mesu, a ako je sirovo pržiti dok ne omekša. Posoliti, pobiberiti, dodati pola kašičice crvene sitne paprike i sitno seckani peršunov list.
 
 Pomešati isitnjen krompir sa isprženim lukom i mesom, pa na slabijoj vatri još kratko propržiti.
 

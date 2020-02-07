@@ -31,7 +31,7 @@ tags:
   * 250 grama belog sira
   * 2 dl kiselog mleka
   * so
-  * 1 kašičica aleve paprike
+  * 1 kašičica crvene sitne paprike
   * biber
 
 <img class="alignnone size-medium wp-image-5738" src="/wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-1024x768.jpg" alt="Pitaodlisnatogtestaspanac" width="300" height="225" /> 
@@ -47,4 +47,4 @@ Pitu peći 35 minuta u pećnici zagrejanoj na 220 stepeni. Kada je pita pečena,
 Pita se može poslužiti sa jogurtom ili kiselim mlekom, a može i kao predjelo.
 
 **Napomena**: 
-> umesto aleve paprike može se staviti kašika-dve ajvara.
+> umesto crvene sitne paprike može se staviti kašika-dve ajvara.

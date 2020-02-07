@@ -47,7 +47,7 @@ tags:
 
 Tikvice i patlidžan oprati, oljuštiti i iseći na kockice. Paprike takođe oprati i isitniti na kockice. Isitnjeno povrće dodati u luk i paradajz i dinstati dok povrće malo ne omekša.
 
-U izdinstano povrće dodati mleveno meso, so, biber, kašičicu aleve paprike, suvi biljni začin, iseckan peršunov list i beli luk. Dobro izmešati i pržiti još kratko na tihoj vatri.
+U izdinstano povrće dodati mleveno meso, so, biber, kašičicu crvene sitne paprike, suvi biljni začin, iseckan peršunov list i beli luk. Dobro izmešati i pržiti još kratko na tihoj vatri.
 
 U podmazanu posudu za pečenje poređati sloj krompira isečenog na kolutove, odozgo rasporediti deo fila, pa krompir, fil i odozgo krompir. Sipati šoljicu vode i preliti sa malo ulja. Musaku peći oko 45 minuta na 220 stepeni.
 

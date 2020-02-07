@@ -39,7 +39,7 @@ Praseću ili jagnjeću džigericu dobro oprati i obariti uz dodatak bibera, soli
 
 Tako obarenu iznutricu iseći na kocke, sjediniti sa proprženim lukom, naliti malo vode, kuvati, a zatim dodati ljutu papričicu (a može i malo tucane paprike). 
 
-Zapršku napraviti od masti, brašna i aleve paprike, sipati u čorbu i ostaviti da još malo prokuva. Na kraju po ukusu još malo pobiberiti, posoliti, dodati seckano peršunovo lišće, vinsko sirće i kim.
+Zapršku napraviti od masti, brašna i crvene sitne paprike, sipati u čorbu i ostaviti da još malo prokuva. Na kraju po ukusu još malo pobiberiti, posoliti, dodati seckano peršunovo lišće, vinsko sirće i kim.
 
 
   

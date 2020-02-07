@@ -40,7 +40,7 @@ tags:
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati oceđen patlidžan i dinstati dok patlidžan ne omekša. Dodati iseckani beli luk, so, biber, bosiljak i prethodno obaren pirinač. Promešati i ovom smesom puniti paprike. Svaku zatvoriti tankim kolutom krompira.
 
-Napunjene paprike poređati u podmazanu dublju posudu za pečenje, nasuti dve-tri šoljice vode i preliti ih mešavinom brašna i aleve paprike razmućenim u malo vode. Paprike peći 40 minuta na umerenoj temperaturi.
+Napunjene paprike poređati u podmazanu dublju posudu za pečenje, nasuti dve-tri šoljice vode i preliti ih mešavinom brašna i crvene sitne paprike razmućenim u malo vode. Paprike peći 40 minuta na umerenoj temperaturi.
 
 **Napomena**: 
-> umesto brašna i aleve paprike razmućenih u vodi, možete napraviti tanku zapršku od malo ulja, brašna i aleve paprike, pa sipati preko paprika.
+> umesto brašna i crvene sitne paprike razmućenih u vodi, možete napraviti tanku zapršku od malo ulja, brašna i crvene sitne paprike, pa sipati preko paprika.

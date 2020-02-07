@@ -27,7 +27,7 @@ tags:
   * 2 lista lovora
   * so
   * biber
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
 
 [<img class="alignnone size-medium wp-image-9381" src="/wp-content/uploads/2015/02/pitasavijacasakupusom-1024x768.jpg" alt="pitasavijacasakupusom" width="300" height="225" />](/wp-content/uploads/2015/02/pitasavijacasakupusom.jpg)
 

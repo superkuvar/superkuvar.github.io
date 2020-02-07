@@ -38,6 +38,6 @@ tags:
 
 **Priprema**: na malo zagrejanog ulja staviti sitno iseckan crni luk i pržiti da postane staklast. U propržen luk dodati grašak i narendanu šargarepu, pa sve zajedno dinstati, uz dolivanje po malo tople vode ili supe od povrća. Povremeno promešati.
 
-Kada grašak omekša, na malo ulja propržiti kašiku brašna i pola kašičice aleve paprike. Sipati zapršku u grašak i promešati. Grašak odmah naliti vrelom vodom, da ogrezne. Posoliti, dodati suvi biljni začin i pola kašičice šećera. Dinstati još 15-20 minuta.
+Kada grašak omekša, na malo ulja propržiti kašiku brašna i pola kašičice crvene sitne paprike. Sipati zapršku u grašak i promešati. Grašak odmah naliti vrelom vodom, da ogrezne. Posoliti, dodati suvi biljni začin i pola kašičice šećera. Dinstati još 15-20 minuta.
 
 Na kraju dinstanja u grašak dodati sitno seckanu mirođiju ili peršunov list. Može se začiniti kiselom pavlakom i zapeći.

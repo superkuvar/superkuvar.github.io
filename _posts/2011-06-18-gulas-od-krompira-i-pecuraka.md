@@ -24,7 +24,7 @@ tags:
   * 300 grama pečuraka (šampinjoni)
   * glavica crnog luka
   * 2 kašike brašna
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * ulje
   * so
   * suvi biljni začin

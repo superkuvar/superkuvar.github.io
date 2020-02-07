@@ -21,7 +21,7 @@ tags:
 * 200 g slanine,
 * decilitar ulja,
 * 2 kašike brašna,
-* kašika aleve paprike,
+* kašika crvene sitne paprike,
 * tucana paprika
 * glavica crnog luka
 * so

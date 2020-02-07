@@ -26,7 +26,7 @@ tags:
   * peršunov list
   * ulje
   * 1 kašika brašna
-  * 1 kašičica aleve paprike
+  * 1 kašičica crvene sitne paprike
   * suvi biljni začin
   * so
 

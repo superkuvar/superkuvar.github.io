@@ -36,6 +36,6 @@ tags:
 
 Kada pasulj provri prosuti vodu, naliti ga drugom, toplom vodom i vratiti na štednjak da se kuva. Dodati šargarepu (celu), lovorov list, iseckan crni luk i iseckanu papriku. Pasulj kuvati na umerenoj temperaturi, dok zrna ne omekšaju.
 
-Napraviti zapršku od malo ulja, kašike brašna i kašičice aleve paprike. Zapržiti pasulj, dodati so i biber po ukusu i još malo kuvati.
+Napraviti zapršku od malo ulja, kašike brašna i kašičice crvene sitne paprike. Zapržiti pasulj, dodati so i biber po ukusu i još malo kuvati.
 
 Pasulj poslužiti sa salatom od kupusa.

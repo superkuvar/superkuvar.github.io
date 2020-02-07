@@ -20,7 +20,7 @@ tags:
 * decilitar ulja
 * 2 glavice crnog luka
 * kašičica nane
-* kašika aleve paprike
+* kašika crvene sitne paprike
 * so
 * biber
 

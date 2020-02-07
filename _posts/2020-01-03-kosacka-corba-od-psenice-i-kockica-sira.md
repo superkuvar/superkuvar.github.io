@@ -20,7 +20,7 @@ tags:
 * 200 g sira 
 * 100 g šargarepe
 * 2 jajeta 
-* kašika aleve paprike
+* kašika crvene sitne paprike
 * 100 g korena celera 
 * 2 dl ulja
 * 1 g ruzmarina

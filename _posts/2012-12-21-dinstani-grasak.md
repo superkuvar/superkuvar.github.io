@@ -28,7 +28,7 @@ tags:
   * so
   * suvi biljni začin
   * biber
-  * pola kašičice aleve paprike
+  * pola kašičice crvene sitne paprike
   * mirođija
   * kašika brašna ili gustina
   * ulje

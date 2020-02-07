@@ -22,7 +22,7 @@ tags:
   * 500 grama fileta ribe (oslić, som)
   * 2 glavice crnog luka
   * 2 lista lovora
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * so
   * biber u zrnu
   * kašičica šećera
@@ -57,7 +57,7 @@ STARINSKI PODVARAK NA MASTI
 Iseći sitno 2-3 glavice crna luka, spustiti na mast i upola ispržiti. Sad izručiti u luk kupus, dobro promešati i pirjaniti
 ga dok kupus ne postane mek i blago rumen. 
 
-Dobro je, za vreme pirjanjenja, dolivati pomalo supe, dok kupus ne bude potpuno gotov. Usuti u kupus na vrh noža aleve paprike, malo bibera i 1 šoljicu za crnu kafu oprana pirinča. 
+Dobro je, za vreme pirjanjenja, dolivati pomalo supe, dok kupus ne bude potpuno gotov. Usuti u kupus na vrh noža crvene sitne paprike, malo bibera i 1 šoljicu za crnu kafu oprana pirinča. 
 
 Za kraj dodati filete ribe i sjediniti mešanjem.
 

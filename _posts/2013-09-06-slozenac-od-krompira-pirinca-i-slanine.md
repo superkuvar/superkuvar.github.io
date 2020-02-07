@@ -41,7 +41,7 @@ tags:
 
 Pirinač oprati i napola obariti u slanoj vodi, a zatim ocediti.
 
-Praziluk oljuštiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati so, biber, malo aleve paprike i sitno iseckan peršunov list.
+Praziluk oljuštiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati so, biber, malo crvene sitne paprike i sitno iseckan peršunov list.
 
 Na dno dobro podmazane posude za pečenje rasporediti obaren krompir, a preko njega propržen praziluk. Praziluk prekriti slaninom isečenom na rezance, a odozgo rasporediti deo obarenog pirinča. Tako uraditi i sa ostatkom materijala. Odozgo treba da bude krompir.
 

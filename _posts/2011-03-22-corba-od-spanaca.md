@@ -31,7 +31,7 @@ tags:
   * šolja mleka
   * šoljica pirinča
   * so
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
 
 ![Corba spanac](/wp-content/uploads/2011/03/Corbaspanac-1024x768.jpg)
 

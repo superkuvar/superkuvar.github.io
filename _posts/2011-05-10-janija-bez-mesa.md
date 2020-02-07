@@ -29,7 +29,7 @@ tags:
   * 2 paprike
   * 3 kašike paradajz pirea
   * kašika brašna
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * so
   * suvi biljni začin
   * biber

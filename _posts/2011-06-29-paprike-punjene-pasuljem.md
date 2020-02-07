@@ -28,7 +28,7 @@ tags:
   * 500 grama pasulja
   * 2 glavice crnog luka
   * mleveni biber
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * 3 lista lovora
   * 2 kašike brašna
   * so

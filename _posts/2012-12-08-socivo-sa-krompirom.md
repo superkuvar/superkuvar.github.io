@@ -46,7 +46,7 @@ U malo zagrejanog ulja dodati šargarepu, sečenu na kolutove ili rendanu, i pr�
 
 Kada je sočivo skoro kuvano, posoliti ga i dodati sok od kuvanog paradajza.
 
-Pripremiti zapršku od dve-tri kašike ulja i kašike brašna, a zatim joj dodati kašičicu aleve paprike i sitno seckani beli luk. Zapržiti sočivo uz stalno mešanje, da se zaprška ne bi zgrudvala.
+Pripremiti zapršku od dve-tri kašike ulja i kašike brašna, a zatim joj dodati kašičicu crvene sitne paprike i sitno seckani beli luk. Zapržiti sočivo uz stalno mešanje, da se zaprška ne bi zgrudvala.
 
 Zaprženo sočivo kuvati na tihoj vatri još dvadesetak minuta, uz povremeno mešanje, a zatim dodati biber. Poslužiti kao samostalno jelo ili kao prilog uz dinstano meso ili faširane šnicle.
 

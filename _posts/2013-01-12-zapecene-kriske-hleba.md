@@ -34,7 +34,7 @@ Ukoliko preostane hleb, ne treba ga bacati, već se od njega može pripremiti uk
 
 Hleb iseći na ravne, tanke kriške. Kriške premazati margarinom, maslacem ili domaćom svinjskom mašću i posuti narendanim starim belim sirom ili kačkavaljem.
 
-Premazane kriške hleba poređati u pleh i zapeći u prethodno zagrejanoj pećnici na 200 stepeni. Hleb peći najviše 5 minuta, da se margarin ili mast istopi a sir slegne. Ko voli, može preko sira posuti malo aleve paprike. Preko hleba može se staviti režanj salame ili šunke.
+Premazane kriške hleba poređati u pleh i zapeći u prethodno zagrejanoj pećnici na 200 stepeni. Hleb peći najviše 5 minuta, da se margarin ili mast istopi a sir slegne. Ko voli, može preko sira posuti malo crvene sitne paprike. Preko hleba može se staviti režanj salame ili šunke.
 
 Zapečene kriške hleba poslužiti tople uz jogurt, kiselo mleko ili čaj, jer ako se služe hladne neće biti više ukusne.
 

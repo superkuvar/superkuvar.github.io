@@ -48,7 +48,7 @@ Tikvice oprati, oljuštiti i pažljivo izdubiti kašičicom.  Unutrašnjost tikv
 
 Napunjene tikvice slagati uspravno u šerpu i naliti toplom vodom, da ogreznu. Između tikvica mogu se staviti komadići izdubljene sredine. Jelo kuvati na umerenoj temperaturi oko 30 minuta. Po potrebi doliti još malo tople vode.
 
-U malo vode razmutiti kašiku brašna i kašičicu aleve paprike i sipati u tikvice. Protresti sud, da se zaprška svuda razlije i kuvati još dvadesetak minuta. Po želji, punjene tikvice poslužiti sa kiselom pavlakom.
+U malo vode razmutiti kašiku brašna i kašičicu crvene sitne paprike i sipati u tikvice. Protresti sud, da se zaprška svuda razlije i kuvati još dvadesetak minuta. Po želji, punjene tikvice poslužiti sa kiselom pavlakom.
 
 **Napomena**: 
 > ko ne voli zapršku može je izostaviti, jelo je ukusno i nezaprženo.

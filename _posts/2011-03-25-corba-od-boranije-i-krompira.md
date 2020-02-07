@@ -24,7 +24,7 @@ Potrebno:
   * čen belog luka
   * malo peršunovog lista
   * čaša kisele pavlake
-  * kašičica slatke aleve paprike
+  * kašičica slatke crvene sitne paprike
   * 1 kocka za supu
 
 ![corba od boranije i krompira](/wp-content/uploads/2011/03/%C4%8Corba-od-boranije-i-krompira1-1024x768.jpg)

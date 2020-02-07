@@ -31,7 +31,7 @@ tags:
   * biber
   * ulje
   * 1 kašika brašna
-  * malo aleve paprike
+  * malo crvene sitne paprike
 
 <img class="alignnone size-medium wp-image-3799" title="Paprikepunjenepatlidzanom" src="/wp-content/uploads/2011/05/Paprikepunjenepatlidzanom-1024x768.jpg" alt="" width="300" height="225" /> 
 
@@ -41,4 +41,4 @@ Na ulju propržiti seckan crni luk, dodati oceđen patlidžan, pa pirjaniti dok 
 
 Nadev dobro izmešati, a zatim puniti paprike. Svaku zatvoriti kolutom paradajza, ređati u dublju šerpu, naliti vodom da ogreznu i kuvati na tihoj vatri.
 
-Pri kraju kuvanja paprike preliti zaprškom pripremljenom od ulja, brašna i malo aleve paprike. Sud sa paprikama vratiti na štednjak i kuvati još desetak minuta.
+Pri kraju kuvanja paprike preliti zaprškom pripremljenom od ulja, brašna i malo crvene sitne paprike. Sud sa paprikama vratiti na štednjak i kuvati još desetak minuta.

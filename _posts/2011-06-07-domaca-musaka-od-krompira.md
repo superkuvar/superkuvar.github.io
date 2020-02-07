@@ -34,7 +34,7 @@ tags:
 
 <img class="alignnone size-medium wp-image-2507" title="Musaka od krompira" src="/wp-content/uploads/2011/06/Musaka-od-krompira-1024x768.jpg" alt="" width="300" height="225" /> 
 
-**Priprema**: crni luk očistiti, iseckati na rebarca pa dinstati na ulju, uz dolivanje po malo vode. Kada luk dobije staklast izgled, dodati mleveno meso. Sve još malo propržiti, pa dodati kašičicu aleve paprike, kašiku iseckanog peršunovog lista, posoliti i pobiberiti po ukusu.
+**Priprema**: crni luk očistiti, iseckati na rebarca pa dinstati na ulju, uz dolivanje po malo vode. Kada luk dobije staklast izgled, dodati mleveno meso. Sve još malo propržiti, pa dodati kašičicu crvene sitne paprike, kašiku iseckanog peršunovog lista, posoliti i pobiberiti po ukusu.
 
 Krompir oprati, oljuštiti i iseći na tanje kolutove. U podmazan sud prvo staviti dva reda kolutova krompira, a zatim naizmenično ređati proprženo meso i krompir. Završiti slojem krompira.
 

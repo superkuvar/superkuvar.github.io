@@ -25,7 +25,7 @@ tags:
   * veza mladog crnog luka
   * 1 šargarepa
   * koren paškanata
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * 1 jaje
   * šoljica pirinča
   * so

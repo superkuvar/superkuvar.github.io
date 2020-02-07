@@ -35,7 +35,7 @@ tags:
 
 <img class="alignnone size-medium wp-image-2545" title="Musaka" src="/wp-content/uploads/2012/02/Musaka-1024x768.jpg" alt="" width="300" height="225" /> 
 
-**Priprema**: na zagrejanom ulju propržiti sitno seckani crni luk, dodati narendanu šargarepu, mleveno meso, malo aleve paprike i bibera, pa još malo pržiti. Na kraju dodati so i suvi biljni začin po ukusu.
+**Priprema**: na zagrejanom ulju propržiti sitno seckani crni luk, dodati narendanu šargarepu, mleveno meso, malo crvene sitne paprike i bibera, pa još malo pržiti. Na kraju dodati so i suvi biljni začin po ukusu.
 
 Krompir oprati, oljuštiti i iseći na kolutove. U nauljenu posudu ređati red kolutova krompira, red proprženog mesa, dok se sav materijal ne utroši. U poslednjem sloju treba da bude krompir.
 

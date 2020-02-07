@@ -30,6 +30,6 @@ tags:
 
 **Priprema**: šnicle dobro izlupati tučkom i posoliti. Uvaljati ih u brašno i pržiti na umerenoj temperaturi, da porumene sa obe strane.
 
-U ulje u kom su se šnicle pržile staviti sitno iseckani beli luk i kašičicu aleve paprike, pa naliti čašom vode. U tako pripremljen sos vratiti šnicle da se dinstaju, dok ne omekšaju.
+U ulje u kom su se šnicle pržile staviti sitno iseckani beli luk i kašičicu crvene sitne paprike, pa naliti čašom vode. U tako pripremljen sos vratiti šnicle da se dinstaju, dok ne omekšaju.
 
 Pri kraju dinstanja u šnicle dodati decilitar belog vina, malo soli i bibera. Kada su šnicle gotove, u sos dodati dve supene kašike pavlake. Služiti uz pire krompir ili bareni pirinač i salatu.

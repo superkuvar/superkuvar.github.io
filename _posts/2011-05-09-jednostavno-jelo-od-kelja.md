@@ -39,6 +39,6 @@ tags:
 
 U šerpu sipati malo ulja, pa kada se zagreje dodati iseckan crni luk i izrendanu šargarepu i pržiti dok ne omekšaju. U propržen luk i šargarepu dodati oceđen kelj i naliti supom ili toplom vodom da ogrezne. Posoliti, pobiberiti i dodati izgnječen beli luk. Jelo kuvati na umerenoj temperaturi dok kelj ne omekša.
 
-U malo hladne vode razmutiti brašno i kašičicu aleve paprike, pa pred kraj kuvanja sipati u kelj. Ostaviti da se kuva još desetak minuta na tihoj vatri.
+U malo hladne vode razmutiti brašno i kašičicu crvene sitne paprike, pa pred kraj kuvanja sipati u kelj. Ostaviti da se kuva još desetak minuta na tihoj vatri.
 
 Pre serviranja u jelo se može dodati nekoliko kašika kisele pavlake.

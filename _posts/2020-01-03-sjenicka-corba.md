@@ -20,7 +20,7 @@ tags:
 * 300 g crnog luka 
 * 3 sveže crvene paprike
 * 5 dl ovčijeg mleka, 
-* kašika aleve paprike,
+* kašika crvene sitne paprike,
 * so 
 * biber
 

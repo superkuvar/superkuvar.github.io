@@ -24,7 +24,7 @@ tags:
 * glavica crnog luka  
 * soja u komadićima (50 grama)  
 * suvi bosiljak  
-* pola kašike aleve paprike  
+* pola kašike crvene sitne paprike  
 * 2 kašike skroba (gustina)  
 * ulje
 

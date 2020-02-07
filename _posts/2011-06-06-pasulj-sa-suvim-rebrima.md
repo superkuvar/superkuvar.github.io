@@ -31,6 +31,6 @@ tags:
 
 **Priprema**: pasulj očistiti, oprati, naliti hladnom vodom i ostaviti preko noći da nabubri. Sutradan, ocediti ga, naliti hladnom vodom i staviti da se kuva. Posle 20 minuta kuvanja ocediti vodu u kojoj se pasulj kuvao i naliti ga toplom vodom. Dodati oprana i isečena rebra, sitno iseckani crni luk i lorber. Kuvati dalje na umerenoj temperaturi, dok pasulj ne bude mekan.
 
-Napraviti zapršku od brašna proprženog na ulju i u nju dodati malo aleve paprike. Sipati zapršku u pasulj i ostaviti da se još malo krčka. Posoliti, ukoliko rebra nisu dovoljno slana. Pobiberiti po ukusu i služiti.
+Napraviti zapršku od brašna proprženog na ulju i u nju dodati malo crvene sitne paprike. Sipati zapršku u pasulj i ostaviti da se još malo krčka. Posoliti, ukoliko rebra nisu dovoljno slana. Pobiberiti po ukusu i služiti.
 
 Ako se pasulj sa suvim rebrima priprema u zimskom periodu, biće još ukusniji ukoliko se posluži sa salatom od kiselog kupusa ili cvekle.

@@ -49,4 +49,4 @@ Na ulju propržiti sitno iseckan praziluk i papriku isečenu na kockice. Posolit
 
 Na svaki list kupusa staviti po kašiku nadeva. Zavijati sarme i ređati ih u šerpu, na čije je dno stavljen sloj sitno iseckanog kupusa. Naliti vodom da sarme ogreznu, dodati 2 lista lovora i kuvati na tihoj vatri oko 30 minuta.
 
-Napraviti tanku zapršku od ulja, kašike brašna i aleve paprike. Pripremljenom zaprškom preliti sarme, a zatim ih staviti u pećnicu zagrejanu na 200 stepeni, da se zapeku.
+Napraviti tanku zapršku od ulja, kašike brašna i crvene sitne paprike. Pripremljenom zaprškom preliti sarme, a zatim ih staviti u pećnicu zagrejanu na 200 stepeni, da se zapeku.

@@ -25,7 +25,7 @@ tags:
   * 2 šargarepe
   * veza korenastog povrća (peršun, paškanat, celer)
   * kašika paradajz pirea
-  * kašika aleve paprike
+  * kašika crvene sitne paprike
   * jedno žumance
   * suvi biljni začin
   * biber u zrnu
@@ -38,4 +38,4 @@ tags:
 
 U međuvremenu, zamesiti testo od jednog žumanceta, malo brašna i soli, da bude tvrdo, izrendati ga na krupno rende i ostaviti da se malo prosuši. Prosušeno testo dodati u čorbu i kuvati još nekoliko minuta.
 
-Napraviti laganu zapršku od kašike brašna i malo aleve paprike i zapržiti čorbu. Po želji, u čorbu se, prilikom služenja, može dodati kisela pavlaka.
+Napraviti laganu zapršku od kašike brašna i malo crvene sitne paprike i zapržiti čorbu. Po želji, u čorbu se, prilikom služenja, može dodati kisela pavlaka.

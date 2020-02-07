@@ -43,7 +43,7 @@ tags:
 
 Iseckati sitno malo kupusa, staviti ga na dno šerpe, staviti dva lovorova lista, pa odozgo poređati sarme. Naliti vodom, da ogreznu i na laganoj vatri kuvati dok kupus ne omekša.
 
-Pred kraj kuvanja, na malo ulja propržiti kašiku brašna, dodati kašičicu aleve paprike, pa preliti sarme. Ostaviti da se još malo krčkaju.
+Pred kraj kuvanja, na malo ulja propržiti kašiku brašna, dodati kašičicu crvene sitne paprike, pa preliti sarme. Ostaviti da se još malo krčkaju.
 
 Sarma se može zapeći u rerni, da dobije rumenu boju.
 

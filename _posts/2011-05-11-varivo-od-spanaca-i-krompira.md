@@ -24,7 +24,7 @@ tags:
   * 3 struka mladog crnog luka
   * 2 kašike brašna
   * ulje
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * so
   * biber
   * kisela pavlaka

@@ -34,6 +34,6 @@ Crni luk iseći na rebarca i propržiti na ulju, u većem sudu u kojem će se kr
 
 U sok koji je krompir pustio dodati dve kašike brašna i vodu, dobro promešati da ne bude grudvica, pa time preliti krompir.
 
-U manjem sudu zagrejati ulje, dodati dosta aleve paprike, preliti po krompiru i staviti da se peče 50 minuta.
+U manjem sudu zagrejati ulje, dodati dosta crvene sitne paprike, preliti po krompiru i staviti da se peče 50 minuta.
 
 Krompir na vojvođanski način služiti uz šnicle i salatu.

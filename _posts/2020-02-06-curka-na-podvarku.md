@@ -18,11 +18,11 @@ tags:
 ---
 **Potrebno je**:
 
-  * veća glavica kiselog kupusa 2kg+
+  * veća glavica kiselog kupusa 2kg
   * 500 ćurećeg mesa
   * 2 glavice crnog luka
   * 2 lista lovora
-  * kašičica aleve paprike
+  * kašičica crvene sitne paprike
   * so
   * biber u zrnu
   * kašičica šećera

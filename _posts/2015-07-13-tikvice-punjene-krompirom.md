@@ -40,4 +40,4 @@ Na dno dublje šerpe rasporediti izdubljenu sredinu od tikvica, a odozgo staviti
 Brašno i crvenu mlevenu papriku razmutiti u malo hladne vode i pred kraj kuvanja sipati u tikvice. Kuvati na laganoj vatri još desetak minuta.
 
 **Napomena**: 
-> tikvice se mogu zapržiti i klasičnom zaprškom od brašna, aleve paprike i ulja.
+> tikvice se mogu zapržiti i klasičnom zaprškom od brašna, crvene sitne paprike i ulja.

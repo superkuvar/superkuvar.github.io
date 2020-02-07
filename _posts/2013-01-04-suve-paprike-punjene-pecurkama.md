@@ -34,7 +34,7 @@ tags:
   * 100 grama pirinča
   * 3 glavice crnog luka
   * 2 dl kuvanog paradajza
-  * pola kašike aleve paprike
+  * pola kašike crvene sitne paprike
   * peršunov list
   * biber
   * so
