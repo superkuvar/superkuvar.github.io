@@ -36,7 +36,7 @@ tags:
 ![salata](/wp-content/uploads/2019/12/salata.jpg)
 
 
-**Priprame**: Skuvanu palentu (kačamak) ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
+**Priprema**: Skuvanu palentu (kačamak) ohladiti, iseckati na kockice veličine 2cm i uvaljati u prezle. Ispržiti u dubokom ulju.
 
 Piletinu iseći na kockice i posoliti. Napraviti smesu za pohovanje od jajeta, 2 kašike brašna, kašike skroba i malo vode, da dobije gustinu smese za palačinke.
 
