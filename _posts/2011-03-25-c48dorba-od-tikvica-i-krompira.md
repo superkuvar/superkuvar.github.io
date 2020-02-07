@@ -27,7 +27,7 @@ tags:
   * 1 kašika seckanog peršunovog lista ili mirođije
   * 5 kašika struganog sira (stari beli ili kačkavalj)
 
-<img class="alignnone size-full wp-image-737" title="corbaodtikvicaikrompira" src="/wp-content/uploads/2011/03/corbaodtikvicaikrompira.jpg" alt="" width="259" height="194" /> 
+![corba od tikvica i krompira](/wp-content/uploads/2011/03/corbaodtikvicaikrompira.jpg)
 
 **Priprema**: tikvice oprati, oljuštiti i očistiti od semena. Tikvice i oljušten krompir iseći na komadiće.
 

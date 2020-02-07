@@ -33,7 +33,7 @@ tags:
   * čaša kisele pavlake
   * ulje
 
-<img class="alignnone size-medium wp-image-5126" src="/wp-content/uploads/2011/03/Corbaodkrompirasaprazilukom-300x225.jpg" alt="Corbaodkrompirasaprazilukom" width="300" height="225" /> 
+![Corba od krompira sa prazilukom](/wp-content/uploads/2011/03/Corbaodkrompirasaprazilukom-1024x768.jpg)
 
 **Priprema**: praziluk očistiti, oprati i iseći na kolutove, pa propržiti na zagrejanom ulju. Odmah dodati malo tople vode, da praziluk brže omekša i da ne porumeni. Zatim dodati krompir isečen na kockice i naliti sa oko litar i po vode. Dodati so i suvi biljni začin i kuvati na umerenoj temperaturi dok krompir ne omekša.
 

@@ -37,7 +37,7 @@ tags:
   * kašika brašna
   * mirođija
 
-<img class="alignnone size-medium wp-image-5065" src="/wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-300x225.jpg" alt="Čorba od graška i krompira" width="300" height="225" /> 
+![Čorba od graška i krompira](/wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-1024x768.jpg)
 
 **Priprema**: praziluk očistiti, oprati i isitniti na kolutove. U lonac sipati malo ulja, pa kada se zagreje dodati isitnjen praziluk i malo ga propržiti.
 

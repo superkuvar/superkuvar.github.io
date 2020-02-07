@@ -37,7 +37,7 @@ tags:
   * rezanci za supu ili neka druga testenina
   * ulje
 
-<img class="alignnone size-medium wp-image-5069" src="/wp-content/uploads/2011/03/Čorbaodpovrća-300x225.jpg" alt="Čorbaodpovrća" width="300" height="225" /> 
+![Čorba od povrća](/wp-content/uploads/2011/03/Čorbaodpovrća-1024x768.jpg) 
 
 **Priprema**: na ulju propržiti sitno seckani crni luk, dodati krompir isečen na kockice, šargarepu isečenu na kolutove, grašak i izgnječen beli luk. Povrće dinstati uz dolivanje po malo tople vode, pa kada bude mekano propasirati ga u blenderu.
 

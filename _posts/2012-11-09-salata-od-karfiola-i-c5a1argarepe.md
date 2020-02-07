@@ -36,7 +36,7 @@ tags:
 
 **Priprema**: karfiol očistiti, oprati, odvojiti na cvetiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Obaren karfiol ocediti od vode, ostaviti da se ohladi a zatim sitno iseckati.
 
-šargarepu, ren i jabuku oprati, oljuštiti, sitno izrendati i pomešati sa isitnjenim karfiolom.
+Šargarepu, ren i jabuku oprati, oljuštiti, sitno izrendati i pomešati sa isitnjenim karfiolom.
 
 Isitnjeno povrće i jabuku preliti mešavinom ulja, soli i soka od limuna. Umesto limun amože se upotrebiti i sirće. Salatu izmešati i staviti u frižider da se malo ohladi.
 

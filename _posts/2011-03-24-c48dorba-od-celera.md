@@ -35,7 +35,7 @@ tags:
   * celerov list
   * parmezan (po želji)
 
-<img class="alignnone size-medium wp-image-5284" src="/wp-content/uploads/2011/03/Čorba-od-celera-300x225.jpg" alt="Čorba od celera" width="300" height="225" /> 
+![Čorba od celera](/wp-content/uploads/2011/03/Čorba-od-celera-1024x768.jpg)
 
 **Priprema**: celer oljuštiti, oprati, iseći na kockice, staviti u litar i po slane vrele vode i kuvati. Kada celer omekša, u čorbu dodati obaren pirinač, suvi biljni začin i biber.
 

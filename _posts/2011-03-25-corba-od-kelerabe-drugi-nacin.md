@@ -27,7 +27,7 @@ tags:
   * mleveni biber
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-8591" src="/wp-content/uploads/2011/03/corba-od-spanaca-turska-300x225.jpg" alt="corba od spanaca - turska" width="300" height="225" />](/wp-content/uploads/2011/03/corba-od-spanaca-turska.jpg)
+![corba od spanaca](/wp-content/uploads/2011/03/corba-od-spanaca-turska.jpg)
 
 **Priprema**: kelerabu oprati, oljuštiti i narendati. Rendanu kelerabu staviti u lonac, preliti vrelom vodom (litar-litar i po) i kuvati 20 minuta na umerenoj temperaturi.
 
@@ -40,4 +40,3 @@ Kada je čorba gotova začiniti je kiselom pavlakom u kojoj je razmućeno žumac
 
 Stabljika i mlado lišće kelerabe su takođe jestivi, pa ih ne treba bacati, već isitniti i dodati u čorbu.
 
-&nbsp;
