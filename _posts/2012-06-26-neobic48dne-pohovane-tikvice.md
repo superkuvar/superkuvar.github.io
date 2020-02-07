@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 manje mlade tikvice
   * 2 jajeta
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3616" title="Neobičnepohovanetikvice" src="/wp-content/uploads/2012/06/Neobičnepohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oljuštiti, oprati i iseći na kolutove. Posoliti, ostaviti da odstoje desetak minuta, pa ocediti vodu.
+**Priprema**: tikvice oljuštiti, oprati i iseći na kolutove. Posoliti, ostaviti da odstoje desetak minuta, pa ocediti vodu.
 
 Umutiti jaja viljuškom i posoliti. Svaki kolut tikvica uvaljati u brašno, umočiti u razmućena jaja pa u mešavinu prezli i kokosovog brašna. Pržiti na zagrejanom ulju, da porumene sa obe strane. Pohovane kolutove tikvica staviti na papirni ubrus da upije masnoću.
 

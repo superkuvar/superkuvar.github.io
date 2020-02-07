@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pileće meso od grudi &#8211; file (600 g)
   * 200 grama paradajz pirea
@@ -31,7 +31,7 @@ Potrebno je:
   * biber
   * ulje
 
-Priprema: očišćenu i opranu šargarepu, tikvicu i paprike iseći na rezance ili štapiće.
+**Priprema**: očišćenu i opranu šargarepu, tikvicu i paprike iseći na rezance ili štapiće.
 
 Svaki komad pilećeg filea izlupati tučkom za meso, malo posoliti i pobiberiti, uvaljati u brašno i pržiti na zagrejanom ulju, zajedno sa listićima svežeg bosiljka. Meso pržiti kratko, oko jedan minut, kako bi se uhvatila korica, pa okrenuti drugu stranu.
 

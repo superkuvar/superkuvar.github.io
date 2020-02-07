@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice srednje veličine
   * 1 glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3400" title="Pljeskavice od tikvica" src="/wp-content/uploads/2012/06/Pljeskavice-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti i narendati na krupno rende, posoliti, staviti u cediljku i ostaviti dvadesetak minuta da se malo ocede.
+**Priprema**: tikvice oprati, oljuštiti i narendati na krupno rende, posoliti, staviti u cediljku i ostaviti dvadesetak minuta da se malo ocede.
 
 Izmešati narendani kačkavalj i umućena jaja, dodati sitno iseckan crni i beli luk, iseckanu mirođiju, majoran i pola kašičice praška za pecivo. U ovu masu dodati oceđene tikvice i brašna onoliko koliko je potrebno da se zamesi malo ređe testo.
 

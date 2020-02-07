@@ -18,7 +18,7 @@ tags:
   - mileram
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (1,5 kg)
   * glavica crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2514" title="Zapečena boranija" src="/wp-content/uploads/2011/05/Zapečena-boranija1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
+**Priprema**: boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
 
 Umutiti mileram sa žumancima i malo suvog biljnog začina. Posebno umutiti belanca, pa pažljivo izmešati sa žumacima i mileramom. Preliti preko boranije, a odozgo posuti komadićima margarina.
 

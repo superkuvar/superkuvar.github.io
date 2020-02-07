@@ -22,7 +22,7 @@ tags:
   - mleko
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama makarona
   * 75 grama maslaca ili margarina
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5424" src="/wp-content/uploads/2013/03/Zapecenemakaronesaprazilukomisirom-300x225.jpg" alt="Zapecenemakaronesaprazilukomisirom" width="300" height="225" /> 
 
-Priprema: opran i očišćen praziluk iseći na kolutove i obariti u manjoj količini slane vode, a zatim ocediti.
+**Priprema**: opran i očišćen praziluk iseći na kolutove i obariti u manjoj količini slane vode, a zatim ocediti.
 
 Makarone skuvati prema uputstvu na ambalaži i ocediti.
 

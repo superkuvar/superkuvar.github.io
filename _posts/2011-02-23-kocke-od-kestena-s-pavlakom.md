@@ -16,7 +16,7 @@ tags:
   - slatka pavlaka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 jaja
   * 150 grama maslaca ili margarina
@@ -26,7 +26,7 @@ Potrebno je:
   * 6 kašika šećera (za pavlaku)
   * kesica vanilin šećera
 
-Priprema: penasto umutiti maslac sa šećerom, pa dodati žumanca i još malo mutiti. U umućenu masu dodati obaren, oljušten i propasiran kesten. Umutiti belanca u čvrst sneg, pa u njih dodati testo sa kestenom.
+**Priprema**: penasto umutiti maslac sa šećerom, pa dodati žumanca i još malo mutiti. U umućenu masu dodati obaren, oljušten i propasiran kesten. Umutiti belanca u čvrst sneg, pa u njih dodati testo sa kestenom.
 
 Namazati pleh maslacem i posuti brašnom, pa sipati testo. Testo peći oko 30 minuta u pećnici zagrejanoj na 180 stepeni.
 

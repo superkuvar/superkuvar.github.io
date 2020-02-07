@@ -16,7 +16,7 @@ tags:
   - kisela pavlaka
   - prezle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * blitva (3 veze)
   * glavica crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-685" title="pireodblitve" src="/wp-content/uploads/2011/05/pireodblitve.jpg" alt="" width="259" height="194" /> 
 
-Priprema: blitvu oprati, ukloniti drške, a zatim je staviti u ključalu vodu i kuvati 5 minuta. Zatim je ocediti i kada se malo prohladi iseći na rezance.
+**Priprema**: blitvu oprati, ukloniti drške, a zatim je staviti u ključalu vodu i kuvati 5 minuta. Zatim je ocediti i kada se malo prohladi iseći na rezance.
 
 Na zagrejanom ulju propržiti sitno iseckan crni luk, pa dodati iseckan beli luk, prezle, mleko i malo vode u kojoj se kuvala blitva. Sve prokuvati, a zatim dodati isečenu blitvu, pobiberiti i još malo pirjaniti.
 

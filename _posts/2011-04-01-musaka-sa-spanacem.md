@@ -17,7 +17,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (150 grama)
   * spanać (1 kg)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-677" title="musakasaspanacem" src="/wp-content/uploads/2011/04/musakasaspanacem.jpg" alt="" width="240" height="179" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i pržiti na ulju, da postane staklast.
+**Priprema**: crni luk očistiti, sitno iseckati i pržiti na ulju, da postane staklast.
 
 Pirinač oprati, skuvati a zatim ocediti. Ne treba da se prekuva.
 

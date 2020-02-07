@@ -16,7 +16,7 @@ tags:
   - pirinač
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1 kilogram)
   * pirinač (100 grama)
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-645" title="spanacsapirincem" src="/wp-content/uploads/2011/05/spanacsapirincem.jpg" alt="" width="275" height="183" /> 
 
-Priprema: crni luk očistiti, sitno iseckati, staviti u zagrejano ulje i propržiti.
+**Priprema**: crni luk očistiti, sitno iseckati, staviti u zagrejano ulje i propržiti.
 
 Spanać očistiti, oprati i iseći na rezance.
 

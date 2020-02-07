@@ -18,7 +18,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kiselog kupusa ribanca
   * ulje
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1036" title="musakaodkupusa" src="/wp-content/uploads/2011/06/musakaodkupusa-e1307611204207.jpg" alt="" width="221" height="168" /> 
 
-Priprema: kupus oprati, ukoliko je mnogo slan, ocediti i dinstati na ulju, uz povremeno dolivanje po malo vode. Kad kupus omekša, dodati šolju opranog pirinča, malo bibera i dva lista lovora. Dinstati i dalje dok pirinač ne omekša, uz povremeno mešanje. Kad je gotovo skloniti sa štednjaka.
+**Priprema**: kupus oprati, ukoliko je mnogo slan, ocediti i dinstati na ulju, uz povremeno dolivanje po malo vode. Kad kupus omekša, dodati šolju opranog pirinča, malo bibera i dva lista lovora. Dinstati i dalje dok pirinač ne omekša, uz povremeno mešanje. Kad je gotovo skloniti sa štednjaka.
 
 U drugom sudu propržiti sitno seckani luk, pa kad postane staklast, dodati meso i dalje pržiti. Kad je meso gotovo, dodati malo soli. Umutiti jaja sa mlekom i kašičicom suvog biljnog začina.
 

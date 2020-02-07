@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 9 jaja
   * 9 kašika šećera
@@ -42,7 +42,7 @@ Za glazuru:
   * komadić margarina
   * 3 kašike mleka
 
-Priprema: umutiti žumaca sa šećerom, zatim dodati brašno, prašak za pecivo i mlevene orahe, pa na kraju lagano umešati čvrst sneg od belanaca. Testo sipati u pleh obložen papirom za pečenje. Peći dvadesetak minuta u pećnici prethodno zagrejanoj na 200 stepeni.
+**Priprema**: umutiti žumaca sa šećerom, zatim dodati brašno, prašak za pecivo i mlevene orahe, pa na kraju lagano umešati čvrst sneg od belanaca. Testo sipati u pleh obložen papirom za pečenje. Peći dvadesetak minuta u pećnici prethodno zagrejanoj na 200 stepeni.
 
 Pripremiti nadev na sledeći način: keks popariti vrelim mlekom, pa dodati suvo grožđe natopljeno rumom. Penasto umutiti margarin sa prah šećerom i dobro izmešati sa ohlađenim keksom.
 

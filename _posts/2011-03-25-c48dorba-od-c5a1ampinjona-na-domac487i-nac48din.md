@@ -20,7 +20,7 @@ tags:
   - šampinjoni
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama šampinjona
   * 2 žumanca
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-744" title="sampinjonicorbadom" src="/wp-content/uploads/2011/03/sampinjonicorbadom1.jpg" alt="" width="276" height="183" /> 
 
-Priprema: šampinjone očistiti, oprati i iseći na listiće. Isitnjene šampinjone staviti na zagrejani margarin i dinstati oko 15 minuta, a zatim naliti litrom tople vode, posoliti i kuvati oko 20 minuta.
+**Priprema**: šampinjone očistiti, oprati i iseći na listiće. Isitnjene šampinjone staviti na zagrejani margarin i dinstati oko 15 minuta, a zatim naliti litrom tople vode, posoliti i kuvati oko 20 minuta.
 
 U posebnoj posudi, na malo ulja propržiti brašno, a potom ga zaliti mlekom. Pred kraj kuvanja u čorbu dodati pripremljenu zapršku od brašna i mleka. Ostaviti da čorba vri na tihoj vatri još nekoliko minuta.
 

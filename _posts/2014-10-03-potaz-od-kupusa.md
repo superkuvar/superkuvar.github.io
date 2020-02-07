@@ -20,7 +20,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svež kupus (500 grama)
   * 1 glavica crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9272" src="/wp-content/uploads/2014/10/Potazodkupusa-300x225.jpg" alt="Potazodkupusa" width="300" height="225" />](/wp-content/uploads/2014/10/Potazodkupusa.jpg)
 
-Priprema: očistiti crni luk, celer, šargarepu i kupus. Očišćeno povrće oprati pa isitniti: luk na rebarca, kupus na rezance a šargarepu i celer na kockice. Paradajz oljuštiti i sitno iseckati.
+**Priprema**: očistiti crni luk, celer, šargarepu i kupus. Očišćeno povrće oprati pa isitniti: luk na rebarca, kupus na rezance a šargarepu i celer na kockice. Paradajz oljuštiti i sitno iseckati.
 
 Na ulju propržiti luk, a zatim dodati celer, šargarepu i paradajz i poklopljeno dinstati desetak minuta. Izdinstano povrće naliti toplom vodom (otprilike litar) i kada proključa dodati kupus. Potaž kuvati na umerenoj temperaturi oko 25 minuta. Zatim dodati oljušten i na kocke isečen krompir, pa nastaviti sa kuvanjem dok krompir ne omekša.
 

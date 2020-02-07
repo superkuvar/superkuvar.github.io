@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama boba
   * 200 grama graška
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4963" title="Čorbaodbobaigraška" src="/wp-content/uploads/2012/12/Čorbaodbobaigraška-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na malo ulja propržiti sitno seckani crni luk. U propržen luk dodati šargarepu isečenu na kolutove, krompir isečen na kockice i oljušten bob pa naliti litrom i po vode. Kada čorba provri dodati grašak.
+**Priprema**: na malo ulja propržiti sitno seckani crni luk. U propržen luk dodati šargarepu isečenu na kolutove, krompir isečen na kockice i oljušten bob pa naliti litrom i po vode. Kada čorba provri dodati grašak.
 
 Čorbu kuvati na umerenoj temperaturi, dok povrće ne omekša. Povremeno promešati. Posoliti i dodati malo kurkume.
 

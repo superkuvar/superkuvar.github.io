@@ -21,7 +21,7 @@ tags:
   - slanina
   - testenina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama testenine (školjkice)
   * 2 srednja plava patlidžana
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6210" src="/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem-300x225.jpg" alt="Testeninasaslaninomipovrcem" width="300" height="225" />](/wp-content/uploads/2013/10/Testeninasaslaninomipovrcem.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći na kockice, posoliti i ostaviti 20 minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kockice, posoliti i ostaviti 20 minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio.
 
 Na malo ulja propržiti sitno seckani crni luk, da bude staklast, a zatim dodati oceđen patlidžan, paradajz, oljušten i sitno isečen i izgnječen beli luk. Dinstati na laganoj vatri, dok povrće ne omekša i ne uvri tečnost. Pri kraju dinstanja posoliti i dodati malo bosiljka.
 

@@ -16,7 +16,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 2-3 tikvice srednje veličine  
 * 1 jaje  
 * 100 grama brašna  
@@ -27,7 +27,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9702" src="/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-300x225.jpg" alt="pohovanetikviceupivskomtestu" width="300" height="225" />](/wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-e1439205342274.jpg)
 
-Priprema: tikvice oprati, oljuštiti i iseći na režnjeve, posoliti i ostaviti da odstoje oko petnaest minuta. Nakon toga tikvice ocediti od vode koju su pustile.
+**Priprema**: tikvice oprati, oljuštiti i iseći na režnjeve, posoliti i ostaviti da odstoje oko petnaest minuta. Nakon toga tikvice ocediti od vode koju su pustile.
 
 Pomešati brašno, so i prašak za pecivo. U posudu sipati pivo, pa dodati jaje i postepeno sipati brašno, uz neprestano mućenje žicom ili mikserom (najmanja brzina).
 

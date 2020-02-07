@@ -20,7 +20,7 @@ tags:
   - kupus
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kupusa (oko 1 kilogram)
   * kašičica šećera
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4825" title="Kupussanoklicama" src="/wp-content/uploads/2012/11/Kupussanoklicama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus očistiti, oprati, iseći na rezance, dodati šećer pa propržiti na ulju. Posoliti, pobiberiti i dinstati, poklopljen, dok ne omekša. U toku dinstanja u kupus dolivati po malo tople vode.
+**Priprema**: kupus očistiti, oprati, iseći na rezance, dodati šećer pa propržiti na ulju. Posoliti, pobiberiti i dinstati, poklopljen, dok ne omekša. U toku dinstanja u kupus dolivati po malo tople vode.
 
 U međuvremenu, pripremiti noklice. Umutiti jaja viljuškom, pa dodati so, brašno, i uz minimalno dodavanje vode zamesiti meko testo. Varjačom dobro ulupati, da se na testu pojave klobuci. Testo prekriti salvetom i ostaviti dvadeset minuta da odleži.
 

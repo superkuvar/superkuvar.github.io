@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tanke kore za pitu (500 grama)
   * kokosovo brašno (250 grama)
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9481" src="/wp-content/uploads/2015/03/pitasakokosom-300x225.jpg" alt="pitasakokosom" width="300" height="225" />](/wp-content/uploads/2015/03/pitasakokosom.jpg)
 
-Priprema: umutiti jaja sa šećerom, dodati kašiku brašna i malo hladnog mleka i dobro razmutiti. Ostatak mleka staviti da provri, skloniti sa vatre i sipati umućena jaja, uz stalno mešanje da se ne zgrudva. Krem kuvati na tihoj vatri, stalno mešajući da ne zagori. Skloniti sa štednjaka i dodati margarin. Kada se krem ohladi, dodati kiselu pavlaku, kokosovo brašno i oprano suvo grožđe.
+**Priprema**: umutiti jaja sa šećerom, dodati kašiku brašna i malo hladnog mleka i dobro razmutiti. Ostatak mleka staviti da provri, skloniti sa vatre i sipati umućena jaja, uz stalno mešanje da se ne zgrudva. Krem kuvati na tihoj vatri, stalno mešajući da ne zagori. Skloniti sa štednjaka i dodati margarin. Kada se krem ohladi, dodati kiselu pavlaku, kokosovo brašno i oprano suvo grožđe.
 
 Odvojiti po četiri kore, svaku poprskati mešavinom ulja i tople vode, pa preko četvrte premazati fil-krem, a zatim urolati kao štrudlu. Poređati u podmazan pleh, a odozgo premazati mešavinom vode i ulja.
 

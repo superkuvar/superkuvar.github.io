@@ -16,7 +16,7 @@ tags:
   - paprike
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 kilograma mesnatih paprika
   * 3 kilograma paradajza
@@ -27,7 +27,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8794" src="/wp-content/uploads/2011/09/paradajzzasataras-300x225.jpg" alt="paradajzzasataras" width="300" height="225" />](/wp-content/uploads/2011/09/paradajzzasataras.jpg)
 
-Priprema: paprike oprati, očistiti od semena, a paradajz i crni luk oljuštiti. Povrće sitno iseckati ili samleti na mašini za mlevenje mesa.
+**Priprema**: paprike oprati, očistiti od semena, a paradajz i crni luk oljuštiti. Povrće sitno iseckati ili samleti na mašini za mlevenje mesa.
 
 U veću šerpu sipati ulje, dodati pripremljeno povrće, a zatim pržiti dok ne uvri sva tečnost koju je pustilo. Posoliti i dodati konzervans.
 

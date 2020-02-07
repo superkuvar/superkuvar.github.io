@@ -13,7 +13,7 @@ categories:
 tags:
    - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g mlevenog mesa 
 * 2-3 glavice crnog luka

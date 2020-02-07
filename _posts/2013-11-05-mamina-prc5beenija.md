@@ -16,7 +16,7 @@ tags:
   - paprike
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram paprika
   * veća glavica crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6238" src="/wp-content/uploads/2013/11/Maminaprzenija-e1383634810164-300x238.jpg" alt="Maminaprzenija" width="300" height="238" />](/wp-content/uploads/2013/11/Maminaprzenija-e1383634810164.jpg)
 
-Priprema: paprike oprati, očistiti od semena i iseći na rezance.
+**Priprema**: paprike oprati, očistiti od semena i iseći na rezance.
 
 Crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati isečene paprike i pržiti na umerenoj temperaturi. Na polovini prženja paprike posoliti i pobiberiti.
 

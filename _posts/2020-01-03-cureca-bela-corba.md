@@ -13,7 +13,7 @@ tags:
    - paprike
    - ćuretina
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 200 g ćurećeg mesa 
 * 3 kašike brašna
@@ -26,7 +26,7 @@ Potrebno je:
 * biber
 * ruzmarin
 
-Priprema:
+**Priprema**:
 
 Ćureće meso kuvati u litru vode. Dok se meso kuva sitno iseckati crni luk, papriku i šargarepu. U loncu gde će se čorba kuvati propržiti povrće i preliti sa malo vode kako bi se dobro udinstalo. 
 

@@ -21,7 +21,7 @@ tags:
   - puding
   - šlag
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram keksa &#8221;pti ber&#8221;
   * 1 kilogram jabuka (kiselih)
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5446" src="/wp-content/uploads/2011/12/Nepeceni-kolac-od-keksa-i-jabuka-300x225.jpg" alt="Nepeceni kolac od keksa i jabuka" width="300" height="225" /> 
 
-Priprema: jabuke oprati, oljuštiti i iseći na komadiće. Staviti ih u šerpu, dodati šećer, preliti litrom vode i kuvati dok ne omekšaju.
+**Priprema**: jabuke oprati, oljuštiti i iseći na komadiće. Staviti ih u šerpu, dodati šećer, preliti litrom vode i kuvati dok ne omekšaju.
 
 U drugi sud odliti 4 decilitra tečnosti u kojoj su se jabuke kuvale (za potapanje keksa). Kuvane jabuke dobro izgnječiti viljuškom ili izmiksati.
 

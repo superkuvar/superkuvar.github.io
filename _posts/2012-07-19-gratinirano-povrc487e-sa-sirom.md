@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * 3 sveže paprike
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3756" title="Gratiniranopovrcesasirom" src="/wp-content/uploads/2012/07/Gratiniranopovrcesasirom-e1342618407235-300x241.jpg" alt="" width="300" height="241" /> 
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na malo ulja. šargarepu oprati, oljuštiti i narendati. Paprike oprati i iseći na rezance. Tikvice oprati, oljuštiti i iseći na kolutove.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. šargarepu oprati, oljuštiti i narendati. Paprike oprati i iseći na rezance. Tikvice oprati, oljuštiti i iseći na kolutove.
 
 Pripremljeno povrće sjediniti sa proprženim lukom, naliti šoljom tople vode i poklopljeno dinstati na tihoj vatri.
 

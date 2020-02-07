@@ -18,7 +18,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 veći praziluk ili 2 glavice crnog luka
   * 300 grama belog pilećeg mesa
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2592" title="Pirinač sa belim mesom i pečurkama" src="/wp-content/uploads/2012/02/Pirinač-sa-belim-mesom-i-pečurkama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: praziluk oprati, iseckati i izdinstati na ulju. Pri kraju dodati belo pileće meso isečeno na kockice i pečurke isečene na listiće. Doliti malo tople vode i dinstati na umerenoj temperaturi.
+**Priprema**: praziluk oprati, iseckati i izdinstati na ulju. Pri kraju dodati belo pileće meso isečeno na kockice i pečurke isečene na listiće. Doliti malo tople vode i dinstati na umerenoj temperaturi.
 
 Na kraju dinstanja u meso i pečurke sipati mleko u kome je razmućen gustin. Posoliti, dodati malo suvog biljnog začina i bosiljka. Jelo lagano promešati i poklopljeno ostaviti na štednjaku još nekoliko minuta minuta.
 

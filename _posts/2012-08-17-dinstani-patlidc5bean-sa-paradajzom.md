@@ -19,7 +19,7 @@ tags:
   - plavi patlidžan
   - prezle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 veća plava patlidžana
   * 2 glavice crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4009" title="Dinstanipatlidzansaparadajzom" src="/wp-content/uploads/2012/08/Dinstanipatlidzansaparadajzom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti i obariti u posoljenoj vodi. Bariti ga desetak minuta, a nakon toga ocediti i iseckati na krupniju parčad.
+**Priprema**: plavi patlidžan oprati, oljuštiti i obariti u posoljenoj vodi. Bariti ga desetak minuta, a nakon toga ocediti i iseckati na krupniju parčad.
 
 Na ulju propržiti sitno iscekan crni luk. Paradajz oljuštiti, iseći na komade i dodati u luk. Prodinstati desetak minuta, a zatim dodati patlidžan i nastaviti sa dinstanjem dok skoro ne uvri tečnost koju je paradajz pustio.
 

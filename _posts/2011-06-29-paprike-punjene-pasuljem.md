@@ -22,7 +22,7 @@ tags:
   - paprike
   - pasulj
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 suvih paprika (mogu i sveže)
   * 500 grama pasulja
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5022" src="/wp-content/uploads/2011/06/Paprikepunjenepasuljem-300x225.jpg" alt="Paprikepunjenepasuljem" width="300" height="225" /> 
 
-Priprema: pasulj oprati, naliti hladnom vodom i ostaviti da odstoji preko noći. Sutradan ga skuvati u manjoj količini vode, u koju je dodat lovorov list i malo soli, vodeći računa da se zrna ne raspadnu. Pasulj ocediti a vodu u kojoj se kuvao sačuvati za nalivanje jela.
+**Priprema**: pasulj oprati, naliti hladnom vodom i ostaviti da odstoji preko noći. Sutradan ga skuvati u manjoj količini vode, u koju je dodat lovorov list i malo soli, vodeći računa da se zrna ne raspadnu. Pasulj ocediti a vodu u kojoj se kuvao sačuvati za nalivanje jela.
 
 Na zagrejanom ulju propržiti  sitno seckani luk, pa kad postane staklast dodati oceđen pasulj, posoliti i pobiberiti.
 

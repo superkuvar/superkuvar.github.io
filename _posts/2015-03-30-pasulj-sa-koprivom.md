@@ -19,7 +19,7 @@ tags:
   - pasulj
   - šargarepa
 ---
-Potrebno je:  
+**Potrebno je**:  
 * pasulj (1/2 kg)  
 * 250 grama mladih kopriva  
 * glavica crnog luka  
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9573" src="/wp-content/uploads/2015/03/pasuljsakoprivom-300x225.jpg" alt="pasuljsakoprivom" width="300" height="225" />](/wp-content/uploads/2015/03/pasuljsakoprivom-e1430746126811.jpg)
 
-Priprema: pasulj oprati i preko noći ostaviti potopljen u vodi. Ujutru ga ocediti, naliti hladnom vodom i staviti da se kuva. Kada pasulj proključa ocediti vodu, naliti drugu i nastaviti sa kuvanjem.
+**Priprema**: pasulj oprati i preko noći ostaviti potopljen u vodi. Ujutru ga ocediti, naliti hladnom vodom i staviti da se kuva. Kada pasulj proključa ocediti vodu, naliti drugu i nastaviti sa kuvanjem.
 
 U pasulj dodati sitno iseckan crni luk i šargarepu isečenu na kolutove. Na polovini kuvanja dodati iseckane koprive, prethodno prelivene ključalom vodom i oceđene.
 

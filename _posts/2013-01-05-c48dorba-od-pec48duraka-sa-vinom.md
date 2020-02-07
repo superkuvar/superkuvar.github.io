@@ -23,7 +23,7 @@ tags:
   - vino
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama šampinjona
   * 1 glavica crnog luka
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5039" src="/wp-content/uploads/2013/01/Čorbaodpečurakasavinom-300x225.jpg" alt="Čorbaodpečurakasavinom" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju.  ampinjone oprati, iseći na listiće, dodati u luk i dinstati da omekšaju. Zatim šampinjone naliti litrom tople vode i vinom. Kada čorba provri, dodati kocku za supu i kuvati 30 minuta na umerenoj temperaturi.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju.  ampinjone oprati, iseći na listiće, dodati u luk i dinstati da omekšaju. Zatim šampinjone naliti litrom tople vode i vinom. Kada čorba provri, dodati kocku za supu i kuvati 30 minuta na umerenoj temperaturi.
 
 Pred kraj kuvanja u čorbu sipati brašno razmućeno u malo hladne vode i ostaviti na tihoj vatri dok se čorba malo ne zgusne. U čorbu dodati biber po ukusu.
 

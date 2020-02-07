@@ -23,7 +23,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * veća glavica kiselog kupusa
   * 3 glavice crnog luka i struk praziluka
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5111" src="/wp-content/uploads/2013/01/Posnasarmasaorasima-e1358614141576.jpg" alt="Posnasarmasaorasima" width="295" height="221" /> 
 
-Priprema: odvojiti listove na glavici kupusa i ukloniti žilu u sredini svakog lista. Ukoliko je kupus mnogo kiseo ili slan, oprati ga u hladnoj vodi.
+**Priprema**: odvojiti listove na glavici kupusa i ukloniti žilu u sredini svakog lista. Ukoliko je kupus mnogo kiseo ili slan, oprati ga u hladnoj vodi.
 
 Crni luk i praziluk očistiti i sitno iseckati. šargarepu očistiti, narendati i zajedno sa lukom propržiti na polovini predviđene količine ulja. Posoliti, dodati opran pirinač i još kratko pržiti. Dodati pola kašičice aleve paprike i biber, promešati i skloniti sa vatre. Kad se fil prohladi dodati mlevene orahe i izmešati.
 

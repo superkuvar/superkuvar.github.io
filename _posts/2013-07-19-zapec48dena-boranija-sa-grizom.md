@@ -21,7 +21,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (500 grama)
   * 1 gavica crnog luka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5915" src="/wp-content/uploads/2013/07/Zapecenaboranijasagrizom-300x225.jpg" alt="Zapecenaboranijasagrizom" width="300" height="225" /> 
 
-Priprema: šargarepu i krompir oprati, očistiti i iseći (krompir na kockice, a šargarepu narendati).
+**Priprema**: šargarepu i krompir oprati, očistiti i iseći (krompir na kockice, a šargarepu narendati).
 
 Na ulju propržiti sitno seckani crni luk, dodati narendanu šargarepu, očišćenu boraniju i krompir, preliti toplom vodom ili supom od kocke, da ogrezne i dinstati oko 40 minuta, dok boranija ne omekša. Prilikom dinstanja dolivati, ukoliko je potrebno, po malo tople vode.
 

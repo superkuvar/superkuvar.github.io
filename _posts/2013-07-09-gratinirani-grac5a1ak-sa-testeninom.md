@@ -19,7 +19,7 @@ tags:
   - origano
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * grašak (1/2 kg)
   * glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5873" src="/wp-content/uploads/2013/07/Gratiniranigrasaksatesteninom-300x225.jpg" alt="Gratiniranigrasaksatesteninom" width="300" height="225" /> 
 
-Priprema: skuvati makarone u posoljenoj vodi i ocediti ih. Očišćen i sitno iseckan crni luk propržiti na ulju, dodati grašak i uz dolivanje po malo tople vode dinstati dok ne omekša. Posoliti, dodati suvi biljni začin, biber i mirođiju.
+**Priprema**: skuvati makarone u posoljenoj vodi i ocediti ih. Očišćen i sitno iseckan crni luk propržiti na ulju, dodati grašak i uz dolivanje po malo tople vode dinstati dok ne omekša. Posoliti, dodati suvi biljni začin, biber i mirođiju.
 
 Izmešati grašak i makarone i sipati u podmazanu posudu za pečenje. Odozgo preliti jajima umućenim sa mlekom i posuti margarinom isečenim na listiće. Grašak i makarone peći 30 minuta u pećnici zagrejanoj na 200 stepeni.
 

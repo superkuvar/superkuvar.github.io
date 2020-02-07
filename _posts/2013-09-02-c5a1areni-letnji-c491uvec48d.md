@@ -22,7 +22,7 @@ tags:
   - plavi patlidžan
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * crni luk (4 glavice)
   * 4 krompira
@@ -42,7 +42,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6088" src="/wp-content/uploads/2013/09/Sareniletnjidjuvec-300x225.jpg" alt="Sareniletnjidjuvec" width="300" height="225" />](/wp-content/uploads/2013/09/Sareniletnjidjuvec.jpg)
 
-Priprema: na ulju propržiti iseckan crni luk, dodati oljušten paradajz isečen na komadiće i još malo pržiti.
+**Priprema**: na ulju propržiti iseckan crni luk, dodati oljušten paradajz isečen na komadiće i još malo pržiti.
 
 U propržen luk i paradajz dodati šargarepu isečenu na kolutove, papriku isečenu na komadiće, grašak i pirinač, naliti vodom da ogrezne i ostaviti na štednjaku da proključa. Posoliti, pobiberiti, dodati suvi biljni začin, alevu papriku, iseckan peršunov list i kari.
 

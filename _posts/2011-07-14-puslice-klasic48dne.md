@@ -15,7 +15,7 @@ tags:
   - limunov sok
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 belanaca
   * 30 kašika kristal šećera
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1456" title="puslice1" src="/wp-content/uploads/2011/07/puslice1-e1310649691203.jpg" alt="" width="255" height="170" /> 
 
-Priprema: u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
+**Priprema**: u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
 
 Kašičicom ili kuvarskim špricem formirati puslice, pa ih ređati u pleh obložen namašćenim papirom.
 

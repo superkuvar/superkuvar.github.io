@@ -12,7 +12,7 @@ tags:
   - šampinjoni
   - palenta
 ---
-Potrebno je:
+**Potrebno je**:
 
 * skuvane palente (250 grama)
 * pilećeg belog mesa (350 grama)

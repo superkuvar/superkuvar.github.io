@@ -16,7 +16,7 @@ tags:
   - oslić
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * oslić (1 kilogram)
   * so
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2945" title="Oslić iz rerne" src="/wp-content/uploads/2012/04/Oslić-iz-rerne-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oslić treba da odstoji neko vreme da se odmrzne, pa ako je veći, da se iseče na komade. Svaki komad oslića poprskati limunovim sokom, posoliti i uvaljati u brašno pomešano sa suvim biljnim začinom.
+**Priprema**: oslić treba da odstoji neko vreme da se odmrzne, pa ako je veći, da se iseče na komade. Svaki komad oslića poprskati limunovim sokom, posoliti i uvaljati u brašno pomešano sa suvim biljnim začinom.
 
 Komade ili cele ribu poređati u pleh podmazan uljem. Preko sipati po malo ulja. Staviti u zagrejanu pećnicu i peći na umerenoj temperaturi oko pola sata, da oslić dobije rumenu boju.
 

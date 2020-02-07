@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva (300 grama)
   * šolja pirinča
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5281" src="/wp-content/uploads/2013/02/Pirinač-sa-bundevom-300x225.jpg" alt="Pirinač sa bundevom" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, oprati i iseći na kockice. Pirinač oprati, skuvati u posoljenoj vodi i ocediti.
+**Priprema**: bundevu oljuštiti, oprati i iseći na kockice. Pirinač oprati, skuvati u posoljenoj vodi i ocediti.
 
 Na malo ulja propržiti sitno seckani crni luk, dodati kockice bundeve i uz dolivanje po malo tople vode dinstati, da bundeva omekša.
 

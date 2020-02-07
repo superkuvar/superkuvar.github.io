@@ -21,7 +21,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 2 jajeta
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1545" title="urmasice" src="/wp-content/uploads/2011/07/urmasice3-e1310998985865.jpg" alt="" width="204" height="149" /> 
 
-Priprema: umutiti margarin sa šećerom i jajima, pa dodati mleko, kokos i brašno pomešano sa praškom za pecivo. Sve dobro izmesiti, otkidati kuglice, razvaljati ih u valjčiće i odozgo pritisnuti na rende, da ostanu šare.
+**Priprema**: umutiti margarin sa šećerom i jajima, pa dodati mleko, kokos i brašno pomešano sa praškom za pecivo. Sve dobro izmesiti, otkidati kuglice, razvaljati ih u valjčiće i odozgo pritisnuti na rende, da ostanu šare.
 
 Pripremljene urmašice ređati u podmazan pleh, sa malo razmaka, jer u toku pečenja narastu. Peći u umereno zagrejanoj rerni, desetak minuta, dok ne porumene.
 

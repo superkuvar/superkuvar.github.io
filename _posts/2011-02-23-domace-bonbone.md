@@ -14,7 +14,7 @@ tags:
   - kafa
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * fruktoza (200 grama)
   * 1/2 litra mleka
@@ -22,7 +22,7 @@ Potrebno je:
   * 6 kašika skuvane jake crne kafe
   * na vrh noža sode bikarbone
 
-Priprema: u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti na štednjak, pa pustiti da se masa rastopi.
+**Priprema**: u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti na štednjak, pa pustiti da se masa rastopi.
 
 U rastopljenu masu dodati šećer i crnu kafu, pa vratiti na štednjak i kuvati na tihoj vatri još pola sata, neprestano mešajući. Dodati sodu bikarbonu i nastaviti sa kuvanjem još oko 40 minuta. Masa za bombone je gotova kada se zahvati kašičicom i kada se na njoj stegne.
 

@@ -15,7 +15,7 @@ tags:
   - paprike
   - ren
 ---
-Potrebno je:  
+**Potrebno je**:  
 * mesnate crvene paprike (5 kilograma)  
 * strugani ren (250 grama)  
 * 3 dl ulja  
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9722" src="/wp-content/uploads/2015/09/ajvarsarenom-300x225.jpg" alt="ajvarsarenom" width="300" height="225" />](/wp-content/uploads/2015/09/ajvarsarenom-e1441089698713.jpg)
 
-Priprema: paprike oprati, ostaviti da se ocede od vode, a zatim očistiti od semena i žilica i samleti na mašini za mlevenje mesa.
+**Priprema**: paprike oprati, ostaviti da se ocede od vode, a zatim očistiti od semena i žilica i samleti na mašini za mlevenje mesa.
 
 Samlevene paprike staviti u veću širu šerpu i pržiti dok ne uvri sok koji su pustile. Tokom prženja paprike često mešati drvenom varjačom. Dodati so, ulje i sirće pa još kratko pržiti. Zatim dodati narendan ren, izmešati, skloniti sa vatre i dodati konzervans. Još jednom ajvar dobro izmešati.
 

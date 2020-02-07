@@ -17,7 +17,7 @@ tags:
   - sirće
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama šampinjona
   * 4 jajeta
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4341" title="Salata sa pecurkama i jajima" src="/wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-e1348207281464-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: šampinjone oprati i obariti u slanoj vodi u koju je dodato malo sirćeta. Ocediti ih i iseći na tanke listiće.
+**Priprema**: šampinjone oprati i obariti u slanoj vodi u koju je dodato malo sirćeta. Ocediti ih i iseći na tanke listiće.
 
 Jaja obariti, iseći na kolutove i pomešati sa pečurkama.  ampinjone i jaja preliti mešavinom sirćeta, ulja, soli, šećera, bibera i seckanog peršunovog lista. Salatu promešati i servirati.
 

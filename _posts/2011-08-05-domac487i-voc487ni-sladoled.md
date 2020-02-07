@@ -15,7 +15,7 @@ tags:
   - jogurt
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 čaše (od jogurta) propasiranih jagoda ili malina
   * 2 čaše jogurta
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1617" title="sladoledmalina" src="/wp-content/uploads/2011/08/sladoledmalina-e1312542019658.jpg" alt="" width="227" height="133" /> 
 
-Priprema: u posudu za mućenje sipati jogurt, pavlaku, propasirano voće, šećer i vanilin šećer, pa umutiti mikserom.
+**Priprema**: u posudu za mućenje sipati jogurt, pavlaku, propasirano voće, šećer i vanilin šećer, pa umutiti mikserom.
 
 Umućenu masu sipati u plastičnu posudu i staviti u zamrzivač. Posle pola sata sladoled promešati. Ovaj postupak ponoviti još dva-tri puta, da se u sladoledu ne bi napravili kristali, već da bude kremast.
 

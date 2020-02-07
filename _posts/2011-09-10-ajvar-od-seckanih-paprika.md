@@ -16,7 +16,7 @@ tags:
   - paprike
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 kilograma paprika
   * 5 decilitara ulja
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4169" title="Ajvarodseckanihpaprika" src="/wp-content/uploads/2011/09/Ajvarodseckanihpaprika-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: za spremanje ajvara treba odabrati crvene mesnate paprike. Oprati ih, poređati u pleh i ispeći u pećnici zagrejanoj na 270 stepeni ili na električnom roštilju.
+**Priprema**: za spremanje ajvara treba odabrati crvene mesnate paprike. Oprati ih, poređati u pleh i ispeći u pećnici zagrejanoj na 270 stepeni ili na električnom roštilju.
 
 Ispečene paprike staviti u dublju posudu i poklopiti, da se potpare, kako bi se lakše oljuštile. Mogu se staviti i u plastične kese, dok se ne ohlade i omekšaju. Zatim ih oljuštiti i dobro očistiti od semena.
 

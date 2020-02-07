@@ -22,7 +22,7 @@ tags:
   - krompir
   - paškanat
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama bundeve
   * glavica crnog luka ili manji praziluk
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4969" title="Kremčorbaodbundeve" src="/wp-content/uploads/2012/12/Kremčorbaodbundeve-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na malo ulja propržiti sitno iseckan crni luk, dodati šargarepu isečenu na kolutove i kratko propržiti.
+**Priprema**: na malo ulja propržiti sitno iseckan crni luk, dodati šargarepu isečenu na kolutove i kratko propržiti.
 
 Bundevu, krompir i paškanat oljuštiti, iseći na kockice, dodati u luk i šargarepu pa naliti litrom i po tople vode. Čorbu kuvati 30 minuta. Pred kraj kuvanja dodati so, suvi biljni začin, biber i korijander.
 

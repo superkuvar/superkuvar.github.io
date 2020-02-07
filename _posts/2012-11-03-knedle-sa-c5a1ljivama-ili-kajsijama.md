@@ -21,7 +21,7 @@ tags:
   - prezle
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama oštrog brašna
   * 2 jajeta
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4607" title="Knedle sa sljivama" src="/wp-content/uploads/2012/11/Knedle-sa-sljivama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u šerpu sipati pola litra vode, malo soli i kašičicu margarina i staviti na štednjak. Kada voda proključa, postepeno, uz neprestano mešanje sipati brašno. Skloniti sa ringle i varjačom dobro umutiti da masa postane glatka.
+**Priprema**: u šerpu sipati pola litra vode, malo soli i kašičicu margarina i staviti na štednjak. Kada voda proključa, postepeno, uz neprestano mešanje sipati brašno. Skloniti sa ringle i varjačom dobro umutiti da masa postane glatka.
 
 Kada se testo prohladi dodati jaja, pa ga rukama dobro izraditi. Ukoliko je potrebno, u testo dodati još malo brašna.
 

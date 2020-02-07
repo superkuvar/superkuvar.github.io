@@ -18,7 +18,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike (10-12 komada)
   * 1 praziluk ili 2 glavice crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9294" src="/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem-300x225.jpg" alt="paprikepunjenekrompiromipirincem" width="300" height="225" />](/wp-content/uploads/2014/10/paprikepunjenekrompiromipirincem.jpg)
 
-Priprema: očistiti i oprati praziluk, sitno ga iseckati i propržiti na ulju. šargarepu i krompir oprati, oljuštiti, narendati na krupno rende, dodati u praziluk i još malo pržiti. Posoliti, dodati suvi biljni začin, biber, malo kuvanog paradajza i opran pirinač.
+**Priprema**: očistiti i oprati praziluk, sitno ga iseckati i propržiti na ulju. šargarepu i krompir oprati, oljuštiti, narendati na krupno rende, dodati u praziluk i još malo pržiti. Posoliti, dodati suvi biljni začin, biber, malo kuvanog paradajza i opran pirinač.
 
 Pripremljenim nadevom puniti paprike i svaku zatvoriti kolutom krompira. Napunjene paprike poređati u šerpu i naliti mešavinom vode i kuvanog paradajza (šoljica), da ogreznu. Kuvati na umerenoj temperaturi petnaestak minuta.
 

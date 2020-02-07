@@ -22,7 +22,7 @@ tags:
   - ren
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica karfiola
   * 2 šargarepe
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4665" title="Salatakarfiolsargarepa" src="/wp-content/uploads/2012/11/Salatakarfiolsargarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol očistiti, oprati, odvojiti na cvetiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Obaren karfiol ocediti od vode, ostaviti da se ohladi a zatim sitno iseckati.
+**Priprema**: karfiol očistiti, oprati, odvojiti na cvetiće, staviti u ključalu malo posoljenu vodu i kratko obariti. Obaren karfiol ocediti od vode, ostaviti da se ohladi a zatim sitno iseckati.
 
 šargarepu, ren i jabuku oprati, oljuštiti, sitno izrendati i pomešati sa isitnjenim karfiolom.
 

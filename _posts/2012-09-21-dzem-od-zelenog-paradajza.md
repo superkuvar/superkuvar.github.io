@@ -16,7 +16,7 @@ tags:
   - paradajz
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 kilograma zelenog paradajza
   * 1,5 kg šećera
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4360" title="Dzem od zelenog paradajza" src="/wp-content/uploads/2012/09/Dzem-od-zelenog-paradajza-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paradajz dobro oprati, staviti u ključalu vodu nekoliko minuta, pa ocediti. Ohlađeni paradajz oljuštiti, iseći na četvrtine i ukloniti seme.
+**Priprema**: paradajz dobro oprati, staviti u ključalu vodu nekoliko minuta, pa ocediti. Ohlađeni paradajz oljuštiti, iseći na četvrtine i ukloniti seme.
 
 Paradajz propasirati ili isitniti u blenderu i staviti u čistu šerpu. Kuvati na jakoj vatri dok ne provri. Dodati šećer, a onda smanjiti temperaturu. Uz mešanje varjačom dalje kuvati dok ne postigne potrebnu gustinu.
 

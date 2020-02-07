@@ -13,14 +13,14 @@ categories:
 tags:
    - kačamak
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram kukuruznog belog brašna (može i integralno)
 * 300 g kajmaka
 * voda (3 l)
 * so
 
-Priprema:
+**Priprema**:
 
 U odgovarajuću posudu sipati vodu, posoliti, a zatim staviti kajmak i kuvati dok ne proključa. Celu količinu brašna sipati odjednom u ključalu vodu i ne mešati sve dok se ne oblikuje lopta. 
 

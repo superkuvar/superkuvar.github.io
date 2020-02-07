@@ -20,7 +20,7 @@ tags:
   - kari
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama graška (može i zamrznuti)
   * pirinač (1 šolja)
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5624" src="/wp-content/uploads/2011/05/Rizi-bizi-sa-karijem-300x225.jpg" alt="Rizi bizi sa karijem" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, iseckati i propržiti na ulju, dodati grašak i pirjaniti, uz dolivanje po malo tople vode. Pri kraju dinstanja posoliti.
+**Priprema**: crni luk očistiti, iseckati i propržiti na ulju, dodati grašak i pirjaniti, uz dolivanje po malo tople vode. Pri kraju dinstanja posoliti.
 
 Pirinač naliti supom od kocke i kuvati na tihoj vatri, a pred kraj dodati malo karija. Paziti da se pirinač ne raskuva.
 

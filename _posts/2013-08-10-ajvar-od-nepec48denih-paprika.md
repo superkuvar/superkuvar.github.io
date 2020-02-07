@@ -15,7 +15,7 @@ tags:
   - paprike
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 kilograma crvenih paprika
   * 1 šoljica esencije
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-5983" src="/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika-300x225.jpg" alt="Ajvar od nepecenih paprika" width="300" height="225" />](/wp-content/uploads/2013/08/Ajvar-od-nepecenih-paprika.jpg)
 
-Priprema: na mašini za mlevenje mesa samleti paprike, koje su prethodno oprane i očišćene od peteljki i semena.
+**Priprema**: na mašini za mlevenje mesa samleti paprike, koje su prethodno oprane i očišćene od peteljki i semena.
 
 Samlevene paprike staviti u širu šerpu i pržiti u sopstvenom soku. Mešati sve dok sok ne uvri, a zatim u paprike dodati so i ulje i pržiti dalje uz neprestano mešanje varjačom.
 

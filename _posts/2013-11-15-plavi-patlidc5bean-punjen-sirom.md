@@ -19,7 +19,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 plava patlidžana
   * 1 glavica crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6274" src="/wp-content/uploads/2013/11/Patlidzanpunjensirom-300x225.jpg" alt="Patlidzanpunjensirom" width="300" height="225" />](/wp-content/uploads/2013/11/Patlidzanpunjensirom.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti i obariti u osoljenoj vodi. Kada patlidžan bude dovoljno mekan preručiti ga u cediljku da se ocedi i ohladi. Svaki raseći po dužini na pola i kašičicom izdubiti sredinu.
+**Priprema**: plavi patlidžan oprati, oljuštiti i obariti u osoljenoj vodi. Kada patlidžan bude dovoljno mekan preručiti ga u cediljku da se ocedi i ohladi. Svaki raseći po dužini na pola i kašičicom izdubiti sredinu.
 
 Crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati sitno iseckanu sredinu patlidžana, izmrvljen sir, so, biber, origano, sitno iseckan peršunov list i jaje. Dobro izmešati i puniti polovine patlidžana.
 

@@ -23,7 +23,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 g margarina
   * 4 jajeta
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5436" src="/wp-content/uploads/2011/08/Mramorni-kuglof-300x225.jpg" alt="Mramorni kuglof" width="300" height="225" /> 
 
-Priprema: umutiti penasto margarin, postepeno dodajući jaja, šećer, vanilu, koru i sok od limuna. Brašno prosejati zajedno sa praškom za pecivo, pa postepeno dodavati umućenoj masi, uz povremeno dolivanje mleka. Testo podeliti na dva dela, pa u jedan deo umešati kakao.
+**Priprema**: umutiti penasto margarin, postepeno dodajući jaja, šećer, vanilu, koru i sok od limuna. Brašno prosejati zajedno sa praškom za pecivo, pa postepeno dodavati umućenoj masi, uz povremeno dolivanje mleka. Testo podeliti na dva dela, pa u jedan deo umešati kakao.
 
 Modlu za kuglof namazati uljem, posuti brašnom i u nju sipati pripremljeno testo u naizmeničnim slojevima (belo i braon).
 

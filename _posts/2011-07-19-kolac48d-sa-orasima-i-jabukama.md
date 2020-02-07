@@ -16,7 +16,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jaja
   * po 4 šoljice šećera i brašna
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-1564" title="melspajz 1" src="/wp-content/uploads/2011/07/melspajz-1-e1311063649496.jpg" alt="" width="252" height="184" /> 
 
-Priprema: jabuke oprati, oljuštiti i narendati. Umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, mlevene orahe i narendane jabuke. Masu dobro izmešati varjačom da se dobije testo srednje gustine.
+**Priprema**: jabuke oprati, oljuštiti i narendati. Umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, mlevene orahe i narendane jabuke. Masu dobro izmešati varjačom da se dobije testo srednje gustine.
 
 Pleh ili tepsiju namazati uljem i posuti brašnom, pa sipati pripremljeno testo. Kolač peći 40 minuta u pećnici zagrejanoj na 200 stepeni.
 

@@ -18,7 +18,7 @@ tags:
   - senf
   - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 plava patlidžana
   * 2 crvene paprike
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6221" src="/wp-content/uploads/2013/10/Salataodpatlidzanasasirom-300x225.jpg" alt="Salataodpatlidzanasasirom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasasirom.jpg)
 
-Priprema: plavi patlidžan i paprike oprati i ispeći u pećnici, a kada se ohlade oljuštiti i sitno iseckati.
+**Priprema**: plavi patlidžan i paprike oprati i ispeći u pećnici, a kada se ohlade oljuštiti i sitno iseckati.
 
 U isitnjen patlidžan i paprike dodati sir izmrvljen viljuškom, majonez, senf, sitno seckani peršunov list i malo posoliti, ukoliko je potrebno.
 

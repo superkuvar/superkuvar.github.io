@@ -20,7 +20,7 @@ tags:
   - praziluk
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 5 strukova praziluka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5458" src="/wp-content/uploads/2013/03/Pita-sa-prazilukom-300x225.jpg" alt="Pita sa prazilukom" width="300" height="225" /> 
 
-Priprema: praziluk oprati i očistiti, a zatim iseći na kolutove i pržiti na ulju. Kada praziluk omekša začiniti ga solju i biberom po ukusu.
+**Priprema**: praziluk oprati i očistiti, a zatim iseći na kolutove i pržiti na ulju. Kada praziluk omekša začiniti ga solju i biberom po ukusu.
 
 Podmazati pleh i u njega direktno slagati pitu. Na dno pleha staviti tri kore, poprskati ih uljem i mineralnom vodom, pa preko treće premazati deo nadeva od praziluka, a onda dve kore prethodno poprskane uljem i mineralnom vodom, pa nadev i tako redom i na kraju prekriti sa tri kore. Pitu iseći na kocke, a odozgo je poprskati uljem.
 

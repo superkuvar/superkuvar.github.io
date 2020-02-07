@@ -10,7 +10,7 @@ categories:
 tags:
    - pekmez
 ---
-Potrebno je:
+**Potrebno je**:
  
 * 2 šolje brašna
 * 1 šolja šećera
@@ -30,7 +30,7 @@ Za glazuru:
 * 3-4 kapi ulja
 
 
-Priprema: 
+**Priprema**: 
 
 Brašno prosejati, pomešati sa praškom za pecivo. 
 

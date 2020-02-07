@@ -17,7 +17,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama pirinča
   * 300 grama pečuraka (šampinjoni)
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2380" title="Milin rizoto (2)" src="/wp-content/uploads/2012/01/Milin-rizoto-2-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: pirinač oprati i skuvati. Praziluk i šargarepu oprati, očistiti i izrezati na kolutove. Pečurke oprati i iseći na listiće.
+**Priprema**: pirinač oprati i skuvati. Praziluk i šargarepu oprati, očistiti i izrezati na kolutove. Pečurke oprati i iseći na listiće.
 
 U sud sipati malo ulja, dodati praziluk, šargarepu i pečurke i dinstati na umerenoj temperaturi. Povremeno dolivati po malo tople vode. Pri kraju dinstanja posoliti, dodati suvi biljni začin, malo bibera i origana.
 

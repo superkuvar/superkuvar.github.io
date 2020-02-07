@@ -17,7 +17,7 @@ tags:
   - muskatni oraščić
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1,5 kg)
   * 60 grama margarina (može i ulje)
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2650" title="Pire od spanaća" src="/wp-content/uploads/2011/05/Pire-od-spanaća-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: spanać očistiti i oprati, staviti ga u proključalu vodu i kratko obariti. Obaren spanać ocediti i sitno iseckati.
+**Priprema**: spanać očistiti i oprati, staviti ga u proključalu vodu i kratko obariti. Obaren spanać ocediti i sitno iseckati.
 
 Od margarina i brašna napraviti svetlu zapršku, u koju dodati isitnjen spanać, pa kratko propržiti.
 

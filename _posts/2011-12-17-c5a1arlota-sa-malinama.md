@@ -15,14 +15,14 @@ tags:
   - piškote
   - šlag
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama piškota (30 komada)
   * 500 grama malina
   * 6 dl čvrsto umućene slatke pavlake ili šlaga
   * malo mleka
 
-Priprema: dno tanjira za tortu obložiti piškotama poređanim ukrug, poprskanim sa malo slatkog mleka. Umutiti slatku pavlaku, dodati maline i još malo umutiti. Ostaviti malo malina za ukrašavanje kolača.
+**Priprema**: dno tanjira za tortu obložiti piškotama poređanim ukrug, poprskanim sa malo slatkog mleka. Umutiti slatku pavlaku, dodati maline i još malo umutiti. Ostaviti malo malina za ukrašavanje kolača.
 
 Preko piškota staviti deblji sloj umućene slatke pavlake sa malinama. Odozgo poređati još jedan red piškota, premazati ostatkom pavlake i ukrasiti celim malinama. Kolač staviti u frižider da se dobro rashladi, a zatim služiti.
 

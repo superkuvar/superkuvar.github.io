@@ -17,7 +17,7 @@ tags:
   - sir
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tikvica
   * 1 manja glavica crnog luka
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-737" title="corbaodtikvicaikrompira" src="/wp-content/uploads/2011/03/corbaodtikvicaikrompira.jpg" alt="" width="259" height="194" /> 
 
-Priprema: tikvice oprati, oljuštiti i očistiti od semena. Tikvice i oljušten krompir iseći na komadiće.
+**Priprema**: tikvice oprati, oljuštiti i očistiti od semena. Tikvice i oljušten krompir iseći na komadiće.
 
 U lonac sipati ulje, pa na njemu ispržiti sitno seckani crni luk, da bude staklast. Dodati tikvice i krompir, pa sve zajedno pirjaniti, stalno mešajući. Preliti supom od kocke i kuvati 30 minuta.
 

@@ -16,7 +16,7 @@ tags:
   - šnicle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 svinjske šnicle
   * 3 jaja
@@ -28,7 +28,7 @@ Potrebno je:
   * brašno
   * ulje
 
-Priprema: šnicle izlupati tučkom za meso, posoliti i pobiberiti, premazati senfom i uvaljati u brašno.  nicle staviti u tiganj sa zagrejanim uljem i pržiti na umerenoj temperaturi sa obe strane, da porumene.
+**Priprema**: šnicle izlupati tučkom za meso, posoliti i pobiberiti, premazati senfom i uvaljati u brašno.  nicle staviti u tiganj sa zagrejanim uljem i pržiti na umerenoj temperaturi sa obe strane, da porumene.
 
 U vatrostalni sud poređati ispržene šnicle i preliti ih masnoćom u kojoj su se pržile.
 

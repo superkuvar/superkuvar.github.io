@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - prokelj
 ---
-Potrebno je:
+**Potrebno je**:
 
   * prokelj (300 grama)
   * 1 šargarepa
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-722" title="corbaodprokelja" src="/wp-content/uploads/2011/03/corbaodprokelja.jpg" alt="" width="259" height="194" /> 
 
-Priprema: crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti.
+**Priprema**: crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti.
 
 Posle pet minuta povrće naliti litrom i po tople vode. Kad voda provri, dodati očišćen i opran prokelj isečen na polovine. Ako su glavičice prokelja sitne nije ih potrebno poloviti.
 

@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 veće tikvice
   * so
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6173" src="/wp-content/uploads/2013/10/Zapecenetikvicesaprezlom-300x225.jpg" alt="Zapecenetikvicesaprezlom" width="300" height="225" />](/wp-content/uploads/2013/10/Zapecenetikvicesaprezlom.jpg)
 
-Priprema: tikvice oprati, oljuštiti i iseći na režnjeve. Obariti ih u slanoj vodi, a zatim ocediti.
+**Priprema**: tikvice oprati, oljuštiti i iseći na režnjeve. Obariti ih u slanoj vodi, a zatim ocediti.
 
 Na ulju propržiti prezle.
 

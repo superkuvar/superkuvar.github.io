@@ -16,7 +16,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (4 veće)
   * ren (1 koren)
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9430" src="/wp-content/uploads/2015/02/salataodsargarepeirena-300x225.jpg" alt="salataodsargarepeirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodsargarepeirena.jpg)
 
-Priprema: šargarepu i ren oprati, oljuštiti i sitno narendati na trenici. U činiju za salatu staviti narendanu šargarepu i ren, posoliti po ukusu, dodati sirće i ulje i izmešati.
+**Priprema**: šargarepu i ren oprati, oljuštiti i sitno narendati na trenici. U činiju za salatu staviti narendanu šargarepu i ren, posoliti po ukusu, dodati sirće i ulje i izmešati.
 
 Pripremljena salata treba da odstoji dva-tri sata u frižideru, da se ohladi, a zatim je poslužiti.
 

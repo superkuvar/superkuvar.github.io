@@ -16,7 +16,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma dugačkih paprika
   * litar vinskog sirćeta
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4159" title="Pečene paprike" src="/wp-content/uploads/2011/12/Pečene-paprike-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paprike oprati, posušiti, poređati u pleh i peći u prethodno zagrejanoj pećnici, na roštilju ili ploči štednjaka. U međuvremenu, postepeno zagrevati pripremljene tegle, a vinsko sirće prokuvati sa šećerom i solju.
+**Priprema**: paprike oprati, posušiti, poređati u pleh i peći u prethodno zagrejanoj pećnici, na roštilju ili ploči štednjaka. U međuvremenu, postepeno zagrevati pripremljene tegle, a vinsko sirće prokuvati sa šećerom i solju.
 
 Pečene i još tople paprike ređati u tople tegle, pritisnuti korenom rena, pa ih preliti vrućim sirćetom, zatvoriti hermetički, prekriti čaršavom ili ćebetom i ostaviti da se ohlade. Tegle odložiti u ostavu, na hladno mesto.
 

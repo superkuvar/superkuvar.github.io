@@ -16,7 +16,7 @@ tags:
   - crni luk
   - krompir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * glavica crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8970" src="/wp-content/uploads/2011/03/krompirnavojvodjanskinacin-300x225.jpg" alt="krompirnavojvodjanskinacin" width="300" height="225" />](/wp-content/uploads/2011/03/krompirnavojvodjanskinacin.jpg)
 
-Priprema: oprati krompir, oljuštiti ga, iseći na tanke kolutove, posoliti i ostaviti da stoji.
+**Priprema**: oprati krompir, oljuštiti ga, iseći na tanke kolutove, posoliti i ostaviti da stoji.
 
 Crni luk iseći na rebarca i propržiti na ulju, u većem sudu u kojem će se krompir peći, da malo omekša. Kada je luk gotov dodati isečen krompir i izmešati.
 

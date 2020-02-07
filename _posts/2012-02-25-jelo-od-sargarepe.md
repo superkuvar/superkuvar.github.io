@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (600 grama)
   * glavica crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2567" title="Jelo od šargarepe" src="/wp-content/uploads/2012/02/Jelo-od-šargarepe-e1330181164398.jpg" alt="" width="287" height="225" /> 
 
-Priprema: šargarepu oprati, očistiti i iseći na štapiće. Crni luk oljuštiti, sitno iseći i propržiti na ulju, da malo omekša. U propržen luk dodati šargarepu i kašičicu šećera.
+**Priprema**: šargarepu oprati, očistiti i iseći na štapiće. Crni luk oljuštiti, sitno iseći i propržiti na ulju, da malo omekša. U propržen luk dodati šargarepu i kašičicu šećera.
 
 Šargarepu i luk dinstati na umerenoj temperaturi, dok šargarepa ne omekša. Dodati brašno, promešati i naliti toliko tople vode da šargarepa ogrezne. Jelo dinstati još dvadesetak minuta na tihoj vatri. Pri kraju dinstanja, u šargarepu dodati so, suvi biljni začin, malo origana i seckanog peršunovog lista.
 

@@ -17,7 +17,7 @@ tags:
   - rum
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 7 jaja
   * 7 kašika šećera
@@ -39,7 +39,7 @@ Za glazuru:
   * 2 kašike ulja
   * 2 kašike šećera
 
-Priprema: u posudu za mešenje staviti žumanca sa šećerom, dobro ih umutiti, dodati mlevene orahe i brašno, pa na kraju lagano umešati čvrst sneg od belanaca.
+**Priprema**: u posudu za mešenje staviti žumanca sa šećerom, dobro ih umutiti, dodati mlevene orahe i brašno, pa na kraju lagano umešati čvrst sneg od belanaca.
 
 Testo sipati u pleh prekriven papirom za pečenje ili masnom hartijom i peći na 180 stepeni 15 minuta.
 

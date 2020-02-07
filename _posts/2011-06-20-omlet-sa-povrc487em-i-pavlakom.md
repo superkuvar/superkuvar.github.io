@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 jaja
   * malo mleka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4440" title="Omlet sa povrcem" src="/wp-content/uploads/2011/06/Omlet-sa-povrcem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: glavicu crnog luka očistiti, iseckati na rebarca i propržiti na malo ulja. Kad luk postane staklast, dodati papriku isečenu na komadiće i oljušten i na komade isečen paradajz. Dinstati na tihoj vatri da povrće omekša i uvri sok koji je pustilo. Dodati so, biber i malo seckanog peršunovog lista.
+**Priprema**: glavicu crnog luka očistiti, iseckati na rebarca i propržiti na malo ulja. Kad luk postane staklast, dodati papriku isečenu na komadiće i oljušten i na komade isečen paradajz. Dinstati na tihoj vatri da povrće omekša i uvri sok koji je pustilo. Dodati so, biber i malo seckanog peršunovog lista.
 
 Posebno umutiti jaja sa malo mleka (4-5 kašika), posoliti i ispeći omlet sa obe strane.
 

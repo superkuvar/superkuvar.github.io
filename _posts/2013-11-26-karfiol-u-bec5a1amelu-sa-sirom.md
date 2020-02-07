@@ -18,7 +18,7 @@ tags:
   - margarin
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * karfiol (1 glavica 1 kg)
   * 60 grama margarina
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6294" src="/wp-content/uploads/2013/11/Karfiolubesamelusasirom-300x225.jpg" alt="Karfiolubesamelusasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Karfiolubesamelusasirom.jpg)
 
-Priprema: karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
+**Priprema**: karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
 
 Na zagrejanom margarinu propržiti brašno, pa u njega postepeno sipati vodu u kojoj se kuvao karfiol. Mešati žicom za mućenje da se ne bi stvorile grudvice. Bešamel sos kuvati desetak minuta na umerenoj temperaturi.
 

@@ -17,7 +17,7 @@ tags:
   - krompir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kilogram)
   * 200 grama kačkavalja
@@ -30,7 +30,7 @@ Potrebno je:
 
 ![Francuski krompir sa jajima](/wp-content/uploads/2011/03/francuskikrompirsajajima-1024x768.jpg)
 
-Priprema: krompir oprati i neoljušten naliti vodom da ogrezne, posoliti i staviti da se kuva. Kada je krompir kuvan ocediti ga, ostaviti kratko poklopljen, a zatim oljuštiti i iseći na kolutove.
+**Priprema**: krompir oprati i neoljušten naliti vodom da ogrezne, posoliti i staviti da se kuva. Kada je krompir kuvan ocediti ga, ostaviti kratko poklopljen, a zatim oljuštiti i iseći na kolutove.
 
 Jaja takođe obariti, da budu tvrdo kuvana, oljuštiti i iseći na kolutove.
 

@@ -17,7 +17,7 @@ tags:
   - crni luk
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * blitva (3 veze)
   * 3 veća paradajza
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5954" src="/wp-content/uploads/2013/08/Blitvasaparadajzsosom-300x225.jpg" alt="Blitvasaparadajzsosom" width="300" height="225" /> 
 
-Priprema: blitvu oprati, očistiti od belih delova i obariti u ključaloj vodi, a zatim ocediti.
+**Priprema**: blitvu oprati, očistiti od belih delova i obariti u ključaloj vodi, a zatim ocediti.
 
 Na ulju propržiti sitno seckani crni luk, pa dodati oljušten i sitnije isečen paradajz. Dinstati na laganoj vatri, dok sos ne postane gust. Pri kraju dinstanja sos posoliti, pobiberiti i dodati sitno seckani beli luk.
 

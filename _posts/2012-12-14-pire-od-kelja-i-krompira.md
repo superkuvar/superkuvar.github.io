@@ -23,7 +23,7 @@ tags:
   - mleko
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica kelja
   * 1/2 kg krompira
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4907" title="Pireodkeljaikrompira" src="/wp-content/uploads/2012/12/Pireodkeljaikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti, prohladiti i sitno iseckati.
+**Priprema**: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti, prohladiti i sitno iseckati.
 
 Na malo zagrejanog ulja propržiti sitno seckan beli luk i dodati kelj. Kelj posoliti i pobiberiti, pa dinstati desetak minuta, uz dolivanje po malo tople vode, ukoliko je potrebno.
 

@@ -22,7 +22,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora
   * 4-5 strukova praziluka srednje veličine
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5453" src="/wp-content/uploads/2013/03/Pitasaprazilukomisirom-300x225.jpg" alt="Pitasaprazilukomisirom" width="300" height="225" /> 
 
-Priprema: praziluk oprati, očistiti, sitno iseckati i ispržiti na vrelom ulju. Na kraju praziluk začiniti solju i biberom i skloniti sa vatre.
+**Priprema**: praziluk oprati, očistiti, sitno iseckati i ispržiti na vrelom ulju. Na kraju praziluk začiniti solju i biberom i skloniti sa vatre.
 
 U drugu posudu staviti izdrobljen sir, malo jogurta i umućena jaja, pa izmešati sa isprženim prazilukom.
 

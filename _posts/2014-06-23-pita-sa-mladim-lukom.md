@@ -16,7 +16,7 @@ tags:
   - kore za pitu
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kore za pitu (500 grama)
   * mladi crni luk (4 vezice ili 8-10 strukova)
@@ -27,7 +27,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9192" src="/wp-content/uploads/2014/06/pitasamladimlukom-300x225.jpg" alt="pitasamladimlukom" width="300" height="225" />](/wp-content/uploads/2014/06/pitasamladimlukom-e1403527121209.jpg)
 
-Priprema: mladi crni luk očistiti, oprati i zajedno sa perima sitno iseći i propržiti na malo ulja. Kada luk omekša dodati so i biber po ukusu. U prohlađen luk dodati jaja, prethodno umućena viljuškom. Lagano izmešati.
+**Priprema**: mladi crni luk očistiti, oprati i zajedno sa perima sitno iseći i propržiti na malo ulja. Kada luk omekša dodati so i biber po ukusu. U prohlađen luk dodati jaja, prethodno umućena viljuškom. Lagano izmešati.
 
 Podmazati tepsiju (veću šerpu) ili pleh i staviti jednu koru, poprskati je sa malo ulja, staviti drugu koru, ponovo poprskati uljem, premazati sa malo fila, pa opet ređati kore, poprskati uljem, premazati filom i tako dok se ne utroši materijal. Poslednji sloj treba da su kore. Pitu odozgo poprskati uljem, a zatim staviti u pećnicu zagrejanu na 220 stepeni. Peći oko 40 minuta, dok pita ne porumeni.
 

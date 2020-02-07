@@ -18,7 +18,7 @@ tags:
   - celer
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * koren celera (oko 300 grama)
   * brašno (2 kašike)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-754" title="corbaodceleradruginacin" src="/wp-content/uploads/2011/03/corbaodceleradruginacin.jpg" alt="" width="279" height="181" /> 
 
-Priprema: celer oprati, oljuštiti i iseći na kocke. Staviti ga u lonac, naliti sa litar i po vode, posoliti i kuvati. Skuvani celer procediti, a vodu od kuvanja sačuvati. Celer dobro propasirati.
+**Priprema**: celer oprati, oljuštiti i iseći na kocke. Staviti ga u lonac, naliti sa litar i po vode, posoliti i kuvati. Skuvani celer procediti, a vodu od kuvanja sačuvati. Celer dobro propasirati.
 
 Zagrejati ulje, dodati brašno i napraviti zapršku. U gotovu zapršku dodati suvi biljni začin i propasiran celer, pa uz neprestano mešanje, naliti vodom u kojoj se celer kuvao. Dodati malo bibera i kuvati još desetak minuta.
 

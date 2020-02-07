@@ -15,14 +15,14 @@ tags:
   - breskve
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma breskvi
   * 900 grama šećera
 
 <img class="alignnone size-medium wp-image-4122" title="Dzem od bresaka" src="/wp-content/uploads/2012/08/Dzem-od-bresaka-e1346166175616-300x263.jpg" alt="" width="300" height="263" /> 
 
-Priprema: breskve oprati, očistiti i iseći na komade ili kriške. Isitnjene breskve staviti u veću šerpu, pa na umerenoj temperaturi kuvati dok ne omekšaju. Tada u džem dodati šećer, pojačati vatru i uz neprekidno mešanje kuvati oko 45 minuta.
+**Priprema**: breskve oprati, očistiti i iseći na komade ili kriške. Isitnjene breskve staviti u veću šerpu, pa na umerenoj temperaturi kuvati dok ne omekšaju. Tada u džem dodati šećer, pojačati vatru i uz neprekidno mešanje kuvati oko 45 minuta.
 
 Kuvan džem skloniti sa štednjaka i vreo sipati u čiste, zagrejane tegle. Tegle sa džemom staviti u toplu pećnicu da se uhvati korica. Sutradan povezati celofanom ili zatvoriti hermetički.
 

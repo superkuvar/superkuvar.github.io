@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * 400 grama sitnog belog sira
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3621" title="Tikvicepunjenesirom" src="/wp-content/uploads/2012/06/Tikvicepunjenesirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati i oljuštiti. Svaku preseći uzduž na pola i izdubiti. Sir izmešati sa žumancima, posoliti, dodati iseckanu mirođiju i dve kašike ulja.
+**Priprema**: tikvice oprati i oljuštiti. Svaku preseći uzduž na pola i izdubiti. Sir izmešati sa žumancima, posoliti, dodati iseckanu mirođiju i dve kašike ulja.
 
 Belanca umutiti u čvrst sneg, pa dodati u sir. Lagano izmešati, pa ovom masom napuniti polovine tikvica i odozgo staviti po komadić margarina.
 

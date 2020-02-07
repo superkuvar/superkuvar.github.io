@@ -20,7 +20,7 @@ tags:
   - limun
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma dunja
   * 1,8 kg šećera
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4621" title="Dunje (1)" src="/wp-content/uploads/2012/11/Dunje-1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: dunje dobro oprati i očistiti od semenki i semenih loža, ali ne ljuštiti. Iseći ih na sitnije komade, naliti vodom da ogreznu i poklopljene kuvati. Kada dunje omekšaju, izvaditi ih iz vode i propasirati.
+**Priprema**: dunje dobro oprati i očistiti od semenki i semenih loža, ali ne ljuštiti. Iseći ih na sitnije komade, naliti vodom da ogreznu i poklopljene kuvati. Kada dunje omekšaju, izvaditi ih iz vode i propasirati.
 
 U međuvremenu, od šećera i vode u kojoj su se dunje kuvale skuvati sirup, pa dodati ispasirane dunje i sok od limuna. Kuvati dok se džem ne zgusne.
 

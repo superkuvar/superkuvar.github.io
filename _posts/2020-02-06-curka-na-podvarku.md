@@ -16,7 +16,7 @@ tags:
   - lovorov list
   - ćurka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * veća glavica kiselog kupusa 2kg+
   * 500 ćurećeg mesa

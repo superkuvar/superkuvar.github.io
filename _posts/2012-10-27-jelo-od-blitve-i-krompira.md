@@ -22,7 +22,7 @@ tags:
   - krompir
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama blitve
   * 500 grama krompira
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4565" title="Jeloodblitveikrompira" src="/wp-content/uploads/2012/10/Jeloodblitveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: blitvu oprati, očistiti, kratko obariti u ključaloj vodi, a zatim ocediti. Kada se blitva malo ohladi iseći je na krupnije rezance.
+**Priprema**: blitvu oprati, očistiti, kratko obariti u ključaloj vodi, a zatim ocediti. Kada se blitva malo ohladi iseći je na krupnije rezance.
 
 Krompir oprati, oljuštiti i iseći na krupnije kocke. Isečen krompir naliti hladnom vodom da ogrezne, malo posoliti i staviti da se kuva. Paziti da se ne prekuva. Krompir zatim ocediti od vode u kojoj se kuvao.
 

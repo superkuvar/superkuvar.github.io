@@ -17,7 +17,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bajati hleb
   * kačkavalj
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5178" src="/wp-content/uploads/2013/01/Zapečenihlebsašunkom-300x225.jpg" alt="Zapečenihlebsašunkom" width="300" height="225" /> 
 
-Priprema: hleb iseći na tanje kriške. Pleh podmazati uljem, poređati kriške hleba i poprskati ih mlekom. Na svaku krišku staviti list kačkavalja, a preko njega režanj šunke ili suvog vrata.
+**Priprema**: hleb iseći na tanje kriške. Pleh podmazati uljem, poređati kriške hleba i poprskati ih mlekom. Na svaku krišku staviti list kačkavalja, a preko njega režanj šunke ili suvog vrata.
 
 Umutiti jaja sa mlekom, malo posoliti, dodati biber i kašiku narendanog kačkavalja pa ovim preliti pripremljeni hleb. Staviti u zagrejanu pećnicu i zapeći 5-10 minuta na temperaturi od 180 stepeni.
 

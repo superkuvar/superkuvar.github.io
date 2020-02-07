@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 srednja paradajza
   * 1 glavica crnog luka
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6027" src="/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-300x225.jpg" alt="Salata od paradajza sa majonezom" width="300" height="225" />](/wp-content/uploads/2013/08/Salata-od-paradajza-sa-majonezom-e1376635596763.jpg)
 
-Priprema: paradajz oprati i iseći na kriške. Tvrdo kuvana jaja iseći na kockice.
+**Priprema**: paradajz oprati i iseći na kriške. Tvrdo kuvana jaja iseći na kockice.
 
 Crni luk očistiti, iseći na rebarca, malo posoliti i ovlaš iznječiti rukom. Peršunov list sitno iseckati.
 

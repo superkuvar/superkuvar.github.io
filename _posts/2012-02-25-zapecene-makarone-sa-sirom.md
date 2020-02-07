@@ -17,7 +17,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama makarona (ili neke druge testenine)
   * 300 grama belog sira
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2579" title="Zapečene makarone sa sirom" src="/wp-content/uploads/2012/02/Zapečene-makarone-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: skuvati makarone prema uputstvu na pakovanju. Kuvane makarone ocediti, isprati hladnom vodom i opet ocediti, a zatim izručiti u podmazanu posudu za pečenje.
+**Priprema**: skuvati makarone prema uputstvu na pakovanju. Kuvane makarone ocediti, isprati hladnom vodom i opet ocediti, a zatim izručiti u podmazanu posudu za pečenje.
 
 U posebnoj posudi umutiti jaja, pa dodati mleko i izmrvljen sir. Po potrebi još malo posoliti. Ovom masom preliti makarone, a odozgo rasporediti margarin isečen na listiće.
 

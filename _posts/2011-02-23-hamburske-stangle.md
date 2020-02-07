@@ -20,7 +20,7 @@ tags:
   - rum
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -40,7 +40,7 @@ krem
   * 2 kašičice ruma
   * 1 kesica vanilin šećera
 
-Priprema: umutiti maslac sa šećerom i žumancima. Dodati brašno i zamesiti testo. Pleh podmazati maslacem i posuti brašnom, a zatim staviti testo. Testo premazati marmeladom, a preko marmelade staviti krem.
+**Priprema**: umutiti maslac sa šećerom i žumancima. Dodati brašno i zamesiti testo. Pleh podmazati maslacem i posuti brašnom, a zatim staviti testo. Testo premazati marmeladom, a preko marmelade staviti krem.
 
 Krem pripremiti na sledeći način: umutiti čvrst sneg od belanaca i šećera u prahu. U umućena belaca dodati narendanu čokoladu, mlevene orahe ili bademe, sok od pola limuna, rum i vanilin šećer. Krem lagano izmešati, a zatim ga premazati preko testa.
 

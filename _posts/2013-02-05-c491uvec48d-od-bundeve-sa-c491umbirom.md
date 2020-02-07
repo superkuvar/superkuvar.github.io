@@ -24,7 +24,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram bundeve
   * 1 struk praziluka
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5229" src="/wp-content/uploads/2013/02/Djuvečodbundevesadjumbirom-300x225.jpg" alt="Djuvečodbundevesadjumbirom" width="300" height="225" /> 
 
-Priprema: povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
+**Priprema**: povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
 
 Posudu za pečenje podmazati uljem, sipati isitnjeno povrće, opran pirinač, so, biber, đumbir i iseckan peršunov list, dobro izmešati, pa preliti toplom vodom u kojoj je rastvorena kašika suvog biljnog začina. Vode treba da bude toliko da povrće ogrezne.
 

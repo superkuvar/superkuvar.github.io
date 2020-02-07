@@ -21,7 +21,7 @@ tags:
   - višnje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 5 kašika šećera
@@ -37,7 +37,7 @@ Fil:
 
 ![Jednostavni kolač sa pudingom i višnjama](/wp-content/uploads/2011/12/Kolačsapudingomivisnjama-1024x768.jpg)
 
-Priprema: u posudu  za mešenje polupati jaja, dodati šećer i mutiti. Kada su jaja čvrsto umućena, dodati brašno (kašiku po kašiku) i lagano promešati. Testo sipati u podmazan i brašnom posut pleh, staviti u pećnicu i peći na 180 stepeni oko 20 minuta.
+**Priprema**: u posudu  za mešenje polupati jaja, dodati šećer i mutiti. Kada su jaja čvrsto umućena, dodati brašno (kašiku po kašiku) i lagano promešati. Testo sipati u podmazan i brašnom posut pleh, staviti u pećnicu i peći na 180 stepeni oko 20 minuta.
 
 U međuvremenu, prokuvati vodu sa 200 grama šećera, pa dodati višnje, očišćene od koštica i kuvati još 5-6 minuta.
 

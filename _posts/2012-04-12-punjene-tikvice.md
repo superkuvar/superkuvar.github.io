@@ -24,7 +24,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg tikvica
   * 400 grama mlevenog junećeg mesa
@@ -42,7 +42,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2936" title="Punjene tikvice" src="/wp-content/uploads/2012/04/Punjene-tikvice-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju, dodati krupno rendanu šargarepu pa i nju kratko propržiti. U luk i šargarepu dodati mleveno meso i opran pirinač. Začiniti solju, biberom, mirođijom i suvim biljnim začinom, po ukusu. Sve dobro izmešati da se dobije ujednačena masa.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju, dodati krupno rendanu šargarepu pa i nju kratko propržiti. U luk i šargarepu dodati mleveno meso i opran pirinač. Začiniti solju, biberom, mirođijom i suvim biljnim začinom, po ukusu. Sve dobro izmešati da se dobije ujednačena masa.
 
 Tikvice oprati, oljuštiti i pažljivo izdubiti kašičicom.  Unutrašnjost tikvica puniti pripremljenim nadevom, vodeći računa da se nadev ravnomerno rasporedi i da se pri punjenju suviše ne zbija u tikvice.
 

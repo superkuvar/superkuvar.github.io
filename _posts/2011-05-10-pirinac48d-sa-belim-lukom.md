@@ -15,7 +15,7 @@ tags:
   - margarin
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama pirinča
   * 6 dl supe od kocke
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-639" title="pirinac" src="/wp-content/uploads/2011/05/pirinac.jpg" alt="" width="256" height="192" /> 
 
-Priprema: u vatrostalnoj posudi zagrejati margarin i propržiti iseckan beli luk, da porumeni. Dodati očišćen i opran pirinač, promešati i ostaviti na isključenoj ringli da povuče aromu.
+**Priprema**: u vatrostalnoj posudi zagrejati margarin i propržiti iseckan beli luk, da porumeni. Dodati očišćen i opran pirinač, promešati i ostaviti na isključenoj ringli da povuče aromu.
 
 U lonac sipati vodu i kada proključa, spustiti kocku za supu, pa supom naliti pirinač, promešati, dodati biber i po potrebi još malo posoliti. Kada počne da vri, posudu poklopiti i staviti je u rernu.
 

@@ -20,7 +20,7 @@ tags:
   - orasi
   - suvo groždje
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 100 g margarina
@@ -43,7 +43,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-3072" title="Štrudla sa orasima" src="/wp-content/uploads/2012/04/%C5%A0trudla-sa-orasima-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kvasac izmrviti, rastvoriti u malo mlakog mleka kome je dodata kašika šećera i ostaviti na toplom mestu da uskisne.
+**Priprema**: kvasac izmrviti, rastvoriti u malo mlakog mleka kome je dodata kašika šećera i ostaviti na toplom mestu da uskisne.
 
 U posudu za mešenje staviti rastopljeni margarin, šećer, so, jaja i malo narendane kore od limuna, pa dobro izmutiti varjačom. Potom sipati uskisli kvasac i oko 2-3 decilitra mleka. Dodavati brašno postepeno, uz neprestano mućenje varjačom, da se dobije mekše testo.
 

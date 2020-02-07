@@ -16,7 +16,7 @@ tags:
   - marmelada
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -34,7 +34,7 @@ nadev
   * 2 belanceta
   * kesica vanilin šećera
 
-Priprema: umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne. U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac. Testo dobro izmešati.
+**Priprema**: umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne. U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac. Testo dobro izmešati.
 
 Pleh namazati maslacem, posuti brašnom pa sipati testo. Peći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
 

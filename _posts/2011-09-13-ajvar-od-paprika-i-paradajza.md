@@ -16,7 +16,7 @@ tags:
   - paprike
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mesnate crvene paprike (5 kilograma)
   * paradajz (2 kg)
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4166" title="Ajvarodpaprikaiparadajza" src="/wp-content/uploads/2011/09/Ajvarodpaprikaiparadajza-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paradajz i paprike oprati, ispeći i staviti preko noći u đevđir da se ocede. Sutradan ih očistiti i sitno iseckati.
+**Priprema**: paradajz i paprike oprati, ispeći i staviti preko noći u đevđir da se ocede. Sutradan ih očistiti i sitno iseckati.
 
 U većoj šerpi zagrejati ulje, dodati iseckane paprike i paradajz i pržiti dok ne uvri sok koji povrće pusti. Ajvar začiniti solju i seckanim belim lukom i umešati konzervans. Vruć ajvar sipati u zagrejane tegle. Tegle staviti u umereno zagrejanu pećnicu, da bi se na površini ajvara uhvatila korica.
 

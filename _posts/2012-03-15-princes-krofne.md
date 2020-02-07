@@ -18,7 +18,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za testo:
 
   * 200 ml vode
@@ -38,7 +38,7 @@ Za krem:
 
 <img class="alignnone size-medium wp-image-2690" title="Princes krofne" src="/wp-content/uploads/2012/03/Princes-krofne-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud sipati vodu i ulje i staviti na štednjak. Kada provri, dodati meko brašno, skloniti sa štednjaka i mešati varjačom, da se dobije masa bez grudvica. Vratiti na tihu vatru, nastaviti sa mešanjem dok se testo ne odvoji od suda i ne formira loptu. Skloniti sa vatre i u prohlađeno testo dodati, jedno po jedno, sedam komada jaja. Posle dodavanja svakog jajeta masu mutiti tri-četiri minuta, da se dobije sjajno i glatko testo.
+**Priprema**: u sud sipati vodu i ulje i staviti na štednjak. Kada provri, dodati meko brašno, skloniti sa štednjaka i mešati varjačom, da se dobije masa bez grudvica. Vratiti na tihu vatru, nastaviti sa mešanjem dok se testo ne odvoji od suda i ne formira loptu. Skloniti sa vatre i u prohlađeno testo dodati, jedno po jedno, sedam komada jaja. Posle dodavanja svakog jajeta masu mutiti tri-četiri minuta, da se dobije sjajno i glatko testo.
 
 U pleh obložen papirom za pečenje stavljati kašičicom testo veličine oraha. Između krofni treba da bude malo razmaka, jer tokom pečenja narastu.
 

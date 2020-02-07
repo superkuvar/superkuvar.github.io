@@ -16,7 +16,7 @@ tags:
   - lovorov list
   - riba
 ---
-Potrebno je:
+**Potrebno je**:
 
   * veća glavica kiselog kupusa
   * 500 grama fileta ribe (oslić, som)

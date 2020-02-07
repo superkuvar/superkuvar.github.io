@@ -17,7 +17,7 @@ tags:
   - krompir
   - šargarepa
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 1/2 kg mladih kopriva  
 * kašika brašna  
 * crni luk (manja glavica)  
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9567" src="/wp-content/uploads/2015/03/corbaodmladihkopriva-300x225.jpg" alt="corbaodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodmladihkopriva-e1430745644806.jpg)
 
-Priprema: koprive očistiti, dobro oprati i preliti ključalom vodom. Kada se koprive ohlade iseckati ih na rezance. Očistiti crni luk i šargarepu, pa luk isecakti na rebarca a šargarepu izrendati. Krompir oljuštiti, oprati i iseći na kockice.
+**Priprema**: koprive očistiti, dobro oprati i preliti ključalom vodom. Kada se koprive ohlade iseckati ih na rezance. Očistiti crni luk i šargarepu, pa luk isecakti na rebarca a šargarepu izrendati. Krompir oljuštiti, oprati i iseći na kockice.
 
 Na malo ulja propržiti crni luk i šargarepu, dodati brašno i još malo pržiti. Spustiti isečene koprive, naliti supom od kocke ili toplom vodom i dodati krompir. Čorbu kuvati na umerenoj vatri, dok krompir ne omekša. Pri kraju kuvanja posoliti, pobiberiti i dodati limunov sok ili sirće.
 

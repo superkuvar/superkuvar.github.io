@@ -19,7 +19,7 @@ tags:
   - šlag
   - višnje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama piškota
   * 300 grama višanja (svežih ili zamrznutih)
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2539" title="Kolač od piškota sa višnjama" src="/wp-content/uploads/2012/02/Kolač-od-piškota-sa-višnjama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: puding pomešati sa šećerom i gustinom, pa razmutiti u šolji hladnog mleka. Preostalo mleko staviti da se kuva, pa kada provri skloniti sa vatre, dodati komad margarina i sipati puding, uz neprekidno mešanje. Vratiti na štednjak i kuvati još minut-dva. Gotov puding prohladiti, pa dodati pavlaku. Masu mikserom kratko umutiti, da bi postala homogena i kremasta.
+**Priprema**: puding pomešati sa šećerom i gustinom, pa razmutiti u šolji hladnog mleka. Preostalo mleko staviti da se kuva, pa kada provri skloniti sa vatre, dodati komad margarina i sipati puding, uz neprekidno mešanje. Vratiti na štednjak i kuvati još minut-dva. Gotov puding prohladiti, pa dodati pavlaku. Masu mikserom kratko umutiti, da bi postala homogena i kremasta.
 
 Piškote nakvasiti u mleku, pa polovinu poređati na tacnu, preko njih sipati deo prohlađenog pudinga, po pudingu rasporediti višnje, pa prekriti preostalim pudingom i odozgo staviti nakvašene piškote.
 

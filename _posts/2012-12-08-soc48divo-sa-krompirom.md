@@ -23,7 +23,7 @@ tags:
   - šargarepa
   - sočivo
 ---
-Potrebno je:
+**Potrebno je**:
 
   * sočivo (500 grama)
   * glavica crnog luka ili manji struk praziluka
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4870" title="Sočivo sa krompirom" src="/wp-content/uploads/2012/12/Sočivo-sa-krompirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sočivo oprati, staviti u lonac, naliti hladnom vodom, pa kada provri ocediti vodu u kojoj se kuvalo. Zatim ga naliti vrelom vodom, da ogrezne, dodati sitno seckani crni luk i staviti da se kuva, uz povremeno dolivanje po malo tople vode.
+**Priprema**: sočivo oprati, staviti u lonac, naliti hladnom vodom, pa kada provri ocediti vodu u kojoj se kuvalo. Zatim ga naliti vrelom vodom, da ogrezne, dodati sitno seckani crni luk i staviti da se kuva, uz povremeno dolivanje po malo tople vode.
 
 U malo zagrejanog ulja dodati šargarepu, sečenu na kolutove ili rendanu, i pržiti da malo omekša. Kada je sočivo upola kuvano, dodati krompir isečen na kockice, proprženu šargarepu i dva lovorova lista.
 

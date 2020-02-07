@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 krupnijih paradajza iste veličine
   * 6 jaja
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3981" title="Zapeceniparadajzsajajima" src="/wp-content/uploads/2012/08/Zapeceniparadajzsajajima-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paradajz oprati, odseći gornji deo i kašičicom pažljivo izdubiti. Unutrašljost svakog paradajza premazati sa malo ulja, posoliti i pobiberiti.
+**Priprema**: paradajz oprati, odseći gornji deo i kašičicom pažljivo izdubiti. Unutrašljost svakog paradajza premazati sa malo ulja, posoliti i pobiberiti.
 
 U podmazanu posudu za pečenje poređati izdubljeni paradajz, u svaki razbiti po jedno jaje i staviti u zagrejanu pećnicu. Peći na umerenoj temperaturi dok belanca ne očvrsnu.
 

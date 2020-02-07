@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram šargarepe
   * glavica crnog luka ili 2 struka mladog crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3368" title="Dinstana šargarepa" src="/wp-content/uploads/2012/06/Dinstana-šargarepa-e1338885828961-300x240.jpg" alt="" width="300" height="240" /> 
 
-Priprema: crni luk očistiti, oprati, sitno iseckati i propržiti na malo ulja, da omekša.
+**Priprema**: crni luk očistiti, oprati, sitno iseckati i propržiti na malo ulja, da omekša.
 
 Očišćenu i opranu šargarepu iseći na kolutove, pa dodati u luk. Dinastati, uz dolivanje tople vode, dok šargarepa ne omekša.
 

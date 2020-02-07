@@ -18,7 +18,7 @@ tags:
   - rezanci
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * rezanci (500 grama)
   * pečurke-šampinjoni (300 g)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9229" src="/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom-300x225.jpg" alt="rezancisapecurkamaipaprikom" width="300" height="225" />](/wp-content/uploads/2014/07/rezancisapecurkamaipaprikom.jpg)
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na ulju, da malo omekša. Očišćenu i opranu šargarepu krupno narendati, dodati u luk i pržiti nekoliko minuta. Paprike iseći na rezance, dodati u luk i šargarepu i nastaviti sa prženjem još desetak minuta na umerenoj vatri. Posoliti i pobiberiti po ukusu.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju, da malo omekša. Očišćenu i opranu šargarepu krupno narendati, dodati u luk i pržiti nekoliko minuta. Paprike iseći na rezance, dodati u luk i šargarepu i nastaviti sa prženjem još desetak minuta na umerenoj vatri. Posoliti i pobiberiti po ukusu.
 
 Pečurke oprati, iseći na listiće i dinstati na ulju dok ne omekšaju i ne uvri sok koji su pustile. Pri kraju dinstanja posoliti.
 

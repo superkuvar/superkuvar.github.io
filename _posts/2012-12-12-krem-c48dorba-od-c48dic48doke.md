@@ -20,7 +20,7 @@ tags:
   - kari
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama čičoke
   * 2 kašike brašna
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4885" title="Čorba od čičoke" src="/wp-content/uploads/2012/12/Čorba-od-čičoke-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: čičoku oprati, ostrugati kao mlade krompiriće, pa krupno narendati. U dubljoj posudi, na malo ulja kratko propržiti narendanu čičoku, naliti litrom tople vode ili supe od povrća i kuvati na umerenoj vatri oko dvadeset minuta.
+**Priprema**: čičoku oprati, ostrugati kao mlade krompiriće, pa krupno narendati. U dubljoj posudi, na malo ulja kratko propržiti narendanu čičoku, naliti litrom tople vode ili supe od povrća i kuvati na umerenoj vatri oko dvadeset minuta.
 
 Na malo ulja propržiti brašno, da se dobije svetla zaprška. Zapržiti čorbu, uz mešanje da se brašno ne bi zgrudvalo. Dodati so ili suvi biljni začin i pola kašičice kari začina, pa ostaviti čorbu da se kuva još desetak minuta. Gotovu čorbu posuti seckanim peršunovim listom.
 

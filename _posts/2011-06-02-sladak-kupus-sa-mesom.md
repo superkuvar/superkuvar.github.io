@@ -16,7 +16,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama junećeg mesa ( za supu)
   * glavica kupusa (oko 2 kilograma)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-891" title="sladakkupussamesom" src="/wp-content/uploads/2011/06/sladakkupussamesom-e1307009253180.jpg" alt="" width="241" height="166" /> 
 
-Priprema: meso oprati, naliti vodom i staviti da se kuva, kao za supu.
+**Priprema**: meso oprati, naliti vodom i staviti da se kuva, kao za supu.
 
 Sladak (svež) kupus očistiti, oprati i iseći na komade.
 

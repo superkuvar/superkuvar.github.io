@@ -15,7 +15,7 @@ tags:
    - jaja
    - kiselo mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 5 glavica crnog luka
 * manja glavica celera

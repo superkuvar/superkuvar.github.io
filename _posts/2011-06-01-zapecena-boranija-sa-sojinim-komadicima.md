@@ -20,7 +20,7 @@ tags:
   - soja
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (500 grama)
   * 100 grama sojinih komadića
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2994" title="Zapečena boranija sa sojom" src="/wp-content/uploads/2011/06/Zapečena-boranija-sa-sojom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na ulju prodinstati boraniju i iseckan crni i beli luk. U to dodati sojine komadiće (koji su prethodno obareni u slanoj vodi a zatim oceđeni), pirinač prethodno napola obaren, oljušten i izrendan paradajz, alevu papriku, suvi biljni začin, origano i sitno seckani peršunov list.
+**Priprema**: na ulju prodinstati boraniju i iseckan crni i beli luk. U to dodati sojine komadiće (koji su prethodno obareni u slanoj vodi a zatim oceđeni), pirinač prethodno napola obaren, oljušten i izrendan paradajz, alevu papriku, suvi biljni začin, origano i sitno seckani peršunov list.
 
 U podmazanu posudu za pečenje sipati pripremljenu boraniju. Peći oko 30 minuta u pećnici zagrejanoj na 220 stepeni. Jelo izvaditi iz pećnice, preliti masom od jaja umućenih sa mlekom i peći još dvadesetak minuta.
 

@@ -17,7 +17,7 @@ tags:
   - senf
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 paradajza
   * 1 glavica crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3865" title="Salataodparadajzasasenfom" src="/wp-content/uploads/2012/08/Salataodparadajzasasenfom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
+**Priprema**: paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
 
 Kolutove paradajza složiti na plitki tanjir i preliti pripremljenom marinadom. Salatu odozgo, po želji, ukrasiti seckanim peršunovim listom.
 

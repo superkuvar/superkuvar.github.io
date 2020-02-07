@@ -20,7 +20,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 tikvice srednje veličine
   * 3 jajeta
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3412" title="Pitabezkorasatikvicama" src="/wp-content/uploads/2012/06/Pitabezkorasatikvicama1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oprati, oljuštiti i narendati tikvice. Dodati soli po ukusu, malo bosiljka i mirođije.
+**Priprema**: oprati, oljuštiti i narendati tikvice. Dodati soli po ukusu, malo bosiljka i mirođije.
 
 U posudi za mešenje umutiti jaja, dodati ulje, jogurt, izmrvljen sir i sipati brašno pomešano sa praškom za pecivo. U testo dodati narendane tikvice i izmešati varjačom.
 

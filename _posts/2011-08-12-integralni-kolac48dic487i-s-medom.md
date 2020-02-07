@@ -23,7 +23,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 4 kašike žutog šećera
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5465" src="/wp-content/uploads/2011/08/Integralnikolačićisamedom-300x225.jpg" alt="Integralnikolačićisamedom" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ostale sastojke i dobro izmešati, da se dobije žitko testo. Ukoliko je testo previše žitko, dodati još malo brašna.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ostale sastojke i dobro izmešati, da se dobije žitko testo. Ukoliko je testo previše žitko, dodati još malo brašna.
 
 Kašičicom vaditi masu (kao puslice) i ređati u pleh prekriven papirom za pečenje.
 

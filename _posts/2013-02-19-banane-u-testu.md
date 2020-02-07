@@ -20,7 +20,7 @@ tags:
   - kokosovo brašno
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 banane srednje veličine
   * 2 jajeta
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5296" src="/wp-content/uploads/2013/02/Bananeutestu-300x225.jpg" alt="Bananeutestu" width="300" height="225" /> 
 
-Priprema: umutiti jaja viljuškom, a zatim dodati brašno i prašak za pecivo. Masu dobro izmešati, da se dobije testo gustine kao za palačinke.
+**Priprema**: umutiti jaja viljuškom, a zatim dodati brašno i prašak za pecivo. Masu dobro izmešati, da se dobije testo gustine kao za palačinke.
 
 Oljuštiti banane, svaku iseći na tri dela, uvaljati u brašno, umočiti u testo i pržiti na vrelom ulju.
 

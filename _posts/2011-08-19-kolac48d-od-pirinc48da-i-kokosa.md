@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * litar mleka
   * 250 grama pirinča
@@ -35,7 +35,7 @@ Potrebno je:
   * margarin
   * prezle
 
-Priprema: očišćen i opran pirinač spustiti u mleko, dodati na vrh noža soli i kuvati dok ne omekša, ali da se ne raskuva.
+**Priprema**: očišćen i opran pirinač spustiti u mleko, dodati na vrh noža soli i kuvati dok ne omekša, ali da se ne raskuva.
 
 U skuvan prohlađen pirinač dodati žumanca umućena sa šećerom i vanilom, kokos, suvo grožđe natopljeno u rumu, sitno seckane smokve, struganu koru od limuna i na kraju čvrsto ulupan sneg od belanaca.
 

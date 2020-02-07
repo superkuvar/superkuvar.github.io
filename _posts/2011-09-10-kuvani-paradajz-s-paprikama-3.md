@@ -14,7 +14,7 @@ tags:
   - paprike
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma paradajza
   * 1 kilogram mesnatih paprika
@@ -23,7 +23,7 @@ Potrebno je:
   * soli po ukusu
   * pola kesice konzervansa
 
-Priprema: paradajz i paprike oprati, očistiti i samleti na mašini za mlevenje mesa, a zatim kuvati dok ne uvri do dve trećine prvobitne količine. Dodati isitnjeno celerovo lišće, so i konzervans, pa kuvati još 15 minuta.
+**Priprema**: paradajz i paprike oprati, očistiti i samleti na mašini za mlevenje mesa, a zatim kuvati dok ne uvri do dve trećine prvobitne količine. Dodati isitnjeno celerovo lišće, so i konzervans, pa kuvati još 15 minuta.
 
 Skuvan, vruć paradajz sipati u zagrejane flaše, uviti u ćebe i ostaviti do sutradan, a zatim povezati i smestiti u ostavu.
 

@@ -18,7 +18,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 11 komada jaja
   * 17 kašika šećera
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2449" title="Jastuk torta" src="/wp-content/uploads/2012/02/Jastuk-torta-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti čvrst sneg od 6 belanaca, dodati 6 žumanaca umućenih sa 6 kašika šećera i još malo mutiti. Tome dodati 6 kašika brašna i lagano izmešati.
+**Priprema**: u posudi za mešenje umutiti čvrst sneg od 6 belanaca, dodati 6 žumanaca umućenih sa 6 kašika šećera i još malo mutiti. Tome dodati 6 kašika brašna i lagano izmešati.
 
 Četvrtasti pleh obložiti pek-papirom ili ga podmazati uljem i posuti brašnom, a zatim sipati pripremljeno testo. Peći na umerenoj temperaturi dvadesetak minuta. Ispečeno testo ostaviti do sutradan, a zatim nožem iseći na trake širine prsta.
 

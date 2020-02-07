@@ -13,7 +13,7 @@ categories:
 tags:
    - kupus
 ---
-Potrebno je:
+**Potrebno je**:
 
 * glavica kiselog kupusa (oko 1 kg)
 * 500 g kora

@@ -19,7 +19,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kelj (glavica oko 1 kg)
   * 2 glavice crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9358" src="/wp-content/uploads/2011/06/musakaodkelja3-300x225.jpg" alt="musakaodkelja" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkelja3.jpg)
 
-Priprema: oprati kelj, odvojiti ga na listove i obariti u slanoj vodi u koju je dodato malo sirćeta. Kada kelj omekša ocediti ga, ostaviti da se ohladi pa iseći na rezance.
+**Priprema**: oprati kelj, odvojiti ga na listove i obariti u slanoj vodi u koju je dodato malo sirćeta. Kada kelj omekša ocediti ga, ostaviti da se ohladi pa iseći na rezance.
 
 Iseckan crni luk propržiti na malo ulja, da postane staklast, dodati izrendanu šargarepu i još malo pržiti. U luk i šargarepu dodati mleveno meso, posoliti i pobiberiti i pržiti 2-3 minuta.
 

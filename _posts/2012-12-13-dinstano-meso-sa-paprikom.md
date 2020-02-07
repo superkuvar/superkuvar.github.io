@@ -21,7 +21,7 @@ tags:
   - meso
   - paprike
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama svinjskog ili junećeg mesa
   * 1 glavica crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4902" title="Mesosapaprikom" src="/wp-content/uploads/2012/12/Mesosapaprikom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na malo ulja. Meso isitniti na kockice i dodati u propržen luk. Dinstati, uz povremeno dolivanje po malo tople vode. Dodati papriku isečenu na sitnije komade i nastaviti sa dinstanjem dok meso ne omekša.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. Meso isitniti na kockice i dodati u propržen luk. Dinstati, uz povremeno dolivanje po malo tople vode. Dodati papriku isečenu na sitnije komade i nastaviti sa dinstanjem dok meso ne omekša.
 
 Pri kraju dinstanja meso posoliti, dodati biber, kašičicu aleve paprike i kašiku brašna. Dinstati još nekoliko minuta.
 

@@ -21,7 +21,7 @@ tags:
   - višnje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 15 kašika šećera
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5121" src="/wp-content/uploads/2011/12/Brzi-voćni-kolač-300x225.jpg" alt="Brzi voćni kolač" width="300" height="225" /> 
 
-Priprema: u sud za mešenje staviti jaja i šećer i mutiti mikserom. Kad su jaja dobro umućena dodati ulje, jogurt, malo soka i kore od limuna i brašno pomešano sa praškom za pecivo.
+**Priprema**: u sud za mešenje staviti jaja i šećer i mutiti mikserom. Kad su jaja dobro umućena dodati ulje, jogurt, malo soka i kore od limuna i brašno pomešano sa praškom za pecivo.
 
 Pripremljeno testo sipati u pleh prekriven papirom za pečenje (ili podmazan i posut brašnom), a odozgo poređati višnje. Kolač peći oko 40 minuta u pećnici prethodno zagrejenoj na 200 stepeni.
 

@@ -15,7 +15,7 @@ tags:
   - brokoli
   - kačkavalj
 ---
-Potrebno je:
+**Potrebno je**:
 
   * brokoli (900 grama)
   * 5 čenova belog luka
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-935" title="brokolikaoprilog" src="/wp-content/uploads/2011/06/brokolikaoprilog-e1307102812714.jpg" alt="" width="236" height="146" /> 
 
-Priprema: brokoli očistiti i obariti u slanoj vodi, vodeći računa da se ne prekuva. Zatim ga ocediti i vruć preliti sitno iseckanim belim lukom, proprženim na malo ulja. Po želji posuti rendanim kačkavaljem.
+**Priprema**: brokoli očistiti i obariti u slanoj vodi, vodeći računa da se ne prekuva. Zatim ga ocediti i vruć preliti sitno iseckanim belim lukom, proprženim na malo ulja. Po želji posuti rendanim kačkavaljem.
 
 Brokoli poslužiti kao prilog uz meso.
 

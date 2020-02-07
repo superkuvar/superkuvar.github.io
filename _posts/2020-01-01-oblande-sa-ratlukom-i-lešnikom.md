@@ -13,7 +13,7 @@ tags:
   - oblande
 ---
 
-Potrebno je: 
+**Potrebno je**: 
 
 * pakovanje oblandi
 * 250 g secera
@@ -22,7 +22,7 @@ Potrebno je:
 * malo vode
 
 
-Priprema: ratluk iseckati a lešnik malo propržiti i samleti. 
+**Priprema**: ratluk iseckati a lešnik malo propržiti i samleti. 
 
 Šećer preliti sa malo vode pa ušpinovati da bude malo ređi nego za slatko. Dodati iseckan ratluk, mlevene lešnike i masu dobro izmešati. Skloniti sa vatre pa kada bude mlako filovati oblande. 
 

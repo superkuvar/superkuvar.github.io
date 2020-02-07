@@ -12,7 +12,7 @@ categories:
 tags:
    - zalen
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g guščijeg mesa 
 * 2 korena zeleni

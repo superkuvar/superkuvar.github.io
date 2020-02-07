@@ -20,7 +20,7 @@ tags:
   - limun
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma dunja
   * 2,5 kilograma šećera
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4617" title="Dunje (2)" src="/wp-content/uploads/2012/11/Dunje-2-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: dunje oprati, posušiti, oljuštiti, iseći na sitnije kocke i svaku odmah stavljati u hladnu vodu, da ne bi potamnele. Dunje prokuvati u toj istoj vodi (oko pet minuta), a zatim staviti u cediljku da se ocede.
+**Priprema**: dunje oprati, posušiti, oljuštiti, iseći na sitnije kocke i svaku odmah stavljati u hladnu vodu, da ne bi potamnele. Dunje prokuvati u toj istoj vodi (oko pet minuta), a zatim staviti u cediljku da se ocede.
 
 U međuvremenu, od šećera i vode u kojoj su se dunje barile skuvati sirup. U sirup dodati dunje, kolutove i sok od limuna. Slatko kuvati na jačoj vatri, povremeno skidajući kašikom penu koja se stvorila na površini.
 

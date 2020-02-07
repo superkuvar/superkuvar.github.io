@@ -18,7 +18,7 @@ tags:
   - zelje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 400 grama belog sira
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3048" title="Pita zeljanica" src="/wp-content/uploads/2012/04/Pita-zeljanica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: zelje oprati i kratko obariti, a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, dodati zelje, so i malo ulja.
+**Priprema**: zelje oprati i kratko obariti, a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, dodati zelje, so i malo ulja.
 
 Po tri-četiri kore ređati jednu preko druge, svaku poprskati uljem, pa preko četvrte stavljati pripremljeni nadev od zelja. Uviti ih u rolnu i ređati u podmazan pleh.
 

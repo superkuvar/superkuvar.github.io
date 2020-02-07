@@ -17,7 +17,7 @@ tags:
   - muskatni oraščić
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (800 grama)
   * 3 jajeta
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5970" src="/wp-content/uploads/2011/03/Krompirsajajima-300x225.jpg" alt="Krompirsajajima" width="300" height="225" /> 
 
-Priprema: krompir oprati, neoljušten skuvati u posoljenoj vodi i ocediti. Kada se krompir prohladi, oljuštiti ga i iseći na kolutove ili kockice. Za to vreme tvrdo skuvati jaja, a na ulju propržiti iseckani crni luk.
+**Priprema**: krompir oprati, neoljušten skuvati u posoljenoj vodi i ocediti. Kada se krompir prohladi, oljuštiti ga i iseći na kolutove ili kockice. Za to vreme tvrdo skuvati jaja, a na ulju propržiti iseckani crni luk.
 
 U propržen luk dodati izdrobljena žumanca i naseckana belanca, krompir, iseckani peršunov list, biber, muskatni oraščić i so. Izmešati, naliti mlekom i kratko sve propirjaniti.
 

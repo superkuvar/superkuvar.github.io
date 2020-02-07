@@ -17,7 +17,7 @@ tags:
   - mleko u prahu
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 dl vode
   * 400 grama šećera
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2728" title="Kuglice Rafaelo" src="/wp-content/uploads/2012/03/Kuglice-Rafaelo-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu sipati šećer i vodu, dodati margarin i prokuvati na slabijoj vatri, pa postepeno dodavati mleko u prahu i kokosovo brašno.
+**Priprema**: u posudu sipati šećer i vodu, dodati margarin i prokuvati na slabijoj vatri, pa postepeno dodavati mleko u prahu i kokosovo brašno.
 
 Kada se masa ohladi, rukama praviti kuglice i uvaljati ih u kokosovo brašno. Ukoliko smesa nije dovoljno čvrsta, dodati još malo kokosovog brašna.
 

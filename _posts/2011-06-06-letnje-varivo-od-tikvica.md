@@ -17,7 +17,7 @@ tags:
   - lovorov list
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 mladih tikvica
   * glavica crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3289" title="Letnje varivo od tikvica" src="/wp-content/uploads/2011/06/Letnje-varivo-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oprane i oljuštene tikvice iseći na krupnije kocke. Na malo ulja propržiti sitno seckani crni luk, samo da omekša. U luk zatim dodati isečene tikvice, preliti ih vodom da ogreznu, dodati lovorov list, iseckan beli luk i mirođiju, kocku za supu i brašno razmućeno u malo hladne vode.
+**Priprema**: oprane i oljuštene tikvice iseći na krupnije kocke. Na malo ulja propržiti sitno seckani crni luk, samo da omekša. U luk zatim dodati isečene tikvice, preliti ih vodom da ogreznu, dodati lovorov list, iseckan beli luk i mirođiju, kocku za supu i brašno razmućeno u malo hladne vode.
 
 Varivo kuvati, uz povremeno mešanje, petnaestak minuta, dok tikvice ne omekšaju, a sok se malo zgusne. Skloniti sa vatre i poslužiti uz kiselu pavlaku.
 

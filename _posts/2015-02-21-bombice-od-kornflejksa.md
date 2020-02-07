@@ -19,7 +19,7 @@ tags:
   - orasi
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 125 grama margarina
   * čokolada (100 g)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9416" src="/wp-content/uploads/2015/02/kornflejksbombice-300x225.jpg" alt="kornflejksbombice" width="300" height="225" />](/wp-content/uploads/2015/02/kornflejksbombice.jpg)
 
-Priprema: u šerpi, na tihoj vatri, otopiti margarin, izlomljenu čokoladu, šećer i med.  erpu zatim skloniti sa ringle, pa dodati kornflejks, iseckane orahe i iseckano suvo grožđe. Masu izmešati, pritiskajući kašikom da se kornflejks ljuspice malo izlome.
+**Priprema**: u šerpi, na tihoj vatri, otopiti margarin, izlomljenu čokoladu, šećer i med.  erpu zatim skloniti sa ringle, pa dodati kornflejks, iseckane orahe i iseckano suvo grožđe. Masu izmešati, pritiskajući kašikom da se kornflejks ljuspice malo izlome.
 
 Pustiti da se smesa prohladi, a zatim je kašičicom vaditi i stavljati u papirne korpice ili na aluminijumsku foliju. Ostaviti da se bombice stegnu i prosuše, a zatim služiti.
 

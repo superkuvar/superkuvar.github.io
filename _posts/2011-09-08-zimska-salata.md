@@ -17,7 +17,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 25 komada crvenih paprika
   * 25 komada žutih ili zelenih paprika
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4179" title="Zimska salata" src="/wp-content/uploads/2011/09/Zimska-salata-e1346659284785-300x262.jpg" alt="" width="300" height="262" /> 
 
-Priprema: paprike oprati, ispeći u rerni, oljuštiti, očistiti od semena i sitno iseckati. šargarepu očistiti, oprati, oljuštiti i obariti u slanoj vodi, a zatim iseći na kolutove.
+**Priprema**: paprike oprati, ispeći u rerni, oljuštiti, očistiti od semena i sitno iseckati. šargarepu očistiti, oprati, oljuštiti i obariti u slanoj vodi, a zatim iseći na kolutove.
 
 Pomešati iseckane paprike i šargarepu, pa toj masi dodati ulje, šećer, soli po ukusu, iseckan beli luk, esenciju, konzervans i vezicu iseckanog peršunovog lista. Sve izmešati i salatom napuniti tegle.
 

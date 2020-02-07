@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama tankih kora za pitu
   * 5 jaja
@@ -41,7 +41,7 @@ Sirup
 
 <img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="/wp-content/uploads/2012/05/Krem-štrudla-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: podeliti kore na tri jednaka dela. Umutiti jaja sa šećerom, dodati brašno i narendanu koru od limuna.
+**Priprema**: podeliti kore na tri jednaka dela. Umutiti jaja sa šećerom, dodati brašno i narendanu koru od limuna.
 
 Uzeti četiri kore, ređati ih jednu preko druge, svaku poprskati uljem i posuti šećerom. Preko četvrte kore premazati trećinu krem fila, posuti oljuštenim izrendanim jabukama, suvim grožđem, mlevenim orasima i grizom. Uviti kao savijaču. Tako uraditi još dva puta.
 

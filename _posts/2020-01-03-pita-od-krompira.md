@@ -13,7 +13,7 @@ categories:
 tags:
    -
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g kora 
 * 3 glavice crnog luka 

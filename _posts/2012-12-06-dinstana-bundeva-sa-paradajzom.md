@@ -22,7 +22,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama bundeve
   * 400 grama kuvanog paradajza
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4858" title="Bundeva sa paradajzom" src="/wp-content/uploads/2012/12/Bundeva-sa-paradajzom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, oprati i iseći na kockice. Crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati isitnjenu bundevu i kuvani paradajz, pa naliti sasvim malo tople vode.
+**Priprema**: bundevu oljuštiti, oprati i iseći na kockice. Crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati isitnjenu bundevu i kuvani paradajz, pa naliti sasvim malo tople vode.
 
 Dinstati na umerenoj temperaturi, uz povremeno mešanje, dok bundeva ne omekša. Posoliti, dodati bosiljak, a pri kraju dinstanja sipati skrob rastvoren u malo hladne vode. Promešati i dinstati još nekoliko minuta.
 

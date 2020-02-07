@@ -19,14 +19,14 @@ tags:
   - hlebovi i pogače
   - maslac
 ---
-Potrebno je:
+**Potrebno je**:
 
   * nekoliko kriški bajatog ili tost hleba
   * maslac (margarin) ili ulje
 
 <img class="alignnone size-medium wp-image-5094" src="/wp-content/uploads/2013/01/Prženi-hleb-300x225.jpg" alt="Prženi hleb" width="300" height="225" /> 
 
-Priprema: hleb iseći na kriške jednake debljine, odstraniti koru i sredinu iseći na kockice. U tiganju zagrejati puter (margarin) i staviti kockice hleba. Pržiti na umerenoj temperaturi, uz mešanje kako bi se tokom prženja hleb ispržio sa svih strana.
+**Priprema**: hleb iseći na kriške jednake debljine, odstraniti koru i sredinu iseći na kockice. U tiganju zagrejati puter (margarin) i staviti kockice hleba. Pržiti na umerenoj temperaturi, uz mešanje kako bi se tokom prženja hleb ispržio sa svih strana.
 
 Ispržene kockice hleba izvaditi na papirni ubrus da upije suvišnu masnoću, a zatim staviti u posebnu posudu i servirati kao prilog uz krem čorbu ili supu (od karfiola, krompira, spanaća, šargarepe, graška &#8230;). Krutone dodati u čorbu neposredno pred služenje, da bi ostali hrskavi.
 

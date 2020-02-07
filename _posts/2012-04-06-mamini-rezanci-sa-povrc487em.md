@@ -18,7 +18,7 @@ tags:
   - rezanci
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * čipkasti rezanci (400 grama)
   * veća glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2874" title="Mamini rezanci sa povrćem" src="/wp-content/uploads/2012/04/Mamini-rezanci-sa-povrćem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo prethodno zagrejanog ulja. šargarepu oprati, očistiti i izrendati. U propržen luk dodati šargarepu i još malo pržiti.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo prethodno zagrejanog ulja. šargarepu oprati, očistiti i izrendati. U propržen luk dodati šargarepu i još malo pržiti.
 
 Pečene paprike iseći na rezance i dodati ih u luk i šargarepu. Nastaviti sa prženjem, na umerenoj temperaturi. U proprženo povrće dodati so, biber, malo suvog bosiljka i kečap.
 

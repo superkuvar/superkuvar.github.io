@@ -17,7 +17,7 @@ tags:
   - pečurke
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kilogram bundeve
   * 3 struka praziluka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2389" title="Musaka pecurke+bundeva (5)" src="/wp-content/uploads/2012/01/Musaka-pecurke+bundeva-5-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, oprati i izrendati na krupno rende. Praziluk i pečurke očistiti i oprati. Praziluk iseći na kolutove, a šampinjone na listiće.
+**Priprema**: bundevu oljuštiti, oprati i izrendati na krupno rende. Praziluk i pečurke očistiti i oprati. Praziluk iseći na kolutove, a šampinjone na listiće.
 
 U tiganju, na malo ulja, kratko propržiti isitnjeni praziluk.  Dodati pečurke, pa dinstati na umerenoj temperaturi tridesetak minuta. Po potrebi dolivati po malo tople vode. Pri kraju dinstanja, pečurke i praziluk posoliti po ukusu, dodati malo origana i seckani peršunov list.
 

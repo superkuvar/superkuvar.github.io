@@ -18,7 +18,7 @@ tags:
   - rezanci
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 manje celo pile
   * 2 šargarepe
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3151" title="Pileća supa" src="/wp-content/uploads/2012/04/Pileća-supa-e1336221617469-300x241.jpg" alt="" width="300" height="241" /> 
 
-Priprema: staviti pile u sud sa hladnom vodom i kuvati na tihoj vatri. Glavicu crnog luka preseći na pola, kratko zapeći na plotni i staviti u supu kada počne da vri.
+**Priprema**: staviti pile u sud sa hladnom vodom i kuvati na tihoj vatri. Glavicu crnog luka preseći na pola, kratko zapeći na plotni i staviti u supu kada počne da vri.
 
 Kada je pile upola kuvano u supu dodati šargarepu, celer, peršun, paškanat, nekoliko zrna bibera i so. Nastaviti sa kuvanjem dok meso ne omekša.
 

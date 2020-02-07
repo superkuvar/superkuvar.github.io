@@ -21,7 +21,7 @@ tags:
   - paradajz pire
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (200 grama)
   * 1 glavica crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5779" src="/wp-content/uploads/2011/03/Pirinacnaitalijanskinacin-300x225.jpg" alt="Pirinacnaitalijanskinacin" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Pirinač oprati i dodati u propržen luk. Uz stalno mešanje varjačom i povremeno dolivanje po malo tople vode kuvati oko 35 minuta na tihoj vatri.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Pirinač oprati i dodati u propržen luk. Uz stalno mešanje varjačom i povremeno dolivanje po malo tople vode kuvati oko 35 minuta na tihoj vatri.
 
 Pri kraju kuvanja u pirinač dodati malo bibera i soli po ukusu, seckani peršunov list i paradajz pire.
 

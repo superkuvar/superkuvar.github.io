@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (1 kilogram)
   * so
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3439" title="Jeloodzapečenihtikvica" src="/wp-content/uploads/2011/05/Jeloodzapečenihtikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na šnite i ređati u podmazanu posudu, kao za musaku. Preko svakog reda tikvica sipati po malo ulja, soli i majorana. Jelo peći na 200 stepeni.
+**Priprema**: tikvice oprati, oljuštiti, iseći na šnite i ređati u podmazanu posudu, kao za musaku. Preko svakog reda tikvica sipati po malo ulja, soli i majorana. Jelo peći na 200 stepeni.
 
 U međuvremenu, umutiti jaja, dodati brašno, suvi biljni začin i mleko. Dobro ujednačiti, da nema grudvica. Smesa treba da bude malo gušća nego za palačinke.
 

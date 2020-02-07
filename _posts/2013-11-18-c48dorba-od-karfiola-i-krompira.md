@@ -20,7 +20,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * karfiol (300 g)
   * 2 krompira srednje veličine
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6282" src="/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira-300x225.jpg" alt="Corbaodkarfiolaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira.jpg)
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati opran karfiol izdeljen na cvetove i krompir isečen na kockice. Povrće naliti vodom (oko 1 litar) i staviti da se kuva na umerenoj temperaturi.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati opran karfiol izdeljen na cvetove i krompir isečen na kockice. Povrće naliti vodom (oko 1 litar) i staviti da se kuva na umerenoj temperaturi.
 
 Kad čorba provri, dodati opran pirinač, kim i sitno isečene listove od karfiola. Pri kraju kuvanja začiniti solju i biberom, a zatim sipati brašno razmućeno u malo hladne vode. Čorbu kuvati još 5 minuta na tihoj vatri.
 

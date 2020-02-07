@@ -17,7 +17,7 @@ tags:
   - mleko
   - rum
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kesten (1 kg)
   * 1 litar mleka
@@ -28,7 +28,7 @@ Potrebno je:
   * 4 kašike šećera
   * komadić maslaca ili margarina
 
-Priprema: kesten oljuštiti, preliti vrelim mlekom i skuvati. Kuvan kesten ispasirati, da se dobije pire.
+**Priprema**: kesten oljuštiti, preliti vrelim mlekom i skuvati. Kuvan kesten ispasirati, da se dobije pire.
 
 Šećer staviti u šerpu, preliti sa malo vode i skuvati sirup. U gotov sirup dodati kesten pire i kašiku ruma. Masu dobro izmešati a zatim staviti na tacnu i rastanjiti na debljinu prsta. Kesten pire ostaviti do sutradan.
 

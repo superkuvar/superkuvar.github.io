@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * 2 jaja
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6230" src="/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem-300x225.jpg" alt="Musakaodtikvicasakackavaljem" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodtikvicasakackavaljem.jpg)
 
-Priprema: tikvice oljuštiti, oprati, iseći na režnjeve, kratko obariti u posoljenoj vodi, a zatim ocediti. Kada se tikvice ohlade, uvaljati ih u brašno.
+**Priprema**: tikvice oljuštiti, oprati, iseći na režnjeve, kratko obariti u posoljenoj vodi, a zatim ocediti. Kada se tikvice ohlade, uvaljati ih u brašno.
 
 U podmazanu posudu za pečenje staviti red tikvica, pa ih posuti sirom i origanom. Tako ređati dok se ne utroši materijal.
 

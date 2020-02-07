@@ -20,7 +20,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 1,5 čaša šećera (od 2 dl)
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6074" src="/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima-300x225.jpg" alt="Kolac sa breskvama i orasima" width="300" height="225" />](/wp-content/uploads/2013/08/Kolac-sa-breskvama-i-orasima.jpg)
 
-Priprema: penasto umutiti jaja sa šećerom, pa sipati ulje i jogurt. Izmešati, a zatim dodati brašno pomešano sa praškom za pecivo, griz, mlevene orahe i cimet. Testo dobro izmešati varjačom.
+**Priprema**: penasto umutiti jaja sa šećerom, pa sipati ulje i jogurt. Izmešati, a zatim dodati brašno pomešano sa praškom za pecivo, griz, mlevene orahe i cimet. Testo dobro izmešati varjačom.
 
 Dno pleha prekriti papirom za pečenje i poređati breskve isečene ma uže kriške. Breskve preliti pripremljenim testom. Kolač staviti staviti u pećnicu zagrejanu na 200 stepeni i peći 40 minuta.
 

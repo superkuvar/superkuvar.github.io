@@ -18,7 +18,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 5 kašika šećera
@@ -38,7 +38,7 @@ Za fil:
 
 <img class="alignnone size-medium wp-image-3848" title="Jednostavnavocnatorta" src="/wp-content/uploads/2011/12/Jednostavnavocnatorta-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu za mešenje staviti jaja i šećer, dobro umutiti mikserom, pa dodati brašno, ulje i malo strugane kore od limuna. Sve lagano izmešati i sipati u četvrtasti pleh obložen pek papirom. Ispeći u pećnici zagrejanoj na 200 stepeni. Pečenu koru, kada se malo prohladi, preseći na pola.
+**Priprema**: u posudu za mešenje staviti jaja i šećer, dobro umutiti mikserom, pa dodati brašno, ulje i malo strugane kore od limuna. Sve lagano izmešati i sipati u četvrtasti pleh obložen pek papirom. Ispeći u pećnici zagrejanoj na 200 stepeni. Pečenu koru, kada se malo prohladi, preseći na pola.
 
 Fil pripremiti na sledeći način: prašak za puding razmutiti u malo hladnog mleka. U ostatak mleka dodati šećer, pa kad provri skloniti sa vatre i zakuvati puding. Vratiti na ringlu i kuvati još minut-dva. Puding samo malo prohladiti, pa dodati margarin.
 

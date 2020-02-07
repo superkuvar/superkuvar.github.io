@@ -17,7 +17,7 @@ tags:
   - mileram
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram mlade ili zamrznute boranije
   * 1 glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3652" title="Boranijasajajimaimileramom" src="/wp-content/uploads/2012/07/Boranijasajajimaimileramom-e1341308885285-300x239.jpg" alt="" width="300" height="239" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati boraniju i uz dolivanje po malo tople vode, dinstati dok ne omekša. Tada u boraniju dodati so, suvi biljni začin, biber, sitno seckani beli luk i peršunov list.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati boraniju i uz dolivanje po malo tople vode, dinstati dok ne omekša. Tada u boraniju dodati so, suvi biljni začin, biber, sitno seckani beli luk i peršunov list.
 
 Jaja tvrdo skuvati, oljuštiti i iseći na kolutove.
 

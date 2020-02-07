@@ -16,7 +16,7 @@ tags:
   - šećer
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg svežih smokava
   * 2,5 kilograma šećera
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3977" title="Slatko od smokava" src="/wp-content/uploads/2012/08/Slatko-od-smokava-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sveže i čvrste smokve oprati i što tanje oljuštiti oštrim nožem. Probosti ih iglom za pletenje, staviti u veću šerpu, preliti hladnom vodom i na štednjaku kuvati do vrenja. Za vreme kuvanja promeniti vodu tri-četiri puta, ali ne dozvoliti da smokve mnogo vriju. Nakon toga smokve pažljivo izručiti u cediljku i ostaviti da se ocede.
+**Priprema**: sveže i čvrste smokve oprati i što tanje oljuštiti oštrim nožem. Probosti ih iglom za pletenje, staviti u veću šerpu, preliti hladnom vodom i na štednjaku kuvati do vrenja. Za vreme kuvanja promeniti vodu tri-četiri puta, ali ne dozvoliti da smokve mnogo vriju. Nakon toga smokve pažljivo izručiti u cediljku i ostaviti da se ocede.
 
 U veću šerpu za slatko staviti šećer, preliti ga sa 5 decilitara hladne vode, da ogrezne i staviti na štednjak da se kuva. Sirup ne treba da bude mnogo gust. Tada u sirup staviti smokve i kuvati na jakoj vatri, dok šećer ne bude toliko gust da rashlađen sok pada sa kašičice u gustim kapljicama.
 

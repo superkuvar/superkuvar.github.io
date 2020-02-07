@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 paradajza srednje veličine
   * 3 krompira
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4471" title="Paradajz corba sa pirincem" src="/wp-content/uploads/2012/10/Paradajz-corba-sa-pirincem-e1350052538521-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Krompir oprati, oljuštiti, krupno iseći, dodati u propržen luk, naliti litrom vode i kuvati dok ne omekša. Skuvan krompir izvaditi, propasirati i vratiti u posudu sa vodom i lukom.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Krompir oprati, oljuštiti, krupno iseći, dodati u propržen luk, naliti litrom vode i kuvati dok ne omekša. Skuvan krompir izvaditi, propasirati i vratiti u posudu sa vodom i lukom.
 
 Paradajz oprati, oljuštiti, ukloniti seme, isitniti i dodati u čorbu. Pirinač oprati i umešati u čorbu. Posoliti, pobiberiti i dodati suvi biljni začin. Čorbu kuvati na umerenoj temperaturi dok pirinač ne omekša i nabubri.
 

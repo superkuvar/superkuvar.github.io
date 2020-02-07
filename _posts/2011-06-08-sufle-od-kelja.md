@@ -18,7 +18,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 glavica kelja (oko 1 kilogram)
   * 250 grama mlevenog mesa
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1011" title="suflekelj" src="/wp-content/uploads/2011/06/suflekelj-e1307527770790.jpg" alt="" width="216" height="167" /> 
 
-Priprema: glavicu kelja očistiti, oprati, izrezati na četiri dela i obariti u slanoj vodi. Zatim kelj ocediti, ohladiti i sitno iseckati.
+**Priprema**: glavicu kelja očistiti, oprati, izrezati na četiri dela i obariti u slanoj vodi. Zatim kelj ocediti, ohladiti i sitno iseckati.
 
 Na ulju propržiti seckani crni luk, da dobije staklast izgled, pa dodati mleveno meso i kašičicu suvog biljnog začina.
 

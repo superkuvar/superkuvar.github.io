@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 kelerabe
   * glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4376" title="Corbaodkelerabeisargarepe" src="/wp-content/uploads/2012/09/Corbaodkelerabeisargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelerabu i šargarepu oprati i oljuštiti. Kelerabu iseći na kockice, a šargarepu izrendati. Crni luk oljuštiti i sitno iseći.
+**Priprema**: kelerabu i šargarepu oprati i oljuštiti. Kelerabu iseći na kockice, a šargarepu izrendati. Crni luk oljuštiti i sitno iseći.
 
 Na malo ulja propržiti iseckan crni luk, a zatim dodati kelerabu i šargarepu i pirjaniti dok povrće ne omekša. Po potrebi, dolivati po malo tople vode.
 

@@ -18,7 +18,7 @@ tags:
   - orasi
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama meda
   * 250 g šećera
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1677" title="medenjacizacaj" src="/wp-content/uploads/2011/08/medenjacizacaj-e1312978858191.jpg" alt="" width="244" height="172" /> 
 
-Priprema: u šerpu sipati šećer i med i staviti na štednjak da provri. Za to vreme u posudu za mešenje sipati brašno, pa polako u njega sipati istopljeni šećer i med, dobro izmešati i ostaviti da se ohladi.
+**Priprema**: u šerpu sipati šećer i med i staviti na štednjak da provri. Za to vreme u posudu za mešenje sipati brašno, pa polako u njega sipati istopljeni šećer i med, dobro izmešati i ostaviti da se ohladi.
 
 U ohlađenu masu dodati sodu bikarbonu, cimet, karanfilić, koru i sok od limuna i žumanca. Testo izručiti na radnu površinu posutu brašnom i dobro umesiti, a ako je potrebno dodati još jedno žumance.
 

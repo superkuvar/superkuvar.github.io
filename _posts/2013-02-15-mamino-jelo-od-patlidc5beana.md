@@ -22,7 +22,7 @@ tags:
   - pirinač
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 plava patlidžana
   * struk praziluka ili glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5261" src="/wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-300x225.jpg" alt="Mamino jelo sa patlidzanom" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
+**Priprema**: plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
 
 Na ulju ispržiti isitnjen praziluk. Dodati patlidžan, so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list. Patlidžan dinstati 15 minuta.
 

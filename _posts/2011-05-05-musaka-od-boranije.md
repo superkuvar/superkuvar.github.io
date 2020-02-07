@@ -19,7 +19,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (1,5 kg)
   * 100 ml ulja (ili 100 grama margarina)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2512" title="Musaka od boranije" src="/wp-content/uploads/2011/05/Musaka-od-boranije-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: boraniju očistiti, oprati, pa je preseći na pola. Na masnoći propržiti iseckan crni luk, dodati boraniju, naliti vodom i dinstati. U toku dinstanja, po potrebi dolivati po malo tople vode. Pred kraj posoliti, pobiberiti i poklopiti da se još malo pirjani. Kada je boranija mekana, ocediti je.
+**Priprema**: boraniju očistiti, oprati, pa je preseći na pola. Na masnoći propržiti iseckan crni luk, dodati boraniju, naliti vodom i dinstati. U toku dinstanja, po potrebi dolivati po malo tople vode. Pred kraj posoliti, pobiberiti i poklopiti da se još malo pirjani. Kada je boranija mekana, ocediti je.
 
 U podmazan sud za pečenje ređati boraniju, posipati je seckanim belim lukom i peršunom, prezlom, rastopljenom masnoćom (najbolje margarinom), biberom i umućenom pavlakom sa jajima u koju je dodato malo suvog biljnog začina.
 

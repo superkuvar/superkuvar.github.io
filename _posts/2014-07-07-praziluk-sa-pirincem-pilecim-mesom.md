@@ -17,7 +17,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * praziluk (4-5 strukova)
   * pirinač (šolja)
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9214" src="/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom-300x225.jpg" alt="Praziluksapirincemipilecimmesom" width="300" height="225" />](/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom.jpg)
 
-Priprema: na zagrejanom ulju propržiti pileće meso, da malo porumeni, a zatim ga izvaditi iz posude. Na istom ulju na kome se pržilo meso, propržiti očišćen praziluk isečen na komade veličine oko dva santimetra. Dinstati poklopljeno.
+**Priprema**: na zagrejanom ulju propržiti pileće meso, da malo porumeni, a zatim ga izvaditi iz posude. Na istom ulju na kome se pržilo meso, propržiti očišćen praziluk isečen na komade veličine oko dva santimetra. Dinstati poklopljeno.
 
 U podmazanu posudu za pečenje sipati izdinstan praziluk, dodati opran pirinač, izmešati, a odozgo poređati meso.
 

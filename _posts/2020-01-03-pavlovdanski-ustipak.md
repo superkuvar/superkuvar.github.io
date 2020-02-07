@@ -15,7 +15,7 @@ tags:
 ---
 PAVLOVDANSKI UŠTIPAK
 
-Potrebno je:
+**Potrebno je**:
 
 * 500 g brašna 
 * litar ulja 
@@ -25,7 +25,7 @@ Potrebno je:
 * bosiljak
 * so
 
-Priprema:
+**Priprema**:
 
 Brašno prosejati u posudu za mešenje, dodati kvasac rastopljen u mlakoj vodi, šećer, mloveni bosiljak i jaja. Testo dobro zamesiti i ostaviti da stoji oko jedan sat.
 

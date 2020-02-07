@@ -16,7 +16,7 @@ tags:
   - orasi
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kiselih jabuka
   * kristal šećer (1/2 kg)
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2300" title="Bombicejabukeorasi" src="/wp-content/uploads/2011/07/Bombicejabukeorasi-e1327059400644.jpg" alt="" width="290" height="217" /> 
 
-Priprema: jabuke oprati, oljuštiti i izrendati na krupno rende. Narendane jabuke staviti u šerpu, dodati šećer i pržiti na štednjaku na umerenoj temperaturi. Prilikom prženja jabuke treba stalno mešati varjačom, da ne zagore. Gotove su kada dobiju staklast izgled.
+**Priprema**: jabuke oprati, oljuštiti i izrendati na krupno rende. Narendane jabuke staviti u šerpu, dodati šećer i pržiti na štednjaku na umerenoj temperaturi. Prilikom prženja jabuke treba stalno mešati varjačom, da ne zagore. Gotove su kada dobiju staklast izgled.
 
 U ispržene jabuke dodati mlevene orahe. Kada se masa prohladi, vlažnim rukama oblikovati loptice-bombice, svaku uvaljati u kristal šećer ili mlevene orahe i stavljati u papirne korpice.
 

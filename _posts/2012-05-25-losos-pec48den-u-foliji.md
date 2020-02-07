@@ -17,7 +17,7 @@ tags:
   - losos
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 fileta ili 4 krmendale lososa
   * biber
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3280" title="Pečeni losos u foliji" src="/wp-content/uploads/2012/05/Pečeni-losos-u-foliji-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: napraviti marinadu od ulja, najbolje maslinovog, bibera, suvog biljnog začina, peršuna, bosiljka, ruzmarina i soka od limuna.
+**Priprema**: napraviti marinadu od ulja, najbolje maslinovog, bibera, suvog biljnog začina, peršuna, bosiljka, ruzmarina i soka od limuna.
 
 Krmenadle ili filete lososa preliti marinadom i ostaviti da u frižideru odstoje sat-dva pre dalje pripreme.
 

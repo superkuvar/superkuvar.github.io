@@ -17,7 +17,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 200 g milerama
@@ -29,7 +29,7 @@ Potrebno je:
   * kačkavalj isečen na kockice (čaša)
   * pola čaše seckanih oraha (po želji)
 
-Priprema: u sud za mešenje staviti belanca i umutiti čvrst sneg, pa dodati, jedno po jedno, žumanca. Lagano mutiti, a zatim dodati mileram, izmešati, pa sipati ulje i opet lagano izmešati. Na kraju usuti brašno pomešano sa praškom za pecivo i solju i varjačom ujednačiti testo.
+**Priprema**: u sud za mešenje staviti belanca i umutiti čvrst sneg, pa dodati, jedno po jedno, žumanca. Lagano mutiti, a zatim dodati mileram, izmešati, pa sipati ulje i opet lagano izmešati. Na kraju usuti brašno pomešano sa praškom za pecivo i solju i varjačom ujednačiti testo.
 
 U testo dodati presovanu šunku, kačkavalj i seckane orahe. Izmešati varjačom i sipati u dobro podmazan uski rebrasti pleh ili u kalup za kuglof. Komisbrot peći oko 35 minuta u pećnici zagrejanoj na 200 stepeni.
 

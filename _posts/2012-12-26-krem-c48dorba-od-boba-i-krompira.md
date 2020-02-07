@@ -24,7 +24,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama boba
   * 1 manji praziluk
@@ -41,7 +41,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4952" title="Čorbaodbobaikrompira" src="/wp-content/uploads/2012/12/Čorbaodbobaikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bob, ukoliko je neoljušten, preliti toplom vodom i ostaviti preko noći da nabubri. Sutradan bob ocediti i sa svakog zrna ukloniti ljusku. šargarepu i krompir oprati, oljuštiti i iseći na kockice. Praziluk oljuštiti i sitno iseckati.
+**Priprema**: bob, ukoliko je neoljušten, preliti toplom vodom i ostaviti preko noći da nabubri. Sutradan bob ocediti i sa svakog zrna ukloniti ljusku. šargarepu i krompir oprati, oljuštiti i iseći na kockice. Praziluk oljuštiti i sitno iseckati.
 
 U lonac staviti očišćen bob, praziluk, krompir, šargarepu, list lovora i naliti litrom vode. Čorbu kuvati na umerenoj temperaturi dok povrće ne omekša, a bob se raspadne.
 

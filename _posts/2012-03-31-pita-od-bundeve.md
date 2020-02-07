@@ -18,7 +18,7 @@ tags:
   - šećer
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 800 grama izrendane bundeve
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2835" title="Pita od bundeve" src="/wp-content/uploads/2012/03/Pita-od-bundeve-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šoljicu ulja izmešati sa malo vode. Po četiri kore ređati jednu na drugu, svaku poprskati mešavinom ulja i vode i posuti sa malo šećera. Na četvrtu koru staviti rendanu bundevu pomešanu sa šećerom, cimetom i suvim grožđem, pa uvijati u vidu štrudle.
+**Priprema**: šoljicu ulja izmešati sa malo vode. Po četiri kore ređati jednu na drugu, svaku poprskati mešavinom ulja i vode i posuti sa malo šećera. Na četvrtu koru staviti rendanu bundevu pomešanu sa šećerom, cimetom i suvim grožđem, pa uvijati u vidu štrudle.
 
 Uvijene rolne pite poređati u pleh prekriven papirom za pečenje i svaku premazati mešavinom ulja i vode. Pitu peći oko 40 minuta u pećnici zagrejanoj na 220 stepeni, da porumeni.
 

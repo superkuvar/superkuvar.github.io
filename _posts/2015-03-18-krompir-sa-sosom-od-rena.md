@@ -19,7 +19,7 @@ tags:
   - mleko
   - ren
 ---
-Potrebno je:  
+**Potrebno je**:  
 * krompir (1 kg)  
 * brašno (3 kašike)  
 * mleko (6 dl)  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9600" src="/wp-content/uploads/2015/03/krompirsarenom-300x225.jpg" alt="krompirsarenom" width="300" height="225" />](/wp-content/uploads/2015/03/krompirsarenom-e1430749224481.jpg)
 
-Priprema: krompir oprati, neoljušten naliti hladnom vodom, posoliti i staviti da se kuva. Kuvan krompir ocediti i topao oljuštiti, a zatim iseći na kolutove.
+**Priprema**: krompir oprati, neoljušten naliti hladnom vodom, posoliti i staviti da se kuva. Kuvan krompir ocediti i topao oljuštiti, a zatim iseći na kolutove.
 
 U međuvremenu napraviti bešamel sos: u većem tiganju rastopiti margarin, dodati brašno i pržiti na umerenoj vatri uz neprestano mešanje, ali paziti da brašno ostane belo. Uliti mleko, pa žicom za mućenje dobro promešati da se brašno ne bi zgrudvalo. Sos kuvati oko 10 minuta, uz neprestano mešanje žicom. Pri kraju posoliti i dodati šećer. Sos skloniti sa štednjaka pa umešati 2-3 kašike narendanog rena i limunov sok.
 

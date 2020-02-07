@@ -23,7 +23,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama brašna
   * 3 dl mleka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5773" src="/wp-content/uploads/2011/07/Kolacsadzemom-300x225.jpg" alt="Kolacsadzemom" width="300" height="225" /> 
 
-Priprema: u toplo mleko staviti kašiku šećera i komad kvasca, izmešati i ostaviti da kvasac nadođe. Umutiti margarin sa 50 grama šećera, dodati žumanca, brašno i uskisli kvasac i dobro umesiti, da se testo odvoji od suda.
+**Priprema**: u toplo mleko staviti kašiku šećera i komad kvasca, izmešati i ostaviti da kvasac nadođe. Umutiti margarin sa 50 grama šećera, dodati žumanca, brašno i uskisli kvasac i dobro umesiti, da se testo odvoji od suda.
 
 U plehu, prekrivenom papirom za pečenje, rastanjiti testo i ostaviti da stoji pola sata. Zatim ga premazati džemom pomešanim sa orasima ili keksom i staviti u rernu zagrejanu na 200 stepeni da se peče.
 

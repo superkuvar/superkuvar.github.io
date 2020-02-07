@@ -16,7 +16,7 @@ tags:
   - margarin
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram belog krompira
   * mleko (oko 2-2,5 dl)
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3508" title="Pireodkrompira" src="/wp-content/uploads/2012/06/Pireodkrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
+**Priprema**: krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
 
 Kuvan krompir ocediti, vratiti u vreo lonac u kome se kuvao i staviti na još vruću ringlu da vlaga ispari. Zatim ga izgnječiti kašikom za gnječenje krompira. U propasiran krompir dodati vrelo mleko i maslac (margarin) ili ulje i po potrebi dosoliti. Sve dobro izmešati, da se dobije glatka, ujednačena penasta masa.
 

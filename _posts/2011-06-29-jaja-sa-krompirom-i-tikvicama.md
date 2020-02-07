@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kuvanog krompira
   * 1 glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3696" title="Jajasakrompiromitikvicama" src="/wp-content/uploads/2011/06/Jajasakrompiromitikvicama-e1342022583933-300x231.jpg" alt="" width="300" height="231" /> 
 
-Priprema: krompir oprati, oljuštiti, iseći na kriške, naliti hladnom vodom da ogrezne, malo posoliti i kuvati. Zatim ga ocediti i desetak minuta pržiti na ulju, na jačoj vatri.
+**Priprema**: krompir oprati, oljuštiti, iseći na kriške, naliti hladnom vodom da ogrezne, malo posoliti i kuvati. Zatim ga ocediti i desetak minuta pržiti na ulju, na jačoj vatri.
 
 Crni luk očistiti i sitno iseckati, a oljuštene tikvice iseći na kriške. Isečen luk i tikvice dodati u krompir. Pržiti na umerenoj temperaturi 15 minuta.
 

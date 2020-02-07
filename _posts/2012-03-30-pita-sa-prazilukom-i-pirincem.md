@@ -17,7 +17,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 6 strukova praziluka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2841" title="Pita sa prazilukom i pirinčem" src="/wp-content/uploads/2012/03/Pita-sa-prazilukom-i-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: praziluk oprati, očistiti, iseckati i propržiti na malo ulja. Pirinač oprati i skuvati u slanoj vodi, ali voditi računa da se ne prekuva, da zrna ostanu cela. Pomešati praziluk i oceđen pirinač, po ukusu posoliti i pobiberiti.
+**Priprema**: praziluk oprati, očistiti, iseckati i propržiti na malo ulja. Pirinač oprati i skuvati u slanoj vodi, ali voditi računa da se ne prekuva, da zrna ostanu cela. Pomešati praziluk i oceđen pirinač, po ukusu posoliti i pobiberiti.
 
 Pleh podmazati uljem, staviti dve kore, odozgo staviti malo fila, pa opet dve-tri kore koje poprskati mešavinom ulja i vode, pa fil i tako naizmenično, dok se materijal ne utroši.
 

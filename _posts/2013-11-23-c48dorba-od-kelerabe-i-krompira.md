@@ -18,7 +18,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * keleraba (3 manje glavice-ploda)
   * 2 krompira
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6288" src="/wp-content/uploads/2013/11/Corbaodkelerabeikrompira-300x225.jpg" alt="Corbaodkelerabeikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Corbaodkelerabeikrompira.jpg)
 
-Priprema: kelerabu, krompir i šargarepu oprati, očistiti i iseći na kockice. Paradajz oprati, oljuštiti i sitno iseckati.
+**Priprema**: kelerabu, krompir i šargarepu oprati, očistiti i iseći na kockice. Paradajz oprati, oljuštiti i sitno iseckati.
 
 Na malo ulja karamelizovati šećer, pa dodati isitnjeno povrće, osim paradajza, naliti litrom vode i kuvati.
 

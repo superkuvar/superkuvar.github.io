@@ -21,7 +21,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama telećeg ili svinjskog mesa od buta
   * 2 jajeta
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5194" src="/wp-content/uploads/2013/01/Bečka-šnicla-300x225.jpg" alt="Bečka šnicla" width="300" height="225" /> 
 
-Priprema: meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
+**Priprema**: meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
 
  nicle izlupati tučkom za meso, da budu što tanje. Zatim šnicle posoliti, pobiberiti i panirati (uvaljati u brašno, umakati u dobro razmućena jaja pa provući kroz prezle). Ostaviti ih da malo odstoje.
 

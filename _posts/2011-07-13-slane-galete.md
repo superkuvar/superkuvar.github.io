@@ -17,7 +17,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram brašna
   * 2 jajeta
@@ -30,7 +30,7 @@ Potrebno je:
 
 ![Slane galete](/wp-content/uploads/2011/07/slanegalete-1024x768.jpg)
 
-Priprema: u sud za mešenje sipati brašno i izmešati ga sa praškom za pecivo. Zatim dodati so, ulje, susam i margarin isitnjen na komadiće i dolivajući mlaku vodu, zamesiti glatko mekše testo.
+**Priprema**: u sud za mešenje sipati brašno i izmešati ga sa praškom za pecivo. Zatim dodati so, ulje, susam i margarin isitnjen na komadiće i dolivajući mlaku vodu, zamesiti glatko mekše testo.
 
 Testo kidati na male komade i praviti loptice, malo veće od oraha. Peći ih u aparatu za galete.
 

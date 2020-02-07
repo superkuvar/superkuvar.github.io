@@ -17,7 +17,7 @@ tags:
   - kvasac
   - susam
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 paketić svežeg kvasca
   * 2 čaše (od jogurta) mlake vode
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2793" title="Domaći slani štapići" src="/wp-content/uploads/2012/03/Domaći-slani-štapići-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u malo mlake vode kojoj je dodat šećer staviti izmrvljen kvasac, da nadođe. U sud za mešenje sipati ulje, nadošli kvasac i brašno, pa sa ostatkom vode zamesiti testo srednje tvrdoće (da ne bude ni tvrdo ni mekano). U testo dodati i dve trećine količine susama.
+**Priprema**: u malo mlake vode kojoj je dodat šećer staviti izmrvljen kvasac, da nadođe. U sud za mešenje sipati ulje, nadošli kvasac i brašno, pa sa ostatkom vode zamesiti testo srednje tvrdoće (da ne bude ni tvrdo ni mekano). U testo dodati i dve trećine količine susama.
 
 Od umešenog testa razvući oklagijom koru debljine prsta. Posuti je alevom paprikom, premazati umućenim jajetom i posuti preostalim susamom. Seći duže štapiće (širine prsta), svaki uvrtati kao spiralu i malo razvući u dužinu.
 

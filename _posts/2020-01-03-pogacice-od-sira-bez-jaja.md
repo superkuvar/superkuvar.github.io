@@ -15,7 +15,7 @@ tags:
 ---
 POGAČICE OD SIRA BEZ JAJA
 
-Potrebno je:
+**Potrebno je**:
 
 * 100 g mladog sira,
 * 300 g brašna,
@@ -23,7 +23,7 @@ Potrebno je:
 * prašak za pecivo.
 * i malo soli
 
-Priprema:
+**Priprema**:
 
 Sir dobro izgnječiti, dodati brašno, maslac, prašak za pecivo i zamositi testo, a zatim ga razvući na debljinu
 od 2 cm. 

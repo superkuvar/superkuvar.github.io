@@ -31,7 +31,7 @@ tags:
   - jagnjeće meso
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * jagnjeće meso (300 grama)
   * zelen za supu (veza)
@@ -47,7 +47,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-807" title="jagnjecacorba" src="/wp-content/uploads/2011/03/jagnjecacorba-e1306838031484.jpg" alt="" width="253" height="150" /> 
 
-Priprema: jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i isitnjenu zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.
+**Priprema**: jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i isitnjenu zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.
 
 Kada se meso izdinstalo, naliti ga sa 1,5 litar vode, posoliti, dodati malo suvog biljnog začina, nekoliko zrna bibera i lovorov list. Čorbu kuvati oko 40 minuta. Kada je meso kuvano izvaditi ga iz čorbe, isitniti a zatim ga vratiti u čorbu.
 

@@ -21,7 +21,7 @@ tags:
   - puding
   - šlag
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 litar vode
   * 1 kilogram kiselih jabuka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5349" src="/wp-content/uploads/2011/07/Kolačodkeksaijabuka-300x225.jpg" alt="Kolačodkeksaijabuka" width="300" height="225" /> 
 
-Priprema: u sud sa vodom staviti jabuke, prethodno oprane, oljuštene i isečene na kocke i dodati šećer. Kada se jabuke skuvaju, procediti ih i propasirati.
+**Priprema**: u sud sa vodom staviti jabuke, prethodno oprane, oljuštene i isečene na kocke i dodati šećer. Kada se jabuke skuvaju, procediti ih i propasirati.
 
 Uzeti keks, pa svaki umakati u kompot u kome su se kuvale jabuke i ređati na poslužavnik. Preko keksa staviti propasirane jabuke, pa opet keks.
 

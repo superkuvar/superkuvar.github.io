@@ -16,7 +16,7 @@ tags:
   - paprike
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica mladog kupusa (oko 1,5 kg)
   * glavica crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3237" title="Kuvani mladi kupus" src="/wp-content/uploads/2012/05/Kuvani-mladi-kupus1-e1337438903246-300x234.jpg" alt="" width="300" height="234" /> 
 
-Priprema: crni luk očistiti i sitno iseći. šargarepu i papriku oprati, očistiti i iseći na kolutove. Iseckano povrće kratko propržiti na malo ulja.
+**Priprema**: crni luk očistiti i sitno iseći. šargarepu i papriku oprati, očistiti i iseći na kolutove. Iseckano povrće kratko propržiti na malo ulja.
 
 U proprženo povrće staviti kupus isečen na krupnije komade (osmine), dodati so, suvi biljni začin i biber. Naliti vodom da kupus ogrezne, poklopiti i kuvati 45 minuta na umerenoj temperaturi. Sipati sok od kuvanog paradajza i kuvati još 15 minuta. Po želji kupus posuti seckanim peršunovim listom.
 

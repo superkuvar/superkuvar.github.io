@@ -15,14 +15,14 @@ tags:
   - kajsije
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kg kajsija
   * 1,2 kg šećera
 
 <img class="alignnone size-medium wp-image-4072" title="Dzemodkajsija" src="/wp-content/uploads/2012/08/Dzemodkajsija4-e1345540096893-300x254.jpg" alt="" width="300" height="254" /> 
 
-Priprema: odabrati zrele i zdrave kajsije, oprati ih, skloniti koštice, a ako su krupnije iseći na četvrtine. Ukoliko su kajsije tvrđe, samleti ih na mašini za mlevenje mesa.
+**Priprema**: odabrati zrele i zdrave kajsije, oprati ih, skloniti koštice, a ako su krupnije iseći na četvrtine. Ukoliko su kajsije tvrđe, samleti ih na mašini za mlevenje mesa.
 
 Kajsije staviti u čistu veću emajliranu šerpu, posuti šećerom, prekriti krpom i ostaviti da prenoće. Sutradan džem kuvati na jakoj vatri, uz stalno mešanje. Džem je kuvan kada je dovoljno gust, odnosno kada u komadima pada sa varjače. Voditi računa da mnogo ne potamni, jer neće lepo izgledati.
 

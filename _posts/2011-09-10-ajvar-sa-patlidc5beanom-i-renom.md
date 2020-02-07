@@ -16,7 +16,7 @@ tags:
   - plavi patlidžan
   - ren
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma crvenih mesnatih paprika
   * 1 kilogram plavog patlidžana
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9733" src="/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-300x225.jpg" alt="ajvarsapatlidžanomirenom" width="300" height="225" />](/wp-content/uploads/2011/09/ajvarsapatlidžanomirenom-e1441803978169.jpg)
 
-Priprema: paprike i plavi patlidžan oprati i ispeći u rerni na 300 stepeni. Ostaviti ih u poklopljenoj posudi da se potpare i ocede, a zatim oljuštiti i samleti na mašini za mlevenje mesa.
+**Priprema**: paprike i plavi patlidžan oprati i ispeći u rerni na 300 stepeni. Ostaviti ih u poklopljenoj posudi da se potpare i ocede, a zatim oljuštiti i samleti na mašini za mlevenje mesa.
 
 U veću šerpu sipati ulje, zagrejati ga, pa dodati samlevene paprike i patlidžan. Pržiti na ulju dok ne uvri voda koju povrće pušta. Začiniti po ukusu solju i esencijom, umešati strugani ren i konzervans.
 

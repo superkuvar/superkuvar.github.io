@@ -13,13 +13,13 @@ categories:
 tags:
    - salo
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 2 kg svinjskog sala prožetog krtinom
 * 2 kg mesnate slanine 
 * so
 
-Priprema:
+**Priprema**:
 
 Salo i slaninu iseći na manje komade, staviti u veliku posudu, dodati 2-3 litra vode i kuvati uz stalno
 mešanje drvenom varjačom sve dok komadići sala ne počnu da žute. Tada posudu skloniti s vatre i procediti masnoću kroz čisto gusto belo platno. 

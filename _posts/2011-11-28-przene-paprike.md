@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mesnate paprike (5 kg)
   * 200 grama soli
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8809" src="/wp-content/uploads/2011/11/przenepaprike-300x225.jpg" alt="przenepaprike" width="300" height="225" />](/wp-content/uploads/2011/11/przenepaprike.jpg)
 
-Priprema: paprike oprati, posušiti i iseći im drške. Paprike, svaku, na nekoliko mesta izbosti viljuškom i pržiti na vrelom ulju, sa svih strana.
+**Priprema**: paprike oprati, posušiti i iseći im drške. Paprike, svaku, na nekoliko mesta izbosti viljuškom i pržiti na vrelom ulju, sa svih strana.
 
 Kada su paprike pržene, ređati ih u tegle i svaki red posuti mešavinom soli, iseckanog belog luka, bibera, lovorovog i peršunovog lista. U poslednjem redu treba da budu paprike. Sirće zagrejati do vrenja i preliti preko vrućih paprika.
 

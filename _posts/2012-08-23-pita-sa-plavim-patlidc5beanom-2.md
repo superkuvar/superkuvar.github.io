@@ -19,7 +19,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 2 veća plava patlidžana
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4089" title="Pitasapatlidzanom" src="/wp-content/uploads/2012/08/Pitasapatlidzanom2-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oljuštiti, oprati i obariti u posoljenoj vodi. Bariti desetak minuta, a zatim ga staviti u cediljku da se ocedi. Oceđen patlidžan iseći na kockice, staviti u zagrejano ulje i malo propržiti. Posoliti, pobiberiti i dodati origano. Kada se patlidžan prohladi, dodati razmućeno jaje i kiselu pavlaku i dobro izmešati.
+**Priprema**: plavi patlidžan oljuštiti, oprati i obariti u posoljenoj vodi. Bariti desetak minuta, a zatim ga staviti u cediljku da se ocedi. Oceđen patlidžan iseći na kockice, staviti u zagrejano ulje i malo propržiti. Posoliti, pobiberiti i dodati origano. Kada se patlidžan prohladi, dodati razmućeno jaje i kiselu pavlaku i dobro izmešati.
 
 Po četiri-pet kora ređati jednu preko druge, svaku poprskati mešavinom ulja i vode, pa preko pete staviti pripremljeni nadev. Uviti ih u rolnu, kao štrudlu i složiti u podmazan pleh. Ovako postupiti sa ostatkom kora i fila. Pitu odozgo premazati uljem.
 

@@ -23,7 +23,7 @@ tags:
   - sir
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * 200 grama starijeg belog sira
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4448" title="Zapecene tikvice sa graskom" src="/wp-content/uploads/2012/10/Zapecene-tikvice-sa-graskom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na kockice i staviti u slanu ključalu vodu da se bare. Nakon pet minuta tikvice izaditi iz vode rešetkastom kašikom. U istoj vodi obariti grašak i šargarepu isečenu na kockice.
+**Priprema**: tikvice oprati, oljuštiti, iseći na kockice i staviti u slanu ključalu vodu da se bare. Nakon pet minuta tikvice izaditi iz vode rešetkastom kašikom. U istoj vodi obariti grašak i šargarepu isečenu na kockice.
 
 U podmazanu posudu za pečenje poređati obarene tikvice. Umutiti jaje sa pavlakom, pa dodati grašak, šargrepu, seckani peršunov list, suvi biljni začin, mleveni biber, malo origana i izmrvljeni sir. Masu izmešati, pa preliti preko tikvica. Tikvice odozgo preliti sa malo ulja.
 

@@ -23,7 +23,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jaja
   * šolja (za belu kafu) šećera
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4679" title="Kolac na brzinu" src="/wp-content/uploads/2012/01/Kolac-na-brzinu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud za mešenje staviti jaja i šećer, pa mutiti varjačom. U umućena jaja dodati ulje, mleko, oljuštene i narendane jabuke, vanilin šećer, cimet, griz i brašno pomešano sa praškom za pecivo. Izmešati da se sastojci sjedine, a zatim masu sipati u pleh prekriven papirom za pečenje.
+**Priprema**: u sud za mešenje staviti jaja i šećer, pa mutiti varjačom. U umućena jaja dodati ulje, mleko, oljuštene i narendane jabuke, vanilin šećer, cimet, griz i brašno pomešano sa praškom za pecivo. Izmešati da se sastojci sjedine, a zatim masu sipati u pleh prekriven papirom za pečenje.
 
 Kolač peći na 200 stepeni oko 40 minuta, u prethodno zagrejanoj pećnici.
 

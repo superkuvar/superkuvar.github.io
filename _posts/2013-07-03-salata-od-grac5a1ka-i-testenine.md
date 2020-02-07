@@ -19,7 +19,7 @@ tags:
   - mirođija
   - testenina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama testenine (makarone, pužići, spirale)
   * 300 grama graška
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5853" src="/wp-content/uploads/2013/07/Salataodgraskaitestenine-300x225.jpg" alt="Salataodgraskaitestenine" width="300" height="225" /> 
 
-Priprema: skuvati testeninu u slanoj vodi, a zatim je ocediti. Grašak takođe skuvati u posoljenoj vodi, pa i njega ocediti.
+**Priprema**: skuvati testeninu u slanoj vodi, a zatim je ocediti. Grašak takođe skuvati u posoljenoj vodi, pa i njega ocediti.
 
 Pomešati majonez sa pavlakom, dodati iseckanu mirođiju, malo soli, bibera i sok od limuna. Preliti testeninu i grašak ovom smesom, izmešati, sipati u činiju i poslužiti.
 

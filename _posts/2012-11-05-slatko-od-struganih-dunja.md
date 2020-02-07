@@ -20,7 +20,7 @@ tags:
   - limun
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram dunja
   * 1 kilogram šećera
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4628" title="Slatko od dunja" src="/wp-content/uploads/2012/11/Slatko-od-dunja1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: zdrave i neoštećene dunje oprati, posušiti, očistiti od semene lože, oljuštiti i istrugati na krupnoj trenici.
+**Priprema**: zdrave i neoštećene dunje oprati, posušiti, očistiti od semene lože, oljuštiti i istrugati na krupnoj trenici.
 
 U međuvremenu, od šećera i dve čaše vode skuvati sirup, malo ređi nego za ostalo slatko. U sirup dodati strugane dunje i sok od limuna i kuvati na jačoj vatri. Povremeno kašikom uklanjati penu koja se stvara na površini.
 

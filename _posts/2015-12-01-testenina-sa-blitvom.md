@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - testenina
 ---
-Potrebno je:  
+**Potrebno je**:  
 * testenina po izboru (400 grama)  
 * blitva (1 veza)  
 * glavica crnog luka  
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10719" src="/wp-content/uploads/2015/12/testeninasablitvom-300x225.jpg" alt="testeninasablitvom" width="300" height="225" />](/wp-content/uploads/2015/12/testeninasablitvom-e1448954785480.jpg)
 
-Priprema: očistiti i oprati crni luk, šargarepu i celer. Crni luk iseći na listiće a šargarepu i celer izrendati. U šerpu sipati ulje, pa kad se malo zagreje dodati isečen crni luk i izrendanu šargarepu i celer i na slabijoj vatri dinstati dok ne omekša.
+**Priprema**: očistiti i oprati crni luk, šargarepu i celer. Crni luk iseći na listiće a šargarepu i celer izrendati. U šerpu sipati ulje, pa kad se malo zagreje dodati isečen crni luk i izrendanu šargarepu i celer i na slabijoj vatri dinstati dok ne omekša.
 
 U međuvremenu oprati blitvu, očistiti je od belog dela i sitno iseći na reazance. Dodati isečenu blitvu u proprženo povrće i nastaviti sa dinstanjem na tihoj vatri dok ne omekša. Po potrebi dodavati po malo vode, da ne bi zagorelo. Posoliti i pobiberiti.
 

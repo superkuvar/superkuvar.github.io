@@ -17,7 +17,7 @@ tags:
   - mleveno meso
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica karfiola od 1 kg
   * 400 grama junećeg mlevenog mesa
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1021" title="musakakarfiol" src="/wp-content/uploads/2011/06/musakakarfiol-e1307535348226.jpg" alt="" width="247" height="161" /> 
 
-Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Glavicu crnog luka očistiti, sitno iseckati i propržiti na ulju. Kada luk postane staklast dodati meso, so i biber, pa još malo pržiti.
+**Priprema**: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Glavicu crnog luka očistiti, sitno iseckati i propržiti na ulju. Kada luk postane staklast dodati meso, so i biber, pa još malo pržiti.
 
 Vatrostalnu posudu namazati uljem, staviti pola količine karfiola, zatim meso i opet karfiol.
 

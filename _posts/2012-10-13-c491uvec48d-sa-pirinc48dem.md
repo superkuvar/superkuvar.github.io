@@ -23,7 +23,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 šolja pirinča
   * glavica crnog luka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4480" title="Djuvec sa pirincem" src="/wp-content/uploads/2012/10/Djuvec-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: pirinač oprati, obariti u slanoj vodi i ocediti. Crni luk očistiti i sitno iseći. šargarepu oprati, oljuštiti i iseći na kockice. Paprike oprati i sitno iseći.
+**Priprema**: pirinač oprati, obariti u slanoj vodi i ocediti. Crni luk očistiti i sitno iseći. šargarepu oprati, oljuštiti i iseći na kockice. Paprike oprati i sitno iseći.
 
 Na malo ulja propržiti crni luk, dodati isitnjeno povrće i još malo pržiti. Posoliti, pobiberiti, dodati pola kašičice karija i pirinač, pa sve izmešati.
 

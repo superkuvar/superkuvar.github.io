@@ -19,7 +19,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 plava patlidžana srednje veličine
   * 700 grama krompira
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6269" src="/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira-300x225.jpg" alt="Musakaodpatlidzanaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći na tanje kolutove, posoliti i ostaviti da odstoji 30 minuta. Zatim, pritiskom između dlanova, ocediti patlidžan od vode koju je pustio.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na tanje kolutove, posoliti i ostaviti da odstoji 30 minuta. Zatim, pritiskom između dlanova, ocediti patlidžan od vode koju je pustio.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju, posoliti, pobiberiti i dodati sitno seckani peršunov list.
 

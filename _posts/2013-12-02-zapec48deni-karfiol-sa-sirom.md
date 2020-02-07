@@ -18,7 +18,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * karfiol (glavica od 1,5 kg)
   * kačkavalj (100 grama)
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6302" src="/wp-content/uploads/2013/11/Zapecenikarfiolsasirom-300x225.jpg" alt="Zapecenikarfiolsasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Zapecenikarfiolsasirom.jpg)
 
-Priprema: karfiol očistiti, oprati, izdeliti na krupnije cvetove i skuvati u posoljenoj vodi u koju je dodat i šećer. Obaren karfiol ocediti od vode i izgnječiti viljuškom.
+**Priprema**: karfiol očistiti, oprati, izdeliti na krupnije cvetove i skuvati u posoljenoj vodi u koju je dodat i šećer. Obaren karfiol ocediti od vode i izgnječiti viljuškom.
 
 Karfiol, ukoliko je potrebno, još malo posoliti, dodati narendani muskatni oraščić, umućena žumanca, brašno i naribani kačkavalj. Dobro izmešati varjačom, a zatim lagano umešati sneg od belanaca.
 

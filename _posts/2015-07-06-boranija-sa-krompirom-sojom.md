@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - soja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * zamrznuta boranija (500 g)  
 * krompir (4 komada)  
 * 2 šargarepe  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9668" src="/wp-content/uploads/2015/07/boranijasakrompiromisojom-300x225.jpg" alt="boranijasakrompiromisojom" width="300" height="225" />](/wp-content/uploads/2015/07/boranijasakrompiromisojom-e1436166420929.jpg)
 
-Priprema: crni luk i šargarepu očistiti, oprati i iseći, luk na rebarca a šargarepu na kolutove. Krompir oprati, oljuštiti i iseći na kockice.
+**Priprema**: crni luk i šargarepu očistiti, oprati i iseći, luk na rebarca a šargarepu na kolutove. Krompir oprati, oljuštiti i iseći na kockice.
 
 Na malo zagrejanog ulja propržiti crni luk zajedno sa šargarepom, dodati krompir i naliti sa oko 6-7 decilitara tople vode, da ogrezne. Kada voda provri dodati boraniju i komadiće soje. Kuvati na umerenoj temperaturi dok krompir i boranija ne omekšaju. Pri kraju kuvanja jelo posoliti i dodati bosiljak.
 

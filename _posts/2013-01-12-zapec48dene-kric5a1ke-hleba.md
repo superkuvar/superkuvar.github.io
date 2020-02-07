@@ -21,7 +21,7 @@ tags:
   - margarin
   - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bajat hleb
   * margarin ili svinjska mast

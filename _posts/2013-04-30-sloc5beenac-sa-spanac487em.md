@@ -24,7 +24,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg spanaća
   * 1/2 kg krompira
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5641" src="/wp-content/uploads/2013/04/Slozenac-sa-spanacem-300x225.jpg" alt="Slozenac sa spanacem" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati i obariti u ključaloj vodi. Obaren spanać ocediti, a kada se ohladi isitniti.
+**Priprema**: spanać očistiti, oprati i obariti u ključaloj vodi. Obaren spanać ocediti, a kada se ohladi isitniti.
 
 Krompir oprati, oljuštiti, iseći na kockice i skuvati u posoljenoj vodi. Ocediti ga i izgnječiti viljuškom.
 

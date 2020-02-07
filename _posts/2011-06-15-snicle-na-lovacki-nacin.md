@@ -16,7 +16,7 @@ tags:
   - šnicle
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama junećih šnicli
   * ulje
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1098" title="lovackesnicle" src="/wp-content/uploads/2011/06/lovackesnicle-e1308138605362.jpg" alt="" width="245" height="175" /> 
 
-Priprema: šnicle zaseći na nekoliko mesta po ivici, izlupati tučkom da budu tanke, utrljati so i biber i ostaviti da odstoje u frižideru dvadesetak minuta. Potom svaku šniclu uvaljati u brašno i pržiti na prethodno zagrejanom ulju. Gotove šnicle izvaditi na tanjir.
+**Priprema**: šnicle zaseći na nekoliko mesta po ivici, izlupati tučkom da budu tanke, utrljati so i biber i ostaviti da odstoje u frižideru dvadesetak minuta. Potom svaku šniclu uvaljati u brašno i pržiti na prethodno zagrejanom ulju. Gotove šnicle izvaditi na tanjir.
 
 U ulje od prženja staviti list lovora, 4-5 zrna bibera, kašiku brašna, vino i malo vode. U taj sos vratiti šnicle i ostaviti da se dinstaju na tihoj vatri.
 

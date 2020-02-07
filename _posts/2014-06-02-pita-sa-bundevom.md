@@ -17,7 +17,7 @@ tags:
   - kore za pitu
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * ½ kg tankih kora za pitu
   * bundeva (500 grama)
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9162" src="/wp-content/uploads/2014/05/Pitasabundevom-300x225.jpg" alt="Pitasabundevom" width="300" height="225" />](/wp-content/uploads/2014/05/Pitasabundevom.jpg)
 
-Priprema: bundevu očistiti, istrugati na trenici a zatim kratko propržiti na ulju, sa malo mleka. Kada bundeva omekša, dodati šećer po ukusu i cimet. Kada se ohladi, umešati umućena žumaca i sneg od belanaca.
+**Priprema**: bundevu očistiti, istrugati na trenici a zatim kratko propržiti na ulju, sa malo mleka. Kada bundeva omekša, dodati šećer po ukusu i cimet. Kada se ohladi, umešati umućena žumaca i sneg od belanaca.
 
 Po četiri kore ređati jednu na drugu, svaku poprskati sa malo ulja, pa svaku drugu premazati delom fila. Uviti kao štrudlu i ređati u podmazan pleh. Tako uraditi sa ostatkom kora i fila.
 

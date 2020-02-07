@@ -17,7 +17,7 @@ tags:
   - ulje
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram brašna
   * 3 decilitra ulja
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9609" src="/wp-content/uploads/2011/08/posnegancle-300x225.jpg" alt="posnegancle" width="300" height="225" />](/wp-content/uploads/2011/08/posnegancle-e1430920016132.jpg)
 
-Priprema: zamesiti testo od brašna, ulja, šećera, belog vina i praška za pecivo. Dobro sjedinjeno testo rastanjiti oklagijom na debljinu prsta, pa čašicom za rakiju ili modlicom vaditi pogačice. Poređati ih u podmazan pleh i peći u pećnici zagrejanoj na 200 stepeni, vodeći računa da ostanu svetle.
+**Priprema**: zamesiti testo od brašna, ulja, šećera, belog vina i praška za pecivo. Dobro sjedinjeno testo rastanjiti oklagijom na debljinu prsta, pa čašicom za rakiju ili modlicom vaditi pogačice. Poređati ih u podmazan pleh i peći u pećnici zagrejanoj na 200 stepeni, vodeći računa da ostanu svetle.
 
 Pekmezom spajati po dva  kolačića dok su još topli.
 

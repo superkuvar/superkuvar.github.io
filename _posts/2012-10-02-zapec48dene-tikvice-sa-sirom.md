@@ -39,7 +39,7 @@ tags:
   - sir
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram tikvica
   * 200 grama belog sira (može feta)
@@ -55,7 +55,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4421" title="Zapecenetikvicesasirom" src="/wp-content/uploads/2012/10/Zapecenetikvicesasirom-e1349081960216-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati ih u brašno i propržiti na ulju da porumene. Sir izmrviti viljuškom, dodati dva žumanca, so, biber, iseckanu mirođiju i malo bosiljka. Umutiti čvrst sneg od belanaca, pa lagano umešati u sir.
+**Priprema**: tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati ih u brašno i propržiti na ulju da porumene. Sir izmrviti viljuškom, dodati dva žumanca, so, biber, iseckanu mirođiju i malo bosiljka. Umutiti čvrst sneg od belanaca, pa lagano umešati u sir.
 
 Posudu za pečenje podmazati uljem, ređati red tikvica, red nadeva od sira, i tako dok se ne utroši materijal. Odozgo treba da budu tikvice. Preko tikvica sipati malo ulja i peći u zagrejanoj pećnici oko 20 minuta na 200 stepeni.
 

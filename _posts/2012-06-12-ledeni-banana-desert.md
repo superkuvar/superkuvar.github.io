@@ -16,7 +16,7 @@ tags:
   - jogurt
   - limun
 ---
-Potrebno je:
+**Potrebno je**:
 
   * po 2 čaše jogurta i kisele pavlake
   * čaša šećera
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3460" title="Ledenibananadesert" src="/wp-content/uploads/2012/06/Ledenibananadesert-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu za mućenje sipati jogurt, kiselu pavlaku, šećer i izgnječene banane, prelivene kašikom soka od limuna. Masu umutiti mikserom.
+**Priprema**: u posudu za mućenje sipati jogurt, kiselu pavlaku, šećer i izgnječene banane, prelivene kašikom soka od limuna. Masu umutiti mikserom.
 
 Pripremljenu masu za desert od banana sipati u pogodnu posudu i staviti u zamrzivač. Nakon dva-tri sata desert izvaditi iz zamrzivača, sipati u činijice, ukrasiti kolutovima banana i poslužiti.
 

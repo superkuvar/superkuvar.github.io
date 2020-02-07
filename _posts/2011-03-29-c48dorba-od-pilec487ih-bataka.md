@@ -21,7 +21,7 @@ tags:
   - šargarepa
   - žumance
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 pileća bataka
   * 3 šargarepe
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5546" src="/wp-content/uploads/2011/03/Corba-od-pilecih-bataka-300x225.jpg" alt="Corba od pilecih bataka" width="300" height="225" /> 
 
-Priprema: naliti u lonac litar i po vode, staviti povrće i pileće batake, pa kad voda proključa, posoliti i dodati malo suvog biljnog začina i bibera. Kada su povrće i meso kuvani, procediti čorbu.
+**Priprema**: naliti u lonac litar i po vode, staviti povrće i pileće batake, pa kad voda proključa, posoliti i dodati malo suvog biljnog začina i bibera. Kada su povrće i meso kuvani, procediti čorbu.
 
 Meso odvojiti od kostiju i iseći na kocke. šargarepu i krompir takođe iseći na kockice, pa sve spustiti u proceđenu čorbu, dodati rezance i vratiti na štednjak da se kuva još 5 minuta.
 

@@ -17,7 +17,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 vekna hleba
   * 8 decilitara mleka

@@ -18,7 +18,7 @@ tags:
   - plavi patlidžan
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 plava patlidžana
   * 3 paprike
@@ -34,7 +34,7 @@ Potrebno je:
 
 ![Dinstani plavi patlidzan](/wp-content/uploads/2012/07/Dinstaniplavipatlidzan-e1343714957785-1024x830.jpg) 
 
-Priprema: plavi patlidžan oljuštiti, oprati, iseći na kocke, posoliti i ostaviti da odstoji 20 minuta, a zatim ocediti od vode koju je pustio.
+**Priprema**: plavi patlidžan oljuštiti, oprati, iseći na kocke, posoliti i ostaviti da odstoji 20 minuta, a zatim ocediti od vode koju je pustio.
 
 Šargarepu oprati, očistiti i iseći na kolutove. Papriku oprati, očistiti od semena i iseći na komade. Paradajz oljuštiti i takođe iseći na komade.
 

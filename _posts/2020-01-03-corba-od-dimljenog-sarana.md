@@ -14,7 +14,7 @@ tags:
    - paprike
    - šaran
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g dimljenog šarana, 
 * 300 g crnog luka, 

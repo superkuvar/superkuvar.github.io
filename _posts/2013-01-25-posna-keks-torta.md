@@ -22,7 +22,7 @@ tags:
   - puding
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500-600 grama posnog keksa
   * 2 kesice pudinga od čokolade
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5164" src="/wp-content/uploads/2013/01/Posna-keks-torta-300x225.jpg" alt="Posna keks torta" width="300" height="225" /> 
 
-Priprema: prašak za puding razmutiti u tri-četiri kašike hladne vode. U drugu posudu sipati pola litra vode, dodati pet kašika šećera i staviti na štednjak.
+**Priprema**: prašak za puding razmutiti u tri-četiri kašike hladne vode. U drugu posudu sipati pola litra vode, dodati pet kašika šećera i staviti na štednjak.
 
 Kada voda proključa, skloniti je sa štednjaka i umešati razmućeni prašak za puding. Vratiti na ringlu i kuvati na slaboj vatri još minut-dva, uz neprestano mešanje. U vreo puding ubaciti izlomljenu čokoladu, da se istopi.
 

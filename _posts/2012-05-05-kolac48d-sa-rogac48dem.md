@@ -19,7 +19,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama mlevenog rogača
   * 1 šolja brašna
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3143" title="Kolač sa rogačem" src="/wp-content/uploads/2012/04/Kolač-sa-rogačem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, rogač i cimet. Dobro izmešati varjačom i sipati u podmazan i brašnom posut manji pleh.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, rogač i cimet. Dobro izmešati varjačom i sipati u podmazan i brašnom posut manji pleh.
 
 Kolač peći 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, iseći ga na kocke i posuti šećerom u prahu zamirasanim vanilom.
 

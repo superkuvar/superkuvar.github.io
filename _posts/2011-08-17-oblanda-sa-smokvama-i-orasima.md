@@ -17,7 +17,7 @@ tags:
   - rum
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 350 grama suvih smokava
   * 200 grama mlevenih oraha
@@ -27,7 +27,7 @@ Potrebno je:
   * 3 belanceta
   * 2 lista veće oblande
 
-Priprema: suve smokve samleti na mašini za mlevenje mesa i preliti rumom. Ulupati sneg od belanaca, sipati šećer i na pari kuvati, dok se masa ne zgusne. Dodati mlevene smokve i mlevene orahe i sve dobro izmešati.
+**Priprema**: suve smokve samleti na mašini za mlevenje mesa i preliti rumom. Ulupati sneg od belanaca, sipati šećer i na pari kuvati, dok se masa ne zgusne. Dodati mlevene smokve i mlevene orahe i sve dobro izmešati.
 
 Pripremljenim filom premazati jednu oblandu (strana sa krupnijim reljefom), prekriti je drugom i pritisnuti nekim težim predmetom da se slepe.
 

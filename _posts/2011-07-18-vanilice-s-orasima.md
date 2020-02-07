@@ -17,7 +17,7 @@ tags:
   - pekmez
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg brašna
   * po 250 g masti, šećera i mlevenih oraha
@@ -29,7 +29,7 @@ Potrebno je:
 
 ![Vanilice sa orasima](/wp-content/uploads/2011/07/vanilice3-1024x768.jpg)
 
-Priprema: umutiti varjačom mast sa šećerom, jajetom i žumacima, pa dodati brašno i mlevene orahe. Testo dobro izmesiti i razvući u koru debljine oko pola santimetra.
+**Priprema**: umutiti varjačom mast sa šećerom, jajetom i žumacima, pa dodati brašno i mlevene orahe. Testo dobro izmesiti i razvući u koru debljine oko pola santimetra.
 
 Čašicom za rakiju, prethodno umočenom u brašno, vaditi kolačiće i ređati ih u nepodmazan pleh. Ostatak testa premesiti, razvući u koru i ponovo vaditi kolutiće.
 

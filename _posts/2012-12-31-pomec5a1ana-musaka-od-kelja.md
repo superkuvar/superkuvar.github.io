@@ -22,7 +22,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kelja (oko jedan kilogram)
   * glavica crnog luka
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4994" src="/wp-content/uploads/2012/12/Pomešanamusakaodkelja-300x225.jpg" alt="Pomešanamusakaodkelja" width="300" height="225" /> 
 
-Priprema: kelj očistiti, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i ohlađen iseći na rezance.
+**Priprema**: kelj očistiti, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i ohlađen iseći na rezance.
 
 Na ulju propržiti sitno seckani crni luk, da postane staklast, dodati mleveno meso i još malo pržiti. Začiniti suvim biljnim začinom, biberom i korijanderom.
 

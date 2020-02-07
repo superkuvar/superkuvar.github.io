@@ -13,12 +13,12 @@ categories:
 tags:
    - pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 20 paprika 
 * 1,5 kg pavlake
 
-Priprema:
+**Priprema**:
 
 Paprike oprati, očistiti od semenki i iseći peteljke. Svaku papriku puniti pavlakom i složiti u odgovarajuću posudu tako da otvori budu okrenuti na gore kako pavlaka ne bi iscurela. 
 

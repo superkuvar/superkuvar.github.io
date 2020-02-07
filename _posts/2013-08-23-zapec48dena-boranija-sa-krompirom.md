@@ -20,7 +20,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zamrznuta boranija (500 grama)
   * 1 praziluk ili glavica crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6062" src="/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom-300x225.jpg" alt="Zapecena boranija sa krompirom" width="300" height="225" />](/wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom.jpg)
 
-Priprema: očistiti praziluk ili crni luk, sitno ga iseći i propržiti na ulju. Dodati šargarepu isečenu na kockice i dinstati, da malo omekša.
+**Priprema**: očistiti praziluk ili crni luk, sitno ga iseći i propržiti na ulju. Dodati šargarepu isečenu na kockice i dinstati, da malo omekša.
 
 U izdinstan praziluk i šargarepu dodati boraniju i očišćen krompir isečen na kockice. Naliti toplom vodom da boranija ogrezne. Kuvati na umerenoj temperaturi oko 20 minuta. Ukoliko je potrebno, dolivati po malo tople vode. Posoliti, dodati biber, suvi biljni začin, malo bosiljka i iseckan peršunov list.
 

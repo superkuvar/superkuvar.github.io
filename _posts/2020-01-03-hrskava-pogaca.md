@@ -13,7 +13,7 @@ categories:
 tags:
    - jaje
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram brašna 
 * žumance, 

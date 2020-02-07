@@ -15,7 +15,7 @@ tags:
   - džigerica
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama juneće crne džigerice
   * 4 glavice crnog luka
@@ -24,7 +24,7 @@ Potrebno je:
   * so
   * ulje
 
-Priprema: crni luk očistiti, iseckati, staviti na zagrejano ulje i dinstati na tihoj vatri desetak minuta. Posoliti ga, i skloniti sa štednjaka.
+**Priprema**: crni luk očistiti, iseckati, staviti na zagrejano ulje i dinstati na tihoj vatri desetak minuta. Posoliti ga, i skloniti sa štednjaka.
 
 Džigericu iseći na tanje šnicle, uvaljati ih u brašno i pržiti na ulju, da porumene s obe strane. Džigericu staviti u sud sa izdinstanim lukom, vratiti na štednjak i naliti vodom da ogrezne. Dinstati na tihoj vatri još petanestak minuta. Posoliti, preliti kiselom pavlakom i kad provri, skloniti sa štednjaka.
 

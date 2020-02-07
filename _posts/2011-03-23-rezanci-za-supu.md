@@ -14,7 +14,7 @@ tags:
   - brašno
   - jaje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 jaje
   * malo brašna (otprilike šoljica)
@@ -22,7 +22,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3968" title="Rezancizasupu" src="/wp-content/uploads/2011/03/Rezancizasupu-300x150.jpg" alt="" width="300" height="150" /> 
 
-Priprema: na radnu površinu sipati brašno, napraviti udubljenje, pa u njega dodati jaja i so. Umesiti glako testo. Testo za rezance treba mesiti strpljivo, jer će u početku biti izmrvljeno.
+**Priprema**: na radnu površinu sipati brašno, napraviti udubljenje, pa u njega dodati jaja i so. Umesiti glako testo. Testo za rezance treba mesiti strpljivo, jer će u početku biti izmrvljeno.
 
 Od umešenog testa formirati loptu, prekriti je platnenom salvetom ili staviti u plastičnu kesu i ostaviti da odstoji oko pola sata. Ovo je potrebno da bi se testo kasnije lakše razvilo.
 

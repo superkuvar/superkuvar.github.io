@@ -18,7 +18,7 @@ tags:
   - pirinač
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 šolja pirinča
   * 4 čaše vode
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-637" title="pirinackaoprilog" src="/wp-content/uploads/2011/05/pirinackaoprilog.jpg" alt="" width="259" height="194" /> 
 
-Priprema: u vodu staviti opran pirinač i posoliti. Kuvati na tihoj vatri dok voda usahne.
+**Priprema**: u vodu staviti opran pirinač i posoliti. Kuvati na tihoj vatri dok voda usahne.
 
 Gotov pirinač preliti vrelim uljem i preručiti u činiju za služenje.
 

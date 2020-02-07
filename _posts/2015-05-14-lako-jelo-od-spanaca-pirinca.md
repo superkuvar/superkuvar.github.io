@@ -16,7 +16,7 @@ tags:
   - pirinač
   - spanać
 ---
-Potrebno je:  
+**Potrebno je**:  
 * spanać (1 kilogram)  
 * mladi crni luk (3 struka)  
 * pirinač (2 šoljice)  
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9636" src="/wp-content/uploads/2015/05/lakojeloodspanaca-300x225.jpg" alt="lakojeloodspanaca" width="300" height="225" />](/wp-content/uploads/2015/05/lakojeloodspanaca-e1431584975891.jpg)
 
-Priprema: spanać očistiti i dobro oprati. Mladi crni luk očistiti, oprati i sitno iseći, zajedno sa perima.
+**Priprema**: spanać očistiti i dobro oprati. Mladi crni luk očistiti, oprati i sitno iseći, zajedno sa perima.
 
 Na vrelom ulju propržiti isečen mladi crni luk, a zatim dodati opran pirinač i još kratko pržiti. U propržen luk i pirinač dodati oceđen spanać, posoliti, dodati biber i iseckan beli luk, a zatim naliti vodom, ali ne mnogo, samo onoliko koliko je potrebno da se pirinač skuva.
 

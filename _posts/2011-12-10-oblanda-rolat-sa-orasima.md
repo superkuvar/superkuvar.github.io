@@ -16,7 +16,7 @@ tags:
   - orasi
   - rum
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama mlevenih oraha
   * 250 grama kristal šećera
@@ -25,7 +25,7 @@ Potrebno je:
   * rum (2 kašike)
   * 2 lista veće oblande
 
-Priprema: u posudu sipati mlevene orahe i šećer, izmešati, preliti sa dve šoljice vrele vode i prokuvati kratko na tihoj vatri, uz mešanje, da se dobije gusta masa.
+**Priprema**: u posudu sipati mlevene orahe i šećer, izmešati, preliti sa dve šoljice vrele vode i prokuvati kratko na tihoj vatri, uz mešanje, da se dobije gusta masa.
 
 U ohlađene orahe dodati penasto umućen margarin, dobro sjediniti, pa podeliti na dva dela. U jednu polovinu fila dodati vanilin šećer, a u drugu rum.
 

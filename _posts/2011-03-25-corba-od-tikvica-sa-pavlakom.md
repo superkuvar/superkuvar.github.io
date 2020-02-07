@@ -16,7 +16,7 @@ tags:
   - mirođija
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (500 grama)
   * 1 kašika brašna
@@ -28,7 +28,7 @@ Potrebno je:
   * mirođija
   * čaša kisele pavlake
 
-Priprema: tikvice oljuštiti, oprati, očistiti od semena ukoliko su zrelije, pa ih iseckati na kockice. Isečene tikvice staviti u lonac, naliti litrom i po vode i staviti na štednjak. Kuvati na umerenoj temperaturi.
+**Priprema**: tikvice oljuštiti, oprati, očistiti od semena ukoliko su zrelije, pa ih iseckati na kockice. Isečene tikvice staviti u lonac, naliti litrom i po vode i staviti na štednjak. Kuvati na umerenoj temperaturi.
 
 Kada su tikvice mekane, u čorbu sipati belu zapršku napravljenu od malo ulja i kašike brašna, dodati so i malo suvog biljnog začina i kuvati još desetak minuta.
 

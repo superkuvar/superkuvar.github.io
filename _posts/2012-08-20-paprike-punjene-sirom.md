@@ -18,7 +18,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 paprika babura
   * 3 jajeta
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4031" title="Paprikepunjenesirom" src="/wp-content/uploads/2012/08/Paprikepunjenesirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paprike oprati i očistiti od peteljaki i semena. Sir izgnječiti viljuškom, pa izmešati sa jajima, biberom, dve kašike ulja i seckanim peršunovim listom.
+**Priprema**: paprike oprati i očistiti od peteljaki i semena. Sir izgnječiti viljuškom, pa izmešati sa jajima, biberom, dve kašike ulja i seckanim peršunovim listom.
 
 Paprike iznutra posoliti, sipati po malo ulja, a zatim svaku puniti pripremljenom smesom od sira i jaja. Slagati ih u podmazanu vatrostalnu posudu, preliti uljem i sipati šoljicu vode.
 

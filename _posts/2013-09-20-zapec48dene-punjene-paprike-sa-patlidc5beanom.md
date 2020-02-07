@@ -19,7 +19,7 @@ tags:
   - paprike
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike (10-12 komada)
   * 2 glavice crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6119" src="/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom-300x225.jpg" alt="Zapecenepunjepaprikesapatlidzanom" width="300" height="225" />](/wp-content/uploads/2013/09/Zapecenepunjepaprikesapatlidzanom.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti, isitniti na kockice, posoliti i ostaviti da odstoji 20 minuta. Zatim patlidžan ocediti od vode koju je pustio.
+**Priprema**: plavi patlidžan oprati, oljuštiti, isitniti na kockice, posoliti i ostaviti da odstoji 20 minuta. Zatim patlidžan ocediti od vode koju je pustio.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati oceđen patlidžan i dinstati dok patlidžan ne omekša. Dodati iseckani beli luk, so, biber, bosiljak i prethodno obaren pirinač. Promešati i ovom smesom puniti paprike. Svaku zatvoriti tankim kolutom krompira.
 

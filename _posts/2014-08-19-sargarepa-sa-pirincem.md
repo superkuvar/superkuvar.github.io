@@ -17,7 +17,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (300 grama)
   * pirinač (šolja)
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9247" src="/wp-content/uploads/2014/08/sargarepasapirincem-300x225.jpg" alt="sargarepasapirincem" width="300" height="225" />](/wp-content/uploads/2014/08/sargarepasapirincem.jpg)
 
-Priprema: luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
+**Priprema**: luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
 
 Na ulju propržiti praziluk, dodati šargarepu i uz dolivanje po malo vode dinstati. Posoliti, dodati suvi biljni začin i biber po ukusu.
 

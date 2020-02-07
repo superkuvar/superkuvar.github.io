@@ -17,7 +17,7 @@ tags:
   - krompir
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * 60 g struganog kačkavalja
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8630" src="/wp-content/uploads/2011/03/gratiniranipirekrompir1-300x225.jpg" alt="gratiniranipirekrompir" width="300" height="225" />](/wp-content/uploads/2011/03/gratiniranipirekrompir1.jpg)
 
-Priprema: krompir oprati, oljuštiti, iseći na kocke, naliti vodom da ogrezne, posoliti i skuvati. Obaren krompir ocediti, propasirati, dodati margarin, pa dobro umutiti.
+**Priprema**: krompir oprati, oljuštiti, iseći na kocke, naliti vodom da ogrezne, posoliti i skuvati. Obaren krompir ocediti, propasirati, dodati margarin, pa dobro umutiti.
 
 U pire krompir postepeno dodavati pavlaku, pa još malo mutiti. Začiniti sa malo bibera i na vrh noža muskatnog oraščića.
 

@@ -19,7 +19,7 @@ tags:
   - limun
   - lovorov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 kilograma karfiola
   * limun
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4437" title="Zimskasalataodkarfiola" src="/wp-content/uploads/2011/12/Zimskasalataodkarfiola-e1349452252799-300x288.jpg" alt="" width="300" height="288" /> 
 
-Priprema: karfiol očistiti, oprati i izdeliti na cvetiće. U sud sipati vodu i staviti na štednjak da proključa, dodati malo soka od limuna, pa spustiti karfiol. Kada se upola skuva izvaditi ga iz ključale vode i odmah staviti u hladnu. U hladnoj vodi treba da odstoji oko tri minuta,  a zatim ga ocediti, poređati u tegle i preliti presolcem.
+**Priprema**: karfiol očistiti, oprati i izdeliti na cvetiće. U sud sipati vodu i staviti na štednjak da proključa, dodati malo soka od limuna, pa spustiti karfiol. Kada se upola skuva izvaditi ga iz ključale vode i odmah staviti u hladnu. U hladnoj vodi treba da odstoji oko tri minuta,  a zatim ga ocediti, poređati u tegle i preliti presolcem.
 
 Presolac pripremiti na sledeći način: tri litra prokuvane i rashlađene vode, sirćetnu esecniju, so, šećer, lovorov list i malo bibera u zrnu zajedno prokuvati. Ohlađenim presolcem preliti karfiol u teglama, da ogrezne. Tegle sa salatom dobro zatvoriti.
 

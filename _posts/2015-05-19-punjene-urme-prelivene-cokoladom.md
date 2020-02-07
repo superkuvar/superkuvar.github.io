@@ -18,7 +18,7 @@ tags:
   - orasi
   - urme
 ---
-Potrebno je:  
+**Potrebno je**:  
 * suve urme (10-15 komada)  
 * mleveni orasi (50 grama)  
 * mleveni keks (oko 50 grama)  
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9642" src="/wp-content/uploads/2015/05/urme-300x225.jpg" alt="urme" width="300" height="225" />](/wp-content/uploads/2015/05/urme-e1432015413310.jpg)
 
-Priprema: urme raseći po dužini i izvaditi koštice. Orahe, keks, kašiku ruma i med izmešati da se dobije malo gušća masa. Od pripremljene smese otkidati manje komade, oblikovati valjčiće slične koštici urme i puniti pripremljene urme. Blago ih pritisnuti, tako da se rez ne zatvori do kraja.
+**Priprema**: urme raseći po dužini i izvaditi koštice. Orahe, keks, kašiku ruma i med izmešati da se dobije malo gušća masa. Od pripremljene smese otkidati manje komade, oblikovati valjčiće slične koštici urme i puniti pripremljene urme. Blago ih pritisnuti, tako da se rez ne zatvori do kraja.
 
 Na mlakoj ringli rastopiti čokoladu sa prah šećerom, uljem i mlekom. Svaku napunjenu urmu ubaciti u glazuru od čokolade, a zatim ih kašičicom vaditi i ređati na tacnu prekrivenu aluminijumskom folijom.
 

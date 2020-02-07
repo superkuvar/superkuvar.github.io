@@ -17,7 +17,7 @@ tags:
   - zelje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 300 grama belog sira
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2853" title="Pita od zelja" src="/wp-content/uploads/2012/03/Pita-od-zelja-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: zelje oprati, staviti u ključalu vodu i kratko obariti. Ohlađeno zelje ocediti i isitniti nožem.
+**Priprema**: zelje oprati, staviti u ključalu vodu i kratko obariti. Ohlađeno zelje ocediti i isitniti nožem.
 
 Sir izmrviti viljuškom, pa ga pomešati sa jajima, dodati decilitar ulja i malo soli, ukoliko je potrebno. Dodati isitnjeno zelje i izmešati.
 

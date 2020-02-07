@@ -15,14 +15,14 @@ tags:
   - šećer
   - šipurak
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma šipka (šipurak)
   * 2 kilograma šećera
 
 <img class="alignnone size-medium wp-image-4214" title="Pekmezodsipka" src="/wp-content/uploads/2012/09/Pekmezodsipka-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oprati krupne zrele šipke, odseći im peteljke i crne kapice. Svaki prepoloviti oštrim nožićem i očistiti od semeniki i dlačica. Očišćen šipak oprati u hladnoj vodi, ocediti i ostaviti poklopljen u šerpi da prenoći. Sutradan ga preliti hladnom vodom da ogrezne i kuvati, stalno mešajući varjačom.
+**Priprema**: oprati krupne zrele šipke, odseći im peteljke i crne kapice. Svaki prepoloviti oštrim nožićem i očistiti od semeniki i dlačica. Očišćen šipak oprati u hladnoj vodi, ocediti i ostaviti poklopljen u šerpi da prenoći. Sutradan ga preliti hladnom vodom da ogrezne i kuvati, stalno mešajući varjačom.
 
 Raskuvan i mekan šipak prohladiti i ispasirati. Ispasiranu masu vratiti u čistu šerpu i dodati šećer. Pekmez kuvati na jačoj vatri, uz stalno mešanje, dok se ne zgusne. Ako je pre kuvanja masa bila dosta gusta, onda je pekmezu dovoljno 30 minuta kuvanja.
 

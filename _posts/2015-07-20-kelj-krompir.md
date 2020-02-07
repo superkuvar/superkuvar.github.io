@@ -16,7 +16,7 @@ tags:
   - kelj
   - krompir
 ---
-Potrebno je:  
+**Potrebno je**:  
 * kelj (glavica oko 1 kg)  
 * krompir (3 veća)  
 * nekoliko zrna kima  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9690" src="/wp-content/uploads/2015/07/keljikrompir-300x225.jpg" alt="keljikrompir" width="300" height="225" />](/wp-content/uploads/2015/07/keljikrompir-e1437374996327.jpg)
 
-Priprema: kelj oprati i iseći na šire rezance. Krompir oprati, oljuštiti i iseći na kocke. Krompir i kelj obariti u slanoj vodi u koju je dodato nekoliko zrna kima, a zatim ocediti.
+**Priprema**: kelj oprati i iseći na šire rezance. Krompir oprati, oljuštiti i iseći na kocke. Krompir i kelj obariti u slanoj vodi u koju je dodato nekoliko zrna kima, a zatim ocediti.
 
 Skuvati supu od kocke.
 

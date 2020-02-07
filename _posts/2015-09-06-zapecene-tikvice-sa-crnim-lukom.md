@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 4 tikvice srednje veličine  
 * crni luk (2 glavice)  
 * 2 jaja  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9729" src="/wp-content/uploads/2015/09/zapecenetikvicesalukom-300x225.jpg" alt="zapecenetikvicesalukom" width="300" height="225" />](/wp-content/uploads/2015/09/zapecenetikvicesalukom-e1441551545491.jpg)
 
-Priprema: tikvice oprati, neoljuštene iseći na kolutove i obariti u posoljenoj vodi. Zatim tikvice staviti u cediljku da se dobro ocede.
+**Priprema**: tikvice oprati, neoljuštene iseći na kolutove i obariti u posoljenoj vodi. Zatim tikvice staviti u cediljku da se dobro ocede.
 
 Crni luk očistiti, sitno iseći i propržiti na ulju da dobije staklast izgled. Dodati so, biber i izmrvljen suvi bosiljak po ukusu.
 

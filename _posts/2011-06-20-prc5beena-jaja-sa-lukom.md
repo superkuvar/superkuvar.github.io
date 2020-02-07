@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 glavice crnog luka (ili struk praziluka)
   * 5 jaja
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5468" src="/wp-content/uploads/2011/06/Przena-jaja-sa-lukom-300x225.jpg" alt="Przena jaja sa lukom" width="300" height="225" /> 
 
-Priprema: luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
+**Priprema**: luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
 
 U međuvremenu, umutiti jaja, posoliti ih, pobiberiti i dodati seckan peršunov list ili malo mirođije, pa sve sipati preko luka koji se prži. Mešati brzo i čim jaja počnu da se stežu, skloniti sa štednjaka.
 

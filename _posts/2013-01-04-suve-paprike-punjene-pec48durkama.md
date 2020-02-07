@@ -26,7 +26,7 @@ tags:
   - šampinjoni
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10-12 crvenih suvih paprika
   * 400 grama šampinjona
@@ -43,7 +43,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5019" src="/wp-content/uploads/2013/01/Paprikepunjenepecurkama-300x225.jpg" alt="Paprikepunjenepecurkama" width="300" height="225" /> 
 
-Priprema: suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
+**Priprema**: suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
 
 Zagrejati polovinu predviđene količine ulja, pa dodati očišćen sitno iseckan crni luk, šampinjone takođe sitno isečene i izrendanu šargarepu, a zatim pržiti na umerenoj temperaturi.
 

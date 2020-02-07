@@ -18,7 +18,7 @@ tags:
   - maslac
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama brokola
   * 500 ml mleka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3255" title="Brokoli u bešamelu" src="/wp-content/uploads/2012/05/Brokoli-u-bešamelu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: brokoli oprati, razdeliti na cvetiće, kratko obariti u slanoj vodi i ocediti.
+**Priprema**: brokoli oprati, razdeliti na cvetiće, kratko obariti u slanoj vodi i ocediti.
 
 U međuvremenu, pripremiti bešamel sos na sledći način: u posudu staviti puter ili margarin, otopiti ga na blagoj vatri, pa dodati brašno i dobro promešati žicom za mućenje. Uz stalno mešanje, da se ne naprave grudvice, postepeno dolivati vrelo mleko, pa kuvati 10-15 minuta do željene gustine. Skloniti bešamel sa vatre, pa dodati so, biber i malo muskatnog oraščića. U prohlađen bešamel sos sipati pavlaku sa umućenim jajetom i izmešati.
 

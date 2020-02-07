@@ -17,7 +17,7 @@ tags:
   - šećer
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma krušaka
   * 2 kilograma bresaka
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4229" title="Pekmezodmesanogvoća" src="/wp-content/uploads/2012/09/Pekmezodmesanogvoća-e1346930647746-300x240.jpg" alt="" width="300" height="240" /> 
 
-Priprema: zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
+**Priprema**: zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
 
 Isitnjeno voće staviti u odgovarajuću emajliranu šerpu, dodati šećer i uz neprekidno mešanje kuvati na jačoj vatri. Pekmez je gotov kada se pri mešanju varjačom počne odvajati od zidova šerpe.
 

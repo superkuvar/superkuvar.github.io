@@ -17,7 +17,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 plava patlidžana
   * 2 jajeta
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3840" title="Pohovani patlidzan" src="/wp-content/uploads/2012/07/Pohovani-patlidzan-e1343487845493-300x237.jpg" alt="" width="300" height="237" /> 
 
-Priprema: patlidžan oprati, oljuštiti, iseći na režnjeve (ili kolutove) debljine oko pola santimetra, posoliti i ostaviti da odstoji 30 minuta. Nakon toga režnjeve patlidžana malo pritisnuti između dlanova, da bi se ocedili od vode koju su pustili.
+**Priprema**: patlidžan oprati, oljuštiti, iseći na režnjeve (ili kolutove) debljine oko pola santimetra, posoliti i ostaviti da odstoji 30 minuta. Nakon toga režnjeve patlidžana malo pritisnuti između dlanova, da bi se ocedili od vode koju su pustili.
 
 Svaki režanj patlidžana uvaljati u brašno, a zatim u malo posoljena umućena jaja. Pržiti na zagrejanom ulju, sa obe strane, da dobiju zlatno žutu boju.
 

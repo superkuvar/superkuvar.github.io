@@ -21,7 +21,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mala glavica kelja
   * 1 šargarepa
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4880" title="Corbaodkelja" src="/wp-content/uploads/2012/12/Corbaodkelja-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oprati i očistiti šargarepu i kelj. šargarepu narendati sitno, a kelj iseći na rezance.
+**Priprema**: oprati i očistiti šargarepu i kelj. šargarepu narendati sitno, a kelj iseći na rezance.
 
 U dubljoj posudi, na malo ulja kratko propržiti šargarepu, dodati kelj i naliti sa litar do litar i po vode i staviti da se kuva. Kada čorba proključa, ubaciti opran pirinač, kim i biber i kuvati na umerenoj temperaturi oko 30 minuta.
 

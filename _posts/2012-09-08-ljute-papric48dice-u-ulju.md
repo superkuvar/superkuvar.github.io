@@ -15,7 +15,7 @@ tags:
   - feferoni
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram ljutih papričica &#8211; feferona
   * ulje
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4236" title="Feferoni" src="/wp-content/uploads/2012/09/Feferoni-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
+**Priprema**: feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
 
 Kada su tegle skoro pune, feferone zaliti uljem u kojem su se pržili, samo da ogreznu. Ostaviti da se ohlade, a zatim tegle povezati.
 

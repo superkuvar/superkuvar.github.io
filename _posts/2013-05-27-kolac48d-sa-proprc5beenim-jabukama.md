@@ -25,7 +25,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 Testo
 
@@ -45,7 +45,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-5704" src="/wp-content/uploads/2013/05/Kolacsaproprzenimjabukama-300x225.jpg" alt="Kolacsaproprzenimjabukama" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, dodati vanilin šećer, mleko, ulje i brašno pomešano sa praškom za pecivo. Masu dobro izmešati. Dobiće se retko testo.
+**Priprema**: umutiti jaja sa šećerom, dodati vanilin šećer, mleko, ulje i brašno pomešano sa praškom za pecivo. Masu dobro izmešati. Dobiće se retko testo.
 
 U pleh prekriven papirom za pečenje sipati polovinu testa i staviti u zagrejanu pećnicu. Peći oko 15 minuta na 180 stepeni, da se na testu uhvati korica.
 

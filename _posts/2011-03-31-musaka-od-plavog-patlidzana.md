@@ -20,7 +20,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * plavi patlidžan (1 kilogram)
   * 2 glavice crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3920" title="Musakaodplavogpatlidzana" src="/wp-content/uploads/2011/03/Musakaodplavogpatlidzana1-e1344338064262-300x206.jpg" alt="" width="300" height="206" /> 
 
-Priprema: patlidžan očistiti, oprati, iseći na tanke kriške ili kolutove i posoliti. Nakon dvadesetak minuta ocediti ga od soka koji je pustio, uvaljati svaku krišku u brašno i kratko propržiti na ulju.
+**Priprema**: patlidžan očistiti, oprati, iseći na tanke kriške ili kolutove i posoliti. Nakon dvadesetak minuta ocediti ga od soka koji je pustio, uvaljati svaku krišku u brašno i kratko propržiti na ulju.
 
 Na ulju u kom se patlidžan pržio propržiti sitno isečen crni luk, dodati pirinač, dva iseckana paradajza prethodno oljuštena, so, biber, iseckani peršunov list i čašu vode. Ostaviti da se kuva dok pirinač ne nabubri.
 

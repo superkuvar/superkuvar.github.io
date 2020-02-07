@@ -18,7 +18,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg krompira
   * 300 grama belog sira
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4321" title="Krompir sa sirom" src="/wp-content/uploads/2012/09/Krompir-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir u ljusci oprati i skuvati u posoljenoj vodi, pazeći da se ne prekuva, treba samo da omekša. Ohlađen krompir oljuštiti i iseći na kolutove.
+**Priprema**: krompir u ljusci oprati i skuvati u posoljenoj vodi, pazeći da se ne prekuva, treba samo da omekša. Ohlađen krompir oljuštiti i iseći na kolutove.
 
 Sir izmrviti viljuškom, dodati jaje, so i mleveni biber, pa izmešati.
 

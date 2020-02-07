@@ -26,7 +26,7 @@ Potrebno:
   * 1 kesica vanilin šećera
   * malo pakovanje oblandi
 
-Priprema: šećer sipati u šerpu, preliti sa dva decilitra vode i staviti na štednjak da provri. Kuvati pet-šest minuta, da se dobije sirup ređi nego za slatko. Nakon toga skloniti ga sa vatre, pa dodati na listiće isečen margarin i mešati dok se ne istopi. Zatim dodati izlomljen keks, vanilin šećer i kakao. Brzo izmešati da se masa ujednači.
+**Priprema**: šećer sipati u šerpu, preliti sa dva decilitra vode i staviti na štednjak da provri. Kuvati pet-šest minuta, da se dobije sirup ređi nego za slatko. Nakon toga skloniti ga sa vatre, pa dodati na listiće isečen margarin i mešati dok se ne istopi. Zatim dodati izlomljen keks, vanilin šećer i kakao. Brzo izmešati da se masa ujednači.
 
 Vrelim filom premazati listove oblande. Svaki sledeći list pre nanošenja fila treba pritisnuti dlanovima po celoj površini, pa zatim mazati. Listove oblande treba brzo filovati, da se fil ne bi stegao jer ga je posle teško razmazati.
 

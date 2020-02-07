@@ -22,7 +22,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 5 kašika šećera
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5805" src="/wp-content/uploads/2013/06/Majskikolacsajagodama-300x225.jpg" alt="Majskikolacsajagodama" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati brašno i gustin. Testo lagano izmešati i sipati u pleh prekriven papirom za pečenje. Patišpanj peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
+**Priprema**: umutiti jaja sa šećerom, pa dodati brašno i gustin. Testo lagano izmešati i sipati u pleh prekriven papirom za pečenje. Patišpanj peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 
 Kada je patišpanj pečen, izvaditi ga iz pećnice, ostaviti da se ohladi i staviti na poslužavnik. Od sirupa u kome će se kuvati voće uzeti nekoliko kašika i poprskati patišpanj.
 

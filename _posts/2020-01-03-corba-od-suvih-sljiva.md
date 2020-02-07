@@ -12,7 +12,7 @@ categories:
 tags:
    - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 10-15 suvih šljiva
 * 2 manje šargarepe

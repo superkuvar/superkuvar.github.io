@@ -17,7 +17,7 @@ tags:
   - pečurke
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora
   * pečurke-šampinjoni (400 grama)
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6105" src="/wp-content/uploads/2013/09/Pitasapecurkama-300x225.jpg" alt="Pitasapecurkama" width="300" height="225" />](/wp-content/uploads/2013/09/Pitasapecurkama.jpg)
 
-Priprema: praziluk očistiti, oprati, isitniti na kolutove i propržiti na ulju.
+**Priprema**: praziluk očistiti, oprati, isitniti na kolutove i propržiti na ulju.
 
 Pečurke očistiti, oprati i iseći na listiće. U poseban sud sipati ulje, staviti pečurke i dinstati dok ne uvri sok koji su pustile. Posoliti, pobiberiti i dodati malo bosiljka. Pomešati izdinstani praziluk i pečurke.
 

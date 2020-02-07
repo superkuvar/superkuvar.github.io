@@ -17,7 +17,7 @@ tags:
   - rum
   - šlag
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama piškota (30 komada)
   * 2 pudinga sa ukusom slatke pavlake ili vanile
@@ -26,7 +26,7 @@ Potrebno je:
   * 1 kesica šlaga ili pakovanje slatke pavlake
   * rum
 
-Priprema: na poslužavnik poređati piškote, a zatim ih poprskati mlekom i rumom. U šerpici razmutiti prašak za puding sa malo mleka. Ostatak mleka sa šećerom staviti na štednjak da se kuva. Kad mleko provri skloniti ga se ringle i zakuvati puding, vratiti na štednjak i kuvati još minut-dva.
+**Priprema**: na poslužavnik poređati piškote, a zatim ih poprskati mlekom i rumom. U šerpici razmutiti prašak za puding sa malo mleka. Ostatak mleka sa šećerom staviti na štednjak da se kuva. Kad mleko provri skloniti ga se ringle i zakuvati puding, vratiti na štednjak i kuvati još minut-dva.
 
 Vreo puding preliti preko piškota, poređati opet piškote, poprskati ih mlekom i rumom, pa premazati pudingom. Kolač staviti u frižider da se ohladi.
 

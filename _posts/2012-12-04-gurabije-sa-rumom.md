@@ -23,7 +23,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 125 grama margarina ili maslaca
   * 100 grama šećera
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4851" title="Gurabijesarumom" src="/wp-content/uploads/2012/12/Gurabijesarumom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati rum, vanilin šećer i jaje. Izmešati varjačom, pa postepeno dodavati brašno pomešano sa praškom za pecivo.
+**Priprema**: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati rum, vanilin šećer i jaje. Izmešati varjačom, pa postepeno dodavati brašno pomešano sa praškom za pecivo.
 
 Testo prebaciti na radnu površinu posutu brašnom i dobro izraditi rukama. Umešeno testo oblikovati kao valjak prečnika oko četiri santimetra, pa iseći nožem na kolutove debljine jedan santimetar.
 

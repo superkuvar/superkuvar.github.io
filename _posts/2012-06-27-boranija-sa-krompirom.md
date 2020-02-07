@@ -17,7 +17,7 @@ tags:
   - krompir
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram boranije
   * 3 krompira
@@ -35,7 +35,7 @@ Potrebno je:
 
 ![Boranija sa krompirom](/wp-content/uploads/2012/06/Boranijasakrompirom-1024x768.jpg) 
 
-Priprema: na vrelom ulju propržiti sitno seckani crni luk, pa dodati boraniju, prethodno opranu, očišćenu i isečenu na komade dužine 3-4 santimetra i očišćenu šargarepu. Naliti toplom vodom da ogrezne i kuvati dok boranija upola ne omekša. Posoliti, dodati suvi biljni začin, sitno seckani beli luk, paradajz isečen na kriške ili sok od paradajza i očišćen krompir isečen na kocke. Kuvati dok boranija i krompir ne omekšaju.
+**Priprema**: na vrelom ulju propržiti sitno seckani crni luk, pa dodati boraniju, prethodno opranu, očišćenu i isečenu na komade dužine 3-4 santimetra i očišćenu šargarepu. Naliti toplom vodom da ogrezne i kuvati dok boranija upola ne omekša. Posoliti, dodati suvi biljni začin, sitno seckani beli luk, paradajz isečen na kriške ili sok od paradajza i očišćen krompir isečen na kocke. Kuvati dok boranija i krompir ne omekšaju.
 
 U malo hladne vode razmutiti brašno sa kašičicom aleve paprike i sipati u boraniju. Promešati i kuvati još desetak minuta. U kuvanu boraniju dodati sitno seckani peršunov list.
 

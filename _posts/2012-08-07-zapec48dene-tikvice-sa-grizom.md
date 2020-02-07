@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice srednje veličine
   * 2 jajeta
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3910" title="Zapecenetikvicesagrizom" src="/wp-content/uploads/2012/08/Zapecenetikvicesagrizom-e1344333126907-300x237.jpg" alt="" width="300" height="237" /> 
 
-Priprema: tikvice oprati, oljuštiti i narendati na krupno rende. Kačkavalj takođe krupno narendati.
+**Priprema**: tikvice oprati, oljuštiti i narendati na krupno rende. Kačkavalj takođe krupno narendati.
 
 U posudu za mešenje staviti izrendane tikvice i kačkavalj, posoliti, pobiberiti, dodati majoran i izmešati.
 

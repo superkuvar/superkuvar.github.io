@@ -18,7 +18,7 @@ tags:
   - šargarepa
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * crvene paprike (100 komada)
   * šargarepa (1 kilogram)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6180" src="/wp-content/uploads/2013/10/Paprike-punjenesargarepom-300x225.jpg" alt="Paprike punjenesargarepom" width="300" height="225" />](/wp-content/uploads/2013/10/Paprike-punjenesargarepom.jpg)
 
-Priprema: paprike oprati, posušiti, očistiti od peteljki i semena i izbušiti viljuškom.
+**Priprema**: paprike oprati, posušiti, očistiti od peteljki i semena i izbušiti viljuškom.
 
 Pripremiti nadev: šargarepu oprati, oljuštiti i sitno narendati na trenici. U narendanu šargarepu dodati iseckan beli luk, iseckan peršunov list, šećer, so, ulje i esenciju i sve dobro izmešati.
 

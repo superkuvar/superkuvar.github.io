@@ -16,7 +16,7 @@ tags:
   - oblande
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama margarina
   * 300 grama šećera
@@ -24,7 +24,7 @@ Potrebno je:
   * 400 grama mleka u prahu
   * pakovanje oblandi
 
-Priprema: sipati u šerpu šećer, preliti ga sa dva decilitra vode i staviti na štednjak da provri. Posle pet minuta sirup skloniti sa vatre i ubaciti margarin. Kada se margarin istopi dodati mleko u prahu i vanilin šećer.
+**Priprema**: sipati u šerpu šećer, preliti ga sa dva decilitra vode i staviti na štednjak da provri. Posle pet minuta sirup skloniti sa vatre i ubaciti margarin. Kada se margarin istopi dodati mleko u prahu i vanilin šećer.
 
 Pripremljeni fil dobro umutiti. Toplim filom premazivati listove oblande. Svaki sledeći list dobro pritisnuti dlanovima po celoj površini da se prilepi za prethodni sloj fila, pa zatim nastaviti sa premazivanjem.
 

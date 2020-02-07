@@ -20,7 +20,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * veća glavica karfiola
   * brašno
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1275" title="pohovanikarfiol" src="/wp-content/uploads/2011/06/pohovanikarfiol.jpg" alt="" width="259" height="194" /> 
 
-Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Ocediti ga i prosušiti na salveti.
+**Priprema**: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Ocediti ga i prosušiti na salveti.
 
 U međuvremenu, napraviti masu za pohovanje na sledeći način: izmešati žumanca sa malo mleka, kašikom ulja i malo soli. U tu masu dodati brašno, promešati da ne bude grudvica (treba da bude gustine kao za palačinke) i dodati sneg od čvrsto umućenih belanaca. Lagano izmešati, pa u tu smesu umakati cvetiće karfiola i pržiti na vrelom ulju, dok ne porumene.
 

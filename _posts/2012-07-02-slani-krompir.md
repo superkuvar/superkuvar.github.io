@@ -15,7 +15,7 @@ tags:
   - krompir
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * ulje
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3648" title="Slanikrompir" src="/wp-content/uploads/2012/07/Slanikrompir-e1341243864452-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očišćen i opran krompir iseći na kriške jednake veličine, naliti ga vodom da ogrezne, posoliti i kuvati dok ne omekša.
+**Priprema**: očišćen i opran krompir iseći na kriške jednake veličine, naliti ga vodom da ogrezne, posoliti i kuvati dok ne omekša.
 
 Kada je krompir kuvan ocediti ga od vode, preliti zagrejanim uljem, posuti sitno seckanim peršunovim listom i lagano izmešati.
 

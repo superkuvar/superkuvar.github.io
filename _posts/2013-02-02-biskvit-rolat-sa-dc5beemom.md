@@ -21,7 +21,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 5 kašika šećera + 2 kašike (za preliv)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5213" src="/wp-content/uploads/2013/02/Rolat-sa-dzemom-300x225.jpg" alt="Rolat sa dzemom" width="300" height="225" /> 
 
-Priprema: razbiti jaja i odvojiti belanca od žumanaca. Mikserom umutiti sneg od belanaca, dodati šećer i nastaviti sa mućenjem dok se ne dobije sasvim čvrst sneg. Smanjiti brzinu miksera, pa dodavati jedno po jedno žumance i mutiti još malo (oko jedan minut).
+**Priprema**: razbiti jaja i odvojiti belanca od žumanaca. Mikserom umutiti sneg od belanaca, dodati šećer i nastaviti sa mućenjem dok se ne dobije sasvim čvrst sneg. Smanjiti brzinu miksera, pa dodavati jedno po jedno žumance i mutiti još malo (oko jedan minut).
 
 U umućena jaja dodati ulje i kašikom umešati brašno. Brašno ne sipati odjednom, već postepeno. Lagano promešati da se svi sastojci sjedine, a zatim testo izručiti u pleh prekriven papirom za pečenje (ili premazan uljem i posut brašnom). Koru za rolat peći 15-20 minuta na 200 stepeni, u prethodno zagrejanoj pećnici.
 

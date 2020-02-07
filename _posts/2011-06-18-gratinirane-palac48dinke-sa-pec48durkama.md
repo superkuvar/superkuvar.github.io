@@ -18,7 +18,7 @@ tags:
   - pečurke
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 palačinki
   * 500 grama pečuraka (šampinjoni)
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9278" src="/wp-content/uploads/2011/06/gratiniranepalacinke1-300x225.jpg" alt="gratiniranepalacinke" width="300" height="225" />](/wp-content/uploads/2011/06/gratiniranepalacinke1.jpg)
 
-Priprema: ispržiti palačinke na uobičajen način.
+**Priprema**: ispržiti palačinke na uobičajen način.
 
 Nadev pripremiti na sledeći način: propržiti na ulju iseckan crni luk. Dodati pečurke isečene na listiće i dinstati desetak minuta. Dodati pola čaše milerama, jaje, so, biber i seckani peršunov list. Sve izmešati i premazati svaku palačinku.
 

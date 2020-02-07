@@ -22,7 +22,7 @@ tags:
   - muskatni oraščić
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva (800 grama)
   * glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-full wp-image-303" title="corbabundeva1" src="/wp-content/uploads/2011/03/corbabundeva1.jpg" alt="" width="300" height="168" />](/wp-content/uploads/2011/03/corbabundeva1.jpg)
 
-Priprema: bundevu, krompir i šargarepu oljuštiti, oprati i iseći na sitnije kocke.
+**Priprema**: bundevu, krompir i šargarepu oljuštiti, oprati i iseći na sitnije kocke.
 
 Na zagrejanom ulju propržiti iseckan crni luk, dodati bundevu, šargarepu i krompir, pa još malo dinstati na laganoj vatri, uz dolivanje po malo vode.
 

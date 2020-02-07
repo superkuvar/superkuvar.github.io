@@ -16,7 +16,7 @@ tags:
   - sirće
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 kilograma crvenih mesnatih paprika
   * 400 ml ulja
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4161" title="Pecene paprike" src="/wp-content/uploads/2011/11/Pecene-paprike-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paprike oprati i ispeći u pećnici, na električnom roštilju ili na ploči štednjaka.
+**Priprema**: paprike oprati i ispeći u pećnici, na električnom roštilju ili na ploči štednjaka.
 
 Pečene paprike nasložiti u dublju posudu i poklopiti ili staviti u plastičnu kesu i ostaviti da se &#8221;potpare&#8221;, kako bi se lakše oljuštile.
 

@@ -22,7 +22,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama pirinča
   * 200 grama kačkavalja
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5635" src="/wp-content/uploads/2013/04/Slanikohodpirinca-300x225.jpg" alt="Slanikohodpirinca" width="300" height="225" /> 
 
-Priprema: opran pirinač skuvati u slanoj vodi, ali voditi računa da se ne raskuva.
+**Priprema**: opran pirinač skuvati u slanoj vodi, ali voditi računa da se ne raskuva.
 
 Obaren pirinač ocediti, a zatim mu dodati umućena žumanca, malo ulja, začine, mleko, narendani kačkavalj i na kraju čvrsto umućen sneg od belanaca.
 

@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 srednja plava patlidžana
   * 4-5 paprika (crvenih)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6224" src="/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom-300x225.jpg" alt="Salataodpatlidzanasapavlakom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasapavlakom.jpg)
 
-Priprema: plavi patlidžan i paprike oprati i ispeći u pećnici. Kada se ohlade, oljuštiti ih, iseći na rezance i pomešati.
+**Priprema**: plavi patlidžan i paprike oprati i ispeći u pećnici. Kada se ohlade, oljuštiti ih, iseći na rezance i pomešati.
 
 U isitnjeni patlidžan i paprike dodati so, biber, iseckan beli luk, 3-4 kašike ulja, sitno seckan peršunov list i kiselu pavlaku ili mileram. Dobro izmešati, staviti u frižider da se salata ohladi, a zatim poslužiti.
 

@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kelerabe
   * 2 kašike brašna
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3595" title="Čorbaodkelerabe" src="/wp-content/uploads/2012/06/%C4%8Corbaodkelerabe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
+**Priprema**: kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
 
 Kelerabu naliti litrom tople vode, posoliti i pobiberiti. Čorbu kuvati na umerenoj temperaturi, dok keleraba potpuno ne omekša.
 

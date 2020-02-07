@@ -16,7 +16,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 ml mleka
   * 10 supenih kašika šećera
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3448" title="Domaći sladoled" src="/wp-content/uploads/2011/08/Domaći-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: skuvati mleko sa dve kašike šećera i vanilin šećerom. U međuvremenu, umutiti sneg od belanaca, pa u njih dodati žumanca umućena sa ostatkom šećera i još malo mutiti.
+**Priprema**: skuvati mleko sa dve kašike šećera i vanilin šećerom. U međuvremenu, umutiti sneg od belanaca, pa u njih dodati žumanca umućena sa ostatkom šećera i još malo mutiti.
 
 Sud sa provrelim mlekom skloniti sa vatre i postepeno, uz neprestano mešanje kašikom, sipati umućena jaja. Kuvati na tihoj vari još 2-3 minuta, stalno mešajući. U gotov vreo krem dodati margarin. Umesto vanile mogu se dodati dve štangle narendane čokolade.
 

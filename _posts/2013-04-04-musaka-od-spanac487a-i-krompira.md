@@ -24,7 +24,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama spanaća
   * 1 kilogram krompira
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5560" src="/wp-content/uploads/2013/04/Musaka-od-spanaca-i-krompira-300x225.jpg" alt="Musaka od spanaca i krompira" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati i obariti u ključaloj vodi, a zatim ocediti i iseći na rezance.
+**Priprema**: spanać očistiti, oprati i obariti u ključaloj vodi, a zatim ocediti i iseći na rezance.
 
 Krompir i šargarepu oprati, oljuštiti i skuvati u posoljenoj vodi. Kada se ohlade iseći ih na kolutove.
 

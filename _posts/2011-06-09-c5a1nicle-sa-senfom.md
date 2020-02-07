@@ -16,7 +16,7 @@ tags:
   - senf
   - šnicle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 junećih ili svinjskih šnicli
   * senf
@@ -27,7 +27,7 @@ Potrebno je:
   * peršunov list
   * ulje
 
-Priprema: šnicle izlupati, posoliti, pobiberiti i uvaljati u brašno. Ispržiti ih na ulju, da porumene s obe strane. Ispržene šnicle izvaditi iz tiganja u kom su se pržile i staviti na tanjir.
+**Priprema**: šnicle izlupati, posoliti, pobiberiti i uvaljati u brašno. Ispržiti ih na ulju, da porumene s obe strane. Ispržene šnicle izvaditi iz tiganja u kom su se pržile i staviti na tanjir.
 
 Tri kašike senfa razmutiti u 2 dl vode, dodati izgnječen beli luk i seckani peršunov list. Ovu mešavinu sipati u ulje u kom su se pržile šnicle, vratiti šnicle u tiganj i dinstati ih dok sasvim ne omekšaju. Ukoliko je potrebno, dolivati po malo vode.
 

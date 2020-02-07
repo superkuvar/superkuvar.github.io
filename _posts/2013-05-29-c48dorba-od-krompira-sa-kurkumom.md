@@ -22,7 +22,7 @@ tags:
   - kurkuma
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama krompira
   * crni luk (manja glavica)
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5708" src="/wp-content/uploads/2013/05/Corbaodkrompirasakurkumom-300x225.jpg" alt="Corbaodkrompirasakurkumom" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na malo ulja. Opran i oljušten krompir iseći na kockice.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na malo ulja. Opran i oljušten krompir iseći na kockice.
 
 U propržen luk dodati isitnjen krompir i naliti litrom i po vode. Kada čorba proključa, posoliti je i dodati suvi biljni začin. Nastaviti sa kuvanjem na umerenoj temperaturi, dok krompir ne omekša.
 

@@ -18,7 +18,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 300 grama sira
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3201" title="Pita sa koprivama" src="/wp-content/uploads/2012/05/Pita-sa-koprivama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
+**Priprema**: koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
 
 Po tri-četiri kore ređati jednu preko druge, svaku poprskati mešavinom ulja i vode, pa preko četvrte premazati pripremljeni fil. Nafilovane kore uviti u rolnu i ređati u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila.
 

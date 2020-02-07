@@ -17,7 +17,7 @@ tags:
   - pileće meso
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pileće meso (bataci, karabataci ili belo meso)
   * mlada šargarepa (800 grama)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9205" src="/wp-content/uploads/2014/06/sargarepasapilecimmesom-300x225.jpg" alt="sargarepasapilecimmesom" width="300" height="225" />](/wp-content/uploads/2014/06/sargarepasapilecimmesom.jpg)
 
-Priprema: u šerpi na zagrejanom ulju propržiti pileće meso, da porumeni. Kada meso omekša, izvaditi ga i staviti na tanjir, pa na istoj masnoći propržiti sitno seckani praziluk ili crni luk kome je dodata kašičica šećera.
+**Priprema**: u šerpi na zagrejanom ulju propržiti pileće meso, da porumeni. Kada meso omekša, izvaditi ga i staviti na tanjir, pa na istoj masnoći propržiti sitno seckani praziluk ili crni luk kome je dodata kašičica šećera.
 
 Kada luk porumeni dodati očišćenu šargarepu isečenu na štapiće ili deblje kolutove i dinstati na umerenoj temperaturi. U toku dinstanja dolivati po malo tople vode.
 

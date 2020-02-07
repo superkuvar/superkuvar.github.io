@@ -20,7 +20,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jajeta
   * čaša kisele pavlake
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6149" src="/wp-content/uploads/2013/09/Kolacsajagodama-300x225.jpg" alt="Kolacsajagodama" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacsajagodama.jpg)
 
-Priprema: ulupati belanca u čvrst sneg. Posebno umutiti žumanca sa šećerom, pa dodati ulje, kiselu pavlaku, mleko, narendanu koricu od limuna, prethodno dobro opranog i brašno pomešano sa praškom za pecivo. Izmešati, pa sjediniti sa snegom od belanaca i još jednom lagano izmešati da se testo ujednači.
+**Priprema**: ulupati belanca u čvrst sneg. Posebno umutiti žumanca sa šećerom, pa dodati ulje, kiselu pavlaku, mleko, narendanu koricu od limuna, prethodno dobro opranog i brašno pomešano sa praškom za pecivo. Izmešati, pa sjediniti sa snegom od belanaca i još jednom lagano izmešati da se testo ujednači.
 
 Uski pleh namazati uljem i posuti brašnom, pa sipati pripremljeno testo. Odozgo rasporediti oprane jagode. Kolač peći 35 minuta u pećnici zagrejanoj na 200 stepeni.
 

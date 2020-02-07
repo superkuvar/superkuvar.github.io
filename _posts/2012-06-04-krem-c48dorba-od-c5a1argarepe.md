@@ -17,7 +17,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 šargarepe
   * 2 struka mladog crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3326" title="Kremčorbaodšargarepe" src="/wp-content/uploads/2012/06/Kremčorbaodšargarepe-e1338651808776-300x267.jpg" alt="" width="300" height="267" /> 
 
-Priprema: na ulju propržiti sitno seckani crni luk, pa dodati očišćenu i na krupno rende struganu šargarepu. Kratko propržiti, uz mešanje, da šargarepa malo omekša, a zatim naliti litrom vode i dodati kocku za supu.
+**Priprema**: na ulju propržiti sitno seckani crni luk, pa dodati očišćenu i na krupno rende struganu šargarepu. Kratko propržiti, uz mešanje, da šargarepa malo omekša, a zatim naliti litrom vode i dodati kocku za supu.
 
 Kada čorba proključa, dodati opran pirinač. Kuvati 30 minuta na umerenoj temperaturi. Dodati majoran i eventualno malo posoliti, ukoliko čorba nije dovoljno slana. Kada je čorba gotova dodati sok od limuna i iseckan peršunov list.
 

@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10-15 svežih paprika
   * 1 dl ulja
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1248" title="paprikeusircetu" src="/wp-content/uploads/2011/06/paprikeusircetu-e1308829361388.jpg" alt="" width="211" height="159" /> 
 
-Priprema: paprike oprati, posušiti i ispeći na ploči štednjaka ili električnom roštilju. Treba ih okretati sa svih strana da bi se ravnomerno ispekle. Paprike se mogu ispeći i u rerni, ali tada neće imati lep miris kao one pečene na ploči. Staviti ih u šerpu i prekriti platnenom salvetom. Kada se paprike malo ohlade oljuštiti ih.
+**Priprema**: paprike oprati, posušiti i ispeći na ploči štednjaka ili električnom roštilju. Treba ih okretati sa svih strana da bi se ravnomerno ispekle. Paprike se mogu ispeći i u rerni, ali tada neće imati lep miris kao one pečene na ploči. Staviti ih u šerpu i prekriti platnenom salvetom. Kada se paprike malo ohlade oljuštiti ih.
 
 Od ulja, sirćeta, soli i iseckanog peršunovog lista napraviti marinadu.
 

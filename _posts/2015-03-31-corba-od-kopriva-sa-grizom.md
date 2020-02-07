@@ -17,7 +17,7 @@ tags:
   - koprive
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 1/2 kg mladih kopriva  
 * ulje  
 * mladi crni luk (veza)  
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9576" src="/wp-content/uploads/2015/03/corbaodkoprivasagrizom-300x225.jpg" alt="corbaodkoprivasagrizom" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodkoprivasagrizom-e1430746814102.jpg)
 
-Priprema: koprive očistiti, oprati, preliti ključalom vodom, a zatim ocediti. Kada se ohlade iseckati ih.
+**Priprema**: koprive očistiti, oprati, preliti ključalom vodom, a zatim ocediti. Kada se ohlade iseckati ih.
 
 Luk očistiti, oprati i sitno iseći (iseći i perca), pa ga propržiti na malo zagrejanog ulja. U luk dodati isečene koprive i sipati oko litar i po vode ili supe od povrća. Staviti na štednjak i kada čorba proključa lagano sipati griz, mešajući da se ne bi zgrudvao. Čorbu posoliti, dodati biber i kuvati na umerenoj temperaturi oko 15 minuta, češće mešajući. Na kraju, u čorbu dodati umućeno jaje.
 

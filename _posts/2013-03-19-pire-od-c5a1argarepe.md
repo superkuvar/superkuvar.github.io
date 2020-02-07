@@ -21,7 +21,7 @@ tags:
   - mleko
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 700 grama šargarepe
   * 1 manja glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5491" src="/wp-content/uploads/2013/03/Pire-od-sargarepe-300x225.jpg" alt="Pire od sargarepe" width="300" height="225" /> 
 
-Priprema: na malo zagrejanog ulja propržiti crni luk isečen na kolutove, da blago porumeni. Zatim dodati opranu, očišćenu i na kolutove isečenu šargarepu, naliti toplom vodom, da ogrezne i kuvati dok upola ne omekša.Tada dodati so, suvi biljni začin i šećer, pa produžiti sa kuvanjem dok šargarepa ne bude potpuno mekana. U toku kuvanja dolivati po malo tople vode, ukoliko je potrebno.
+**Priprema**: na malo zagrejanog ulja propržiti crni luk isečen na kolutove, da blago porumeni. Zatim dodati opranu, očišćenu i na kolutove isečenu šargarepu, naliti toplom vodom, da ogrezne i kuvati dok upola ne omekša.Tada dodati so, suvi biljni začin i šećer, pa produžiti sa kuvanjem dok šargarepa ne bude potpuno mekana. U toku kuvanja dolivati po malo tople vode, ukoliko je potrebno.
 
 Obarenu šargarepu ocediti od suvišne tečnosti, ukoliko je ima i propasirati.
 

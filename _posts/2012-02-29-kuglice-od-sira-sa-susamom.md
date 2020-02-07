@@ -18,7 +18,7 @@ tags:
   - sir
   - susam
 ---
-Potrebno je:
+**Potrebno je**:
 
   * beli sitan sir (250 grama)
   * susam (150 g)
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2607" title="Bombice od sira sa susamom" src="/wp-content/uploads/2012/02/Bombice-od-sira-sa-susamom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: penasto umutiti margarin, dodati sitan sir, pavlaku, mlevene orahe i polovinu količine susama. Susam prethodno treba propržiti ili ispeći. Masu lagano izmešati, da se sastojci sjedine.
+**Priprema**: penasto umutiti margarin, dodati sitan sir, pavlaku, mlevene orahe i polovinu količine susama. Susam prethodno treba propržiti ili ispeći. Masu lagano izmešati, da se sastojci sjedine.
 
 Kašičicom ili manjom kašikom za sladoled zahvatati deo pripremljene mase. Rukama oblikovati kuglice i svaku uvaljati u susam.
 

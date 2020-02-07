@@ -19,7 +19,7 @@ tags:
   - slanina
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * prokelj (1/2 kg)
   * krompir (1/2 kg)
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9265" src="/wp-content/uploads/2014/09/Prokeljsakrompirom-300x225.jpg" alt="Prokeljsakrompirom" width="300" height="225" />](/wp-content/uploads/2014/09/Prokeljsakrompirom.jpg)
 
-Priprema: krompir oprati, oljuštiti, iseći na kocke, preliti vodom da ogrezne, malo posoliti i skuvati, a zatim ocediti.
+**Priprema**: krompir oprati, oljuštiti, iseći na kocke, preliti vodom da ogrezne, malo posoliti i skuvati, a zatim ocediti.
 
 Prokelj oprati, očistiti, staviti u ključalu vodu u koju je dodat suvi biljni začin i kim. Prokelj kuvati 10 minuta a zatim ga ocediti.
 

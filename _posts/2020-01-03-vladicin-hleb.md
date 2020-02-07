@@ -17,7 +17,7 @@ tags:
 Hleb se mesi pretežno od pšeničnog „mekog“ brašna (ređe od ražanog, ječmenog i kukuruznog).
 Ovaj recept preporučuje korišćenje integralnog pšeničnog brašna.
 
-Potrebno je:
+**Potrebno je**:
 
 * 180 g masti, 
 * 50 g suvog grožđa

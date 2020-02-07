@@ -23,7 +23,7 @@ tags:
   - sirće
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kelja
   * 4 jajeta
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone" src="/wp-content/uploads/2012/12/Sufleodkelja-e1356944719247.jpg" alt="" width="295" height="221" /> 
 
-Priprema: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i iseći na rezance.
+**Priprema**: kelj očistiti, oprati, iseći na četvrtine i obariti u slanoj vodi u koju je dodato malo sirćeta. Kelj zatim ocediti i iseći na rezance.
 
 Isitnjen kelj pomešati sa umućenim žumancima, suvim vratom isečenim na komadiće, kiselom pavlakom i prezlom. Posoliti, dodati biber i sneg od belanaca.
 

@@ -16,7 +16,7 @@ tags:
   - orasi
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama kristal šećera
   * 200 g maslaca ili margarina
@@ -24,7 +24,7 @@ Potrebno je:
   * 200 g seckanih oraha
   * 2 lista veće oblande
 
-Priprema: sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut. Penasto umutiti maslac sa ostatkom šećera i žumancima.
+**Priprema**: sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut. Penasto umutiti maslac sa ostatkom šećera i žumancima.
 
 Istopljen šećer skloniti sa štednjaka pa u njega dodavati, malo po malo, umućen maslac sa žumancima, neprestano mešajući.  erpu vratiti na štednjak na jaču vatru, da se sve dobro otopi, ali paziti da ne bude grudvica. Nadev mešati na štednjaku otprilike 5 minuta, a zatim dodati seckane orahe. Nadev skloniti sa štednjaka i ostaviti da se malo prohladi.
 

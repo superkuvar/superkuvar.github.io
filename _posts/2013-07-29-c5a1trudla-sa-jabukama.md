@@ -23,7 +23,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 dl mleka
   * paketić svežeg kvasca (20 g)
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5942" src="/wp-content/uploads/2013/07/Štrudla-sa-jabukama-300x225.jpg" alt="Štrudla sa jabukama" width="300" height="225" /> 
 
-Priprema: izmrvljen kvasac staviti u lonče sa toplim mlekom, dodati kašičicu šećera i kašiku brašna, lagano izmešati i ostaviti na toplom da nadođe.
+**Priprema**: izmrvljen kvasac staviti u lonče sa toplim mlekom, dodati kašičicu šećera i kašiku brašna, lagano izmešati i ostaviti na toplom da nadođe.
 
 U posudu za mešenje sipati razmućena jaja, dve kašike šećera, rastopljen margarin, narendanu koru od prethodno dobro opranog limuna i nadošli kvasac. Izmešati varjačom pa dodati prstohvat soli i brašno. Brašno dodavati postepeno. Mutiti prvo varjačom, a zatim mesiti rukom. Treba da se dobije mekano, glatko testo. Testo je gotovo kada počne da se odvaja od ruku.
 

@@ -22,7 +22,7 @@ tags:
   - pirinač
   - sojine ljuspice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 svežih ili zamrznutih paprika
   * šolja sojinih ljuspica
@@ -43,7 +43,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5333" src="/wp-content/uploads/2011/05/Paprikepunjenesojom-300x225.jpg" alt="Paprikepunjenesojom" width="300" height="225" /> 
 
-Priprema: sitno iseckati crni luk i propržiti na ulju, a zatim dodati pirinač i sojine ljuspice natopljene šoljicom supe.
+**Priprema**: sitno iseckati crni luk i propržiti na ulju, a zatim dodati pirinač i sojine ljuspice natopljene šoljicom supe.
 
 U prohlađenu masu umešati jaje, so, suvi biljni začin, biber i origano, pa puniti očišćene paprike i zatvarati ih kolutovima paradajza ili krompira.
 

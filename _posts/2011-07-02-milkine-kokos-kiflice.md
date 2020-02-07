@@ -19,7 +19,7 @@ tags:
   - kokosovo brašno
   - margarin
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 4 kašike šećera u prahu
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1331" title="kokoskiflice" src="/wp-content/uploads/2011/07/kokoskiflice.jpg" alt="" width="240" height="176" /> 
 
-Priprema: umutiti penasto margarin sa četiri kašike šećera u prahu. Dodati jaje, kokosovo brašno i oštrog brašna, toliko da se zamesi malo čvršće testo.
+**Priprema**: umutiti penasto margarin sa četiri kašike šećera u prahu. Dodati jaje, kokosovo brašno i oštrog brašna, toliko da se zamesi malo čvršće testo.
 
 Od umešenog testa otkidati male kugle, valjati ih i praviti kiflice u obliku potkovice. Ređati ih u pleh obložen papirom za pečenje i peći u prethodno zagrejanoj pećnici, na 180 stepeni. Paziti da kiflice ne pregore, treba da ostanu svetle boje.
 

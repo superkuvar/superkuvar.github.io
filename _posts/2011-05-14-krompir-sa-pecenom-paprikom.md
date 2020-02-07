@@ -16,7 +16,7 @@ tags:
   - paprike
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * 5-6 paprika
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3415" title="Krompirsapečenompaprikom" src="/wp-content/uploads/2011/05/Krompirsapečenompaprikom-e1339247786355-300x231.jpg" alt="" width="300" height="231" /> 
 
-Priprema: paprike oprati i ispeći na ploči štednjaka. Kada se ohlade oljuštiti ih, očistiti od semena, iseći na rezance i propržiti na ulju. Pri kraju prženja paprike posoliti, dodati suvi biljni začin i seckani peršunov list.
+**Priprema**: paprike oprati i ispeći na ploči štednjaka. Kada se ohlade oljuštiti ih, očistiti od semena, iseći na rezance i propržiti na ulju. Pri kraju prženja paprike posoliti, dodati suvi biljni začin i seckani peršunov list.
 
 Krompir oprati, oljuštiti, iseći na kriške i takođe ispržiti, na tihoj vatri.
 

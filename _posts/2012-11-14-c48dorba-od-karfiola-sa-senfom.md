@@ -22,7 +22,7 @@ tags:
   - šargarepa
   - senf
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mala glavica karfiola
   * 1 šargarepa
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4699" title="Corba od karfiola sa senfom" src="/wp-content/uploads/2012/11/Corba-od-karfiola-sa-senfom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol oprati, očistiti, razdeliti na cvetiće i obariti u slanoj vodi.
+**Priprema**: karfiol oprati, očistiti, razdeliti na cvetiće i obariti u slanoj vodi.
 
 šargarepu očistiti, izrendati i propržiti na malo ulja. U proprženu šargarepu umešati kašiku brašna i naliti litrom i po tople vode.
 

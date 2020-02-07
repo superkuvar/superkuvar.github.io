@@ -16,7 +16,7 @@ tags:
   - kisela pavlaka
   - slatka pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pakovanje (od pola litra) slatke pavlake
   * 2 čaše kisele pavlake
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3452" title="Sladoledodpavlakeivoća" src="/wp-content/uploads/2011/08/Sladoledodpavlakeivoća-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oprano i očišćeno voće izgnječiti viljuškom. U dublju posudu sipati slatku i kiselu pavlaku, šećer i ispasirano voće. Mutiti mikserom dok se ne dobije gušća masa.
+**Priprema**: oprano i očišćeno voće izgnječiti viljuškom. U dublju posudu sipati slatku i kiselu pavlaku, šećer i ispasirano voće. Mutiti mikserom dok se ne dobije gušća masa.
 
 Umućenu masu sipati u odgovarajuću posudu i staviti u zamrzivač. Povremeno promešati da se ne bi stvorili kristali.
 

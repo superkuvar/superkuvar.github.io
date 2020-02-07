@@ -23,7 +23,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * šolja šećera
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5462" src="/wp-content/uploads/2013/03/Cajni-integralni-kolacici-300x225.jpg" alt="Cajni integralni kolacici" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, sok od limuna, pekmez, đumbir i integralno brašno pomešano sa sodom bikarbonom. Dobro izmešati varjačom. Testo treba da bude gušće.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, sok od limuna, pekmez, đumbir i integralno brašno pomešano sa sodom bikarbonom. Dobro izmešati varjačom. Testo treba da bude gušće.
 
 Kašičicom vaditi testo, stavljati na pobrašnjen dlan i oblikovati loptice. Loptice testa poređati u podmazan pleh, pa svaku pritisnuti prstom po sredini, da se napravi udubljenje. Kolačiće peći 20 minuta u pećnici zagrejanoj na 180 stepeni.
 

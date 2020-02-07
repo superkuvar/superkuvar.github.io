@@ -16,7 +16,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mesnate paprike (5 kg)
   * ren (300 g korena)
@@ -27,7 +27,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8802" src="/wp-content/uploads/2011/11/paprike-300x225.jpg" alt="paprike" width="300" height="225" />](/wp-content/uploads/2011/11/paprike.jpg)
 
-Priprema: paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
+**Priprema**: paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
 
 Prokuvati 4 litra vode, sirće, biber, šećer i so, pa u ovom presolcu kratko obariti paprike i ocediti.
 

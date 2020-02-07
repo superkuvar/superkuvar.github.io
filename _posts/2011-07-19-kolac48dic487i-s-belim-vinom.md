@@ -19,7 +19,7 @@ tags:
   - margarin
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama masti ili 300 grama margarina
   * belo vino (2 dl)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5697" src="/wp-content/uploads/2011/07/Kolacicisbelimvinom-300x225.jpg" alt="Kolacicisbelimvinom" width="300" height="225" /> 
 
-Priprema: penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno, onoliko koliko je potrebno da se dobije testo kao za vanilice.
+**Priprema**: penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno, onoliko koliko je potrebno da se dobije testo kao za vanilice.
 
 Dobro izrađeno testo razvući na debljinu prsta i modlom vaditi kolačiće.
 

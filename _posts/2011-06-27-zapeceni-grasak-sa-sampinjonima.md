@@ -20,7 +20,7 @@ tags:
   - šampinjoni
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama graška (ili pakovanje zamrznutog)
   * 1 šolja pirinča
@@ -37,6 +37,6 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3069" title="Zapečeni grašak sa šampinjonima" src="/wp-content/uploads/2011/06/Zapečeni-grašak-sa-šampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: posebno obariti pirinač i grašak.  ampinjone oprati, iseći na listiće i izdinstati na margarinu ili ulju sa glavicom sitno seckanog crnog luka. Kada šampinjoni omekšaju i uvri sok koji su pustili, dodati so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list.
+**Priprema**: posebno obariti pirinač i grašak.  ampinjone oprati, iseći na listiće i izdinstati na margarinu ili ulju sa glavicom sitno seckanog crnog luka. Kada šampinjoni omekšaju i uvri sok koji su pustili, dodati so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list.
 
 Sjediniti grašak, pirinač i šampinjone. Na kraju dodati sneg od belanaca i lagano promešati. Vatrostalni sud namazati margarinom, sipati u njega ovu masu i preliti žumancima umućenim sa pavlakom. Peći na 220 stepeni oko 35 minuta.

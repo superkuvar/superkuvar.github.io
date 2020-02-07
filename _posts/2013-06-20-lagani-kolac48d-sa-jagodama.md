@@ -22,7 +22,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jajeta
   * 3 šoljice šećera
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5801" src="/wp-content/uploads/2013/06/Laganikolacsajagodama-300x225.jpg" alt="Laganikolacsajagodama" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje i brašno pomešano sa praškom za pecivo. Testo lagano izmešati.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje i brašno pomešano sa praškom za pecivo. Testo lagano izmešati.
 
 U podmazan i brašnom posut pleh sipati pripremljeno testo, a odozgo poređati jagode isečene na polovine ili četvrtine (ukoliko su krupnije). Kolač peći 30 minuta u pećnici zagrejanoj na 200 stpeni.
 

@@ -17,7 +17,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama paradajza
   * 1 glavica crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3962" title="Čorba od paradajza" src="/wp-content/uploads/2012/08/orba-od-paradajza-e1344859545283-300x232.jpg" alt="" width="300" height="232" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Paradajz oprati, oljuštiti i iseći na sitne komade. Isitnjen paradajz dodati u posudu sa proprženim lukom, naliti litrom vode, dodati papriku isečenu na sitne komade i staviti da se kuva.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Paradajz oprati, oljuštiti i iseći na sitne komade. Isitnjen paradajz dodati u posudu sa proprženim lukom, naliti litrom vode, dodati papriku isečenu na sitne komade i staviti da se kuva.
 
 Pri kraju kuvanja čorbu posoliti, dodati suvi biljni začin i origano. Ostaviti čorbu da se kuva još nekoliko minuta, pa umešati umućeno jaje, promešati i skloniti sa vatre.
 

@@ -22,7 +22,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica karfiola
   * po 300 grama boranije, graška i šargarepe
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4486" title="Povrcekaoprilog" src="/wp-content/uploads/2011/06/Povrcekaoprilog-e1350289126324-300x238.jpg" alt="" width="300" height="238" /> 
 
-Priprema: obariti povrće u vodi kojoj je dodat suvi biljni začin i malo soli, dodajući redom svako naredno koje se kraće kuva. Boraniju bariti 25 minuta, a grašak i šargarepu oko 20 minuta. Karfiol bariti oko 5 minuta. šargarepu pre kuvanja iseći na štapiće.
+**Priprema**: obariti povrće u vodi kojoj je dodat suvi biljni začin i malo soli, dodajući redom svako naredno koje se kraće kuva. Boraniju bariti 25 minuta, a grašak i šargarepu oko 20 minuta. Karfiol bariti oko 5 minuta. šargarepu pre kuvanja iseći na štapiće.
 
 Kada je povrće obareno, ocediti ga i staviti na ulje da se kratko proprži, osim karfiola. Cvetiće karfiola umakati u umućena jaja, a zatim uvaljati u prezle i pržiti na vrelom ulju.
 

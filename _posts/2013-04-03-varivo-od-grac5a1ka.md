@@ -22,7 +22,7 @@ tags:
   - mirođija
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama graška
   * 1 glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5555" src="/wp-content/uploads/2013/04/Varivo-od-graška-300x225.jpg" alt="Varivo od graška" width="300" height="225" /> 
 
-Priprema: na malo zagrejanog ulja staviti sitno iseckan crni luk i pržiti da postane staklast. U propržen luk dodati grašak i narendanu šargarepu, pa sve zajedno dinstati, uz dolivanje po malo tople vode ili supe od povrća. Povremeno promešati.
+**Priprema**: na malo zagrejanog ulja staviti sitno iseckan crni luk i pržiti da postane staklast. U propržen luk dodati grašak i narendanu šargarepu, pa sve zajedno dinstati, uz dolivanje po malo tople vode ili supe od povrća. Povremeno promešati.
 
 Kada grašak omekša, na malo ulja propržiti kašiku brašna i pola kašičice aleve paprike. Sipati zapršku u grašak i promešati. Grašak odmah naliti vrelom vodom, da ogrezne. Posoliti, dodati suvi biljni začin i pola kašičice šećera. Dinstati još 15-20 minuta.
 

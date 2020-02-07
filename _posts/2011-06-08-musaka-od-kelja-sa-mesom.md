@@ -18,7 +18,7 @@ tags:
   - mleveno meso
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kelj (glavica oko 1 kg)
   * mleveno juneće meso (300 grama)
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9354" src="/wp-content/uploads/2011/06/musakaodkeljasamesom-300x225.jpg" alt="musakaodkeljasamesom" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkeljasamesom.jpg)
 
-Priprema: očistiti i oprati kelj, iseći ga na četvrtine i obariti u slanoj vodi. Oceđen i ohlađen kelj iseći na rezance.
+**Priprema**: očistiti i oprati kelj, iseći ga na četvrtine i obariti u slanoj vodi. Oceđen i ohlađen kelj iseći na rezance.
 
 Na ulju propržiti sitno seckan crni luk, da postane staklast. Zatim dodati mleveno meso, so i biber i još malo pržiti.
 

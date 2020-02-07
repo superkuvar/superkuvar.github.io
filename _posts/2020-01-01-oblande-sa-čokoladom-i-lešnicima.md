@@ -25,7 +25,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-9490" src="https://superkuvar.com/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="300" height="225">
 
-Priprema: u šerpicu staviti 200 g čokolade za kuvanje i 200 g posnog margarina. 
+**Priprema**: u šerpicu staviti 200 g čokolade za kuvanje i 200 g posnog margarina. 
 
 Staviti na plotnu, na laganu vatru da se istopi. Kada se istopi i ujednači dodati prah šećer i pržene i samlevene lešnike. Dobro izmešati i skloniti sa vatre. Kada se masa malo prohladi filovati oblande. 
 

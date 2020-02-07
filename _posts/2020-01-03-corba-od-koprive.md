@@ -16,7 +16,7 @@ tags:
    - pavlaka
    - kopriva
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g očišćenih kopriva, 
 * kilogram telećih kostiju, 

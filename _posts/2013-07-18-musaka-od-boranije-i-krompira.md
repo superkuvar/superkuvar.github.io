@@ -20,7 +20,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (1/2 kg)
   * 2 glavice crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5910" src="/wp-content/uploads/2013/07/Musakaodboranijeikrompira-300x225.jpg" alt="Musakaodboranijeikrompira" width="300" height="225" /> 
 
-Priprema: boraniju očistiti, oprati, iseći na polovine i obariti u posoljenoj vodi. Kada je boranija gotova ocediti je.
+**Priprema**: boraniju očistiti, oprati, iseći na polovine i obariti u posoljenoj vodi. Kada je boranija gotova ocediti je.
 
 Krompir očistiti, oljuštiti, naliti hladnom vodom da ogrezne i skuvati, a zatim ocediti.
 

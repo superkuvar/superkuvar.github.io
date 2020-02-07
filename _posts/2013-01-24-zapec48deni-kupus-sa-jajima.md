@@ -22,7 +22,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kupusa (oko 1 kilogram)
   * 1 struk praziluka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5158" src="/wp-content/uploads/2013/01/Kupussajajima-300x225.jpg" alt="Kupussajajima" width="300" height="225" /> 
 
-Priprema: kupus očistiti i iseći na rezance. Praziluk oprati, očistiti i sitno iseckati.
+**Priprema**: kupus očistiti i iseći na rezance. Praziluk oprati, očistiti i sitno iseckati.
 
 U šerpu sipati ulje, zagrejati ga, dodati praziluk i malo propržiti. Zatim dodati kupus, oljušten i sitno isečen paradajz, so, biber i lovorov list. Dinstati dok kupus ne omekša, uz povremeno dolivanje po malo tople vode.
 

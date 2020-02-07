@@ -15,7 +15,7 @@ tags:
   - mleko
   - šlag
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kivija
   * 2 kesice šlaga
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1605" title="sladoledkivi" src="/wp-content/uploads/2011/08/sladoledkivi-e1312536586878.jpg" alt="" width="229" height="169" /> 
 
-Priprema: kivi oprati, oljuštiti i izgnječiti viljuškom. U posudu za mućenje sipati šlag, šećer i mleko i umutiti prema uputstvu na kesici. Umesto šlaga može se koristiti slatka pavlaka.
+**Priprema**: kivi oprati, oljuštiti i izgnječiti viljuškom. U posudu za mućenje sipati šlag, šećer i mleko i umutiti prema uputstvu na kesici. Umesto šlaga može se koristiti slatka pavlaka.
 
 U umućeni šlag dodati izgnječen kivi, pa još malo izmešati mikserom, da se izjednači.
 

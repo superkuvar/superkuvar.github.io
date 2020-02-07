@@ -16,7 +16,7 @@ tags:
   - sirće
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3-4 mlade tikvice
   * so
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9674" src="/wp-content/uploads/2015/07/salataodtikvica-300x225.jpg" alt="salataodtikvica" width="300" height="225" />](/wp-content/uploads/2015/07/salataodtikvica-e1436770754937.jpg)
 
-Priprema: tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
+**Priprema**: tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
 
 Oceđene tikvice preručiti u činiju, dodati iseckani beli luk, seckani peršunov list i biber. Ukoliko je potebno tikvice još malo posoliti, pa preliti uljem i sirćetom. Izmešati i staviti u frižider da se salata ohladi.
 

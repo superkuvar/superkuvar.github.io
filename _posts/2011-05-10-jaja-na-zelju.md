@@ -21,7 +21,7 @@ tags:
   - zelje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zelje (4 veze)
   * šoljica pirinča
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4785" title="Jaja na zelju" src="/wp-content/uploads/2011/05/Jaja-na-zelju-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na ulju propržiti iseckan crni luk, pa mu dodati opran pirinač i zelje isečeno na rezance. U to dodati kocku za supu rastopljenu u vodi, tako da zelje ogrezne.
+**Priprema**: na ulju propržiti iseckan crni luk, pa mu dodati opran pirinač i zelje isečeno na rezance. U to dodati kocku za supu rastopljenu u vodi, tako da zelje ogrezne.
 
 Jelo staviti u pećnicu i peći na umerenoj temperaturi dok pirinač ne omekša, a voda ispari.
 

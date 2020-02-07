@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - šnicle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 šnicli (svinjskih ili junećih)
   * čaša kisele pavlake
@@ -28,7 +28,7 @@ Potrebno je:
   * seckani peršunov list
   * ulje
 
-Priprema: šnicle izlupati tučkom za meso, posoliti sa obe strane solju i suvim biljnim začinom, uvaljati u mešavinu brašna i aleve paprike i ispržiti na vrelom ulju. Gotove šnicle izvaditi iz tiganja i ostaviti na toplo mesto.
+**Priprema**: šnicle izlupati tučkom za meso, posoliti sa obe strane solju i suvim biljnim začinom, uvaljati u mešavinu brašna i aleve paprike i ispržiti na vrelom ulju. Gotove šnicle izvaditi iz tiganja i ostaviti na toplo mesto.
 
 Na ulju u kome su se šnicle pržile izdinstati sitno seckan crni luk, dok ne postane staklast. U luk zatim dodati pavlaku, prokuvati minut-dva i posoliti.
 

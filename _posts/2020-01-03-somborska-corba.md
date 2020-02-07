@@ -13,7 +13,7 @@ categories:
 tags:
    - pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
 300 g guščijeg mesa 
 300 g crnog luka 

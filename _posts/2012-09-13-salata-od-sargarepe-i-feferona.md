@@ -18,7 +18,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2,5 kg šargarepe
   * 300 grama ljutih papričica &#8211; feferona
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4373" title="Povrcezasalatuodsargarepe" src="/wp-content/uploads/2012/09/Povrcezasalatuodsargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: feferone oprati, ispeći na ploči štednjaka ili roštilju i ostaviti da se ohlade.  argerepu oprati, oljuštiti i obariti u slanoj vodi. Kada se šargarepa ohladi iseći je na kolutove. Peršun oprati i sitno iseckati. Beli luk oljuštiti i iseckati.
+**Priprema**: feferone oprati, ispeći na ploči štednjaka ili roštilju i ostaviti da se ohlade.  argerepu oprati, oljuštiti i obariti u slanoj vodi. Kada se šargarepa ohladi iseći je na kolutove. Peršun oprati i sitno iseckati. Beli luk oljuštiti i iseckati.
 
 U manje tegle slagati kolutove šargarepe, iseckan beli luk i peršunov list, pa feferone, sve dok se tegle ne napune.
 

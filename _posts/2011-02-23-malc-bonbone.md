@@ -15,13 +15,13 @@ tags:
   - med
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg Knajpove kafe
   * med (500 grama)
   * šećer (400 g)
 
-Priprema: kafu samleti, staviti u šerpu i preliti litrom vode. Zakuvati kafu i kuvati je dok ne ispari pola litra vode.
+**Priprema**: kafu samleti, staviti u šerpu i preliti litrom vode. Zakuvati kafu i kuvati je dok ne ispari pola litra vode.
 
 Ostaviti da se kafa slegne a zatim je procediti. Proceđenu kafu sipati u veći sud, pa dodati med i šećer. Kafu, med i šećer kuvati na umerenoj temperaturi dok se ne dobije potrebna gustina. Znaćemo da je masa dovoljno gusta ako na hladan tanjirić kapnemo kap vrele mase, pa ako se stvrdne onda je dovoljno kuvana.
 

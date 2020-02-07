@@ -15,7 +15,7 @@ tags:
   - kupus
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica svežeg kupusa
   * ulje
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3587" title="Salataodsvežegkupusa" src="/wp-content/uploads/2012/06/Salataodsvežegkupusa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus očistiti od spoljnih listova, oprati i iseći na pola ili četvrtine, uzduž po korenu. Ukloniti koren, pa kupus iseći nožem na tanke rezance ili izrendati pomoću rendeta, a može se isitniti i u &#8221;secku&#8221;.
+**Priprema**: kupus očistiti od spoljnih listova, oprati i iseći na pola ili četvrtine, uzduž po korenu. Ukloniti koren, pa kupus iseći nožem na tanke rezance ili izrendati pomoću rendeta, a može se isitniti i u &#8221;secku&#8221;.
 
 Iseckan kupus posoliti, izmešati pa dodati sirće, ulje i biber, ponovo izmešati i ostaviti da kratko odstoji. Najbolje je čistom rukom izgnječiti ovlaš rezance kupusa, da malo omeknu.
 

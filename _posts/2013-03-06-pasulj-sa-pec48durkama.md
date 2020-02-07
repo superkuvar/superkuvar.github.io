@@ -22,7 +22,7 @@ tags:
   - praziluk
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg pasulja
   * 250 grama šampinjona
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5406" src="/wp-content/uploads/2013/03/Pasulj-sa-pecurkama-300x225.jpg" alt="Pasulj sa pecurkama" width="300" height="225" /> 
 
-Priprema: prebran i opran pasulj potopiti preko noći u hladnu vodu i ostaviti da nabubri. Sutradan ga naliti hladnom vodom i staviti da se kuva. Posle desetak minuta vrenja ocediti vodu i pasulj naliti novom toplom vodom. Dodati lovor i kuvati na slabijoj vatri, dok zrna ne omeknu. Tada pasulj posoliti. Pasulj treba da bude gušći.
+**Priprema**: prebran i opran pasulj potopiti preko noći u hladnu vodu i ostaviti da nabubri. Sutradan ga naliti hladnom vodom i staviti da se kuva. Posle desetak minuta vrenja ocediti vodu i pasulj naliti novom toplom vodom. Dodati lovor i kuvati na slabijoj vatri, dok zrna ne omeknu. Tada pasulj posoliti. Pasulj treba da bude gušći.
 
 Očistiti praziluk ili crni luk, sitno iseckati i propržiti na malo ulja. Dodati oprane, isitnjene šampinjone i dinstati dok ne uvri tečnost koju su pečurke pustile. Posoliti, pobiberiti, dodati pire od paradajza i papriku isečenu na rezance, pa još malo prodinstati.
 

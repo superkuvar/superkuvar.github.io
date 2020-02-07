@@ -16,7 +16,7 @@ tags:
   - pirinač
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram spanaća
   * 2 šoljice pirinča
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3350" title="Posnipilavsaspanaćem" src="/wp-content/uploads/2012/06/Posnipilavsaspanaćem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
+**Priprema**: spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
 
 Spanać ocediti rukama od soka koji je pustio, pa dodati u luk i kratko propržiti. Kada je spanać omekšao, dodati opran pirinač, posoliti, pobiberiti i naliti sa malo tople vode, da ogrezne.
 

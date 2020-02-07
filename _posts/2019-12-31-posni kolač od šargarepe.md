@@ -14,7 +14,7 @@ tags:
 ---
 
 
-Potrebno je: 
+**Potrebno je**: 
 
 2 šolje od bele kafe brašna,
 1 šolja mlevenih oraha,
@@ -28,7 +28,7 @@ malo pekmeza ili marmelade
 još 50 g mlevenih oraha
 strugana korica od pola limuna
 
-Priprema: 
+**Priprema**: 
 
 Pomešati brašno sa praškom za pecivo. Dodati mlevene orahe. šećer, vanilin šećer, rendanu šargarepu i koricu
 limuna pa uz pomoć ulja i vode zamesiti testo. 

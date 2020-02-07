@@ -21,7 +21,7 @@ tags:
   - sirće
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama bamije (sveže)
   * 400 g šampinjona
@@ -40,7 +40,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6159" src="/wp-content/uploads/2013/10/Bamijasasampinjonima-300x225.jpg" alt="Bamijasasampinjonima" width="300" height="225" />](/wp-content/uploads/2013/10/Bamijasasampinjonima.jpg)
 
-Priprema: bamije oprati i ukloniti peteljke. Ukoliko su plodovi veći, pre kuvanja iseći ih na pola. Staviti bamije u sud sa ključalom vodom u koju je dodato sirće i kuvati pet minuta, a zatim ocediti.
+**Priprema**: bamije oprati i ukloniti peteljke. Ukoliko su plodovi veći, pre kuvanja iseći ih na pola. Staviti bamije u sud sa ključalom vodom u koju je dodato sirće i kuvati pet minuta, a zatim ocediti.
 
 Na ulju propržiti sitno isečen crni luk. Dodati šampinjone isečene na listiće, pa dinstati dok malo ne omekšaju. Dodati papriku isečenu na kockice, oljušten, sitno isečen paradajz i pirjaniti još desetak minuta. Posoliti, dodati biber, sitno isečen beli luk, peršunov list i bamije. Naliti belim vinom, lagano izmešati, poklopiti i dinstati na umerenoj temperaturi dok povrće ne omekša.
 

@@ -23,7 +23,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * čaša šećera
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5726" src="/wp-content/uploads/2013/06/Kolacsaribizlama-300x225.jpg" alt="Kolacsaribizlama" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, muskatni oraščić i seckane orahe. Masu izmešati varjačom.
+**Priprema**: umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, muskatni oraščić i seckane orahe. Masu izmešati varjačom.
 
 U podmazan i brašnom posut pleh sipati polovinu količine testa, preko njega posuti bobice ribizle, pa odozgo sipati ostatak testa. Kolač staviti u zagrejanu pećnicu i peći na 200 stepeni oko 40 minuta.
 

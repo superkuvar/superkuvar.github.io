@@ -23,7 +23,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kupus (1 kg)
   * 1 manji struk praziluka
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5155" src="/wp-content/uploads/2011/05/Musakaodkupusaikrompira-300x225.jpg" alt="Musakaodkupusaikrompira" width="300" height="225" /> 
 
-Priprema: očišćen i opran kupus iseći na rezance, malo posoliti i zajedno sa sitno iseckanim prazilukom pirjaniti na ulju, u poklopljenom sudu dok ne omekša. Povremeno dolivati po malo tople vode ili supe od povrća. U izdinstani kupus dodati oljušten i sitno isečen paradajz, biber i sitno seckani peršunov list, pa dobro izmešati.
+**Priprema**: očišćen i opran kupus iseći na rezance, malo posoliti i zajedno sa sitno iseckanim prazilukom pirjaniti na ulju, u poklopljenom sudu dok ne omekša. Povremeno dolivati po malo tople vode ili supe od povrća. U izdinstani kupus dodati oljušten i sitno isečen paradajz, biber i sitno seckani peršunov list, pa dobro izmešati.
 
 Krompir oprati i neoljušten obariti u posoljenoj vodi. Ocediti ga, a kad se malo prohladi oljuštiti i iseći na kolutove.
 

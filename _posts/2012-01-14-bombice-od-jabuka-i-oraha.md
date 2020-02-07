@@ -16,7 +16,7 @@ tags:
   - orasi
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kiselih jabuka
   * 500 grama šećera
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2293" title="Kuglice od jabuka 3" src="/wp-content/uploads/2012/01/Kuglice-od-jabuka-3-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sipati šećer u šerpu, preliti ga šoljom vode i staviti na štednjak. Kuvati dok se ne dobije gust sirup, kao za slatko.
+**Priprema**: sipati šećer u šerpu, preliti ga šoljom vode i staviti na štednjak. Kuvati dok se ne dobije gust sirup, kao za slatko.
 
 U međuvremenu, oprati, oljuštiti i na krupno rende istrugati jabuke. U skuvan sirup dodati narendane jabuke, prethodno malo oceđene od soka, i vratiti na štednjak. Kuvati na tihoj vatri, uz stalno mešanje, da masa ne bi zagorela. Pred kraj dodati vanilin šećer i sok od isceđene pomorandže. Kuvati još malo. Kada jabuke dobiju staklast izgled i masa postane gusta, sklonti sa vatre i dodati mlevene orahe.
 

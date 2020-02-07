@@ -24,7 +24,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pola struka praziluka
   * koren manjeg celera
@@ -41,7 +41,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5316" src="/wp-content/uploads/2013/02/Čorbasakukuruzom-300x225.jpg" alt="Čorbasakukuruzom" width="300" height="225" /> 
 
-Priprema: povrće oprati, očistiti i iseći: praziluk sitno, šargarpu na kolutove, a celer, paškanat i krompir na kockice.
+**Priprema**: povrće oprati, očistiti i iseći: praziluk sitno, šargarpu na kolutove, a celer, paškanat i krompir na kockice.
 
 Na ulju propržiti iseckan praziluk, dodati isitnjeno povrće, osim krompira, i propržiti još 5 minuta. Povrće naliti supom od kocke ili toplom vodom (oko 1,5 litar) i staviti da se kuva.
 

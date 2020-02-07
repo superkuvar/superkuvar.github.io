@@ -22,7 +22,7 @@ tags:
   - tikvice
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama bamije
   * 1 tikvica
@@ -43,7 +43,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6168" src="/wp-content/uploads/2013/10/Djuvecsabamijom-300x225.jpg" alt="Djuvecsabamijom" width="300" height="225" />](/wp-content/uploads/2013/10/Djuvecsabamijom.jpg)
 
-Priprema: bamije oprati, očistiti od peteljki i kuvati 5 minuta u ključaloj vodi u koju je dodato sirće. Zatim ih ocediti. Ukoliko su bamije veće, pre kuvanja ih preseći na pola.
+**Priprema**: bamije oprati, očistiti od peteljki i kuvati 5 minuta u ključaloj vodi u koju je dodato sirće. Zatim ih ocediti. Ukoliko su bamije veće, pre kuvanja ih preseći na pola.
 
 Crni luk očistiti, sitno iseći i propržiti na ulju. Dodati paradajz, prethodno oljušten i isitnjen. Dinstati desetak minuta.
 

@@ -18,7 +18,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2-3 veća krompira
   * 3 šargarepe
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9310" src="/wp-content/uploads/2014/12/corbaodpasiranogpovrca-300x225.jpg" alt="corbaodpasiranogpovrca" width="300" height="225" />](/wp-content/uploads/2014/12/corbaodpasiranogpovrca.jpg)
 
-Priprema: krompir, šargarepu, praziluk i kupus oprati, očistiti, sitno iseći i staviti u jedan i po litar ključale vode. Povrće posoliti, dodati suvi biljni začin, biber u zrnu i lovorov list. Kuvati na umerenoj temperaturi dok povrće ne omekša, a zatim ga ispasirati.
+**Priprema**: krompir, šargarepu, praziluk i kupus oprati, očistiti, sitno iseći i staviti u jedan i po litar ključale vode. Povrće posoliti, dodati suvi biljni začin, biber u zrnu i lovorov list. Kuvati na umerenoj temperaturi dok povrće ne omekša, a zatim ga ispasirati.
 
 Na malo ulja propržiti brašno i zapržiti čorbu. Ostaviti da se kuva na tihoj vatri još 2-3 minuta i pobiberiti po ukusu.
 

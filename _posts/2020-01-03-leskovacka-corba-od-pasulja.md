@@ -13,7 +13,7 @@ categories:
 tags:
    - pasulj
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 200 g pasulja
 * 200 g crnog luka, 

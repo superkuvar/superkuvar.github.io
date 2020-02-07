@@ -21,7 +21,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 2 šoljice ulja
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1450" title="strininkolac" src="/wp-content/uploads/2011/07/strininkolac.jpg" alt="" width="248" height="186" /> 
 
-Priprema: umutiti žumanca sa 6 šoljica šećera. Tome dodati ulje, mleko, brašno, prašak za pecivo, sok i koru od limuna i dobro izmešati. U pleh prekriven papirom za pečenje sipati pripremljenu masu. Zagrejati rernu na 200 stepeni i staviti kolač da se peče.
+**Priprema**: umutiti žumanca sa 6 šoljica šećera. Tome dodati ulje, mleko, brašno, prašak za pecivo, sok i koru od limuna i dobro izmešati. U pleh prekriven papirom za pečenje sipati pripremljenu masu. Zagrejati rernu na 200 stepeni i staviti kolač da se peče.
 
 U međuvremenu, oprati, oljuštiti i izrendati jabuke. Dodati kašiku ulja i 4-5 kašika šećera, pa pržiti jabuke dok sok ne uvri.
 

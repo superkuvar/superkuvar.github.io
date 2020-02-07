@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - senf
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 svinjske ili juneće šnicle
   * 1 plavi patlidžan
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6197" src="/wp-content/uploads/2013/10/Sarenidjuvecsamesom-e1382366701658-300x227.jpg" alt="Sarenidjuvecsamesom" width="300" height="227" />](/wp-content/uploads/2013/10/Sarenidjuvecsamesom.jpg)
 
-Priprema: povrće oprati i očistiti. Plavi patlidžan iseći na kockice, šargarepu na kolutove, paprike na krupnije komade, a crni luk na rebarca. Oljušten paradajz sitno iseći.
+**Priprema**: povrće oprati i očistiti. Plavi patlidžan iseći na kockice, šargarepu na kolutove, paprike na krupnije komade, a crni luk na rebarca. Oljušten paradajz sitno iseći.
 
  nicle malo izlupati tučkom za meso, posoliti, pobiberiti i sa obe strane premazati senfom.
 

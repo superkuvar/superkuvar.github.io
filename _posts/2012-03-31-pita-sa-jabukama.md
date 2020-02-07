@@ -18,7 +18,7 @@ tags:
   - prezle
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 1 kilogram kiselih jabuka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2833" title="Pita sa jabukama" src="/wp-content/uploads/2012/03/Pita-sa-jabukama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: jabuke oprati, oljuštiti i izrendati na krupno rende, dodati šećer po ukusu, suvo grožđe, cimet, prezle i mlevene orahe (po želji).
+**Priprema**: jabuke oprati, oljuštiti i izrendati na krupno rende, dodati šećer po ukusu, suvo grožđe, cimet, prezle i mlevene orahe (po želji).
 
 Četiri kore ređati jednu na drugu, svaku poprskati mešavinom ulja i vode, a na četvrtu staviti nadev od jabuka, pa uviti kao štrudlu. Isto učiniti sa ostatkom kora i fila.
 

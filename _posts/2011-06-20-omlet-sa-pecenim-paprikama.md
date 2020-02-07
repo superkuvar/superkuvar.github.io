@@ -16,7 +16,7 @@ tags:
   - paprike
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 komada jaja
   * 5 pečenih paprika
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8901" src="/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg" alt="omletsapecenimpaprikama" width="300" height="225" srcset="/wp-content/uploads/2011/06/omletsapecenimpaprikama-300x225.jpg 300w, /wp-content/uploads/2011/06/omletsapecenimpaprikama-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2011/06/omletsapecenimpaprikama.jpg)
 
-Priprema: paprike ispeći, oljuštiti, iseći na rezance i propržiti na ulju. U zimskom periodu mogu poslužiti i zamrznute pečene paprike. Dodati čen iseckanog belog luka.
+**Priprema**: paprike ispeći, oljuštiti, iseći na rezance i propržiti na ulju. U zimskom periodu mogu poslužiti i zamrznute pečene paprike. Dodati čen iseckanog belog luka.
 
 Umutiti jaja, posoliti ih i pobiberiti, dodati kašiku milerama ili mleka pa preliti preko paprika. Ispeći omlet. Posuti ga seckanom mirođijom ili peršunom.
 

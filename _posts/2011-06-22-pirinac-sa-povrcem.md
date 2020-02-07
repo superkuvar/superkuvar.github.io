@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šolja i po pirinča
   * 1 glavica crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3583" title="Pirinačsapovrćem" src="/wp-content/uploads/2011/06/Pirinačsapovrćem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Papriku iseći na kolutove, a krompir i paradajz (prethodno oljušten) na kockice.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Papriku iseći na kolutove, a krompir i paradajz (prethodno oljušten) na kockice.
 
 U propržen luk dodati isitnjeno povrće i opran pirinač. Naliti vodom, posoliti, pobiberiti, dodati kašiku suvog biljnog začina i isitnjen beli luk. Kuvati na tihoj vatri dok povrće i pirinač ne omekšaju.
 

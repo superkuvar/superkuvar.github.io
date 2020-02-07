@@ -17,7 +17,7 @@ tags:
   - mleko
   - puding
 ---
-Potrebno je:  
+**Potrebno je**:  
 * keks pti ber (400 grama)  
 * mleko (9 dl)  
 * 2 kesice pudinga od jagode  
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9649" src="/wp-content/uploads/2015/05/kekskolacsajagodama-300x225.jpg" alt="kekskolacsajagodama" width="300" height="225" />](/wp-content/uploads/2015/05/kekskolacsajagodama-e1432537510599.jpg)
 
-Priprema: odvojiti oko 100 ml mleka za potapanje keksa, a u ostatku skuvati puding prema uputstvu na ambalaži. U vreo puding dodati margarin i izmešati da se istopi.
+**Priprema**: odvojiti oko 100 ml mleka za potapanje keksa, a u ostatku skuvati puding prema uputstvu na ambalaži. U vreo puding dodati margarin i izmešati da se istopi.
 
 Jagode oprati i iseći na listiće.
 

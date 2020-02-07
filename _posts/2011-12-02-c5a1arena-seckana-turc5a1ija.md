@@ -17,7 +17,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * po 1,5 kg zelenog paradajza,sitnijih paprika, krastavčića,šargarepe, karfiola
   * 300 grama crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
   * 2 kesice vinobrana
   * veza celerovog lišća
 
-Priprema: povrće oprati, očistiti i isitniti na komade. Izmešati ga i staviti u manje bure ili u velike tegle.
+**Priprema**: povrće oprati, očistiti i isitniti na komade. Izmešati ga i staviti u manje bure ili u velike tegle.
 
 U većem sudu prokuvati 10 litara vode, pa dodati so, esenciju, biber u zrnu, listiće celera, konzervans i vinobran. Ohlađenim presolcem preliti povrće, da ogrezne.
 

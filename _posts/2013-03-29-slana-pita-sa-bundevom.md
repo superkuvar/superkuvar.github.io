@@ -22,7 +22,7 @@ tags:
   - muskatni oraščić
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * bundeva (900 grama)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5538" src="/wp-content/uploads/2013/03/Slana-pita-sa-bundevom-300x225.jpg" alt="Slana pita sa bundevom" width="300" height="225" /> 
 
-Priprema: bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
+**Priprema**: bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
 
 Uzeti četiri kore, svaku poprskati mešavinom ulja i vode i slagati jednu preko druge. Preko četvrte kore premazati nadev, pa uviti u rolnu kao štrudlu. Tako postupiti sa ostatkom kora i nadeva.
 

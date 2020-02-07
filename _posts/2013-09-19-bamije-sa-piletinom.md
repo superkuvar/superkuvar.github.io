@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama bamija
   * pileće belo meso (oko 400 grama)
@@ -38,7 +38,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6113" src="/wp-content/uploads/2013/09/Bamijesapiletinom-300x225.jpg" alt="Bamijesapiletinom" width="300" height="225" />](/wp-content/uploads/2013/09/Bamijesapiletinom.jpg)
 
-Priprema: ukloniti peteljke sa bamija. Mekom četkom, pod mlazom vode, ukloniti dlačice. Ukoliko su bamije mlade nije potrebno. Ako su veće preseći ih na pola.
+**Priprema**: ukloniti peteljke sa bamija. Mekom četkom, pod mlazom vode, ukloniti dlačice. Ukoliko su bamije mlade nije potrebno. Ako su veće preseći ih na pola.
 
 Oprane bamije staviti u posudu sa ključalom vodom kojoj su dodate 3-4 kašike sirćeta i kuvati 5 minuta. Zatim ih ocediti i ostaviti da se ohlade. Sirće se dodaje da se bamije tokom kuvanja ne raspadnu.
 

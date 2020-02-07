@@ -20,7 +20,7 @@ tags:
   - pirinač
   - slanina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (1 veća šolja)
   * grašak (300 grama)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5627" src="/wp-content/uploads/2011/05/Rizoto-sa-graskom-300x225.jpg" alt="Rizoto sa graskom" width="300" height="225" /> 
 
-Priprema: na ulju propržiti glavicu crnog luka, a zatim dodati opran pirinač. Čim pirinač upije masnoću naliti ga toplom vodom, ali ne mnogo. Pirinač posoliti i dinstati na tihoj vatri, uz često mešanje i dolivanje tople vode po potrebi.
+**Priprema**: na ulju propržiti glavicu crnog luka, a zatim dodati opran pirinač. Čim pirinač upije masnoću naliti ga toplom vodom, ali ne mnogo. Pirinač posoliti i dinstati na tihoj vatri, uz često mešanje i dolivanje tople vode po potrebi.
 
 Grašak sipati u drugu posudu, na već zagrejano ulje na kome se pržila slanina. Posoliti, dodati biber i malo suvog biljnog začina. Dinstati uz dolivanje po malo vode, dok grašak sasvim ne omekša i dok voda ne uvri.
 

@@ -22,7 +22,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 3 šoljice šećera
@@ -42,7 +42,7 @@ Za preliv
 
 [<img class="alignnone size-medium wp-image-9363" src="/wp-content/uploads/2011/08/kolacodgrizaijabuka-300x225.jpg" alt="kolacodgrizaijabuka" width="300" height="225" />](/wp-content/uploads/2011/08/kolacodgrizaijabuka.jpg)
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz pomešan sa praškom za pecivo, izrendane jabuke i suvo grožđe ili seckane orahe. Testo izmešati i sipati u pleh prekriven papirom za pečenje.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz pomešan sa praškom za pecivo, izrendane jabuke i suvo grožđe ili seckane orahe. Testo izmešati i sipati u pleh prekriven papirom za pečenje.
 
 Kolač peći na umeranoj temperaturi oko 45 minuta.
 

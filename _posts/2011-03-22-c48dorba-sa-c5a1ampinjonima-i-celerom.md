@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama pečuraka (šampinjoni)
   * manji koren celera
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-786" title="corbaodsampinjonaicelera" src="/wp-content/uploads/2011/03/corbaodsampinjonaicelera.jpg" alt="" width="259" height="194" /> 
 
-Priprema: šampinjone oprati i iseći na listiće. Celer oprati, oljuštiti i izrendati na trenici. U loncu, na malo zagrejanog ulja propržiti zajedno šampinjone i celer.
+**Priprema**: šampinjone oprati i iseći na listiće. Celer oprati, oljuštiti i izrendati na trenici. U loncu, na malo zagrejanog ulja propržiti zajedno šampinjone i celer.
 
 Kada su šampinjoni i celer malo omekšali, naliti ih litrom i po tople vode. Čorbu posoliti i kuvati na tihoj vatri 40 minuta. Pred kraj kuvanja dodati biber i sitno seckani peršunov list.
 

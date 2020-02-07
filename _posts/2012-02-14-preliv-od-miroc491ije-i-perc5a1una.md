@@ -16,7 +16,7 @@ tags:
   - mirođija
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * sveža mirođija (jedna vezica)
   * pola vezice peršunovog lista
@@ -27,7 +27,7 @@ Potrebno je:
   * mileram (čaša)
   * sok od limuna
 
-Priprema: mirođiju i peršunov list oprati i sitno iseckati. Belance sitno iseckati ili izgnječiti viljuškom. Dodati ulje, mileram, kašiku soka od limuna, so i biber po ukusu. Sastojke dobro izmešati.
+**Priprema**: mirođiju i peršunov list oprati i sitno iseckati. Belance sitno iseckati ili izgnječiti viljuškom. Dodati ulje, mileram, kašiku soka od limuna, so i biber po ukusu. Sastojke dobro izmešati.
 
 Preliv od mirođije i peršuna služiti uz salatu od kuvanog krompira.
 

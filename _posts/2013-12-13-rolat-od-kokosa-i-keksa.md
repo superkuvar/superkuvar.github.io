@@ -20,7 +20,7 @@ tags:
   - šećer
   - žele bombone
 ---
-Potrebno je:  
+**Potrebno je**:  
 • mleveni keks (1/2 kg)  
 • 300 grama šećera u prahu  
 • 3 kašike kakao praha  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6325" src="/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3-300x225.jpg" alt="Rolat sa zele-bombon. 3" width="300" height="225" />](/wp-content/uploads/2013/12/Rolat-sa-zele-bombon.-3.jpg)
 
-Priprema: keks, 150 grama šećera i kakao izmešati sa mlekom da se dobije masa ni mnogo gusta ni retka. Masu podeliti na dva jednaka dela, da bi se dobila dva rolata. Svaki deo rastanjiti na aluminijumskoj foliji do debljine od pola santimetra. Foliju prethodno posuti šećerom u prahu, da se testo ne bi lepilo.
+**Priprema**: keks, 150 grama šećera i kakao izmešati sa mlekom da se dobije masa ni mnogo gusta ni retka. Masu podeliti na dva jednaka dela, da bi se dobila dva rolata. Svaki deo rastanjiti na aluminijumskoj foliji do debljine od pola santimetra. Foliju prethodno posuti šećerom u prahu, da se testo ne bi lepilo.
 
 Penasto umutiti maslac ili margarin sa ostatkom šećera, a zatim dodati kokosovo brašno.
 

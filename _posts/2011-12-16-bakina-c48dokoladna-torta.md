@@ -16,7 +16,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za testo:
 
   * 10 jaja
@@ -33,7 +33,7 @@ Za fil:
   * 3 štangle čokolade za kuvanje
   * 250 grama margarina ili maslaca
 
-Priprema: umutiti žumanaca sa šećerom, dodati mlevene orahe i rendanu čokoladu, a na kraju lagano umešati i čvrsto ulupan sneg od belanaca i brašno. Testo sipati u podmazan i brašnom posut kalup za tortu i ispeći. Pečeno testo ohladiti, preseći na pola i filovati.
+**Priprema**: umutiti žumanaca sa šećerom, dodati mlevene orahe i rendanu čokoladu, a na kraju lagano umešati i čvrsto ulupan sneg od belanaca i brašno. Testo sipati u podmazan i brašnom posut kalup za tortu i ispeći. Pečeno testo ohladiti, preseći na pola i filovati.
 
 Fil pripremiti na sledeći način: u metalni sud staviti cela jaja i šećer, pa kuvati na pari uz neprestano mešanje. Kada masa počne da se zgušnjava dodati vanilin šećer i rendanu čokoladu, pa skloniti sa vatre.
 

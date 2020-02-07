@@ -20,7 +20,7 @@ tags:
   - rum
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 pakovanje smrznutog lisnatog testa
   * 1/2 kilograma kiselih jabuka
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9320" src="/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama-300x225.jpg" alt="kolacodlisnatogtestasajabukama" width="300" height="225" />](/wp-content/uploads/2011/12/kolacodlisnatogtestasajabukama.jpg)
 
-Priprema: jabuke oprati, oljuštiti, izrendati i preliti rumom. Suvo grožđe oprati i dodati u jabuke. Pomešati prezle, šećer i cimet, pa sve kratko propržiti na margarinu.
+**Priprema**: jabuke oprati, oljuštiti, izrendati i preliti rumom. Suvo grožđe oprati i dodati u jabuke. Pomešati prezle, šećer i cimet, pa sve kratko propržiti na margarinu.
 
 Odleđeno lisnato testo rastanjiti (da ne bude mnogo tanko) i staviti u podmazan pleh. Preko njega staviti rendane jabuke, ravnomerno ih rasporediti, pa preliti proprženom masom. Preko fila mestimično staviti po malo džema.
 

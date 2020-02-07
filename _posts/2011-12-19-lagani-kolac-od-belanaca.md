@@ -16,7 +16,7 @@ tags:
   - rum
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * po 1 šolja belanaca, šećera i brašna
   * 1 šolja mlevenih oraha

@@ -13,7 +13,7 @@ categories:
 tags:
    - kajmak
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g jagnjećeg mesa 
 * 100 g kajmaka

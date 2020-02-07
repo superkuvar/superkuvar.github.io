@@ -13,7 +13,7 @@ categories:
 tags:
    - paprika
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g krompira
 * mast ili ulje

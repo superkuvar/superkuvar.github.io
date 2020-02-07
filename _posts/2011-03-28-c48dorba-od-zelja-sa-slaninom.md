@@ -20,7 +20,7 @@ tags:
   - slanina
   - zelje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zelje (2-3 veze)
   * 1 kocka za supu (od povrća)
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5513" src="/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-300x225.jpg" alt="Corba od zelja sa slaninom" width="300" height="225" /> 
 
-Priprema: zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
+**Priprema**: zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
 
 U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku. Dodati isečeno zelje i kratko propržiti.
 

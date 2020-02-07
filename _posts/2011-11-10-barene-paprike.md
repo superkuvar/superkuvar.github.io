@@ -15,7 +15,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kg mesnatih paprika srednje veličine
   * 1 litar sirćeta
@@ -25,7 +25,7 @@ Potrebno je:
   * 2 dl ulja
   * 3-4 korena rena
 
-Priprema: sirće razblažiti vodom, dodati šećer, so, biber i ulje i staviti na šednjak da provri.
+**Priprema**: sirće razblažiti vodom, dodati šećer, so, biber i ulje i staviti na šednjak da provri.
 
 Paprike oprati, skratiti im drške i svaku izbosti viljuškom na nekoliko mesta, da bi prilikom barenja tečnost ušla u paprike.
 

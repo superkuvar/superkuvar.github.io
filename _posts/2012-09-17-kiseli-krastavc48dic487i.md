@@ -17,7 +17,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma krastavčića &#8211; kornišona
   * nekoliko listova lovora
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4307" title="Kiseli kornisoni" src="/wp-content/uploads/2012/09/Kiseli-kornisoni-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krastavčićima ukloniti peteljke i osušeni ostatak cveta, a zatim dobro oprati, obrisati i ređati u tegle. U svaku teglu sa kornišonima staviti lovorov list, biber u zrnu i polovine očišćenog rena.
+**Priprema**: krastavčićima ukloniti peteljke i osušeni ostatak cveta, a zatim dobro oprati, obrisati i ređati u tegle. U svaku teglu sa kornišonima staviti lovorov list, biber u zrnu i polovine očišćenog rena.
 
 Od vode, sirćeta, šećera i soli skuvati presolac. U ohlađen presolac dodati kesicu vinobrana, pa preliti krastavčiće. Tegle povezati ili zatvoriti poklopcima i odložiti u ostavu.
 

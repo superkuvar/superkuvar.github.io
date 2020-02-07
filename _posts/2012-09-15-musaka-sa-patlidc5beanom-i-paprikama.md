@@ -21,7 +21,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 srednja plava patlidžana
   * 10-12 fileta pečenih crvenih paprika
@@ -43,7 +43,7 @@ Za bešamel sos:
 
 <img class="alignnone size-medium wp-image-4281" title="Musakasapatlidzanomipaprikama" src="/wp-content/uploads/2012/09/Musakasapatlidzanomipaprikama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti i iseći na šnite ili kolutove, posoliti i ostaviti da odstoji dvadesetak minuta. Nakon toga patlidžan dobro ocediti. Svaku krišku uvaljati u brašno i na ulju kratko propržiti.
+**Priprema**: plavi patlidžan oprati, oljuštiti i iseći na šnite ili kolutove, posoliti i ostaviti da odstoji dvadesetak minuta. Nakon toga patlidžan dobro ocediti. Svaku krišku uvaljati u brašno i na ulju kratko propržiti.
 
 U podmazanu vatrostalnu posudu poređati polovinu količine patlidžana posutog sa malo iseckanog belog luka, pa polovinu fileta pečenih paprika, a zatim narendanu šunku i izmrvljen sir. Ponoviti postupak još jednom.
 

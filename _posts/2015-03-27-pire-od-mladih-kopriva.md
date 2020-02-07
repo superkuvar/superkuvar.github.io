@@ -16,7 +16,7 @@ tags:
   - brašno
   - koprive
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 1 kilogram mladih kopriva  
 * 2 ravne kašike brašna  
 * 3 čena belog luka  
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9570" src="/wp-content/uploads/2015/03/pireodmladihkopriva-300x225.jpg" alt="pireodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/pireodmladihkopriva-e1430745927247.jpg)
 
-Priprema: koprive očistiti, dobro oprati i preliti ključalom vodom, a zatim ocediti. Kada se koprive ohlade sitno ih iseckati.
+**Priprema**: koprive očistiti, dobro oprati i preliti ključalom vodom, a zatim ocediti. Kada se koprive ohlade sitno ih iseckati.
 
 Na ulju propržiti brašno i sitno iseckan beli luk, ali paziti da ostane svetlo. U proprženo brašno dodati isečene koprive i naliti ih vodom. Treba voditi računa da se ne sipa mnogo vode, da pire ne bude redak. Posoliti i pobiberiti. Pire kuvati na umerenoj vatri, uz povremeno mešanje, dok se ne zgusne (oko 10-15 minuta).
 

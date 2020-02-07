@@ -20,7 +20,7 @@ tags:
   - oblande
   - orasi
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 list veće oblande
   * 300 grama šećera
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4586" title="Rolat sa kokosom i orasima" src="/wp-content/uploads/2011/12/Rolat-sa-kokosom-i-orasima-e1351529668508-300x230.jpg" alt="" width="300" height="230" /> 
 
-Priprema: list oblande staviti između dve vlažne platnene salvete, da omekša, da bi se lako uvio u rolat. Voditi računa da se previše ne nakvasi, jer će se raspasti.
+**Priprema**: list oblande staviti između dve vlažne platnene salvete, da omekša, da bi se lako uvio u rolat. Voditi računa da se previše ne nakvasi, jer će se raspasti.
 
 U posudu za mešenje staviti šećer, kokos, razmekšali margarin i mleko. Masu dobro ujednačiti, dodati seckane orahe i izmešati, da se sastojci dobro sjedine.
 

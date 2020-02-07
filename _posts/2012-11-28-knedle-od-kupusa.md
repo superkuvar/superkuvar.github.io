@@ -22,7 +22,7 @@ tags:
   - margarin
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 glavice svežeg kupusa (od po kilogram)
   * 400 grama oštrog brašna
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4830" title="Knedleodkupusa" src="/wp-content/uploads/2012/11/Knedleodkupusa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus očistiti, oprati i iseći na sitne rezance ili istrugati sitno na trenici.
+**Priprema**: kupus očistiti, oprati i iseći na sitne rezance ili istrugati sitno na trenici.
 
 Odvojiti kilogram kupusa, posoliti i ostaviti petnaestak minuta da odstoji, a zatim izgnječiti rukama i ocediti sok koji je pustio. U oceđeni kupus dodati jaja umućena viljuškom, kašičicu masti ili margarina, biber i brašno, pa zamesiti testo. Testo ostaviti da odstoji desetak minuta.
 

@@ -19,7 +19,7 @@ tags:
   - pirinač
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 srednje tikvice
   * 150 grama pirinča
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3517" title="Musakaodtikvicaipirinča" src="/wp-content/uploads/2011/05/Musakaodtikvicaipirinča-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, očistiti i iseći po dužini. Posoliti ih, uvaljati u brašno i ispržiti. Posebno ispržiti seckan crni luk, da dobije zlatnu boju.
+**Priprema**: tikvice oprati, očistiti i iseći po dužini. Posoliti ih, uvaljati u brašno i ispržiti. Posebno ispržiti seckan crni luk, da dobije zlatnu boju.
 
 U isprženi luk dodati pirinač i pržiti dok ne postane staklast, a zatim umešati sitno isečen oljušten paradajz, seckani beli luk, iseckanu mirođiju i malo vode. Sve kuvati dok pirinač ne nabubri.
 

@@ -17,7 +17,7 @@ tags:
   - origano
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mladi krupniji krompir (1 kg)
   * čen belog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3300" title="Mladi krompir sa mileramom" src="/wp-content/uploads/2011/06/Mladi-krompir-sa-mileramom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: mladi krompir oprati, oljuštiti, iseći na četvrtine i staviti u ključalu posoljenu vodu. Kada je krompir kuvan ocediti ga.
+**Priprema**: mladi krompir oprati, oljuštiti, iseći na četvrtine i staviti u ključalu posoljenu vodu. Kada je krompir kuvan ocediti ga.
 
 Posudu za pečenje premazati uljem, pa preručiti krompir.
 

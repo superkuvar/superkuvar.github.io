@@ -17,7 +17,7 @@ tags:
   - majoran
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * ulje
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3534" title="Dinstanetikvicesakečapom" src="/wp-content/uploads/2012/06/Dinstanetikvicesakečapom-e1340262847820-300x241.jpg" alt="" width="300" height="241" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na kocke, staviti u ključalu vodu i kratko obariti. Obarene tikvice ocediti.
+**Priprema**: tikvice oprati, oljuštiti, iseći na kocke, staviti u ključalu vodu i kratko obariti. Obarene tikvice ocediti.
 
 Na malo ulja propržiti iseckan crni luk, dodati oceđene obarene tikvice, kečap, šoljicu tople vode, so i suvi biljni začin, pa pustiti da provri.
 

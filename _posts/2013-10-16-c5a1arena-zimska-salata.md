@@ -17,7 +17,7 @@ tags:
   - paradajz
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kupus (3 kilograma)
   * zeleni paradajz (2 kg)
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6206" src="/wp-content/uploads/2013/10/Sarenazimskasalata-300x225.jpg" alt="Sarenazimskasalata" width="300" height="225" />](/wp-content/uploads/2013/10/Sarenazimskasalata.jpg)
 
-Priprema: povrće oprati i očistiti. Kupus iseći na rezance, kao za ribanac, a paprike i paradajz sitno iseckati.
+**Priprema**: povrće oprati i očistiti. Kupus iseći na rezance, kao za ribanac, a paprike i paradajz sitno iseckati.
 
 Sipati sirće u šerpu i staviti na štednjak. Kada provri, dodati šećer, šaku soli (može i manje – po ukusu) i vinobran. Sirće skloniti sa vatre i ostaviti da se ohladi.
 

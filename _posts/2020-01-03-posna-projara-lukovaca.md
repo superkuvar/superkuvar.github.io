@@ -12,7 +12,7 @@ categories:
 tags:
    -luk
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g kukuruznog belog brašna
 * decilitar ulja

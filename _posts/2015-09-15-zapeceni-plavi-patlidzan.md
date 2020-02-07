@@ -17,7 +17,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * plavi patlidžan (5 komada srednje veličine)  
 * crni luk (3 srednje glavice)  
 * brašno  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9738" src="/wp-content/uploads/2015/09/zapeceniplavipatlidzan-300x225.jpg" alt="zapeceniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2015/09/zapeceniplavipatlidzan-e1442296299168.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji oko 30 minuta. Nakon toga plavi patlidžan dobro ocediti između dlanova.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji oko 30 minuta. Nakon toga plavi patlidžan dobro ocediti između dlanova.
 
 U međuvremenu, oljuštiti crni luk i ispržiti na ulju da postane staklast. Na kraju prženja dodati šoljicu vode i pustiti da proključa. Posoliti, pobiberiti i dodati izmrvljen suvi bosiljak.
 

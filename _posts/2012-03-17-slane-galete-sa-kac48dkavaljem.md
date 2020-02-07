@@ -21,7 +21,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 2 dl ulja
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9388" src="/wp-content/uploads/2012/03/slanegaletesakackavaljem-300x225.jpg" alt="slanegaletesakackavaljem" width="300" height="225" />](/wp-content/uploads/2012/03/slanegaletesakackavaljem.jpg)
 
-Priprema: u sudu za mešenje umutiti margarin, pa dodati jaja, ulje, vodu, rendani kačkavalj, susam i brašno u koje su umešani prašak za pecivo i so. Sve sastojke sjediniti mešajući varjačom, da se dobije ređe testo. Drvenom ili plastičnom kašičicom uzimati po malo testa, stavljati u kalup za galete i peći.
+**Priprema**: u sudu za mešenje umutiti margarin, pa dodati jaja, ulje, vodu, rendani kačkavalj, susam i brašno u koje su umešani prašak za pecivo i so. Sve sastojke sjediniti mešajući varjačom, da se dobije ređe testo. Drvenom ili plastičnom kašičicom uzimati po malo testa, stavljati u kalup za galete i peći.
 
 Ove galete se mogu poslužiti kao grickalice uz pivo.
 

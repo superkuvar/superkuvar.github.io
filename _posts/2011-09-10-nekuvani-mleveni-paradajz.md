@@ -15,7 +15,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 kilograma paradajza
   * soli po ukusu
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4362" title="Mleveni paradajz" src="/wp-content/uploads/2011/09/Mleveni-paradajz-e1348467563817-300x227.jpg" alt="" width="300" height="227" /> 
 
-Priprema: zdrav, zreo paradajz, po mogućnosti &#8221;jabučar&#8221;, oprati i samleti na mašini za mlevenje mesa. Dodati so i vinobran i dobro izmešati.
+**Priprema**: zdrav, zreo paradajz, po mogućnosti &#8221;jabučar&#8221;, oprati i samleti na mašini za mlevenje mesa. Dodati so i vinobran i dobro izmešati.
 
 U dobro oprane i sterilisane flaše sipati paradajz, dodati peršunov i celerov list i po želji seckane ljute papričice, pa odozgo naliti kašičicom ulja. Flaše dobro zatvoriti i odložiti u ostavu.
 

@@ -15,7 +15,7 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šampinjoni (400 grama)
   * ulje
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1156" title="sosodpecuraka" src="/wp-content/uploads/2011/06/sosodpecuraka-e1308398375121.jpg" alt="" width="252" height="138" /> 
 
-Priprema: šampinjone oprati, očistiti, iseći na listiće i propržiti na ulju. Kada su skoro izdinstani, dodati brašno i malo mleka, pa još malo dinstati. Posoliti, pobiberiti i dodati seckani peršunov list.
+**Priprema**: šampinjone oprati, očistiti, iseći na listiće i propržiti na ulju. Kada su skoro izdinstani, dodati brašno i malo mleka, pa još malo dinstati. Posoliti, pobiberiti i dodati seckani peršunov list.
 
 Sosom od šampinjona preliti šnicle od belog pilećeg mesa, kuvani pirinač ili široke rezance.
 

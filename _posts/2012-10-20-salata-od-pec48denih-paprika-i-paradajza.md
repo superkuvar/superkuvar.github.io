@@ -20,7 +20,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 700 grama pečenih paprika
   * 3 veća paradajza
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4518" title="Salata od pecenih paprika i paradajza" src="/wp-content/uploads/2012/10/Salata-od-pecenih-paprika-i-paradajza-e1350554484123-300x241.jpg" alt="" width="300" height="241" /> 
 
-Priprema: paprike oprati i ispeći na ploči štednjaka ili u pećnici. Kada se paprike prohlade oljuštiti ih, ukloniti seme, iskidati na rezance i staviti u činiju. Po želji, mogu se dodati dve-tri iseckane ljute papričice radi pikantnog ukusa. Paprike posoliti, dodati malo peršunovog lista i preliti uljem.
+**Priprema**: paprike oprati i ispeći na ploči štednjaka ili u pećnici. Kada se paprike prohlade oljuštiti ih, ukloniti seme, iskidati na rezance i staviti u činiju. Po želji, mogu se dodati dve-tri iseckane ljute papričice radi pikantnog ukusa. Paprike posoliti, dodati malo peršunovog lista i preliti uljem.
 
 Paradajz oprati, iseći na kriške, pomešati sa isitnjenim belim lukom, posoliti, dodati malo ulja, pa sipati preko paprika. Salatu posuti seckanim peršunovim listom.
 

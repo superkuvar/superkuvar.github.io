@@ -21,7 +21,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * po 1 šolja šećera, ulja, mleka, griza i mlevenih oraha
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5449" src="/wp-content/uploads/2011/08/Engleski-socni-kolac-300x225.jpg" alt="Engleski socni kolac" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, mlevene orahe, brašno i prašak za pecivo. Sve lagano izmešati. Pripremljeno testo sipati u podmazan i brašnom posut pleh.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, mlevene orahe, brašno i prašak za pecivo. Sve lagano izmešati. Pripremljeno testo sipati u podmazan i brašnom posut pleh.
 
 Kolač peći 30 minuta na 200 stepeni, u prethodno zagrejanoj pećnici.
 

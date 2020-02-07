@@ -15,7 +15,7 @@ tags:
   - krompir
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 veze blitve
   * malo ulja
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-796" title="corbablitvakrompir" src="/wp-content/uploads/2011/03/corbablitvakrompir1-e1306826538671.jpg" alt="" width="247" height="171" /> 
 
-Priprema: očistiti i oprati listove blitve i krupno ih iseći. U lonac sipati malo ulja, dodati blitvu i dinstati je desetak minuta, uz povremeno mešanje.
+**Priprema**: očistiti i oprati listove blitve i krupno ih iseći. U lonac sipati malo ulja, dodati blitvu i dinstati je desetak minuta, uz povremeno mešanje.
 
 U drugom sudu zagrejati 1,5 litar vode, staviti kocku za supu i preliti preko blitve. U čorbu dodati začine i krompir isečen na kockice i kuvati oko 30 minuta.
 

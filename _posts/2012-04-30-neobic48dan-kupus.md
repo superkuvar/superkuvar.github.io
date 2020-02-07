@@ -18,7 +18,7 @@ tags:
   - kupus
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svež kupus (glavica od 1 kg)
   * 1 šargarepa
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3130" title="Neobičan kupus" src="/wp-content/uploads/2012/04/Neobičan-kupus-e1335780565784-300x230.jpg" alt="" width="300" height="230" /> 
 
-Priprema: kupus očistiti, oprati i sitno iseckati (kao za ribanac). Iseckan kupus staviti na zagrejano ulje, pa dodati izrendanu šargarepu i oljuštene izrendane jabuke. Naliti šoljom tople vode, poklopiti i dinstati na slabijoj vatri.
+**Priprema**: kupus očistiti, oprati i sitno iseckati (kao za ribanac). Iseckan kupus staviti na zagrejano ulje, pa dodati izrendanu šargarepu i oljuštene izrendane jabuke. Naliti šoljom tople vode, poklopiti i dinstati na slabijoj vatri.
 
 Posle tridesetak minuta u kupus dodati oljušten i izrendan krompir, posoliti, dodati suvi biljni začin, malo bibera i kim. Promešati i doliti još malo tople vode, ukoliko je potrebno. Dinstati dok kupus ne omekša. Pri kraju dinstanja dodati kašiku šećera i sok od jednog limuna.
 

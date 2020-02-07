@@ -15,7 +15,7 @@ tags:
   - kukuruzno brašno
   - maslinovo ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kukuruzno brašno (120 g)
   * pšenično brašno (180 g)
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9438" src="/wp-content/uploads/2015/02/domacetortilje-300x225.jpg" alt="domacetortilje" width="300" height="225" />](/wp-content/uploads/2015/02/domacetortilje.jpg)
 
-Priprema: u posudi za mešenje pomešati kukuruzno i pšenično brašno, dodati maslinovo ulje i posoliti po ukusu. Izmešati, a zatim uz dolivanje po malo mlake vode žicom za mućenje zamesiti testo kao za palačinke. Testo za tortilje ostaviti da odstoji oko 40 minuta.
+**Priprema**: u posudi za mešenje pomešati kukuruzno i pšenično brašno, dodati maslinovo ulje i posoliti po ukusu. Izmešati, a zatim uz dolivanje po malo mlake vode žicom za mućenje zamesiti testo kao za palačinke. Testo za tortilje ostaviti da odstoji oko 40 minuta.
 
 U dobro zagrejan veći tiganj sipati malo ulja, pa kutlačom usuti testo i peći na umerenoj vatri kao palačinke.
 

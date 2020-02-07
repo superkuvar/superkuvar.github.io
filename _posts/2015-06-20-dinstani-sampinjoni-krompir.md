@@ -17,7 +17,7 @@ tags:
   - šampinjoni
   - šargarepa
 ---
-Potrebno je:  
+**Potrebno je**:  
 * šampinjoni (300 grama)  
 * krompir (800 grama)  
 * 2 šargarepe  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9660" src="/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-300x225.jpg" alt="dinstanisampinjoniikrompir" width="300" height="225" />](/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-e1434799762913.jpg)
 
-Priprema: mladi crni luk oprati, očistiti i sitno iseći. Opranu i očišćenu šargarepu narendati na trenici.  ampinjone oprati i iseći na malo deblje listiće. Krompir oprati, oljuštiti i iseći na kockice.
+**Priprema**: mladi crni luk oprati, očistiti i sitno iseći. Opranu i očišćenu šargarepu narendati na trenici.  ampinjone oprati i iseći na malo deblje listiće. Krompir oprati, oljuštiti i iseći na kockice.
 
 Na zagrejanom ulju propržiti mladi luk i šargarepu (oko pet minuta). Dodati šampinjone, promešati, dinstati desetak minuta, a zatim dodati krompir. Naliti malo tople vode, da ogrezne, i dinstati na umerenoj temperaturi. Posoliti, pobiberiti i dodati izmrvljen bosiljak. Kada je krompir omekšao, dodati skrob razmućen u malo hladne vode, promešati i dinstati još 2-3 minuta.
 

@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 4 jajeta
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2713" title="Švedska pita" src="/wp-content/uploads/2012/03/%C5%A0vedska-pita-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti margarin, žumanca, jogurt ili slatko mleko, četiri kašike šećera, brašno i prašak za pecivo. U veći, podmazan i brašnom posut pleh rukama rastanjiti testo u koru (kao za lenju pitu).
+**Priprema**: u posudi za mešenje umutiti margarin, žumanca, jogurt ili slatko mleko, četiri kašike šećera, brašno i prašak za pecivo. U veći, podmazan i brašnom posut pleh rukama rastanjiti testo u koru (kao za lenju pitu).
 
 Jabuke oprati, oljuštiti, izrendati, pomešati sa suvim grožđem, cimetom i pet kašika šećera i rasporediti preko testa. Peći na 220 stepeni, u prethodno zagrejanoj pećnici.
 

@@ -14,7 +14,7 @@ categories:
 tags:
   - paprike
 ---
-Potrebno je:
+**Potrebno je**:
 
 crvene paprike
 

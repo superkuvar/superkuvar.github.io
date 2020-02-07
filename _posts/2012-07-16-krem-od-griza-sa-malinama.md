@@ -16,7 +16,7 @@ tags:
   - limun
   - maline
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 50 grama pšeničnog griza
   * 200-250 grama malina
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3726" title="Kremodgrizasamalinama" src="/wp-content/uploads/2012/07/Kremodgrizasamalinama-e1342435053611-300x233.jpg" alt="" width="300" height="233" /> 
 
-Priprema: sipati šećer u posudu, preliti ga sa pola litra vode i staviti na štednjak. Kada proključa umešati griz i kuvati pet-šest minuta na slabijoj vatri, uz stalno mešanje.
+**Priprema**: sipati šećer u posudu, preliti ga sa pola litra vode i staviti na štednjak. Kada proključa umešati griz i kuvati pet-šest minuta na slabijoj vatri, uz stalno mešanje.
 
 U prohlađen griz sipati sok od jednog limuna, a zatim mutiti mikserom dok masa ne pobeli. Dodati maline, prethodno izgnječene viljuškom, pa mutiti mikserom još malo da se masa homogenizuje.
 

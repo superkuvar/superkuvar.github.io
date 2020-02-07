@@ -17,7 +17,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (800 grama)
   * praziluk (3 struka)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2858" title="Musaka od praziluka i krompira" src="/wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
+**Priprema**: očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
 
 U podmazan sud ređati red krompira, red proprženog praziluka. Redove krompira posoliti i pobiberiti. U poslednjem redu treba da bude krompir.
 

@@ -17,7 +17,7 @@ tags:
   - krastavci
   - mirođija
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 krastavca
   * kiselo mleko (300 grama)
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3542" title="Taratorsalata" src="/wp-content/uploads/2012/06/Taratorsalata-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krastavce oprati, oljuštiti, narendati na krupno rende ili iseći na što sitnije kockice i posoliti.
+**Priprema**: krastavce oprati, oljuštiti, narendati na krupno rende ili iseći na što sitnije kockice i posoliti.
 
 Beli luk i mirođiju sitno iseckati, dodati ulje, pa umešati u krastavce. Sve preliti kiselim mlekom i izmešati. Salata se servira ohlađena.
 

@@ -22,7 +22,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica crnog luka
   * 2 kašike brašna
@@ -42,7 +42,7 @@ za knedle:
 
 <img class="alignnone size-medium wp-image-4402" title="Paradajzcorbaknedle" src="/wp-content/uploads/2011/03/Paradajzcorbaknedle-e1348812532624-300x236.jpg" alt="" width="300" height="236" /> 
 
-Priprema: paradajz oljuštiti i iseći na komade a luk na kolutove, naliti litar i po vode i lagano kuvati dok paradajz ne omekša. Tada sve propasirati.
+**Priprema**: paradajz oljuštiti i iseći na komade a luk na kolutove, naliti litar i po vode i lagano kuvati dok paradajz ne omekša. Tada sve propasirati.
 
 U zagrejano ulje staviti brašno, napraviti zapršku, dodati propasirani paradajz i luk, suvi biljni začin i malo šećera, pa naliti vodom u kojoj se paradajz kuvao. Čorbu kuvati na tihoj vatri i kada se izjednači, zakuvati knedle.
 

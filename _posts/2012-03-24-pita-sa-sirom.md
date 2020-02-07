@@ -17,7 +17,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kora za pitu
   * 4 jajeta
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2789" title="Pita sa sirom" src="/wp-content/uploads/2012/03/Pita-sa-sirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: dobro izmešati žumanca, izmrvljen sir, kajmak, čvrst sneg od belanaca, pa dodati ulje i malo mineralne vode.
+**Priprema**: dobro izmešati žumanca, izmrvljen sir, kajmak, čvrst sneg od belanaca, pa dodati ulje i malo mineralne vode.
 
 Dublju, malo veću šerpu podmazati uljem i na dno staviti dve kore, a zatim ređati ovlaš nagužvane kore, prelivati ih filom od sira i jaja, pa opet kore pa fil, dok se ne utroši sav materijal.
 

@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * ljute papričice-feferoni (1 kilogram)
   * sirće
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4188" title="Feferoniupresolcu" src="/wp-content/uploads/2012/09/Feferoniupresolcu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: feferone oprati i skratiti im peteljke. Kada se ocede, složiti ih u manje tegle, posuti seckanim peršunovim listom i dodati po nekoliko zrna bibera.
+**Priprema**: feferone oprati i skratiti im peteljke. Kada se ocede, složiti ih u manje tegle, posuti seckanim peršunovim listom i dodati po nekoliko zrna bibera.
 
 Od vode, sirćeta i soli skuvati presolac. Ohlađenim presolcem preliti feferone, da ogreznu. Tegle povezati celofanom ili zatvoriti poklocem.
 

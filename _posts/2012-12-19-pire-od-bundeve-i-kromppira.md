@@ -23,7 +23,7 @@ tags:
   - mleko
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kilograma bundeve
   * 1/2 kg krompira
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4913" title="Pireodbundeveikrompira" src="/wp-content/uploads/2012/12/Pireodbundeveikrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu očistiti od semenki, oljuštiti i iseći na kockice. Krompir oprati, oljuštiti i takođe iseći na kockice.
+**Priprema**: bundevu očistiti od semenki, oljuštiti i iseći na kockice. Krompir oprati, oljuštiti i takođe iseći na kockice.
 
 Pripremljeni krompir i bundevu staviti u lonac, naliti hladnom vodom, da ogreznu i dodati kašičicu soli. Kuvati dok povrće ne omekša, a zatim  ocediti i ispasirati.
 

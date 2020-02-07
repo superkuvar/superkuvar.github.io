@@ -15,7 +15,7 @@ tags:
 ---
 PLjESKAVICE OD KOPRIVE
 
-Potrebno je:
+**Potrebno je**:
 
 * 400 g mlade koprive
 * 100 g kukuruznog belog

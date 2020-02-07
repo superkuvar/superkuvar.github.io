@@ -18,7 +18,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 200 grama šećera
@@ -31,7 +31,7 @@ Potrebno je:
   * 2 kesice pudinga od vanile ili slatke pavlake
   * šlag
 
-Priprema: u sudu za mešenje umutiti jaja sa šećerom, dodati jogurt, ulje, kokos, griz, prašak za pecivo i vanilu. Izmešati varjačom da se masa ujednači, a zatim sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi oko pola sata.
+**Priprema**: u sudu za mešenje umutiti jaja sa šećerom, dodati jogurt, ulje, kokos, griz, prašak za pecivo i vanilu. Izmešati varjačom da se masa ujednači, a zatim sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi oko pola sata.
 
 Kada se kolač ohladi preliti ga pudingom, pripremljenim po uputstvu na kesici.
 

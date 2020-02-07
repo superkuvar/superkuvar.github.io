@@ -18,7 +18,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jaja
   * 4 kašike šećera
@@ -40,7 +40,7 @@ Preliv:
 
 <img class="alignnone size-medium wp-image-3332" title="Tamni mafini" src="/wp-content/uploads/2012/06/Tamni-mafini-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, pa dodati jogurt, ulje, vanilin šećer i brašno pomešano sa praškom za pecivo, skrobom i kakaom. Ubaciti suvo grožđe, prethodno oprano i natopljeno rumom. Testo za mafine dobro izmešati varjačom.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, pa dodati jogurt, ulje, vanilin šećer i brašno pomešano sa praškom za pecivo, skrobom i kakaom. Ubaciti suvo grožđe, prethodno oprano i natopljeno rumom. Testo za mafine dobro izmešati varjačom.
 
 U pleh za mafine staviti papirne korpice i sipati testo, do dve trećine svake korpice. Peći 30 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
 

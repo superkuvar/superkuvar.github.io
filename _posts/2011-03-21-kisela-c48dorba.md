@@ -47,7 +47,7 @@ Potrebno:
 
 <img class="alignnone size-full wp-image-818" title="kiselacorba" src="/wp-content/uploads/2011/03/kiselacorba.jpg" alt="" width="259" height="194" /> 
 
-Priprema: crni luk očistiti, sitno iseći i pržiti na malo ulja, da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
+**Priprema**: crni luk očistiti, sitno iseći i pržiti na malo ulja, da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
 
 Meso posoliti, pobiberiti, pa dodati beli luk i povrće iseckano na rezance. Naliti litrom i po tople vode i staviti da se kuva na umerenoj temperaturi. Čorba treba da se kuva dok meso sasvim ne omekša.
 

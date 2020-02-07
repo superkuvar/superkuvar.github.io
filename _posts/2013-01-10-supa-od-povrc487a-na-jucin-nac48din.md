@@ -23,7 +23,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 šargarepe
   * koren paškanata
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5056" src="/wp-content/uploads/2013/01/Supa-od-povrća-300x225.jpg" alt="Supa od povrća" width="300" height="225" /> 
 
-Priprema: povrće očistiti i oprati. šargarepu, paškanat i peršun iseći na kolutove, a celer na komadiće. Crni luk očistiti i iseći na kolutove.
+**Priprema**: povrće očistiti i oprati. šargarepu, paškanat i peršun iseći na kolutove, a celer na komadiće. Crni luk očistiti i iseći na kolutove.
 
 Na zagrejanom ulju kratko propržiti isitnjeno povrće, a zatim naliti sa litar i po tople vode. Kada supa provri ubaciti grašak, posoliti, dodati suvi biljni začin i biber (po želji). Smanjiti temperaturu i kuvati dok povrće ne omekša.
 

@@ -17,7 +17,7 @@ tags:
   - margarin
   - rum
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 g margarina
   * čaša od 2 dl šećera
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1568" title="kolacsmakom" src="/wp-content/uploads/2011/07/kolacsmakom-e1311066255829.jpg" alt="" width="219" height="162" /> 
 
-Priprema: u šerpi, na laganoj vatri, istopiti margarin, pa dodati šećer, mak, brašno, rum i prašak za pecivo. Sve dobro izmešati varjačom, a zatim dodati čvrst sneg od belanaca, pa opet lagano izmešati. Pleh podmazati, posuti brašnom, sipati testo i peći na 200 stepeni oko 25 minuta.
+**Priprema**: u šerpi, na laganoj vatri, istopiti margarin, pa dodati šećer, mak, brašno, rum i prašak za pecivo. Sve dobro izmešati varjačom, a zatim dodati čvrst sneg od belanaca, pa opet lagano izmešati. Pleh podmazati, posuti brašnom, sipati testo i peći na 200 stepeni oko 25 minuta.
 
 Po želji, može se napraviti glazura od 3 kašike šećera, 3 kašike mleka, 3 štangle čokolade i komada margarina u veličini jajeta. Sve malo prokuvati i preliti kolač. Kad se glazura ohladi i stegne, seći kolač na kocke ili šire štangle.
 

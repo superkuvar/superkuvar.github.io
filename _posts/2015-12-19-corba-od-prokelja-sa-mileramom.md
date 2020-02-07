@@ -18,7 +18,7 @@ tags:
   - prokelj
   - sirće
 ---
-Potrebno je:  
+**Potrebno je**:  
 * prokelj (500 grama)  
 * ulje  
 * brašno (2 kašike)  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10802" src="/wp-content/uploads/2015/12/corbaodprokeljasamileramom-300x225.jpg" alt="corbaodprokeljasamileramom" width="300" height="225" />](/wp-content/uploads/2015/12/corbaodprokeljasamileramom-e1450523861983.jpg)
 
-Priprema: prokelj očistiti, dobro oprati i staviti u ključalu posoljenu vodu kojoj je dodato pola kašičice kima. Kuvati oko desetak minuta, dok prokelj omekša, a zatim ocediti. Polovinu prokelja izgnječiti viljuškom a drugu polovinu ostaviti celu.
+**Priprema**: prokelj očistiti, dobro oprati i staviti u ključalu posoljenu vodu kojoj je dodato pola kašičice kima. Kuvati oko desetak minuta, dok prokelj omekša, a zatim ocediti. Polovinu prokelja izgnječiti viljuškom a drugu polovinu ostaviti celu.
 
 Od ulja i brašna napraviti svetlu zapršku, dodati izgnječen prokelj i naliti toplom vodom ili supom od kocke. Dodati cele glavičice prokelja, posoliti, izmešati i kuvati desetak minuta na umerenoj vatri. Pri kraju kuvanja u čorbu dodati sitno isečen beli luk i sirće.
 

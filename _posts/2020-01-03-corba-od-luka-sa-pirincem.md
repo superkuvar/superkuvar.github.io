@@ -15,7 +15,7 @@ tags:
    - luk
    - belo vino
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 600 g sitno seckanog crnog luka, 
 * 2 kašičice šećera,

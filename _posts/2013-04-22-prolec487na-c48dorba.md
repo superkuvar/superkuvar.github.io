@@ -24,7 +24,7 @@ tags:
   - šargarepa
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 šargarepe
   * manja glavica celera
@@ -42,7 +42,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5616" src="/wp-content/uploads/2013/04/Prolećna-čorba-300x225.jpg" alt="Prolećna čorba" width="300" height="225" /> 
 
-Priprema: korenasto povrće oprati, očistiti i isitniti na kockice, a spanać na rezance.
+**Priprema**: korenasto povrće oprati, očistiti i isitniti na kockice, a spanać na rezance.
 
 Na ulju propržiti mladi crni luk isečen na kolutove, da omekša, pa dodati usitnjeno povrće i naliti toplom vodom.
 

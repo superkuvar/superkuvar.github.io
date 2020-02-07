@@ -16,7 +16,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jaja
   * spanać (300 grama)
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-838" title="omletspanac" src="/wp-content/uploads/2011/03/omletspanac-e1306839943309.jpg" alt="" width="257" height="158" /> 
 
-Priprema: u posudi razmutiti jaja, dodati deo mleka i so. Polako umešati brašno da se dobije gušća smesa, koju polako razređivati ostatkom mleka. Ovako će se izbeći da se u testu naprave grudvice. Treba da se dobije testo kao za palačinke.
+**Priprema**: u posudi razmutiti jaja, dodati deo mleka i so. Polako umešati brašno da se dobije gušća smesa, koju polako razređivati ostatkom mleka. Ovako će se izbeći da se u testu naprave grudvice. Treba da se dobije testo kao za palačinke.
 
 U tiganj sipati malo ulja, pa kada se zagreje sipati testo i peći ga s obe strane.
 

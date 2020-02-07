@@ -10,7 +10,7 @@ categories:
 tags:
   - belo vino
 ---
-Potrebno je: 
+**Potrebno je**: 
 
 * 250 g mlevenih oraha
 * 250 g kristal secera
@@ -25,7 +25,7 @@ Za glazuru:
 * malo vode
 * 1 kašika ulja 
 
-Priprema: 
+**Priprema**: 
 
 Pomešati mlevene orahe sa kristal šećerom, dodati malo cimeta pa preliti belim vinom. Izmešati, pa dodavati brašno pomešano sa praškom za pecivo. Masu dobro umutiti i sipati u pleh podmazan i posut brašnom. Peći u rerni zagrejanoj na oko 200 stepeni. 
 

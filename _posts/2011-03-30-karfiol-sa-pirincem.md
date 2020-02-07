@@ -22,7 +22,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica karfiola (oko 1 kilogram)
   * 150 grama pirinča
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4499" title="Karfiol sa pirincem" src="/wp-content/uploads/2011/03/Karfiol-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Kada je kuvan, karfiol ocediti i u istoj vodi skuvati pirinač.
+**Priprema**: karfiol očistiti, oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Kada je kuvan, karfiol ocediti i u istoj vodi skuvati pirinač.
 
 Prohlađen karfiol ispasirati viljuškom, pomešati sa oceđenim pirinčem, dodati suvi biljni začin, so i iseckan peršunov list. U ovu masu umešati žumanca i čvrsto umućen sneg od belanaca, a zatim lagano izmešati.
 

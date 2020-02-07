@@ -16,7 +16,7 @@ tags:
   - sirće
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (1,5 kg)
   * ulje
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-942" title="jeloodrendanihtikvica" src="/wp-content/uploads/2011/06/jeloodrendanihtikvica-e1307103162382.jpg" alt="" width="224" height="158" /> 
 
-Priprema: tikvice oprati, oljuštiti, očistiti od semena, a zatim izrendati na krupne rezance. Poprskati ih sirćetom i ostaviti da odstoje dvadesetak minuta.
+**Priprema**: tikvice oprati, oljuštiti, očistiti od semena, a zatim izrendati na krupne rezance. Poprskati ih sirćetom i ostaviti da odstoje dvadesetak minuta.
 
 Na ulju propržiti crni luk isečen na rebarca, pa kad postane staklast, dodati brašno i još malo pržiti. Nakon toga dodati iseckanu mirođiju i naliti čašom vode. Umešati oceđene tikvice, posoliti i pirjaniti oko pola sata. Služiti kao prilog uz meso.
 

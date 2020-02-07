@@ -16,7 +16,7 @@ tags:
   - šećer
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kg bresaka
   * 3 kg šljiva
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4222" title="Dzemodbresakaisljiva" src="/wp-content/uploads/2012/09/Dzemodbresakaisljiva-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: zrele breskve, po mogućnosti vinogradarske, oprati i ukloniti koštice. Isto uraditi i sa šljivama. U veću emajliranu šerpu ređati voće i posipati šećerom, sve dok se materijal ne utroši. Ostaviti da odstoji nekoliko sati, da voće pusti sok. Nakon toga šerpu sa voćem staviti na štednjak i kuvati na jačoj vatri, uz neprestano mešanje, dok se džem ne zgusne.
+**Priprema**: zrele breskve, po mogućnosti vinogradarske, oprati i ukloniti koštice. Isto uraditi i sa šljivama. U veću emajliranu šerpu ređati voće i posipati šećerom, sve dok se materijal ne utroši. Ostaviti da odstoji nekoliko sati, da voće pusti sok. Nakon toga šerpu sa voćem staviti na štednjak i kuvati na jačoj vatri, uz neprestano mešanje, dok se džem ne zgusne.
 
 Vreo džem sipati u zagrejane sterilisane tegle i ostaviti u mlakoj pećnici da se na površini stvori korica. Ohlađene tegle sa džemom povezati celofanom ili zatvoriti poklopcima.
 

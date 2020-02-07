@@ -16,7 +16,7 @@ tags:
   - krompir
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (500 grama)
   * 2-3 krompira
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2571" title="Dinstana šargarepa sa krompirom" src="/wp-content/uploads/2011/04/Dinstana-šargarepa-sa-krompirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šargarepu očistiti, oprati i iseći na kolutove. Crni luk očistiti, iseckati i kratko propržiti na ulju samo da omekša. U propržen luk dodati šargarepu i uz povremeno dolivanje vode, poklopljeno dinstati.
+**Priprema**: šargarepu očistiti, oprati i iseći na kolutove. Crni luk očistiti, iseckati i kratko propržiti na ulju samo da omekša. U propržen luk dodati šargarepu i uz povremeno dolivanje vode, poklopljeno dinstati.
 
 Kada je šargarepa upola mekana, dodati oljušten i na kockice isečen krompir, posoliti, dodati malo suvog biljnog začina, pa dalje dinstati, povremeno mešajući, dok sve ne omekša i sok uvri.
 

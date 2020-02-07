@@ -19,7 +19,7 @@ tags:
   - brašno
   - kvasac
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama integralnog pšeničnog brašna
   * 200 grama pšeničnog brašna tip 500
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5049" src="/wp-content/uploads/2013/01/Domaćihleboodmešanogbrašna-300x225.jpg" alt="Domaćihleboodmešanogbrašna" width="300" height="225" /> 
 
-Priprema: u malo tople vode razmutiti izmrvljen kvasac, zajedno sa kašičicom šećera i dve kašičice mekog brašna. Ostaviti na toplom mestu da odstoji 15-20 minuta, da kvasac naraste.
+**Priprema**: u malo tople vode razmutiti izmrvljen kvasac, zajedno sa kašičicom šećera i dve kašičice mekog brašna. Ostaviti na toplom mestu da odstoji 15-20 minuta, da kvasac naraste.
 
 U veću posudu za mešenje staviti brašno, dodati so, napraviti udubljenje u sredini i u njega sipati nadošli kvasac. Uz postepeno dolivanje po malo mlake vode mešati varjačom da se testo ujednači. Izraditi ga rukama, uz dodavanje po malo brašna, dok ne počne da se odvaja od zidova posude. Testo treba da bude mekše. Posudu sa umešenim testom prekriti kuhinjskom salvetom. Ostaviti da testo odstoji 30 minuta.
 

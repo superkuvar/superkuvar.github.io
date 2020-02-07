@@ -19,7 +19,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mleveno meso (300 grama)
   * glavica crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3208" title="Pomešana musaka" src="/wp-content/uploads/2011/06/Pomešana-musaka-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati meso i još malo pržiti. šargarepu i tikvice očistiti, izrendati, dodati šolju kuvanog pirinča, izmešati i staviti u fil sa mesom da se malo prodinsta. Po potrebi doliti malo tople vode. Posoliti, pobiberiti, dodati malo bosiljka i seckani peršun.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati meso i još malo pržiti. šargarepu i tikvice očistiti, izrendati, dodati šolju kuvanog pirinča, izmešati i staviti u fil sa mesom da se malo prodinsta. Po potrebi doliti malo tople vode. Posoliti, pobiberiti, dodati malo bosiljka i seckani peršun.
 
 Masu izručiti u podmazan vatrostalni sud. Umutiti jaja sa mlekom, dodati kašičicu suvog biljnog začina i ovim preliti musaku. Musaku peći oko 30 minuta na 220 stepeni.
 

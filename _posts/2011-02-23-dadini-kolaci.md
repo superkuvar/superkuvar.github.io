@@ -18,7 +18,7 @@ tags:
   - vino
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -41,7 +41,7 @@ glazura
   * 5 kašika jake crne kafe
   * komadić maslaca
 
-Priprema: u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom. Zatim dodati žumanca, šećer i belo vino. Testo dobro izraditi na radnoj površini, pa ga podeliti na četiri jednaka dela.
+**Priprema**: u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom. Zatim dodati žumanca, šećer i belo vino. Testo dobro izraditi na radnoj površini, pa ga podeliti na četiri jednaka dela.
 
 Mlevene orahe pomešati sa šećerom, pa podeliti na tri jednaka dela.
 

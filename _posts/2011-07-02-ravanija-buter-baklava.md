@@ -22,7 +22,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jaja
   * po 12 kašika šećera, ulja, mleka, griza, brašna
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5392" src="/wp-content/uploads/2011/07/Ravanija1-300x225.jpg" alt="Ravanija1" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, brašno, prašak za pecivo i suvo grožđe, prethodno oprano.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz, brašno, prašak za pecivo i suvo grožđe, prethodno oprano.
 
 Masu lagano izmešati i sipati u podmazan i brašnom posut pleh. Ravaniju peći oko pola sata, u prethodno zagrejanoj rerni, na 180 stepeni, dok kolač ne dobije zlatno žutu boju.
 

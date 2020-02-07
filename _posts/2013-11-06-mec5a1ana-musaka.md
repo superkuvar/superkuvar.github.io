@@ -22,7 +22,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * juneće mleveno meso (300 grama)
   * 1 kilogram krompira
@@ -43,7 +43,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6241" src="/wp-content/uploads/2013/11/Mesanamusaka-300x225.jpg" alt="Mesanamusaka" width="300" height="225" />](/wp-content/uploads/2013/11/Mesanamusaka.jpg)
 
-Priprema: očistiti crni luk, sitno ga iseckati i propržiti na ulju. Paradajz oljuštiti, isitniti, dodati u luk i malo propržiti.
+**Priprema**: očistiti crni luk, sitno ga iseckati i propržiti na ulju. Paradajz oljuštiti, isitniti, dodati u luk i malo propržiti.
 
 Tikvice i patlidžan oprati, oljuštiti i iseći na kockice. Paprike takođe oprati i isitniti na kockice. Isitnjeno povrće dodati u luk i paradajz i dinstati dok povrće malo ne omekša.
 

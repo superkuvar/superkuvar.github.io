@@ -18,7 +18,7 @@ tags:
   - prezle
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 mladih tikvica
   * 100 grama pirinča
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3739" title="Zapečenetikvicesapirinčem" src="/wp-content/uploads/2012/07/Zapečenetikvicesapirinčem-e1342523591730-300x224.jpg" alt="" width="300" height="224" /> 
 
-Priprema: tikvice oprati, oljuštiti i iseći na kolutove. Propržiti ih na ulju sa seckanim belim lukom.
+**Priprema**: tikvice oprati, oljuštiti i iseći na kolutove. Propržiti ih na ulju sa seckanim belim lukom.
 
 Pirinač oprati, skuvati, ocediti i dodati u tikvice. Posoliti, dodati suvi biljni začin, biber, seckani peršunov list, izmešati i sipati u podmazanu posudu za pečenje.
 

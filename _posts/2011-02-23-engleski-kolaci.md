@@ -18,7 +18,7 @@ tags:
   - suvo groždje
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -45,7 +45,7 @@ premaz
   * 2 žumanca
   * 50 g oštrog brašna
 
-Priprema: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
+**Priprema**: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
 
 Fil: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
 

@@ -15,7 +15,7 @@ tags:
   - limun
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 čaše (od jogurta) vode
   * 1 čaša ulja
@@ -33,7 +33,7 @@ Preliv:
 
 <img class="alignnone size-medium wp-image-1786" title="tulumbe iz rerne 1" src="/wp-content/uploads/2011/08/tulumbe-iz-rerne-1-e1314014391548.jpg" alt="" width="260" height="130" /> 
 
-Priprema: dve čaše vode i čašu ulja sipati u šerpu i staviti na ringlu da provri, pa postepeno dodavati brašno (2 čaše brašna od kojih oduzeti 4 kašike i umesto njih staviti 4 kašike griza).
+**Priprema**: dve čaše vode i čašu ulja sipati u šerpu i staviti na ringlu da provri, pa postepeno dodavati brašno (2 čaše brašna od kojih oduzeti 4 kašike i umesto njih staviti 4 kašike griza).
 
 Smesu dobro izmešati da nema grudvica, ostaviti da se ohladi, pa dodati prašak za pecivo i jedno po jedno jaje i dobro umutiti.
 

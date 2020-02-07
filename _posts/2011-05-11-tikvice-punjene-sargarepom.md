@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (1 kilogram)
   * šargarepa (250 grama)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2898" title="Tikvice punjene šargarepom" src="/wp-content/uploads/2011/05/Tikvice-punjene-šargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti i izdubiti. Ukoliko su mlade, ne treba ih ljuštiti. Očišćenu šargarepu izrendati, dodati sitno iseckanu sredinu od tikvica, oljušten i isečen paradajz, malo iseckane mirođije, pa na zagrejanom ulju propržiti da povrće omekne. Dodati šoljicu opranog pirinča, pa još malo propržiti. Posoliti, dodati suvi biljni začin, pa ovim nadevom puniti izdubljene tikvice.
+**Priprema**: tikvice oprati, oljuštiti i izdubiti. Ukoliko su mlade, ne treba ih ljuštiti. Očišćenu šargarepu izrendati, dodati sitno iseckanu sredinu od tikvica, oljušten i isečen paradajz, malo iseckane mirođije, pa na zagrejanom ulju propržiti da povrće omekne. Dodati šoljicu opranog pirinča, pa još malo propržiti. Posoliti, dodati suvi biljni začin, pa ovim nadevom puniti izdubljene tikvice.
 
 Napunjene tikvice poređati u šerpu, preliti zaprškom od ulja i dve kašike brašna, naliti toplom vodom ili supom, da ogreznu, i kuvati na umerenoj temperaturi.
 

@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 tikvice
   * 2 šargarepe
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5857" src="/wp-content/uploads/2013/07/Kremcorbaodtikvicaisargarepe-300x225.jpg" alt="Kremcorbaodtikvicaisargarepe" width="300" height="225" /> 
 
-Priprema: tikvice i šargarepu oprati, očistiti i iseći na komade odnosno na kolutove. Isitnjeno povrće staviti u lonac, naliti litrom vode, dodati sitno iseckanu glavicu crnog luka, posoliti po ukusu i staviti da se kuva.
+**Priprema**: tikvice i šargarepu oprati, očistiti i iseći na komade odnosno na kolutove. Isitnjeno povrće staviti u lonac, naliti litrom vode, dodati sitno iseckanu glavicu crnog luka, posoliti po ukusu i staviti da se kuva.
 
 Kada povrće omekša, usitniti ga blenderom. Ukoliko nemate blender, povrće izvaditi iz vode i izgnječiti viljuškom ili propasirati i vratiti nazad u lonac sa tečnošću.
 

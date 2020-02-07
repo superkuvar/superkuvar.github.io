@@ -16,7 +16,7 @@ tags:
   - peršun
   - šnicle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama junećih šnicli
   * veza peršuna
@@ -27,7 +27,7 @@ Potrebno je:
   * brašno
   * ulje
 
-Priprema: šnicle izlupati tučkom da budu tanke, posoliti, pobiberiti, uvaljati u brašno i pržiti sa obe strane.
+**Priprema**: šnicle izlupati tučkom da budu tanke, posoliti, pobiberiti, uvaljati u brašno i pržiti sa obe strane.
 
 Pekač ili dublju šerpu podmazati uljem, poređati šnicle, a preko njih posuti seckani peršunov list i iseckan beli luk.  nicle odozgo naliti sokom od paradajza i doliti šolju vode. Sud poklopiti i staviti u rernu, prethodno zagrejanu na 200 stepeni.
 

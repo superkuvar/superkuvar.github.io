@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - pileće meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama pilećeg mesa
   * boranija (1 kilogram)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3134" title="Boranija sa piletinom" src="/wp-content/uploads/2011/06/Boranija-sa-piletinom-e1335781992103-300x243.jpg" alt="" width="300" height="243" /> 
 
-Priprema: crni luk očistiti i sitno iseckati, šargarepu oprati, očistiti i izrendati. Piletinu iseći na komade, pa sve zajedno propržiti na vrelom ulju. Smanjiti temperaturu i dinstati poklopljeno, uz povremeno mešanje i dolivanje po malo tople vode.
+**Priprema**: crni luk očistiti i sitno iseckati, šargarepu oprati, očistiti i izrendati. Piletinu iseći na komade, pa sve zajedno propržiti na vrelom ulju. Smanjiti temperaturu i dinstati poklopljeno, uz povremeno mešanje i dolivanje po malo tople vode.
 
 Boraniju oprati, očistiti i dodati u napola omekšalu piletinu, naliti vodom da ogrezne, pa i dalje dinstati. Pred kraj posoliti, dodati suvi biljni začin po ukusu i malo bosiljka.
 

@@ -16,7 +16,7 @@ tags:
   - šećer
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 kilograma šljiva
   * 1,5 kg šećera
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4208" title="Dzem od ljust.sljiva" src="/wp-content/uploads/2012/09/Dzem-od-ljust.sljiva-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: odabrati zrele, ali ne mnogo mekane šljive, oprati ih i oljuštiti. Odstraniti koštice, pa polovine šljiva ređati u veću emajliranu šerpu, preliti sokom od limuna i posuti šećerom.  erpu prekriti čistom platnenom krpom i ostaviti na hladnom mestu.
+**Priprema**: odabrati zrele, ali ne mnogo mekane šljive, oprati ih i oljuštiti. Odstraniti koštice, pa polovine šljiva ređati u veću emajliranu šerpu, preliti sokom od limuna i posuti šećerom.  erpu prekriti čistom platnenom krpom i ostaviti na hladnom mestu.
 
 Sutradan šljive kuvati na umerenoj temperaturi oko četrdeset minuta, neprestano mešajući varjačom. Pri kraju kuvanja, po želji, u džem dodati šipku vanile ili čašicu ruma.
 

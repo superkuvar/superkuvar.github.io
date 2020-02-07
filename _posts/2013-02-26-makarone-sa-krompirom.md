@@ -23,7 +23,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg krompira
   * 400 grama makarona
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5354" src="/wp-content/uploads/2013/02/Makaronesakrompirom-300x225.jpg" alt="Makaronesakrompirom" width="300" height="225" /> 
 
-Priprema: opran, neoljušten krompir obariti u malo posoljenoj vodi. Kada se krompir malo ohladi oljuštiti ga i iseći na kolutove.
+**Priprema**: opran, neoljušten krompir obariti u malo posoljenoj vodi. Kada se krompir malo ohladi oljuštiti ga i iseći na kolutove.
 
 Makarone skuvati u posoljenoj vodi, a zatim ocediti.
 

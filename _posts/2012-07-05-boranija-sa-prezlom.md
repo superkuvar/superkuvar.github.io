@@ -16,7 +16,7 @@ tags:
   - boranija
   - prezle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama boranije (sveže ili zamrznute)
   * 1 glavica crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3658" title="Boranijasaprezlom" src="/wp-content/uploads/2012/07/Boranijasaprezlom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: boraniju očistiti, oprati, iseći na manje komade i obariti u slanoj vodi. Kada boranija omekša, ocediti je.
+**Priprema**: boraniju očistiti, oprati, iseći na manje komade i obariti u slanoj vodi. Kada boranija omekša, ocediti je.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati oceđenu boraniju, suvi biljni začin, seckani beli luk i biber i još kratko propržiti.
 

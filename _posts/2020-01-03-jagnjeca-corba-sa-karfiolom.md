@@ -13,7 +13,7 @@ categories:
 tags:
    - karfiol
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g jagnjećeg mesa 
 * 2 dl ulja

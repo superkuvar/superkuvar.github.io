@@ -17,7 +17,7 @@ tags:
   - praziluk
   - riba
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šolja pirinča
   * 2 struka praziluka ili veća glavica crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4239" title="Pilavsafiletimaribe" src="/wp-content/uploads/2011/03/Pilavsafiletimaribe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: praziluk i papriku oprati, očistiti i sitno iseckati. šargarepu oprati, očistiti i izrendati.
+**Priprema**: praziluk i papriku oprati, očistiti i sitno iseckati. šargarepu oprati, očistiti i izrendati.
 
 Na zagrejano ulje staviti isitnjen praziluk i kratko ga pržiti, a zatim dodati isitnjenu papriku i narendanu šargarepu i dinstati dok povrće ne omekša. Dodati sok od paradajza, posoliti i pobiberiti po ukusu.
 

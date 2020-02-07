@@ -18,7 +18,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 300 grama šećera
@@ -29,6 +29,6 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1473" title="stangliceskeksomiorasima" src="/wp-content/uploads/2011/07/stangliceskeksomiorasima-e1310729940205.jpg" alt="" width="212" height="156" /> 
 
-Priprema: na pari, uz stalno mešanje, skuvati ređi krem od jaja i šećera, pa ubaciti paklicu margarina da se rastopi. Skloniti sa vatre i umešati mleveni keks i orahe. Na radnoj površini, na aluminijumskoj foliji, rastanjiti pripremljenu masu u koru debljine dva santimetra.
+**Priprema**: na pari, uz stalno mešanje, skuvati ređi krem od jaja i šećera, pa ubaciti paklicu margarina da se rastopi. Skloniti sa vatre i umešati mleveni keks i orahe. Na radnoj površini, na aluminijumskoj foliji, rastanjiti pripremljenu masu u koru debljine dva santimetra.
 
 U šerpicu staviti izlomljenu čokoladu, komad margarina veličine oraha (ili dve kašike ulja) i dve kašike šećera, pa na tihoj vatri kuvati, da se čokolada istopi. Ovom glazurom preliti koru. Ostaviti da se ohladi, pa seći na štanglice ili kocke, po želji.

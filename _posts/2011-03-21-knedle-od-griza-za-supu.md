@@ -15,7 +15,7 @@ tags:
   - margarin
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * margarin (kašičica)
   * 2 jaja
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-768" title="knedlezasupu" src="/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg" alt="" width="300" height="150" srcset="/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg 300w, /wp-content/uploads/2011/03/knedlezasupu.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-Priprema: dobro umutiti margarin sa žumancima. Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
+**Priprema**: dobro umutiti margarin sa žumancima. Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
 
 U supu koja vri kašičicom spustiti jednu knedlu, pa ako se ne raspadne, spuštati i druge knedle da se kuvaju. Ukoliko se prva knedla raspadne, to je znak da u testo treba dodati još malo griza.
 

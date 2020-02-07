@@ -24,7 +24,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 12 kašika šećera
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5307" src="/wp-content/uploads/2013/02/Dvobojni-kolač-300x225.jpg" alt="Dvobojni kolač" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje dobro umutiti jaja sa šećerom. Dodati ulje, mleko, koricu i sok od limuna, a zatim brašno pomešano sa praškom za pecivo. Varjačom dobro izmešati masu i podeliti je na dva jednaka dela. U jedan deo testa umešati kakao.
+**Priprema**: u posudi za mešenje dobro umutiti jaja sa šećerom. Dodati ulje, mleko, koricu i sok od limuna, a zatim brašno pomešano sa praškom za pecivo. Varjačom dobro izmešati masu i podeliti je na dva jednaka dela. U jedan deo testa umešati kakao.
 
 U pleh prekriven papirom za pečenje sipati žuto testo, pa preko njega tamno. Kolač staviti u pećnicu zagrejanu na 200 stepeni i peći oko 45 minuta.
 

@@ -20,7 +20,7 @@ tags:
   - rezanci
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama rezanaca
   * ulje
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5388" src="/wp-content/uploads/2013/03/Rezanci-sa-šećerom-300x225.jpg" alt="Rezanci sa šećerom" width="300" height="225" /> 
 
-Priprema: skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
+**Priprema**: skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
 
 U međuvremenu, u šerpi zagrejati malo ulja, dodati 3-4 kašike prezli i pržiti nekoliko minuta, na umerenoj temperaturi.
 

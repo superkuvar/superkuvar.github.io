@@ -18,7 +18,7 @@ tags:
   - margarin
   - šećer
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 250 grama margarina
@@ -39,7 +39,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-4018" title="Kolacsakokosomijabukama" src="/wp-content/uploads/2012/08/Kolacsakokosomijabukama-e1345303166199-300x220.jpg" alt="" width="300" height="220" /> 
 
-Priprema: u posudi za mešenje umutiti penasto margarin sa šećerom, pa dodati žumanca, mleko i brašno pomešano sa praškom za pecivo. Umesiti testo i podeliti ga na dva dela.
+**Priprema**: u posudi za mešenje umutiti penasto margarin sa šećerom, pa dodati žumanca, mleko i brašno pomešano sa praškom za pecivo. Umesiti testo i podeliti ga na dva dela.
 
 Prvi deo testa rastanjiti po dnu podmazanog i brašnom posutog pleha. Preko njega rasporediti narendane jabuke, prethodno prodinstane na margarinu sa malo soka od limuna. Po želji, pre fila od jabuka, testo se može premazati pekmezom ili džemom.
 

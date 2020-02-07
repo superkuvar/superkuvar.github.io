@@ -18,7 +18,7 @@ tags:
   - paradajz
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama mlevenog mesa
   * kriška bajatog hleba
@@ -33,7 +33,7 @@ Potrebno je:
   * 2 paradajza
   * ulje
 
-Priprema: mleveno meso začiniti solju, suvim biljnim začinom i biberom. Dodati jaje i hleb, prethodno na kratko potopljen u toplu vodu i dobro oceđen. Masu dobro izmesiti, praviti ćufte i uvaljati ih u prezlu.
+**Priprema**: mleveno meso začiniti solju, suvim biljnim začinom i biberom. Dodati jaje i hleb, prethodno na kratko potopljen u toplu vodu i dobro oceđen. Masu dobro izmesiti, praviti ćufte i uvaljati ih u prezlu.
 
 Vatrostalnu posudu namazati uljem, sipati polovinu graška, preko toga poređati ćufte i pokriti ih preostalim graškom. Odozgo narezati oljušten paradajz, naliti vodom da ogrezne i peći na umerenoj temperaturi.
 

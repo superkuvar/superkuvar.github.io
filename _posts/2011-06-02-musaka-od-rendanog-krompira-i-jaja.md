@@ -23,7 +23,7 @@ tags:
   - muskatni oraščić
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * 5 tvrdo kuvanih jaja
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5591" src="/wp-content/uploads/2011/06/Musakaodrendanogkrompiraijaja-300x225.jpg" alt="Musakaodrendanogkrompiraijaja" width="300" height="225" /> 
 
-Priprema: crni luk  očistiti i sitno iseckati, pa  propržiti na ulju. U propržen luk dodati so, biber, alevu papriku i muskatni oraščić, po ukusu.
+**Priprema**: crni luk  očistiti i sitno iseckati, pa  propržiti na ulju. U propržen luk dodati so, biber, alevu papriku i muskatni oraščić, po ukusu.
 
 Krompir oprati, oljuštiti i narendati na krupno rende.
 

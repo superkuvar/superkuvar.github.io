@@ -19,7 +19,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice srednje veličine
   * šoljica pirinča
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5920" src="/wp-content/uploads/2013/07/Tikvicesapirincemisirom-300x225.jpg" alt="Tikvicesapirincemisirom" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na deblje kolutove i obariti u slanoj vodi. Nakon toga staviti ih u cediljku da se dobro ocede.
+**Priprema**: tikvice oprati, oljuštiti, iseći na deblje kolutove i obariti u slanoj vodi. Nakon toga staviti ih u cediljku da se dobro ocede.
 
 Oceđene tikvice pomešati sa obarenim pirinčem.
 

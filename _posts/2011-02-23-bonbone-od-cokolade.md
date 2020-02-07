@@ -17,7 +17,7 @@ tags:
   - rum
   - višnje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 150 grama čokolade za jelo i kuvanje
   * 150 g mlevenih oraha
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8996" src="/wp-content/uploads/2011/02/bombiceodcokolade-300x225.jpg" alt="bombiceodcokolade" width="300" height="225" />](/wp-content/uploads/2011/02/bombiceodcokolade.jpg)
 
-Priprema: belance penasto umutiti, ali ne previše čvrsto. U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer. Masu lagano izmešati, da se sastojci sjedine. Otkidati komade veličine oraha i praviti kuglice.
+**Priprema**: belance penasto umutiti, ali ne previše čvrsto. U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer. Masu lagano izmešati, da se sastojci sjedine. Otkidati komade veličine oraha i praviti kuglice.
 
 U sredinu svake kuglice-bombice staviti po jednu višnju iz slatka. Zatim svaku bombicu uvaljati u rendanu čokoladu izmešanu sa kristal šećerom.
 

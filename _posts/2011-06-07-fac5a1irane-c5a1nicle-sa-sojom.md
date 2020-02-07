@@ -19,7 +19,7 @@ tags:
   - mleveno meso
   - sojine ljuspice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama mešanog mlevenog mesa
   * 80 grama sojinih ljuspica
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-971" title="fasiranesniclemesano" src="/wp-content/uploads/2011/06/fasiranesniclemesano-e1307445012599.jpg" alt="" width="212" height="170" /> 
 
-Priprema: sojine ljuspice preliti mlakom vodom i ostaviti da odstoje dvadeset minuta, a zatim ih dobro ocediti.
+**Priprema**: sojine ljuspice preliti mlakom vodom i ostaviti da odstoje dvadeset minuta, a zatim ih dobro ocediti.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju, da postane staklast.
 

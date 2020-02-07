@@ -19,7 +19,7 @@ tags:
   - paradajz
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 manja plava patlidžana
   * 250 grama junećeg mlevenog mesa
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4313" title="Punjeni plavi patlidzan" src="/wp-content/uploads/2012/09/Punjeni-plavi-patlidzan-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, neoljušten prepoloviti po dužini, kašičicom izdubiti sredinu, a zatim kratko izblanširati u slanoj vodi i ocediti.
+**Priprema**: plavi patlidžan oprati, neoljušten prepoloviti po dužini, kašičicom izdubiti sredinu, a zatim kratko izblanširati u slanoj vodi i ocediti.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju, dodati sitno isečen oljušten paradajz i pirjaniti desetak minuta.
 

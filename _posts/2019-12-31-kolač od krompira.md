@@ -12,7 +12,7 @@ tags:
    - krompir
    - čokolada 
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 1 kg krompira
 * 500 g šećera u prahu
@@ -28,7 +28,7 @@ Za glazuru:
  
 
 
-Priprema: 
+**Priprema**: 
 
 Krompir oprati i obariti u ljusci. Skuvan oljuštiti i dobro propasirati. Margarin dobro izrajbovati, uz postepeno dodavanje šećera u prahu.
 

@@ -24,7 +24,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama spanaća
   * 2 jajeta
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5754" src="/wp-content/uploads/2013/06/Zeleneprojice-300x225.jpg" alt="Zeleneprojice" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati, kratko obariti, ocediti i kada se ohladi isitniti na rezance. Količina spanaća u receptu odnosi se na obaren spanać.
+**Priprema**: spanać očistiti, oprati, kratko obariti, ocediti i kada se ohladi isitniti na rezance. Količina spanaća u receptu odnosi se na obaren spanać.
 
 U posudi za mešenje umutiti jaja, pa dodati ulje, jogurt, so i narendani muskatni oraščić. Izmešati varjačom da se sastojci sjedine, a zatim sipati brašno pomešano sa praškom za pecivo. Testo dobro izmešati, a zatim dodati izmrvljen sir i iseckan spanać.
 

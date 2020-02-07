@@ -17,7 +17,7 @@ tags:
   - orasi
   - rum
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama mlevenih oraha
   * 2 belanceta
@@ -31,7 +31,7 @@ Za fil:
   * 2 tvrdo kuvana žumanca
   * kašičica (ili nekoliko kapi ekstrakta) ruma
 
-Priprema: umutiti sneg od belanaca, ali ne preterano čvrst, postepeno dodajući šećer u prahu, a zatim umešati orahe i narendanu čokoladu. Dobijenu masu rastanjiti na aluminijumskoj foliji ili na radnoj površini posutoj šećerom u prahu.
+**Priprema**: umutiti sneg od belanaca, ali ne preterano čvrst, postepeno dodajući šećer u prahu, a zatim umešati orahe i narendanu čokoladu. Dobijenu masu rastanjiti na aluminijumskoj foliji ili na radnoj površini posutoj šećerom u prahu.
 
 Napraviti fil na sledeći način: penasto umutiti margarin sa šećerom u prahu, pa dodati rum (po želji) i ispasirana žumanca. Žumanca je najbolje ispasirati na plastičnoj cediljki za čaj, tada se dobije fina masa bez grudvica.
 

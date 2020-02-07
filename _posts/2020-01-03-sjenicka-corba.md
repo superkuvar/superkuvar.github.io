@@ -13,7 +13,7 @@ categories:
 tags:
    -
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g ovčijeg mesa
 * 2 kašike brašna,

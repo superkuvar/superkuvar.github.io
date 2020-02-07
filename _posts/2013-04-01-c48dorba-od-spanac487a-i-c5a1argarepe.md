@@ -20,7 +20,7 @@ tags:
   - šargarepa
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama spanaća
   * 1 glavica crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5550" src="/wp-content/uploads/2013/04/Corbaodspanacaisargarepe-300x225.jpg" alt="Corbaodspanacaisargarepe" width="300" height="225" /> 
 
-Priprema: na vrelom ulju propržiti sitno seckani crni luk. šargarepu oprati, očistiti i narendati, dodati u luk i još malo pržiti.
+**Priprema**: na vrelom ulju propržiti sitno seckani crni luk. šargarepu oprati, očistiti i narendati, dodati u luk i još malo pržiti.
 
 U propržen luk i šargarepu dodati prethodno opran i isitnjen spanać, pa još kratko pržiti. Sipati litar i po vrele vode, posoliti i pobiberiti po ukusu. Čorbu kuvati na tihoj vatri 20 minuta.
 

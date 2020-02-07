@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5-6 komada svežih paprika
   * 200 grama belog sira
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3569" title="Salataodsvežihpaprikasasirom" src="/wp-content/uploads/2012/06/Salataodsvežihpaprikasasirom-e1340269454692-300x232.jpg" alt="" width="300" height="232" /> 
 
-Priprema: papriku oprati, očistiti od peteljki i semena i iseći na rezance. U posebnoj posudi viljuškom izgnječiti sir, dodari malo ulja, bibera i soli ukoliko je potrebno. Izmešati iseckanu papriku sa sirom i uljem i sipati u činiju za salatu, a odozgo posuti iseckanim peršunovim listom.
+**Priprema**: papriku oprati, očistiti od peteljki i semena i iseći na rezance. U posebnoj posudi viljuškom izgnječiti sir, dodari malo ulja, bibera i soli ukoliko je potrebno. Izmešati iseckanu papriku sa sirom i uljem i sipati u činiju za salatu, a odozgo posuti iseckanim peršunovim listom.
 
 Salata od sveže paprike služi se hladna.
 

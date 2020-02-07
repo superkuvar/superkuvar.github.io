@@ -17,7 +17,7 @@ tags:
   - limunov sok
   - senf
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama cvekle
   * čaša kisele pavlake (od 2 dl)
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2351" title="Cvekla sa pavlakom# (2)" src="/wp-content/uploads/2012/01/Cvekla-sa-pavlakom-2-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice. Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
+**Priprema**: cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice. Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
 
 Salatu od cvekle servirati ohlađenu.
 

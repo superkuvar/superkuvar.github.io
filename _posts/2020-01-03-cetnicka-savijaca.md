@@ -13,7 +13,7 @@ categories:
 tags:
    - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g brašna
 * 300 g sira

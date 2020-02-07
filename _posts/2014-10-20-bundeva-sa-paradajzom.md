@@ -19,7 +19,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva (500 grama)
   * 4 paradajza
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9286" src="/wp-content/uploads/2014/10/bundevasaparadajzom-300x225.jpg" alt="bundevasaparadajzom" width="300" height="225" />](/wp-content/uploads/2014/10/bundevasaparadajzom.jpg)
 
-Priprema: praziluk očistiti, sitno iseckati i propržiti na malo ulja. Bundevu oljuštiti, oprati i iseći na kockice. Paradajz oljuštiti i sitno iseckati ili narendati na krupno rende. Ukoliko nemate svež paradajz, može se upotrebiti paradajz pelat ili kuvani paradajz iz zimnice. Posebno obariti u slanoj vodi pirinač i ocediti ga.
+**Priprema**: praziluk očistiti, sitno iseckati i propržiti na malo ulja. Bundevu oljuštiti, oprati i iseći na kockice. Paradajz oljuštiti i sitno iseckati ili narendati na krupno rende. Ukoliko nemate svež paradajz, može se upotrebiti paradajz pelat ili kuvani paradajz iz zimnice. Posebno obariti u slanoj vodi pirinač i ocediti ga.
 
 U propržen praziluk dodati kockice bundeve i paradajz, sipati malo vode i poklopljeno dinstati na umerenoj temperaturi. Posoliti, dodati biber i sitno iseckan beli luk, pa nastaviti sa dinstanjem dok bundeva ne bude mekana.
 

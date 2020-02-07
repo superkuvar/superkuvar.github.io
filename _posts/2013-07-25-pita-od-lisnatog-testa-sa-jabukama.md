@@ -21,7 +21,7 @@ tags:
   - margarin
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zamrznuto lisnato testo (500 g)
   * 4 veće kisele jabuke
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5934" src="/wp-content/uploads/2013/07/Pitasajabukamaodlisnatogtesta-300x225.jpg" alt="Pitasajabukamaodlisnatogtesta" width="300" height="225" /> 
 
-Priprema: jabuke oprati, oljuštiti, narendati na krupno rende i prodinstati na margarinu sa malo šećera i sokom od limuna. U prohlađene jabuke dodati suvo grožđe, cimet, mleveni keks i pola kašičice đumbira u prahu.
+**Priprema**: jabuke oprati, oljuštiti, narendati na krupno rende i prodinstati na margarinu sa malo šećera i sokom od limuna. U prohlađene jabuke dodati suvo grožđe, cimet, mleveni keks i pola kašičice đumbira u prahu.
 
 Lisnato testo ostaviti oko 30 minuta na sobnoj temperaturi da se odmrzne. Kada omekša, razviti ga oklagijom u pravougaonu koru debljine oko pola santimetra, poprskati sa malo ulja i premazati nadevom.
 

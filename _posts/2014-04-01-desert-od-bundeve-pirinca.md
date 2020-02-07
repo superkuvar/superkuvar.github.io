@@ -18,7 +18,7 @@ tags:
   - pirinač
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva (500 grama)
   * pirinač (šolja)
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9083" src="/wp-content/uploads/2014/04/desertodpirincaibundeve-300x225.jpg" alt="desertodpirincaibundeve" width="300" height="225" />](/wp-content/uploads/2014/04/desertodpirincaibundeve.jpg)
 
-Priprema: bundevu oljuštiti, oprati i skuvati u malo vode, a zatim ocediti. Kada se bundeva ohladi ispasirati je.
+**Priprema**: bundevu oljuštiti, oprati i skuvati u malo vode, a zatim ocediti. Kada se bundeva ohladi ispasirati je.
 
 Pirinač oprati i staviti u tri šolje ključale malo posoljene vode. Kuvati na tihoj vatri 15 minuta, a zatim ocediti.
 

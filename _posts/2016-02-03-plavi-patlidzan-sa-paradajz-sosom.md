@@ -35,7 +35,7 @@ tags:
   - paradajz
   - plavi patlidžan
 ---
-Potrebno je:  
+**Potrebno je**:  
 * plavi patlidžan (1 kilogram)  
 * crni luk (1 glavica)  
 * paradajz (4 srednje veličine)  
@@ -48,7 +48,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-12862" src="/wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-300x225.jpg" alt="plavipatlidzansaparadajzsosom" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim pritiskanjem između dlanova ocediti kriške patlidžana od vode koju je pustio.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim pritiskanjem između dlanova ocediti kriške patlidžana od vode koju je pustio.
 
 Crni luk očistiti, iseći na rebarca i propržiti na ulju. Paradajz oljuštiti, sitno iseći i dodati u propržen crni luk. Nastaviti sa dinstanjem dok se sos ne zgusne. Posoliti, pobiberiti i dodati malo bosiljka i isitnjen beli luk.
 

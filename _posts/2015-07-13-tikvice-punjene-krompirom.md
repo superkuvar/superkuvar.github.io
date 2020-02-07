@@ -16,7 +16,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:  
+**Potrebno je**:  
 * mlade tikvice (1 kg)  
 * krompir (500 grama)  
 * 2 šargarepe  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9681" src="/wp-content/uploads/2015/07/tikvicepunjenekrompirom-300x225.jpg" alt="tikvicepunjenekrompirom" width="300" height="225" />](/wp-content/uploads/2015/07/tikvicepunjenekrompirom-e1436796154880.jpg)
 
-Priprema: tikvice oprati, oljuštiti, ukoliko su veće iseći popreko na pola, pa svaku polovinu pomoću kašičice pažljivo izdubiti. Crni luk oljuštiti, iseći na rebarca i propržiti na ulju. šargarepu i krompir očistiti, oprati, narendati na trenici, pa dodati u propržen luk i još kratko pržiti. Posoliti, pobiberiti i dodati sitno isečen beli luk i peršunov list.
+**Priprema**: tikvice oprati, oljuštiti, ukoliko su veće iseći popreko na pola, pa svaku polovinu pomoću kašičice pažljivo izdubiti. Crni luk oljuštiti, iseći na rebarca i propržiti na ulju. šargarepu i krompir očistiti, oprati, narendati na trenici, pa dodati u propržen luk i još kratko pržiti. Posoliti, pobiberiti i dodati sitno isečen beli luk i peršunov list.
 
 Pripremljenom masom od krompira puniti izdubljene tikvice i svaku zatvoriti kolutom paradajza ili krompira.
 

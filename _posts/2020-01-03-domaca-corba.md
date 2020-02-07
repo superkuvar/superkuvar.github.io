@@ -13,7 +13,7 @@ categories:
 tags:
    - kopriva
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 200 g junećeg mesa 
 * 200 g mlade koprive 

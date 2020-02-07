@@ -17,7 +17,7 @@ tags:
   - vino
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * vezica peršunovog lista
@@ -28,7 +28,7 @@ Potrebno je:
   * 1 decilitar sirćeta
   * 1 decilitar belog vina
 
-Priprema: u posudu staviti senf, so i biber i lagano, uz mešanje, dodavati ulje, sirće i vino. Zatim dodati sitno iseckana tvrdo kuvana jaja i iseckan peršunov list. Promešati.
+**Priprema**: u posudu staviti senf, so i biber i lagano, uz mešanje, dodavati ulje, sirće i vino. Zatim dodati sitno iseckana tvrdo kuvana jaja i iseckan peršunov list. Promešati.
 
 Ovaj sos se služi uz tikvice, špargle, artičoke, pečurke, boraniju i razne salate.
 

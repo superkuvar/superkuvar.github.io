@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - soja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 veća glavica kupusa
   * 100 grama komadića soje
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3197" title="Kupus sa sojom" src="/wp-content/uploads/2012/05/Kupus-sa-sojom-e1336649862385-300x228.jpg" alt="" width="300" height="228" /> 
 
-Priprema: na ulju propržiti sitno seckani crni luk, pa dodati očišćen kupus isečen na manje komade i naliti vodom da ogrezne.
+**Priprema**: na ulju propržiti sitno seckani crni luk, pa dodati očišćen kupus isečen na manje komade i naliti vodom da ogrezne.
 
 Krompir i šargarepu oprati, očistiti i iseći (šargarepu na kolutove, a krompir na četvrtine), pa dodati u kupus. Posoliti, dodati kratko prokuvane komadiće soje, suvi biljni začin, lovorov list, malo bibera i kuvati na tihoj vatri dok kupus ne omekša.
 

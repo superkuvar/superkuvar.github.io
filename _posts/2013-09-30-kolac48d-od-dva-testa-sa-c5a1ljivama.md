@@ -18,7 +18,7 @@ tags:
   - šljive
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Prvo testo:
 
   * šljive (400 g)
@@ -39,7 +39,7 @@ Drugo testo:
 
 [<img class="alignnone size-medium wp-image-6144" src="/wp-content/uploads/2013/09/Kolacoddvatestasasljivama-300x225.jpg" alt="Kolacoddvatestasasljivama" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacoddvatestasasljivama.jpg)
 
-Priprema: šljive oprati, očistiti od koštica i iseći na krupnije rezance.
+**Priprema**: šljive oprati, očistiti od koštica i iseći na krupnije rezance.
 
 Za prvo testo umutiti žumanca sa šećerom, pa dodati ulje, griz i brašno pomešano sa praškom za pecivo. Na kraju umešati sneg od belanaca. Testo sipati u pleh pokriven papirom za pečenje i rastanjiti kao koru. Preko poređati isitnjene šljive.
 

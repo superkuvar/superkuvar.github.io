@@ -16,7 +16,7 @@ tags:
   - med
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jajeta
   * 250 grama šećera
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1694" title="bakinimedenjaci" src="/wp-content/uploads/2011/08/bakinimedenjaci1-e1313148345165.jpg" alt="" width="233" height="142" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati med, razmekšali margarin, cimet, na vrh noža soli i brašno izmešano sa praškom za pecivo.
+**Priprema**: umutiti jaja sa šećerom, pa dodati med, razmekšali margarin, cimet, na vrh noža soli i brašno izmešano sa praškom za pecivo.
 
 Testo dobro umesiti, pa od njega praviti kuglice veličine oraha i ređati ih u pleh, podmazan ili obložen papirom za pečenje.
 

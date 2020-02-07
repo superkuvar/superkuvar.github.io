@@ -16,7 +16,7 @@ tags:
   - pečurke
   - pileće meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pečurke -šampinjoni (400 grama)
   * pileće belo meso (300 grama)
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9342" src="/wp-content/uploads/2012/02/belomesousosuodpecuraka-300x225.jpg" alt="belomesousosuodpecuraka" width="300" height="225" />](/wp-content/uploads/2012/02/belomesousosuodpecuraka.jpg)
 
-Priprema: belo meso iseći na kockice. Pečurke oprati i iseći na listiće. Staviti u tiganj margarin ili ulje, zagrejati ga i dodati meso i pečurke. Dinstati na umerenoj temperaturi. Ukoliko je potrebno, dolivati po malo tople vode.
+**Priprema**: belo meso iseći na kockice. Pečurke oprati i iseći na listiće. Staviti u tiganj margarin ili ulje, zagrejati ga i dodati meso i pečurke. Dinstati na umerenoj temperaturi. Ukoliko je potrebno, dolivati po malo tople vode.
 
 Pri kraju dinstanja jelo posoliti, pobiberiti, dodati suvi biljni začin, kari i gustin. Promešati, doliti još malo tople vode, ako je potrebno, i dinstati još nekoliko minuta.
 

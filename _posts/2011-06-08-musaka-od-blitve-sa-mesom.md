@@ -32,7 +32,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-1024" title="spanacmusaka" src="/wp-content/uploads/2011/06/spanacmusaka2-e1307535989206.jpg" alt="" width="244" height="144" /> 
 
-Priprema: blitvu oprati, odstraniti drške, preliti vrelom vodom i ocediti. Kada se blitva ohladi iseći je na krupnije rezance.
+**Priprema**: blitvu oprati, odstraniti drške, preliti vrelom vodom i ocediti. Kada se blitva ohladi iseći je na krupnije rezance.
 
 Crni luk očistiti, sitno iseći i propržiti na ulju. Kada luk dobije staklast izgled dodati mleveno meso, so i biber, pa još neko vreme pržiti. Zatim dodati poluskuvan oceđen pirinač.
 

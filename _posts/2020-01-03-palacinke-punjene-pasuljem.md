@@ -13,7 +13,7 @@ categories:
 tags:
    - pasulj
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 4 palačinke
 * 200 g kuvanog pasulja

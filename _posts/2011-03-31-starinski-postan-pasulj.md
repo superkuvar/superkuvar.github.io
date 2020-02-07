@@ -16,7 +16,7 @@ tags:
   - crni luk
   - pasulj
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pasulj (1/2 kg)
   * crni luk (4 veće glavice)
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2637" title="Starinski postan pasulj" src="/wp-content/uploads/2011/03/Starinski-postan-pasulj-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očistiti i oprati pasulj, naliti ga hladnom vodom i ostaviti preko noći da odstoji. Sutradan, pasulj sipati u lonac, naliti hladnom vodom i staviti da se kuva. Dok pasulj ne provri, temperatura treba da je jaka. Posle toga smanjiti temperaturu na umerenu. U toku kuvanja staviti u pasulj glavicu belog luka i celer, samo očišćene od spoljnih slojeva ljuske i oprane.
+**Priprema**: očistiti i oprati pasulj, naliti ga hladnom vodom i ostaviti preko noći da odstoji. Sutradan, pasulj sipati u lonac, naliti hladnom vodom i staviti da se kuva. Dok pasulj ne provri, temperatura treba da je jaka. Posle toga smanjiti temperaturu na umerenu. U toku kuvanja staviti u pasulj glavicu belog luka i celer, samo očišćene od spoljnih slojeva ljuske i oprane.
 
 Crni luk očistiti i iseći na rebarca. Propržiti ga na ulju da postane staklast, malo posoliti i pobiberiti. Posoliti i pasulj dok su u njemu zrna još cela, ali već omekšala.
 

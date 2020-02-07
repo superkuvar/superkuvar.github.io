@@ -20,7 +20,7 @@ tags:
   - paradajz
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike (1 kilogram)
   * paradajz (700 grama)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3691" title="Satarašsapirinčem" src="/wp-content/uploads/2011/06/Satarašsapirinčem-e1342021960671-300x233.jpg" alt="" width="300" height="233" /> 
 
-Priprema: na ulju kratko propržiti sitno iseckan crni luk da postane staklast, zatim dodati na rezance isečenu papriku, pa poklopljeno, uz povremeno mešanje, dinstati na tihoj vatri.
+**Priprema**: na ulju kratko propržiti sitno iseckan crni luk da postane staklast, zatim dodati na rezance isečenu papriku, pa poklopljeno, uz povremeno mešanje, dinstati na tihoj vatri.
 
 Posle desetak minuta umešati oljušten i isitnjen paradajz, iseckan beli luk, kašiku suvog biljnog začina, kašičicu šećera, so i biber. Dinstati još desetak minuta, pa dodati opran pirinač.
 

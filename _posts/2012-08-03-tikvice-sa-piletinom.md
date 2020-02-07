@@ -19,7 +19,7 @@ tags:
   - pileće meso
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 veća komada pilećeg filea
   * 1 glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3873" title="Tikvicesapiletinom" src="/wp-content/uploads/2012/08/Tikvicesapiletinom-e1343913125255-300x245.jpg" alt="" width="300" height="245" /> 
 
-Priprema: pileće meso iseći na komadiće i propržiti na zagrejanom ulju dva-tri minuta, da pobeli, pa ga prebaciti u drugu posudu. Na istom ulju propržiti sitno iseckani crni i beli luk, pa dodati kari rastvoren u malo vode.
+**Priprema**: pileće meso iseći na komadiće i propržiti na zagrejanom ulju dva-tri minuta, da pobeli, pa ga prebaciti u drugu posudu. Na istom ulju propržiti sitno iseckani crni i beli luk, pa dodati kari rastvoren u malo vode.
 
 Tikvice i krompir oprati, oljuštiti, iseći na kockice i pomešati sa proprženim lukom. U isitnjene tikvice i krompir dodati komadiće piletine i naliti mlekom. Kuvati oko pola sata, na umerenoj temperaturi, dok povrće i meso ne omekšaju. Ukoliko je potrebno, u toku dinstanja doliti još malo mleka.
 

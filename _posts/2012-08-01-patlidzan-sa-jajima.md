@@ -18,7 +18,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 srednja plava patlidžana
   * 1 glavica crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3858" title="Patlidzan sa jajima" src="/wp-content/uploads/2012/07/Patlidzan-sa-jajima-e1343742376720-300x241.jpg" alt="" width="300" height="241" /> 
 
-Priprema: plavi patlidžan oljuštiti, oprati, iseći na kockice i posoliti. Ostaviti da patlidžan odstoji dvadesetak minuta, a zatim ga ocediti od vode koju je pustio.
+**Priprema**: plavi patlidžan oljuštiti, oprati, iseći na kockice i posoliti. Ostaviti da patlidžan odstoji dvadesetak minuta, a zatim ga ocediti od vode koju je pustio.
 
 Na ulju propržiti sitno seckani crni i beli luk, a zatim dodati oceđen patlidžan i paradajz, prethodno oljušten i isečen na komade. Dinstati oko pola sata, uz dolivanje po malo tople vode.
 

@@ -17,7 +17,7 @@ tags:
   - meso
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svinjsko meso od buta (800 grama)
   * 3 čena belog luka
@@ -28,7 +28,7 @@ Potrebno je:
   * 1 dl belog vina
   * ulje
 
-Priprema: šnicle dobro izlupati tučkom i posoliti. Uvaljati ih u brašno i pržiti na umerenoj temperaturi, da porumene sa obe strane.
+**Priprema**: šnicle dobro izlupati tučkom i posoliti. Uvaljati ih u brašno i pržiti na umerenoj temperaturi, da porumene sa obe strane.
 
 U ulje u kom su se šnicle pržile staviti sitno iseckani beli luk i kašičicu aleve paprike, pa naliti čašom vode. U tako pripremljen sos vratiti šnicle da se dinstaju, dok ne omekšaju.
 

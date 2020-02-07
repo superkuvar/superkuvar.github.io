@@ -13,7 +13,7 @@ categories:
 tags:
    - pečurke
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g vrganja
 * 300 g ajvara

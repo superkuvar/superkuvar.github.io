@@ -11,7 +11,7 @@ tags:
   - girz
   - orasi  
 ---
-Potrebno je: 
+**Potrebno je**: 
 
 * 250 g mlevenih oraha
 * 250 g griza
@@ -23,7 +23,7 @@ Potrebno je:
 * 1 muskatni oraščić
 * 1 kesica vanil šećera
 
-Priprema: 
+**Priprema**: 
 
 Pomešati mlevene orahe, prah šećer, griz, kašiku brašna, 4 kašike ulja i sodu bikarbonu. 
 

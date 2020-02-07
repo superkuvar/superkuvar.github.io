@@ -18,7 +18,7 @@ tags:
   - ren
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma zelenog paradajza
   * 6 kilograma paprika
@@ -32,7 +32,7 @@ Potrebno je:
   * 2 kesice konzervansa
   * 8 litara vode
 
-Priprema: povrće oprati, a karfiol odvojiti na cvetiće. U posudu-bure ređati paradajz, paprike, krastavce i na kraju šargarepu. Između njih stavljati cvetiće karfiola i komadiće isečenog rena.
+**Priprema**: povrće oprati, a karfiol odvojiti na cvetiće. U posudu-bure ređati paradajz, paprike, krastavce i na kraju šargarepu. Između njih stavljati cvetiće karfiola i komadiće isečenog rena.
 
 Od ukupne količine vode odvojiti litar, pa dodati so i esenciju i kratko prokuvati. Kada se so istopila, dodati vinobran i konzervans, naliti ostatkom vode,  pa tim rastvorom preliti povrće. Bure sa turšijom poklopiti i ostaviti na određeno mesto.
 

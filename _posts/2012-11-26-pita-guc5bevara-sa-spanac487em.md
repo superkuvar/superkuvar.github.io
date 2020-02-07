@@ -23,7 +23,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama gotovih tankih kora za pitu
   * 400 grama spanaća
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4815" title="Pitaguzvarasaspanacem" src="/wp-content/uploads/2012/11/Pitaguzvarasaspanacem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati, iseći na rezance, malo posoliti i ostaviti da odstoji desetak minuta. Nakon toga spanać blago izgnječiti rukama i ocediti od soka koji je pustio.
+**Priprema**: spanać očistiti, oprati, iseći na rezance, malo posoliti i ostaviti da odstoji desetak minuta. Nakon toga spanać blago izgnječiti rukama i ocediti od soka koji je pustio.
 
 Umutiti jaja viljuškom, dodati izdrobljen sir, kiselu pavlaku, so, pola kašičice suvog biljnog začina, šoljicu ulja, šoljicu mineralne vode, malo mleka, griz i oceđen spanać, pa sve izmešati.
 

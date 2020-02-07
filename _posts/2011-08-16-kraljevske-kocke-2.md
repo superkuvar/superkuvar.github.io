@@ -17,7 +17,7 @@ tags:
   - oblande
   - orasi
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 lista veće oblande
   * 9 belanaca
@@ -41,7 +41,7 @@ Za glazuru
   * kašika margarina
   * 3 kašike mleka
 
-Priprema: ulupati čvrst sneg od belanaca, dodati šećer, brašno, rendanu čokoladu, seckane orahe i kašiku ulja. Testo lagano izmešati i sipati u veći podmazan i brašnom posut pleh. Peći 15-20 minuta na 180 stepeni. Kora treba da bude veličine oblande. Ispečeno testo izručiti na radnu površinu.
+**Priprema**: ulupati čvrst sneg od belanaca, dodati šećer, brašno, rendanu čokoladu, seckane orahe i kašiku ulja. Testo lagano izmešati i sipati u veći podmazan i brašnom posut pleh. Peći 15-20 minuta na 180 stepeni. Kora treba da bude veličine oblande. Ispečeno testo izručiti na radnu površinu.
 
 U međuvremenu, skuvati krem na sledeći način: devet žumanaca, jedno celo jaje i 250 grama šećera staviti u metalni sud, pa kuvati na pari, dok se masa ne zgusne. Dodati vanilin šećer i ostaviti da se ohladi. U ohlađen krem umešati omekšali margarin.
 

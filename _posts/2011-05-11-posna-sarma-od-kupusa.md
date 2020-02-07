@@ -15,7 +15,7 @@ tags:
   - kupus
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kupusa (slatkog ili kiselog)
   * 2 šolje pirinča
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-618" title="posnesarmeodkupusa" src="/wp-content/uploads/2011/05/posnesarmeodkupusa.jpg" alt="" width="248" height="192" /> 
 
-Priprema: od glavice kupusa odvojiti cele listove. Ako se sarma pravi od slatkog kupusa listove treba preliti vrelom vodom, da malo omekšaju.
+**Priprema**: od glavice kupusa odvojiti cele listove. Ako se sarma pravi od slatkog kupusa listove treba preliti vrelom vodom, da malo omekšaju.
 
 Posebno na ulju propržiti iseckan crni luk, dodati opran pirinač i kratko propržiti. Posoliti, pobiberiti i skloniti sa vatre.
 

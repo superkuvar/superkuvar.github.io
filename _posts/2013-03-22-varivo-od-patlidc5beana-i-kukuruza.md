@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 plava patlidžana
   * glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5501" src="/wp-content/uploads/2013/03/Patlidzan-sa-kukuruzom-300x225.jpg" alt="Patlidzan sa kukuruzom" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti, obariti, a zatim ocediti i kada se ohladi iseći na rezance. Kukuruz takođe obariti.
+**Priprema**: plavi patlidžan oprati, oljuštiti, obariti, a zatim ocediti i kada se ohladi iseći na rezance. Kukuruz takođe obariti.
 
 Sitno iseckan crni luk propržiti na ulju, da omekša, a zatim dodati isitnjen patlidžan. Posoliti, pobiberiti, dodati bosiljak i sipati šoljicu tople vode. Patlidžan dinstati desetak minuta, a zatim dodati kukuruz. Promešati varivo i nastaviti sa dinstanjem još pet minuta.
 

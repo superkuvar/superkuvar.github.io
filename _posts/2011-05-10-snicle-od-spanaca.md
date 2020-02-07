@@ -18,7 +18,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1 kilogram)
   * 2 jaja
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2850" title="Šnicle od spanaća" src="/wp-content/uploads/2011/05/%C5%A0nicle-od-spanaća-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očišćen i opran spanać obariti u posoljenoj vodi. Spanać ocediti, sitno iseckati i dodati jaja, kašiku parmezana, iseckani beli luk, prezle i brašno, onoliko koliko je potrebno da se dobije čvršća masa.
+**Priprema**: očišćen i opran spanać obariti u posoljenoj vodi. Spanać ocediti, sitno iseckati i dodati jaja, kašiku parmezana, iseckani beli luk, prezle i brašno, onoliko koliko je potrebno da se dobije čvršća masa.
 
 Od pripremljenog spanaća oblikovati šnicle, svaku uvaljati u brašno i pržiti na vrelom ulju, na umerenoj temperaturi, sa obe strane.
 

@@ -16,7 +16,7 @@ tags:
   - peršunov list
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama crne džigerice
   * 3 glavice crnog luka
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1054" title="snicleoddzigerice" src="/wp-content/uploads/2011/06/snicleoddzigerice-e1307706622463.jpg" alt="" width="222" height="166" /> 
 
-Priprema: propržiti na ulju sitno iseckan crni luk, pa kad postane staklast dodati so, biber, seckani peršunov list i belo vino. Džigericu iseći na šnicle, uvaljati u brašno i pržiti u drugom tiganju. Kada je pržena posoliti je po ukusu.
+**Priprema**: propržiti na ulju sitno iseckan crni luk, pa kad postane staklast dodati so, biber, seckani peršunov list i belo vino. Džigericu iseći na šnicle, uvaljati u brašno i pržiti u drugom tiganju. Kada je pržena posoliti je po ukusu.
 
 Proprženu džigericu poređati preko luka. Posudu poklopiti i staviti u zagrejanu pećnicu da se jelo krčka 15 minuta, na 180 stepeni.
 

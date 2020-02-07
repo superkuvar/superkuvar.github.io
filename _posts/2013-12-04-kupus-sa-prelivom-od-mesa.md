@@ -21,7 +21,7 @@ tags:
   - sirće
   - svinjsko meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * sveži kupus (1 kg)
   * 2 krompira
@@ -39,7 +39,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6308" src="/wp-content/uploads/2013/12/Kupussaprelivomodmesa-300x225.jpg" alt="Kupussaprelivomodmesa" width="300" height="225" />](/wp-content/uploads/2013/12/Kupussaprelivomodmesa.jpg)
 
-Priprema: kupus očistiti, oprati i isitniti na rezance, takođe i papriku. Krompir oprati, oljuštiti i iseći na kocke.
+**Priprema**: kupus očistiti, oprati i isitniti na rezance, takođe i papriku. Krompir oprati, oljuštiti i iseći na kocke.
 
 Na ulju propržiti šećer, da porumeni, dodati kupus, krompir i papriku, naliti malo vode, poklopiti i dinstati na umerenoj temperaturi. Posoliti, pobiberiti, dodati suvi biljni začin, sirće i lovorov list. U toku dinstanja dolivati po malo tople vode i povremeno promešati. Nastaviti sa dinstanjem dok povrće ne omekša.
 

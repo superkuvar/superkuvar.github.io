@@ -15,7 +15,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama mlevenog junećeg mesa
   * kriška hleba
@@ -30,7 +30,7 @@ Potrebno je:
 
 ![Pohovane faširane šnicle](/wp-content/uploads/2011/06/pohovane_snicle.jpg)
 
-Priprema: komad hleba bez korice potopiti u malo mleka. Crni luk očistiti i izrendati, pa ga dodati mlevenom mesu, kao i oceđen hleb. Dodati kašiku sitno seckanog peršunovog lista, so, biber i jaje, pa zamesiti. Pripremljenu smesu ostaviti da odstoji u frižideru 20 minuta.
+**Priprema**: komad hleba bez korice potopiti u malo mleka. Crni luk očistiti i izrendati, pa ga dodati mlevenom mesu, kao i oceđen hleb. Dodati kašiku sitno seckanog peršunovog lista, so, biber i jaje, pa zamesiti. Pripremljenu smesu ostaviti da odstoji u frižideru 20 minuta.
 
 U međuvremenu, u tanjiru viljuškom razmutiti dva jajeta. Od pripremljene mase praviti šnicle, svaku uvaljati u brašno, zatim u jaja i pržiti na zagrejanom ulju sa obe strane.
 

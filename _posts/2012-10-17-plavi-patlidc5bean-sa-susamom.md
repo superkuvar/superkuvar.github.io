@@ -24,7 +24,7 @@ tags:
   - sir
   - susam
 ---
-Potrebno je:
+**Potrebno je**:
 
   * nekoliko manjih plavih patlidžana
   * 2 glavice crnog luka
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4502" title="Plavipatlidzansasusamom" src="/wp-content/uploads/2012/10/Plavipatlidzansasusamom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, neoljušten iseći uzdužno na polovine i kašičicom malo izdubiti. Crni luk oljuštiti, sitno iseckati, pa na malo ulja, zajedno sa isitnjenom izdubljenom sredinom patlidžana, propržiti da omekša. Dodati sitno seckani beli luk, so, biber, origano, susam i izmrvljeni sir. Masu izmešati, pa puniti izdubljene patlidžane.
+**Priprema**: plavi patlidžan oprati, neoljušten iseći uzdužno na polovine i kašičicom malo izdubiti. Crni luk oljuštiti, sitno iseckati, pa na malo ulja, zajedno sa isitnjenom izdubljenom sredinom patlidžana, propržiti da omekša. Dodati sitno seckani beli luk, so, biber, origano, susam i izmrvljeni sir. Masu izmešati, pa puniti izdubljene patlidžane.
 
 U podmazanu posudu za pečenje staviti napunjene polovine patlidžana i preliti ih pireom od paradajza i uljem. Patlidžan posuti susamom i peći oko 25 minuta u pećnici zagrejanoj na 200 stepeni.
 

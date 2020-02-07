@@ -18,7 +18,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 250 grama mlevenog maka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3226" title="Pita sa makom" src="/wp-content/uploads/2012/05/Pita-sa-makom-e1337075012924-300x235.jpg" alt="" width="300" height="235" /> 
 
-Priprema: pomešati mak sa šećerom i kesicom vanilin šećera, preliti ključalim mlekom, staviti na štednjak i kratko prokuvati. Prokuvani mak skloniti sa štednjaka, dodati cimet i suvo grožđe prethodno natopljeno rumom. Izmešati i ostaviti da se ohladi.
+**Priprema**: pomešati mak sa šećerom i kesicom vanilin šećera, preliti ključalim mlekom, staviti na štednjak i kratko prokuvati. Prokuvani mak skloniti sa štednjaka, dodati cimet i suvo grožđe prethodno natopljeno rumom. Izmešati i ostaviti da se ohladi.
 
 U pleh podmazan uljem ređati po 3-4 kore, svaku poprskati mešavinom vode i ulja, pa preko četvrte premazati fil od maka. Postupak ponavljati dok se ne utroše kore i fil.
 

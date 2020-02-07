@@ -16,7 +16,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * hleb (nekoliko kriški)
   * jaja

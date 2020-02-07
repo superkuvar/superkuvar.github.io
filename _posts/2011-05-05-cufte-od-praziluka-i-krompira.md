@@ -18,7 +18,7 @@ tags:
 ---
 &nbsp;
 
-Potrebno je:
+**Potrebno je**:
 
   * praziluk (500 grama)
   * 3 krompira
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-681" title="cufteodprazilukaikrompira" src="/wp-content/uploads/2011/05/cufteodprazilukaikrompira.jpg" alt="" width="200" height="140" /> 
 
-Priprema: krompir oprati i neoljušten obariti u posoljenoj vodi. Kada se ohladi, oljuštiti ga i propasirati ili izgnječiti viljuškom.
+**Priprema**: krompir oprati i neoljušten obariti u posoljenoj vodi. Kada se ohladi, oljuštiti ga i propasirati ili izgnječiti viljuškom.
 
 Očišćen i opran praziluk iseći na kolutove, obariti u ključaloj posoljenoj vodi, a zatim ocediti i još malo isitniti nožem.
 

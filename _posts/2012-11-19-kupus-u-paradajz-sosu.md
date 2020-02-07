@@ -22,7 +22,7 @@ tags:
   - paradajz
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram svežeg kupusa
   * 1 glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4765" title="Kupusuparadajzsosu" src="/wp-content/uploads/2012/11/Kupusuparadajzsosu1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Paradajz oljuštiti, iseći na sitnije komade i sjediniti sa lukom. Kuvati na tihoj vatri, dok se paradajz malo ne zgusne a zatim posoliti, pobiberiti i dodati seckani peršunov list.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. Paradajz oljuštiti, iseći na sitnije komade i sjediniti sa lukom. Kuvati na tihoj vatri, dok se paradajz malo ne zgusne a zatim posoliti, pobiberiti i dodati seckani peršunov list.
 
 U međuvremenu, kupus očistiti, oprati, iseći na osmine i skuvati u posoljenoj vodi u koju je dodat kim. Kada je kupus kuvan, ocediti ga od vode, sipati u sos od paradajza i kuvati još dvadesetak minuta.
 

@@ -16,7 +16,7 @@ tags:
   - orasi
   - pekmez
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kisele jabuke (8 većih ili količina po želji)
   * gušći pekmez (4 kašike)
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9464" src="/wp-content/uploads/2015/03/pecenejabuke-300x225.jpg" alt="pecenejabuke" width="300" height="225" />](/wp-content/uploads/2015/03/pecenejabuke.jpg)
 
-Priprema: jabuke oprati i oljuštiti. Nožem ili kašičicom izdubiti jabuke, vodeći računa da se ne probije dno, da donji deo ostane čitav.
+**Priprema**: jabuke oprati i oljuštiti. Nožem ili kašičicom izdubiti jabuke, vodeći računa da se ne probije dno, da donji deo ostane čitav.
 
 Pomešati pekmez i mlevene orahe.
 

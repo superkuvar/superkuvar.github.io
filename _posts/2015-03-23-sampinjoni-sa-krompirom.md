@@ -19,7 +19,7 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-Potrebno je:  
+**Potrebno je**:  
 * šampinjoni (300 grama)  
 * glavica crnog luka  
 * čen belog luka  
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9598" src="/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-300x225.jpg" alt="Sampinjoni sa krompirom (1)" width="300" height="225" />](/wp-content/uploads/2015/03/Sampinjoni-sa-krompirom-1-e1430749102363.jpg)
 
-Priprema: krompir oprati, oljuštiti i iseći na kockice, preliti vodom da ogrezne, posoliti i staviti da se kuva. Skuvan krompir ocediti.
+**Priprema**: krompir oprati, oljuštiti i iseći na kockice, preliti vodom da ogrezne, posoliti i staviti da se kuva. Skuvan krompir ocediti.
 
 Šampinjone oprati i iseći na listiće. Papriku i očišćen crni luk sitno iseći. Na malo ulja propržiti crni luk da omekša, pa dodati šampinjone, papriku i sitno iseckan beli luk. Dinstati dok voda ne uvri. Ukoliko je potrebno dodati malo vode.  ampinjone posoliti, pobiberiti i dodati iseckan peršunov list.
 

@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pečurke &#8211; šampinjoni (500 grama)
   * 3 glavice crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9254" src="/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom-300x225.jpg" alt="gulasodpecurakasabelimvinom" width="300" height="225" />](/wp-content/uploads/2014/08/gulasodpecurakasabelimvinom.jpg)
 
-Priprema: na ulju propržiti sitno seckani crni luk. Pečurke oprati, iseći na listiće, dodati u luk i dinstati na umerenoj temperaturi, uz dolivanje po malo tople vode ili supe od kocke.
+**Priprema**: na ulju propržiti sitno seckani crni luk. Pečurke oprati, iseći na listiće, dodati u luk i dinstati na umerenoj temperaturi, uz dolivanje po malo tople vode ili supe od kocke.
 
 Kada su pečurke skoro gotove, dodati pire od paradajza, sitno seckani beli luk, so, suvi biljni začin i belo vino. Nastaviti sa dinstanjem još desetak minuta.
 

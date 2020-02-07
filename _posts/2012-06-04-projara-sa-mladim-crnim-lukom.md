@@ -18,7 +18,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 veze mladog crnog luka
   * 300 grama belog kukuruznog brašna
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3337" title="Projara sa crnim lukom" src="/wp-content/uploads/2012/06/Projara-sa-crnim-lukom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje izmešati kukuruzno i pšenično brašno sa praškom za pecivo. Crni luk očistiti, oprati, iseckati i propržiti na malo ulja, koliko da omekša, pa dodati umućena jaja i izdrobljen sir. Ukoliko sir nije mnogo slan, dodati malo soli.
+**Priprema**: u posudi za mešenje izmešati kukuruzno i pšenično brašno sa praškom za pecivo. Crni luk očistiti, oprati, iseckati i propržiti na malo ulja, koliko da omekša, pa dodati umućena jaja i izdrobljen sir. Ukoliko sir nije mnogo slan, dodati malo soli.
 
 U brašno sipati ostatak ulja, dodati pripremljeni crni luk i uz dolivanje mineralne vode zamesiti ređe testo. Izmešati varjačom. U podmazan i brašnom posut pleh izručiti pripremljeno testo i odozgo ga posuti susamom.
 

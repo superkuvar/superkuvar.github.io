@@ -18,7 +18,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10-12 paprika
   * 2 glavice crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3747" title="Sataras sa sargarepom" src="/wp-content/uploads/2012/07/Sataras-sa-sargarepom-e1342616876564-300x233.jpg" alt="" width="300" height="233" /> 
 
-Priprema: u vrelo ulje dodati sitno isečen crni luk i pržiti da postane staklast. šargarepu oprati, oljuštiti, iseći na kolutove, dodati u luk, promešati i zajedno malo propržiti.
+**Priprema**: u vrelo ulje dodati sitno isečen crni luk i pržiti da postane staklast. šargarepu oprati, oljuštiti, iseći na kolutove, dodati u luk, promešati i zajedno malo propržiti.
 
 Paprike očišćene od semena iseći na komade i sjediniti sa šargarepom i lukom. Dinstati desetak minuta, pa dodati so, suvi biljni začin, biber, malo bosiljka (po želji) i paradajz isečen na kriške, prethodno oljušten.
 

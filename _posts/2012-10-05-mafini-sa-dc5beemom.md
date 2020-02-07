@@ -27,7 +27,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 6 kašika šećera
@@ -44,7 +44,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4427" title="Mafinisadzemom" src="/wp-content/uploads/2012/10/Mafinisadzemom-e1349082950666-300x230.jpg" alt="" width="300" height="230" /> 
 
-Priprema: u posudi za mešenje penasto umutiti jaja sa šećerom i vanilin šećerom. U umućena jaja dodati ulje, mleko, cimet, griz i brašno pomešano sa praškom za pecivo. Sve dobro sjediniti. Smesu podeliti na dva dela, pa u jedan dodati kakao.
+**Priprema**: u posudi za mešenje penasto umutiti jaja sa šećerom i vanilin šećerom. U umućena jaja dodati ulje, mleko, cimet, griz i brašno pomešano sa praškom za pecivo. Sve dobro sjediniti. Smesu podeliti na dva dela, pa u jedan dodati kakao.
 
 U pleh za mafine staviti papirne korpice, a zatim u svaku sipati žutu smesu do jedne trećine kalupa. Preko toga staviti po pola kašičice džema od kajsija, pa odozgo sipati tamno testo, da prekrije džem. Mafine peći oko 20 minuta na 200 stepeni, u prethodno zagrejanoj pećnici.
 

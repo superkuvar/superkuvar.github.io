@@ -19,7 +19,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * breskve (8-10 komada srednje veličine)
   * 1/2 litra mleka
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6155" src="/wp-content/uploads/2013/10/Kremkolacsabreskvama-300x225.jpg" alt="Kremkolacsabreskvama" width="300" height="225" />](/wp-content/uploads/2013/10/Kremkolacsabreskvama.jpg)
 
-Priprema: oprane i od koštica očišćene breskve odvojiti na polovine i kuvati 5 minuta u sirupu od vode i šećera (2 dl vode i 4 kašike šećera). Zatim breskve izvaditi iz sirupa i ostaviti da se ocede.
+**Priprema**: oprane i od koštica očišćene breskve odvojiti na polovine i kuvati 5 minuta u sirupu od vode i šećera (2 dl vode i 4 kašike šećera). Zatim breskve izvaditi iz sirupa i ostaviti da se ocede.
 
 Umutiti žumanca sa 6 kašika šećera, dodati brašno, dobro izmešati i sipati malo hladnog mleka. Masu dobro izjednačiti, da ne bude grudvica. Ostatak mleka staviti na štednjak i kada provri, sipati lagano pripremljenu masu od brašna i jaja. Krem kuvati na tihoj vatri nekoliko minuta, dok se ne zgusne, uz stalno mešanje.
 

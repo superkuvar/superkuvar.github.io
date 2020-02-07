@@ -19,7 +19,7 @@ tags:
   - plavi patlidžan
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 veća plava patlidžana
   * 4 crvene paprike
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3949" title="Salata od patlidzana" src="/wp-content/uploads/2012/02/Salata-od-patlidzana-e1344849549684-300x234.jpg" alt="" width="300" height="234" /> 
 
-Priprema: patlidžan i paprike oprati i ispeći u pećnici. Patlidžan, dok je još topao, oljuštiti. Paprike, takođe, oljuštiti i očistiti od semena.
+**Priprema**: patlidžan i paprike oprati i ispeći u pećnici. Patlidžan, dok je još topao, oljuštiti. Paprike, takođe, oljuštiti i očistiti od semena.
 
 Patlidžan i paprike iseći na rezance, staviti u činiju, dodati sitno iseckan crni i beli luk, oljušten i iseckan paradajz. Dodati ulje, sirće, so, biber i iseckan peršunov list. Salatu lagano izmešati i staviti u frižider. Služiti kad se ohladi.
 

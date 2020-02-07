@@ -18,7 +18,7 @@ tags:
   - rum
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 lista veće oblande
   * 300 grama mlevenih oraha
@@ -33,7 +33,7 @@ Potrebno je:
   * 2 kašike mleka (za glazuru)
   * kašika šećera (za glazuru)
 
-Priprema: mlevene orahe preliti sa sedam kašika vrele vode i prokuvati na tihoj vatri minut-dva. Dodati vanilin šećer, rum, sitno seckane smokve i razmekšali margarin, pa masu dobro sjediniti.
+**Priprema**: mlevene orahe preliti sa sedam kašika vrele vode i prokuvati na tihoj vatri minut-dva. Dodati vanilin šećer, rum, sitno seckane smokve i razmekšali margarin, pa masu dobro sjediniti.
 
 Listove oblande staviti na vlažnu salvetu da odstoje desetak minuta da omekšaju, ali ne previše, da se prilikom uvijanja ne bi kidali. Oblande zatim premazati pripremljenim filom, urolati i preseći na pola, da se dobiju četiri manja rolata.
 

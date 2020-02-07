@@ -11,7 +11,7 @@ tags:
   - girz
   - suvo grožđe  
 ---
-Potrebno je: 
+**Potrebno je**: 
 
 * 3 šolje (za belu kafu) griza
 * 1 šolja brašna
@@ -23,7 +23,7 @@ Potrebno je:
 * 1 prašak za pecivo
 * 1 vanil šećer
 
-Priprema:
+**Priprema**:
 
 Pomešati brašno sa praškom za pecivo, dodati griz i orahe (najbolje pola mlevene pola seckane), suvo grožđe, dodati šećer pa sve to zamesiti vodom i uljem. 
 

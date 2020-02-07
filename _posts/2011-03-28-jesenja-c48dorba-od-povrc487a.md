@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 krompira
   * tikvice (2 manje)
@@ -39,7 +39,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-5991" src="/wp-content/uploads/2011/03/Jesenjacorbaodpovrca-300x225.jpg" alt="Jesenjacorbaodpovrca" width="300" height="225" />](/wp-content/uploads/2011/03/Jesenjacorbaodpovrca.jpg)
 
-Priprema: na malo ulja propržiti sitno seckani crni luk.
+**Priprema**: na malo ulja propržiti sitno seckani crni luk.
 
 Povrće oprati, očistiti i iseći na kockice, pa dodati u luk i zajedno kratko propržiti. Zatim naliti supom od kocke ili toplom vodom, ubaciti lovorov list i ostaviti da se kuva još dvadesetak minuta, dok povrće ne omekša. Pri kraju kuvanja čorbu posoliti i pobiberiti.
 

@@ -16,7 +16,7 @@ tags:
   - oblande
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 jaja
   * 500 g šećera
@@ -24,7 +24,7 @@ Potrebno je:
   * 250 g margarina
   * oblande &#8211; veće pakovanje
 
-Priprema: u metalnom sudu umutiti varjačom jaja sa šećerom, a zatim kuvati na pari, uz stalno mešanje. Kada se krem zgusne dodati čokoladu. Znaćemo da je dovoljno gust, ako zagrebemo varjačom po dnu posude i pojavi se beli trag na njemu.
+**Priprema**: u metalnom sudu umutiti varjačom jaja sa šećerom, a zatim kuvati na pari, uz stalno mešanje. Kada se krem zgusne dodati čokoladu. Znaćemo da je dovoljno gust, ako zagrebemo varjačom po dnu posude i pojavi se beli trag na njemu.
 
 U malo prohlađen krem dodati margarin. Dobro izmešati da se margarin istopi i krem ujednači, pa filovati listove oblande. Namazane listove oblande pritisnuti da se dobro slepe.
 

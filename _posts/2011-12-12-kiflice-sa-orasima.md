@@ -21,7 +21,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama margarina
   * 2 jajeta
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5511" src="/wp-content/uploads/2011/12/Kiflice-sa-orasima-300x225.jpg" alt="Kiflice sa orasima" width="300" height="225" /> 
 
-Priprema: umutiti penasto margarin sa šećerom, pa dodati jaja, mlevene orahe, brašno i prašak za pecivo.
+**Priprema**: umutiti penasto margarin sa šećerom, pa dodati jaja, mlevene orahe, brašno i prašak za pecivo.
 
 Testo dobro  umesiti, otkidati komadiće, oblikovati ih rukama u valjčiće i praviti kiflice u obliku potkovice. Ukoliko imate modlice, testo možete stavljati u njih.
 

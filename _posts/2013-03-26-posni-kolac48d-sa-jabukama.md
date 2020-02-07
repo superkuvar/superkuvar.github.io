@@ -24,7 +24,7 @@ tags:
   - šećer
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 šolja brašna
   * 1 šolja integralnog pšeničnog brašna
@@ -44,7 +44,7 @@ Za glazuru
 
 <img class="alignnone size-medium wp-image-5525" src="/wp-content/uploads/2013/03/Posnikolacsajabukama-300x225.jpg" alt="Posnikolacsajabukama" width="300" height="225" /> 
 
-Priprema: brašno pomešati sa praškom za pecivo, dodati šećer i seckane orahe, pa izmešati.
+**Priprema**: brašno pomešati sa praškom za pecivo, dodati šećer i seckane orahe, pa izmešati.
 
 Jabuke oprati, oljuštiti i narendati. Narendane jabuke dodati u brašno, sipati ulje i vodu i dobro izmešati. Testo treba da bude žitko.
 

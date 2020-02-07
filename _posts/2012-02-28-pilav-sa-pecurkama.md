@@ -17,7 +17,7 @@ tags:
   - praziluk
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (300 grama)
   * 1 struk praziluka ili 2 glavice crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2600" title="Pilav sa pečurkama" src="/wp-content/uploads/2012/02/Pilav-sa-pečurkama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: praziluk oprati i sitno iseckati, pa ga propržiti na malo ulja. Dodati opran pirinač, naliti toplom vodom, da ogrezne, i dinstati dok pirinač ne bude polukuvan. Začiniti solju i suvim biljnim začinom.
+**Priprema**: praziluk oprati i sitno iseckati, pa ga propržiti na malo ulja. Dodati opran pirinač, naliti toplom vodom, da ogrezne, i dinstati dok pirinač ne bude polukuvan. Začiniti solju i suvim biljnim začinom.
 
 U drugoj posudi, na malo ulja ili margarina, izdinstati pečurke isečene na listiće. Kad uvri voda koju su pečurke pustile, izmešati ih sa pirinčem i dodati kari začin po ukusu (oko pola kašičice).
 

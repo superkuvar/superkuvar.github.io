@@ -13,7 +13,7 @@ categories:
 tags:
    - jabuke
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kašika mleka, 
 * kašika maslaca,

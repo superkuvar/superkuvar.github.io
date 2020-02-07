@@ -16,7 +16,7 @@ tags:
   - mleko
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kilogram)
   * 3 kašike brašna
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-885" title="krompirubelomsosu" src="/wp-content/uploads/2011/06/krompirubelomsosu.jpg" alt="" width="240" height="180" /> 
 
-Priprema: krompir oprati, oljuštiti i iseći na kolutove.
+**Priprema**: krompir oprati, oljuštiti i iseći na kolutove.
 
 Od ulja i brašna napraviti bledu zapršku, a zatim naliti mlekom i čašom i po vode. Neprestano mešati žicom za mućenje, da se brašno ne bi zgrudvalo i kuvati na umerenoj vatri. Kada sos provri, smanjiti temperaturu i spustiti kolutove krompira. Dodati list lovora.
 

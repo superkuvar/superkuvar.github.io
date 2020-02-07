@@ -21,7 +21,7 @@ tags:
   - mleko
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama krompira
   * kašika brašna
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5649" src="/wp-content/uploads/2013/05/Krompirumleku-300x225.jpg" alt="Krompirumleku" width="300" height="225" /> 
 
-Priprema: krompir oprati, oljuštiti i iseći na krupnije kocke.
+**Priprema**: krompir oprati, oljuštiti i iseći na krupnije kocke.
 
 Od ulja i brašna napraviti bledu zapršku, pa dodati mleko i čašu vode. Mešati da se ne zgrudva, a kada proključa dodati isečen krompir i list lovora. Krompir kuvati na tihoj vatri, uz povremeno mešanje. Voditi računa da krompir ne zagori.
 

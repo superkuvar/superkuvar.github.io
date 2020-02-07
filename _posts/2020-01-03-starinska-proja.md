@@ -12,13 +12,13 @@ categories:
 tags:
    - prosto
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram belog kukuruznog brašna
 * voda
 * so
 
-Priprema:
+**Priprema**:
 
 
 Brašno malo posoliti i zamesiti hladnom vodom da ne bude mnogo gusto. Staviti u podmazan pleh i peći u

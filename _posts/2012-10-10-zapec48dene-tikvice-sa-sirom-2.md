@@ -21,7 +21,7 @@ tags:
   - sir
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram tikvica
   * 800 grama paradajza
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4464" title="Zapecenetikvicesasirom" src="/wp-content/uploads/2012/10/Zapecenetikvicesasirom1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti i kratko obariti u posoljenoj vodi. Obarene tikvice iseći na kocke. Crni luk i paradajz oljuštiti i sitno iseći.
+**Priprema**: tikvice oprati, oljuštiti i kratko obariti u posoljenoj vodi. Obarene tikvice iseći na kocke. Crni luk i paradajz oljuštiti i sitno iseći.
 
 Na malo ulja propržiti iseckan crni luk, dodati paradajz i dinstati dok se masa ne zgusne. Dodati so, biber i malo origana. Dinstati još nekoliko minuta.
 

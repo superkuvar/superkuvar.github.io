@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (1 kilogram)
   * 400 grama mlevenog mesa
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1101" title="musakaatikvice" src="/wp-content/uploads/2011/06/musakaatikvice-e1308140056453.jpg" alt="" width="252" height="166" /> 
 
-Priprema: tikvice oljuštiti (ako su mlade, nije potrebno), iseći na tanake režnjeve, posoliti i ostaviti da puste vodu. Tikvice zatim ocediti, uvaljati u bašno, pa u umućeno jaje i pržiti na vrelom ulju.
+**Priprema**: tikvice oljuštiti (ako su mlade, nije potrebno), iseći na tanake režnjeve, posoliti i ostaviti da puste vodu. Tikvice zatim ocediti, uvaljati u bašno, pa u umućeno jaje i pržiti na vrelom ulju.
 
 Posebno, na ulju izdinstati seckani crni luk, dodati mleveno meso, so i biber i propržiti.
 

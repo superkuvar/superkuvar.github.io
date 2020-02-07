@@ -18,7 +18,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama krompira
   * 3 paradajza
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3581" title="Mešanopovrćesapavlakom" src="/wp-content/uploads/2011/06/Mešanopovrćesapavlakom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir i šargarepu oprati, očistiti i iseći na kocke, a crni luk sitno iseckati. Na ulju ispržiti crni luk, da postane staklast, pa dodati isečeno povrće. Preliti čašom vode i ostaviti da se kuva na umerenoj vatri 30 minuta. Po potrebi dolivati po malo tople vode i povremeno promešati.
+**Priprema**: krompir i šargarepu oprati, očistiti i iseći na kocke, a crni luk sitno iseckati. Na ulju ispržiti crni luk, da postane staklast, pa dodati isečeno povrće. Preliti čašom vode i ostaviti da se kuva na umerenoj vatri 30 minuta. Po potrebi dolivati po malo tople vode i povremeno promešati.
 
 Paradajz oljuštiti, iseći na kocke i dodati u povrće koje se dinsta. Posoliti, pobiberiti, dodati majoran ili origano, po ukusu i nastaviti sa kuvanjem. Posle desetak minuta sipati čašu kisele pavlake, promešati i kuvati još pet minuta.
 

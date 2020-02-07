@@ -23,7 +23,7 @@ tags:
   - šampinjoni
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (400 grama)
   * šampinjoni (300 grama)
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5015" src="/wp-content/uploads/2011/03/Čorbaodšampinjonaikrompira-300x225.jpg" alt="Čorbaodšampinjonaikrompira" width="300" height="225" /> 
 
-Priprema: krompir oprati, oljuštiti i iseći na kocke.  ampinjone očistiti, oprati i iseći na listiće. Isečene šampinjone i krompir staviti u lonac, naliti litrom vode i kuvati 30 minuta.
+**Priprema**: krompir oprati, oljuštiti i iseći na kocke.  ampinjone očistiti, oprati i iseći na listiće. Isečene šampinjone i krompir staviti u lonac, naliti litrom vode i kuvati 30 minuta.
 
 Na ulju propržiti iseckanu vezu mladog crnog luka, dodati iseckan beli luk i brašno, pa napraviti svetlu zapršku. Zapršku sipati u čorbu, dodati začine i još malo prokuvati.
 

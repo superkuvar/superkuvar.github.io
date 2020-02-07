@@ -24,7 +24,7 @@ tags:
   - paradajz pire
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama graška
   * 3 krompira
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5065" src="/wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-300x225.jpg" alt="Čorba od graška i krompira" width="300" height="225" /> 
 
-Priprema: praziluk očistiti, oprati i isitniti na kolutove. U lonac sipati malo ulja, pa kada se zagreje dodati isitnjen praziluk i malo ga propržiti.
+**Priprema**: praziluk očistiti, oprati i isitniti na kolutove. U lonac sipati malo ulja, pa kada se zagreje dodati isitnjen praziluk i malo ga propržiti.
 
 U propržen praziluk dodati grašak, paradajz pire i krompir isečen na kockice. Povrće naliti litrom vrele vode i staviti da se kuva. Čorbu kuvati na umerenoj temperaturi oko 25 minuta, dok grašak i krompir ne omekšaju. Pri kraju kuvanja dodati so, suvi biljni začin i biber.
 

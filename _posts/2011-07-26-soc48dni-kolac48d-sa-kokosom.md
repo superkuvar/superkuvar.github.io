@@ -17,7 +17,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * čaša od 2 dl šećera
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-1587" title="ravanija 1" src="/wp-content/uploads/2011/07/ravanija-11-e1311670517380.jpg" alt="" width="258" height="209" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, brašno, prašak za pecivo, kokos, suvo grožđe i seckane orahe. Masu dobro promešati, sipati u podmazan i brašnom posut pleh i peći na 200 stepeni oko pola sata.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, brašno, prašak za pecivo, kokos, suvo grožđe i seckane orahe. Masu dobro promešati, sipati u podmazan i brašnom posut pleh i peći na 200 stepeni oko pola sata.
 
 Pečen kolač ohladiti, iseći na kocke i preliti vrelim šerbetom.  erbet napraviti na sledeći način: u šerpu sipati šećer, preliti ga vodom, dodati vanilin šećer i kuvati desetak minuta.
 

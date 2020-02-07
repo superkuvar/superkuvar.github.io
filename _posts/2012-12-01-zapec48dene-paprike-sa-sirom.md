@@ -22,7 +22,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10-12 paprika
   * 300 grama starijeg belog sira
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4847" title="Zapecenepaprikesasirom" src="/wp-content/uploads/2012/12/Zapecenepaprikesasirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paprike oprati, ispeći u pećnici, pa kada se prohlade oljuštiti i očistiti od peteljki i semena. Mogu se koristiti i pečene paprike iz zamrzivača.
+**Priprema**: paprike oprati, ispeći u pećnici, pa kada se prohlade oljuštiti i očistiti od peteljki i semena. Mogu se koristiti i pečene paprike iz zamrzivača.
 
 Sir izmrviti viljuškom, posoliti ukoliko nije dovoljno slan i izmešati sa dva umućena jajeta. Za punjenje paprika može se koristiti i sitan sir.
 

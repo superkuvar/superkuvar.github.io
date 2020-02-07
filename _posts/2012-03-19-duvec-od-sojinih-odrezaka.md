@@ -20,7 +20,7 @@ tags:
   - šargarepa
   - soja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * soja (200 grama sojinih odrezaka)
   * 2 šargarepe
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2720" title="Djuveč od sojinih odrezaka" src="/wp-content/uploads/2012/03/Djuveč-od-sojinih-odrezaka-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u jedan i po litar ključale slane vode staviti sojine odreske i lovorov list. Kuvati na umerenoj vatri. Posle desetak minuta izvaditi ih iz vode i ocediti rukama, ovlaš pritiskajući.
+**Priprema**: u jedan i po litar ključale slane vode staviti sojine odreske i lovorov list. Kuvati na umerenoj vatri. Posle desetak minuta izvaditi ih iz vode i ocediti rukama, ovlaš pritiskajući.
 
 Na ulju propržiti sitno seckani crni luk, dodati izrendanu šargarepu i sitno seckanu papriku. Dinstati desetak minuta. Posoliti, pobiberiti, dodati malo origana i polovinu količine paradajza.
 

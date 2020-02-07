@@ -16,7 +16,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram belog krompira
   * 2 jajeta
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3418" title="Valjušciodkrompira" src="/wp-content/uploads/2012/06/Valjušciodkrompira-e1339249992189-300x228.jpg" alt="" width="300" height="228" /> 
 
-Priprema: krompir oprati, neoljušten naliti vodom, malo posoliti i kuvati dok ne omekša. Skuvan krompir ocediti, oljuštiti i ispasirati dok je još topao.
+**Priprema**: krompir oprati, neoljušten naliti vodom, malo posoliti i kuvati dok ne omekša. Skuvan krompir ocediti, oljuštiti i ispasirati dok je još topao.
 
 U ispasirani krompir dodati jaja, ulje, malo soli i brašna toliko da se dobije testo srednje tvrdoće. Dobro umesiti, da se sastojci sjedine.
 

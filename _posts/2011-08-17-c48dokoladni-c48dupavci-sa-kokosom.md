@@ -17,7 +17,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jajeta
   * 100 grama margarina
@@ -37,7 +37,7 @@ Za preliv
 
 <img class="alignnone size-full wp-image-1744" title="cupavcikokos" src="/wp-content/uploads/2011/08/cupavcikokos-e1313580187760.jpg" alt="" width="247" height="154" /> 
 
-Priprema: umutiti jaja sa margarinom i šećerom, dodati kokosovo brašno, mleko, brašno i prašak za pecivo. Testo izmešati varajačom i sipati u dobro podmazan i brašnom posut pleh, pa ispeći.
+**Priprema**: umutiti jaja sa margarinom i šećerom, dodati kokosovo brašno, mleko, brašno i prašak za pecivo. Testo izmešati varajačom i sipati u dobro podmazan i brašnom posut pleh, pa ispeći.
 
 U međuvremenu, napraviti preliv na sledeći način: u sud sipati 10 kašika mleka i 250 grama šećera, pa staviti na štednjak da provri. Dodati 150 grama margarina i 100 grama čokolade. Kuvati još malo na tihoj vatri da se margarin i čokolada istope.
 

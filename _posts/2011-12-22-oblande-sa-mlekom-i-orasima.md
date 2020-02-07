@@ -17,7 +17,7 @@ tags:
   - orasi
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 litar mleka
   * 900 grama šećera

@@ -18,7 +18,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * praziluk (4 struka)
   * krompir (800 grama)
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9135" src="/wp-content/uploads/2014/05/zapecenipraziluksakrompirom-300x225.jpg" alt="zapecenipraziluksakrompirom" width="300" height="225" />](/wp-content/uploads/2014/05/zapecenipraziluksakrompirom.jpg)
 
-Priprema: praziluk očistiti, oprati i iseći na komade dužine oko 2 santimetra. Krompir oprati, oljuštiti i iseći na kolutove.
+**Priprema**: praziluk očistiti, oprati i iseći na komade dužine oko 2 santimetra. Krompir oprati, oljuštiti i iseći na kolutove.
 
 U pogodnu podmazanu posudu ređati red krompira, red praziluka i svaki posoliti i pobiberiti. Odozgo treba da bude praziluk. Naliti supom od kocke, da ogrezne, poklopiti i pirjaniti oko 30 minuta.
 

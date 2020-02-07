@@ -23,7 +23,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 margarina za mazanje
   * 250 grama kristal šećera
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5061" src="/wp-content/uploads/2013/01/Francuskivocnikolac-300x225.jpg" alt="Francuskivocnikolac" width="300" height="225" /> 
 
-Priprema: umutiti margarin za mazanje (tipa &#8221;dobro jutro&#8221;) sa šećerom, dodati jaja i mutiti još malo. Pomešati prašak za pecivo sa brašnom, pa sipati u umućeni margarin i jaja i sve umutiti mikserom.
+**Priprema**: umutiti margarin za mazanje (tipa &#8221;dobro jutro&#8221;) sa šećerom, dodati jaja i mutiti još malo. Pomešati prašak za pecivo sa brašnom, pa sipati u umućeni margarin i jaja i sve umutiti mikserom.
 
 U podmazan pleh (ili prekriven papirom za pečenje) sipati polovinu mase, preko poređati polovinu oceđenog voća, pa ostatak testa, a preko ostatak voća i posuti sa malo šećera.
 

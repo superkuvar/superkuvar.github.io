@@ -18,7 +18,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mladi kupus (glavica od 1,5 kg)
   * glavica crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9186" src="/wp-content/uploads/2014/06/musakaodmladogkupusa-300x225.jpg" alt="musakaodmladogkupusa" width="300" height="225" />](/wp-content/uploads/2014/06/musakaodmladogkupusa.jpg)
 
-Priprema: kupus očistiti, oprati, iseći na rezance, dodati lovorov list i dinstati zajedno sa iseckanim crnim lukom. U toku dinstanja u kupus dolivati po malo supe od kocke. Pobiberiti, dodati kašičicu aleve paprike i još malo soli, ukoliko je potrebno.
+**Priprema**: kupus očistiti, oprati, iseći na rezance, dodati lovorov list i dinstati zajedno sa iseckanim crnim lukom. U toku dinstanja u kupus dolivati po malo supe od kocke. Pobiberiti, dodati kašičicu aleve paprike i još malo soli, ukoliko je potrebno.
 
 Pirinač oprati i obariti, ali voditi računa da se ne prekuva.
 

@@ -20,7 +20,7 @@ tags:
   - kim
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica karfiola
   * glavica crnog luka (ili manji struk praziluka)
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4495" title="Corba od karfiola" src="/wp-content/uploads/2012/10/Corba-od-karfiola-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk ili praziluk očistiti, sitno iseckati i propržiti na malo ulja. Očišćen, opran i na cvetiće izdeljen karfiol dodati u luk, kratko prodinstati, naliti sa litar i po vode i kuvati.
+**Priprema**: crni luk ili praziluk očistiti, sitno iseckati i propržiti na malo ulja. Očišćen, opran i na cvetiće izdeljen karfiol dodati u luk, kratko prodinstati, naliti sa litar i po vode i kuvati.
 
 Kada čorba proključa, smanjiti temperaturu, posoliti, dodati suvi biljni začin, kim i mleveni biber. Čorbu kuvati na tihoj vatri dok karfiol ne omekša.
 

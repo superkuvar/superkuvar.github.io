@@ -22,7 +22,7 @@ tags:
   - šargarepa
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (2 šolje)
   * 2 struka praziluka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5542" src="/wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-300x225.jpg" alt="Pirinac sa prazilukom i suvim grozdjem" width="300" height="225" /> 
 
-Priprema: pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
+**Priprema**: pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
 
 Praziluk očistiti i sitno iseckati. šargarepu oprati, oljuštiti i narendati.
 

@@ -17,7 +17,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 decilitra vode
   * 1,5 decilitar ulja
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2686" title="Slane princes krofne sa šunkom" src="/wp-content/uploads/2012/03/Slane-princes-krofne-sa-šunkom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud sipati vodu i staviti na štednjak. Kada provri, uz mešanje, sipati ulje, brašno i na vrh noža soli. Skloniti sa štednjaka, prohladiti, a zatim dodavati jaja, jedno po jedno, uz neprestano mešanje varjačom. U pripremljeno testo umešati iseckanu prašku šunku ili pečenicu.
+**Priprema**: u sud sipati vodu i staviti na štednjak. Kada provri, uz mešanje, sipati ulje, brašno i na vrh noža soli. Skloniti sa štednjaka, prohladiti, a zatim dodavati jaja, jedno po jedno, uz neprestano mešanje varjačom. U pripremljeno testo umešati iseckanu prašku šunku ili pečenicu.
 
 Kašičicom vaditi princes krofne i ređati ih u podmazan pleh sa razmakom, jer u toku pečenja narastu. Staviti u pećnicu zagrejanu na 230 stepeni i peći dok princes krofne ne porumene. Za vreme pečenja ne otvarati pećnicu.
 

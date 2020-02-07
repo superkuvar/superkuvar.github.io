@@ -21,7 +21,7 @@ tags:
   - lovorov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kupusa
   * brašno
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4635" title="Kupus sa flekicama" src="/wp-content/uploads/2011/05/Kupus-sa-flekicama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: umesiti čvrsto testo od brašna, jaja, malo vode i soli. Dobro umešeno testo razviti u koru i ostaviti da se prosuši. Prosušenu koru oštrim nožem ili radlom za testo iseći na trake dužine oko deset santimetara, staviti jednu na drugu, pa iseći na rezance širine jedan santimetar. Rezance iseći na kvadratiće – flekice. Prosušene flekice obariti u posoljenoj vodi, ocediti, preliti hladnom vodom i ponovo ocediti.
+**Priprema**: umesiti čvrsto testo od brašna, jaja, malo vode i soli. Dobro umešeno testo razviti u koru i ostaviti da se prosuši. Prosušenu koru oštrim nožem ili radlom za testo iseći na trake dužine oko deset santimetara, staviti jednu na drugu, pa iseći na rezance širine jedan santimetar. Rezance iseći na kvadratiće – flekice. Prosušene flekice obariti u posoljenoj vodi, ocediti, preliti hladnom vodom i ponovo ocediti.
 
 Očišćen i opran kupus sitno iseći, kao za salatu i kratko propržiti na ulju. Zatim ga posoliti, dodati šećer, mleveni biber, alevu papriku i list lovora. Kupus dinstati, uz dolivanje po malo tople vode, dok ne omekša.
 

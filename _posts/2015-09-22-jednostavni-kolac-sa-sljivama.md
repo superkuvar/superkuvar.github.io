@@ -16,7 +16,7 @@ tags:
   - šljive
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * šljive (800 grama)  
 * 4 jajeta  
 * 4 kašike šećera  
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9762" src="/wp-content/uploads/2015/09/jednostavnikolacsasljivama-300x225.jpg" alt="jednostavnikolacsasljivama" width="300" height="225" />](/wp-content/uploads/2015/09/jednostavnikolacsasljivama-e1443702573276.jpg)
 
-Priprema: šljive oprati i ukloniti koštice. Zatim šljive iseći na četvrtine i poređati u pleh prekriven papirom za pečenje. Odozgo šljive posuti šećerom pomešanim sa cimetom. Staviti pleh u pećnicu zagrejanu na 200 stepeni i peći desetak minuta.
+**Priprema**: šljive oprati i ukloniti koštice. Zatim šljive iseći na četvrtine i poređati u pleh prekriven papirom za pečenje. Odozgo šljive posuti šećerom pomešanim sa cimetom. Staviti pleh u pećnicu zagrejanu na 200 stepeni i peći desetak minuta.
 
 U međuvremenu, umutiti jaja sa šećerom, dodati brašno, lagano izmešati i sipati preko šljiva. Vratiti pleh u pećnicu i peći dok se testo ne odvoji od ivica pleha.
 

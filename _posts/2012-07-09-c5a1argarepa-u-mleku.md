@@ -17,7 +17,7 @@ tags:
   - mleko
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama šargarepe
   * 3 kašike brašna
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3687" title="Šargarepaumleku" src="/wp-content/uploads/2012/07/argarepaumleku-e1341813998847-300x234.jpg" alt="" width="300" height="234" /> 
 
-Priprema: šargarepu oprati, očistiti, iseći na štapiće ili kolutove i dinstati na ulju, uz dolivanje po malo tople vode. Kada je šargarepa upola izdinstana, dodati brašno razmućeno u malo hladne vode, promešati i kratko propržiti, a zatim naliti mlekom.
+**Priprema**: šargarepu oprati, očistiti, iseći na štapiće ili kolutove i dinstati na ulju, uz dolivanje po malo tople vode. Kada je šargarepa upola izdinstana, dodati brašno razmućeno u malo hladne vode, promešati i kratko propržiti, a zatim naliti mlekom.
 
 Pri kraju dinstanja šargarepu posoliti, dodati suvi biljni začin, majoran, biber, sitno seckani peršunov list i beli luk. šargarepa je gotova kada mleko skoro uvri i upije masnoću.
 

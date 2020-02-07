@@ -20,7 +20,7 @@ tags:
   - muskatni oraščić
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * blitva (1 veza)
   * 2 šargarepe
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5958" src="/wp-content/uploads/2013/08/Corbaodblitveisargarepe-300x225.jpg" alt="Corbaodblitveisargarepe" width="300" height="225" /> 
 
-Priprema: očišćen crni luk sitno iseckati i propržiti na ulju. Dodati šargarepu isitnjenu na kockice i još malo pržiti.
+**Priprema**: očišćen crni luk sitno iseckati i propržiti na ulju. Dodati šargarepu isitnjenu na kockice i još malo pržiti.
 
 Blitvu oprati, očistiti, iseći na rezance i dodati u luk i šargarepu i pržiti dok blitva malo ne omekša. Posoliti, dodati malo aleve paprike i brašno, promešati i naliti toplom vodom (litar do litar i po). Čorbu kuvati na umerenoj temperaturi.
 

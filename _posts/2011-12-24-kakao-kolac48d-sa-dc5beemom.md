@@ -22,7 +22,7 @@ tags:
   - margarin
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama margarina
   * 3 jajeta
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5621" src="/wp-content/uploads/2011/12/Kakao-kolac-sa-dzemom-300x225.jpg" alt="Kakao kolac sa dzemom" width="300" height="225" /> 
 
-Priprema: u sud za mešenje staviti margarin, dodati 150 grama šećera i umutiti penasto. U umućeni margarin dodati kakao, mleko ili jogurt i brašno pomešano sa praškom za pecivo. Izmešati da se dobije ujednačena masa, sipati u podmazan pleh i peći u umereno zagrejanoj pećnici.
+**Priprema**: u sud za mešenje staviti margarin, dodati 150 grama šećera i umutiti penasto. U umućeni margarin dodati kakao, mleko ili jogurt i brašno pomešano sa praškom za pecivo. Izmešati da se dobije ujednačena masa, sipati u podmazan pleh i peći u umereno zagrejanoj pećnici.
 
 Kada je kolač skoro gotov, izvaditi ga iz rerne i premazati džemom (najbolje od kajsija). Umutiti belanca sa ostatkom šećera i vanilom u čvrst sneg, pa premazati preko džema. Vratiti kolač u pećnicu da se još malo zapeče na tihoj vatri, dok belanca ne dobiju zlatnu boju.
 

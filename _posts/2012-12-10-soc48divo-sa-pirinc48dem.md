@@ -23,7 +23,7 @@ tags:
   - pirinač
   - sočivo
 ---
-Potrebno je:
+**Potrebno je**:
 
   * sočivo (300 grama)
   * pirinač (200 g)
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4876" title="Socivo sa pirincem" src="/wp-content/uploads/2012/12/Socivo-sa-pirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sočivo oprati, naliti vodom i staviti da se kuva. Kada voda provri, ocediti je i sočivo naliti novom toplom vodom, da ogrezne. Sočivo kuvati na tihoj vatri, uz povremeno dolivanje po malo tople vode, ako je potrebno.
+**Priprema**: sočivo oprati, naliti vodom i staviti da se kuva. Kada voda provri, ocediti je i sočivo naliti novom toplom vodom, da ogrezne. Sočivo kuvati na tihoj vatri, uz povremeno dolivanje po malo tople vode, ako je potrebno.
 
 Kada sočivo omekša (otprilike 80%), posoliti ga i dodati suvi biljni začin. Na malo ulja propržiti sitno iseckan crni i beli luk, dodati pire od paradajza i sipati u sočivo, promešati i kuvati još dvadesetak minuta.
 

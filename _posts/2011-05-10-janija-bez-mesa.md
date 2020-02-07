@@ -21,7 +21,7 @@ tags:
   - paprike
   - paradajz pire
 ---
-Potrebno je:
+**Potrebno je**:
 
   * crni luk &#8211; veća glavica
   * pola struka praziluka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5399" src="/wp-content/uploads/2011/05/Janijabezmesa-300x225.jpg" alt="Janijabezmesa" width="300" height="225" /> 
 
-Priprema: na ulju propržiti seckan crni luk i praziluk, a zatim spustiti na kockice isečen krompir. Sve to preliti vodom, da ogrezne, i kuvati na umerenoj temperaturi.
+**Priprema**: na ulju propržiti seckan crni luk i praziluk, a zatim spustiti na kockice isečen krompir. Sve to preliti vodom, da ogrezne, i kuvati na umerenoj temperaturi.
 
 Kada je krompir upola gotov, dodati isečene paprike, paradajz pire, so, biber i biljni začin, pa nastaviti sa kuvanjem.
 

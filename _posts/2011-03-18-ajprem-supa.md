@@ -16,7 +16,7 @@ tags:
   - jaje
   - kim
 ---
-Potrebno je:
+**Potrebno je**:
 
   * brašno (60 grama &#8211; 3 pune kašike)
   * ulje
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3722" title="Ajnpren supa" src="/wp-content/uploads/2011/03/Ajnpren-supa-e1342433699327-300x227.jpg" alt="" width="300" height="227" /> 
 
-Priprema: u lonac sipati malo ulja, zagrejati ga, dodati brašno i propržiti kao za zapršku. Kada brašno porumeni, naliti ga litrom vode i dobro izmešati da se ne bi stvorile grudvice. Posoliti i dodati suvi začin od povrća. Supu kuvati na laganoj vatri 15 minuta.
+**Priprema**: u lonac sipati malo ulja, zagrejati ga, dodati brašno i propržiti kao za zapršku. Kada brašno porumeni, naliti ga litrom vode i dobro izmešati da se ne bi stvorile grudvice. Posoliti i dodati suvi začin od povrća. Supu kuvati na laganoj vatri 15 minuta.
 
 U međuvremenu, umutiti jaje viljuškom i postepeno ga sipati u supu koja vri, uz mešanje da se ne bi zgrušalo.
 

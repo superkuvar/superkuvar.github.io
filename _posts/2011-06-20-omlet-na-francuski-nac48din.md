@@ -16,7 +16,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 4 kašike mleka
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1182" title="omletsunka" src="/wp-content/uploads/2011/06/omletsunka-e1308560206178.jpg" alt="" width="227" height="174" /> 
 
-Priprema: umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
+**Priprema**: umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
 
 Omlet pržiti na umerenoj temperaturi, samo sa jedne, donje strane. Gornja strana omleta treba da ostane vlažna.
 

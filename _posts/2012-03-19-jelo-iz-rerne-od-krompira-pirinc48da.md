@@ -16,7 +16,7 @@ tags:
   - luk
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * pola šolje pirinča
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2731" title="Jelo iz rerne od krompira i pirinča" src="/wp-content/uploads/2012/03/Jelo-iz-rerne-od-krompira-i-pirinča-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir oprati, oljuštiti i iseći na kockice. Crni luk očistiti i iseći na rebarca.
+**Priprema**: krompir oprati, oljuštiti i iseći na kockice. Crni luk očistiti i iseći na rebarca.
 
 U pleh u kome će se jelo peći sipati malo ulja, dodati isečen krompir i luk, opran pirinač, so, suvi biljni začin i začinsku papriku. Izmešati, preliti toplom vodom, da ogrezne i staviti u prethodno zagrejanu pećnicu. Jelo peći na 200 stepeni oko jedan sat, odnosno dok krompir ne omekša a voda uvri.
 

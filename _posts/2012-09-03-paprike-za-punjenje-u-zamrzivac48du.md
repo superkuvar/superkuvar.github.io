@@ -14,14 +14,14 @@ categories:
 tags:
   - paprike
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike
   * so
 
 <img class="alignnone size-medium wp-image-4193" title="Paprikeuzamrzivacu" src="/wp-content/uploads/2012/09/Paprikeuzamrzivacu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: odabrati paprike srednje veličine, po mogućnosti babure, oprati ih i očistiti od peteljki i semena.
+**Priprema**: odabrati paprike srednje veličine, po mogućnosti babure, oprati ih i očistiti od peteljki i semena.
 
 U veću posudu sipati vodu, posoliti je i staviti na štednjak. Kada voda provri, ubacivati paprike i blanširati oko tri minuta. Nakon toga vaditi ih rešetkastom kašikom, preliti hladnom vodom i ostaviti da se ocede.
 

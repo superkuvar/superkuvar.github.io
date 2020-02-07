@@ -15,7 +15,7 @@ tags:
   - džigerica
   - senf
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama crne džigerice
   * 3 glavice crnog luka
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1057" title="dzigericausenfu" src="/wp-content/uploads/2011/06/dzigericausenfu-e1307707883222.jpg" alt="" width="210" height="159" /> 
 
-Priprema: na vrelom ulju propržiti iseckani crni luk da postane staklast, dodati džigericu iseckanu na komadiće, prodinstati a zatim umešati brašno, senf, malo bibera, a po potrebi doliti još malo tople vode.
+**Priprema**: na vrelom ulju propržiti iseckani crni luk da postane staklast, dodati džigericu iseckanu na komadiće, prodinstati a zatim umešati brašno, senf, malo bibera, a po potrebi doliti još malo tople vode.
 
 Džigericu dinstati, uz povremeno mešanje, još desetak minuta. Posoliti je na kraju prženja.
 

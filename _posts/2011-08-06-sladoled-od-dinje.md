@@ -14,13 +14,13 @@ tags:
   - dinja
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama očišćene ananas dinje (ili lubenice)
   * 300 grama šećera
   * 400 ml vode
 
-Priprema: očistiti dinju od kore i semena, iseckati je na komadiće i izmiksati, da se dobije pire. Od vode i šećera skuvati sirup srednje gustine. U ohlađen sirup dodati pire od dinje i dobro izmešati.
+**Priprema**: očistiti dinju od kore i semena, iseckati je na komadiće i izmiksati, da se dobije pire. Od vode i šećera skuvati sirup srednje gustine. U ohlađen sirup dodati pire od dinje i dobro izmešati.
 
 Gotovu smesu za sladoled sipati u pogodnu posudu i staviti u zamrzivač. Na svakih 20-30 minuta promešati, da se ne bi stvorili krupni kristali, već da sladoled bude kremast.
 

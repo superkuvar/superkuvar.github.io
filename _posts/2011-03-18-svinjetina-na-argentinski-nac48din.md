@@ -18,7 +18,7 @@ tags:
   - suvo groždje
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svinjsko meso (krtina &#8211; 1/2 kg)
   * suvo grožđe (50 grama)
@@ -32,7 +32,7 @@ Potrebno je:
   * so
   * mleveni crni biber
 
-Priprema: na zagrejanom ulju pržiti sitno seckani crni i beli luk. Kada omekša, dodati iseckane masline i svinjsko meso isečeno na parčiće. Posoliti, pobiberiti, dodati suvi biljni začin i pržiti 15 minuta.
+**Priprema**: na zagrejanom ulju pržiti sitno seckani crni i beli luk. Kada omekša, dodati iseckane masline i svinjsko meso isečeno na parčiće. Posoliti, pobiberiti, dodati suvi biljni začin i pržiti 15 minuta.
 
 U meso dodati suvo grožđe omekšalo u vodi, preostale masline, vino i na kriške isečen krompir. Poklopiti i ostaviti da se dinsta tridesetak minuta. Po potrebi dolivati još po malo tople vode.
 

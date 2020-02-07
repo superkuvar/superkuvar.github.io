@@ -16,7 +16,7 @@ tags:
   - krompir
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 3 glavice crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3425" title="Salataodkrompira" src="/wp-content/uploads/2012/06/Salataodkrompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: neoljušten krompir oprati, naliti hladnom vodom da ogrezne, malo posoliti i kuvati dok ne omekša. Voditi računa da se krompir ne raskuva. Kada je krompir kuvan ocediti ga od vode, ostaviti da se malo prohladi, oljuštiti i iseći na kolutove.
+**Priprema**: neoljušten krompir oprati, naliti hladnom vodom da ogrezne, malo posoliti i kuvati dok ne omekša. Voditi računa da se krompir ne raskuva. Kada je krompir kuvan ocediti ga od vode, ostaviti da se malo prohladi, oljuštiti i iseći na kolutove.
 
 Crni luk oljuštiti, iseći na rebarca ili tanke kolutove, posoliti i malo izgnječiti rukom. U luk dodati sirće i malo soli, promešati i sipati u krompir. U krompir salatu dodati biber i ulje, pa sve pažljivo izmešati da se krompir ne bi izlomio.
 

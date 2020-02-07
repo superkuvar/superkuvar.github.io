@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Potrebno je: 
+**Potrebno je**: 
 
 * 500 g badema
 * 500 g secera
@@ -22,7 +22,7 @@ Potrebno je:
 * ekstrakt maline, 
 * pakovanje oblandi 
 
-Priprema: u dublji sud staviti šećer, preliti ga sa dve čase vode, dodati samleven i oljušten badem kao i sok od limuna. Sve izmešati i masu kuvati na tihoj vatri dok ne postane sasvim gusta. Gotov nadev skloniti sa vatre, pa podeliti na tri dela. 
+**Priprema**: u dublji sud staviti šećer, preliti ga sa dve čase vode, dodati samleven i oljušten badem kao i sok od limuna. Sve izmešati i masu kuvati na tihoj vatri dok ne postane sasvim gusta. Gotov nadev skloniti sa vatre, pa podeliti na tri dela. 
 
 U jedan staviti kakao, u drugi ekstrakt od maline a treći ostaviti boje badema. Oblande nadevati na sledeći način: na prvu staviti fil sa kakaoom, na drugu fil sa malinom i na treću neobojeni fil. Prekriti četvrtom oblandom, pa oblande pritisnuti nekim težim predmetom dok se ne stegnu i ne prosuše.
 

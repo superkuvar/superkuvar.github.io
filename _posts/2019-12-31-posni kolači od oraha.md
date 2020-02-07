@@ -10,7 +10,7 @@ categories:
 tags:  
   - orasi  
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 250 g kristal šećera, 
 * 5 dl hladne vode 
@@ -25,7 +25,7 @@ Potrebno je:
 * sok od pola limuna
 * strugana korica od celog limuna
 
-Priprema: 
+**Priprema**: 
 
 250 g kristal šećera rastopiti u šerpi na šporetu. 
 

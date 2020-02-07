@@ -17,7 +17,7 @@ tags:
   - svinjska mast
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 250 grama svinjske masti  
 * kisela pavlaka (3 kašike)  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9627" src="/wp-content/uploads/2015/05/vanilicesapavlakom-300x225.jpg" alt="vanilicesapavlakom" width="300" height="225" />](/wp-content/uploads/2015/05/vanilicesapavlakom-e1431003569127.jpg)
 
-Priprema: penasto umutiti mast sa šećerom, pa dodati kiselu pavlaku. U mast postepeno dodavati brašno i umesiti glatko testo.
+**Priprema**: penasto umutiti mast sa šećerom, pa dodati kiselu pavlaku. U mast postepeno dodavati brašno i umesiti glatko testo.
 
 Umešeno testo prebaciti na radnu površinu posutu brašnom i oklagijom ga rastanjiti na debljinu prsta. Kalupom ili čašicom vaditi vanilice i ređati ih u pleh prekriven papirom za pečenje. Vanilice peći u pećnici zagrejanoj na 180 stepeni, da ostanu svetle.
 

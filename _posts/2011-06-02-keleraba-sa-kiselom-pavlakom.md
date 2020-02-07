@@ -15,7 +15,7 @@ tags:
   - keleraba
   - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram mlade kelerabe
   * čaša kisele pavlake
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3521" title="Kelerabasakiselompavlakom" src="/wp-content/uploads/2011/06/Kelerabasakiselompavlakom-e1340206670984-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: kelerabu oljuštiti i iseći na kolutove, pa kuvati u slanoj vodi kojoj se doda komadić margarina. Kada keleraba omekša, vodu od kuvanja ocediti u drugi sud.
+**Priprema**: kelerabu oljuštiti i iseći na kolutove, pa kuvati u slanoj vodi kojoj se doda komadić margarina. Kada keleraba omekša, vodu od kuvanja ocediti u drugi sud.
 
 U drugoj posudi prokuvati pavlaku, spustiti kolutove kelerabe, dodati ulje i brašno, pa naliti sa malo vode u kojoj je keleraba kuvana. Poklopiti sud i ostaviti da jelo lagano krčka, oko pola sata.
 

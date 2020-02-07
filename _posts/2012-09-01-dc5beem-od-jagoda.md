@@ -15,14 +15,14 @@ tags:
   - jagode
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma jagoda
   * 1,5 kg šećera
 
 <img class="alignnone size-medium wp-image-4149" title="Dzem od jagoda" src="/wp-content/uploads/2012/09/Dzem-od-jagoda-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: jagode očistiti od peteljki, oprati i ostaviti da se ocede. Staviti ih u veću šerpu (red jagoda, red šećera) i ostaviti da odstoje preko noći na hladnom mestu (može i u frižideru), da bi pustile sok.
+**Priprema**: jagode očistiti od peteljki, oprati i ostaviti da se ocede. Staviti ih u veću šerpu (red jagoda, red šećera) i ostaviti da odstoje preko noći na hladnom mestu (može i u frižideru), da bi pustile sok.
 
 Sutradan šerpu sa jagodama staviti na štednjak i kuvati. Kada proključa, smanjiti temperaturu i kuvati na blagoj vatri oko 30-40 minuta. Povremeno jagode promešati varjačom i kašikom ukloniti penu koja se nakupi. Džem pažljivo mešati, vodeći računa da se plodovi ne raspadnu.
 

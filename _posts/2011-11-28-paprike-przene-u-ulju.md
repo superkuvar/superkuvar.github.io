@@ -15,7 +15,7 @@ tags:
   - paprike
   - ren
 ---
-Potrebno je:
+**Potrebno je**:
 
   * dugačke mesnate paprike (4 kg)
   * ren (3 korena)
@@ -25,7 +25,7 @@ Potrebno je:
   * esencija
   * list celera
 
-Priprema: paprike oprati, ostaviti da se ocede i iseći im drške. Paprike izbosti viljuškom i pržiti na vrelom ulju, da porumene s obe strane.
+**Priprema**: paprike oprati, ostaviti da se ocede i iseći im drške. Paprike izbosti viljuškom i pržiti na vrelom ulju, da porumene s obe strane.
 
 Ren oprati, očistiti i sitno nastrugati.
 

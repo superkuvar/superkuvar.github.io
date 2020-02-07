@@ -16,7 +16,7 @@ tags:
   - mleko
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama pirinča
   * 1 litar mleka
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2982" title="Sutlijaš sa kokosom" src="/wp-content/uploads/2012/04/Sutlijaš-sa-kokosom-e1334583653893-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu za kuvanje sipati tri šolje vode, dodati vrlo malo soli i staviti na štednjak. Kada voda provri, sipati opran pirinač i kuvati na tihoj vatri desetak minuta. Povremeno promešati, da pirinač ne bi zagoreo.
+**Priprema**: u posudu za kuvanje sipati tri šolje vode, dodati vrlo malo soli i staviti na štednjak. Kada voda provri, sipati opran pirinač i kuvati na tihoj vatri desetak minuta. Povremeno promešati, da pirinač ne bi zagoreo.
 
 U drugi sud sipati mleko i staviti na štednjak. U provrelo mleko dodati oceđen pirinač i kokos. Kuvati 15-20 minuta na tihoj vatri, dok se sutlijaš ne zgusne.  Sutlijaš mešati češće da ne bi zagoreo. U skuvan sutlijaš dodati šećer i vanilu, pustiti da ključa još minut-dva, a zatim skloniti sa vatre.
 

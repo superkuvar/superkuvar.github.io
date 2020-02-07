@@ -23,7 +23,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama bundeve
   * 2 jajeta
@@ -37,7 +37,7 @@ Potrebno je:
 
 ![Sočni kolač od bundeve](/wp-content/uploads/2012/12/Sočnikolačodbundeve-1024x768.jpg)
 
-Priprema: bundevu oljuštiti, ukloniti semenke, oprati i narendati. Umutiti jaja sa šećerom, dodati ulje, mleko, vanilin šećer, narendanu bundevu, griz, kokosovo brašno i prašak za pecivo. Testo dobro izmešati varjačom.
+**Priprema**: bundevu oljuštiti, ukloniti semenke, oprati i narendati. Umutiti jaja sa šećerom, dodati ulje, mleko, vanilin šećer, narendanu bundevu, griz, kokosovo brašno i prašak za pecivo. Testo dobro izmešati varjačom.
 
 U pleh obložen papirom za pečenje sipati pripremljeno testo. Pleh sa testom staviti u pećnicu zagrejanu na 200 stepeni. Prvih 15 minuta kolač peći na ovoj temperaturi, a zatim smanjiti na 180 stepeni i nastaviti sa pečenjem još 30 minuta.
 

@@ -24,7 +24,7 @@ tags:
   - oblande
   - žele bombone
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 lista veće oblande
   * 3 decilitra mleka

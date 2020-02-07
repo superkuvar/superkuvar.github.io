@@ -22,7 +22,7 @@ tags:
   - paradajz
   - suvo meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica slatkog kupusa (oko 1,5 kg)
   * 2 glavice crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4799" title="Podvarakodslatkogkupusa" src="/wp-content/uploads/2012/11/Podvarakodslatkogkupusa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus očistiti, oprati i iseći na rezance ili krupno narendati. Na zagrejanom ulju ili masti propržiti sitno iseckan crni luk, dodati kupus i dinstati, da omekša. Prilikom dinstanja u kupus povremeno dolivati po malo tople vode.
+**Priprema**: kupus očistiti, oprati i iseći na rezance ili krupno narendati. Na zagrejanom ulju ili masti propržiti sitno iseckan crni luk, dodati kupus i dinstati, da omekša. Prilikom dinstanja u kupus povremeno dolivati po malo tople vode.
 
 Kada kupus omekša, dodati so, biber, lovorov list i paradajz pire. Izmešati i preručiti u podmazanu posudu za pečenje. Odozgo staviti meso, pritisnuti ga da potpuno zađe u kupus, sipati šoljicu vode i preliti sa malo ulja.
 

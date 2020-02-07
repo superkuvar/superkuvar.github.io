@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 srednje tikvice
   * glavica crnog luka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3488" title="Zapečenetikvicesašargarepom" src="/wp-content/uploads/2012/06/Zapečenetikvicesašargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
+**Priprema**: tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
 
 Na malo ulja propržiti sitno seckani crni luk. Dodati iseckan beli luk, pirinač i narendanu šargarepu. Sve kratko propržiti, skloniti sa vatre, posoliti, pobiberiti, dodati suvi biljni začin, majoran i seckani peršunov list.
 

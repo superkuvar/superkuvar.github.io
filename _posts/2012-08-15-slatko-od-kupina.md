@@ -14,12 +14,12 @@ tags:
   - kupine
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kupina
   * 1,3 kg šećera
 
-Priprema: odabrati krupnije i čvrste kupine. Staviti ih u cediljku ili đevđir i oprati hladnom vodom. Kupine ne prevrtati rukama, kako se ne bi izgnječile. Ostaviti ih da se ocede.
+**Priprema**: odabrati krupnije i čvrste kupine. Staviti ih u cediljku ili đevđir i oprati hladnom vodom. Kupine ne prevrtati rukama, kako se ne bi izgnječile. Ostaviti ih da se ocede.
 
 Oprane i oceđene kupine složiti u šerpu, red kupina, red šećera, i tako dok se kupine ne utroše. Odozgo treba da bude šećer. Poklopiti šerpu ili je prekriti salvetom i ostaviti da prenoći.
 

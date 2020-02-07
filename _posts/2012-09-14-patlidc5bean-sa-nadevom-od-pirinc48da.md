@@ -19,7 +19,7 @@ tags:
   - plavi patlidžan
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 manja plava patlidžana
   * pirinač (100 grama)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4274" title="Patlidzannadevenpirincem" src="/wp-content/uploads/2012/09/Patlidzannadevenpirincem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, iseći uzdužno na pola i kašičicom pažljivo izdubiti sredinu. Na ulju izdinstati iseckanu sredinu patlidžana, oljušten i na komade isečen paradajz i narendanu šargarepu.
+**Priprema**: plavi patlidžan oprati, iseći uzdužno na pola i kašičicom pažljivo izdubiti sredinu. Na ulju izdinstati iseckanu sredinu patlidžana, oljušten i na komade isečen paradajz i narendanu šargarepu.
 
 Pirinač oprati i obariti u slanoj vodi. Kada je pirinač kuvan, ali ne prekuvan, ocediti ga i dodati u prethodnu masu. Posoliti, pobiberiti, dodati suvi biljni začin i origano, izmešati i propržiti još minut-dva.
 

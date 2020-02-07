@@ -13,7 +13,7 @@ categories:
 tags:
    - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * litar mleka,
 * 3 kašike belog kukuruznog brašna,

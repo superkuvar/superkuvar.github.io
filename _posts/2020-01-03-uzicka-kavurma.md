@@ -23,7 +23,7 @@ Potrebno je (za 8 osoba):
 * lovorov list
 * so
 
-Priprema:
+**Priprema**:
 
 Iznutrice (džigerice, srce, bubrezi, svinjske
 kožice) kuvati 2–3 sata. 

@@ -16,7 +16,7 @@ tags:
   - margarin
   - orasi
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 700 grama očišćenog skuvanog i ispasiranog kestena
   * 250 grama mlevenih oraha
@@ -32,7 +32,7 @@ Za glazuru:
   * kašika margarina ili maslaca
   * 2 kašike vrelog mleka (vode)
 
-Priprema: kesten skuvati, oljuštiti (i koru i kožicu), a zatim ispasirati ili dobro izgnječiti viljuškom, da nema grudvica. U sud sipati šećer, preliti šoljicom vode i skuvati sirup, izmešati sa ispasiranim kestenom, penasto umućenim margarinom, vanilin šećerom, rendanom čokoladom i mlevenim orasima.
+**Priprema**: kesten skuvati, oljuštiti (i koru i kožicu), a zatim ispasirati ili dobro izgnječiti viljuškom, da nema grudvica. U sud sipati šećer, preliti šoljicom vode i skuvati sirup, izmešati sa ispasiranim kestenom, penasto umućenim margarinom, vanilin šećerom, rendanom čokoladom i mlevenim orasima.
 
 Masu izmešati, da se ujednači, pa je sipati u uljem podmazan kalup za tortu. Tortu ostaviti u frižidru da se dobro ohladi i stegne.
 

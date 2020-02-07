@@ -17,7 +17,7 @@ tags:
   - sirće
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * crvene paprike (4 kilograma)
   * paradajz (4 kg)
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4152" title="Ljutenica" src="/wp-content/uploads/2011/12/Ljutenica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paradajz oprati i samleti na mašini za mlevenje paradajza (ili oljuštiti pa iseckati što sitnije). Staviti ga u veći sud da se kuva (oko jedan sat).
+**Priprema**: paradajz oprati i samleti na mašini za mlevenje paradajza (ili oljuštiti pa iseckati što sitnije). Staviti ga u veći sud da se kuva (oko jedan sat).
 
 U međuvremenu paprike oprati, ispeći, oljuštiti, očistiti od semena i sitno iseći. Sjediniti iseckane paprike i samleven kuvani paradajz. Dodati šećer, so, ulje i seckane feferone. Ljutenicu kuvati još jedan sat.
 

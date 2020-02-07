@@ -16,7 +16,7 @@ tags:
   - paradajz
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (šolja)
   * 3 paradajza
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3822" title="Pirinacsaparadajzom" src="/wp-content/uploads/2012/07/Pirinacsaparadajzom-e1343221217432-300x230.jpg" alt="" width="300" height="230" /> 
 
-Priprema: pirinač oprati i skuvati u posoljenoj vodi, a zatim ocediti. Paradajz oprati, oljuštiti i iseći na manje komade.
+**Priprema**: pirinač oprati i skuvati u posoljenoj vodi, a zatim ocediti. Paradajz oprati, oljuštiti i iseći na manje komade.
 
 Zagrejati ulje, pa dodati isečen paradajz. Pirjaniti dok tečnost koju je paradajz pustio ne uvri, a pred sam kraj posoliti i dodati origano ili bosiljak. Skloniti sa vatre, dodati pirinač i dobro izmešati.
 

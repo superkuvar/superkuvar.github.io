@@ -17,7 +17,7 @@ tags:
   - mladi krompir
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mladi krompir (1,5 kg)
   * 125 grama margarina
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-705" title="zapecenikrompirmladi" src="/wp-content/uploads/2011/03/zapecenikrompirmladi.jpg" alt="" width="176" height="132" /> 
 
-Priprema: krupniji mladi krompir oljuštiti, oprati i iseći na režnjeve. Zatim ga posoliti, pobiberiti i posuti sa malo narendanog muskatnog oraščića.
+**Priprema**: krupniji mladi krompir oljuštiti, oprati i iseći na režnjeve. Zatim ga posoliti, pobiberiti i posuti sa malo narendanog muskatnog oraščića.
 
 Vatrostalnu posudu premazati margarinom i istrljati belim lukom, pa izručiti isečen krompir. Preliti rastopljenim margarinom i kiselom pavlakom. Krompir staviti u pećnicu zagrejanu na 200 stepeni i peći oko 45 minuta.
 

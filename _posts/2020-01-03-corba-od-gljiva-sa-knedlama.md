@@ -14,7 +14,7 @@ tags:
    - gljive
    - kisela pavlaka
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 200 g gljiva,
 * glavica crnog luka, 

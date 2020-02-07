@@ -13,7 +13,7 @@ categories:
 tags:
    - boranija
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram boranije
 * veza zeleni

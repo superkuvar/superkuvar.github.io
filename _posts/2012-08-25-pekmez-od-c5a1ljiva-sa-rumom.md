@@ -17,7 +17,7 @@ tags:
   - sirće
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kg šljiva
   * 1 kg šećera
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4102" title="Pekmezodslivasarumom" src="/wp-content/uploads/2012/08/Pekmezodslivasarumom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: zrele šljive, najbolje &#8221;stenlejke&#8221;, oprati, skloniti peteljke i koštice i samleti na mašini za mlevenje mesa ili ih iseckati.
+**Priprema**: zrele šljive, najbolje &#8221;stenlejke&#8221;, oprati, skloniti peteljke i koštice i samleti na mašini za mlevenje mesa ili ih iseckati.
 
 Isitnjene šljive sipati u širi emajlirani sud i kuvati na srednjoj vatri, uz mešanje, dvadesetak minuta. Nakon toga u šljive dodati šećer, vanilu, sirće i cimet. Nastaviti sa kuvanjem, uz neprekidno mešanje drvenom kašikom, dok pekmez ne postane dovoljno gust. Pri kraju kuvanja sipati rum. Znaćemo da je pekmez dovoljno kuvan kada ostane vidljiv trag posle povlačenja varjačom po dnu šerpe.
 

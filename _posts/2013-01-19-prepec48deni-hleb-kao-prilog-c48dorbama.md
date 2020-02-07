@@ -19,7 +19,7 @@ tags:
   - beli luk
   - hlebovi i pogače
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4-5 kriški bajatog hleba
   * ulje
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5101" src="/wp-content/uploads/2013/01/Prepecen-hleb-300x225.jpg" alt="Prepecen hleb" width="300" height="225" /> 
 
-Priprema: kriškama hleba odstraniti koru, a sredinu iseći na kockice. U posudu sipati malo ulja (može i maslinovog), dodati beli luk, izgnječen ili u prahu i kockice hleba. Izmešati, najbolje rukom, da sve kockice hleba upiju ulje. Izručiti u pleh i peći na 180 stepeni oko 15 minuta, u prethodno zagrejanoj pećnici. Krutoni treba da porumene i da se prosuše, paziti da ne pregore.
+**Priprema**: kriškama hleba odstraniti koru, a sredinu iseći na kockice. U posudu sipati malo ulja (može i maslinovog), dodati beli luk, izgnječen ili u prahu i kockice hleba. Izmešati, najbolje rukom, da sve kockice hleba upiju ulje. Izručiti u pleh i peći na 180 stepeni oko 15 minuta, u prethodno zagrejanoj pećnici. Krutoni treba da porumene i da se prosuše, paziti da ne pregore.
 
 Služiti kao prilog uz krem čorbe, supe ili variva. Krutoni se mogu poslužiti i kao grickalice uz pivo.
 

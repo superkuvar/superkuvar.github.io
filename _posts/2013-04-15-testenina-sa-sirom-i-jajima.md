@@ -21,7 +21,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama makarona ili druge testenine po izboru
   * 3 jajeta
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5601" src="/wp-content/uploads/2013/04/Testeninasasiromijajima-300x225.jpg" alt="Testeninasasiromijajima" width="300" height="225" /> 
 
-Priprema: skuvati makarone u slanoj vodi kojoj je dodata kašika ulja. Makarone zatim ocediti i staviti u posudu sa malo vrelog ulja.
+**Priprema**: skuvati makarone u slanoj vodi kojoj je dodata kašika ulja. Makarone zatim ocediti i staviti u posudu sa malo vrelog ulja.
 
 Izgnječiti sir viljuškom pa dodati žumanca, malo soli i kiselu pavlaku. Pomešati makarone i sir. Belanca umutiti u čvrst sneg i lagano ih umešati u makarone.
 

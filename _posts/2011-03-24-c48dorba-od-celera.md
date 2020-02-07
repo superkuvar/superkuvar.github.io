@@ -21,7 +21,7 @@ tags:
   - kiselo mleko
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica celera
   * pirinač (šoljica)
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5284" src="/wp-content/uploads/2011/03/Čorba-od-celera-300x225.jpg" alt="Čorba od celera" width="300" height="225" /> 
 
-Priprema: celer oljuštiti, oprati, iseći na kockice, staviti u litar i po slane vrele vode i kuvati. Kada celer omekša, u čorbu dodati obaren pirinač, suvi biljni začin i biber.
+**Priprema**: celer oljuštiti, oprati, iseći na kockice, staviti u litar i po slane vrele vode i kuvati. Kada celer omekša, u čorbu dodati obaren pirinač, suvi biljni začin i biber.
 
 Od ulja i brašna napraviti belu zapršku, zapržiti čorbu i na tihoj vatri kuvati još nekoliko minuta.
 

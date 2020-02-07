@@ -15,7 +15,7 @@ tags:
   - paprike
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 kilograma mesnatih crvenih paprika
   * 2 kilograma plavog patlidžana
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4172" title="Ajvarsapatlidzanom" src="/wp-content/uploads/2011/09/Ajvarsapatlidzanom-e1346658087259.jpg" alt="" width="295" height="221" /> 
 
-Priprema: plavi patlidžan i paprike oprati i ispeći u pećnici zagrejanoj na 270 stepeni.
+**Priprema**: plavi patlidžan i paprike oprati i ispeći u pećnici zagrejanoj na 270 stepeni.
 
 Ispečene paprike staviti u posudu sa poklopcem, da se potpare, kako bi se lakše oljuštile. Kada se ohlade oljuštiti ih, dobro očistiti od semena i staviti u rešetkastu posudu da se ocede do sutradan (najmanje 5-6 sati). Zatim paprike, zajedno sa oljuštenim patlidžanom, sitno iseckati ili samleti na mašini za mlevenje mesa.
 

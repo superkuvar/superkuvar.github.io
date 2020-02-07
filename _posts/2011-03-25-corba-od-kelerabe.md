@@ -29,7 +29,7 @@ Potrebno:
 
 <img class="alignnone size-full wp-image-751" title="corbaodkelerabe" src="/wp-content/uploads/2011/03/corbaodkelerabe.jpg" alt="" width="186" height="180" /> 
 
-Priprema: kelerabu oprati, oljuštiti i isitniti na kockice ili kriške. Crni luk očistiti, oprati i sitno iseckati. U lonac sipati malo ulja, zagrejati ga, ubaciti kelerabu i luk i dinstati 5 minuta. Dodati brašno, promešati i naliti litrom i po tople vode.
+**Priprema**: kelerabu oprati, oljuštiti i isitniti na kockice ili kriške. Crni luk očistiti, oprati i sitno iseckati. U lonac sipati malo ulja, zagrejati ga, ubaciti kelerabu i luk i dinstati 5 minuta. Dodati brašno, promešati i naliti litrom i po tople vode.
 
 Čorbu kuvati 30 minuta na umerenoj temperaturi, dok keleraba ne bude mekana. Posoliti, pobiberiti i dodati malo suvog biljnog začina.
 

@@ -22,7 +22,7 @@ tags:
   - slanina
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * manji praziluk ili veća glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5675" src="/wp-content/uploads/2013/05/Zapecenikrompirsaslaninom-300x225.jpg" alt="Zapecenikrompirsaslaninom" width="300" height="225" /> 
 
-Priprema: krompir oprati i neoljušten staviti da se kuva. Kada se krompir skuva ocediti ga, a kada se malo prohladi oljuštiti i iseći na kolutove.
+**Priprema**: krompir oprati i neoljušten staviti da se kuva. Kada se krompir skuva ocediti ga, a kada se malo prohladi oljuštiti i iseći na kolutove.
 
 Praziluk oprati, očistiti, sitno iseckati i propržiti na ulju, a zatim dodati slaninu isečenu na kockice i još malo pržiti. Posoliti i pobiberiti.
 

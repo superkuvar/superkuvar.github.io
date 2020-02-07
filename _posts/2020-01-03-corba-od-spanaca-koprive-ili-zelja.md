@@ -12,7 +12,7 @@ categories:
 tags:
    - kopriva
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g spanaća koprive ili zelja
 * glavica crnog luka

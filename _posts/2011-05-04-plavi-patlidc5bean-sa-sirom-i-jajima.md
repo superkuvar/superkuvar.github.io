@@ -17,7 +17,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * plavi patlidžan (2 srednje veličine)
   * ulje ili 100 grama margarina
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-663" title="zapecenipatlidzan" src="/wp-content/uploads/2011/05/zapecenipatlidzan.jpg" alt="" width="259" height="194" /> 
 
-Priprema: crni luk očistiti i sitno iseckati. Plavi patlidžan oljuštiti, pa isitniti na kocke.
+**Priprema**: crni luk očistiti i sitno iseckati. Plavi patlidžan oljuštiti, pa isitniti na kocke.
 
 Na zagrejanom margarinu ili ulju pržiti crni luk i patlidžan dok ne omekšaju, a zatim dodati kašiku brašna, izmešati i još malo propržiti. U plavi patlidžan i luk dodati oljušten iseckan paradajz. Skloniti sa štednjaka, dodati sir izmrvljen viljuškom, seckani peršunov list, biber, so, malo suvog biljnog začina, pa izmešati.
 

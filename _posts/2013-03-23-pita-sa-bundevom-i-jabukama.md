@@ -22,7 +22,7 @@ tags:
   - kore za pitu
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * bundeva (parče oko 800 g)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5507" src="/wp-content/uploads/2013/03/Pitasabundevomijabukama1-300x225.jpg" alt="Pitasabundevomijabukama" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, oprati i narendati, a zatim prodinstati na malo ulja. Kada je bundeva omekšala dodati šećer, cimet i narendane oljuštene jabuke. Dinstati još dva-tri minuta, pa skloniti sa vatre.
+**Priprema**: bundevu oljuštiti, oprati i narendati, a zatim prodinstati na malo ulja. Kada je bundeva omekšala dodati šećer, cimet i narendane oljuštene jabuke. Dinstati još dva-tri minuta, pa skloniti sa vatre.
 
 U pleh obložen papirom za pečenje ili podmazan uljem, staviti tri kore. Svaku poprskati kašikom ulja, a na treću staviti sloj nadeva, pa dve kore poprskane uljem, pa sloj nadeva. Ređati tako dok se ne utroše kore i fil. Odozgo treba da budu tri kore.
 

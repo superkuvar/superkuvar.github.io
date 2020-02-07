@@ -15,7 +15,7 @@ tags:
   - margarin
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (300 grama)
   * malo margarina
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-715" title="supaodsargarepe" src="/wp-content/uploads/2011/03/supaodsargarepe.jpg" alt="" width="256" height="192" /> 
 
-Priprema: šargarepu oprati, oljuštiti i narendati. U lonac staviti malo margarina i rastopiti ga na laganoj vatri, a zatim dodati šargarepu i kratko je propržiti.
+**Priprema**: šargarepu oprati, oljuštiti i narendati. U lonac staviti malo margarina i rastopiti ga na laganoj vatri, a zatim dodati šargarepu i kratko je propržiti.
 
 Proprženu šargarepu naliti litrom tople vode i dodati šećer. Supu kuvati na umerenoj temperaturi 30 minuta. Pri kraju kuvanja posoliti i dodati malo suvog biljnog začina.
 

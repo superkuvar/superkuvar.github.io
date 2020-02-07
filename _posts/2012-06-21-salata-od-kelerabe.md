@@ -16,7 +16,7 @@ tags:
   - limunov sok
   - senf
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3-4 manje kelerabe
   * so
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3548" title="Salataodkelerabe" src="/wp-content/uploads/2012/06/Salataodkelerabe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelerabu oprati, oljuštiti, iseći na tanke štapiće ili komade i obariti u posoljenoj vodi kojoj je dodato pola kašičice šećera.
+**Priprema**: kelerabu oprati, oljuštiti, iseći na tanke štapiće ili komade i obariti u posoljenoj vodi kojoj je dodato pola kašičice šećera.
 
 Pomešati ulje, senf, sirće, luk isečen na rebarca i sitno seckani peršunov list, pa preliti oceđenu i ohlađenu kelerabu. Salatu dobro izmešati, staviti u frižider da se ohladi, a zatim služiti.
 

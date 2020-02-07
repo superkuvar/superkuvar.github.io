@@ -21,7 +21,7 @@ tags:
   - limunov sok
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama bundeve
   * 500 grama tankih kora za pitu
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5182" src="/wp-content/uploads/2013/01/Bundevara-300x225.jpg" alt="Bundevara" width="300" height="225" /> 
 
-Priprema: bundevu očistiti od semenki, oljuštiti i istrugati na krupnoj trenici, a zatim izmešati sa šećerom, vanilin šećerom i sokom od limuna.
+**Priprema**: bundevu očistiti od semenki, oljuštiti i istrugati na krupnoj trenici, a zatim izmešati sa šećerom, vanilin šećerom i sokom od limuna.
 
 Šoljicu ulja izmešati s pola šoljice vrele vode. Po četiri kore ređati jednu na drugu i svaku poprskati mešavinom ulja i vode. Na četvrtu staviti izrendanu bundevu, rasporediti po kori, uviti kao štrudlu i staviti u podmazan pleh. Tako postupiti sa ostatkom kora i fila. Odozgo pitu poprskati uljem.
 

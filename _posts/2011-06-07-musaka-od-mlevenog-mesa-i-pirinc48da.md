@@ -21,7 +21,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama junećeg mlevenog mesa
   * 2 glavice crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4639" title="Musakaodmlevenogmesaipirinča" src="/wp-content/uploads/2011/06/Musakaodmlevenogmesaipirinča-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti i iseckati, pa ga propržiti na ulju. Kada luk postane staklast, dodati mleveno meso i dinstati dok tečnost ne ispari. U meso dodati prokuvan i oceđen pirinač, posoliti i pobiberiti, pa lagano izmešati.
+**Priprema**: crni luk očistiti i iseckati, pa ga propržiti na ulju. Kada luk postane staklast, dodati mleveno meso i dinstati dok tečnost ne ispari. U meso dodati prokuvan i oceđen pirinač, posoliti i pobiberiti, pa lagano izmešati.
 
 U podmazanu posudu sipati masu od mlevenog mesa i pirinča, poravnati i preliti umućenim jajima pomešanim sa mlekom i suvim biljnim začinom.
 

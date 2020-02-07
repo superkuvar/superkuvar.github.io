@@ -23,7 +23,7 @@ tags:
   - rum
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jaja
   * šećer (250 grama)
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4757" title="Gocinkolač" src="/wp-content/uploads/2012/01/Gocinkolač-e1353157077199-300x237.jpg" alt="" width="300" height="237" /> 
 
-Priprema: u posudu za mešenje staviti jaja i šećer, pa varjačom penasto umutiti. U umućena jaja dodati ulje, mleko, izrendane jabuke, mlevene orahe, kašiku ruma ili nekoliko kapi ekstrakta ruma i griz pomešan sa praškom za pecivo. Lagano izmešati da se sastojci sjedine. Testo izručiti u pleh podmazan uljem i posut brašnom. Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
+**Priprema**: u posudu za mešenje staviti jaja i šećer, pa varjačom penasto umutiti. U umućena jaja dodati ulje, mleko, izrendane jabuke, mlevene orahe, kašiku ruma ili nekoliko kapi ekstrakta ruma i griz pomešan sa praškom za pecivo. Lagano izmešati da se sastojci sjedine. Testo izručiti u pleh podmazan uljem i posut brašnom. Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
 
 Pečen i ohlađen kolač preliti glazurom od čokolade.
 

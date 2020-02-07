@@ -15,7 +15,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * ren (2 korena)
   * jabukovo sirće (3 kašike)
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9425" src="/wp-content/uploads/2015/02/prelivodrena-300x225.jpg" alt="prelivodrena" width="300" height="225" />](/wp-content/uploads/2015/02/prelivodrena.jpg)
 
-Priprema: ren oprati, oljuštiti i istrugati sitno na trenici. Dodati malo soli, šećer, sirće i malo ulja. Dobro izmešati. Ovako pripremljen ren servirati uz kuvano meso ili kuvanu ribu.
+**Priprema**: ren oprati, oljuštiti i istrugati sitno na trenici. Dodati malo soli, šećer, sirće i malo ulja. Dobro izmešati. Ovako pripremljen ren servirati uz kuvano meso ili kuvanu ribu.
 
 ### Napomena:
 > prilikom kupovine svežeg rena voditi računa da koren bude čvrst i da nema zelenkastu nijansu na sebi.

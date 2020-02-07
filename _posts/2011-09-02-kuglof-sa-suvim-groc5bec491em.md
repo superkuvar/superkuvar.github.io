@@ -23,7 +23,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama margarina
   * 250 grama šećera
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5434" src="/wp-content/uploads/2011/09/Kuglofsasuvimgrozdjem-300x225.jpg" alt="Kuglofsasuvimgrozdjem" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati žumanca, mleko, rum, struganu koru od limuna, polovinu količine brašna i prašak za pecivo. Umutiti, a zatim dodati čvrsto ulupan sneg od belanaca, ostatak brašna i suvo grožđe.
+**Priprema**: u posudi za mešenje penasto umutiti margarin sa šećerom, dodati žumanca, mleko, rum, struganu koru od limuna, polovinu količine brašna i prašak za pecivo. Umutiti, a zatim dodati čvrsto ulupan sneg od belanaca, ostatak brašna i suvo grožđe.
 
 Testo varjačom lagano izmešati i sipati u podmazan i brašnom posut kalup za kuglof.
 

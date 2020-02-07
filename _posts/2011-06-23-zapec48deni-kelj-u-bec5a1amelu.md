@@ -21,7 +21,7 @@ tags:
   - kelj
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * veća glavica kelja (oko 1,5 kg)
   * 2 čena belog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4887" title="Zapeceni kelj u besamelu" src="/wp-content/uploads/2011/06/Zapeceni-kelj-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelj očistiti, oprati, iseći na četvrtine i obariti u posoljenoj vodi u koju su dodata dva čena belog luka. Obaren kelj ocediti i iseći na krupnije režnjeve.
+**Priprema**: kelj očistiti, oprati, iseći na četvrtine i obariti u posoljenoj vodi u koju su dodata dva čena belog luka. Obaren kelj ocediti i iseći na krupnije režnjeve.
 
 U međuvremenu pripremiti bešamel sos: na ulju propržiti brašno, postepeno naliti toplim mlekom i kuvati, neprestano mešajući žicom za mućenje da se ne bi napravile grudvice. Skloniti sa vatre, malo prohladiti, a zatim dodati žumance, biber, muskatni oraščić i so. Bešamel sos dobro izmešati.
 

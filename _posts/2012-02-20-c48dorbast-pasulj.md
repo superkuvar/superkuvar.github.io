@@ -17,7 +17,7 @@ tags:
   - pasulj
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pasulj (1/2 kg)
   * veća glavica crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2520" title="Pasulj" src="/wp-content/uploads/2012/02/Pasulj-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: pasulj prebrati, oprati, naliti hladnom vodom i ostaviti potopljen preko noći. Sutradan pasulj ocediti, staviti u dublju posudu, naliti vodom i kuvati.
+**Priprema**: pasulj prebrati, oprati, naliti hladnom vodom i ostaviti potopljen preko noći. Sutradan pasulj ocediti, staviti u dublju posudu, naliti vodom i kuvati.
 
 Kada pasulj provri prosuti vodu, naliti ga drugom, toplom vodom i vratiti na štednjak da se kuva. Dodati šargarepu (celu), lovorov list, iseckan crni luk i iseckanu papriku. Pasulj kuvati na umerenoj temperaturi, dok zrna ne omekšaju.
 

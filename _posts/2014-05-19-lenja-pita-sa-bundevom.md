@@ -19,7 +19,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina ili 200 grama masti
   * 1,5 šolja šećera
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9148" src="/wp-content/uploads/2014/05/Lenjapitasabundevom-300x225.jpg" alt="Lenjapitasabundevom" width="300" height="225" />](/wp-content/uploads/2014/05/Lenjapitasabundevom.jpg)
 
-Priprema: penasto umutiti margarin ili mast sa pola šolje šećera, pa dodati jaja, kiselo i slatko mleko. Masu dobro izmešati a zatim dodati brašno pomešano sa praškom za pecivo. Umesiti mekše testo.
+**Priprema**: penasto umutiti margarin ili mast sa pola šolje šećera, pa dodati jaja, kiselo i slatko mleko. Masu dobro izmešati a zatim dodati brašno pomešano sa praškom za pecivo. Umesiti mekše testo.
 
 U međuvremenu, na malo margarina propržiti narendanu bundevu u koju je dodata šolja šećera. Pržiti dok bundeva malo ne omekša, dodati cimet i ostaviti da se ohladi.
 

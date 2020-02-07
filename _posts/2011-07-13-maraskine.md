@@ -16,7 +16,7 @@ tags:
   - orasi
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kilograma šećera
   * 200 grama mlevenih oraha
@@ -25,7 +25,7 @@ Potrebno je:
   * 150 g margarina
   * 100 g šećera u prahu
 
-Priprema: u šerpu sipati šećer, preliti ga čašom vode i ušpinovati kao za slatko. Kada je sirup gotov, u njega dodati mlevene orahe i dve štangle istopljene čokolade. Izmešati i prohladiti.
+**Priprema**: u šerpu sipati šećer, preliti ga čašom vode i ušpinovati kao za slatko. Kada je sirup gotov, u njega dodati mlevene orahe i dve štangle istopljene čokolade. Izmešati i prohladiti.
 
 Ohlađenu masu izručiti na radnu površinu i rastanjiti je na debljinu od jedan santimetar.
 

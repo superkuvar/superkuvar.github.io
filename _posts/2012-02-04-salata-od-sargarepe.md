@@ -15,7 +15,7 @@ tags:
   - limun
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 šargarepa srednje veličine
   * so
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2434" title="Salata od šargarepe" src="/wp-content/uploads/2012/02/Salata-od-šargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šargarepu očistiti, oprati i sitno nastrugati na trenici, po ukusu posoliti, pobiberiti i dodati šećer. Salatu zakiseliti sirćetom ili sokom od limuna (ko više voli), dodati ulje i izmešati.
+**Priprema**: šargarepu očistiti, oprati i sitno nastrugati na trenici, po ukusu posoliti, pobiberiti i dodati šećer. Salatu zakiseliti sirćetom ili sokom od limuna (ko više voli), dodati ulje i izmešati.
 
 Salatu ostaviti u poklopljenoj posudi, na hladnom mestu, da odstoji najmanje jedan sat, da šargarepa upije začine.
 

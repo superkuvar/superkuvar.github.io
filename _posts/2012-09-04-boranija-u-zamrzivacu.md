@@ -14,14 +14,14 @@ categories:
 tags:
   - boranija
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija
   * so (nije obavezno)
 
 <img class="alignnone size-medium wp-image-4200" title="Boranija" src="/wp-content/uploads/2012/09/Boranija-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: mladu svežu boraniju očistiti, oprati i iseći na manje komade. U ključaloj, malo posoljenoj vodi blanširati boraniju u manjim količinama tri do pet minuta, od trenutka kada voda provri. Odmah zatim boraniju staviti u cediljku ili đevđir i preliti tekućom hladnom vodom, da se što pre ohladi.
+**Priprema**: mladu svežu boraniju očistiti, oprati i iseći na manje komade. U ključaloj, malo posoljenoj vodi blanširati boraniju u manjim količinama tri do pet minuta, od trenutka kada voda provri. Odmah zatim boraniju staviti u cediljku ili đevđir i preliti tekućom hladnom vodom, da se što pre ohladi.
 
 Ohlađenu boraniju dobro ocediti, spakovati u plastične kese i zatvoriti. Iz kesa, pre njihovog zatvaranja treba dobro istisnuti vazduh.
 

@@ -24,7 +24,7 @@ tags:
   - paradajz
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za masno testo
 
   * 250 grama brašna
@@ -45,7 +45,7 @@ Za nadev
 
 <img class="alignnone size-medium wp-image-4399" title="Slana torta sa paradajzom" src="/wp-content/uploads/2012/09/Slana-torta-sa-paradajzom2-e1348811139121-300x260.jpg" alt="" width="300" height="260" /> 
 
-Priprema: paradajz oprati, oljuštiti, isitniti i pržiti na malo ulja, dok se ne zgusne. Posoliti, dodati biber, bosiljak i sitno seckani peršunov list.
+**Priprema**: paradajz oprati, oljuštiti, isitniti i pržiti na malo ulja, dok se ne zgusne. Posoliti, dodati biber, bosiljak i sitno seckani peršunov list.
 
 Prosejano brašno izručiti u posudu za mešenje i prstima u njega ugnječiti komadiće razmekšalog margarina, sve dok se brašno ne sjedini s margarinom. U dobijenom lepljivom i grumuljičavom testu napraviti udubljenje, u njega dodati so i malo vode i polako mesiti, po potrebi dolivajući po kašiku vode sve dok se ne dobije ujednačeno, mekano i glatko testo. Testo oblikovati u loptu, uviti u foliju podmazanu uljem i ostaviti da u frižideru odstoji pola sata.
 

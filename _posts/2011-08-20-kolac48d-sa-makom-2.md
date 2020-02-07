@@ -16,7 +16,7 @@ tags:
   - mak
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jaja
   * po 2 čaše (od jogurta) šećera, brašna i mleka
@@ -28,7 +28,7 @@ Potrebno je:
   * kesica vanilin šećera
   * 100 g čokolade za kuvanje (po želji)
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mleko, mak, struganu limunovu koru i brašno pomešano sa praškom za pecivo. Izmešati testo varjačom i sipati u podmazan i brašnom posut pleh. Kolač peći oko 30 minuta u pećnici zagrejanoj na 200 stepeni.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, mak, struganu limunovu koru i brašno pomešano sa praškom za pecivo. Izmešati testo varjačom i sipati u podmazan i brašnom posut pleh. Kolač peći oko 30 minuta u pećnici zagrejanoj na 200 stepeni.
 
 Gotov kolač ohladiti, iseći na kocke i posuti šećerom u prahu pomešanim sa vanilom.
 

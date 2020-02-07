@@ -19,7 +19,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za kore:
 
   * 10 jaja
@@ -49,7 +49,7 @@ Braon fil:
 
 <img class="alignnone size-medium wp-image-3230" title="Jaffa torta" src="/wp-content/uploads/2012/05/Jaffa-torta-e1337082039393-300x230.jpg" alt="" width="300" height="230" /> 
 
-Priprema: u sudu za mešenje umutiti 5 jaja sa 5 kašika šećera, pa dodati 8 kašika mlevenih oraha i 2 kašike brašna. Masu lagano izmešati i sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni dvadesetak minuta. Na isti način pripremiti još jednu koru. Obe ohlađene kore preseći na pola, da bi se dobile četiri manje.
+**Priprema**: u sudu za mešenje umutiti 5 jaja sa 5 kašika šećera, pa dodati 8 kašika mlevenih oraha i 2 kašike brašna. Masu lagano izmešati i sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni dvadesetak minuta. Na isti način pripremiti još jednu koru. Obe ohlađene kore preseći na pola, da bi se dobile četiri manje.
 
 Pripremiti filove. Beli fil: mleko sipati u sud, dodati šećer i staviti na štednjak. Ostaviti malo hladnog mleka u kome razmutiti brašno i gustin, vodeći računa da se ne naprave grudvice. Kada mleko proključa, skloniti ga sa vatre i umešati razmućeno brašno, kao kad se priprema puding. Vratiti na štednjak i kuvati na tihoj vatri, dok se ne zgusne. Neprestano mešati, da ne bi zagorelo.
 

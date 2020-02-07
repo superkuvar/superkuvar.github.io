@@ -16,7 +16,7 @@ tags:
   - lovorov list
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma krastavčića &#8211; kornišona
   * 1 litar sirćeta
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4303" title="Kornisoni" src="/wp-content/uploads/2011/09/Kornisoni-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u šerpu sipati tri i po litra vode, dodati sirće, so i šećer i staviti da provri. Pri kraju dodati kesicu vinobrana.
+**Priprema**: u šerpu sipati tri i po litra vode, dodati sirće, so i šećer i staviti da provri. Pri kraju dodati kesicu vinobrana.
 
 U tegle poređati oprane i salvetom posušene kornišone, po želji dodati list lorbera, biber u zrnu, mirođiju, pa preliti vrelim presolcem. Presolac treba da prekrije kornišone.
 

@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram paprika
   * 2 glavice crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3742" title="Šarenovarivo" src="/wp-content/uploads/2011/06/arenovarivo-e1342616176506-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na ulju, dok ne omekša. Paprike iseći na komade. Plavi patlidžan oljuštiti i sitno iseći. Isitnjeno povrće dodati luku i nastaviti sa prženjem. Posuti brašnom i alevom paprikom.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju, dok ne omekša. Paprike iseći na komade. Plavi patlidžan oljuštiti i sitno iseći. Isitnjeno povrće dodati luku i nastaviti sa prženjem. Posuti brašnom i alevom paprikom.
 
 Paradajz oljuštiti, sitno iseći i dodati masi koja se prži. Pržiti još dva-tri minuta pa naliti vodom, toliko da se dobije gusta masa. Dobro promešati i ostaviti da se jelo krčka na umerenoj temperaturi. Posoliti i pobiberiti po ukusu.
 

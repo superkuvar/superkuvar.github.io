@@ -17,7 +17,7 @@ tags:
   - soja
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 150 grama sojinih odrezaka
   * so
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-912" title="snicleodsoje" src="/wp-content/uploads/2011/06/snicleodsoje.jpg" alt="" width="259" height="194" /> 
 
-Priprema: u litar supe od kocke (ili ključale slane vode) staviti odreske od soje i lovorov list. Posle desetak minuta kuvanja, izvaditi ih iz supe (vode) i ocediti, pritiskajući svaku šniclu između dlanova, da se oslobodi suvišne vode.
+**Priprema**: u litar supe od kocke (ili ključale slane vode) staviti odreske od soje i lovorov list. Posle desetak minuta kuvanja, izvaditi ih iz supe (vode) i ocediti, pritiskajući svaku šniclu između dlanova, da se oslobodi suvišne vode.
 
 Oceđene odreske uvaljati u brašno, jaja i prezlu i pržiti na prethodno zagrejanom ulju.
 

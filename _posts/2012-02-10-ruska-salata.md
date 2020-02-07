@@ -20,7 +20,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama presovane šunke
   * 3 krompira
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2455" title="Ruska salata" src="/wp-content/uploads/2012/02/Ruska-salata-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir i šargarepu oprati, oljuštiti i skuvati u posoljenoj vodi. Grašak i jaja takođe skuvati. Kuvano povrće ocediti od vode i ostaviti da se ohladi.
+**Priprema**: krompir i šargarepu oprati, oljuštiti i skuvati u posoljenoj vodi. Grašak i jaja takođe skuvati. Kuvano povrće ocediti od vode i ostaviti da se ohladi.
 
 Šunku, krompir, šargarepu, krastavčiće i belanca iseckati na kockice. Sve sastojke sipati u činiju, dodati majonez i izmešati.
 

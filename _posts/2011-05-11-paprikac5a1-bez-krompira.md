@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike (800 grama)
   * 3 glavice crnog luka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5415" src="/wp-content/uploads/2011/05/Paprikaš-bez-krompira-300x225.jpg" alt="Paprikaš bez krompira" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju, da omekša. Paprike oprati i iseći. Patlidžan oprati, oljuštiti i iseći na kockice.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju, da omekša. Paprike oprati i iseći. Patlidžan oprati, oljuštiti i iseći na kockice.
 
 Isečene paprike i patlidžan dodati luku koji se prži. Posuti brašnom i alevom paprikom, pa dalje pržiti, uz povremeno mešanje.
 

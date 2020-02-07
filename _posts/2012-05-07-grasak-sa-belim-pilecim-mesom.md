@@ -17,7 +17,7 @@ tags:
   - pileće meso
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama graška (svežeg ili zamrznutog)
   * glavica crnog luka
@@ -33,6 +33,6 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3183" title="Grašaksabelimpilećimmesom" src="/wp-content/uploads/2012/05/Grašaksabelimpilećimmesom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na ulju izdinstati sitno seckani crni luk, šargarepu isečenu na kolutove i pileće belo meso isečeno na kockice. Dodati grašak i naliti toplom vodom, da ogrezne. Dinstati dok grašak i meso ne omekšaju. Pri kraju dinstanja grašak posoliti, dodati suvi biljni začin, mleveni biber i mirođiju.
+**Priprema**: na ulju izdinstati sitno seckani crni luk, šargarepu isečenu na kolutove i pileće belo meso isečeno na kockice. Dodati grašak i naliti toplom vodom, da ogrezne. Dinstati dok grašak i meso ne omekšaju. Pri kraju dinstanja grašak posoliti, dodati suvi biljni začin, mleveni biber i mirođiju.
 
 U malo vode razmutiti kašičicu aleve paprike i kašiku gustina ili brašna, pa sipati u grašak. Promešati i kuvati još nekoliko minuta.

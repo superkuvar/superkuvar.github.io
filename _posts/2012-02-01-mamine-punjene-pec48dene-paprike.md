@@ -19,7 +19,7 @@ tags:
   - prezle
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 8-10 crvenih pečenih paprika iz zamrzivača
   * 300 grama pirinča
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2397" title="Posne paprike -pirinac+mrkva" src="/wp-content/uploads/2012/02/Posne-paprike-pirinac+mrkva-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: paprike izvaditi iz zamrzivača i ostaviti da se odmrznu. Pirinač oprati i obariti u posoljenoj vodi. Praziluk i šargarepu oprati i očistiti. Praziluk sitno iseckati, a šargarepu izrendati.
+**Priprema**: paprike izvaditi iz zamrzivača i ostaviti da se odmrznu. Pirinač oprati i obariti u posoljenoj vodi. Praziluk i šargarepu oprati i očistiti. Praziluk sitno iseckati, a šargarepu izrendati.
 
 U tiganju zagrejati malo ulja, dodati praziluk i šargarepu, pa ih propržiti. Posoliti, pobiberiti i dodati kašičicu suvog biljnog začina. U propržen luk i šargarepu dodati oceđen kuvani pirinač i izmešati.
 

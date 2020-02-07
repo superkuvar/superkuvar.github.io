@@ -16,7 +16,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 litar mleka
   * 5 jaja
@@ -28,7 +28,7 @@ Potrebno je:
 
 ![Šnenokle sa čokoladom](/wp-content/uploads/2012/05/Šnenokle-sa-čokoladom-1024x768.jpg)
 
-Priprema: odvojiti žumanca od belanaca. Umutiti sneg od belanaca, pa dodati šećer u prahu. Nastaviti sa mućenjem dok se ne dobije čvrst sneg.
+**Priprema**: odvojiti žumanca od belanaca. Umutiti sneg od belanaca, pa dodati šećer u prahu. Nastaviti sa mućenjem dok se ne dobije čvrst sneg.
 
 U šerpu sipati litar i po vode i staviti na štednjak da proključa. Kašikom vaditi sneg od belanaca i stavljati u vodu da se kratko prokuva sa obe strane. Gotove nokle vaditi rešetkastom kašikom i ređati na tanjir.
 

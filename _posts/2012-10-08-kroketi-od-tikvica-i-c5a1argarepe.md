@@ -23,7 +23,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 tikvice
   * 2 šargarepe
@@ -41,7 +41,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4456" title="Kroketi od tikvica i sargarepe" src="/wp-content/uploads/2012/10/Kroketi-od-tikvica-i-sargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice i šargarepu oprati, oljuštiti i izrendati. Crni luk očistiti i takođe izrendati. Tikvice posoliti i ostaviti da odstoje 15-20 minuta, a zatim ocediti od vode koju su pustile.
+**Priprema**: tikvice i šargarepu oprati, oljuštiti i izrendati. Crni luk očistiti i takođe izrendati. Tikvice posoliti i ostaviti da odstoje 15-20 minuta, a zatim ocediti od vode koju su pustile.
 
 U posudu staviti tikvice, šargarepu i crni luk, pa dodati umućena jaja, suvi biljni začin, iseckani peršunov list, malo bosiljka i biber. Masu promešati a zatim dodati pola kašičice praška za pecivo i brašna toliko da se dobije srednje gusta masa.
 

@@ -22,7 +22,7 @@ tags:
   - pirinač
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica kiselog kupusa (srednje veličine)
   * 300 grama šargarepe
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4795" title="Posna sarma sa sargarepom" src="/wp-content/uploads/2011/03/Posna-sarma-sa-sargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: luk očistiti, iseći na rebarca i propržiti. Kada je gotov, dodati krupno istruganu šargarepu, očišćen, opran i prethodno obaren pirinač, so, suvi biljni začin i biber, pa još kratko propržiti. Pripremljenim filom nadevati listove kupusa i uvijati sarme.
+**Priprema**: luk očistiti, iseći na rebarca i propržiti. Kada je gotov, dodati krupno istruganu šargarepu, očišćen, opran i prethodno obaren pirinač, so, suvi biljni začin i biber, pa još kratko propržiti. Pripremljenim filom nadevati listove kupusa i uvijati sarme.
 
 Iseckati sitno malo kupusa, staviti ga na dno šerpe, staviti dva lovorova lista, pa odozgo poređati sarme. Naliti vodom, da ogreznu i na laganoj vatri kuvati dok kupus ne omekša.
 

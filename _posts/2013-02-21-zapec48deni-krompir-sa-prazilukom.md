@@ -22,7 +22,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 3 struka praziluka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5312" src="/wp-content/uploads/2013/02/Krompirsaprazilukom-300x225.jpg" alt="Krompirsaprazilukom" width="300" height="225" /> 
 
-Priprema: krompir oprati i neoljušten skuvati u posoljenoj vodi, a zatim ocediti. Krompir ostaviti u poklopljenoj posudi da se malo ohladi, a zatim oljuštiti i iseći na kolutove.
+**Priprema**: krompir oprati i neoljušten skuvati u posoljenoj vodi, a zatim ocediti. Krompir ostaviti u poklopljenoj posudi da se malo ohladi, a zatim oljuštiti i iseći na kolutove.
 
 Praziluk oprati, očistiti, isitniti i propržiti na prethodno zagrejanom ulju. Posoliti i pobiberiti.
 

@@ -17,7 +17,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1,5 kg)
   * 2 glavice crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1150" title="musakapecurke" src="/wp-content/uploads/2011/06/musakapecurke-e1308396408270.jpg" alt="" width="200" height="172" /> 
 
-Priprema: krompir oprati i skuvati u ljusci. Kada je kuvan, oljuštiti ga i iseći na kolutove.
+**Priprema**: krompir oprati i skuvati u ljusci. Kada je kuvan, oljuštiti ga i iseći na kolutove.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju.
 

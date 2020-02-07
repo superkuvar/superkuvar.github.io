@@ -16,7 +16,7 @@ tags:
   - paprike
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * suve paprike (20 komada)
   * 4 glavice crnog luka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1235" title="punjenesuvepaprike" src="/wp-content/uploads/2011/06/punjenesuvepaprike-e1308743745879.jpg" alt="" width="252" height="174" /> 
 
-Priprema: suve paprike oprati i potopiti u mlaku vodu. Ostaviti ih dvadesetak minuta da omekšaju, a zatim ocediti.
+**Priprema**: suve paprike oprati i potopiti u mlaku vodu. Ostaviti ih dvadesetak minuta da omekšaju, a zatim ocediti.
 
 U međuvremenu, iseckani crni luk propržiti na ulju. Ko voli, može da doda i struk seckanog praziluka (beli deo) i da ga proprži zajedno sa crnim lukom.
 

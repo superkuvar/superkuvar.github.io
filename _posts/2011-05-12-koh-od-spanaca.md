@@ -19,7 +19,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1 kg)
   * 3 jajeta
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10833" src="/wp-content/uploads/2011/05/kohodspanaca1-300x225.jpg" alt="kohodspanaca" width="300" height="225" />](/wp-content/uploads/2011/05/kohodspanaca1-e1453448400589.jpg)
 
-Priprema: spanać očistiti, oprati, iseći na rezance i malo propržiti na ulju. Pirinač oprati i skuvati u slanoj vodi, ali paziti da se ne prekuva, a zatim ocediti.
+**Priprema**: spanać očistiti, oprati, iseći na rezance i malo propržiti na ulju. Pirinač oprati i skuvati u slanoj vodi, ali paziti da se ne prekuva, a zatim ocediti.
 
 Posebno penasto umutiti žumanca sa margarinom, pa u njih dodati hladan obaren pirinač, ohlađen spanać i narendani kačkavalj. Začiniti i dodati sneg od belanaca. Sve lagano izmešati.
 

@@ -18,7 +18,7 @@ tags:
   - vino
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svinjsko salo (500 grama)
   * 3 žumanca i 1 celo jaje
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1517" title="salcici3" src="/wp-content/uploads/2011/07/salcici3-e1310990174604.jpg" alt="" width="238" height="153" /> 
 
-Priprema: salo isprati u hladnoj vodi, očistiti od žilica i dva puta samleti na mašini za mlevenje mesa.
+**Priprema**: salo isprati u hladnoj vodi, očistiti od žilica i dva puta samleti na mašini za mlevenje mesa.
 
 U toplo mleko staviti izmrvljen kvasac, dodati malo brašna i dve kašičice šećera, promešati i ostaviti na toplo mesto da kvasac nadođe.
 

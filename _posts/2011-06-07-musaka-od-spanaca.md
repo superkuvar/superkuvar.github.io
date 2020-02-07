@@ -17,7 +17,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg spanaća
   * 500 grama mlevenog mesa
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-1007" title="spanacmusaka" src="/wp-content/uploads/2011/06/spanacmusaka1-e1307457715488.jpg" alt="" width="245" height="140" /> 
 
-Priprema: spanać očistiti, oprati i kratko obariti u slanoj vodi. Obaren spanać ocediti i iseći na rezance.
+**Priprema**: spanać očistiti, oprati i kratko obariti u slanoj vodi. Obaren spanać ocediti i iseći na rezance.
 
 Crni luk očistiti, sitno iseckati i pržiti na ulju, da postane staklast. Dodati mleveno meso i još malo propržiti.
 

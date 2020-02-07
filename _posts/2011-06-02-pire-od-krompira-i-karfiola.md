@@ -18,7 +18,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama krompira
   * 600 g karfiola
@@ -33,7 +33,7 @@ Potrebno je:
 ![Pire od kromopira i karfiola](/wp-content/uploads/2011/06/pirekrompirkarfiol-991x744.jpg)
 
 
-Priprema: krompir i karfiol očistiti i skuvati odvojeno u posoljenoj vodi, ocediti i ispasirati.
+**Priprema**: krompir i karfiol očistiti i skuvati odvojeno u posoljenoj vodi, ocediti i ispasirati.
 
 Ispasirani krompir i karfiol pomešati, izmešati sa rendanim sirom (ostaviti malo za posipanje) i izručiti u nauljenu vatrostalnu posudu.
 

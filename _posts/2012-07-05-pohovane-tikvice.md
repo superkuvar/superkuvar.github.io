@@ -16,7 +16,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3-4 tikvice
   * so
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3666" title="Pohovanetikvice" src="/wp-content/uploads/2012/07/Pohovanetikvice-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći uzdužno na tanje režnjeve i posoliti. Ostaviti tikvice da odstoje dvadesetak minuta, a zatim ih ocediti od vode koju su pustile.
+**Priprema**: tikvice oprati, oljuštiti, iseći uzdužno na tanje režnjeve i posoliti. Ostaviti tikvice da odstoje dvadesetak minuta, a zatim ih ocediti od vode koju su pustile.
 
 Svaki komad tikvica uvaljati u brašno, umočiti u razmućena jaja, pa ovlaš provući kroz prezle. Pržiti na zagrejanom ulju, da porumene sa obe strane. Pohovane tikvice poređati na papirni ubrus da upije suvišnu masnoću.
 

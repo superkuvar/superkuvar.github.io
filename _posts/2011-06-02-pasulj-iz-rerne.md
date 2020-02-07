@@ -18,7 +18,7 @@ tags:
   - pasulj
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pasulj (500 grama)
   * kašičica aleve paprike
@@ -32,6 +32,6 @@ Potrebno je:
 
 ![pasulj iz rerne](/wp-content/uploads/2011/06/Pasulj-iz-rerne-1024x768.jpg)
 
-Priprema: pasulj oprati, potopiti u vodu preko noći i sutradan skuvati na uobičajen način. U vodu u kojoj se pasulj kuva ubaciti dva lista lovora. Kada pasulj postane mek, ocediti ga i spustiti na ulje u kom je prethodno razmućena aleva paprika.
+**Priprema**: pasulj oprati, potopiti u vodu preko noći i sutradan skuvati na uobičajen način. U vodu u kojoj se pasulj kuva ubaciti dva lista lovora. Kada pasulj postane mek, ocediti ga i spustiti na ulje u kom je prethodno razmućena aleva paprika.
 
 U podmazan sud za pečenje sipati pasulj, posoliti ga, dodati iseckanu pečenu papriku, naliti sa malo vode u kojoj se kuvao i preliti mileramom izmešanim sa izgnječenim belim lukom. Jelo posuti seckanim peršunom, preliti sa još malo ulja i staviti u zagrejanu rernu da se zapeče.

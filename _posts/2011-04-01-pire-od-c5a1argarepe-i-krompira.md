@@ -20,7 +20,7 @@ tags:
   - margarin
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (800 grama)
   * 4 veća krompira
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-665" title="pireodsargarepeikrompira" src="/wp-content/uploads/2011/04/pireodsargarepeikrompira.jpg" alt="" width="259" height="194" /> 
 
-Priprema: šargarepu oprati, oljuštiti i kuvati u slanoj vodi. Kada je šargarepa skoro gotova, dodati oljušten krompir isečen na kocke, pa nastaviti sa kuvanjem dok povrće ne omekša.
+**Priprema**: šargarepu oprati, oljuštiti i kuvati u slanoj vodi. Kada je šargarepa skoro gotova, dodati oljušten krompir isečen na kocke, pa nastaviti sa kuvanjem dok povrće ne omekša.
 
 Obarenu šargarepu i krompir ocediti od vode, ispasirati, dodati margarin i kiselu pavlaku i ulupati žicom ili umutiti mikserom.
 

@@ -18,7 +18,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za kore
 
   * 2 jajeta
@@ -46,7 +46,7 @@ Za glazuru
 
 ![Rozen torta](/wp-content/uploads/2012/01/Rozen-2-1024x768.jpg)
 
-Priprema: u sudu za mešenje umutiti maslac ili margarin sa  šećerom, a zatim dodati jaja, mleko, kesicu vanilin šećera, sodu bikarbonu i brašna koliko je potrebno da se zamesi čvrsto glatko testo (otprilike 15 kašika brašna).
+**Priprema**: u sudu za mešenje umutiti maslac ili margarin sa  šećerom, a zatim dodati jaja, mleko, kesicu vanilin šećera, sodu bikarbonu i brašna koliko je potrebno da se zamesi čvrsto glatko testo (otprilike 15 kašika brašna).
 
 Umešeno testo podeliti na pet jednakih delova. Svaki deo rastanjiti oklagijom u manju četvrtastu koru debljine oko 3-4 milimetra. Korice peći na poleđini pleha, premazanoj uljem i posutoj brašnom, oko 15 minuta na umerenoj temperaturi (150 stepeni).
 

@@ -14,7 +14,7 @@ tags:
    - lešnik
    - kajmak
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g kajmaka 
 * 60 g margarina ili maslaca   
@@ -23,7 +23,7 @@ Potrebno je:
 * 50 g peršuna,
 * ljuta zelena papričica
 
-Priprema:
+**Priprema**:
 
 Kajmak propasirati, dobro promešati sa maslacem i dodati sitno iseckan peršun i papričicu. Napraviti
 kuglice veličine lešnika, pa ih uvaljati u posoljene lešnike i orahe. Do služenja staviti u frižidor.

@@ -21,7 +21,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 200 grama šećera
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5344" src="/wp-content/uploads/2011/07/Kolačsakiselimmlekom-300x225.jpg" alt="Kolačsakiselimmlekom" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati kiselo mleko, mleko, ulje, vanilu, prašak za pecivo i brašno. Testo ostaviti da odstoji u frižideru oko pola sata.
+**Priprema**: umutiti jaja sa šećerom, pa dodati kiselo mleko, mleko, ulje, vanilu, prašak za pecivo i brašno. Testo ostaviti da odstoji u frižideru oko pola sata.
 
 Pleh prekriti papirom za pečenje, pa sipati polovinu mase. U drugu polovinu dodati kašiku kakao praha, izmešati i sipati preko žutog testa. Peći na 200 stepeni oko 40 minuta. Kad se kolač ispeče, iseći ga na kocke i posuti prah šećerom.
 

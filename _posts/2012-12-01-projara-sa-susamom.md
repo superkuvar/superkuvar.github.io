@@ -23,7 +23,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 šolje belog kukuruznog brašna
   * pola šolje pšeničnog brašna
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4838" title="Projarasasusamom" src="/wp-content/uploads/2012/11/Projarasasusamom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti viljuškom jaja, dodati ulje, kiselo mleko, so, izmrvljen sir, 2-3 kašike susama i brašno pomešano sa praškom za pecivo. Masu izmešati varjačom i sipati u podmazan pleh. Testo posuti susamom.
+**Priprema**: u posudi za mešenje umutiti viljuškom jaja, dodati ulje, kiselo mleko, so, izmrvljen sir, 2-3 kašike susama i brašno pomešano sa praškom za pecivo. Masu izmešati varjačom i sipati u podmazan pleh. Testo posuti susamom.
 
 Projaru peći oko 40 minuta u pećnici zagrejanoj na 220 stepeni, da dobije zlatno rumenu boju.
 

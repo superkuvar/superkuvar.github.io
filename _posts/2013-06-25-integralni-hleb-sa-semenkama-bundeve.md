@@ -20,7 +20,7 @@ tags:
   - kvasac
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama integralnog pšeničnog brašna
   * pola kockice svežeg kvasca
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5826" src="/wp-content/uploads/2013/06/Integralnihlebsasemenkama-300x225.jpg" alt="Integralnihlebsasemenkama" width="300" height="225" /> 
 
-Priprema: pre početka pripreme hleba, semenke bundeve preliti vodom, da ogreznu, i ostaviti da odstoje oko sat vremena. Nakon toga u decilitar tople vode ili mleka sipati šećer i meko brašno i dodati izmrvljen kvasac. Ostaviti na toplom da kvasac nadođe.
+**Priprema**: pre početka pripreme hleba, semenke bundeve preliti vodom, da ogreznu, i ostaviti da odstoje oko sat vremena. Nakon toga u decilitar tople vode ili mleka sipati šećer i meko brašno i dodati izmrvljen kvasac. Ostaviti na toplom da kvasac nadođe.
 
 U veću posudu sipati integralno brašno, so i oceđene semenke, pa dobro izmešati. U sredini brašna napraviti udubljenje i u njega sipati nadošli kvasac. Malo po malo dodavati toplu vodu i mešati kašikom ili rukom dok se smesa ne ujedanči.
 

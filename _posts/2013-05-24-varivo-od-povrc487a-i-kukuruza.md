@@ -25,7 +25,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama krompira
   * 4 šargarepe
@@ -43,7 +43,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5693" src="/wp-content/uploads/2013/05/Jelo-sa-kukuruzom-300x225.jpg" alt="Jelo sa kukuruzom" width="300" height="225" /> 
 
-Priprema: praziluk oprati, očistiti, sitno iscekati i propržiti na ulju, da omekša. Povrće oprati, očistiti, pa isitniti: krompir na kocke, šargarepu i papriku na kolutove, a paradajz narendati.
+**Priprema**: praziluk oprati, očistiti, sitno iscekati i propržiti na ulju, da omekša. Povrće oprati, očistiti, pa isitniti: krompir na kocke, šargarepu i papriku na kolutove, a paradajz narendati.
 
 Isitnjeno povrće dodati u propržen praziluk, sipati šolju tople vode i dinstati. Povremeno promešati i po potrebi dolivati po malo tople vode. Varivo posoliti, dodati suvi biljni začin, biber, origano i nekoliko kolutova ljute papričice.
 

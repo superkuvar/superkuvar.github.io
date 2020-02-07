@@ -16,7 +16,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2-3 jajeta
   * oko 250 grama brašna
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2765" title="Testo za palačinke" src="/wp-content/uploads/2012/03/Testo-za-palačinke-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u pogodnu dublju posudu staviti brašno, jaja, ulje i so, pa uz postepeno dolivanje mešavine mleka i vode i neprestano mućenje žicom, napraviti testo da nema grudvica. Dobro umućeno testo ostaviti da odstoji oko pola sata do sat.
+**Priprema**: u pogodnu dublju posudu staviti brašno, jaja, ulje i so, pa uz postepeno dolivanje mešavine mleka i vode i neprestano mućenje žicom, napraviti testo da nema grudvica. Dobro umućeno testo ostaviti da odstoji oko pola sata do sat.
 
 U tiganju dobro zagrejati kašiku ulja. Kad se tiganj dobro zagrejao, ulje vratiti u posudu sa masnoćom, a u podmazan tiganj sipati kutlačom testo za palačinke, toliko da prekrije dno tiganja. Zatim tiganj naginjati rukom da se testo ravnomerno razlije po njegovom dnu, kako bi palačinke bile iste debljine.
 

@@ -18,7 +18,7 @@ tags:
   - plavi patlidžan
   - tikvice
 ---
-Potrebno je:  
+**Potrebno je**:  
 * plavi patlidžan (3 srednje veličine)  
 * 2 male tikvice  
 * paprike (6-7 komada)  
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9773" src="/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-300x225.jpg" alt="varivoodpatlidzanatikvicapaprikaiparadajza" width="300" height="225" />](/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-e1444633158868.jpg)
 
-Priprema: crni luk očistiti, iseckati na rebarca i propržiti na ulju, da postane staklast.
+**Priprema**: crni luk očistiti, iseckati na rebarca i propržiti na ulju, da postane staklast.
 
 Plavi patlidžan oljuštiti, oprati i iseći na kockice. Tikvice oprati i neoljuštene iseći na kolutove. Paprike očistiti od semena i iseći na manje komade. Paradajz oljuštiti i takođe iseći.
 

@@ -20,7 +20,7 @@ tags:
   - maslac
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 400 grama brašna  
 * 3 jajeta  
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5699" src="/wp-content/uploads/2011/02/Kolacici-300x225.jpg" alt="Kolacici" width="300" height="225" /> 
 
-Priprema: prosejati na radnoj površini brašno, dodati jaja, šećer u prahu, maslac, malo strugane limunove kore, malo sode bikarbone i kašiku mleka.
+**Priprema**: prosejati na radnoj površini brašno, dodati jaja, šećer u prahu, maslac, malo strugane limunove kore, malo sode bikarbone i kašiku mleka.
 
 Sve zajedno zamesiti i testo dobro izraditi. Kad je gotovo, razviti ga na dasci oklagijom, izbosti viljuškom i modlicama vaditi razne oblike. Tepsiju malo namazati maslacem pa posuti brašnom, poređati biskvite i peći na 180 stepeni.
 

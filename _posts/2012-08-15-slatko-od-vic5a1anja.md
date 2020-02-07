@@ -15,7 +15,7 @@ tags:
   - šećer
   - višnje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram višanja (najbolje su marele)
   * 1,25 kg šećera
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5836" src="/wp-content/uploads/2012/08/Slatkoodvisanja-300x225.jpg" alt="Slatkoodvisanja" width="300" height="225" /> 
 
-Priprema: višnje oprati i očistiti od peteljki i koštica. Koštice vaditi specijalnom spravom, a ukoliko je nemate, može poslužiti tupa strana male ukosnice. U veću šerpu ređati red višanja, red šećera, dok se ne utroši materijal. Odozgo treba da bude šećer.  erpu prekriti salvetom i ostaviti da prenoći.
+**Priprema**: višnje oprati i očistiti od peteljki i koštica. Koštice vaditi specijalnom spravom, a ukoliko je nemate, može poslužiti tupa strana male ukosnice. U veću šerpu ređati red višanja, red šećera, dok se ne utroši materijal. Odozgo treba da bude šećer.  erpu prekriti salvetom i ostaviti da prenoći.
 
 Sutradan višnje preliti šoljom vode, staviti na štednjak i kuvati oko 20 minuta na jačoj vatri. Stalno skidati penu. Slatko ne mešati, već povremeno protresti šerpu. Kuvano je kada sa kašike umočene u slatko budu padale po dve kapi gustog soka.
 

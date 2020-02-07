@@ -19,7 +19,7 @@ tags:
   - šljive
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 2 jajeta
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4286" title="Knedlesasljivama" src="/wp-content/uploads/2012/09/Knedlesasljivama-e1347717107106-300x236.jpg" alt="" width="300" height="236" /> 
 
-Priprema: krompir, najbolje beli, oprati, skuvati, a kada se malo prohladi oljuštiti i ispasirati.
+**Priprema**: krompir, najbolje beli, oprati, skuvati, a kada se malo prohladi oljuštiti i ispasirati.
 
 U posudu za mešenje staviti ispasiran krompir, so, jaja, margarin i brašna koliko je potrebno da se zamesi testo. Testo ne sme da bude previše mekano i da se lepi, ali ni previše čvrsto, već da se lako odvaja od posude u kojoj se mesi.
 

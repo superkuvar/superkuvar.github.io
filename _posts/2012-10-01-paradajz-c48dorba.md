@@ -22,7 +22,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama paradajza
   * 2 šargarepe
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4406" title="Paradajz corba" src="/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg" alt="" width="300" height="231" srcset="/wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-300x231.jpg 300w, /wp-content/uploads/2012/09/Paradajz-corba-e1348845925101-1024x791.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-Priprema: paradajz oprati, oljuštiti, ukloniti seme i iseckati na komadiće. Crni luk očistiti, sitno iseći i propržiti na malo ulja. Sipati griz, promešati, a zatim dodati paradajz, očišćenu i narendanu šargarepu i malo šećera. Povrće naliti litrom i po tople vode. Čorbu kuvati na umerenoj temperaturi dok povrće ne omekša.
+**Priprema**: paradajz oprati, oljuštiti, ukloniti seme i iseckati na komadiće. Crni luk očistiti, sitno iseći i propržiti na malo ulja. Sipati griz, promešati, a zatim dodati paradajz, očišćenu i narendanu šargarepu i malo šećera. Povrće naliti litrom i po tople vode. Čorbu kuvati na umerenoj temperaturi dok povrće ne omekša.
 
 Pri kraju kuvanja čorbu posoliti, dodati suvi biljni začin, biber i bosiljak. U gotovu čorbu dodati sitno seckani list celera ili peršuna.
 

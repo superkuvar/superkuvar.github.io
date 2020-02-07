@@ -18,7 +18,7 @@ tags:
   - krompir
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * ulje
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4460" title="Przenikrompir" src="/wp-content/uploads/2012/10/Przenikrompir-e1349785834475-300x231.jpg" alt="" width="300" height="231" /> 
 
-Priprema: krompir oprati, oljuštiti, iseći na kriške ili štapiće i posušiti kuhinjskim ubrusom.
+**Priprema**: krompir oprati, oljuštiti, iseći na kriške ili štapiće i posušiti kuhinjskim ubrusom.
 
 U posudu za prženje sipati malo veću količinu ulja, zagrejati ga i spustiti krompir. Pržiti u otvorenoj posudi na umerenoj temperaturi, da krompir porumeni i potpuno omekša. Povremeno promešati. Ispržen krompir posoliti.
 

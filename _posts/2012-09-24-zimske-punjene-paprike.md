@@ -17,7 +17,7 @@ tags:
   - peršunov list
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 100 komada paprika &#8221;somborki&#8221;
   * beli luk (150 g)
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4368" title="Paprikezapunjenje" src="/wp-content/uploads/2012/09/Paprikezapunjenje-e1348497086906-300x234.jpg" alt="" width="300" height="234" /> 
 
-Priprema: peršun i beli luk očistiti i samleti na mašini za mlevenje mesa. Izmešati so, ulje, esenciju, beli luk, peršun i vinobran.
+**Priprema**: peršun i beli luk očistiti i samleti na mašini za mlevenje mesa. Izmešati so, ulje, esenciju, beli luk, peršun i vinobran.
 
 Paprike oprati, očistiti od peteljki i semena i ostaviti da se osuše od vode. U svaku staviti pola kašičice pripremljene smese i ređati vodoravno u pogodnu posudu (može i u posudu od plastike).
 

@@ -18,7 +18,7 @@ tags:
   - keleraba
   - paradajz pire
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 mlade kelerabe
   * 3 kašike paradajz pirea
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4733" title="Varivo od kelerabe sa paradajzom" src="/wp-content/uploads/2012/11/Varivo-od-kelerabe-sa-paradajzom-e1353059695766-300x231.jpg" alt="" width="300" height="231" /> 
 
-Priprema: kelerabu očistiti, oprati, iseći na komade i dinstati na ulju. Kada keleraba omekša, dodati pire od paradajza i brašno, pa naliti toplom vodom, da ogrezne. Posoliti i pobiberiti po ukusu. Kelerabu dinstati dok ne uvri tečnost.
+**Priprema**: kelerabu očistiti, oprati, iseći na komade i dinstati na ulju. Kada keleraba omekša, dodati pire od paradajza i brašno, pa naliti toplom vodom, da ogrezne. Posoliti i pobiberiti po ukusu. Kelerabu dinstati dok ne uvri tečnost.
 
 Varivo od kelerabe poslužiti kao prilog uz dinstano meso ili šnicle.
 

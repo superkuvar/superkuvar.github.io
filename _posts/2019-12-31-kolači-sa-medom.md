@@ -10,7 +10,7 @@ categories:
 tags:
    - med
 ---
-Potrebno je:
+**Potrebno je**:
  
 * 150 g šećera
 * 1,5 dl ulja
@@ -19,7 +19,7 @@ Potrebno je:
 * 3 kašike meda
 * oko 300 g brašna.
 
-Priprema:
+**Priprema**:
 
 Pomešati šećer sa belim vinom, dodati ulje i rastopljen med, zatim sodu bikarbomu pa zamesiti brašnom.
 

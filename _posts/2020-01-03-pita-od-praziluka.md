@@ -13,7 +13,7 @@ categories:
 tags:
    - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g praziluka
 * 500 g kora 

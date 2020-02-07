@@ -18,7 +18,7 @@ tags:
   - pirinač
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paprike babure (10 komada)
   * 2 plava patlidžana
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3799" title="Paprikepunjenepatlidzanom" src="/wp-content/uploads/2011/05/Paprikepunjenepatlidzanom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: patlidžan oprati, oljuštiti i iseći na kockice, posoliti i ostaviti da pusti vodu.
+**Priprema**: patlidžan oprati, oljuštiti i iseći na kockice, posoliti i ostaviti da pusti vodu.
 
 Na ulju propržiti seckan crni luk, dodati oceđen patlidžan, pa pirjaniti dok ne omekša. Tome dodati opran pirinač, još malo pirjaniti i skloniti sa vatre. Posoliti i pobiberiti po ukusu, dodati malo suvog biljnog začina, seckani peršunov list i oljušten paradajz isečen na manje komade.
 

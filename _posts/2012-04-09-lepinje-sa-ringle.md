@@ -14,7 +14,7 @@ categories:
 tags:
   - brašno
 ---
-Potrebno je:
+**Potrebno je**:
 
   * brašno
   * so
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2909" title="Lepinje sa ringle" src="/wp-content/uploads/2012/04/Lepinje-sa-ringle-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud za mešenje staviti brašno, malo soli i prašak za pecivo. U brašno sipati onoliko mlake vode koliko je potrebno da se zamesi mekše testo. Testo dobro izraditi rukama.
+**Priprema**: u sud za mešenje staviti brašno, malo soli i prašak za pecivo. U brašno sipati onoliko mlake vode koliko je potrebno da se zamesi mekše testo. Testo dobro izraditi rukama.
 
 Uzimati po malo testa, rastanjiti ga na debljinu od pola santimetra i oblikovati lepinje veličine najveće ringle na štednjaku. Pre pečenja izbosti ih viljškom ili nožem. Lepinje peći na umereno zagrejanoj ringli, sa obe strane.
 

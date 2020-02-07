@@ -21,7 +21,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica karfiola
   * 2 kašike oštrog brašna
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4655" title="Krem corba od karfiola" src="/wp-content/uploads/2012/11/Krem-corba-od-karfiola-e1352357527451-300x248.jpg" alt="" width="300" height="248" /> 
 
-Priprema: karfiol očistiti, oprati i obariti u slanoj vodi. Obaren karfiol ocediti i ispasirati ili izgnječiti viljuškom.
+**Priprema**: karfiol očistiti, oprati i obariti u slanoj vodi. Obaren karfiol ocediti i ispasirati ili izgnječiti viljuškom.
 
 Na malo ulja propržiti brašno, ali da ostane svetle boje, pa naliti sa litar do litar i po tople vode. Dobro izmešati da se ne bi stvorile grudvice.
 

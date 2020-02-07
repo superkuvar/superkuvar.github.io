@@ -19,7 +19,7 @@ tags:
   - mileram
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 tikvica srednje veličine
   * 500 grama krompira
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3771" title="Tikvicesakrompiromisirom" src="/wp-content/uploads/2012/07/Tikvicesakrompiromisirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očistiti crni i beli luk, sitno iseckati i propržiti na malo ulja. Posoliti, dodati suvi biljni začin, majoran i seckani peršunov list. Krompir oprati, oljuštiti, iseći na kolutove i preliti hladnom vodom da ogrezne. Krompir posoliti i kuvati deset minuta, a zatim ocediti.
+**Priprema**: očistiti crni i beli luk, sitno iseckati i propržiti na malo ulja. Posoliti, dodati suvi biljni začin, majoran i seckani peršunov list. Krompir oprati, oljuštiti, iseći na kolutove i preliti hladnom vodom da ogrezne. Krompir posoliti i kuvati deset minuta, a zatim ocediti.
 
 Tikvice oprati, oljuštiti, iseći na kolutove i jedan deo poređati na dno podmazane posude. Preko tikvica sipati prženi luk. Odozgo staviti sloj krompira, posuti rendanim kačkavaljem i preliti sa malo ulja.
 

@@ -16,7 +16,7 @@ tags:
   - šećer
   - višnje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama višanja
   * 8 dl vode
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5847" src="/wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-300x225.jpg" alt="Domacigrizpudingsavisnjama" width="300" height="225" /> 
 
-Priprema: višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
+**Priprema**: višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
 
 U malo hladne vode razmutiti griz, da se ne bi zgrudvao, a zatim sipati u kompot koji vri. Kuvati na umerenoj temperturi, dok se griz ne zgusne. Stalno mešati, da ne zagori.
 

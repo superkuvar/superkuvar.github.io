@@ -21,7 +21,7 @@ tags:
   - sirće
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kuvanog junećeg mesa
   * 3 tvrdo kuvana jajeta
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5771" src="/wp-content/uploads/2012/02/Salaataodmesa-300x225.jpg" alt="Salaataodmesa" width="300" height="225" /> 
 
-Priprema: kuvano meso i jaja sitno iseckati. Izmešati ulje, sirće, senf i majonez, pa preliti preko mesa i jaja. Po ukusu posoliti, pobiberiti i dodati malo seckanog peršunovog lista. Sve dobro izmešati i sipati u staklenu činiju.
+**Priprema**: kuvano meso i jaja sitno iseckati. Izmešati ulje, sirće, senf i majonez, pa preliti preko mesa i jaja. Po ukusu posoliti, pobiberiti i dodati malo seckanog peršunovog lista. Sve dobro izmešati i sipati u staklenu činiju.
 
 Salatu poslužiti uz pire krompir ili bareni pirinač.
 

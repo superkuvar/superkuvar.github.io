@@ -19,7 +19,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 100 grama margarina
@@ -39,7 +39,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-5879" src="/wp-content/uploads/2013/07/Domacivocnikolac-300x225.jpg" alt="Domacivocnikolac" width="300" height="225" /> 
 
-Priprema: penasto umutiti margarin sa šećerom i žumancetom. Dodati mleko i brašno pomešano sa praškom za pecivo. Testo izmešati i sipati u pleh prekriven papirom za pečenje. Staviti u pećnicu zagrejanu na 180 stepeni.
+**Priprema**: penasto umutiti margarin sa šećerom i žumancetom. Dodati mleko i brašno pomešano sa praškom za pecivo. Testo izmešati i sipati u pleh prekriven papirom za pečenje. Staviti u pećnicu zagrejanu na 180 stepeni.
 
 U međuvremenu pripremiti fil na sledeći način: umuti žumanca sa šećerom i vanilom, a zatim dodati brašno i sneg od belanaca. Lagano izmešati.
 

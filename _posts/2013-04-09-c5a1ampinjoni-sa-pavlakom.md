@@ -22,7 +22,7 @@ tags:
   - pečurke
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama pečurki (šampinjoni)
   * 2 glavice crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5578" src="/wp-content/uploads/2013/04/Sampinjonisapavlakom-300x225.jpg" alt="Sampinjonisapavlakom" width="300" height="225" /> 
 
-Priprema: šampinjone očistiti, oprati i sitno iseckati.
+**Priprema**: šampinjone očistiti, oprati i sitno iseckati.
 
 Na ulju propržiti sitno seckani crni luk, pa dodati šampinjone. Pirjaniti na tihoj vatri, dok ne uvri tečnost koju su šampinjoni pustili.
 

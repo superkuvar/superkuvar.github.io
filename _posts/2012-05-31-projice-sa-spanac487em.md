@@ -18,7 +18,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 čaša kukuruznog brašna
   * 1 čaša kukuruznog griza
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3308" title="Projice sa spanaćem" src="/wp-content/uploads/2012/05/Projice-sa-spanaćem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati, pa ga zatim sitno izrezati nožem, posoliti i ostaviti desetak minuta da odstoji. Nakon toga, spanać rukama ovlaš izgnječiti, da se ocedi od suvišne vode.
+**Priprema**: spanać očistiti, oprati, pa ga zatim sitno izrezati nožem, posoliti i ostaviti desetak minuta da odstoji. Nakon toga, spanać rukama ovlaš izgnječiti, da se ocedi od suvišne vode.
 
 U sud za mešenje staviti kukuruzno brašno, kukuruzni griz, pšenično brašno, prašak za pecivo i malo soli, pa izmešati varjačom. Dodavati, uz mešanje, razmućena jaja, ulje, izdrobljen sir, spanać i na kraju jogurt, da se dobije ređe testo.
 

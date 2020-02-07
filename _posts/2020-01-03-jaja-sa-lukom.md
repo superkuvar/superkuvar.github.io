@@ -13,7 +13,7 @@ categories:
 tags: 
    - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 2 veze mladog luka 
 * 6 jaja 
@@ -22,7 +22,7 @@ Potrebno je:
 * so
 * biber
 
-Priprema:
+**Priprema**:
 
 Mladi luk očistiti, oprati i iseći i beli i zeleni deo, staviti na ulje i propržiti na umerenoj temperaturi.
 

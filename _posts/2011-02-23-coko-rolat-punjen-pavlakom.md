@@ -16,7 +16,7 @@ tags:
   - slatka pavlaka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -38,7 +38,7 @@ preliv
   * 2 kašike mleka
   * kašičica maslaca ili margarina
 
-Priprema: penasto umutiti žumanca sa šećerom. U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
+**Priprema**: penasto umutiti žumanca sa šećerom. U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
 
 Pleh prekriti pek papirom ili namazati maslacem i posuti brašnom, pa izručiti testo za rolat. Testo peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni. Pečen rolat izručiti na platnenu salvetu posutu šećerom i uviti ga. Ukoliko je pleh bio pokriven papirom za pečenje, rolat se može uviti u taj papir.
 

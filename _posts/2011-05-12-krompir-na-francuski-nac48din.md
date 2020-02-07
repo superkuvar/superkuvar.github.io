@@ -17,7 +17,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kilogram)
   * 5 jaja
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-707" title="krompirnafrancuskinacin" src="/wp-content/uploads/2011/05/krompirnafrancuskinacin.jpg" alt="" width="192" height="144" /> 
 
-Priprema: krompir oprati i skuvati u ljusci. Kuvan krompir ocediti od vode i kada se malo prohladi oljuštiti i iseći na tanke kolutove.
+**Priprema**: krompir oprati i skuvati u ljusci. Kuvan krompir ocediti od vode i kada se malo prohladi oljuštiti i iseći na tanke kolutove.
 
 Jaja tvrdo skuvati, oljuštiti i takođe iseći na kolutove.
 

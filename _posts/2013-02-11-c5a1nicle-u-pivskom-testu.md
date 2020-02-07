@@ -20,7 +20,7 @@ tags:
   - pivo
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama svinjskog mesa od buta ili vrata
   * 2 jajeta
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5247" src="/wp-content/uploads/2013/02/Šnicle-u-pivskom-testu-300x225.jpg" alt="Šnicle u pivskom testu" width="300" height="225" /> 
 
-Priprema: meso iseći na šnicle. Svaku šniclu izlupati tučkom, da bude debljine oko jedan santimetar, posoliti i posuti mlevenim biberom.
+**Priprema**: meso iseći na šnicle. Svaku šniclu izlupati tučkom, da bude debljine oko jedan santimetar, posoliti i posuti mlevenim biberom.
 
 Jaja umutiti viljuškom, posoliti, dodati brašno i pivo, da se dobije testo gušće nego za palačinke. Testo ujednačiti žicom za mućenje, da ne bude grudvica.
 

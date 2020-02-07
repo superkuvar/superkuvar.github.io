@@ -18,14 +18,14 @@ categories:
 tags:
   - kupus
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 kilograma kupusa
   * soli po ukusu (najbolje morske)
 
 <img class="alignnone size-medium wp-image-4594" title="Kupus ribanac" src="/wp-content/uploads/2011/11/Kupus-ribanac-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: treba odabrati zdrave, tvrde glavice kupusa, pa ih očistiti od spoljnih listova i oprati. Glavice iseći na pola i odstraniti im koren.
+**Priprema**: treba odabrati zdrave, tvrde glavice kupusa, pa ih očistiti od spoljnih listova i oprati. Glavice iseći na pola i odstraniti im koren.
 
 Zatim kupus sitno iseći ili izribati na specijalnoj trenici (ribežu) za kupus. U prethodno dobro oprano bure stavljati red ribanca, red soli i drvenim tučkom dobro nabijati, da kupus pusti sok.
 

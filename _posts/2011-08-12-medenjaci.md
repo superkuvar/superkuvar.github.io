@@ -17,7 +17,7 @@ tags:
   - med
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * po 250 grama meda, šećera i margarina
   * 1 kilogram brašna
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1687" title="belimedenjaci" src="/wp-content/uploads/2011/08/belimedenjaci-e1313146493221.jpg" alt="" width="190" height="200" /> 
 
-Priprema: umutiti penasto margarin sa šećerom. U umućen margarin dodati med, a potom, postepeno, brašno. U dobro sjedinjenu masu dodati jaja, jedno po jedno, a zatim prašak za pecivo.
+**Priprema**: umutiti penasto margarin sa šećerom. U umućen margarin dodati med, a potom, postepeno, brašno. U dobro sjedinjenu masu dodati jaja, jedno po jedno, a zatim prašak za pecivo.
 
 Pripremljeno testo ostaviti da odstoji oko pola sata na hladnom mestu. Potom testo razvući oklagijom, da bude debljine oko 1,5 cm, i manjom čašom ili modlom vaditi pogačice-medenjake.
 

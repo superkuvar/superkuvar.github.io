@@ -20,7 +20,7 @@ tags:
   - med
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina ili masti
   * 3 jajeta
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5481" src="/wp-content/uploads/2012/01/Gurabije-sa-medom-300x225.jpg" alt="Gurabije sa medom" width="300" height="225" /> 
 
-Priprema: penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
+**Priprema**: penasto umutiti margarin sa dva cela jajeta i jednim žumancetom i tri kašike šećera. U umućeni margarin dodati med i brašno pomešano sa praškom za pecivo, pa zamesiti testo.
 
 Testo razviti oklagijom i kalupom vaditi okrugle kolačiće-gurabije. Gurabije se mogu praviti i rukom na sledeći način: na radnoj površini od komada testa napraviti valjak, pa ga nožem seći na jednake komadiće. Svaki valjati između dlanova da se napravi loptica, pritisnuti da se spljošti kao pogačica i prstom malo udubiti u sredini.
 

@@ -16,7 +16,7 @@ tags:
   - crni luk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (700 grama)
   * glavica crnog luka
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6056" src="/wp-content/uploads/2013/08/Varivo-od-sargarepe-300x225.jpg" alt="Varivo od sargarepe" width="300" height="225" />](/wp-content/uploads/2013/08/Varivo-od-sargarepe.jpg)
 
-Priprema: na ulju propržiti sitno seckani crni luk, da postane staklast.
+**Priprema**: na ulju propržiti sitno seckani crni luk, da postane staklast.
 
 šargarepu oprati, očistiti, iseći na kolutove i pomešati sa lukom. Varivo dinstati poklopljeno na umerenoj temperaturi, uz dolivanje po malo vode. Povremeno promešati da šargarepa ne zagori.
 

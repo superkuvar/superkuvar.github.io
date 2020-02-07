@@ -18,7 +18,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram bundeve (muskatne ili obične)
   * 3 šargarepe
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2287" title="Corba-tikva+mrkva 1" src="/wp-content/uploads/2012/01/Corba-tikva+mrkva-1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu oprati, oljuštiti i izrendati na krupno rende. šargarepu i praziluk takođe oprati, oljuštiti i iseći na kolutove.
+**Priprema**: bundevu oprati, oljuštiti i izrendati na krupno rende. šargarepu i praziluk takođe oprati, oljuštiti i iseći na kolutove.
 
 Na malo ulja propržiti praziluk, dodati bundevu i šargarepu, naliti sa litar i po vode i staviti na štednjak da se kuva.
 

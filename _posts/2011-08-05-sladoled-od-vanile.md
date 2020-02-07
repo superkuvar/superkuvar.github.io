@@ -27,7 +27,7 @@ Potrebno je :
 
 <img class="alignnone size-full wp-image-1613" title="vanilasladoled" src="/wp-content/uploads/2011/08/vanilasladoled2-e1312540680164.jpg" alt="" width="266" height="155" /> 
 
-Priprema: umutiti žumanca sa šećerom, pa ih sipati u mleko. Krem kuvati na pari, uz neprestano mešanje, dok se ne zgusne. U kuvan krem dodati vanilu i kašiku margarina.
+**Priprema**: umutiti žumanca sa šećerom, pa ih sipati u mleko. Krem kuvati na pari, uz neprestano mešanje, dok se ne zgusne. U kuvan krem dodati vanilu i kašiku margarina.
 
 Ostaviti da se krem ohladi, a zatim ga sipati u plastičnu posudu i staviti u zamrzivač da se stegne. Posle pola sata sladoled promešati, da se ne bi stvorili krupni kristali.
 

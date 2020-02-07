@@ -20,7 +20,7 @@ tags:
   - paradajz
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * goveđe meso (1/2 kg)
   * veća šargarepa
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-781" title="borscdruginacin" src="/wp-content/uploads/2011/03/borscdruginacin.jpg" alt="" width="229" height="220" /> 
 
-Priprema: meso iseći na kocke, preliti litrom i po vode, dodati so, biber i izgnječeni beli luk i kuvati tridesetak minuta.
+**Priprema**: meso iseći na kocke, preliti litrom i po vode, dodati so, biber i izgnječeni beli luk i kuvati tridesetak minuta.
 
 Preostalo povrće usitniti, paradajz prethodno oljuštiti, propržiti na margarinu, pa dodati u supu sa mesom i kuvati na tihoj vatri dok sve ne bude gotovo.
 

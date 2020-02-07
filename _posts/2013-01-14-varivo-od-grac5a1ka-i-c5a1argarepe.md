@@ -21,7 +21,7 @@ tags:
   - mirođija
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama graška
   * 300 grama šargarepe
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5078" src="/wp-content/uploads/2013/01/Varivoodgraskaisargarepe-300x225.jpg" alt="Varivoodgraskaisargarepe" width="300" height="225" /> 
 
-Priprema: šargarpu oprati, oljuštiti i iseći na kockice. Crni luk očistiti, sitno iseckati i zajedno sa šargarpom propržiti na ulju. Dodati grašak i naliti sa 7-8 decilitara tople vode. Kuvati oko 30 minuta, dok povrće ne omekša.
+**Priprema**: šargarpu oprati, oljuštiti i iseći na kockice. Crni luk očistiti, sitno iseckati i zajedno sa šargarpom propržiti na ulju. Dodati grašak i naliti sa 7-8 decilitara tople vode. Kuvati oko 30 minuta, dok povrće ne omekša.
 
 Na sredini kuvanja u grašak i šargarepu dodati so i suvi biljni začin. Pred kraj u povrće sipati gustin razmućen u malo hladne vode i dobro promešati da se ne bi zgrudvao.
 

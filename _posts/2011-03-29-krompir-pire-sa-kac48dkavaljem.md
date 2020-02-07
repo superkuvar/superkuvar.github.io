@@ -19,7 +19,7 @@ tags:
   - mleko
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1,5 kg)
   * mleko
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6040" src="/wp-content/uploads/2011/03/Krompirpiresakackavaljem-300x225.jpg" alt="Krompirpiresakackavaljem" width="300" height="225" />](/wp-content/uploads/2011/03/Krompirpiresakackavaljem-e1376894338511.jpg)
 
-Priprema: krompir oprati, oljuštiti, iseći na manje komade, naliti hladnom vodom da ogrezne, malo posoliti i staviti da se kuva.
+**Priprema**: krompir oprati, oljuštiti, iseći na manje komade, naliti hladnom vodom da ogrezne, malo posoliti i staviti da se kuva.
 
 Kada se krompir skuva ocediti ga od vode i izgnječiti kašikom za gnječenje krompira. U izgnječen krompir dodati margarin ili maslac, malo mleka, so, jaje, narendani kačkavalj i  muskatni oraščić. Dobro umutiti, najbolje mikserom.
 

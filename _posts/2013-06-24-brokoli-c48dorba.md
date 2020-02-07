@@ -20,7 +20,7 @@ tags:
   - kisela pavlaka
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama brokola
   * kašika brašna
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5817" src="/wp-content/uploads/2013/06/Brokoli-corba-300x225.jpg" alt="Brokoli corba" width="300" height="225" /> 
 
-Priprema: brokoli oprati i odvojiti na cvetiće, a listove sitno iseckati.  
+**Priprema**: brokoli oprati i odvojiti na cvetiće, a listove sitno iseckati.  
 U posudi u kojoj će se kuvati čorba, na malo ulja propržiti kašiku brašna. Dodati isitnjene listove brokola i kratko propržiti. Naliti litrom i po vode i staviti da se kuva.
 
 Kada čorba proključa dodati opran pirinač. Kuvati na umerenoj temperaturi, dok pirinač ne omekša. Zatim u čorbu dodati brokoli iskidan na cvetiće i nastaviti sa kuvanjem još 5-6 minuta. Posoliti, dodati biber i narendani muskatni oraščić.

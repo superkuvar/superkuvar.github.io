@@ -22,7 +22,7 @@ tags:
   - pirinač
   - svinjsko meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kiseli kupus ribanac (1,5 kg)
   * svinjsko meso (400 grama)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4779" title="Vojvodjanski podvarak" src="/wp-content/uploads/2011/06/Vojvodjanski-podvarak-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus oprati i ocediti, pa polovinu staviti u šerpu (pekač) na čije dno je sipano malo ulja. Preko kupusa poređati meso isečeno na kocke, sitno seckani crni luk, biber, lovorov list, suvi biljni začin i pirinač. Odozgo poređati ostatak kupusa, pobiberiti, posuti malo začina i preliti sa dve šolje vode i malo ulja.
+**Priprema**: kupus oprati i ocediti, pa polovinu staviti u šerpu (pekač) na čije dno je sipano malo ulja. Preko kupusa poređati meso isečeno na kocke, sitno seckani crni luk, biber, lovorov list, suvi biljni začin i pirinač. Odozgo poređati ostatak kupusa, pobiberiti, posuti malo začina i preliti sa dve šolje vode i malo ulja.
 
 Pekač poklopiti i staviti u pećnicu. Podvarak peći oko 60 minuta na umerenoj temperaturi.
 

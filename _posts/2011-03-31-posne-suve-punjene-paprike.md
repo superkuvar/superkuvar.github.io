@@ -22,7 +22,7 @@ tags:
   - paradajz pire
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 15-20 suvih paprika
   * 4 glavice crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5809" src="/wp-content/uploads/2011/03/Paprikepunjenepecurkama1-300x225.jpg" alt="Paprikepunjenepecurkama1" width="300" height="225" /> 
 
-Priprema: očistiti i sitno iseckati crni luk i propržiti ga na ulju, da postane staklast. U propržen luk dodati očišćen i opran pirinač, izrendan krompir, so, alevu papriku, suvi biljni začin, i neprestano mešajući prodinstati.
+**Priprema**: očistiti i sitno iseckati crni luk i propržiti ga na ulju, da postane staklast. U propržen luk dodati očišćen i opran pirinač, izrendan krompir, so, alevu papriku, suvi biljni začin, i neprestano mešajući prodinstati.
 
 Suve paprike oprati, preliti vrelom vodom, ostaviti petnaestak minuta da odstoje u vodi, a zatim ocediti. Puniti ih pripremljenim nadevom. Svaku papriku zatvoriti kolutom krompira, nasložiti u šerpu, naliti vodom da ogreznu, pa umešati paradajz pire.
 

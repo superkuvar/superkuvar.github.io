@@ -17,7 +17,7 @@ tags:
   - šampinjoni
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama šargarepe
   * 300 grama šampinjona
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3030" title="Šargarepa sa šampinjonima" src="/wp-content/uploads/2012/04/%C5%A0argarepa-sa-šampinjonima-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šargarepu oprati, očistiti i iseći na kraće štapiće.  ampinjone oprati i iseći na listiće.
+**Priprema**: šargarepu oprati, očistiti i iseći na kraće štapiće.  ampinjone oprati i iseći na listiće.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati šargarepu i nastaviti sa dinstanjem. Po potrebi dolivati po malo tople vode.
 

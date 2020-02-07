@@ -13,7 +13,7 @@ categories:
 tags:
   - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 kilograma paradajza
   * soli po ukusu
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1863" title="kuvaniparadajz" src="/wp-content/uploads/2011/09/kuvaniparadajz-e1315647859672.jpg" alt="" width="231" height="163" /> 
 
-Priprema: paradajz oprati i samleti na specijalnoj mašini za mlevenje paradajza, koja zadržava ljusku i seme, a ako je nema onda ga iseći na komade i u sopstvenom soku kuvati na laganoj vatri. Kada paradajz omekša i ljuske počnu da se odvajaju od ploda, propasirati ga i ponovo staviti na štednjak da se masa kuva.
+**Priprema**: paradajz oprati i samleti na specijalnoj mašini za mlevenje paradajza, koja zadržava ljusku i seme, a ako je nema onda ga iseći na komade i u sopstvenom soku kuvati na laganoj vatri. Kada paradajz omekša i ljuske počnu da se odvajaju od ploda, propasirati ga i ponovo staviti na štednjak da se masa kuva.
 
 Kada paradajz provri dodati šećer, soli po ukusu i lišće celera i kuvati još 25 minuta. Skinuti s vatre, umešati konzervans i vruć paradajz sipati u zagrejane boce.
 

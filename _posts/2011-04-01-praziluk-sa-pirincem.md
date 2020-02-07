@@ -16,7 +16,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * praziluk (4 struka)
   * šolja pirinča
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2363" title="Pirinac+praziluk (4)" src="/wp-content/uploads/2011/04/Pirinac+praziluk-4-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: praziluk oprati, očistiti, iseći na tanje kolutove i propržiti na ulju. U propržen praziluk dodati opran pirinač, so i suvi biljni začin, pa naliti toplom vodom da pirinač ogrezne.
+**Priprema**: praziluk oprati, očistiti, iseći na tanje kolutove i propržiti na ulju. U propržen praziluk dodati opran pirinač, so i suvi biljni začin, pa naliti toplom vodom da pirinač ogrezne.
 
 Jelo dinstati na tihoj vatri i po potrebi dolivati po malo tople vode. Pri kraju dinstanja u praziluk i pirinač dodati biber i origano po ukusu. Jelo je gotovo kada pirinač postane mekan.
 

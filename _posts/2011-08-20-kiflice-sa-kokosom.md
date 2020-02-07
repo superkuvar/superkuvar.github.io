@@ -16,7 +16,7 @@ tags:
   - margarin
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 1 jaje
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-1767" title="kokos kiflice-potkovice" src="/wp-content/uploads/2011/08/kokos-kiflice-potkovice-e1313850862501.jpg" alt="" width="242" height="179" /> 
 
-Priprema: umutiti margarin sa šećerom, pa dodati jaje, žumance, kokos, brašno i prašak za pecivo. Zamesiti testo, a ako ne može da se dobro sjedini dodati malo mleka.
+**Priprema**: umutiti margarin sa šećerom, pa dodati jaje, žumance, kokos, brašno i prašak za pecivo. Zamesiti testo, a ako ne može da se dobro sjedini dodati malo mleka.
 
 Od umešenog testa otkidati loptice, razvaljati ih u valjčić, saviti u obliku potkovice i ređati u podmazan pleh. Kiflice peći na umerenoj temperaturi desetak minuta.
 

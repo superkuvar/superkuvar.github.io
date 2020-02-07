@@ -13,7 +13,7 @@ categories:
 tags:
    - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 200 g lisičarki (pečurke)
 * 400 g kukuruznog belog brašna

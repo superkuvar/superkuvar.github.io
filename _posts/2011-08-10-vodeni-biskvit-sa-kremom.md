@@ -16,7 +16,7 @@ tags:
   - puding
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 jajeta
   * 300 grama šećera
@@ -29,7 +29,7 @@ Potrebno je:
   * 250 grama margarina
   * 100 grama prah šećera
 
-Priprema: umutiti žumaca sa šećerom i pet kašika tople vode. Ulupati čvrst sneg od belanaca, postepeno dodajući pet kašika tople vode. Zatim sve lagano izmešati, dodajući postepeno brašno pomešano sa praškom za pecivo.
+**Priprema**: umutiti žumaca sa šećerom i pet kašika tople vode. Ulupati čvrst sneg od belanaca, postepeno dodajući pet kašika tople vode. Zatim sve lagano izmešati, dodajući postepeno brašno pomešano sa praškom za pecivo.
 
 Pripremljeno testo sipati u podmazan i brašnom posut pleh i peći na 180-200 stepeni.
 

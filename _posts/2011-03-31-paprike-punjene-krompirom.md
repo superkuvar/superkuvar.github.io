@@ -17,7 +17,7 @@ tags:
   - peršunov list
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 12 manjih paprika babura
   * krompir (500 grama)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4026" title="Paprike punjene krompirom" src="/wp-content/uploads/2011/03/Paprike-punjene-krompirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, iseckati na rebarca i ispržiti na ulju, da postane staklast. Krompir i šargarepu oprati, očistiti i istrugati na trenici, pa dodati u luk i još malo propržiti. Posoliti, dodati biber, suvi biljni začin i seckani list peršuna.
+**Priprema**: crni luk očistiti, iseckati na rebarca i ispržiti na ulju, da postane staklast. Krompir i šargarepu oprati, očistiti i istrugati na trenici, pa dodati u luk i još malo propržiti. Posoliti, dodati biber, suvi biljni začin i seckani list peršuna.
 
 Paprike oprati i očistiti od peteljki i semena. Očišćene paprike puniti pripremljenim nadevom i zatvoriti kolutovima paradajza ili kormpira. Poređati ih u šerpu i naliti toplom vodom da ogreznu.
 

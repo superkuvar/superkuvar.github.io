@@ -20,7 +20,7 @@ Potrebno:
 * šecer po potrebi 
 
 
-Priprema: ušpinovati kao za slatko pola kilograma opranih, očišćenih i narendanih jabuka. 
+**Priprema**: ušpinovati kao za slatko pola kilograma opranih, očišćenih i narendanih jabuka. 
 
 Mešati na vatri dok se ne dobije gusta masa, da sva voda ispari. Na kraju dodati sok i rendanu koricu limuna, pa još malo mešajući kuvati na tihoj vatri. 
 

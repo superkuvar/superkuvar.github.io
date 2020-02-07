@@ -18,7 +18,7 @@ tags:
   - jogurt
   - kore za pitu
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tanke kore za pitu (1/2 kg)
   * 4 jajeta
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9156" src="/wp-content/uploads/2014/05/Bakinapitaodbundeve-300x225.jpg" alt="Bakinapitaodbundeve" width="300" height="225" />](/wp-content/uploads/2014/05/Bakinapitaodbundeve.jpg)
 
-Priprema: treba napraviti dva fila, beli i žuti.
+**Priprema**: treba napraviti dva fila, beli i žuti.
 
 Beli fil: umutiti belanca sa tri kašike šećera, pa dodati jogurt, ulje, griz i prašak za pecivo. Lagano izmešati.
 

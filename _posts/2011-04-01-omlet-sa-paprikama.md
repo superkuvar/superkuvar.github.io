@@ -15,7 +15,7 @@ tags:
   - paprike
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 mesnatih paprika
   * 4 jaja
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8899" src="/wp-content/uploads/2011/04/omletsapaprikama1-300x225.jpg" alt="omletsapaprikama" width="300" height="225" />](/wp-content/uploads/2011/04/omletsapaprikama1.jpg)
 
-Priprema: paprike oprati, ispeći, oljuštiti i iseckati na krupnije rezance. Jaja umutiti sa solju i biberom.
+**Priprema**: paprike oprati, ispeći, oljuštiti i iseckati na krupnije rezance. Jaja umutiti sa solju i biberom.
 
 U tiganju zagrejati ulje, staviti polovinu paprika i kratko propržiti, a zatim preliti polovinom umućenih jaja i ispržiti omlet. Potom na isti načini ispržiti i drugi omlet. Kada je omlet skoro gotov, skloniti ga sa vatre i presaviti na pola.
 

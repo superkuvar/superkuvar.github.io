@@ -21,7 +21,7 @@ tags:
   - praziluk
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kora za pitu
   * 400 grama šampinjona
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-848" title="pitaodsampinjona" src="/wp-content/uploads/2011/03/pitaodsampinjona-e1306843120247.jpg" alt="" width="284" height="146" /> 
 
-Priprema: praziluk očistiti i sitno iseckati, a šampinjone iseći na listiće.
+**Priprema**: praziluk očistiti i sitno iseckati, a šampinjone iseći na listiće.
 
 Na malo ulja propržiti praziluk, dodati meso i šampinjone pa dinstati dok ne omekšaju. Na kraju posoliti i pobiberiti.
 

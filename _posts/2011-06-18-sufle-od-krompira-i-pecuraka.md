@@ -17,7 +17,7 @@ tags:
   - pečurke
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kilogram)
   * 4 jajeta
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1166" title="nabujakodkrompiraipecuraka" src="/wp-content/uploads/2011/06/nabujakodkrompiraipecuraka1.jpg" alt="" width="216" height="144" /> 
 
-Priprema: krompir oprati, ne ljuštiti, naliti hladnom vodom da ogrezne i skuvati. Kad se ohladi iseći ga na kolutove.
+**Priprema**: krompir oprati, ne ljuštiti, naliti hladnom vodom da ogrezne i skuvati. Kad se ohladi iseći ga na kolutove.
 
 Pečurke očistiti, oprati, iseći na listiće i propržiti zajedno sa seckanim crnim lukom. Posoliti i pobiberiti.
 

@@ -17,7 +17,7 @@ tags:
   - paprike
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 kilograma krastavčića
   * 2 kilograma paprika
@@ -31,7 +31,7 @@ Potrebno je:
   * sirće
   * kesica konzervansa
 
-Priprema: svo povrće dobro oprati, očistiti, iseckati na komade (karifol na cvetiće), izmešati sa biberom i listićima mirođije i preliti ohlađenim presolcem da ogrezne.
+**Priprema**: svo povrće dobro oprati, očistiti, iseckati na komade (karifol na cvetiće), izmešati sa biberom i listićima mirođije i preliti ohlađenim presolcem da ogrezne.
 
 Za presolac skuvati vodu sa solju i sirćetom i kada se ohladi, dodati konzervans. Povezati tegle.
 

@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * karfiol (manja glavica)
   * 200 grama belog hleba
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4528" title="Uštipciodkarfiola" src="/wp-content/uploads/2012/10/Uštipciodkarfiola-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol oprati, očistiti, odvojiti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti od vode i kada se prohladi izgnječiti viljuškom.
+**Priprema**: karfiol oprati, očistiti, odvojiti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti od vode i kada se prohladi izgnječiti viljuškom.
 
 Sredinu hleba potopiti u mleko, a zatim ocediti. Pomešati izgnječen karfiol sa oceđenom sredinom hleba, dodati jaje, kašiku-dve brašna, so, biber i iseckani peršunov list. Sve dobro izmešati, vaditi kašikom knedle i pržiti na zagrejanom ulju.
 

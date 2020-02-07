@@ -18,7 +18,7 @@ tags:
   - mleveno meso
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram kiselog kupusa ribanca
   * 2 glavice crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9317" src="/wp-content/uploads/2011/06/musakaodkiselogkupusa1-300x225.jpg" alt="musakaodkiselogkupusa" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkiselogkupusa1.jpg)
 
-Priprema: jednu glavicu crnog luka očistiti, sitno iseckati i dinstati na ulju dok ne postane staklast. Kupus, ukoliko je previše kiseo ili slan, isprati u vodi i ocediti, a zatim ga pomešati sa lukom, dodati list lovora i to sve zajedno još malo prodinstati.
+**Priprema**: jednu glavicu crnog luka očistiti, sitno iseckati i dinstati na ulju dok ne postane staklast. Kupus, ukoliko je previše kiseo ili slan, isprati u vodi i ocediti, a zatim ga pomešati sa lukom, dodati list lovora i to sve zajedno još malo prodinstati.
 
 U drugom sudu, na ulju izdinstati drugu glavicu sitno iseckanog luka, dodati meso, malo suvog biljnog začina i bibera i kratko propržiti.
 

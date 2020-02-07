@@ -22,7 +22,7 @@ tags:
   - šunka
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama smrznutog lisnatog testa
   * blitva (3 vezice)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5764" src="/wp-content/uploads/2013/06/Savijaca-sa-spanacem-2-300x225.jpg" alt="Savijaca sa spanacem (2)" width="300" height="225" /> 
 
-Priprema: blitvu očistiti, oprati, ukloniti beli deo, kratko obariti i ocediti. Kada se blitva ohladi sitno je iseckati.
+**Priprema**: blitvu očistiti, oprati, ukloniti beli deo, kratko obariti i ocediti. Kada se blitva ohladi sitno je iseckati.
 
 Umutiti jaja, dodati sir, sitno iseckanu šunku, ajvar, biber i blitvu. Masu za nadev lagano izmešati.
 

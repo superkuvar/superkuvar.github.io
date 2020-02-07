@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 4 tikvice  
 * so  
 * pirinač (šolja)  
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone wp-image-9792 size-medium" src="/wp-content/uploads/2015/10/zapecenetikvicesapirincem-300x225.jpg" alt="zapecenetikvicesapirincem" width="300" height="225" /> 
 
-Priprema: tikvice oprati, pa neoljuštene iseći na kolutove. Pirinač oprati i skuvati u slanoj vodi, ali da se ne prekuva. Kuvan pirinač ocediti.
+**Priprema**: tikvice oprati, pa neoljuštene iseći na kolutove. Pirinač oprati i skuvati u slanoj vodi, ali da se ne prekuva. Kuvan pirinač ocediti.
 
 Tikvice posoliti, dodati sitno seckan beli luk, bosiljak, isitnjen peršunov list pa pomešati sa kuvanim pirinčem. Tikvice i pirinač sipati u podmazanu posudu za pečenje. Na malo ulja propržiti prezle, pa ih sipati preko tikvica.
 

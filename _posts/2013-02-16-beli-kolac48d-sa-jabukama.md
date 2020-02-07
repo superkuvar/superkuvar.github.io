@@ -24,7 +24,7 @@ tags:
   - šećer
   - suvo groždje
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 3 žimanceta
@@ -52,7 +52,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-5266" src="/wp-content/uploads/2013/02/Belikolačsajabukama-300x225.jpg" alt="Belikolačsajabukama" width="300" height="225" /> 
 
-Priprema: oprane jabuke oljuštiti, narendati, pa dodati šećer, vanilin šećer, margarin i limunov sok. Sve zajedno prodinstati, dok jabuke ne omekšaju i tečnost ispari. Dodati suvo grožđe.
+**Priprema**: oprane jabuke oljuštiti, narendati, pa dodati šećer, vanilin šećer, margarin i limunov sok. Sve zajedno prodinstati, dok jabuke ne omekšaju i tečnost ispari. Dodati suvo grožđe.
 
 Penasto umutiti margarin sa šećerom, dodati žumanca, jogurt i brašno pomešano sa praškom za pecivo. Umesiti mekše testo.
 

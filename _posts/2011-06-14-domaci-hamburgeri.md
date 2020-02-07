@@ -17,7 +17,7 @@ tags:
   - mleveno meso
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * mleveno juneće meso (500 grama)
   * 2 glavice crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3602" title="Domaćihamburgeri" src="/wp-content/uploads/2011/06/Domaćihamburgeri-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti i sitno iseckati. U mleveno meso dodati iseckan luk, peršunov list, jaje, so i biber. Masu dobro izmešati i izgnječiti rukom, pa oblikovati pljeskavice. Hamburgere pržiti u zagrejanom teflonskom ili običnom tiganju, na malo ulja, a mogu se pripremiti i na roštilju.
+**Priprema**: crni luk očistiti i sitno iseckati. U mleveno meso dodati iseckan luk, peršunov list, jaje, so i biber. Masu dobro izmešati i izgnječiti rukom, pa oblikovati pljeskavice. Hamburgere pržiti u zagrejanom teflonskom ili običnom tiganju, na malo ulja, a mogu se pripremiti i na roštilju.
 
 Ispržene hamburgere staviti na tanjir, premazati ih sa malo kečapa ili nekog pikantnog sosa, a odozgo rasporediti sitno seckani sveži crni luk.
 

@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 manjih tikvica
   * 1 vezica mladog crnog luka
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3395" title="Kroketiodtikvica" src="/wp-content/uploads/2012/06/Kroketiodtikvica-e1339158140196-300x227.jpg" alt="" width="300" height="227" /> 
 
-Priprema: tikvice oprati, oljuštiti i izrendati na krupno rende. Dodati jaja, sitno seckani crni luk, so, suvi biljni začin, seckanu mirođiju, malo kima i brašna toliko da se dobije masa srednje gustine.
+**Priprema**: tikvice oprati, oljuštiti i izrendati na krupno rende. Dodati jaja, sitno seckani crni luk, so, suvi biljni začin, seckanu mirođiju, malo kima i brašna toliko da se dobije masa srednje gustine.
 
 U posudu za prženje sipati ulje i zagrejati ga na umerenoj temperaturi. Kašikom zahvatati smesu od tikvica i stavljati u vrelo ulje. Krokete pržiti da porumene sa obe strane.
 

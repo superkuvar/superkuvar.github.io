@@ -17,7 +17,7 @@ tags:
   - muskatni oraščić
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva (1,5 kg)
   * 200 grama kačkavalja
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2491" title="Sufle od bundeve" src="/wp-content/uploads/2012/02/Sufle-od-bundeve-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, iseći na komade i staviti da se kuva u manjoj količini vode. Kada bundeva omekša, ocediti je i propasirati ili izgnječiti viljuškom. U dobijeni pire dodati žumanca, so, muskatni oraščić, malo bibera i rendani kačkavalj. U pire umešati čvrst sneg od belanaca i lagano izmešati.
+**Priprema**: bundevu oljuštiti, iseći na komade i staviti da se kuva u manjoj količini vode. Kada bundeva omekša, ocediti je i propasirati ili izgnječiti viljuškom. U dobijeni pire dodati žumanca, so, muskatni oraščić, malo bibera i rendani kačkavalj. U pire umešati čvrst sneg od belanaca i lagano izmešati.
 
 Vatrostalnu posudu dobro podmazati uljem ili margarinom i posuti prezlama, pa sipati pripremljenu masu od bundeve. Sufle peći u umereno zagrejanoj pećnici (180 stepeni) oko 30 minuta.
 

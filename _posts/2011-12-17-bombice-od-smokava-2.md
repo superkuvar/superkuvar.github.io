@@ -17,7 +17,7 @@ tags:
   - rum
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg suvih smokava
   * 200 grama mlevenih oraha
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2305" title="bombicesmokveorasi" src="/wp-content/uploads/2011/12/bombicesmokveorasi-e1327064464624.jpg" alt="" width="295" height="221" /> 
 
-Priprema: na mašini za mlevenje mesa samleti smokve (dva puta). U sud za mešenje staviti samlevene smokve, orahe, rum, margarin i šećer, pa dodati sok od pomorandže i zamesiti, da se sastojci dobro sjedine.
+**Priprema**: na mašini za mlevenje mesa samleti smokve (dva puta). U sud za mešenje staviti samlevene smokve, orahe, rum, margarin i šećer, pa dodati sok od pomorandže i zamesiti, da se sastojci dobro sjedine.
 
 Od umešene mase otkidati manje komade i vlažnim rukama oblikovati kuglice-bombice. Bombice uvaljati u mlevene orahe ili kristal šećer i stavljati u papirne korpice.
 

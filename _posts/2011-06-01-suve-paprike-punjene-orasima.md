@@ -17,7 +17,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 20 suvih paprika
   * 300 grama pirinča
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-880" title="suvepaprike" src="/wp-content/uploads/2011/06/suvepaprike-e1306931465609.jpg" alt="" width="234" height="170" /> 
 
-Priprema: suve paprike pre kuvanja potopiti u mlaku vodu. Crni luk i bele delove praziluka sitno iseckati, pa ih dinstati na ulju. Kada tečnost ispari i luk počne da dobija žućkastu boju, dodati opran pirinač i alevu papriku. Skloniti sa vatre, dodati mlevene orahe, posoliti i pobiberiti.
+**Priprema**: suve paprike pre kuvanja potopiti u mlaku vodu. Crni luk i bele delove praziluka sitno iseckati, pa ih dinstati na ulju. Kada tečnost ispari i luk počne da dobija žućkastu boju, dodati opran pirinač i alevu papriku. Skloniti sa vatre, dodati mlevene orahe, posoliti i pobiberiti.
 
 Pripremljenim nadevom puniti paprike, ređati ih u šerpu, naliti vodom da ogreznu i poklopljene peći oko 60 minuta u rerni zagrejanoj na 200 stepeni. Nakon toga, skloniti poklopac sa šerpe i ostaviti da se paprike još malo zapeku.
 

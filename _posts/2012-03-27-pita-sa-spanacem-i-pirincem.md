@@ -17,7 +17,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * 400 grama obarenog spanaća
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2844" title="Pita sa spanaćem i pirinčem" src="/wp-content/uploads/2012/03/Pita-sa-spanaćem-i-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: pirinač oprati i skuvati u slanoj vodi, ali voditi računa da se ne prekuva. Kuvan pirinač ocediti.
+**Priprema**: pirinač oprati i skuvati u slanoj vodi, ali voditi računa da se ne prekuva. Kuvan pirinač ocediti.
 
 Spanać očistiti, oprati, obariti i ocediti. Obaren spanać, kada se ohladi sitno iseckati, pomešati sa pirinčem i umućenim jajima, a zatim dodati malo ulja. Posoliti i pobiberiti po ukusu i izmešati.
 

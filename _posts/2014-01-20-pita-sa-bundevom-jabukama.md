@@ -21,7 +21,7 @@ tags:
   - šećer
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kora za pitu
   * 1 kg bundeve
@@ -36,7 +36,7 @@ Potrebno je:
 [  
 <img class="alignnone size-medium wp-image-7083" src="/wp-content/uploads/2014/01/Pitasabundevomijabukama-300x225.jpg" alt="Pitasabundevomijabukama" width="300" height="225" />](/wp-content/uploads/2014/01/Pitasabundevomijabukama.jpg) 
 
-Priprema: bundevu očistiti i narendati na krupno rende. Narendanu bundevu prodinstati na malo ulja, da omekša. Na kraju dinstanja dodati šećer po ukusu, a i u zavisnosti od toga koliko je sama bundeva slatka.
+**Priprema**: bundevu očistiti i narendati na krupno rende. Narendanu bundevu prodinstati na malo ulja, da omekša. Na kraju dinstanja dodati šećer po ukusu, a i u zavisnosti od toga koliko je sama bundeva slatka.
 
 Jabuke oprati, oljuštiti i narendati, a zatim dodati u izdinstanu bundevu.
 

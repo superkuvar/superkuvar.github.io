@@ -20,7 +20,7 @@ tags:
   - mirođija
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šargarepa (600 grama)
   * ulje
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5116" src="/wp-content/uploads/2011/05/Sargerpa-sa-prelivom-od-mirodjije-300x225.jpg" alt="Sargerpa sa prelivom od mirodjije" width="300" height="225" /> 
 
-Priprema: šargarepu očistiti, oprati, iseći na kockice ili štapiće, staviti u sud sa vrelom slanom vodom i kuvati 15 minuta.
+**Priprema**: šargarepu očistiti, oprati, iseći na kockice ili štapiće, staviti u sud sa vrelom slanom vodom i kuvati 15 minuta.
 
 Od ulja i brašna napraviti zapršku, staviti iseckanu mirođiju, promešati, skloniti sa vatre i razrediti sa malo hladne vode. Dodati malo mleka i vratiti na vatru, da se sos zgusne. Mešati žicom za mućenje jaja, da se ne bi napravile grudvice. Ukoliko je potrebno još tečnosti, dodati mleko. Posoliti i pobiberiti.
 

@@ -17,7 +17,7 @@ tags:
 ---
 &nbsp;
 
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama šampinjona
   * veza zeleni
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-779" title="corbaodsampinjonaizeleni" src="/wp-content/uploads/2011/03/corbaodsampinjonaizeleni3-e1306823623721.jpg" alt="" width="252" height="156" /> 
 
-Priprema: na ulju propržiti iseckan crni luk, dodati očišćene, oprane i na listiće isečene šampinjone i pirjaniti, dolivajući po malo vode.
+**Priprema**: na ulju propržiti iseckan crni luk, dodati očišćene, oprane i na listiće isečene šampinjone i pirjaniti, dolivajući po malo vode.
 
 Posebno, u 2 litra vode, kuvati zelen (šargarepu, paškanat, celer) isečenu na kolutove a celer na kockice. Kad su šampinjoni skoro gotovi, sipati ih u vodu u kojoj se kuvala zelen, posoliti, pobiberiti i kuvati još desetak minuta.
 

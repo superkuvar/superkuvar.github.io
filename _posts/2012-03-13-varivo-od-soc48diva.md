@@ -17,7 +17,7 @@ tags:
   - origano
   - sočivo
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama sočiva
   * 2 glavice crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2655" title="Varivo od sočiva" src="/wp-content/uploads/2012/03/Varivo-od-sočiva-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sočivo probrati, dobro oprati, staviti u dublji sud, naliti hladnom vodom i staviti da se kuva. Kada provri, prosuti vodu, naliti ga novom, toplom vodom, dodati sitno seckani crni luk i nastaviti sa kuvanjem.
+**Priprema**: sočivo probrati, dobro oprati, staviti u dublji sud, naliti hladnom vodom i staviti da se kuva. Kada provri, prosuti vodu, naliti ga novom, toplom vodom, dodati sitno seckani crni luk i nastaviti sa kuvanjem.
 
 Kada sočivo omekša, zapržiti ga. U tiganju, na malo ulja, propržiti brašno. Kada brašno požuti, dodati seckani beli luk. Zapršku sipati u sud sa sočivom, promešati, posoliti, dodati malo origana i suvog biljnog začina. Kuvati još desetak minuta na tihoj vatri.
 

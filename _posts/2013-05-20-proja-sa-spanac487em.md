@@ -20,7 +20,7 @@ tags:
   - spanać
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1/2 kg)
   * 500 grama kukuruznog brašna
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5685" src="/wp-content/uploads/2013/05/Proja-sa-spanacem-1-300x225.jpg" alt="Proja sa spanacem (1)" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati i kratko obariti u ključaloj vodi. Obaren spanać ocediti i kada se ohladi iseći na rezance.
+**Priprema**: spanać očistiti, oprati i kratko obariti u ključaloj vodi. Obaren spanać ocediti i kada se ohladi iseći na rezance.
 
 Kukuruzno brašno pomešati sa praškom za pecivo i solju. Dodati ulje, spanać i vodu. Sve izjednačiti i napraviti žitko testo.
 

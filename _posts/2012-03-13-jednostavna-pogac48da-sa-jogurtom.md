@@ -16,7 +16,7 @@ tags:
   - jogurt
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama mekog brašna
   * čaša jogurta
@@ -27,7 +27,7 @@ Potrebno je:
 
 ![Jednostavna pogača sa jogurtom](/wp-content/uploads/2012/03/Jednostavna-pogača-sa-jogurtom-1024x768.jpg) 
 
-Priprema: u posudu za mešenje sipati brašno, dodati so, prašak za pecivo, jaje, ulje i jogurt. Sve sastojke izmešati, pa napraviti glatko testo.
+**Priprema**: u posudu za mešenje sipati brašno, dodati so, prašak za pecivo, jaje, ulje i jogurt. Sve sastojke izmešati, pa napraviti glatko testo.
 
 Umešeno testo ostaviti pokriveno salvetom da odstoji dvadesetak minuta. Nakon toga testo rastanjiti rukom, oblikovati pogaču i po površini napraviti šare viljuškom.
 

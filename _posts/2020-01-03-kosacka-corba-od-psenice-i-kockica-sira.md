@@ -13,7 +13,7 @@ categories:
 tags:
    - ruzmarin
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 100 g crnog luka
 * 200 g kuvane pšenice

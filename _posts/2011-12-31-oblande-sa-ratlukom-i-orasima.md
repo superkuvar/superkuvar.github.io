@@ -16,7 +16,7 @@ tags:
   - orasi
   - ratluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pakovanje oblandi
   * 450 grama šećera
@@ -25,7 +25,7 @@ Potrebno je:
   * rendana kora od limuna
   * malo vode
 
-Priprema: sipati šećer u šerpu, preliti sa malo vode i staviti na štednjak. Ušpinovati da sirup bude malo ređi nego za slatko.
+**Priprema**: sipati šećer u šerpu, preliti sa malo vode i staviti na štednjak. Ušpinovati da sirup bude malo ređi nego za slatko.
 
 U ušpinovan šećer dodati iseckan ratluk i neprestano mešati dok se ne rastopi. Zatim dodati mlevene orahe i malo dobro oprane narendane kore od limuna.
 

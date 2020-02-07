@@ -24,7 +24,7 @@ tags:
   - plavi patlidžan
   - prezle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * plavi patlidžan (1 kilogram)
   * 3 paprike
@@ -44,7 +44,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4769" title="Djuvec od patlidzana" src="/wp-content/uploads/2011/05/Djuvec-od-patlidzana-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan i krompir oprati, oljuštiti i iseći na kolutove. Paprike oprati, očistiti od semena i iseći na komadiće. Paradajz oljuštiti i iseći na kolutove.
+**Priprema**: plavi patlidžan i krompir oprati, oljuštiti i iseći na kolutove. Paprike oprati, očistiti od semena i iseći na komadiće. Paradajz oljuštiti i iseći na kolutove.
 
 Beli luk sitno iseckati, a isto tako i peršunov list, dodati prezle, biber, so, majčinu dušicu i malo suvog biljnog začina, pa sve dobro izmešati.
 

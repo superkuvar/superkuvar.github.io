@@ -19,7 +19,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zamrznuta boranija (500 grama)
   * 2 manje glavice crnog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2439" title="Zapečena boranija" src="/wp-content/uploads/2011/05/Zapečena-boranija-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: boraniju dinstati na malo ulja sa glavicom sitno iseckanog crnog luka, uz dolivanje po malo tople vode.
+**Priprema**: boraniju dinstati na malo ulja sa glavicom sitno iseckanog crnog luka, uz dolivanje po malo tople vode.
 
 Posebno propržiti drugu glavicu sitno iseckanog crnog luka i iseckan beli luk, dodati prezle i pržiti da porumene.
 

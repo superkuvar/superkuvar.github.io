@@ -23,7 +23,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * karfiol (glavica srednje veličine)
   * 100 grama margarina
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4509" title="Zapeceni karfiol" src="/wp-content/uploads/2012/10/Zapeceni-karfiol-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi, ali da bude upola kuvan. Obaren karfiol ocediti i ostaviti da se ohladi.
+**Priprema**: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi, ali da bude upola kuvan. Obaren karfiol ocediti i ostaviti da se ohladi.
 
 U drugoj posudi umutiti margarin sa žumancima, dodati mleko, brašno, so, biber, narendani muskatni oraščić i seckani peršunov list. Sve dobro izmešati, pa dodati čvrsto ulupan sneg od belanaca. U ovu masu sipati cvetiće karfiola i pažljivo izmešati.
 

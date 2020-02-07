@@ -17,7 +17,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram mekog brašna
   * paketić svežeg kvasca
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2631" title="Nanina pogača" src="/wp-content/uploads/2012/03/Nanina-pogača-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u malo mlakog mleka razmutiti izmrvljen kvasac zajedno sa kašičicom šećera i tri kašike brašna i ostaviti na toplom mestu da naraste. U sud za mešenje sipati brašno, dodati uskisli kvasac, so po ukusu, jedno jaje i belance, ulje i preostalo mleko. Izmešati varjačom, pa dodavati postepeno brašno, da se dobije testo srednje tvrdoće.
+**Priprema**: u malo mlakog mleka razmutiti izmrvljen kvasac zajedno sa kašičicom šećera i tri kašike brašna i ostaviti na toplom mestu da naraste. U sud za mešenje sipati brašno, dodati uskisli kvasac, so po ukusu, jedno jaje i belance, ulje i preostalo mleko. Izmešati varjačom, pa dodavati postepeno brašno, da se dobije testo srednje tvrdoće.
 
 Testo izručiti na radnu površinu posutu brašnom i dobro ga izmesiti rukama. Dobro izrađeno testo staviti u podmazanu tepsiju ili šerpu. Rastanjiti ga u obliku pogače, prekriti salvetom i ostaviti na toplom da naraste (oko 50 minuta).
 

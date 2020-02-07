@@ -18,7 +18,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 šargarepe
   * tikvice (2 manje ili jedna veća)
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3315" title="Čorbaodšargarepeitikvica" src="/wp-content/uploads/2011/03/%C4%8Corbaodšargarepeitikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži.
+**Priprema**: crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži.
 
 Šargarepu i tikvicu oprati, očistiti, izrendati i dodati u propržen luk. U povrće dodati griz i još kratko pržiti, mešajući, a zatim naliti toplom vodom. Čorbu kuvati na umerenoj temperaturi 30 minuta.
 

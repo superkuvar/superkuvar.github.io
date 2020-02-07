@@ -15,7 +15,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 2 manje mlade tikvice  
 * 4-5 jaja  
 * so  
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9766" src="/wp-content/uploads/2015/10/kajganasatikvicama-300x225.jpg" alt="kajganasatikvicama" width="300" height="225" />](/wp-content/uploads/2015/10/kajganasatikvicama-e1443871098358.jpg)
 
-Priprema: tikvice dobro oprati i neoljuštene iseći na što tanje kolutove. Pržiti na vrelom ulju dok tikvice ne omekšaju.
+**Priprema**: tikvice dobro oprati i neoljuštene iseći na što tanje kolutove. Pržiti na vrelom ulju dok tikvice ne omekšaju.
 
 Umutiti jaja, dodati so, biber i iseckan peršunov list. Preliti tikvice umućenim jajima i pržiti dok se jaja ne stegnu.
 

@@ -15,7 +15,7 @@ tags:
   - brašno
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama oštrog pšeničnog brašna
   * 1,5 šoljica ulja
@@ -25,7 +25,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4260" title="Mamina pogaca" src="/wp-content/uploads/2012/09/Mamina-pogaca-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu za mešenje sipati brašno pomešano sa solju i praškom za pecivo. Dodati ulje, pa uz dolivanje mineralne vode zamesiti testo da ne bude mnogo tvrdo.
+**Priprema**: u posudu za mešenje sipati brašno pomešano sa solju i praškom za pecivo. Dodati ulje, pa uz dolivanje mineralne vode zamesiti testo da ne bude mnogo tvrdo.
 
 Testo dobro izraditi rukama, staviti u pleh podmazan uljem i oblikovati pogaču. Površinu pogače izbockati viljuškom. Peći na 200 stepeni oko 30 minuta.
 

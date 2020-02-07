@@ -19,7 +19,7 @@ tags:
   - peršun
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama telećeg ili junećeg mesa
   * 2 šargarepe
@@ -37,7 +37,7 @@ Potrebno je:
   * žumance
   * čaša kisele pavlake
 
-Priprema: meso naliti sa 2 litra vode i staviti da se kuva. Prilikom kuvanja stvaraće se pena, koju treba obavezno skloniti da bi čorba bila bistrija.
+**Priprema**: meso naliti sa 2 litra vode i staviti da se kuva. Prilikom kuvanja stvaraće se pena, koju treba obavezno skloniti da bi čorba bila bistrija.
 
 Kad je meso upola kuvano, iseckati ga na kockice i vratiti u čorbu. Dodati isitnjeno povrće, nekoliko zrna bibera, lovorov list, i na kraju grašak. Kada povrće omekša, dodati so i biljni začin.
 

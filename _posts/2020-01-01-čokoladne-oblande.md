@@ -21,7 +21,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/oblanda-cokolada.jpg" alt="oblanda cokolada" width="300" height="225">
 
-Priprema:
+**Priprema**:
 
 U posebnim posudama lagano rastopiti čokoladu i margarin. Zagrejane spojiti i izmešati, dodati sećer i mlevene orahe pa sve dobro izmešati. 
 

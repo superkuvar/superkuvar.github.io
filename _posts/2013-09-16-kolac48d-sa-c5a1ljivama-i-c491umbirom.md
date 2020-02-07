@@ -21,7 +21,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jaja
   * 200 grama šećera
@@ -38,7 +38,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6109" src="/wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom-300x225.jpg" alt="Kolacsasljivamaidjumbirom" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom.jpg)
 
-Priprema: šljive oprati, očistiti od koštica i iseći na šire rezance.
+**Priprema**: šljive oprati, očistiti od koštica i iseći na šire rezance.
 
 Penasto umutiti jaja sa šećerom. Sipati ulje i jogurt i dobro izmešati. Dodati brašno pomešano sa praškom za pecivo, sodom bikarbonom, cimetom i đumbirom. Ubaciti i prethodno oprano suvo grožđe.
 

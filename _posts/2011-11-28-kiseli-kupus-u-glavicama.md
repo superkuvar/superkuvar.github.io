@@ -18,7 +18,7 @@ categories:
 tags:
   - kupus
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 50 kilograma kupusa
   * oko 1,5 kg soli
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4588" title="Kupus (1)" src="/wp-content/uploads/2011/11/Kupus-1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus se kiseli krajem novembra ili početkom decembra. Za kiseljenje treba odabrati čvrste glavice srednje veličine.
+**Priprema**: kupus se kiseli krajem novembra ili početkom decembra. Za kiseljenje treba odabrati čvrste glavice srednje veličine.
 
 Kupus ne treba stavljati odmah u bure čim se kupi na pijaci, već ga ostaviti 2-3 dana, da se prosuši. Potom glavice očistiti od spoljnih listova i gornjeg dela korena, oprati hladnom vodom i ostaviti da se ocedi.
 

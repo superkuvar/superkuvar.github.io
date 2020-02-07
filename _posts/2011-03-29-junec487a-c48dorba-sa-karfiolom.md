@@ -23,7 +23,7 @@ tags:
   - peršunov list
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama junećeg mesa
   * karfiol (manja glavica)
@@ -41,7 +41,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4935" title="Junecacorbasakarfiolom" src="/wp-content/uploads/2011/03/Junecacorbasakarfiolom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: juneće meso iseći na kockice, očišćenu zelen na kolutove, a karfiol iskidati na cvetiće. Na malo ulja propržiti sitno seckani praziluk, dodati meso i povrće i još kratko propržiti, a zatim naliti litrom i po tople vode i staviti da se kuva.
+**Priprema**: juneće meso iseći na kockice, očišćenu zelen na kolutove, a karfiol iskidati na cvetiće. Na malo ulja propržiti sitno seckani praziluk, dodati meso i povrće i još kratko propržiti, a zatim naliti litrom i po tople vode i staviti da se kuva.
 
 Kada čorba provri, dodati biber u zrnu, lovorov list, so i suvi biljni začin, pa kuvati na srednjoj temperaturi dok meso i povrće ne omekšaju. U malo hladne vode razmutiti brašno i sipati u čorbu, uz stalno mešanje da se ne bi zgrudvalo. Kuvati još desetak minuta.
 

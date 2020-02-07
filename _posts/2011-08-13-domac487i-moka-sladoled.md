@@ -16,7 +16,7 @@ tags:
   - rum
   - žumanca
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 žumanaca
   * litar mleka
@@ -25,7 +25,7 @@ Potrebno je:
   * kesica vanilin šećera
   * rum (kašika)
 
-Priprema: umutiti žumanca sa šećerom. U mleku rastvoriti instant kafu, zagrejati ga, pa u njega sipati umućena žumanca. Masu kuvati na pari, uz neprestano mešanje, sve dok se ne zgusne. Skloniti sa vatre, dodati vanilin šećer i rum.
+**Priprema**: umutiti žumanca sa šećerom. U mleku rastvoriti instant kafu, zagrejati ga, pa u njega sipati umućena žumanca. Masu kuvati na pari, uz neprestano mešanje, sve dok se ne zgusne. Skloniti sa vatre, dodati vanilin šećer i rum.
 
 Ohlađenu masu od mleka, kafe i žumanaca sipati u pogodnu posudu i staviti u zamrzivač. Posle sat vremena sladoled promešati, da se ne bi stvorili kristali, pa opet vratiti u zamrzivač.
 

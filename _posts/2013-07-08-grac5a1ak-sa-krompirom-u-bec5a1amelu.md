@@ -20,7 +20,7 @@ tags:
   - muskatni oraščić
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 450 grama zamrznutog graška
   * 3 veća krompira
@@ -44,7 +44,7 @@ Bešamel sos
 
 <img class="alignnone size-medium wp-image-5866" src="/wp-content/uploads/2013/07/Grasaksakrompiromubesamelu-300x225.jpg" alt="Grasaksakrompiromubesamelu" width="300" height="225" /> 
 
-Priprema: krompir i šargarepu oprati, očistiti i iseći, krompir na kockice a šargarepu na kolutove, i obariti u posoljenoj vodi, zajedno sa graškom. Povrće zatim ocediti od vode.
+**Priprema**: krompir i šargarepu oprati, očistiti i iseći, krompir na kockice a šargarepu na kolutove, i obariti u posoljenoj vodi, zajedno sa graškom. Povrće zatim ocediti od vode.
 
 Opran, očišćen i sitno isečen mladi luk propržiti na malo ulja, a zatim posoliti, dodati suvi biljni začin i malo mlevenog bibera. Povrće dodati u luk, izmešati i sipati u podmazanu posudu za pečenje.
 

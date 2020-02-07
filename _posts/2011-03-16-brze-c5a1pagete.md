@@ -15,7 +15,7 @@ tags:
   - špagete
   - tunjevina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pakovanje špageta
   * konzerva tunjevine u ulju (komadi)
@@ -24,7 +24,7 @@ Potrebno je:
 
 ![Brze špagete](/wp-content/uploads/2011/03/Spagete.jpg) 
 
-Priprema: sipati vodu u dublju posudu i dodati so i kašiku ulja. Staviti vodu na štednjak da proključa, pa ubaciti špagete. Kada su gotove, ocediti ih. Špagete treba da budu kuvane "_al dente_".
+**Priprema**: sipati vodu u dublju posudu i dodati so i kašiku ulja. Staviti vodu na štednjak da proključa, pa ubaciti špagete. Kada su gotove, ocediti ih. Špagete treba da budu kuvane "_al dente_".
 
 U međuvremenu, pripremiti sos na sledeći način: očistiti crni luk i sitno ga iseckati. U zagrejan tiganj staviti ulje iz konzerve tunjevine, dodati luk i propržiti ga, da omekne. U propržen luk ubaciti komade tunjevine, promešati a zatim dodati paradajz pire. Mešati na slabijoj vatri 10 minuta.
 

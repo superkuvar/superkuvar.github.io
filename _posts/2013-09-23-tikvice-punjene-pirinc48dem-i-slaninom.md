@@ -19,7 +19,7 @@ tags:
   - slanina
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 veće tikvice
   * glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6124" src="/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-300x225.jpg" alt="Tikvicepunjenepirincemislaninom" width="300" height="225" />](/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom.jpg)
 
-Priprema: tikvice oprati, oljuštiti a zatim izdubiti sredinu.
+**Priprema**: tikvice oprati, oljuštiti a zatim izdubiti sredinu.
 
 Crni luk očistiti, oprati, sitno iseckati i propržiti da postane staklast. U ispržen luk dodati kockice slanine i još malo pržiti.
 

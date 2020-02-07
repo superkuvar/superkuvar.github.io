@@ -16,7 +16,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 50 paprika babura
   * 3 do 4 kilograma kupusa
@@ -25,7 +25,7 @@ Potrebno je:
   * 4 decilitra sirćeta
   * koren rena
 
-Priprema: paprike oprati, očistiti od semena i dobro ocediti. Očišćen kupus iseći što sitnije, kao za salatu, posoliti i dobro izgnječiti, da pusti sok. Kad kupus odstoji, dobro ga ocediti i dodati biber u zrnu.
+**Priprema**: paprike oprati, očistiti od semena i dobro ocediti. Očišćen kupus iseći što sitnije, kao za salatu, posoliti i dobro izgnječiti, da pusti sok. Kad kupus odstoji, dobro ga ocediti i dodati biber u zrnu.
 
 Paprike puniti pripremljenim kupusom. Tako napunjene paprike ređati u veće tegle, a između stavljati komadiće očišćenog rena.
 

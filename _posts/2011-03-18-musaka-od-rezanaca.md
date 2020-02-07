@@ -16,7 +16,7 @@ tags:
   - mleveno meso
   - rezanci
 ---
-Potrebno je:
+**Potrebno je**:
 
   * rezanci (500 grama)
   * 2 veće glavice crnog luka
@@ -27,7 +27,7 @@ Potrebno je:
   * ulje
   * mileram
 
-Priprema: rezance skuvati prema uputstvu na ambalaži, a zatim ocediti. Crni luk očistiti, oprati, iseckati na rebarca, pa ga malo propržiti na ulju da postane staklast. U propržen luk dodati mleveno meso, biber i so i pržiti 2-3 minuta.
+**Priprema**: rezance skuvati prema uputstvu na ambalaži, a zatim ocediti. Crni luk očistiti, oprati, iseckati na rebarca, pa ga malo propržiti na ulju da postane staklast. U propržen luk dodati mleveno meso, biber i so i pržiti 2-3 minuta.
 
 Posudu za pečenje podmazati uljem, pa zatim ređati red rezanaca, red mesa, dok se ne utroši materijal. U poslednjem redu treba da budu rezanci. Umutiti jaja sa mileramom i preliti preko musake.
 

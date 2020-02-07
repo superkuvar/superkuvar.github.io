@@ -19,7 +19,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pšenično brašno (1/2 kg)
   * paketić svežeg kvasca
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9476" src="/wp-content/uploads/2015/03/puzicisasuvimgrozđem-300x225.jpg" alt="puzicisasuvimgrozđem" width="300" height="225" />](/wp-content/uploads/2015/03/puzicisasuvimgrozđem.jpg)
 
-Priprema: u malo toplog mleka u koje je dodata kašičica šećera i malo brašna staviti izmrvljen kvasac i ostaviti dvadesetak minuta da nadođe.
+**Priprema**: u malo toplog mleka u koje je dodata kašičica šećera i malo brašna staviti izmrvljen kvasac i ostaviti dvadesetak minuta da nadođe.
 
 U posudu za mešenje sipati brašno, napraviti udubljenje u sredini i u njega dodati šećer (50 grama), jaje, nadošli kvasac, razmekšali margarin (80 grama) i so. Uz dodavanje mleka zemesiti mekše testo. Prekriti sud salvetom i ostaviti da testo nadođe (oko 40 minuta).
 

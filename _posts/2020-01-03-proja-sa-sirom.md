@@ -13,7 +13,7 @@ tags:
    - jaja
    - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g belog kukuruznog brašna  
 * 2-3 jajeta
@@ -21,7 +21,7 @@ Potrebno je:
 * 200 g sira 
 * i prašak za pecivo
 
-Priprema:
+**Priprema**:
 
 Jaja umutiti i dodati izgnječen sir, kiselo mleko, brašno i prašak za pecivo. 
 

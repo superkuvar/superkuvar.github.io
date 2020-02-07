@@ -15,7 +15,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 komada pilećeg belog mesa (file)
   * 3 jaja
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-960" title="belomeso" src="/wp-content/uploads/2011/06/belomeso-e1307363024592.jpg" alt="" width="215" height="158" /> 
 
-Priprema: svaki komad belog mesa izlupati tučkom da bude svuda iste debljine, pa dobro natrljati suvim biljnim začinom i posuti biberom. Zatim svaki komad mesa uvaljati u brašno, pa u razmućena jaja, pa u prezle pomešane sa slatkom alevom paprikom.
+**Priprema**: svaki komad belog mesa izlupati tučkom da bude svuda iste debljine, pa dobro natrljati suvim biljnim začinom i posuti biberom. Zatim svaki komad mesa uvaljati u brašno, pa u razmućena jaja, pa u prezle pomešane sa slatkom alevom paprikom.
 
 Pripremljene šnicle spustiti u vrelo ulje i pržiti na umerenoj temperaturi. U toku prženja šnicle povremeno prelivati uljem u kome se prže. Okrenuti da porumene sa obe strane. Nakon prženja šnicle staviti na papirni ubrus da se ocede od viška ulja.
 

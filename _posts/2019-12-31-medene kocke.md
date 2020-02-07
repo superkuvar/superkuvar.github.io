@@ -12,7 +12,7 @@ tags:
    - orah
    - čokolada
 ---
-Potrebno je:
+**Potrebno je**:
  
 * 250 g meda
 * 200 g šećera
@@ -25,7 +25,7 @@ Potrebno je:
 * kockica biljnog margarina
 * nekoliko kapi ulja
 
-Priprema:
+**Priprema**:
 
 Na laganoj vatri rastopiti med. Dodati šećer, rendanu limunovu koricu i 200 g mlevenih oraha. 
 

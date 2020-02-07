@@ -13,7 +13,7 @@ categories:
 tags:
    -
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g kora za pitu 
 * 360-400 g masnog sira

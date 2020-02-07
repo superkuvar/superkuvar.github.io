@@ -22,7 +22,7 @@ tags:
   - peršunov list
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 mesnatih paprika
   * 2 veća paradajza
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4415" title="Letnje brzo jelo" src="/wp-content/uploads/2011/05/Letnje-brzo-jelo-e1349070652354-300x227.jpg" alt="" width="300" height="227" /> 
 
-Priprema: paprike oprati, očistiti od peteljki i semena i izrezati na kolutove. Paradajz takođe oprati i iseći na kolutove.
+**Priprema**: paprike oprati, očistiti od peteljki i semena i izrezati na kolutove. Paradajz takođe oprati i iseći na kolutove.
 
 U šerpi zagrejati ulje, dodati paprike, kratko ih propržiti, pa preko njih poređati kolutove paradajza.
 

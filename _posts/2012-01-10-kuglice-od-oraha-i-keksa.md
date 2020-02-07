@@ -16,7 +16,7 @@ tags:
   - keks
   - orasi
 ---
-Potrebno je:
+**Potrebno je**:
 
   * po 150 grama čokolade, mlevenih oraha i mlevenog keksa
   * 2 kesice vanilin šećera
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9324" src="/wp-content/uploads/2012/01/bombiceodorahaikeksa-300x225.jpg" alt="bombiceodorahaikeksa" width="300" height="225" />](/wp-content/uploads/2012/01/bombiceodorahaikeksa.jpg)
 
-Priprema: u posudu za mešenje staviti narendanu čokoladu, mlevene orahe, mleveni keks, šećer i vanilin šećer. Dodati sok od isceđene pomorandže i dobro izmesiti rukama.
+**Priprema**: u posudu za mešenje staviti narendanu čokoladu, mlevene orahe, mleveni keks, šećer i vanilin šećer. Dodati sok od isceđene pomorandže i dobro izmesiti rukama.
 
 Od umešene mase otkidati manje komade i vlažnim rukama oblikovati kuglice (bombice). Po želji, u sredinu svake bombice staviti po višnju iz slatka.
 

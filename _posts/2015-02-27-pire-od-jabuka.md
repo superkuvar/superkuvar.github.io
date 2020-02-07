@@ -18,7 +18,7 @@ tags:
   - šlag
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kisele jabuke (1 kilogram)
   * šećer (150 grama)
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9450" src="/wp-content/uploads/2015/02/pireodjabuka-300x225.jpg" alt="pireodjabuka" width="300" height="225" />](/wp-content/uploads/2015/02/pireodjabuka.jpg)
 
-Priprema: jabuke oprati, oljuštiti i izrendati. U šerpu staviti šećer, izrendane jabuke i šoljicu vode. Kuvati na umerenoj temperaturi, dok se jabuke ne zgusnu kao pire. U jabuke dodati malo cimeta i oprano suvo grožđe.
+**Priprema**: jabuke oprati, oljuštiti i izrendati. U šerpu staviti šećer, izrendane jabuke i šoljicu vode. Kuvati na umerenoj temperaturi, dok se jabuke ne zgusnu kao pire. U jabuke dodati malo cimeta i oprano suvo grožđe.
 
 Pire od jabuka sipati u čaše ili staklene činijice i kada se ohladi staviti u frižider. Kada se pire dobro ohladi dekorisati ga umućenim šlag kremom i poslužiti.
 

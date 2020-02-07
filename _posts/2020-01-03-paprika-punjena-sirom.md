@@ -13,7 +13,7 @@ categories:
 tags:
    - paprike
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 600 g punomasnog sira
 * 6 većih crvenih paprika

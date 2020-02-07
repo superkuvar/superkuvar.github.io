@@ -22,7 +22,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 250 grama šećera
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5470" src="/wp-content/uploads/2011/12/Kolacsadzemomiorasima-300x225.jpg" alt="Kolacsadzemomiorasima" width="300" height="225" /> 
 
-Priprema: penasto umutiti margarin sa 100 grama šećera, pa dodati žumanca, mleko ili jogurt, brašno, prašak za pecivo i malo narendane kore od limuna (prethodno dobro opranog). Zamesiti testo i podeliti ga na dva dela.
+**Priprema**: penasto umutiti margarin sa 100 grama šećera, pa dodati žumanca, mleko ili jogurt, brašno, prašak za pecivo i malo narendane kore od limuna (prethodno dobro opranog). Zamesiti testo i podeliti ga na dva dela.
 
 Pleh obložiti papirom za pečenje ili ga podmazati i posuti brašnom, pa u njemu rastanjiti prvi deo testa. Belanca penasto umutiti sa 150 grama šećera, dodati džem, dve kašike brašna i seckane orahe i lagano izmešati. Ovaj fil premazati preko rastanjenog testa.
 

@@ -14,7 +14,7 @@ tags:
    - paradajz
    - paprika
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g sveže zelene paprike
 * 2 paradajza
@@ -25,7 +25,7 @@ Potrebno je:
 * 5 g šećera
 * so
 
-Priprema:
+**Priprema**:
 
 Paprike dobro oprati i očistiti od semena (bilo bi dobro da jedna paprika bude zelena, a ljuta crvena),
 dodati šećer, so i sirće i pržiti na ulju oko 30 minuta.

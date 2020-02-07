@@ -16,7 +16,7 @@ tags:
 ---
 KROKETI OD SIRA
 
-Potrebno je:
+**Potrebno je**:
 
 * 2 kriške sira, 
 * 2 kašike kajmaka ili margarina 

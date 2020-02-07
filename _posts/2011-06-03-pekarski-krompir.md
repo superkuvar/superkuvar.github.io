@@ -18,7 +18,7 @@ tags:
   - aleva paprika
   - krompir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1,5 kg)
   * so
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-939" title="pekarski krompir" src="/wp-content/uploads/2011/06/pekarski-krompir-e1307103069619.jpg" alt="" width="244" height="156" /> 
 
-Priprema: krompir oprati, oljuštiti, iseći na komade, posoliti, dodati malo aleve paprike, staviti u pleh i preliti uljem. Sipati malo vode i peći, da krompir omekša i porumeni sa gornje strane. Prilikom pečenja krompir ne treba mešati.
+**Priprema**: krompir oprati, oljuštiti, iseći na komade, posoliti, dodati malo aleve paprike, staviti u pleh i preliti uljem. Sipati malo vode i peći, da krompir omekša i porumeni sa gornje strane. Prilikom pečenja krompir ne treba mešati.
 
 Pekarski krompir služiti kao prilog uz šnicle ili pečenje.
 

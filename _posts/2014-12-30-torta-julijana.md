@@ -22,7 +22,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Kora
 
   * 10 jaja
@@ -49,7 +49,7 @@ Fil – beli
 
 [<img class="alignnone size-medium wp-image-9338" src="/wp-content/uploads/2014/12/tortajulijana-300x225.jpg" alt="tortajulijana" width="300" height="225" />](/wp-content/uploads/2014/12/tortajulijana.jpg)
 
-Priprema: penasto umutiti jaja sa šećerom, dodati mlevene orahe, brašno i kakao i lagano izmešati varjačom. Pripremljeno testo sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni oko 25 minuta. Pečenu koru, kada se ohladi, preseći na dva jednaka dela. Obe dobijene kore preseći vodoravno oštrim dužim nožem, da se dobiju četiri tanje kore. Ukoliko nemate pogodan veliki pleh kore se mogu peći iz dva puta.
+**Priprema**: penasto umutiti jaja sa šećerom, dodati mlevene orahe, brašno i kakao i lagano izmešati varjačom. Pripremljeno testo sipati u pleh prekriven papirom za pečenje. Peći na 180 stepeni oko 25 minuta. Pečenu koru, kada se ohladi, preseći na dva jednaka dela. Obe dobijene kore preseći vodoravno oštrim dužim nožem, da se dobiju četiri tanje kore. Ukoliko nemate pogodan veliki pleh kore se mogu peći iz dva puta.
 
 Tamni fil pripremiti na sledeći način: izmešati prašak za puding i brašno sa malo hladnog mleka, a u ostatak mleka dodati šećer i staviti na štednjak da provri. U provrelo mleko sipati pripremljenu smesu za puding, promešati, vratiti na štednjak i uz mešanje kuvati 2-3 minuta. U vreo puding dodati izlomljenu čokoladu i mešati dok se ne istopi.
 

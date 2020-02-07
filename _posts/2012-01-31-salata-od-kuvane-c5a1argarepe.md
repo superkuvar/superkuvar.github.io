@@ -18,7 +18,7 @@ tags:
   - senf
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 700 grama šargarepe
   * 3 jajeta
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2385" title="Salata od sargarepe" src="/wp-content/uploads/2012/01/Salata-od-sargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šargarepu oprati, oljuštiti i obariti u slanoj vodi. Ohlađenu šargarepu iseći na kolutove. Jaja skuvati i sitno iseckati.
+**Priprema**: šargarepu oprati, oljuštiti i obariti u slanoj vodi. Ohlađenu šargarepu iseći na kolutove. Jaja skuvati i sitno iseckati.
 
 U sud sipati iseckanu šargarepu i jaja, dodati malo ulja, sok od celog limuna ili malo jabukovog sirćeta, dve kašike senfa i seckani peršunov list. Salatu izmešati i sipati u činiju.
 

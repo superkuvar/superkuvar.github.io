@@ -23,7 +23,7 @@ tags:
   - majonez
   - orasi
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 koren celera srednje veličine
   * 2 kisele jabuke
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4931" title="Salataodceleraijabuka" src="/wp-content/uploads/2012/12/Salataodceleraijabuka-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: celer očistiti, oljuštiti, oprati pa sitno nastrugati. Jabuke oprati, oljuštiti i takođe nastrugati, pomešati sa celerom i posuti sokom od limuna.
+**Priprema**: celer očistiti, oljuštiti, oprati pa sitno nastrugati. Jabuke oprati, oljuštiti i takođe nastrugati, pomešati sa celerom i posuti sokom od limuna.
 
 Izmešati kiselu pavlaku, majonez i mlevene orahe. Preliv  posoliti i dodati malo bibera. Ovim preliti salatu, dobro promešati, sipati u staklenu činiju i odozgo posuti mlevenim orasima.
 

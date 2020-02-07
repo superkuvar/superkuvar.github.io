@@ -19,7 +19,7 @@ tags:
   - orasi
   - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama kora za pitu
   * manja glavica kupusa (oko 1 kilogram)
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6340" src="/wp-content/uploads/2013/12/Pitasakupusomisirom-300x225.jpg" alt="Pitasakupusomisirom" width="300" height="225" />](/wp-content/uploads/2013/12/Pitasakupusomisirom.jpg)
 
-Priprema: kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
+**Priprema**: kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
 
 Luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati kupus, šećer, lovor i na umerenoj temperaturi pržiti dok kupus ne dobije zlatno žutu boju. Posoliti i pobiberiti po ukusu. U toku prženja dolivati po malo tople vode.
 

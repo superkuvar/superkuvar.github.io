@@ -20,7 +20,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama krompira
   * 600 grama spanaća
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3213" title="Musaka od krompira i spanaća" src="/wp-content/uploads/2012/05/Musaka-od-krompira-i-spanaća-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir oprati i neoljušten skuvati. Prohlađen krompir oljuštiti i iseći na kolutove. Spanać oprati, kratko obariti, ocediti a zatim iseći na rezance.
+**Priprema**: krompir oprati i neoljušten skuvati. Prohlađen krompir oljuštiti i iseći na kolutove. Spanać oprati, kratko obariti, ocediti a zatim iseći na rezance.
 
 Crni luk oljuštiti, sitno iseckati i pržiti na malo ulja. U propržen luk dodati spanać i sir isečen na kockice. Posoliti, pobiberiti, dodati prezle i malo muskatnog oraščića. Masu lagano promešati.
 

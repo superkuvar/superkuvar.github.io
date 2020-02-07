@@ -17,7 +17,7 @@ tags:
   - jaja
   - špargle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram špargli
   * so
@@ -29,7 +29,7 @@ Potrebno je:
   * biber
   * 100 grama suvog mesa (pečenica ili suvi vrat)
 
-Priprema: špargle oljuštiti, oprati i iseći na komade. U lonac sipati litar vode i malo soli, pa staviti na štednjak. Kada voda provri dodati špargle i kašiku šećera. Kuvati oko pola sata na srednjoj temperaturi. Ocediti špargle od vode i ostaviti da se ohlade. Obariti jaja, da budu tvrdo kuvana, oljuštiti i iseći na kolutove.
+**Priprema**: špargle oljuštiti, oprati i iseći na komade. U lonac sipati litar vode i malo soli, pa staviti na štednjak. Kada voda provri dodati špargle i kašiku šećera. Kuvati oko pola sata na srednjoj temperaturi. Ocediti špargle od vode i ostaviti da se ohlade. Obariti jaja, da budu tvrdo kuvana, oljuštiti i iseći na kolutove.
 
 Špargle staviti u veću staklenu činiju, dodati komadiće suvog mesa i kolutove jaja. Peršun oprati, sitno iseckati i izmešati sa sirćetom, uljem, solju i biberom. Ovom marinadom preliti salatu i lagano izmešati, da se jaja ne bi izdrobila.
 

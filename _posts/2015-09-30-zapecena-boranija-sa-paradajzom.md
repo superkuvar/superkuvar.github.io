@@ -16,7 +16,7 @@ tags:
   - kisela pavlaka
   - paradajz
 ---
-Potrebno je:  
+**Potrebno je**:  
 * boranija (1 kilogram)  
 * paradajz (500 grama)  
 * 2 glavice crnog luka  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9760" src="/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-300x225.jpg" alt="zapecenaboranijasaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/09/zapecenaboranijasaparadajzom-e1443702436715.jpg)
 
-Priprema: boraniju očistiti, iseći na manje komade, oprati i obariti u posoljenoj vodi. Kada je boranija kuvana ocediti je.
+**Priprema**: boraniju očistiti, iseći na manje komade, oprati i obariti u posoljenoj vodi. Kada je boranija kuvana ocediti je.
 
 Očišćen crni luk iseckati i propržiti na ulju. Paradajz oljuštiti, sitno iseći i dodati u luk. Pržiti dok sok skoro ne uvri. Posoliti, dodati suvi biljni začin, biber i majčinu dušicu.
 

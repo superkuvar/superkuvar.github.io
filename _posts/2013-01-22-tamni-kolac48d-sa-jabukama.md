@@ -25,7 +25,7 @@ tags:
   - šećer
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 žumanceta
   * 100 grama šećera
@@ -46,7 +46,7 @@ Fil:
 
 <img class="alignnone size-medium wp-image-5143" src="/wp-content/uploads/2013/01/Tamnikolacsajabukama-300x225.jpg" alt="Tamnikolacsajabukama" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti žumaca sa šećerom, dodati ulje, jogurt i malo narendane korice od dobro opranog limuna. Pomešati brašno sa praškom za pecivo, kakaom i cimetom.
+**Priprema**: u posudi za mešenje umutiti žumaca sa šećerom, dodati ulje, jogurt i malo narendane korice od dobro opranog limuna. Pomešati brašno sa praškom za pecivo, kakaom i cimetom.
 
 Sjediniti mokre i suve sastojke. Masu dobro izmešati varjačom i sipati u pleh prekriven papirom za pečenje. Kolač peći oko 30 minuta u pećnici zagrejanoj na 180 stepeni.
 

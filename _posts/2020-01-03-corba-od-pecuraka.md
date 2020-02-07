@@ -14,7 +14,7 @@ tags:
 ---
 ČORBA OD PEČURAKA
 
-Potrebno je:
+**Potrebno je**:
 
 * 2 l mlevenog paradajza, 
 * 300 g svežih vrganja (pečuraka)

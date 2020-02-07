@@ -17,7 +17,7 @@ tags:
   - svinjska mast
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama margarina
   * 50 grama svinjske masti
@@ -30,7 +30,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2747" title="Bakine galete" src="/wp-content/uploads/2011/07/Bakine-galete-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: umutiti penasto margarin i mast sa šećerom, a zatim dodati jaja. U smesu sipati šoljicu od crne kafe mleka u kom je razmućena soda bikarbona. Zatim dodati brašno i vanilin šećer, pa varjačom dobro ujednačiti testo.
+**Priprema**: umutiti penasto margarin i mast sa šećerom, a zatim dodati jaja. U smesu sipati šoljicu od crne kafe mleka u kom je razmućena soda bikarbona. Zatim dodati brašno i vanilin šećer, pa varjačom dobro ujednačiti testo.
 
 Testo je retko, vaditi ga drvenom kašičicom, stavljati u kalup za galete i peći.
 

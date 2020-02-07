@@ -15,7 +15,7 @@ tags:
   - bundeva
   - cimet
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 do 1,5 kg bundeve
   * šećer
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2347" title="K.t.5" src="/wp-content/uploads/2012/01/K.t.5-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: bundevu oljuštiti, oprati, skloniti semenke i iseći na komade ili ujednačene kocke. Staviti je u šerpu sa debljim dnom, da prilikom dinstanja ne bi zagorela. Dodati malo šećera, pa sipati dve čaše vode.
+**Priprema**: bundevu oljuštiti, oprati, skloniti semenke i iseći na komade ili ujednačene kocke. Staviti je u šerpu sa debljim dnom, da prilikom dinstanja ne bi zagorela. Dodati malo šećera, pa sipati dve čaše vode.
 
 Bundevu dinstati poklopljenu, na slabijoj vatri oko 30-40 minuta. Ukoliko je potrebno, tokom dinstanja dolivati po malo vode.
 

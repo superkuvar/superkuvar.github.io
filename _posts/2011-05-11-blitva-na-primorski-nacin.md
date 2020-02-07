@@ -16,7 +16,7 @@ tags:
   - krompir
   - paradajz pire
 ---
-Potrebno je:
+**Potrebno je**:
 
   * blitva (1 kilogram)
   * krompir (500 grama)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-628" title="blitvasakrompirom" src="/wp-content/uploads/2011/05/blitvasakrompirom.jpg" alt="" width="256" height="192" /> 
 
-Priprema: očišćenu i opranu blitvu obariti u posoljenoj vodi. Posebno obariti oljušten krompir i iseći ga na kocke.
+**Priprema**: očišćenu i opranu blitvu obariti u posoljenoj vodi. Posebno obariti oljušten krompir i iseći ga na kocke.
 
 Na zagrejanom ulju propržiti iseckan crni luk, pa upola proprženom luku dodati sitno seckan peršun i beli luk, kao i paradajz pire.
 

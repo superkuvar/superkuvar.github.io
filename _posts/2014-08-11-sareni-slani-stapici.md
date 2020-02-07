@@ -18,7 +18,7 @@ tags:
   - ulje
   - vino
 ---
-Potrebno je:
+**Potrebno je**:
 
   * brašno (1/2 kg)
   * so
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9240" src="/wp-content/uploads/2014/08/sarenislanistapici-300x225.jpg" alt="sarenislanistapici" width="300" height="225" />](/wp-content/uploads/2014/08/sarenislanistapici.jpg)
 
-Priprema: izmešati brašno sa solju i praškom za pecivo, pa dodati belo vino i ulje. Zamesiti testo, dobro ga izraditi rukama a zatim podeliti na tri jufkice. Svaku jufkicu razvući oklagijom u dužinu i oko deset santimetara širine. Testo treba da bude debljine prsta.
+**Priprema**: izmešati brašno sa solju i praškom za pecivo, pa dodati belo vino i ulje. Zamesiti testo, dobro ga izraditi rukama a zatim podeliti na tri jufkice. Svaku jufkicu razvući oklagijom u dužinu i oko deset santimetara širine. Testo treba da bude debljine prsta.
 
 Razmutiti žumance, pa njime premazati razvučenu jufku i posuti je susamom. Prevući oklagijom preko testa, ne pritiskajući mnogo, da se susam zalepi. Zatim testo okrenuti, opet premazati žumancetom i posuti nemlevenim makom. I ovu stranu testa prevući oklagijom. Seći trake širine oko jedan santimetar i uvrtati ih kao spiralu. Ovako uraditi i sa ostale dve jufkice.
 

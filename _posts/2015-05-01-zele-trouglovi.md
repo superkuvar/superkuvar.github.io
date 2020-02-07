@@ -18,7 +18,7 @@ tags:
   - suvo groždje
   - žele bombone
 ---
-Potrebno je:  
+**Potrebno je**:  
 • 250 grama margarina  
 • 200 grama šećera u prahu  
 • 250 g mlevenog keksa  
@@ -27,7 +27,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9594" src="/wp-content/uploads/2015/05/zeletrouglovi-300x225.jpg" alt="zeletrouglovi" width="300" height="225" />](/wp-content/uploads/2015/05/zeletrouglovi-e1430748483768.jpg)
 
-Priprema: umutiti margarin sa šećerom u prahu. Žele bombone sitno iseckati. Suvo grožđe oprati, iseckati i potopiti u malo ruma.
+**Priprema**: umutiti margarin sa šećerom u prahu. Žele bombone sitno iseckati. Suvo grožđe oprati, iseckati i potopiti u malo ruma.
 
 U umućen margarin dodati mleveni keks, iseckane žele bombone i oceđeno suvo grožđe, izmešati i rukom umesiti da se masa lepo sjedini.
 

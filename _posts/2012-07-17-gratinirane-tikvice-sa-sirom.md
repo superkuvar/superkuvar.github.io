@@ -17,7 +17,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (1 kilogram)
   * 50 grama brašna
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3734" title="Gratiniranetikivesasirom" src="/wp-content/uploads/2012/07/Gratiniranetikivesasirom-e1342522790174-300x235.jpg" alt="" width="300" height="235" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na kolutove, uvaljati u brašno i poređati u podmazanu posudu. Preliti ih uljem, posoliti, pobiberiti i staviti u zagrejanu pećnicu. Tikvice peći na umerenoj temperaturi.
+**Priprema**: tikvice oprati, oljuštiti, iseći na kolutove, uvaljati u brašno i poređati u podmazanu posudu. Preliti ih uljem, posoliti, pobiberiti i staviti u zagrejanu pećnicu. Tikvice peći na umerenoj temperaturi.
 
 Kada su tikvice skoro gotove, izvaditi ih iz pećnice, posuti narendanim sirom ili kačkavaljem.
 

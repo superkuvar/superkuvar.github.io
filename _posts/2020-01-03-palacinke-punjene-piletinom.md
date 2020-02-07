@@ -23,7 +23,7 @@ Potrebno je (za 8 palačinki):
 * biber
 * ruzmarin
 
-Priprema:
+**Priprema**:
 
 Napraviti slane palačinke (isto kao slatke samo je razlika što se u ove stavi so a ne šećer). Pileće meso skuvati, a zatim samleti na vodenici, pa začiniti svim navedenim začinima. Plavi paradajz i tikvice iseći, zatim propržiti na ulju sa crnim i belim lukom i začiniti po ukusu. 
 

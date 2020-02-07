@@ -24,7 +24,7 @@ tags:
   - rum
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 2 lista veće oblande
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4584" title="Oblanda rolat sa keksom" src="/wp-content/uploads/2012/01/Oblanda-rolat-sa-keksom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: listove oblande staviti na vlažnu salvetu da omekšaju, da se ne bi lomili prilikom uvijanja rolata.
+**Priprema**: listove oblande staviti na vlažnu salvetu da omekšaju, da se ne bi lomili prilikom uvijanja rolata.
 
 U metalni sud staviti jaja i šećer i kuvati na pari, uz neprestano mešanje. U ohlađen krem dodati penasto umućen margarin, kakao i rum, pa umešati sitno izlomljen keks.
 

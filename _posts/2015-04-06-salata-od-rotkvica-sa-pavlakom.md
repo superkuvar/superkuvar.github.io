@@ -17,7 +17,7 @@ tags:
   - rotkvice
   - sirće
 ---
-Potrebno je:  
+**Potrebno je**:  
 * mlade rotkvice (2 vezice)  
 * mladi crni luk (1 vezica)  
 * so  
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9582" src="/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-300x225.jpg" alt="salataodrotkvicasapavlakom" width="300" height="225" />](/wp-content/uploads/2015/04/salataodrotkvicasapavlakom-e1430747430946.jpg)
 
-Priprema: rotkvice i crni luk očistiti i dobro oprati. Oprane neoljuštene rotkvice iseći na tanke kolutove. Crni luk,takođe, zajedno sa percima sitno iseći.  
+**Priprema**: rotkvice i crni luk očistiti i dobro oprati. Oprane neoljuštene rotkvice iseći na tanke kolutove. Crni luk,takođe, zajedno sa percima sitno iseći.  
 Isečene rotkvice i luk staviti u činiju za salatu. U posebnoj posudi pomešati ulje, jabukovo sirće, so, biber i kiselu pavlaku. Ovim preliti rotkvice i luk i dobro izmešati.
 
 Salata se, po želji, može ukrasiti osminama ili kolutovima tvrdo kuvanih jaja.

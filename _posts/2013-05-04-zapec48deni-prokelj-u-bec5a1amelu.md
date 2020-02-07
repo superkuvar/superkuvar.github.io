@@ -26,7 +26,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1/2 kg prokelja
   * 400 grama krompira
@@ -44,7 +44,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5654" src="/wp-content/uploads/2013/05/Zapeceniprokeljubesamelu-300x225.jpg" alt="Zapeceniprokeljubesamelu" width="300" height="225" /> 
 
-Priprema: očistiti krompir i šargarepu, isitniti (krompir na kockice, a šargarepu na kolutove) i obariti u slanoj vodi. Prokelj takođe obariti. Povrće zatim ocediti.
+**Priprema**: očistiti krompir i šargarepu, isitniti (krompir na kockice, a šargarepu na kolutove) i obariti u slanoj vodi. Prokelj takođe obariti. Povrće zatim ocediti.
 
 Na margarinu propržiti brašno, ali da ne požuti, a onda postepeno sipati mleko, vodeći računa da se ne stvore grudvice. Kuvati na tihoj vatri nekoliko minuta, mešajući žicom za mućenje. Bešamel sos treba da ostane ređi. Posoliti i pobiberiti. U prohlađen sos umešati umućena jaja i narendani kačkavalj.
 

@@ -13,7 +13,7 @@ categories:
 tags:
    - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g lisnatog testa 
 * 200 g mladog sira 
@@ -25,7 +25,7 @@ Potrebno je:
 * brašno
 * so
 
-Priprema:
+**Priprema**:
 
 
 Sir ispasirati ili izgnječiti, umutiti slatku pavlaku i jaja, dodati narendan kačkavalj i sve sjediniti

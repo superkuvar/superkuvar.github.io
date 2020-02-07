@@ -21,7 +21,7 @@ tags:
   - grašak
   - mirođija
 ---
-Potrebno je:
+**Potrebno je**:
 
   * grašak (500 grama)
   * 1 glavica crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4925" title="Dinstani grašak" src="/wp-content/uploads/2012/12/Dinstani-grašak-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na zagrejanom ulju propržiti sitno seckani crni luk, da blago porumeni. U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati. U toku dinstanja, povremeno, dolivati po malo vode. Grašak posoliti, dodati suvi biljni začin, biber i mirođiju.
+**Priprema**: na zagrejanom ulju propržiti sitno seckani crni luk, da blago porumeni. U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati. U toku dinstanja, povremeno, dolivati po malo vode. Grašak posoliti, dodati suvi biljni začin, biber i mirođiju.
 
 U malo hladne vode razmutiti brašno ili skrob i alevu papriku pa sipati u grašak. Dinstati još desetak minuta na umerenoj temperaturi, dok grašak ne omekša.
 

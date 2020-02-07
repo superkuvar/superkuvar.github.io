@@ -18,7 +18,7 @@ tags:
   - pirinač
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (250 grama)
   * 3 glavice crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3094" title="Musaka od pirinča i krompira" src="/wp-content/uploads/2011/05/Musaka-od-pirinča-i-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na ulju ispržiti iseckani crni luk, dodati pirinač, naliti ga vodom da ogrezne i pirjaniti. Dodati malo origana, posoliti i pobiberiti po ukusu.
+**Priprema**: na ulju ispržiti iseckani crni luk, dodati pirinač, naliti ga vodom da ogrezne i pirjaniti. Dodati malo origana, posoliti i pobiberiti po ukusu.
 
 Krompir oprati, oljuštiti i iseći na tanje kolutove. U podmazan sud za pečenje ređati krompir, posuti ga suvim biljnim začinom, zatim odozgo staviti pirinač posut iseckanim celerovim listom. Svaki red krompira i pirinča preliti sa malo milerama pomešanog sa umućenim jajima. Ređati tako dok se materijal ne utroši. Odozgo treba da bude krompir. Krompir preliti sa malo ulja i ostatkom milerama.
 

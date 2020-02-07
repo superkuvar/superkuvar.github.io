@@ -21,7 +21,7 @@ tags:
   - šampinjoni
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 ml vode
   * 100 grama margarina
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5744" src="/wp-content/uploads/2011/06/Rolatsasampinjonima-300x225.jpg" alt="Rolatsasampinjonima" width="300" height="225" /> 
 
-Priprema: vodu sipati u lonac i staviti na štednjak da proključa. Skloniti sa ringle i dodati brašno. Izmešati, a zatim kuvati dva-tri minuta na nižoj temperaturi, uz mešanje varjačom. U ukuvanu masu od brašna i vode dodati margarin i dobro izmešati, da se istopi. Ostaviti da se hladi.
+**Priprema**: vodu sipati u lonac i staviti na štednjak da proključa. Skloniti sa ringle i dodati brašno. Izmešati, a zatim kuvati dva-tri minuta na nižoj temperaturi, uz mešanje varjačom. U ukuvanu masu od brašna i vode dodati margarin i dobro izmešati, da se istopi. Ostaviti da se hladi.
 
 U hladno testo dodati žumanca, jedno po jedno i penasto umućena belanca. Pleh podmazati uljem, prekriti papirom za pečenje, sipati testo i rastanjiti ga. Peći na 220 stepeni oko 20 minuta, u prethodno zagrejanoj pećnici. Pečeno testo, zajedno sa papirom, izvaditi iz pleha i umotati kao rolat. Ostaviti da se ohladi.
 

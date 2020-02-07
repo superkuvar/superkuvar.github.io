@@ -14,7 +14,7 @@ tags:
    - šargarepa
    - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g ribe
 * 2 dl ulja

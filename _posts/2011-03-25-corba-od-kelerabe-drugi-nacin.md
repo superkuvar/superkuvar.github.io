@@ -15,7 +15,7 @@ tags:
   - kisela pavlaka
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * keleraba (300 g)
   * 40 grama brašna
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8591" src="/wp-content/uploads/2011/03/corba-od-spanaca-turska-300x225.jpg" alt="corba od spanaca - turska" width="300" height="225" />](/wp-content/uploads/2011/03/corba-od-spanaca-turska.jpg)
 
-Priprema: kelerabu oprati, oljuštiti i narendati. Rendanu kelerabu staviti u lonac, preliti vrelom vodom (litar-litar i po) i kuvati 20 minuta na umerenoj temperaturi.
+**Priprema**: kelerabu oprati, oljuštiti i narendati. Rendanu kelerabu staviti u lonac, preliti vrelom vodom (litar-litar i po) i kuvati 20 minuta na umerenoj temperaturi.
 
 Napraviti belu zapršku od brašna i malo ulja, pa sipati u čorbu. Pri kraju posoliti, dodati suvi biljni začin i biber po ukusu i kuvati još 5 minuta..
 

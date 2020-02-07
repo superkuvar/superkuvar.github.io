@@ -19,7 +19,7 @@ tags:
   - paradajz
   - pileće meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 600 grama belog pilećeg mesa
   * 2 glavice crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6329" src="/wp-content/uploads/2013/12/Piletinasapovrcem-300x225.jpg" alt="Piletinasapovrcem" width="300" height="225" />](/wp-content/uploads/2013/12/Piletinasapovrcem.jpg)
 
-Priprema: crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
+**Priprema**: crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
 
 Na ulju propržiti pileće meso, dodati iseckan luk i zajedno pržiti dok ne porumeni. Ubaciti isitnjeno povrće, poklopiti i dinstati dok meso ne omekša. Povremeno, ukoliko je potrebno, doliti po malo tople vode.
 

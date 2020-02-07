@@ -13,7 +13,7 @@ categories:
 tags:
    - peršun
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram svinjetine (dimljene noge, uši, kožice i deo glave)
 * koren peršuna,

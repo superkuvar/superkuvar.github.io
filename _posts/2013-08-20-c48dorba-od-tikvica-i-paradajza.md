@@ -19,7 +19,7 @@ tags:
   - pirinač
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 manje tikvice
   * 2 paradajza
@@ -34,7 +34,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6048" src="/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-300x225.jpg" alt="Corba od tikvica i paradajza" width="300" height="225" />](/wp-content/uploads/2013/08/Corba-od-tikvica-i-paradajza2-e1376924208361.jpg)
 
-Priprema: na malo ulja propržiti sitno seckani crni luk, a zatim dodati oljušten i sitno iseckan paradajz, pa pržiti nekoliko minuta. Dodati oljuštene tikvice, isitnjene na manje kocke. Naliti sa litar do litar i po vode i staviti da se kuva.
+**Priprema**: na malo ulja propržiti sitno seckani crni luk, a zatim dodati oljušten i sitno iseckan paradajz, pa pržiti nekoliko minuta. Dodati oljuštene tikvice, isitnjene na manje kocke. Naliti sa litar do litar i po vode i staviti da se kuva.
 
 Kada čorba provri dodati opran pirinač. Posoliti, pobiberiti, dodati suvi biljni začin, bosiljak i iseckan beli luk. Nastaviti sa kuvanjem još dvadesetak minuta, dok se pirinač ne skuva i tikvice omekšaju.
 

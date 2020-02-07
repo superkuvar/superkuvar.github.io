@@ -21,7 +21,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * čaša jogurta
@@ -38,7 +38,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8978" src="/wp-content/uploads/2014/03/projicesabundevom-300x225.jpg" alt="projicesabundevom" width="300" height="225" />](/wp-content/uploads/2014/03/projicesabundevom.jpg)
 
-Priprema: umutiti žumanca viljuškom, pa dodati ulje, jogurt i kiselu pavlaku. Izmešati, a zatim dodati brašno pomešano sa solju, praškom za pecivo i narendanim muskatnim oraščićem. Izmešati a zatim dodati sneg od belanaca i narendanu bundevu. Testo još jednom izmešati varjačom.
+**Priprema**: umutiti žumanca viljuškom, pa dodati ulje, jogurt i kiselu pavlaku. Izmešati, a zatim dodati brašno pomešano sa solju, praškom za pecivo i narendanim muskatnim oraščićem. Izmešati a zatim dodati sneg od belanaca i narendanu bundevu. Testo još jednom izmešati varjačom.
 
 Kalup za projice obložiti papirnim korpicama i u svaku sipati testo do 2/3 visine kalupa. Projice peći oko 30 minuta u pećnici zagrejanoj na 200 stepeni.
 

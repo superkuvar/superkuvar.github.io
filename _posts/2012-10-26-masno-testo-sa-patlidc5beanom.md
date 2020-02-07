@@ -18,7 +18,7 @@ tags:
   - paradajz
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama brašna
   * 150 grama margarina
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4557" title="Masnotestosapatlidzanom" src="/wp-content/uploads/2012/10/Masnotestosapatlidzanom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu za mešenje sipati brašno, dodati so, izmrvljen margarin i malo vode. Umesiti testo i staviti ga u frižider da odstoji dvadesetak minuta.
+**Priprema**: u posudu za mešenje sipati brašno, dodati so, izmrvljen margarin i malo vode. Umesiti testo i staviti ga u frižider da odstoji dvadesetak minuta.
 
 Plavi patlidžan oljuštiti, iseći na kolutove i kratko propržiti na ulju. Posoliti i pobiberiti.
 

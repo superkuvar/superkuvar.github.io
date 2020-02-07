@@ -18,7 +18,7 @@ tags:
   - orasi
   - rum
 ---
-Potrebno je:
+**Potrebno je**:
 
 testo
 
@@ -37,7 +37,7 @@ nadev
   * malo ruma
   * cimet (kašičica)
 
-Priprema: u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe. U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac. Izručiti masu na radnu površinu posutu brašnom i umesiti testo umerene tvrdoće, ni suviše tvrdo ni suviše meko.
+**Priprema**: u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe. U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac. Izručiti masu na radnu površinu posutu brašnom i umesiti testo umerene tvrdoće, ni suviše tvrdo ni suviše meko.
 
 Umešeno testo odmah podeliti na tri jednaka dela. Svaki deo testa oklagijom razvući u oblik kvadrata, pa svaki premazati nadevom. Testo zatim uviti kao rolat. Svaki rolat oštrim nožem iseći na komade debljine prsta.
 

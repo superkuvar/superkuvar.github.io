@@ -16,7 +16,7 @@ tags:
   - plavi patlidžan
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 7 kilograma crvenih paprika (očišćenih od semena)
   * plavi patlidžan &#8211; oljušten (2 kg)
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4326" title="Ajvarsapatlidzanom" src="/wp-content/uploads/2011/09/Ajvarsapatlidzanom1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u veći sud sipati četiri litra vode, dodati so, šećer i sirće, pa staviti na štednjak da provri. U ovoj vodi obariti paprike i patlidžan, pa kad se ohlade samleti ih na mašini za mlevenje mesa.
+**Priprema**: u veći sud sipati četiri litra vode, dodati so, šećer i sirće, pa staviti na štednjak da provri. U ovoj vodi obariti paprike i patlidžan, pa kad se ohlade samleti ih na mašini za mlevenje mesa.
 
 U veću šerpu sipati ulje, staviti na vatru da se zagreje, pa dodati mleveno povrće i pržiti. U toku prženja ajvar neprekidno mešati, da ne zagori. Pri kraju prženja dodati soli po ukusu i konzervans.
 

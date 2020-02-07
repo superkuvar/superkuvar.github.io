@@ -25,7 +25,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 2 čaše šećera
@@ -41,7 +41,7 @@ Potrebno je:
 
 ![Kolač sa jogurtom i orasima](/wp-content/uploads/2013/04/Kolacsajogurtomiorasima-1024x768.jpg)
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, pa sipati ulje, jogurt, jabuke i malo ruma. Izmešati, a zatim dodati orahe i brašno pomešano sa praškom za pecivo.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, pa sipati ulje, jogurt, jabuke i malo ruma. Izmešati, a zatim dodati orahe i brašno pomešano sa praškom za pecivo.
 
 Pripremljeno testo sipati u pleh prekriven papirom za pečenje i staviti u zagrejanu pećnicu. Kolač peći na temperaturi od 200 stepeni oko 40 minuta.
 

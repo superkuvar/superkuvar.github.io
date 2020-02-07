@@ -18,7 +18,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 * plavi patlidžan (3 veća)  
 * 4 veća krompira  
 * 1 struk praziluka ili 2 glavice crnog luka  
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-10840" src="/wp-content/uploads/2016/01/krompirsaplavimpatlidzanom-300x225.jpg" alt="krompirsaplavimpatlidzanom" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim kolutove patlidžana pritiskanjem između dlanova ocediti.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim kolutove patlidžana pritiskanjem između dlanova ocediti.
 
 Krompir u ljusci skuvati u posoljenoj vodi, ali da se ne prekuva. Kada se krompir prohladi, oljuštiti ga i iseći na kolutove.
 

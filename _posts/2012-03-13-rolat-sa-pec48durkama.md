@@ -19,7 +19,7 @@ tags:
   - pečurke
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 120 grama brašna
@@ -40,7 +40,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-2646" title="Rolat sa pečurkama" src="/wp-content/uploads/2012/03/Rolat-sa-pečurkama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
+**Priprema**: brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
 
 U prohlađenu masu dodati žumanca, jedno po jedno, a zatim i sneg od belanaca. Lagano izmešati i sipati u pleh obložen aluminijumskom folijom premazanom uljem. Peći na 180 stepeni dvadesetak minuta. Pečeno testo izručiti na vlažnu platnenu salvetu i uviti ga u rolat.
 

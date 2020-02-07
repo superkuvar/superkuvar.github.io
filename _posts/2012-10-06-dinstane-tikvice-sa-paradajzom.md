@@ -20,7 +20,7 @@ tags:
   - peršunov list
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg tikvica
   * 500 grama paradajza
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4444" title="Tikvice sa paradajzom" src="/wp-content/uploads/2012/10/Tikvice-sa-paradajzom-e1349530599697-300x226.jpg" alt="" width="300" height="226" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na kockice i staviti u pouljenu šerpu. Preko tikvica poređati oljušten i na komade isečen paradajz.
+**Priprema**: tikvice oprati, oljuštiti, iseći na kockice i staviti u pouljenu šerpu. Preko tikvica poređati oljušten i na komade isečen paradajz.
 
 Tikvice i paradajz posoliti, pobiberiti i posuti suvim biljnim začinom. Doliti još malo ulja i 1,5 decilitar tople vode. Jelo poklopiti i dinstati na umerenoj temperaturi. Pri kraju dinstanja dodati sitno iseckan beli luk i peršunov list.
 

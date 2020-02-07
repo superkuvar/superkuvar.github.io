@@ -21,7 +21,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 dl mleka
   * 25 grama margarina ili maslaca
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5496" src="/wp-content/uploads/2013/03/Princeskrofnesakackavaljem-300x225.jpg" alt="Princeskrofnesakackavaljem" width="300" height="225" /> 
 
-Priprema: u posudu staviti margarin i mleko, posoliti, pobiberiti i staviti na štednjak da provri. Kada mleko provri skloniti ga sa vatre, pa odjednom usuti brašno, dobro izmešati i vratiti na slabu vatru. Mešati varjačom dok testo ne počne da se odvaja od zidova posude. Skloniti sa štednjaka, ostaviti da se testo ohladi, a zatim dodavati jedno po jedno jaje, dobro mešajući posle svakog.
+**Priprema**: u posudu staviti margarin i mleko, posoliti, pobiberiti i staviti na štednjak da provri. Kada mleko provri skloniti ga sa vatre, pa odjednom usuti brašno, dobro izmešati i vratiti na slabu vatru. Mešati varjačom dok testo ne počne da se odvaja od zidova posude. Skloniti sa štednjaka, ostaviti da se testo ohladi, a zatim dodavati jedno po jedno jaje, dobro mešajući posle svakog.
 
 Kačkavalj krupno narendati i dodati u testo. Testo zahvatati kašičicom i stavljati u pleh prekriven papirom za pečenje. Između princes krofni ostaviti po malo razmaka, jer u toku pečenja narastu.
 

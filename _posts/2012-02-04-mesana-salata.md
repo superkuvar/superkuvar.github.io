@@ -23,7 +23,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 šargarepe
   * 1 praziluk ili 3 struka mladog crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5768" src="/wp-content/uploads/2012/02/Mesanasarenasalata-300x225.jpg" alt="Mesanasarenasalata" width="300" height="225" /> 
 
-Priprema: povrće oprati i očistiti. šargarepu i celer sitno izrendati, praziluk iseći na kolutove, a zelenu salatu na rezance.
+**Priprema**: povrće oprati i očistiti. šargarepu i celer sitno izrendati, praziluk iseći na kolutove, a zelenu salatu na rezance.
 
 Pomešati mileram i majonez, dodati sok od limuna i seckani peršunov list. Pripremljeno povrće posoliti po ukusu.
 

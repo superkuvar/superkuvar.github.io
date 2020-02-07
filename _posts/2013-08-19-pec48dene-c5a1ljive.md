@@ -17,7 +17,7 @@ tags:
   - šećer
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram šljiva
   * 6-7 kašika šećera
@@ -26,7 +26,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6035" src="/wp-content/uploads/2013/08/Pecenesljive1-300x225.jpg" alt="Pecenesljive" width="300" height="225" />](/wp-content/uploads/2013/08/Pecenesljive1-e1376893429590.jpg)
 
-Priprema: šljive oprati, očistiti od koštica i poređati u pleh. Posuti ih mešavinom cimeta i šećera i staviti u zagrejanu pećnicu.  ljive peći oko 25 minuta na 220 stepeni.
+**Priprema**: šljive oprati, očistiti od koštica i poređati u pleh. Posuti ih mešavinom cimeta i šećera i staviti u zagrejanu pećnicu.  ljive peći oko 25 minuta na 220 stepeni.
 
 Pečene šljive, kada se ohlade, sipati u činijice i posuti mlevenim orasima.
 

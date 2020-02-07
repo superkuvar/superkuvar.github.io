@@ -19,7 +19,7 @@ tags:
   - šljive
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za pitu
   * šljive (700 grama)
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-5999" src="/wp-content/uploads/2013/08/Pita-sa-sljivama-300x225.jpg" alt="Pita sa sljivama" width="300" height="225" />](/wp-content/uploads/2013/08/Pita-sa-sljivama.jpg)
 
-Priprema: šljive oprati, očistiti od koštica, iseći na rezance i pomešati sa suvim grožđem.
+**Priprema**: šljive oprati, očistiti od koštica, iseći na rezance i pomešati sa suvim grožđem.
 
 Slagati po četiri kore i svaku poprskati mešavinom ulja i vode, osim četvrte. Četvrtu koru posuti grizom, preko rasporediti šljive, a zatim posuti mlevenim orasima i šećerom pomešanim sa cimetom. Uviti u vidu rolata i ređati u podmazan pleh. Postupak ponoviti i sa ostalim korama.
 

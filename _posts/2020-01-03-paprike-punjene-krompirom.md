@@ -13,7 +13,7 @@ categories:
 tags:
    - krompir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 8-10 paprika
 * 500 g krompira

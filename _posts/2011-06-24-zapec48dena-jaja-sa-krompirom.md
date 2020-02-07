@@ -17,7 +17,7 @@ tags:
   - prezle
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 jaja
   * 1,5 kg krompira
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1271" title="zapecenajajaikrompir" src="/wp-content/uploads/2011/06/zapecenajajaikrompir1-e1308916439704.jpg" alt="" width="210" height="156" /> 
 
-Priprema: jaja tvrdo skuvati, oljuštiti i iseći na kolutove. Krompir oprati i neoljušten skuvati u posoljenoj vodi. Kada je krompir kuvan, ocediti ga, oljuštiti i iseći na kolutove.
+**Priprema**: jaja tvrdo skuvati, oljuštiti i iseći na kolutove. Krompir oprati i neoljušten skuvati u posoljenoj vodi. Kada je krompir kuvan, ocediti ga, oljuštiti i iseći na kolutove.
 
 U podmazanu vatrostalnu posudu ređati naizmenično kolutove krompira i jaja i zaliti rastopljenim margarinom. Umesto margarina može se koristi ulje. Voditi računa da se ređanje završi kolutovima krompira.
 

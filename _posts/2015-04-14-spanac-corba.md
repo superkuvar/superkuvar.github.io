@@ -16,7 +16,7 @@ tags:
   - pirinač
   - spanać
 ---
-Potrebno je:  
+**Potrebno je**:  
 * spanać (600 grama)  
 * 1 kašika brašna  
 * šoljica pirinča  
@@ -28,7 +28,7 @@ Potrebno je:
 
 ![spanac corba](/wp-content/uploads/2015/04/spanaccorba-1024x768.jpg)
 
-Priprema: spanać očistiti, oprati i kratko obariti u ključaloj vodi. Obaren spanać ocediti i kada se ohladi iseći na rezance.
+**Priprema**: spanać očistiti, oprati i kratko obariti u ključaloj vodi. Obaren spanać ocediti i kada se ohladi iseći na rezance.
 
 Na malo ulja propržiti brašno i sitno iseckan beli luk. Paziti da brašno ostane svetle boje. U proprženo brašno dodati iseckan spanać, promešati i sipati litar i po vode. Kada čorba proključa dodati opran pirinač.
 

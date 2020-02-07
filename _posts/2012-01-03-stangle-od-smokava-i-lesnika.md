@@ -14,7 +14,7 @@ tags:
   - limun
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 7 belanaca
   * 200 grama šećera
@@ -24,7 +24,7 @@ Potrebno je:
   * šećer u prahu
   * kesica vanilin šećera
 
-Priprema: suve smokve samleti na mašini za mlevenje mesa. U posudu za mešenje staviti belanca i šećer i mutiti dok se ne dobije čvrst sneg. U umućena belanca dodati samlevene smokve, mlevene lešnike, brašno i malo narendane kore od prethodno dobro opranog limuna.
+**Priprema**: suve smokve samleti na mašini za mlevenje mesa. U posudu za mešenje staviti belanca i šećer i mutiti dok se ne dobije čvrst sneg. U umućena belanca dodati samlevene smokve, mlevene lešnike, brašno i malo narendane kore od prethodno dobro opranog limuna.
 
 Masu lagano izmešati i sipati u pleh prekriven pek papirom podmazanim uljem. Kolač peći oko 30 minuta u pećnici zagrejanoj na 180 stepeni.
 

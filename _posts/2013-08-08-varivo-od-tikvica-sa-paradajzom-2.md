@@ -18,7 +18,7 @@ tags:
   - origano
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice
   * glavica crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5967" src="/wp-content/uploads/2013/08/Dinstanetikvicesaparadazom-300x225.jpg" alt="Dinstanetikvicesaparadazom" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju, da bude staklast. U propržen luk dodati oljuštene, na kockice isečene tikvice, paradajz pire, sok od limuna i šoljicu tople vode. Poklopiti i dinstati na umerenoj temperaturi, dok tikvice ne omekšaju.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju, da bude staklast. U propržen luk dodati oljuštene, na kockice isečene tikvice, paradajz pire, sok od limuna i šoljicu tople vode. Poklopiti i dinstati na umerenoj temperaturi, dok tikvice ne omekšaju.
 
 Pri kraju dinstanja tikvice posoliti, dodati suvi biljni začin, origano ili seckanu mirođiju (ko više voli) i biber. Varivo promešati i dinstati još nekoliko minuta.
 

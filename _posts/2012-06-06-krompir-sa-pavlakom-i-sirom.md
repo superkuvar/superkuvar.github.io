@@ -18,7 +18,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * 2 jaja
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3374" title="Krompirsapavlakomisirom" src="/wp-content/uploads/2012/06/Krompirsapavlakomisirom-e1338897338726-300x235.jpg" alt="" width="300" height="235" /> 
 
-Priprema: krompir oprati, oljuštiti i iseći na kriške. Poređati ga u podmazan pleh, posoliti, pobiberiti i dodati malo narendanog muskatnog oraščića. Krompir preliti uljem, staviti u pećnicu zagrejanu na 200 stepeni i peći dok ne omekša.
+**Priprema**: krompir oprati, oljuštiti i iseći na kriške. Poređati ga u podmazan pleh, posoliti, pobiberiti i dodati malo narendanog muskatnog oraščića. Krompir preliti uljem, staviti u pećnicu zagrejanu na 200 stepeni i peći dok ne omekša.
 
 Razmutiti jaja viljuškom, dodati kiselu pavlaku, mleko i strugani kačkavalj, pa ovim preliti krompir. Jelo vratiti u pećnicu i još malo zapeći.
 

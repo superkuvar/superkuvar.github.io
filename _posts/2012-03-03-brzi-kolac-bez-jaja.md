@@ -17,7 +17,7 @@ tags:
   - orasi
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 šoljica (za crnu kafu) tople vode
   * 4 šoljice šećera
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2676" title="Brzi kolač bez jaja" src="/wp-content/uploads/2012/03/Brzi-kolač-bez-jaja-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud za mešenje sipati vodu, dodati šećer, ulje, džem, brašno, prašak za pecivo i mlevene orahe. Varjačom dobro izmešati sastojke.  Pleh obložiti papirom za pečenje ili podmazati uljem i posuti brašnom, pa sipati pripremljeno testo.
+**Priprema**: u sud za mešenje sipati vodu, dodati šećer, ulje, džem, brašno, prašak za pecivo i mlevene orahe. Varjačom dobro izmešati sastojke.  Pleh obložiti papirom za pečenje ili podmazati uljem i posuti brašnom, pa sipati pripremljeno testo.
 
 Pleh sa testom staviti u pećnicu zagrejanu na 200 stepeni. Kolač peći oko 30 minuta.
 

@@ -17,7 +17,7 @@ tags:
   - margarin
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 * 250 grama margarina  
 * brašno (oko 400 grama)  
 * 100 grama šećera  
@@ -29,7 +29,7 @@ Potrebno je:
 
 ![Posne vanilice](/wp-content/uploads/2015/05/vanilice-1024x768.jpg)
 
-Priprema: penasto umutiti margarin sa šećerom, dodati sok od limuna i brašno pomešano sa praškom za pecivo. Umesiti glatko testo.
+**Priprema**: penasto umutiti margarin sa šećerom, dodati sok od limuna i brašno pomešano sa praškom za pecivo. Umesiti glatko testo.
 
 Na radnoj površini posutoj brašnom rastanjiti testo oklagijom na debljinu od pola santimetra. Kalupom vaditi vanilice i ređati ih u podmazan pleh. Vanilice staviti u pećnicu zagrejanu na 180 stepeni i peći desetak minuta. Treba da ostanu svetle boje.
 

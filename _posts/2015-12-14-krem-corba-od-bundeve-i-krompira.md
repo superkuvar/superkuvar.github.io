@@ -18,7 +18,7 @@ tags:
   - krompir
   - peršunov list
 ---
-Potrebno je:  
+**Potrebno je**:  
 * bundeva (600 grama)  
 * krompir (4 veća)  
 * 1 mala glavica crnog luka  
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10795" src="/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-300x225.jpg" alt="kremcorbaodbundeveikrompira" width="300" height="225" />](/wp-content/uploads/2015/12/kremcorbaodbundeveikrompira-e1450076004418.jpg)
 
-Priprema: očistiti crni luk, isitniti ga i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kockice. Bundevu oprati, oljuštiti i narendati.
+**Priprema**: očistiti crni luk, isitniti ga i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kockice. Bundevu oprati, oljuštiti i narendati.
 
 U propržen crni luk dodati narendanu bundevu i isitnjen krompir. Bundevu i krompir naliti sa oko litar-litar i po vode i staviti da se kuvaju na umerenoj temperaturi. Čorbu posoliti, dodati suvi biljni začin i kari po ukusu.
 

@@ -21,7 +21,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama brašna (pola meko, a pola oštro)
   * 250 grama starijeg belog sira
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5292" src="/wp-content/uploads/2011/12/Slaništapićisasirom-300x225.jpg" alt="Slaništapićisasirom" width="300" height="225" /> 
 
-Priprema: umutiti margarin sa dva jajeta, dodati sir izgnječen viljuškom, malo soli i brašno pomešano sa praškom za pecivo.
+**Priprema**: umutiti margarin sa dva jajeta, dodati sir izgnječen viljuškom, malo soli i brašno pomešano sa praškom za pecivo.
 
 Testo dobro izraditi rukama i razviti na debljinu prsta, premazati umućenim žumancetom, posuti kimom ili susamom i seći na malo duže štapiće. Poređati ih u pleh podmazan uljem ili obložen papirom za pečenje i peći oko 15 minuta na 200 stepeni.
 

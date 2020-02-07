@@ -33,7 +33,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-3812" title="Plavipatlidzannamakedonskinacin" src="/wp-content/uploads/2011/03/Plavipatlidzannamakedonskinacin-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oljuštiti, iseći na jednake šnite, posoliti i ostaviti da stoji oko 20 minuta, a potom ocediti od soka koji je pustio.
+**Priprema**: plavi patlidžan oljuštiti, iseći na jednake šnite, posoliti i ostaviti da stoji oko 20 minuta, a potom ocediti od soka koji je pustio.
 
 Crni luk iseći na rebarca i ispržiti na ulju, da postane staklast. Dodati sitno seckani beli luk, so i biber i kratko propržiti. Paradajz oljuštiti i iseći na komadiće.
 

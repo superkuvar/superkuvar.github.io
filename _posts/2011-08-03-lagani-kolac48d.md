@@ -20,7 +20,7 @@ tags:
   - jabuke
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * 2 šoljice ulja
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5268" src="/wp-content/uploads/2011/08/Lagani-kolač-e1360945924342-300x188.jpg" alt="Lagani kolač" width="300" height="188" /> 
 
-Priprema: umutiti jaja sa šećerom, dodati ulje i džem, umešati brašno, prašak za pecivo, narendane jabuke i cimet.
+**Priprema**: umutiti jaja sa šećerom, dodati ulje i džem, umešati brašno, prašak za pecivo, narendane jabuke i cimet.
 
 Smesu lagano izmešati varjačom i sipati u podmazan i brašnom posut pleh. Kolač peći na 200 stepeni oko pola sata.
 

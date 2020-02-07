@@ -21,7 +21,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 veća plava patlidžana
   * 4-5 paprika
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4726" title="Plavi patlidzan sa povrcem" src="/wp-content/uploads/2011/03/Plavi-patlidzan-sa-povrcem-e1352974714902-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i dinstati na ulju, da postane staklast. U proprženi luk dodati oljušten plavi patlidžan isečen na rezance, papriku takođe isečenu na rezance i oljušten paradajz isečen na komade.
+**Priprema**: crni luk očistiti, sitno iseckati i dinstati na ulju, da postane staklast. U proprženi luk dodati oljušten plavi patlidžan isečen na rezance, papriku takođe isečenu na rezance i oljušten paradajz isečen na komade.
 
 Dinstati dok povrće ne omekša. Začiniti solju, suvim biljnim začinom, biberom i seckanim peršunovim listom. Kad je povrće gotovo, preliti ga umućenim jajima i još kratko dinstati dok se jaja ne stegnu.
 

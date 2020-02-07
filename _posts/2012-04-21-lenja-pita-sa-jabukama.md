@@ -18,7 +18,7 @@ tags:
   - margarin
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 2 jajeta
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3005" title="Lenja pita sa jabukama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-jabukama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: jabuke oprati, oljuštiti, izrendati na krupno rende, dodati dve šoljice šećera i kratko prodinstati. U izdinstane jabuke dodati kesicu cimeta.
+**Priprema**: jabuke oprati, oljuštiti, izrendati na krupno rende, dodati dve šoljice šećera i kratko prodinstati. U izdinstane jabuke dodati kesicu cimeta.
 
 Umutiti penasto margarin, dodati jaja, šoljicu šećera, mleko, pavlaku, brašno i prašak za pecivo. Smesu sjediniti, umesiti rukama mekano testo i podeliti ga na dva dela. Polovinu testa staviti na dno podmazanog i brašnom posutog pleha i rastanjiti ga rukom ili kašikom. Preko njega rasporediti fil od jabuka i prekriti drugom polovinom testa, koje takođe rastanjiti.
 

@@ -17,7 +17,7 @@ tags:
   - pileće meso
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama krompira
   * 300 grama pilećeg mesa (po izboru)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3167" title="Krompir paprikaš sa piletinom" src="/wp-content/uploads/2012/05/Krompir-paprikaš-sa-piletinom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: luk očistiti, sitno iseckati i propržiti zajedno sa pilećim mesom na malo ulja.
+**Priprema**: luk očistiti, sitno iseckati i propržiti zajedno sa pilećim mesom na malo ulja.
 
 U propržen luk dodati šargarepu isečenu na kolutove i oljušten krompir isečen na kocke, pa naliti vodom da ogrezne. Paprikaš kuvati dok meso i krompir ne omekšaju.
 

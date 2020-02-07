@@ -15,7 +15,7 @@ tags:
   - crni luk
   - paprike
 ---
-Potrebno je:  
+**Potrebno je**:  
 * veće mesnate paprike (8-10 komada)  
 * crni luk (6 glavica)  
 * ulje  
@@ -23,7 +23,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10525" src="/wp-content/uploads/2015/11/paprikenagrckinacin-300x225.jpg" alt="paprikenagrckinacin" width="300" height="225" />](/wp-content/uploads/2015/11/paprikenagrckinacin-e1448262791370.jpg)
 
-Priprema: očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
+**Priprema**: očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
 
 U šerpu sipati ulje, pa kad se zagreje dodati isečen crni luk i paprike. Posoliti i dinstati na umerenoj vatri dok paprike i luk ne omekšaju. Jelo treba češće mešati da ne bi zagorelo.
 

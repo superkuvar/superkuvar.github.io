@@ -13,7 +13,7 @@ categories:
 tags:
    - kajmak
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 600 g kukuruznog belog brašna
 * 4 jajeta

@@ -17,7 +17,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 ml mleka
   * 3 jajeta
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3444" title="Mamin sladoled" src="/wp-content/uploads/2012/06/Mamin-sladoled-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudu sipati mleko i staviti na štednjak. U drugoj posudi umutiti žumanca sa tri kašike šećera, kesicom vanilin šećera i brašnom. Kada mleko provri skloniti ga sa štednjaka, pa umešati masu od žumanaca. Vratiti na štednjak i uz neprekidno mešanje kuvati još 4-5 minuta na tihoj vatri. U skuvan vreo krem dodati margarin. Ostaviti da se krem ohladi.
+**Priprema**: u posudu sipati mleko i staviti na štednjak. U drugoj posudi umutiti žumanca sa tri kašike šećera, kesicom vanilin šećera i brašnom. Kada mleko provri skloniti ga sa štednjaka, pa umešati masu od žumanaca. Vratiti na štednjak i uz neprekidno mešanje kuvati još 4-5 minuta na tihoj vatri. U skuvan vreo krem dodati margarin. Ostaviti da se krem ohladi.
 
 Mikserom mutiti belanca, pa kada sneg bude srednje čvrst dodavati, kap po kap, vreli sirup od ušpinovanog šećera, kao kada se pravi šampita. Mutiti dok se ne dobije čvrst šam. U gotov sneg od belanaca sipati ohlađen žuti krem i još malo umutiti mikserom.
 

@@ -19,7 +19,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram mladih tikvica
   * 5-6 čenova belog luka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3670" title="Tikviceumileramu" src="/wp-content/uploads/2012/07/Tikviceumileramu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da odstoje petnaest-dvadeset minuta. Nakon toga tikvice ocediti od vode koju su pustile. Svaki režanj tikvica uvaljati u brašno, pa u razmućena jaja i pržiti na zagrejanom ulju, da porumene sa obe strane.
+**Priprema**: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da odstoje petnaest-dvadeset minuta. Nakon toga tikvice ocediti od vode koju su pustile. Svaki režanj tikvica uvaljati u brašno, pa u razmućena jaja i pržiti na zagrejanom ulju, da porumene sa obe strane.
 
 Ispohovane tikvice ređati u činiju, svaki red posuti seckanim belim lukom, mlevenim orasima i iseckanom mirođijom, pa prelivati mešavinom milerama i jogurta. Odozgo posuti ostatkom milerama i jogurta, mlevenim orasima i mirođijom. Do služenja držati u frižideru.
 

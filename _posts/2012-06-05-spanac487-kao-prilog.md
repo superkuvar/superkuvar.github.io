@@ -16,7 +16,7 @@ tags:
   - pirinač
   - spanać
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1 kilogram)
   * pirinač (šoljica)
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3355" title="Spanać kao prilog" src="/wp-content/uploads/2012/06/Spanać-kao-prilog1-e1338807523650-300x231.jpg" alt="" width="300" height="231" /> 
 
-Priprema: spanać očistiti od drški, oprati i izručiti u dublji pleh (listove ostaviti cele, bez seckanja). Posoliti, pobiberiti i dodati na vrh noža narendanog muskatnog oraščića. Preko spanaća posuti opran pirinač i malo crvene mlevene začinske paprike.
+**Priprema**: spanać očistiti od drški, oprati i izručiti u dublji pleh (listove ostaviti cele, bez seckanja). Posoliti, pobiberiti i dodati na vrh noža narendanog muskatnog oraščića. Preko spanaća posuti opran pirinač i malo crvene mlevene začinske paprike.
 
 Spanać preliti sa pola decilitra ulja i šoljom vode. Peći oko 30 minuta na 180 stepeni. U toku pečenja spanać promešati dva-tri puta.
 

@@ -18,7 +18,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 6 jaja
   * 300 grama šećera
@@ -38,7 +38,7 @@ Za fil:
   * 200 grama šećera u prahu
   * kesica vanilin šećera
 
-Priprema: u posudi za mešenje ulupati čvrst sneg od belanaca i šećera, a zatim (uz dalje mešanje mikserom – manja brzina) dodavati jedno po jedno žumance, 9 kašika tople vode (jednu po jednu), 9 kašika ulja (jednu po jednu), brašno, prašak za pecivo, kakao i orahe. U pleh, prekriven papirom za pečenje ili podmazan uljem i posut brašnom, sipati pripremljeno testo. Peći dvadesetak minuta na 200 stepeni.
+**Priprema**: u posudi za mešenje ulupati čvrst sneg od belanaca i šećera, a zatim (uz dalje mešanje mikserom – manja brzina) dodavati jedno po jedno žumance, 9 kašika tople vode (jednu po jednu), 9 kašika ulja (jednu po jednu), brašno, prašak za pecivo, kakao i orahe. U pleh, prekriven papirom za pečenje ili podmazan uljem i posut brašnom, sipati pripremljeno testo. Peći dvadesetak minuta na 200 stepeni.
 
 Pečeno testo izručiti na radnu površinu. Kada se ohladi preseći ga na pola a zatim filovati.
 

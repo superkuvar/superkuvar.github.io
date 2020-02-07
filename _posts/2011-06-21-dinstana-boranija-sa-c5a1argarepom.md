@@ -17,7 +17,7 @@ tags:
   - paradajz pire
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * boranija (1,5 kg)
   * 5 šargarepa srednje veličine
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1226" title="dinstanaboranija" src="/wp-content/uploads/2011/06/dinstanaboranija-e1308658233518.jpg" alt="" width="250" height="168" /> 
 
-Priprema: crni luk očistiti, sitno iseckati i staviti u šerpu sa zagrejanim uljem. Kad postane staklast, dodati očišćenu šargarepu isitnjenu na kolutove i još malo zajedno prodinstati. Zatim dodati očišćenu i opranu boraniju, naliti malo vode i dinstati zajedno. Posle 15-20 minuta dodati sitno seckani beli luk i pire od paradajza.
+**Priprema**: crni luk očistiti, sitno iseckati i staviti u šerpu sa zagrejanim uljem. Kad postane staklast, dodati očišćenu šargarepu isitnjenu na kolutove i još malo zajedno prodinstati. Zatim dodati očišćenu i opranu boraniju, naliti malo vode i dinstati zajedno. Posle 15-20 minuta dodati sitno seckani beli luk i pire od paradajza.
 
 Nastaviti sa dinstanjem, uz povremeno dolivanje po malo tople vode, dok boranija i šargarepa ne postanu mekane. Na kraju dodati začine i seckani peršunov list. Jelo treba da bude gusto.
 

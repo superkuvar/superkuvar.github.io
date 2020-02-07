@@ -19,7 +19,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pirinač (150 grama)
   * spanać (700 grama)
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2856" title="Musaka od spanaća i pirinča" src="/wp-content/uploads/2011/05/Musaka-od-spanaća-i-pirinča-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati i obariti u malo ključale vode. Obaren spanać ocediti i sitno iseckati. Pirinač oprati i skuvati u posoljenoj vodi, ali da se ne prekuva. šargarepu oprati, očistiti i iseći na kockice.
+**Priprema**: spanać očistiti, oprati i obariti u malo ključale vode. Obaren spanać ocediti i sitno iseckati. Pirinač oprati i skuvati u posoljenoj vodi, ali da se ne prekuva. šargarepu oprati, očistiti i iseći na kockice.
 
 Isitnjen spanać i šargarepu sjediniti, posoliti, dodati biber i malo struganog muskatnog oraščića.
 

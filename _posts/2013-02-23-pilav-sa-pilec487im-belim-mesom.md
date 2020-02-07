@@ -21,7 +21,7 @@ tags:
   - pirinač
   - praziluk
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pileće meso od grudi (oko 500 grama)
   * 1 struk praziluka
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5326" src="/wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-300x225.jpg" alt="Pilavsapilecimbelimmesom" width="300" height="225" /> 
 
-Priprema: opran, očišćen i sitno isečen praziluk ili glavicu crnog luka propržiti na zagrejanom ulju. Dodati belo meso isečeno na kocke i pržiti, dok ne promeni boju &#8211; pobeli. Posoliti, pobiberiti i dodati kari.
+**Priprema**: opran, očišćen i sitno isečen praziluk ili glavicu crnog luka propržiti na zagrejanom ulju. Dodati belo meso isečeno na kocke i pržiti, dok ne promeni boju &#8211; pobeli. Posoliti, pobiberiti i dodati kari.
 
 Oprati pirinač, pa sipati u podmazanu posudu za pečenje. Odozgo rasporediti propržen luk i meso, a zatim naliti toplom pilećom supom ili vodom, da ogrezne.
 

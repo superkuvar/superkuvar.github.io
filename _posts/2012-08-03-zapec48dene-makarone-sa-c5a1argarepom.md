@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * pakovanje makarona (400-500 grama)
   * 500 grama šargarepe
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3882" title="Zapecenemakaronesasargarepom" src="/wp-content/uploads/2012/08/Zapecenemakaronesasargarepom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: šargarepu oprati, očistiti, iseći na kolutove i obariti u slanoj vodi u koju je dodato malo bosiljka.
+**Priprema**: šargarepu oprati, očistiti, iseći na kolutove i obariti u slanoj vodi u koju je dodato malo bosiljka.
 
 Makarone skuvati prema uputstvu na ambalaži. Zatim isključiti toplotu, poklopiti posudu i ostaviti desetak minuta da testenina nabubri. Nakon toga makarone ocediti, isprati hladnom vodom i preliti sa malo ulja.
 

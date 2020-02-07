@@ -17,7 +17,7 @@ tags:
   - paprike
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 800 grama krompira
   * 5 zelenih paprika
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3998" title="Jednostavnidjuveč" src="/wp-content/uploads/2012/08/Jednostavnidjuveč-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: povrće oprati, očistiti i iseći, krompir na kocke, a šargarepu i paprike na kolutove.
+**Priprema**: povrće oprati, očistiti i iseći, krompir na kocke, a šargarepu i paprike na kolutove.
 
 U dublju posudu ili pekač sipati ulje, dodati sitno iseckan crni luk i pripremljeno povrće. Posoliti, pobiberiti, dodati majoran i kašiku mlevene začinske paprike pa dobro izmešati. Doliti vode toliko da povrće ogrezne i staviti u prethodno zagrejanu pećnicu.
 

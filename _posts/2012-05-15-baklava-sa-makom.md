@@ -18,7 +18,7 @@ tags:
   - ulje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama tankih kora za baklavu
   * 4 jajeta
@@ -37,7 +37,7 @@ Preliv:
 
 <img class="alignnone size-medium wp-image-3219" title="Baklava sa makom" src="/wp-content/uploads/2012/05/Baklava-sa-makom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: umutiti jaja sa šećerom, pa dodati ulje, mileram, vanilin šećer i mak pomešan sa praškom za pecivo. Lagano varjačom izmešati da se dobije ujednačena masa.
+**Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mileram, vanilin šećer i mak pomešan sa praškom za pecivo. Lagano varjačom izmešati da se dobije ujednačena masa.
 
 U pleh podmazan uljem staviti tri kore, svaku preliti sa malo ulja, pa preko treće premazati fil od maka. Zatim ređati po jednu koru, poprskati je sa malo ulja i premazati filom. Tako raditi sve dok se ne utroši fil. Odozgo baklavu prekriti sa dve kore, koje takođe poprskati uljem, a zatim iseći na kocke.
 

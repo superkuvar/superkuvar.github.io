@@ -15,7 +15,7 @@ tags:
   - paradajz
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 kilograma zelenog paradajza srednje veličine
   * 4 supene kašike soli
@@ -24,7 +24,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4300" title="Zeleniparadajzusircetu" src="/wp-content/uploads/2012/09/Zeleniparadajzusircetu1-e1347877607681-300x297.jpg" alt="" width="300" height="297" /> 
 
-Priprema: sitniji zeleni paradajz oprati, skloniti peteljke, ostaviti ga da se osuši od vode, a zatim ređati u tegle.
+**Priprema**: sitniji zeleni paradajz oprati, skloniti peteljke, ostaviti ga da se osuši od vode, a zatim ređati u tegle.
 
 Od vode, sirćeta i soli skuvati presolac. Ohlađenim presolcem preliti paradajz da ogrezne. Ostaviti preko noći da paradajz upije presolac, a zatim povezati tegle.
 

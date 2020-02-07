@@ -34,7 +34,7 @@ Za glazuru:
   * 150 g čokolade za kuvanje
   * 2 kašike ulja
 
-Priprema: skuvati vodu sa šećerom, pa dodati čokoladu za kuvanje i mešati dok se ne otopi. Zatim dodati orahe, promešati i ostaviti da se ohladi.
+**Priprema**: skuvati vodu sa šećerom, pa dodati čokoladu za kuvanje i mešati dok se ne otopi. Zatim dodati orahe, promešati i ostaviti da se ohladi.
 
 U ohlađenu smesu sa čokoladom i orasima dodati 10 umućenih žumanaca i brašno, pa lagano promešati.
 

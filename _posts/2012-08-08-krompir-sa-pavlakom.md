@@ -16,7 +16,7 @@ tags:
   - kisela pavlaka
   - krompir
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 2 glavice crnog luka
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3916" title="Krompirsapavlakom" src="/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg" alt="" width="300" height="228" srcset="/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg 300w, /wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-1024x778.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-Priprema: krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
+**Priprema**: krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
 
 Na ulju propržiti iseckan crni luk, da postane staklast. Skloniti ga sa vatre, pa dodati krompir, iseckan peršunov list i kiselu pavlaku. Izmešati lagano, da se kriške krompira ne izlome.
 

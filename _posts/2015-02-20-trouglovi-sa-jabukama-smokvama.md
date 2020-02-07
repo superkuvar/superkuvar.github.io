@@ -16,7 +16,7 @@ tags:
   - jabuke
   - smokve
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zamrznuto lisnato testo (pakovanje 450 grama)
   * 2 kisele jabuke
@@ -29,7 +29,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9411" src="/wp-content/uploads/2015/02/trouglovisajabukamaismokvama-300x225.jpg" alt="trouglovisajabukamaismokvama" width="300" height="225" />](/wp-content/uploads/2015/02/trouglovisajabukamaismokvama.jpg)
 
-Priprema: ostaviti testo na sobnoj temperaturi da se odmrzne. Jabuke oprati, oljuštiti i narendati na trenici. Suve smokve sitno iseckati. Pomešati jabuke, suve smokve, šećer i cimet.
+**Priprema**: ostaviti testo na sobnoj temperaturi da se odmrzne. Jabuke oprati, oljuštiti i narendati na trenici. Suve smokve sitno iseckati. Pomešati jabuke, suve smokve, šećer i cimet.
 
 Odmrznuto testo rastanjiti na radnoj površini posutoj brašnom, pa iseći na kvadrate dimenzija 10h10 santimetara. Na svaki kvadrat staviti deo nadeva, a krajeve testa premazati umućenim žumancetom. Testo zatim preklopiti da se dobije trougao i ivice dobro pritisnuti, da se slepe.
 

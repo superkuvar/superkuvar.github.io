@@ -21,7 +21,7 @@ tags:
   - šlag
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 8 kašika šećera
@@ -37,7 +37,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9128" src="/wp-content/uploads/2014/04/kolacsapomorandzom-300x225.jpg" alt="kolacsapomorandzom" width="300" height="225" />](/wp-content/uploads/2014/04/kolacsapomorandzom.jpg)
 
-Priprema: penasto umutiti jaja sa pet kašika šećara, pa dodati brašno i kašiku ulja. Testo lagano izmešati i sipati u podmazan i brašnom posut pleh. Biskvitno testo peći 15 minuta u pećnici zagrejanoj na 180 stepeni. Kada se ohladi isitniti ga na kockice i staviti u dublju posudu.
+**Priprema**: penasto umutiti jaja sa pet kašika šećara, pa dodati brašno i kašiku ulja. Testo lagano izmešati i sipati u podmazan i brašnom posut pleh. Biskvitno testo peći 15 minuta u pećnici zagrejanoj na 180 stepeni. Kada se ohladi isitniti ga na kockice i staviti u dublju posudu.
 
 Penasto umutiti margarin sa šećerom u prahu. Prašak za puding razmutiti u malo hladnog mleka, a ostatak mleka sa tri kašike šećera staviti na štednjak da provri. U provrelo mleko sipati razmućen prašak za puding i vratiti na štednjak da se kuva još minut-dva. Ostaviti puding da se ohladi, a zatim ga sjediniti sa umućenim margarinom.
 

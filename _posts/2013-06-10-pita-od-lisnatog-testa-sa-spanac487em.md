@@ -23,7 +23,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama smrznutog lisnatog testa
   * 1 kilogram spanaća
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5738" src="/wp-content/uploads/2013/06/Pitaodlisnatogtestaspanac-300x225.jpg" alt="Pitaodlisnatogtestaspanac" width="300" height="225" /> 
 
-Priprema: spanać očistiti, oprati, kratko obariti i ocediti. Kada se spanać ohladi sitno ga iseckati.
+**Priprema**: spanać očistiti, oprati, kratko obariti i ocediti. Kada se spanać ohladi sitno ga iseckati.
 
 Umutiti viljuškom dva jajeta, pa dodati kiselo mleko, izmrvljen sir, so, biber, alevu papriku i spanać. Masu dobro izmešati.
 

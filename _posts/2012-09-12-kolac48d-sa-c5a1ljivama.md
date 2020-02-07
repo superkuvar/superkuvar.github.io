@@ -20,7 +20,7 @@ tags:
   - šljive
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 200 grama šećera
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4255" title="Kolac sa sljivama" src="/wp-content/uploads/2012/09/Kolac-sa-sljivama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, dodati razmekšali margarin, so, rum, jogurt, vanilin šećer i brašno pomešano sa praškom za pecivo. Zamesiti glatko testo, da bude malo mekše.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, dodati razmekšali margarin, so, rum, jogurt, vanilin šećer i brašno pomešano sa praškom za pecivo. Zamesiti glatko testo, da bude malo mekše.
 
 Pleh prekriti papirom za pečenje ili podmazati uljem i posuti brašnom, pa staviti pripremljeno testo i rukom ga rastanjiti.
 

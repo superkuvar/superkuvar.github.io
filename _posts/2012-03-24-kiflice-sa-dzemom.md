@@ -18,7 +18,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paketić svežeg kvasca
   * 5 decilitara mleka
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2771" title="Kiflice sa džemom" src="/wp-content/uploads/2012/03/Kiflice-sa-džemom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u mlakom mleku, u koje je dodata kašika šećera, razmutiti izdrobljeni kvasac i ostaviti na toplom mestu da nadođe.
+**Priprema**: u mlakom mleku, u koje je dodata kašika šećera, razmutiti izdrobljeni kvasac i ostaviti na toplom mestu da nadođe.
 
 U sud za mešenje sipati brašno (ali ne odjednom svu količinu), so, tri kašike šećera, jedno jaje, jedno belance i ulje, pa sipati nadošli kvasac i zamesiti testo. Izručiti ga na radnu površinu posutu brašnom i dobro izraditi. Po potrebi, prilikom natiranja testa ukoliko je mnogo mekano, dodavati po malo brašna dok se ne dobije testo koje ne treba da bude mnogo tvrdo.
 

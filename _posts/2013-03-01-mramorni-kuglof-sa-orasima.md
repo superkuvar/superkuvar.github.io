@@ -24,7 +24,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama maslaca ili margarina
   * 200 grama šećera
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5365" src="/wp-content/uploads/2013/02/Mramornikuglofsaaorasima-300x225.jpg" alt="Mramornikuglofsaaorasima" width="300" height="225" /> 
 
-Priprema: penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
+**Priprema**: penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
 
 Testo podeliti na dva dela. U jedan deo staviti kakao, orahe i pola šoljice mleka.
 

@@ -19,7 +19,7 @@ tags:
   - rezanci
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * paradajz (3 veća)
   * krompir (300 g)
@@ -36,7 +36,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6247" src="/wp-content/uploads/2013/11/Corbaodparadajzaikrompira-300x225.jpg" alt="Corbaodparadajzaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Corbaodparadajzaikrompira.jpg)
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati paradajz, prethodno oljušten i sitno iseckan i još malo pržiti.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati paradajz, prethodno oljušten i sitno iseckan i još malo pržiti.
 
 Krompir, celer i šargarepu oprati, oljuštiti i isitniti na kockice, pa dodati u paradajz i luk. Pržiti 2-3 minuta, a zatim naliti litrom i po vode. Kada čorba provri, dodati list lovora. Kuvati oko 20 minuta.
 

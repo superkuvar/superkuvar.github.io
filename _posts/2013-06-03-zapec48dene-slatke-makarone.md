@@ -23,7 +23,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama makarona ili rezanaca
   * 3 jajeta
@@ -37,7 +37,7 @@ Potrebno je:
 
 ![Zapečene slatke makarone](/wp-content/uploads/2013/06/Zapeceneslatkemkarone-1024x768.jpg)
 
-Priprema: skuvati makarone prema uputstvu na ambalaži i ocediti ih.
+**Priprema**: skuvati makarone prema uputstvu na ambalaži i ocediti ih.
 
 Umutiti margarin sa šećerom, dodati žumanca, rum i vanilin šećer i još malo mutiti. U umućen margarin dodati kokosovo brašno i suvo grožđe, pa pomešati sa oceđenim makaronama.
 

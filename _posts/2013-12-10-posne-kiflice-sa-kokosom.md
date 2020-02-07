@@ -17,7 +17,7 @@ tags:
   - margarin
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 125 grama margarina
   * 125 grama šećera
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6320" src="/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom-300x225.jpg" alt="Posne kiflice sa kokosom" width="300" height="225" />](/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom.jpg)
 
-Priprema: izvaditi margarin iz frižidera i kad malo omekša, utrljati ga sa brašnom. Zatim dodati šećer, kokosovo brašno i brašno pomešano sa praškom za pecivo. Uz dolivanje po malo mlake vode zamesiti glatko mekše testo.
+**Priprema**: izvaditi margarin iz frižidera i kad malo omekša, utrljati ga sa brašnom. Zatim dodati šećer, kokosovo brašno i brašno pomešano sa praškom za pecivo. Uz dolivanje po malo mlake vode zamesiti glatko mekše testo.
 
 Otkidati komade testa, od svakog napraviti lopticu i na pobrašnjenoj radnoj površini razvući oklagijom u obliku kruga, a zatim seći na trouglove. Uvijati kiflice i ređati ih u pleh obložen papirom za pečenje.
 

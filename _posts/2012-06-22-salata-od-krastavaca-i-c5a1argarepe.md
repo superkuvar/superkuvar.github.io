@@ -17,7 +17,7 @@ tags:
   - mileram
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 manja krastavca
   * 1 veća šargarepa
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3566" title="Salataodkrastavacaišargarepe" src="/wp-content/uploads/2012/06/Salataodkrastavacaišargarepe-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krastavce oprati, oljuštiti, iseckati i ostaviti da se ocede od vode koju su pustili. šargarepu oprati, oljuštiti, obariti u slanoj vodi i iseckati.
+**Priprema**: krastavce oprati, oljuštiti, iseckati i ostaviti da se ocede od vode koju su pustili. šargarepu oprati, oljuštiti, obariti u slanoj vodi i iseckati.
 
 U oceđene krastavce dodati obarenu šargarepu i iseckan beli luk, posoliti, sipati kiselo mleko, mileram i sve dobro promešati.
 

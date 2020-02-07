@@ -15,14 +15,14 @@ tags:
   - paradajz
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram duguljastog zelenog paradajza
   * 1,5 kilogam šećera
   * 2 limuna
   * šipka vanile
 
-Priprema: paradajz treba da bude što sitniji. Oprati ga i iglom za pletenje ili čačkalicom izbosti, staviti u šerpu, preliti vodom i kuvati dok ne provri. Paradajz zatim ocediti i naliti drugom vodom i ponovo kuvati do vrenja. Tako uraditi još dva puta. Zatim paradajz oljuštiti i staviti u cediljku da se ocedi.
+**Priprema**: paradajz treba da bude što sitniji. Oprati ga i iglom za pletenje ili čačkalicom izbosti, staviti u šerpu, preliti vodom i kuvati dok ne provri. Paradajz zatim ocediti i naliti drugom vodom i ponovo kuvati do vrenja. Tako uraditi još dva puta. Zatim paradajz oljuštiti i staviti u cediljku da se ocedi.
 
 Skuvati gust sirup od šećera i čaše vode, spustiti paradajz i kuvati. Kašikom skidati penu i povremeno protresti šerpu, pošto slatko ne sme da se meša. Na polovini kuvanja u slatko dodati sok od limuna i šipku vanile.
 

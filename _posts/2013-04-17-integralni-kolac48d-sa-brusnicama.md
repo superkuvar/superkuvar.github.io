@@ -23,7 +23,7 @@ tags:
   - šećer
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * 150 grama šećera
@@ -39,7 +39,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5598" src="/wp-content/uploads/2013/04/Integralni-kolac-sa-brusnicom-300x225.jpg" alt="Integralni kolac sa brusnicom" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, jogurt, sok od limuna i vanilin šećer. Dodati brašno pomešano sa praškom za pecivo. Masu dobro izmešati varjačom i dodati brusnice.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, jogurt, sok od limuna i vanilin šećer. Dodati brašno pomešano sa praškom za pecivo. Masu dobro izmešati varjačom i dodati brusnice.
 
 Pripremljeno testo sipati u dugačak uzani pleh, prethodno podmazan uljem i posut brašnom. Kolač peći oko 50 minuta na 220 stepeni.
 

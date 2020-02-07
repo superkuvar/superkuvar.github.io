@@ -13,7 +13,7 @@ categories:
 tags:
    - crni luk
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram džigerice 
 * 200 g jagnjeće maramice

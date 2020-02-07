@@ -16,7 +16,7 @@ tags:
   - kupus
   - makarone
 ---
-Potrebno je:
+**Potrebno je**:
 
   * svež kupus (1 kg)
   * 1 glavica crnog luka
@@ -29,7 +29,7 @@ Potrebno je:
 
 ![Dinstani kupus sa makaronama](/wp-content/uploads/2012/06/Dinstanikupussamakaronama-1024x768.jpg) 
 
-Priprema: crni luk očistiti, sitno iseckati i propržiti na ulju. Kupus očistiti, oprati, iseći na rezance i dodati u luk. Promešati, poklopiti i dinstati uz povremeno mešanje i dolivanje po malo tople vode.
+**Priprema**: crni luk očistiti, sitno iseckati i propržiti na ulju. Kupus očistiti, oprati, iseći na rezance i dodati u luk. Promešati, poklopiti i dinstati uz povremeno mešanje i dolivanje po malo tople vode.
 
 Pri kraju dinstanja kupus posoliti, dodati suvi biljni začin, alevu papriku i biber, izmešati i dinstati dok potpuno ne omekša.
 

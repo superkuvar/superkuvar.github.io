@@ -18,7 +18,7 @@ tags:
   - praziluk
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (600 grama)
   * manji praziluk
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6630" src="/wp-content/uploads/2011/03/čorba-od-krompira-300x225.jpg" alt="čorba od krompira" width="300" height="225" />](/wp-content/uploads/2011/03/čorba-od-krompira.jpg)
 
-Priprema: krompir oprati, oljuštiti i iseckati na kockice. Praziluk očistiti, oprati i iseći na kolutove.
+**Priprema**: krompir oprati, oljuštiti i iseckati na kockice. Praziluk očistiti, oprati i iseći na kolutove.
 
 Isitnjen krompir i praziluk staviti u lonac, naliti sa litar i po vode i kuvati na umerenoj temeraturi. Kada čorba provri dodati so, suvi biljni začin i kim po ukusu.
 

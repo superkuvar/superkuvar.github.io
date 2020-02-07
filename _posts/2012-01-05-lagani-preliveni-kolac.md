@@ -17,7 +17,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 jajeta
   * po 14 kašika šećera, brašna, ulja, mleka
@@ -27,7 +27,7 @@ Potrebno je:
   * 400 grama šećera (za sirup)
   * kesica vanilin šećera
 
-Priprema: u sudu za mešenje umutiti jaja sa šećerom, a zatim dodati ulje, mleko, mlevene orahe, suvo grožđe i brašno pomešano sa praškom za pecivo. Masu lagano izmešati da se ujednači. U podmazan i brašnom posut pleh sipati testo. Peći na 200 stepeni dok kolač ne porumeni i ne odvoji se od ivica pleha.
+**Priprema**: u sudu za mešenje umutiti jaja sa šećerom, a zatim dodati ulje, mleko, mlevene orahe, suvo grožđe i brašno pomešano sa praškom za pecivo. Masu lagano izmešati da se ujednači. U podmazan i brašnom posut pleh sipati testo. Peći na 200 stepeni dok kolač ne porumeni i ne odvoji se od ivica pleha.
 
 U međuvremenu, od 400 grama šećera, vanilin šećera i pola litra vode skuvati sirup, malo ređi nego za slatko. Gotov, prohlađen kolač iseći na kocke i preliti vrelim sirupom.
 

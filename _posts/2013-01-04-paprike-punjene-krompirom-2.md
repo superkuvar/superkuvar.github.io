@@ -23,7 +23,7 @@ tags:
   - praziluk
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 suvih crvenih paprika
   * 500 grama krompira
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5026" src="/wp-content/uploads/2013/01/Suvepaprikepunjenekrompirom-300x225.jpg" alt="Suvepaprikepunjenekrompirom" width="300" height="225" /> 
 
-Priprema: suve paprike oprati, preliti vrelom vodom i ostaviti da malo omekšaju, a zatim ocediti. Izvaditi drške i semene lože, ukoliko ste kupili paprike nanizane u venac.
+**Priprema**: suve paprike oprati, preliti vrelom vodom i ostaviti da malo omekšaju, a zatim ocediti. Izvaditi drške i semene lože, ukoliko ste kupili paprike nanizane u venac.
 
 Krompir oprati i neoljušten preliti hladnom vodom, da ogrezne, posoliti i kuvati. Napola skuvan krompir ocediti, oljuštiti i prohlađen izrendati.
 

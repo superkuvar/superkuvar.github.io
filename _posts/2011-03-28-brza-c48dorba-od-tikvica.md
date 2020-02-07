@@ -21,7 +21,7 @@ tags:
   - mirođija
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 manje tikvice
   * manja glavica crnog luka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4580" title="Brza corba od tikvica" src="/wp-content/uploads/2011/03/Brza-corba-od-tikvica-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po vode.
+**Priprema**: na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po vode.
 
 U vodu dodati tikvice isečene na kockice i iseckan beli luk, dodati suvi biljni začin, pa čorbu kuvati dvadesetak minuta.
 

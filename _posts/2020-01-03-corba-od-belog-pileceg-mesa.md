@@ -13,7 +13,7 @@ categories:
 tags:
    - karfiol
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 250 g belog pilećeg mesa,
 * 150 g karfiola,

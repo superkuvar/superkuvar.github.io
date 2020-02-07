@@ -22,7 +22,7 @@ tags:
   - mleko
   - muskatni oraščić
 ---
-Potrebno je:
+**Potrebno je**:
 
   * glavica karfiola (oko 1 kilogram)
   * 50 grama margarina
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4541" title="Karfiol u besamelu" src="/wp-content/uploads/2012/10/Karfiol-u-besamelu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti i ostaviti da se ohladi.
+**Priprema**: karfiol očistiti, oprati, izdeliti na cvetiće i obariti u slanoj vodi. Obaren karfiol ocediti i ostaviti da se ohladi.
 
 U međuvremenu, napraviti bešamel sos na sledeći način: propržiti margarin i brašno, da blago porumeni. U brašno postepeno dolivati hladno mleko, stalno mešajući žicom za mućenje, da se ne stvore grudvice.
 

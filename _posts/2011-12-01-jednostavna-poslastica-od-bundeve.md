@@ -17,7 +17,7 @@ tags:
   - griz
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram bundeve
   * 250 grama šećera
@@ -29,7 +29,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2394" title="Poslastica-tikva (1)" src="/wp-content/uploads/2011/12/Poslastica-tikva-1-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: oljuštiti, oprati i izrendati na krupno rende bundevu, a zatim dodati šećer, cimet, vanilu i griz. Sve dobro izmešati i sipati u podmazan vatrostalni sud ili pleh i staviti u pećnicu zagrejanu na 220 stepeni.
+**Priprema**: oljuštiti, oprati i izrendati na krupno rende bundevu, a zatim dodati šećer, cimet, vanilu i griz. Sve dobro izmešati i sipati u podmazan vatrostalni sud ili pleh i staviti u pećnicu zagrejanu na 220 stepeni.
 
 Nakon 10-15 minuta izvaditi bundevu iz pećnice i preliti je mlekom u kome je razmućeno jaje (jaje dobro razmutiti žicom za mućenje). Vratiti bundevu u pećnicu i peći još dvadesetak minuta.
 

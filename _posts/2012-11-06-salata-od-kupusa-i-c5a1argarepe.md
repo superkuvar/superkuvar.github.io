@@ -21,7 +21,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * manja glavica svežeg kupusa
   * 2 šargarepe
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4643" title="Salatakupussargarepa" src="/wp-content/uploads/2012/11/Salatakupussargarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kupus očistiti od spoljnih listova, iseći na četvrtine i izrendati na trenici. šargarepu oprati, očistiti i takođe izrendati.
+**Priprema**: kupus očistiti od spoljnih listova, iseći na četvrtine i izrendati na trenici. šargarepu oprati, očistiti i takođe izrendati.
 
 Pomešati kupus i šargarepu, posoliti, pobiberiti, dodati seckani peršunov list, pa preliti mešavinom ulja i sirćeta ili limunovog soka. Salatu dobro izmešati, ostaviti u frižideru da se malo prohladi a zatim poslužiti.
 

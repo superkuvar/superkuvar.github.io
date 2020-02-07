@@ -18,7 +18,7 @@ tags:
   - spanać
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * spanać (1 kilogram)
   * mala glavica crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9177" src="/wp-content/uploads/2014/06/zapecenispanacsapirincem-300x225.jpg" alt="zapecenispanacsapirincem" width="300" height="225" />](/wp-content/uploads/2014/06/zapecenispanacsapirincem.jpg)
 
-Priprema: luk očistiti, sitno iseckati i propržiti na malo ulja ili margarina. Spanać očistiti, oprati, staviti u sud sa ključalom vodom i bariti 3-4 minuta. Zatim spanać ocediti i kada se prohladi iseći sitnije.
+**Priprema**: luk očistiti, sitno iseckati i propržiti na malo ulja ili margarina. Spanać očistiti, oprati, staviti u sud sa ključalom vodom i bariti 3-4 minuta. Zatim spanać ocediti i kada se prohladi iseći sitnije.
 
 Isečen spanać dodati u propržen luk i pržiti još 2-3 minuta. Posoliti, pobiberiti, dodati alevu papriku i narendani musaktni oraščić po ukusu.
 

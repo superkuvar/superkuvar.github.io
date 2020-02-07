@@ -24,7 +24,7 @@ Potrebno:
 
 <img class="alignnone size-full wp-image-1187" title="przenajaja" src="/wp-content/uploads/2011/06/przenajaja1-e1308563523984.jpg" alt="" width="217" height="173" /> 
 
-Priprema: u tiganju zagrejati malo ulja i na njemu propržiti slaninu isečenu na komadiće. Slanina se može iseći i na tanke režnjeve. Pržiti dok ne porumeni i pusti dovoljno masnoće.
+**Priprema**: u tiganju zagrejati malo ulja i na njemu propržiti slaninu isečenu na komadiće. Slanina se može iseći i na tanke režnjeve. Pržiti dok ne porumeni i pusti dovoljno masnoće.
 
 Umutiti jaja, vrlo malo posoliti i pobiberiti. Ukoliko je slanina malo više slana, ne treba soliti.
 

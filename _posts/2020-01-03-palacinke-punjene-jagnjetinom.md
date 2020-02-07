@@ -13,7 +13,7 @@ categories:
 tags:
    - pečurke
 ---
-Potrebno je: 
+**Potrebno je**: 
 
 * 8 palačinki
 * 300 g jagnjećeg mesa

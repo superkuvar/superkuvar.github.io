@@ -26,7 +26,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 čaše (od 2 dl) integralnog pšeničnog brašna
   * 2 jajeta
@@ -43,7 +43,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5243" src="/wp-content/uploads/2013/02/Integralnikolačsajabukama-300x225.jpg" alt="Integralnikolačsajabukama" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, kiselo mleko i sok od limuna.
+**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, dodati ulje, kiselo mleko i sok od limuna.
 
 Jabuke oprati, oljuštiti i narendati na krupno rende. Suvo grožđe oprati i ocediti od vode.
 

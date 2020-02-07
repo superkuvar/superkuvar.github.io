@@ -19,7 +19,7 @@ tags:
   - muskatni oraščić
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram bundeve
   * 300 grama pirinča
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2495" title="Zapečena bundeva s pirinčem" src="/wp-content/uploads/2012/02/Zapečena-bundeva-s-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očišćenu bundevu iseći na sitnije komade i prokuvati u slanoj vodi, da omekne. Ocediti je, propasirati ili izgnječiti viljuškom i začiniti muskatnim oraščićem. Zatim umešati pola čaše milerama i polovinu rendanog kačkavalja.
+**Priprema**: očišćenu bundevu iseći na sitnije komade i prokuvati u slanoj vodi, da omekne. Ocediti je, propasirati ili izgnječiti viljuškom i začiniti muskatnim oraščićem. Zatim umešati pola čaše milerama i polovinu rendanog kačkavalja.
 
 Posebno skuvati pirinač, ocediti, pa u njega dodati ostatak milerama i kačkavalja. Začiniti po ukusu solju i biberom.
 

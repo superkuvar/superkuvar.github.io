@@ -18,7 +18,7 @@ tags:
   - šljive
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šljive (300 g)
   * 1/2 kg brašna
@@ -33,7 +33,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6136" src="/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama-300x225.jpg" alt="Kolacodkiselogtestasasljivama" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacodkiselogtestasasljivama.jpg)
 
-Priprema: u posudu sipati toplo mleko i polovinu količine brašna izmešanu sa kvascem. Dodati kašiku šećera i ostaviti da malo odstoji, da nadođe.
+**Priprema**: u posudu sipati toplo mleko i polovinu količine brašna izmešanu sa kvascem. Dodati kašiku šećera i ostaviti da malo odstoji, da nadođe.
 
 U drugom sudu razbiti jaja, malo ih razmutiti viljuškom, dodati preostalo brašno,  šećer, na vrh noža soli i ulje, a zatim sipati nadošli kvasac. Testo dobro izraditi varjačom. Testo treba da bude ređe, gustine kao za uštipke, pa ukoliko je potrebno, dodati još malo mleka.
 

@@ -20,7 +20,7 @@ tags:
   - šećer
   - suvo groždje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 100 grama margarina
   * ½ šoljice ulja
@@ -37,7 +37,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9234" src="/wp-content/uploads/2014/08/kolacsabananama-300x225.jpg" alt="kolacsabananama" width="300" height="225" />](/wp-content/uploads/2014/08/kolacsabananama.jpg)
 
-Priprema: penasto umutiti margarin sa šećerom, pa dodati ulje i žumanca i još malo mutiti. Sipati jogurt, izmešati varjačom pa dodati brašno pomešano sa praškom za pecivo, kokosovo brašno i suvo grožđe. Izmešati, a zatim u testo lagano umešati čvrsto umućen sneg od belanaca.
+**Priprema**: penasto umutiti margarin sa šećerom, pa dodati ulje i žumanca i još malo mutiti. Sipati jogurt, izmešati varjačom pa dodati brašno pomešano sa praškom za pecivo, kokosovo brašno i suvo grožđe. Izmešati, a zatim u testo lagano umešati čvrsto umućen sneg od belanaca.
 
 Banane oljuštiti, iseći na kolutove pa svaki preseći na pola, poprskati sokom od limuna i dodati u testo. Izmešati.
 

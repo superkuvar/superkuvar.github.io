@@ -13,7 +13,7 @@ categories:
 tags:
    - bosiljak
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 2,5 kg paradajza 
 * 100 g mladog sira ili kajmaka

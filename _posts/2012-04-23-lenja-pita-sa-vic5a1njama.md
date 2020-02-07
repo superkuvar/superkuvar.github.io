@@ -17,7 +17,7 @@ tags:
   - višnje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina ili 150 g masti
   * 3 jajeta
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3018" title="Lenja pita sa višnjama" src="/wp-content/uploads/2012/04/Lenja-pita-sa-višnjama-e1335174706593-300x237.jpg" alt="" width="300" height="237" /> 
 
-Priprema: u sudu za mešenje penasto umutiti margarin sa šećerom i žumancima, dodati mleko, prašak za pecivo, brašno i sneg od belanaca. Zamesiti mekano testo.
+**Priprema**: u sudu za mešenje penasto umutiti margarin sa šećerom i žumancima, dodati mleko, prašak za pecivo, brašno i sneg od belanaca. Zamesiti mekano testo.
 
 Testo podeliti na dva jednaka dela i razviti u dve kore veličine pleha. Jednu staviti na dno podmazanog i brašnom posutog pleha, pa preko nje poređati očišćene i oceđene višnje. Preko višanja posuti mešavinu od šećera, griza i oraha, pa ih prekriti drugim delom razvijenog testa.
 

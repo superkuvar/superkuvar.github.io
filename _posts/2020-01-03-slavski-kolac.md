@@ -12,7 +12,7 @@ categories:
 tags:
    - slava
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g brašna 
 * 5 g šećera

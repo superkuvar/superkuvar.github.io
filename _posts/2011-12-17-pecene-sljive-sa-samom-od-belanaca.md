@@ -16,7 +16,7 @@ tags:
   - cimet
   - šljive
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram šljiva
   * 10 kašika šećera
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3893" title="Pecenesljivesasamom" src="/wp-content/uploads/2011/12/Pecenesljivesasamom-e1344253870743-300x245.jpg" alt="" width="300" height="245" /> 
 
-Priprema: šljive oprati, očistiti od koštica i prepoloviti. Poređati ih u dublji pleh i posuti šećerom (sedam kašika) pomešanim sa cimetom. Zapeći u pećnici na 220 stepeni.
+**Priprema**: šljive oprati, očistiti od koštica i prepoloviti. Poređati ih u dublji pleh i posuti šećerom (sedam kašika) pomešanim sa cimetom. Zapeći u pećnici na 220 stepeni.
 
 Pri kraju pečenja posudu sa šljivama izvaditi iz pećnice. Preko šljiva premazati sneg umućen od belanaca sa tri kašike šećera i vanilin šećerom. Vratiti u pećnicu i na tihoj vatri zapeći, da belance dobije zlatnu boju.
 

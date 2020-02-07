@@ -20,7 +20,7 @@ tags:
   - mleko
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * keleraba (3-4 mlada korena)
   * mleko
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4740" title="Kelerabaumleku" src="/wp-content/uploads/2012/11/Kelerabaumleku-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: kelerabu očistiti, oprati, iseći na komade ili štapiće i dinstati na ulju. Prilikom dinstanja, umesto vode, u kelerabu dolivati mleko.
+**Priprema**: kelerabu očistiti, oprati, iseći na komade ili štapiće i dinstati na ulju. Prilikom dinstanja, umesto vode, u kelerabu dolivati mleko.
 
 Kada keleraba omekša, posoliti je, pobiberiti, dodati brašno razmućeno u malo mleka i dinstati još nekoliko minuta.
 

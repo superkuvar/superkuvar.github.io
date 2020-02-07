@@ -24,7 +24,7 @@ Potrebno:
 
 <img class="alignnone size-full wp-image-1190" title="jajanaokoslanina" src="/wp-content/uploads/2011/06/jajanaokoslanina-e1308563818461.jpg" alt="" width="241" height="170" /> 
 
-Priprema: u tiganju zagrejati ulje pa propržiti slaninu isečenu na režnjeve. Skloniti tiganj sa vatre i izvaditi slaninu.
+**Priprema**: u tiganju zagrejati ulje pa propržiti slaninu isečenu na režnjeve. Skloniti tiganj sa vatre i izvaditi slaninu.
 
 Na istom ulju ispržiti jaja &#8221;na oko&#8221;. Ulje zagrejati na umerenoj temperaturi, pa iznad njega razbiti jaja, jedno po jedno, da padnu jedno pored drugog. Kad se belance stegne, skloniti tiganj sa jajima sa štednjaka. Žumance treba da ostane malo retko. Žumace odozgo malo posoliti.
 

@@ -27,7 +27,7 @@ Potrebno:
 
 <img class="alignnone size-medium wp-image-830" title="supasamlevenimmesom" src="/wp-content/uploads/2011/03/supasamlevenimmesom-e1306839457546.jpg" alt="" width="228" height="133" /> 
 
-Priprema: mleveno juneće meso staviti u lonac, naliti hladnom vodom i kuvati 20 minuta na umerenoj temperaturi.
+**Priprema**: mleveno juneće meso staviti u lonac, naliti hladnom vodom i kuvati 20 minuta na umerenoj temperaturi.
 
 U međuvremenu, očistiti i oprati zelen za supu, pa je izrendati na trenici. Crni luk očistiti, sitno iseckati i propržiti na malo zagrejanog ulja. U propržen luk dodati izrendanu zelen i još kratko pržiti, da malo omekne.
 

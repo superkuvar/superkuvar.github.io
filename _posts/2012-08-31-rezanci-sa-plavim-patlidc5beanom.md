@@ -19,7 +19,7 @@ tags:
   - rezanci
   - slanina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 plava patlidžana srednje veličine
   * 2-3 paradajza
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4134" title="Rezanci sa patlidzanom" src="/wp-content/uploads/2012/08/Rezanci-sa-patlidzanom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti, iseći na kockice, posoliti i ostaviti da odstoji 20 minuta. Patlidžan nakon toga ocediti od soka koji je pustio.
+**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kockice, posoliti i ostaviti da odstoji 20 minuta. Patlidžan nakon toga ocediti od soka koji je pustio.
 
 Crni i beli luk očistiti, sitno iseckati i propržiti na malo ulja.
 

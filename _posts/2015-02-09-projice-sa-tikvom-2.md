@@ -17,7 +17,7 @@ tags:
   - tikva
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kukuruzno brašno sa potočare (300 grama)
   * tikva (parče oko 250 g)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9397" src="/wp-content/uploads/2015/02/projicesatikvom-300x225.jpg" alt="projicesatikvom" width="300" height="225" />](/wp-content/uploads/2015/02/projicesatikvom.jpg)
 
-Priprema: tikvu očistiti, oprati i skuvati u malo vode, a zatim ocediti i kada se ohladi ispasirati viljuškom. Po želji dodati vrlo malo rendanog muskatnog oraščića.
+**Priprema**: tikvu očistiti, oprati i skuvati u malo vode, a zatim ocediti i kada se ohladi ispasirati viljuškom. Po želji dodati vrlo malo rendanog muskatnog oraščića.
 
 U posudu za mešenje staviti brašno, suvi kvasac, soli po ukusu i promešati. Dodati jaje, izgnječenu tikvu i semenke, pa sipati toplo mleko. Masu dobro izmešati varjačom, da se dobije ređe testo, kao za uštipke.
 

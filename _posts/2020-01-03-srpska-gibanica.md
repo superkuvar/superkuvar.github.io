@@ -13,7 +13,7 @@ categories:
 tags:
    - gibanica
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 600 g kora
 * 200 g kajmaka
@@ -22,7 +22,7 @@ Potrebno je:
 * 2 dl ulja
 * 2,5 dl vode
 
-Priprema:
+**Priprema**:
 
 Pleh namazati uljem i obložiti sa 2-3 kore. Sir i kajmak izgnječiti, dodati umućena jaja i izmešati sa kiselom vodom.
 

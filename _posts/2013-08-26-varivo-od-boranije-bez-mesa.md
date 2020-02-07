@@ -20,7 +20,7 @@ tags:
   - limunov sok
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * smrznuta boranija (500 g)
   * glavica crnog luka
@@ -39,7 +39,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6068" src="/wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa-300x225.jpg" alt="Varivo od boranije bez mesa" width="300" height="225" />](/wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa.jpg)
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati boraniju i šargarepu isečenu na kolutove i naliti toplom vodom da ogrezne.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati boraniju i šargarepu isečenu na kolutove i naliti toplom vodom da ogrezne.
 
 Krompir oprati, oljuštiti, iseći na kockice i dodati u boraniju. Posoliti, dodati suvi biljni začin i alevu papriku. Sve zajedno kuvati dok povrće ne omekša i dok se ne dobije gušće varivo. Pri kraju kuvanja dodati mleveni biber i bosiljak, po ukusu. U toku kuvanja, ukoliko je potrebno dolivati po malo tople vode.
 

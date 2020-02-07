@@ -21,7 +21,7 @@ tags:
   - pivo
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 manje glavice karfiola
   * 3 jajeta
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4532" title="Karfiolutestu" src="/wp-content/uploads/2012/10/Karfiolutestu-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: karfiol očistiti, oprati, razdvojiti na cvetiće (ali ne previše sitne) i obariti u slanoj vodi. Obaren karfiol ocediti od vode u kojoj se kuvao.
+**Priprema**: karfiol očistiti, oprati, razdvojiti na cvetiće (ali ne previše sitne) i obariti u slanoj vodi. Obaren karfiol ocediti od vode u kojoj se kuvao.
 
 U međuvremenu, umutiti žumanca pa dodati kašiku ulja, pivo, brašno i so. Masu umutiti žicom za mućenje, da se dobije testo gušće nego za palačinke. U testo dodati čvrst sneg od belanaca i lagano izmešati.
 

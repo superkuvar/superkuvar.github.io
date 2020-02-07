@@ -24,7 +24,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 250 g šećera
@@ -41,7 +41,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5432" src="/wp-content/uploads/2011/09/Nanin-kuglof-300x225.jpg" alt="Nanin kuglof" width="300" height="225" /> 
 
-Priprema: umutiti penasto margarin sa šećerom i žumanacima. U umućenu masu dodati mleko, kesicu vanilin šećera, rum, malo strugane kore od limuna, polovinu količine brašna i prašak za pecivo. Sve umutiti varjačom, pa potom umešati ostatak brašna, čvrsto ulupan sneg od belanaca, suvo grožđe i seckane orahe.
+**Priprema**: umutiti penasto margarin sa šećerom i žumanacima. U umućenu masu dodati mleko, kesicu vanilin šećera, rum, malo strugane kore od limuna, polovinu količine brašna i prašak za pecivo. Sve umutiti varjačom, pa potom umešati ostatak brašna, čvrsto ulupan sneg od belanaca, suvo grožđe i seckane orahe.
 
 Pripremljeno testo lagano izmešati i sipati u podmazan i brašnom posut kalup za kuglof. Kuglof peći oko 50 minuta u pećnici zagrejanoj na 200 stepeni.
 

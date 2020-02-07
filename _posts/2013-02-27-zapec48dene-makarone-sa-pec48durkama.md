@@ -23,7 +23,7 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama makarona
   * 300 grama šampinjona
@@ -43,7 +43,7 @@ Bešamel sos
 
 <img class="alignnone size-medium wp-image-5359" src="/wp-content/uploads/2013/02/Zapecenemakaronesapecurkama-300x225.jpg" alt="Zapecenemakaronesapecurkama" width="300" height="225" /> 
 
-Priprema: skuvati makarone prema uputstvu na ambalaži, a zatim ih ocediti.
+**Priprema**: skuvati makarone prema uputstvu na ambalaži, a zatim ih ocediti.
 
 Isitnjen crni luk propržiti na malo ulja, pa dodati šampinjone isitnjene na listiće. Posoliti i dinstati dok ne uvri tečnost koju su pečurke pustile. Na kraju dodati malo isitnjenog peršunovog lista.
 

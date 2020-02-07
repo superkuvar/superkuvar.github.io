@@ -21,7 +21,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 tikvice srednje veličine
   * 3 jajeta
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5925" src="/wp-content/uploads/2013/07/Slanikolacsatikvicama-300x225.jpg" alt="Slanikolacsatikvicama" width="300" height="225" /> 
 
-Priprema: tikvice oprati, oljuštiti, narendati na krupno rende i malo posoliti. Ostaviti da odstoje desetak minuta, a zatim ocediti rukama.
+**Priprema**: tikvice oprati, oljuštiti, narendati na krupno rende i malo posoliti. Ostaviti da odstoje desetak minuta, a zatim ocediti rukama.
 
 U drugoj posudi umutiti jaja, pa dodati ulje, mleko, izmrvljen sir, bosiljak, pšenično brašno, kukuruzno brašno, prašak za pecivo i oceđene tikvice. Masu dobro izmešati varjačom. Testo treba da bude malo ređe nego za uštipke.
 

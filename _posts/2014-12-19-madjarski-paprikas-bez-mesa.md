@@ -17,7 +17,7 @@ tags:
   - krompir
   - paprike
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kilogram)
   * crni luk (3 glavice)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9333" src="/wp-content/uploads/2014/12/madjarskipaprikas-300x225.jpg" alt="madjarskipaprikas" width="300" height="225" />](/wp-content/uploads/2014/12/madjarskipaprikas.jpg)
 
-Priprema: očišćen luk sitno iseckati i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kriške.
+**Priprema**: očišćen luk sitno iseckati i propržiti na malo ulja. Krompir oprati, oljuštiti i iseći na kriške.
 
 U propržen luk dodati krompir i paprike isečene na komade, naliti toplom vodom, da ogrezne, i kuvati na umerenoj vatri. Paprikaš posoliti, dodati suvi biljni začin i biber.
 

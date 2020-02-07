@@ -17,7 +17,7 @@ tags:
   - kupus
   - lovorov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kore za pitu (500 grama)
   * svež kupus (manja glavica)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9381" src="/wp-content/uploads/2015/02/pitasavijacasakupusom-300x225.jpg" alt="pitasavijacasakupusom" width="300" height="225" />](/wp-content/uploads/2015/02/pitasavijacasakupusom.jpg)
 
-Priprema: kupus očistiti, oprati i sitno iseći (kao za salatu) ili narendati na krupno rende.
+**Priprema**: kupus očistiti, oprati i sitno iseći (kao za salatu) ili narendati na krupno rende.
 
 Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati kupus, šećer i lovorov list pa pržiti na umerenoj vatri, dok ne omekša i ne dobije zlatno smeđu boju. Povremeno, ukoliko je potrebno, doliti po malo vode. Pri kraju dinstanja dodati so, biber i alevu papriku, izmešati i pržiti još nekoliko minuta.
 

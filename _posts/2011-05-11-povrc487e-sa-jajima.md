@@ -16,7 +16,7 @@ tags:
   - vino
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram sezonskog povrća
   * 4 jaja
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-6132" src="/wp-content/uploads/2011/05/Povrcesajajima-300x225.jpg" alt="Povrcesajajima" width="300" height="225" />](/wp-content/uploads/2011/05/Povrcesajajima.jpg)
 
-Priprema: povrće (patlidžan, šargarepa, paprike, tikvica) oprati, oljuštiti, iseckati na kockice i propirjaniti na ulju. Dodati so, biber, iseckan peršunov list i belo vino, pa i dalje pirjaniti, dok povrće ne omekša.
+**Priprema**: povrće (patlidžan, šargarepa, paprike, tikvica) oprati, oljuštiti, iseckati na kockice i propirjaniti na ulju. Dodati so, biber, iseckan peršunov list i belo vino, pa i dalje pirjaniti, dok povrće ne omekša.
 
 Kada je povrće gotovo preručiti ga u vatrostalnu posudu, odozgo razbiti jaja i staviti u pećnicu da se jelo zapeče.
 

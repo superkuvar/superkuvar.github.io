@@ -15,7 +15,7 @@ tags:
    - šargarepa
    - celer
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 300 g praseće ili jagnjeće džigerice 
 * 200 g celera

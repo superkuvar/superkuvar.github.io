@@ -20,7 +20,7 @@ tags:
   - kvasac
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram mekog pšeničnog brašna
   * pola šolje ulja
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5152" src="/wp-content/uploads/2013/01/Praznična-pogača-300x225.jpg" alt="Praznična pogača" width="300" height="225" /> 
 
-Priprema: u malo mlakog mleka u koje je dodata kašičica šećera i dve kašike brašna razmutiti izmrvljen kvasac. Promešati i ostaviti na toplom dvadesetak minuta, da kvasac nadođe.
+**Priprema**: u malo mlakog mleka u koje je dodata kašičica šećera i dve kašike brašna razmutiti izmrvljen kvasac. Promešati i ostaviti na toplom dvadesetak minuta, da kvasac nadođe.
 
 Brašno prosejati i sipati u posudu za mešenje, a manju količinu ostaviti za posipanje radne površine i kasniju obradu testa. U sredini brašna napraviti udubljenje, dodati so i sipati nadošli kvasac. Uz postepeno dolivanje ulja i mešavine toplog mleka i vode, obrušavajući postepeno brašno sa strana, zamesiti testo.
 

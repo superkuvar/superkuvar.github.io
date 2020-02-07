@@ -18,7 +18,7 @@ tags:
   - pirinač
   - plavi patlidžan
 ---
-Potrebno je:  
+**Potrebno je**:  
 * plavi patlidžan (3 srednje veličine)  
 * pečurke – šampinjoni (300 grama)  
 * paradajz (4 veća)  
@@ -32,7 +32,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-10134" src="/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-300x225.jpg" alt="zapecenipatlidzanspecurkama" width="300" height="225" />](/wp-content/uploads/2015/11/zapecenipatlidzanspecurkama-e1446898982887.jpg)
 
-Priprema: plavi patlidžan oprati, oljuštiti, isitniti na kocke i obariti u slanoj vodi. Obaren plavi patlidžan ocediti. Crni luk isitniti na rebarca i propržiti na ulju.
+**Priprema**: plavi patlidžan oprati, oljuštiti, isitniti na kocke i obariti u slanoj vodi. Obaren plavi patlidžan ocediti. Crni luk isitniti na rebarca i propržiti na ulju.
 
 Pečurke oprati, isitniti na listiće i dodati u propržen luk. Dinstati dok ne uvri sok koji su pečurke pustile. Oljuštiti paradajz, isitniti i pržiti na ulju, dok ne uvri tečnost koju je pustio. Paradajz posoliti, pobiberiti, pa dodati bosiljak i isitnjen peršunov list. Opran pirinač obariti u slanoj vodi i ocediti.
 

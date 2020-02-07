@@ -22,7 +22,7 @@ tags:
   - paprike
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * zamrznute pečene paprike
   * 4 jajeta
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1116" title="musakaodpaprika" src="/wp-content/uploads/2011/06/musakaodpaprika2-e1308226207255.jpg" alt="" width="196" height="139" /> 
 
-Priprema: odmrznute paprike uvaljati u brašno, zatim u umućena jaja i ispohovati. Crni luk očistiti, sitno iseckati i izdinstati na malo ulja, pa dodati meso. Posoliti, pobiberiti, posuti suvim biljnim začinom i još malo propržiti.
+**Priprema**: odmrznute paprike uvaljati u brašno, zatim u umućena jaja i ispohovati. Crni luk očistiti, sitno iseckati i izdinstati na malo ulja, pa dodati meso. Posoliti, pobiberiti, posuti suvim biljnim začinom i još malo propržiti.
 
 U podmazan vatrostalni sud ređati red pohovanih paprika, red mesa dok se ne utroše svi sastojci. U poslednjem redu treba da budu paprike. Preko musake preliti rojal masu od 2 jajeta umućena sa mlekom.
 

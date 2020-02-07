@@ -17,7 +17,7 @@ tags:
   - pivo
   - šećer
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 šoljice ulja
   * pivo (2 šoljice)
@@ -31,7 +31,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9110" src="/wp-content/uploads/2014/04/posnekiflicesapivom-300x225.jpg" alt="posnekiflicesapivom" width="300" height="225" />](/wp-content/uploads/2014/04/posnekiflicesapivom.jpg)
 
-Priprema: u posudu za mešenje sipati ulje, pivo i vanilin šećer, pa dodati brašno pomešano sa praškom za pecivo. Testo dobro umesiti, da bude srednje tvrdo.
+**Priprema**: u posudu za mešenje sipati ulje, pivo i vanilin šećer, pa dodati brašno pomešano sa praškom za pecivo. Testo dobro umesiti, da bude srednje tvrdo.
 
 Umešeno testo podeliti na tri jednaka dela i svaki razviti oklagijom u krug, pa iseći na 8 delova-trouglova. Od trouglova savijati kiflice. U širi deo kiflice može se staviti po malo mlevenih oraha.
 

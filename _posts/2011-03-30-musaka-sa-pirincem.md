@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 200 grama pirinča
   * 1 glavica crnog luka ili struk praziluka
@@ -36,7 +36,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2641" title="Musaka sa pirinčem" src="/wp-content/uploads/2011/03/Musaka-sa-pirinčem-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
+**Priprema**: pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
 
 Glavicu crnog luka sitno iseckati i pržiti na ulju, da postane staklast. U ispržen luk dodati grašak i šargarepu isečenu na kolutove. Pirjaniti, uz povremeno dolivanje po malo tople vode.
 

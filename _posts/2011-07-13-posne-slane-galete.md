@@ -15,7 +15,7 @@ tags:
   - pivo
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 900 grama brašna
   * kašičica soli
@@ -25,7 +25,7 @@ Potrebno je:
 
 [<img class="alignnone size-full wp-image-1430" title="vaflispivomslani" src="/wp-content/uploads/2011/07/vaflispivomslani.jpg" alt="" width="259" height="194" />](/wp-content/uploads/2011/07/vaflispivomslani.jpg)
 
-Priprema: u posudu za mešenje sipati brašno i kesicu praška za pecivo, pa ravnomerno izmešati. Zatim dodati so i ulje, pa dolivajući pivo, zamesiti glatko testo, ne mnogo tvrdo.
+**Priprema**: u posudu za mešenje sipati brašno i kesicu praška za pecivo, pa ravnomerno izmešati. Zatim dodati so i ulje, pa dolivajući pivo, zamesiti glatko testo, ne mnogo tvrdo.
 
 Od pripremljenog testa otkidati manje komade, praviti kuglice, malo veće od oraha, stavljati ih u aparat za galete i peći.
 

@@ -17,7 +17,7 @@ tags:
   - muskatni oraščić
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 kašike ulja
   * 3 kašike brašna
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5887" src="/wp-content/uploads/2011/03/Najbrzacorba-300x225.jpg" alt="Najbrzacorba" width="300" height="225" /> 
 
-Priprema: u loncu zagrejati ulje i dodati kašiku brašna. Propržiti da se dobije bleda zaprška, pa naliti litrom i po vode. Promešati i ostaviti da voda provri. Čorbu posoliti, dodati suvi biljni začin i dronjke od testa.
+**Priprema**: u loncu zagrejati ulje i dodati kašiku brašna. Propržiti da se dobije bleda zaprška, pa naliti litrom i po vode. Promešati i ostaviti da voda provri. Čorbu posoliti, dodati suvi biljni začin i dronjke od testa.
 
 Dronjke napraviti na sledeći način: u posudi razbiti jaje, umutiti ga viljuškom, pa dodati preostalo brašno i malo narendanog muskatnog oraščića. Ukoliko je potrebno, testo razrediti sa malo mleka. Testo treba da bude retko, otprilike malo gušće nego za palačinke.
 

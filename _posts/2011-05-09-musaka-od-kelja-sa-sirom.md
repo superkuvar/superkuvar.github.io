@@ -22,7 +22,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * kelj (1 kilogram)
   * 300 grama belog sira
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4889" title="Musakaodkeljasasirom" src="/wp-content/uploads/2011/05/Musakaodkeljasasirom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: očišćen i opran kelj obariti u posoljenoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti i iseći na rezance. Sir nastrugati na rende.
+**Priprema**: očišćen i opran kelj obariti u posoljenoj vodi u koju je dodato malo sirćeta. Obaren kelj ocediti i iseći na rezance. Sir nastrugati na rende.
 
 U podmazan sud ređati red kelja, red struganog sira, posuti prezlom i preliti jajima razmućenim u mleku u koje je dodato malo biljnog začina, posuti seckanim peršunom, posoliti i pobiberiti. Tako ređati slojeve, dok se ne utroši materijal.
 

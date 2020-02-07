@@ -17,7 +17,7 @@ tags:
   - kisela pavlaka
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama zelene boranije
   * kašika margarina ili malo ulja

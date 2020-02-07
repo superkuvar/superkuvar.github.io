@@ -21,7 +21,7 @@ tags:
   - mleko
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * grašak (300 grama)
   * glavica crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-759" title="grasakcorba" src="/wp-content/uploads/2011/03/grasakcorba.jpg" alt="" width="259" height="194" /> 
 
-Priprema: na malo ulja izdinstati sitno seckani crni luk, dodati šargarepu isečenu na kolutove, krompir isečen na kockice i grašak. Nakon pet minuta sipati litar i po tople vode, posoliti i kuvati dok povrće ne omekša.
+**Priprema**: na malo ulja izdinstati sitno seckani crni luk, dodati šargarepu isečenu na kolutove, krompir isečen na kockice i grašak. Nakon pet minuta sipati litar i po tople vode, posoliti i kuvati dok povrće ne omekša.
 
 Pri kraju kuvanja čorbu začiniti suvim biljnim začinom i biberom. U čorbu sipati mleko u kome je razmućen gustin, promešati da se ne bi zgrudvalo i kuvati još pet minuta na tihoj vatri.
 

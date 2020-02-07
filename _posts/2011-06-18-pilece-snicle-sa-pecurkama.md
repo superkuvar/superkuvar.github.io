@@ -17,7 +17,7 @@ tags:
   - peršunov list
   - pileće meso
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 pilećih šnicli od belog mesa
   * 400 grama pečuraka (šampinjoni)
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-1179" title="belomesousosuodpecuraka" src="/wp-content/uploads/2011/06/belomesousosuodpecuraka-e1308408569853.jpg" alt="" width="230" height="143" /> 
 
-Priprema: pileće šnicle malo istanjiti tučkom, posoliti, pobiberiti i staviti u tiganj sa zagrejanim uljem. Pržiti dok ne omekšaju i porumene sa obe strane.
+**Priprema**: pileće šnicle malo istanjiti tučkom, posoliti, pobiberiti i staviti u tiganj sa zagrejanim uljem. Pržiti dok ne omekšaju i porumene sa obe strane.
 
 U međuvremenu, na malo ulja izdinstati glavicu sitno isečenog crnog luka. Kada luk postane staklast, dodati pečurke isečene na listiće. Dinstati desetak minuta. Posoliti, pobiberiti, dodati malo seckanog peršuna, sipati kiselu pavlaku, pa kratko prokuvati.
 

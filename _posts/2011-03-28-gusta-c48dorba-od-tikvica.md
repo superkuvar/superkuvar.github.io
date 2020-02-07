@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * tikvice (500 grama)
   * 3 šargarepe
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-full wp-image-729" title="gustacorbaodtikvica" src="/wp-content/uploads/2011/03/gustacorbaodtikvica.jpg" alt="" width="259" height="194" /> 
 
-Priprema: crni luk iseći na listiće i propržiti na malo ulja. Krompir, šargarepu, tikvice i beli luk očistiti, sitno iseći, pa dodati u propržen crni luk, zaliti supom i kuvati 30 minuta.
+**Priprema**: crni luk iseći na listiće i propržiti na malo ulja. Krompir, šargarepu, tikvice i beli luk očistiti, sitno iseći, pa dodati u propržen crni luk, zaliti supom i kuvati 30 minuta.
 
 Čorbu skloniti sa ringle i umutiti mikserom ili blenderom, začiniti i vratiti na štednjak da ponovo provri. Čorba treba da bude gusta.
 

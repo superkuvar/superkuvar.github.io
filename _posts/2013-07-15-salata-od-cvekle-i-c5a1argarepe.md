@@ -16,7 +16,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * cvekla (3 korena srednje veličine)
   * 2 veće šargarepe
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5901" src="/wp-content/uploads/2013/07/Salataodcvekleisargarepe-e1373874524731-300x240.jpg" alt="Salataodcvekleisargarepe" width="300" height="240" /> 
 
-Priprema: cveklu i šargarepu oprati, oljuštiti i sitno narendati. Posoliti, pobiberiti, preliti uljem i sirćetom i dobro izmešati.
+**Priprema**: cveklu i šargarepu oprati, oljuštiti i sitno narendati. Posoliti, pobiberiti, preliti uljem i sirćetom i dobro izmešati.
 
 Salata pre služenja treba da se malo ohladi u frižideru.
 

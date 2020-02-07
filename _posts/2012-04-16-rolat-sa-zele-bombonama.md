@@ -18,7 +18,7 @@ tags:
   - žele bombone
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Kora
 
   * 6 jaja
@@ -43,7 +43,7 @@ Glazura
 
 <img class="alignnone size-medium wp-image-2961" title="Rolat sa žele bombonama" src="/wp-content/uploads/2012/04/Rolat-sa-žele-bombonama-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: penasto umutiti jaja sa šećerom, pa dodati jednu po jednu kašiku brašna, lagano mešajući varjačom. Masu sipati u četvrtast pleh (za rernu) prekriven papirom za pečenje. Peći na 180 stepeni 15-20 minuta. Ispečenu koru za rolat izručiti na vlažnu platnenu salvetu ili na veći papir posut kristal šećerom i uviti.
+**Priprema**: penasto umutiti jaja sa šećerom, pa dodati jednu po jednu kašiku brašna, lagano mešajući varjačom. Masu sipati u četvrtast pleh (za rernu) prekriven papirom za pečenje. Peći na 180 stepeni 15-20 minuta. Ispečenu koru za rolat izručiti na vlažnu platnenu salvetu ili na veći papir posut kristal šećerom i uviti.
 
 U međuvremenu, pripremiti fil na sledeći način: pomešati meko i oštro brašno, uliti malo mleka i napraviti smesu kao za puding. Sud sa ostatkom mleka staviti na štednjak. Kada provri, skloniti sa vatre i lagano umešati masu od brašna. Vratiti na štednjak i na laganoj vatri, uz neprestano mešanje, kuvati 3-4 minuta. Voditi računa da ne zagori. Ostaviti da se ohladi. Povremeno promešati, da se ne bi stvorila korica.
 

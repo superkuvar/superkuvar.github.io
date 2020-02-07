@@ -18,7 +18,7 @@ tags:
   - krompir
   - pivo
 ---
-Potrebno je:
+**Potrebno je**:
 
   * krompir (1 kg)
   * 3 srednje glavice crnog luka
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-8730" src="/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-300x225.jpg" alt="zapecenikrompirsalukomipivom" width="300" height="225" />](/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)
 
-Priprema: krompir oprati, oljuštiti i iseći na kolutove. Crni luk takođe očistiti i iseći na kolutove.
+**Priprema**: krompir oprati, oljuštiti i iseći na kolutove. Crni luk takođe očistiti i iseći na kolutove.
 
 U podmazanu posudu za pečenje ređati kolutove krompira, pa kolutove luka, krompir, luk i krompir. Svaki red posoliti, posuti alevom paprikom i preliti sa malo ulja.
 

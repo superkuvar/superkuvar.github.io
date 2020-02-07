@@ -13,7 +13,7 @@ categories:
 tags:
    - krompir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g krompira
 * 200 g kuvanog goveđeg mesa
@@ -24,7 +24,7 @@ Potrebno je:
 * 20 g ljutog ajvara 
 * so i biber
 
-Priprema:
+**Priprema**:
 
 Krompir očistiti, oprati i iseći na 4 ili 8 dolova. Kuvati sa isečenim povrćem oko 30 minuta, pa dodati
 prethodno kuvanu govedinu. Na masti rastopiti kajmak i preliti čorbu. 

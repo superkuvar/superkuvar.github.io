@@ -23,7 +23,7 @@ tags:
   - paradajz
   - pirinač
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 10 suvih crvenih paprika
   * 2 glavice crnog luka i struk praziluka (beli deo)
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5031" src="/wp-content/uploads/2013/01/Suvepaprikepunjenepirinčem-300x225.jpg" alt="Suvepaprikepunjenepirinčem" width="300" height="225" /> 
 
-Priprema: suve paprike oprati, preliti vrelom vodom i ostaviti petnaestak minuta da omekšaju, a zatim ocediti.
+**Priprema**: suve paprike oprati, preliti vrelom vodom i ostaviti petnaestak minuta da omekšaju, a zatim ocediti.
 
 Crni luk i praziluk očistiti, sitno iseckati i propržiti na polovini predviđene količine ulja. Dodati so, alevu papriku, seckani peršunov list i opran pirinač. Izmešati i kratko propržiti.
 

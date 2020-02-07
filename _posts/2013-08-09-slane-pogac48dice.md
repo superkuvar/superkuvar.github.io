@@ -18,7 +18,7 @@ tags:
   - susam
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 250 grama margarina
   * 150 grama sira
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-5977" src="/wp-content/uploads/2013/08/Slane-pogacicce-3-300x225.jpg" alt="Slane pogacicce (3)" width="300" height="225" />](/wp-content/uploads/2013/08/Slane-pogacicce-3.jpg)
 
-Priprema: u posudi za mešenje umutiti margarin sa jajetom, a zatim dodati izmrvljen sir i brašno pomešano sa praškom za pecivo i umesiti testo.
+**Priprema**: u posudi za mešenje umutiti margarin sa jajetom, a zatim dodati izmrvljen sir i brašno pomešano sa praškom za pecivo i umesiti testo.
 
 Umešeno testo oklagijom rastanjiti na debljinu od jednog santimetra. Manjom čašom ili kalupom vaditi pogačice. Svaku premazati umućenim žumancetom i posuti susamom ili kimom.
 

@@ -13,7 +13,7 @@ categories:
 tags:
    - paradajz
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kašika masti (ili ulja)
 * domaći kuvani paradajz ili koncentrat
@@ -25,7 +25,7 @@ Potrebno je:
 * so
 * biber
 
-Priprema:
+**Priprema**:
 
 Iseckati luk i propržiti na masnoći, dodati brašno, promešati, naliti kuvanim paradajzom ili koncentratom paradajza razblaženim vodom (oko litar). Zatim dodati so i biber i kuvati. 
 

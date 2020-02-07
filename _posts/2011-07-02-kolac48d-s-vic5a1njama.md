@@ -21,7 +21,7 @@ tags:
   - višnje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5 jaja
   * 5 šoljica (od crne kafe) šećera
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5123" src="/wp-content/uploads/2011/07/Kolač-s-višnjama-300x225.jpg" alt="Kolač s višnjama" width="300" height="225" /> 
 
-Priprema: mikserom umutiti jaja sa šećerom, kao za patišpanj. Kada su jaja dobro umućena dodati ulje, mleko, narendanu koru od dobro opranog limuna i brašno pomešano sa praškom za pecivo. Lagano promešati varjačom.
+**Priprema**: mikserom umutiti jaja sa šećerom, kao za patišpanj. Kada su jaja dobro umućena dodati ulje, mleko, narendanu koru od dobro opranog limuna i brašno pomešano sa praškom za pecivo. Lagano promešati varjačom.
 
 Pleh obložiti papirom za pečenje (ili  podmazati uljem i posuti brašnom) i sipati testo, pa preko njega poređati višnje očišćene od koštica i oceđene od soka. Kolač peći 40 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
 

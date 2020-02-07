@@ -18,7 +18,7 @@ tags:
   - peršunov list
   - plavi patlidžan
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 plava patlidžana
   * 500 grama paradajza
@@ -40,7 +40,7 @@ Za bešamel sos
 
 <img class="alignnone size-medium wp-image-4386" title="Patlidzansabesamelom" src="/wp-content/uploads/2012/09/Patlidzansabesamelom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: plavi patlidžan oprati, oljuštiti i iseći na kockice. Crni i beli luk očistiti i sitno iseckati.
+**Priprema**: plavi patlidžan oprati, oljuštiti i iseći na kockice. Crni i beli luk očistiti i sitno iseckati.
 
 Na ulju propržiti crni luk, a zatim dodati plavi patlidžan. Pirjaniti na srednjoj temperaturi u poklopljenoj posudi, uz povremeno dolivanje po malo mlake vode.
 

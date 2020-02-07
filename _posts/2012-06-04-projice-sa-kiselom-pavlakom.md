@@ -17,7 +17,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * čaša kisele pavlake (200 g)
@@ -32,7 +32,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3341" title="Projicesakiselompavlakom" src="/wp-content/uploads/2012/06/Projicesakiselompavlakom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u posudi za mešenje izmešati umućena jaja, pavlaku, ulje, so i brašno pomešano sa praškom za pecivo. Uz dodavanje mineralne vode i mešanje varjačom, zamesiti ređe testo. Dodati izmrvljen sir i ponovo dobro izmešati.
+**Priprema**: u posudi za mešenje izmešati umućena jaja, pavlaku, ulje, so i brašno pomešano sa praškom za pecivo. Uz dodavanje mineralne vode i mešanje varjačom, zamesiti ređe testo. Dodati izmrvljen sir i ponovo dobro izmešati.
 
 Pripremljeno testo sipati u kalup za projice, obložen papirnim korpicama. Odozgo svaku projicu posuti sa malo susama.
 

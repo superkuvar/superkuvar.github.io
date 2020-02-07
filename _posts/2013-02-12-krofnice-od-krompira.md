@@ -21,7 +21,7 @@ tags:
   - muskatni oraščić
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 700 grama krompira
   * 1 jaje
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5252" src="/wp-content/uploads/2013/02/Krofnice-od-krompira-300x225.jpg" alt="Krofnice od krompira" width="300" height="225" /> 
 
-Priprema: opran, neoljušten krompir skuvati u posoljenoj vodi. Kada se krompir malo ohladi, oljuštiti ga i propasirati.
+**Priprema**: opran, neoljušten krompir skuvati u posoljenoj vodi. Kada se krompir malo ohladi, oljuštiti ga i propasirati.
 
 U ispasiran krompir dodati jaje, margarin, brašno, so, biber i malo narendanog muskatnog oraščića. Umesiti čvršće testo.
 

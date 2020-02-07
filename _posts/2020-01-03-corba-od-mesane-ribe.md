@@ -13,7 +13,7 @@ categories:
 tags:
    - riba   
 ---
-Potrebno je:
+**Potrebno je**:
 
 * kilogram ribe
 * 100 g šargarepe 

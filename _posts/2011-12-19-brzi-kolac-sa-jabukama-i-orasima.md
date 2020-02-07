@@ -18,7 +18,7 @@ tags:
   - orasi
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 jajeta
   * šolja šećera
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2535" title="Brzi kolač sa jabukama i orasima" src="/wp-content/uploads/2011/12/Brzi-kolač-sa-jabukama-i-orasima-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sudu za mešenje umutiti jaja sa šećerom, a zatim dodati mleko, istopljeni margarin, jabuke, orahe i brašno pomešano sa praškom za pecivo. Varjačom lagano izmešati da se masa ujednači.
+**Priprema**: u sudu za mešenje umutiti jaja sa šećerom, a zatim dodati mleko, istopljeni margarin, jabuke, orahe i brašno pomešano sa praškom za pecivo. Varjačom lagano izmešati da se masa ujednači.
 
 U pleh, podmazan uljem ili obložen papirom za pečenje, sipati pripremljeno testo i staviti u zagrejanu pećnicu. Kolač peći na 200 stepeni oko pola sata.
 

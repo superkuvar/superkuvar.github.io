@@ -23,7 +23,7 @@ tags:
   - praziluk
   - šargarepa
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama čičoke
   * 1 manji praziluk
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5733" src="/wp-content/uploads/2013/06/Corbaodcicokesapirincem-300x225.jpg" alt="Corbaodcicokesapirincem" width="300" height="225" /> 
 
-Priprema: oprati i očistiti povrće, pa praziluk i šargarepu iseći na kolutove, a čičoku na komadiće.
+**Priprema**: oprati i očistiti povrće, pa praziluk i šargarepu iseći na kolutove, a čičoku na komadiće.
 
 Na malo ulja propržiti praziluk i šargarepu, pa naliti litrom i po tople vode. Kada čorba provri, dodati opran pirinač i kuvati na umerenoj temperaturi. Dodati so i suvi biljni začin.
 

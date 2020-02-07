@@ -18,7 +18,7 @@ tags:
   - plavi patlidžan
   - tikvice
 ---
-Potrebno je:  
+**Potrebno je**:  
 * 3 tikvice  
 * paprike (5-6 komada)  
 * 5 krompira  
@@ -31,7 +31,7 @@ Potrebno je:
 
 <img class="alignnone wp-image-9715 size-medium" src="/wp-content/uploads/2015/08/đuvecnaspanskinacin-300x225.jpg" alt="đuvecnaspanskinacin" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, sitno iseći i propržiti na ulju da postane mekan. Zatim naliti čašu vode i ostaviti da proključa. Posoliti i dodati biber.
+**Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju da postane mekan. Zatim naliti čašu vode i ostaviti da proključa. Posoliti i dodati biber.
 
 Tikvice oprati i neoljuštene iseći na kolutove. Krompir i plavi patlidžan oljuštiti, oprati i iseći na tanje kolutove. Paprike oprati, očistiti od semena i iseći na šire komade.
 

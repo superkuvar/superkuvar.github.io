@@ -11,7 +11,7 @@ tags:
    - jabuke
    - orasi
 ---
-Potrebno je:
+**Potrebno je**:
  
 * 2 šolje brašna
 * 1,5 šolja šećera
@@ -29,7 +29,7 @@ Za glazuru:
 * par kapi ulja
 
 
-Priprema: 
+**Priprema**: 
 
 Brašno prosejati i pomešati sa praškom za pecivo. Dodati scekane orahe i šećer pa izmešati.
 

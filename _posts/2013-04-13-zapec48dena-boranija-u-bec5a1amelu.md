@@ -23,7 +23,7 @@ tags:
   - mleko
   - prezle
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 500 grama zamrznute boranije
   * 2 glavice crnog luka
@@ -40,7 +40,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5585" src="/wp-content/uploads/2013/04/Zapecenaboranijaubesamelu-300x225.jpg" alt="Zapecenaboranijaubesamelu" width="300" height="225" /> 
 
-Priprema: crni luk očistiti, isitniti i propržiti na  ulju, da postane staklast. U propržen luk dodati boraniju, sipati malo tople vode i dinstati dvadesetak minuta. Posoliti, dodati suvi biljni začin i majčinu dušicu.
+**Priprema**: crni luk očistiti, isitniti i propržiti na  ulju, da postane staklast. U propržen luk dodati boraniju, sipati malo tople vode i dinstati dvadesetak minuta. Posoliti, dodati suvi biljni začin i majčinu dušicu.
 
 U podmazanu posudu za pečenje sipati sloj boranije, preko posuti prezle, pa poređati kolutove tvrdo kuvanih  jaja. Preko kolutova jaja rasporediti ostatak boranije.
 

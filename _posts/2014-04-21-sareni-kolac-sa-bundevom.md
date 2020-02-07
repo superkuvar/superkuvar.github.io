@@ -24,7 +24,7 @@ tags:
   - suvo groždje
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * margarin (125 grama)
   * šoljica ulja
@@ -42,7 +42,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9123" src="/wp-content/uploads/2014/04/sarenikolacsabundevom-300x225.jpg" alt="sarenikolacsabundevom" width="300" height="225" />](/wp-content/uploads/2014/04/sarenikolacsabundevom.jpg)
 
-Priprema: umutiti margarin sa šećerom, dodati žumanca i ulje i još malo mutiti. U umućen margarin dodati jogurt, sok od cele pomorandže i iseckano suvo grožđe. Brašno i griz pomešati sa praškom za pecivo i lagano sipati u prethodnu masu. Izmešati, a zatim dodati čvrsto umućen sneg od belanaca i testo opet lagano izmešati.
+**Priprema**: umutiti margarin sa šećerom, dodati žumanca i ulje i još malo mutiti. U umućen margarin dodati jogurt, sok od cele pomorandže i iseckano suvo grožđe. Brašno i griz pomešati sa praškom za pecivo i lagano sipati u prethodnu masu. Izmešati, a zatim dodati čvrsto umućen sneg od belanaca i testo opet lagano izmešati.
 
 Trećinu testa sipati u podmazan i brašnom posut pleh. U ostatak testa umešati kakao, cimet i narendanu bundevu i dobro izmešati. Tamno testo sipati preko žutog testa.
 

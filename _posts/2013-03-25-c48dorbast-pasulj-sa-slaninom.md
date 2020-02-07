@@ -22,7 +22,7 @@ tags:
   - pasulj
   - slanina
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 400 grama pasulja
   * glavica crnog luka
@@ -37,7 +37,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5518" src="/wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-300x225.jpg" alt="Corbast pasulj sa slaninom" width="300" height="225" /> 
 
-Priprema: prebran pasulj potopiti u hladnu vodu i ostaviti da odstoji dva- tri sata ili preko noći. Zatim ga ocediti, naliti hladnom vodom da ogrezne i staviti da se kuva. Čim voda provri, prosuti je i pasulj naliti novom, vrelom vodom. Kada proključa, dodati sitno seckani crni luk, papriku, lovorov list i isečenu slaninu.
+**Priprema**: prebran pasulj potopiti u hladnu vodu i ostaviti da odstoji dva- tri sata ili preko noći. Zatim ga ocediti, naliti hladnom vodom da ogrezne i staviti da se kuva. Čim voda provri, prosuti je i pasulj naliti novom, vrelom vodom. Kada proključa, dodati sitno seckani crni luk, papriku, lovorov list i isečenu slaninu.
 
 Smanjiti temperaturu i ostaviti pasulj da tiho vri. Po potrebi dolivati toplu vodu.
 

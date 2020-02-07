@@ -22,7 +22,7 @@ tags:
   - rum
   - šećer
 ---
-Potrebno je:  
+**Potrebno je**:  
 Za kore
 
   * 12 žumanaca
@@ -40,7 +40,7 @@ Za fil
 
 <img class="alignnone size-medium wp-image-5662" src="/wp-content/uploads/2013/05/Reform-torta-300x225.jpg" alt="Reform torta" width="300" height="225" /> 
 
-Priprema: umutiti belanca sa šećerom u prahu, da se dobije čvrst sneg. Polako umešati mlevene orahe i brašno, pa od ove mase ispeći tri četvrtaste kore jednake veličine. Svaku peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
+**Priprema**: umutiti belanca sa šećerom u prahu, da se dobije čvrst sneg. Polako umešati mlevene orahe i brašno, pa od ove mase ispeći tri četvrtaste kore jednake veličine. Svaku peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 
 Kore peći na poleđini pleha koji je obložen papirom za pečenje i namazan uljem. Skidati ih sa pleha kada se malo ohlade, jer se lako lome.
 

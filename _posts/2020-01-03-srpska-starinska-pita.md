@@ -13,7 +13,7 @@ categories:
 tags:
    - jaje
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 500 g tankih kora
 * 500 g sira, 

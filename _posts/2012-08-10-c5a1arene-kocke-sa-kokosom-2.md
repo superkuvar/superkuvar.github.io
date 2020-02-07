@@ -17,7 +17,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:  
+**Potrebno je**:  
 Testo
 
   * 6 jaja
@@ -39,7 +39,7 @@ Fil
 
 <img class="alignnone size-medium wp-image-3937" title="Šarenekockesakokosom" src="/wp-content/uploads/2012/08/%C5%A0arenekockesakokosom-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u malo hladnog mleka razmutiti brašno i gustin. Ostatak mleka u koje je dodat šećer, staviti na štednjak. Kada mleko proključa skloniti ga sa vatre, umešati razmućeno brašno i vratiti na štednjak. Kuvati na tihoj vatri dva-tri minuta uz neprestano mešanje, da krem ne zagori. Skloniti sa štednjaka, pa dodati vanilu i kokosovo brašno. Izmešati.
+**Priprema**: u malo hladnog mleka razmutiti brašno i gustin. Ostatak mleka u koje je dodat šećer, staviti na štednjak. Kada mleko proključa skloniti ga sa vatre, umešati razmućeno brašno i vratiti na štednjak. Kuvati na tihoj vatri dva-tri minuta uz neprestano mešanje, da krem ne zagori. Skloniti sa štednjaka, pa dodati vanilu i kokosovo brašno. Izmešati.
 
 U posudi za mešenje umutiti tri jajeta sa šest kašika šećera. U umućena jaja dodati pola decilitra ulja, pola decilitra mleka, pola kesice praška za pecivo, kakao i devet kašika brašna, pa lagano izmešati da se sastojci sjedine.
 

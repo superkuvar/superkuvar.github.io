@@ -19,7 +19,7 @@ tags:
   - šargarepa
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 300 grama graška
   * 5-6 šargarepa srednje veličine
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2487" title="Salata grašak i šargarepa" src="/wp-content/uploads/2012/02/Salata-grašak-i-šargarepa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: grašak skuvati, ocediti od vode i ostaviti da se ohladi. šargarepu oprati, očistiti i obariti u slanoj vodi. Kada se ohladi iseći je na kolutove. Pripremljeno povrće staviti u činiju.
+**Priprema**: grašak skuvati, ocediti od vode i ostaviti da se ohladi. šargarepu oprati, očistiti i obariti u slanoj vodi. Kada se ohladi iseći je na kolutove. Pripremljeno povrće staviti u činiju.
 
 Pomešati ren (iz teglice &#8211; kupuje se u supermarketu), seckani peršunov list, sirće, ulje, malo bibera i soli. Preliti preko graška i šargarepe, pa lagano izmešati. Na kraju, u salatu umešati mileram, posuti seckanim peršunovim listom i poslužiti.
 

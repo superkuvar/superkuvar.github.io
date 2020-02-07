@@ -16,7 +16,7 @@ tags:
   - ren
   - sirće
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 kilograma zelenog paradajza
   * 6 decilitara sirćeta
@@ -28,7 +28,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4293" title="Zeleni paradajz" src="/wp-content/uploads/2012/09/Zeleni-paradajz-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: sitniji zeleni paradajz očistiti od peteljki, dobro oprati i preliti ključalom vodom. Posle pet minuta prosuti vrelu vodu i paradajz preliti hladnom vodom, a zatim staviti u cediljku ili đevđir da se ocedi. Oceđen paradajz ređati u tegle, dodajući zrna bibera i celerov list.
+**Priprema**: sitniji zeleni paradajz očistiti od peteljki, dobro oprati i preliti ključalom vodom. Posle pet minuta prosuti vrelu vodu i paradajz preliti hladnom vodom, a zatim staviti u cediljku ili đevđir da se ocedi. Oceđen paradajz ređati u tegle, dodajući zrna bibera i celerov list.
 
 Skuvati presolac od tri litra vode, sirćeta, soli i šećera, ohladiti i preliti paradajz u teglama, da ogrezne. Na vrhu, paradajz pritisnuti korenom rena ili šargarepe, tako da svi plodovi budu prekriveni presolcem. Tegle povezati celofanom i staviti na hladno mesto.
 

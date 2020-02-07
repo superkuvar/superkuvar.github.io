@@ -13,7 +13,7 @@ categories:
 tags:
    - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 4 jajeta,
 * kašika ajvara
@@ -24,7 +24,7 @@ Potrebno je:
 * kašika masti
 
 
-Priprema:
+**Priprema**:
 
 Jaja skuvati, ohladiti, oljuštiti i raseći tako da žumanca ostanu cela. U posebnoj posudi na masti
 propržiti sitno iseckani crni i beli luk i slaninu, dodati ajvar i sitno iseckane ljute paprike. 

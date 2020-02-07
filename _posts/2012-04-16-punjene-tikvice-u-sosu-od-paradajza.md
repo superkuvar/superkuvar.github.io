@@ -18,7 +18,7 @@ tags:
   - pirinač
   - tikvice
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg tikvica
   * 400 grama junećeg mlevenog mesa
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2974" title="Punjene tikvice u sosu od paradajza" src="/wp-content/uploads/2012/04/Punjene-tikvice-u-sosu-od-paradajza-e1334581217155-300x222.jpg" alt="" width="300" height="222" /> 
 
-Priprema: na ulju propržiti sitno seckani crni luk, da blago porumeni. Dodati mleveno meso i kratko propržiti. Posoliti, dodati alevu papriku, suvi biljni začin, biber i sitno seckanu mirođiju ili peršunov list. Još malo propržiti, skloniti sa vatre, pa dodati opran pirinač.
+**Priprema**: na ulju propržiti sitno seckani crni luk, da blago porumeni. Dodati mleveno meso i kratko propržiti. Posoliti, dodati alevu papriku, suvi biljni začin, biber i sitno seckanu mirođiju ili peršunov list. Još malo propržiti, skloniti sa vatre, pa dodati opran pirinač.
 
 Pripremljenim nadevom puniti oprane, oljuštene i izdubljene tikvice. Zatvoriti ih kolutovima tikvica i ređati u šerpu. Ukoliko nisu zatvorene, tikvice ređati uspravno.
 

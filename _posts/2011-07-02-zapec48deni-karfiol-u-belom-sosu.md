@@ -17,7 +17,7 @@ tags:
   - mileram
   - mleko
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 veća glavica karfiola
   * 3 supene kašike brašna
@@ -31,7 +31,7 @@ Potrebno je:
 
 ![Zapečeni karfiol u Bešamel sosu](/wp-content/uploads/2011/07/zapeceni_karfiol1.jpg)
 
-Priprema: karfiol očistiti, oprati i podeliti na cvetove. Kuvati ga u slanoj vodi dok ne omekša, a zatim ocediti.
+**Priprema**: karfiol očistiti, oprati i podeliti na cvetove. Kuvati ga u slanoj vodi dok ne omekša, a zatim ocediti.
 
 Na margarinu ispržiti brašno, dodati mleko i skuvati bešamel sos. U gotov sos dodati čašu milerama, polovinu količine rendanog kačkavalja, posoliti, pobiberiti i izmešati.
 

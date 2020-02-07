@@ -23,7 +23,7 @@ tags:
   - plavi patlidžan
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 4 plava patlidžana srednje veličine
   * 2 glavice crnog luka
@@ -38,7 +38,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-4736" title="Vrivoodpatlidzanaigraska" src="/wp-content/uploads/2011/05/Vrivoodpatlidzanaigraska-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: patlidžan oprati, oljuštiti i obariti u kipućoj posoljenoj vodi, zatim ocediti i sitno iseckati.
+**Priprema**: patlidžan oprati, oljuštiti i obariti u kipućoj posoljenoj vodi, zatim ocediti i sitno iseckati.
 
 Na ulju propržiti iseckan crni luk da postane staklast, dodati iseckan patlidžan i oljušten i iseckan paradajz. Sve to pirjaniti 15 minuta, uz neprestano mešanje, a zatim dodati jogurt i začine. Nastaviti s pirjanjenjem dok se jelo sasvim ne ukrčka.
 

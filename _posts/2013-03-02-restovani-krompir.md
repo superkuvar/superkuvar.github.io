@@ -21,7 +21,7 @@ tags:
   - krompir
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 2 veće glavice crnog luka
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5373" src="/wp-content/uploads/2013/03/Restovani-krompir-300x225.jpg" alt="Restovani krompir" width="300" height="225" /> 
 
-Priprema: oprati krompir, naliti hladnom vodom, posoliti i kuvati. Kada se skuva, ocediti vodu i ostaviti ga poklopljen u posudi da malo odstoji. Zatim krompir, dok je još vruć, oljuštiti.
+**Priprema**: oprati krompir, naliti hladnom vodom, posoliti i kuvati. Kada se skuva, ocediti vodu i ostaviti ga poklopljen u posudi da malo odstoji. Zatim krompir, dok je još vruć, oljuštiti.
 
 U međuvremenu, očititi crni luk, iseći sitno ili na kolutove, pa propržiti na vreloj masnoći, da blago porumeni. Dodati alevu papriku, so , biber i sitno seckani peršunov list.
 

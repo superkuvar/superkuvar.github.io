@@ -15,7 +15,7 @@ tags:
   - knedle
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 l vode
   * 2 kašike ulja
@@ -26,6 +26,6 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3163" title="Brza supa bez mesa" src="/wp-content/uploads/2012/05/Brza-supa-bez-mesa-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: u sud sipati vodu, dodati ulje i staviti na štednjak. Kada proključa, posoliti, dodati kašiku suvog biljnog začina, fidu, domaće rezance ili knedle. Supu kuvati 15-20 minuta. Gotovu supu posuti seckanim peršunovim listom.
+**Priprema**: u sud sipati vodu, dodati ulje i staviti na štednjak. Kada proključa, posoliti, dodati kašiku suvog biljnog začina, fidu, domaće rezance ili knedle. Supu kuvati 15-20 minuta. Gotovu supu posuti seckanim peršunovim listom.
 
 Ko želi supu sa knedlama, može ih pripremiti na sledeći način: u posebnoj posudi umutiti jedno jaje sa malo margarina i ulja, pa dodati pšenični griz (može se dodati i malo kukuruznog griza, tada će knedle biti rastresitije). Dodati toliko griza da se dobije ređa masa. Ostaviti da odstoji desetak minuta, pa zatim kašičicom, prethodno umočenom u vrelu supu, vaditi knedle i stavljati ih u supu. Kada isplivaju na površinu kuvati ih još nekoliko minuta.

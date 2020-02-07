@@ -13,7 +13,7 @@ categories:
 tags:
    - sir
 ---
-Potrebno je:
+**Potrebno je**:
 
 * 3 jajeta 
 * 2,5 šoljice ulja 

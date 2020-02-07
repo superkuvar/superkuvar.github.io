@@ -20,7 +20,7 @@ tags:
   - mleko
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 3 čaše (od 2 dl) brašna
   * čaša ulja
@@ -33,7 +33,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5789" src="/wp-content/uploads/2011/08/Brzikolacsasamomodbelanaca-300x225.jpg" alt="Brzikolacsasamomodbelanaca" width="300" height="225" /> 
 
-Priprema: umutiti žumanca sa pet kašika šećera, pa tome dodati ulje, mleko, kakao i brašno pomešano sa praškom za pecivo. Izmešati i sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi dvadesetak minuta.
+**Priprema**: umutiti žumanca sa pet kašika šećera, pa tome dodati ulje, mleko, kakao i brašno pomešano sa praškom za pecivo. Izmešati i sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi dvadesetak minuta.
 
 U međuvremenu, umutiti belanca sa 10 kašika šećera i kesicom vanilin šećera.
 

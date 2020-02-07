@@ -16,7 +16,7 @@ tags:
   - šampinjoni
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * šampinjoni (1/2 kg)
   * jaja (2 komada)
@@ -28,7 +28,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9434" src="/wp-content/uploads/2015/02/pohovanisampinjoni-300x225.jpg" alt="pohovanisampinjoni" width="300" height="225" />](/wp-content/uploads/2015/02/pohovanisampinjoni.jpg)
 
-Priprema: mlade, malo krupnije šampinjone oprati pod mlazom vode i staviti u cediljku da se dobro ocede. Kada su šampinjoni oceđeni odvojiti šeširiće, pošto se samo oni pohuju.
+**Priprema**: mlade, malo krupnije šampinjone oprati pod mlazom vode i staviti u cediljku da se dobro ocede. Kada su šampinjoni oceđeni odvojiti šeširiće, pošto se samo oni pohuju.
 
 Umutiti jaja viljuškom, posoliti i pobiberiti.  ampinjone uvaljati u brašno, pa u razmućena jaja, pa u prezle, a zatim ih spuštati u zagrejano ulje i pržiti na umerenoj temperaturi dok ne dobiju rumenu boju.
 

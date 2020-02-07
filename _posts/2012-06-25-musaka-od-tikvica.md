@@ -18,7 +18,7 @@ tags:
   - tikvice
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 5-6 tikvica srednje veličine
   * 400 grama junećeg mlevenog mesa
@@ -34,7 +34,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3609" title="Musakaodtikvica" src="/wp-content/uploads/2012/06/Musakaodtikvica-e1340639537919-300x229.jpg" alt="" width="300" height="229" /> 
 
-Priprema: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da malo odstoje, da puste vodu. U međuvremenu, na malo ulja propržiti sitno seckani crni luk, dodati meso i kratko prodinstati. Posoliti i pobiberiti.
+**Priprema**: tikvice oprati, oljuštiti, iseći na tanje režnjeve, posoliti i ostaviti da malo odstoje, da puste vodu. U međuvremenu, na malo ulja propržiti sitno seckani crni luk, dodati meso i kratko prodinstati. Posoliti i pobiberiti.
 
 U podmazanu posudu poređati sloj tikvica, pa preko sipati polovinu pripremljenog mesa. Umutiti jaja sa kiselom pavlakom i mlekom, dodati suvi biljni začin i bosiljak i polovinu mase sipati preko tikvica i mesa. Poređati drugi sloj tikvica i mesa, prekriti tikvicama, pa preliti ostatkom rojal mase.
 

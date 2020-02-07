@@ -16,7 +16,7 @@ tags:
   - sir
   - jaja
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 2 struka praziluka
   * 4 jajeta
@@ -27,7 +27,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3035" title="Kajgana sa prazilukom" src="/wp-content/uploads/2012/04/Kajgana-sa-prazilukom-e1335181168688-300x235.jpg" alt="" width="300" height="235" /> 
 
-Priprema: praziluk očistiti, oprati i iseći na kolutove. Staviti ga u tiganj sa umereno zagrejanim uljem. Pržiti dva-tri minuta, da praziluk malo omekša, ali da ne promeni boju.
+**Priprema**: praziluk očistiti, oprati i iseći na kolutove. Staviti ga u tiganj sa umereno zagrejanim uljem. Pržiti dva-tri minuta, da praziluk malo omekša, ali da ne promeni boju.
 
 Iseći sir na kockice i dodati u praziluk.
 

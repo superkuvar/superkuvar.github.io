@@ -15,7 +15,7 @@ tags:
   - bundeva
   - cimet
 ---
-Potrebno je:
+**Potrebno je**:
 
   * bundeva
   * šećer

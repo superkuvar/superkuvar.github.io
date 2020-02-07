@@ -15,7 +15,7 @@ tags:
   - krompir
   - ulje
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1,5 kg mladog krompira
   * so
@@ -23,7 +23,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-3262" title="Prženi mladi krompir" src="/wp-content/uploads/2012/05/Prženi-mladi-krompir-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompiriće ostrugati ili, ukoliko su sitniji, posoliti šakom krupne morske soli, dobro istrljati rukama i oprati. Očišćene krompiriće posušiti čistom platnenom salvetom.
+**Priprema**: krompiriće ostrugati ili, ukoliko su sitniji, posoliti šakom krupne morske soli, dobro istrljati rukama i oprati. Očišćene krompiriće posušiti čistom platnenom salvetom.
 
 U sud sipati ulje, pa kada se dobro zagreje, staviti krompiriće i pržiti ih dok ne postanu mekani i dok ne dobiju svetlo braon boju i hrskavu koricu.
 

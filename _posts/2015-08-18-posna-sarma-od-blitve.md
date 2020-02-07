@@ -17,7 +17,7 @@ tags:
   - šargarepa
   - sojine ljuspice
 ---
-Potrebno je:  
+**Potrebno je**:  
 * blitva (4 veze malo većih listova)  
 * mladi crni luk (1 veza)  
 * 1 šargarepa  
@@ -30,7 +30,7 @@ Potrebno je:
 
 [<img class="alignnone size-medium wp-image-9705" src="/wp-content/uploads/2015/08/posnasarmaodblitve-300x225.jpg" alt="posnasarmaodblitve" width="300" height="225" />](/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)
 
-Priprema: sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, a zatim ih ocediti.
+**Priprema**: sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, a zatim ih ocediti.
 
 Mladi crni luk i šargarepu oprati i očistiti. Luk sitno iseckati a šargarepu narendati i zatim ih propržiti na malo vrelog ulja. U propržen luk i šargarepu dodati sojine ljuspice i opran pirinač. Posoliti, pobiberiti, dodati kašičicu aleve paprike i izmešati.
 

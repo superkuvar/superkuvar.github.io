@@ -22,7 +22,7 @@ tags:
   - meso
   - peršunov list
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 2 veće glavice crnog luka
@@ -35,7 +35,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-5376" src="/wp-content/uploads/2013/03/Restovani-krompir-sa-mesom-300x225.jpg" alt="Restovani krompir sa mesom" width="300" height="225" /> 
 
-Priprema: oprati krompir i neoljušten skuvati u malo posoljenoj vodi. Ocediti ga i dok je još vruć oljuštiti. Krompir zatim iseći na kockice ili grubo izdrobiti viljuškom.
+**Priprema**: oprati krompir i neoljušten skuvati u malo posoljenoj vodi. Ocediti ga i dok je još vruć oljuštiti. Krompir zatim iseći na kockice ili grubo izdrobiti viljuškom.
 
 Meso isitniti na kocke. Crni luk oljuštiti, iseći na kockice i propržiti na vrelom ulju ili masti, da porumeni.
 

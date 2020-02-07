@@ -16,7 +16,7 @@ tags:
   - krompir
   - majonez
 ---
-Potrebno je:
+**Potrebno je**:
 
   * 1 kilogram krompira
   * 3 nakisele jabuke
@@ -26,7 +26,7 @@ Potrebno je:
 
 <img class="alignnone size-medium wp-image-2489" title="Neobicna salata od krompira" src="/wp-content/uploads/2012/02/Neobicna-salata-od-krompira-300x225.jpg" alt="" width="300" height="225" /> 
 
-Priprema: krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
+**Priprema**: krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
 
 Jabuke oprati, oljuštiti, iseći na kocke i pomešati sa krompirom. Posoliti prema ukusu, pobiberiti i preliti  obilno majonezom. Salatu služiti uz ribu ili pečenje.
 
