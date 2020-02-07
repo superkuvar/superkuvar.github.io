@@ -23,8 +23,10 @@ Potrebno je:
 * peršun 
 * bosiljak
 * so
-* biber 
+* biber
 
+
+![jagnjeca corba](/wp-content/uploads/2020/01/jagnje.supa.jpg)
 
 Način pripreme:
 
