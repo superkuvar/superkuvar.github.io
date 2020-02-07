@@ -22,7 +22,8 @@ tags:
   * ulje
   * so
 
-<img class="alignnone size-medium wp-image-3554" title="Salataodparadajza" src="/wp-content/uploads/2012/06/Salataodparadajza-e1340266097286-300x233.jpg" alt="" width="300" height="233" /> 
+![salata od paradajza](/wp-content/uploads/2012/06/Salataodparadajza-1024x768.jpg)
+
 
 **Priprema**: očišćen i opran paradajz iseći na kriške, a crni luk na kolutove ili rezance. Luk posoliti, malo izgnječiti rukom da omekša, pa dodati u isečen paradajz. Paradajz i luk preliti uljem i pažljivo izmešati.
 
