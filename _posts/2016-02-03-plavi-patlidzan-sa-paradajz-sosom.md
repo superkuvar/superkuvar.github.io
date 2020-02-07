@@ -46,7 +46,7 @@ tags:
 * ulje  
 * kačkavalj (200 grama)
 
-<img class="alignnone size-medium wp-image-12862" src="/wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-300x225.jpg" alt="plavipatlidzansaparadajzsosom" width="300" height="225" /> 
+![](/wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-1024x768.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim pritiskanjem između dlanova ocediti kriške patlidžana od vode koju je pustio.
 
