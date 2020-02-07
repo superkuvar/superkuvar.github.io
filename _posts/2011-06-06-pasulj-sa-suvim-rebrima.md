@@ -27,7 +27,7 @@ Potrebno je:
   * biber
   * so
 
-<img class="alignnone size-full wp-image-952" title="pasuljsrebrima" src="/wp-content/uploads/2011/06/pasuljsrebrima-e1307360590259.jpg" alt="" width="225" height="156" /> 
+![pasulj sa rebarcima](/wp-content/uploads/2011/06/pasuljsrebrima-e1307360590259.jpg)
 
 Priprema: pasulj očistiti, oprati, naliti hladnom vodom i ostaviti preko noći da nabubri. Sutradan, ocediti ga, naliti hladnom vodom i staviti da se kuva. Posle 20 minuta kuvanja ocediti vodu u kojoj se pasulj kuvao i naliti ga toplom vodom. Dodati oprana i isečena rebra, sitno iseckani crni luk i lorber. Kuvati dalje na umerenoj temperaturi, dok pasulj ne bude mekan.
 
