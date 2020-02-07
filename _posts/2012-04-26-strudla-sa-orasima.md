@@ -20,8 +20,7 @@ tags:
   - orasi
   - suvo groždje
 ---
-**Potrebno je**:  
-Testo
+**Potrebno je za testo**:
 
   * 100 g margarina
   * paketić svežeg kvasca
@@ -32,7 +31,7 @@ Testo
   * korica od limuna
   * na vrh noža soli
 
-Fil
+**Potrebno je za fil**:
 
   * 300 grama mlevenih oraha
   * 100 grama šećera
@@ -51,6 +50,10 @@ U posudu za mešenje staviti rastopljeni margarin, šećer, so, jaja i malo nare
 
 Testo mutiti (lupati) varjačom, dok se ne pojave mehurići i dok ne počne da se odvaja od zidova posude. Posudu sa pripremljenim testom prekriti platnenom salvetom i ostaviti ga na toplom mestu oko 50 minuta, da nadođe.
 
+**Priprema fila**:
+
+U posudu sipati mleko, zagrejati ga do vrenja, pošećeriti (100 gr), dodati vanilin šećer i mlevene orahe i malo prokuvati, mešajući da se nadev zgusne. Skloniti sa štednjaka i dodati cimet i suvo grožđe, prethodno oprano. Ohlađenim filom premazati testo.
+
 Radnu površinu posuti brašnom i na nju prebaciti testo. Podeliti ga na tri jufke. Svaku jufku rastanjiti oklagijom na debljinu oko jedan santimetar, premazati po celoj površini pripremljenim filom od oraha i urolati.
 
 **Pečenje**:
@@ -59,9 +62,5 @@ Rolne štrudle staviti u podmazan pleh i ostaviti da odstoje još 10 minuta. Sva
 
 Štrudlu staviti u pećnicu zagrejanu na 220 stepeni i peći oko 35 minuta, dok ravnomerno ne porumeni.
 
-Pečenu štrudlu pokriti platnenom salvetom i ostaviti da se malo prohladi. Ne treba je seći dok je vruća., a kada se ohladi iseći na režnjeve i posuti šećerom u prahu zamirisanim vanilom.
-
-**Nadev**:
-
-U posudu sipati mleko, zagrejati ga do vrenja, pošećeriti, dodati vanilin šećer i mlevene orahe i malo prokuvati, mešajući da se nadev zgusne. Skloniti sa štednjaka i dodati cimet i suvo grožđe, prethodno oprano. Ohlađenim filom premazati testo.
+Pečenu štrudlu pokriti platnenom salvetom i ostaviti da se malo prohladi. Ne treba je seći dok je vruća, a kada se ohladi iseći na režnjeve i posuti šećerom u prahu zamirisanim vanilom.
 
