@@ -34,11 +34,11 @@ tags:
   * ulje
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4685" title="Karfiolsapavlakomisusamom" src="/wp-content/uploads/2012/11/Karfiolsapavlakomisusamom-e1352737507768-300x231.jpg" alt="" width="300" height="231" /> 
+![Karfiolsa pavlakom i susamom](/wp-content/uploads/2012/11/Karfiolsapavlakomisusamom-1024x768.jpg)
 
 **Priprema**: karfiol očistiti, oprati, razdvojiti na cvetiće i obariti u slanoj vodi. Ocediti ga, staviti u posudu za služenje pa preliti susamom proprženim na malo ulja i sosom. Odozgo posuti seckanim peršunom.
 
-Za sos pomešati kiselu pavlaku, majonez i kašičicu senfa.
+**Za sos**: pomešati kiselu pavlaku, majonez i kašičicu senfa.
 
 Karfiol poslužiti sa dinstanim mesom ili faširanim šniclama.
 

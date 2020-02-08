@@ -26,7 +26,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-6238" src="/wp-content/uploads/2013/11/Maminaprzenija-e1383634810164-300x238.jpg" alt="Maminaprzenija" width="300" height="238" />](/wp-content/uploads/2013/11/Maminaprzenija-e1383634810164.jpg)
+![mamina prženija](/wp-content/uploads/2013/11/Maminaprzenija-1024x768.jpg)
 
 **Priprema**: paprike oprati, očistiti od semena i iseći na rezance.
 

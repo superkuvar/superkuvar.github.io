@@ -22,7 +22,7 @@ tags:
   * 60 grama griza
   * malo suvog biljnog začina ili soli
 
-<img class="alignnone size-medium wp-image-768" title="knedlezasupu" src="/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg" alt="" width="300" height="150" srcset="/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg 300w, /wp-content/uploads/2011/03/knedlezasupu.jpg 318w" sizes="(max-width: 300px) 100vw, 300px" /> 
+![knedle za supu](/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg)
 
 **Priprema**: dobro umutiti margarin sa žumancima. Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
 
