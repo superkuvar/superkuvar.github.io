@@ -38,7 +38,6 @@ Jaja tvrdo skuvati, oljuštiti i iseći na kolutove.
 
 U pouljenu posudu za pečenje sipati polovinu boranije, preliti je sa malo ulja, preko poređati kolutove jaja, prekriti ostatkom boranije, preliti uljem a zatim mileramom. Boraniju staviti u pećnicu i zapeći na umerenoj temperaturi.
 
-**Napomena**: 
-> ukoliko se koristi sveža boranija, prethodno je kratko obariti u posoljenoj vodi, ocediti, pa zatim dinstati.
+**Napomena**:   ukoliko se koristi sveža boranija, prethodno je kratko obariti u posoljenoj vodi, ocediti, pa zatim dinstati.
 
 Mileram može da se zameni kiselom pavlakom.

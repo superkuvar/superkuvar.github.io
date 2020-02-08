@@ -38,8 +38,7 @@ tags:
 
 Kolač peći 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, iseći ga na kocke i posuti šećerom u prahu zamirasanim vanilom.
 
-**Napomena**: 
-> kolač sa rogačem će biti još ukusniji ako se u testo dodaju dve narendane kisele jabuke.
+**Napomena**:   kolač sa rogačem će biti još ukusniji ako se u testo dodaju dve narendane kisele jabuke.
 
 Rogač jej zimzeleno samoniklo drvo, poreklom iz Sredozemlja. Pripada mahunarkama. Plod rogača je mahuna u kojoj se nalazi do 15 semenki. I mahuna i semenke su jestivi.
 

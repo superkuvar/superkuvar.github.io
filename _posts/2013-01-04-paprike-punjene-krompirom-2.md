@@ -48,7 +48,6 @@ Oceđene paprike puniti pripremljenim nadevom, zatvoriti kolutovima krompira ili
 
 Paprike staviti u zagrejanu pećnicu i peći na temperaturi od 200 stepeni, dok voda ne uvri.
 
-**Napomena**: 
-> krompir se može iseći na sitne kocke. U nadev se mogu dodati i istucane semenke bundeve (oko 100 grama).
+**Napomena**:   krompir se može iseći na sitne kocke. U nadev se mogu dodati i istucane semenke bundeve (oko 100 grama).
 
 &nbsp;

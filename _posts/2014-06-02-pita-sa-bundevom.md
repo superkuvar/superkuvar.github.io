@@ -38,5 +38,4 @@ Pripremljenu pitu odozgo premazati uljem i staviti u pećnicu zagrejanu na 200 s
 
 Kada je pita pečena izvaditi je iz pećnice i pokriti platnenom salvetom. Ohlađenu pitu iseći na parčiće i posuti šećerom u prahu.
 
-**Napomena**: 
-> ko više voli, može slagati kore umesto da ih uvija kao štrudlu.
+**Napomena**:   ko više voli, može slagati kore umesto da ih uvija kao štrudlu.

@@ -32,5 +32,4 @@ U dobro zagrejan veći tiganj sipati malo ulja, pa kutlačom usuti testo i peći
 
 Tortilje se mogu premazati krem sirom, kečapom, kajmakom ili već po Vašoj želji.
 
-**Napomena**: 
-> ova količina brašna dovoljna je za oko sedam tortilja.
+**Napomena**:   ova količina brašna dovoljna je za oko sedam tortilja.

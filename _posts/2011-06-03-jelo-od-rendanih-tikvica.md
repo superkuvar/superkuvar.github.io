@@ -33,8 +33,7 @@ tags:
 
 Na ulju propržiti crni luk isečen na rebarca, pa kad postane staklast, dodati brašno i još malo pržiti. Nakon toga dodati iseckanu mirođiju i naliti čašom vode. Umešati oceđene tikvice, posoliti i pirjaniti oko pola sata. Služiti kao prilog uz meso.
 
-**Napomena**: 
-> tikvice su nepravedno zapostavljeno povrće u našem podneblju. Dele se na letnje i zimske, a razlikuju se po tome što letnje imaju tanju i mekšu koru od zimskih.
+**Napomena**:   tikvice su nepravedno zapostavljeno povrće u našem podneblju. Dele se na letnje i zimske, a razlikuju se po tome što letnje imaju tanju i mekšu koru od zimskih.
 
 Pripremaju se lako i jednostavno. Kao mlade sveže i neoljuštene, tikvice se mogu koristiti za pripremu salate, a veće za punjenje, prženje, variva, musake i druga jela.
 

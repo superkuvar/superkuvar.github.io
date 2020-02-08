@@ -37,7 +37,6 @@ Ohlađenu blitvu preliti paradajz sosom. Služiti uz dinstano meso.
 
 Umesto svežeg paradajza može se koristiti paradajz pire.
 
-**Napomena**: 
-> već u rano proleće na pijacama se pojavljuje blitva. Njeni sočni sveži listovi puni su minerala i vitamina koji su nam nedostajali u zimskoj ishrani. Blitva sadrži znatne količine kalcijuma, fosfora i gvožđa, a od vitamina vitamin C i vitamine B grupe.
+**Napomena**:   već u rano proleće na pijacama se pojavljuje blitva. Njeni sočni sveži listovi puni su minerala i vitamina koji su nam nedostajali u zimskoj ishrani. Blitva sadrži znatne količine kalcijuma, fosfora i gvožđa, a od vitamina vitamin C i vitamine B grupe.
 
 Blitva spada u niskokalorično povrće.

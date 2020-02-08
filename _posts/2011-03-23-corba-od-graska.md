@@ -43,5 +43,4 @@ Pri kraju kuvanja čorbu začiniti suvim biljnim začinom i biberom. U čorbu si
 
 Gotovu čorbu posuti  seckanim peršunovim listom ili mirođijom.
 
-**Napomena**: 
-> u čorbu se mogu ubaciti i komadići kuvanog mesa.
+**Napomena**:   u čorbu se mogu ubaciti i komadići kuvanog mesa.

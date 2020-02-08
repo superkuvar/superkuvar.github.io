@@ -39,5 +39,4 @@ Ohlađene princes krofne zaseći nožem, tako da na jednom mestu ostanu spojene 
 
 Princes krofne napunjene ruskom salatom čuvati u firžideru.
 
-**Napomena**: 
-> rusku salatu možete pripremiti po receptu iz &#8221;Super kuvara&#8221; – Salate – Ruska salata.
+**Napomena**:   rusku salatu možete pripremiti po receptu iz &#8221;Super kuvara&#8221; – Salate – Ruska salata.

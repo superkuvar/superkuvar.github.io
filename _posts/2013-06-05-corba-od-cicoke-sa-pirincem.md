@@ -45,7 +45,6 @@ Desetak minuta pre kraja kuvanja, u čorbu dodati iseckanu čičoku i pola kaši
 
 Čorba se može poslužiti sa kiselom pavlakom ili legirati jajetom i pavlakom.
 
-**Napomena**: 
-> čičoka sadrži inulin, prirodni probiotik, koji u crevima stimuliše razvoj korisnih bakterija (bifidobakterije) koje blagotvorno utiču na naš organizam.
+**Napomena**:   čičoka sadrži inulin, prirodni probiotik, koji u crevima stimuliše razvoj korisnih bakterija (bifidobakterije) koje blagotvorno utiču na naš organizam.
 
 Pošto sadrži inulin koji se kuvanjem pretvara u fruktozu (voćni šećer), čičoka se preporučuje dijabetičarima, jer za razliku od krompira ne izaziva skok šećera u krvi.

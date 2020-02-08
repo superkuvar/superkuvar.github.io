@@ -39,5 +39,4 @@ tags:
 
 Salatu poslužiti uz pire krompir ili bareni pirinač.
 
-**Napomena**: 
-> kada spremate juneću supu, možete da iskoristite kuvano meso za pripremu ove jednostavne i ukusne salate. Ponekad je spremam i od kuvanog pilećeg belog mesa.
+**Napomena**:   kada spremate juneću supu, možete da iskoristite kuvano meso za pripremu ove jednostavne i ukusne salate. Ponekad je spremam i od kuvanog pilećeg belog mesa.

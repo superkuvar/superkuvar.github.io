@@ -39,5 +39,4 @@ Piškote nakvasiti u mleku, pa polovinu poređati na tacnu, preko njih sipati de
 
 Gotov kolač premazati umućenim šlag kremom, staviti u frižider do sutradan, a zatim seći na parčad i služiti.
 
-**Napomena**: 
-> umesto višanja za pripremu ovog kolača mogu se upotrebiti maline. Piškote se mogu zameniti patišpanj korom.
+**Napomena**:   umesto višanja za pripremu ovog kolača mogu se upotrebiti maline. Piškote se mogu zameniti patišpanj korom.

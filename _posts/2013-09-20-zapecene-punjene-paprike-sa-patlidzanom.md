@@ -42,5 +42,4 @@ Crni luk očistiti, sitno iseckati i propržiti na ulju. Dodati oceđen patlidž
 
 Napunjene paprike poređati u podmazanu dublju posudu za pečenje, nasuti dve-tri šoljice vode i preliti ih mešavinom brašna i crvene sitne paprike razmućenim u malo vode. Paprike peći 40 minuta na umerenoj temperaturi.
 
-**Napomena**: 
-> umesto brašna i crvene sitne paprike razmućenih u vodi, možete napraviti tanku zapršku od malo ulja, brašna i crvene sitne paprike, pa sipati preko paprika.
+**Napomena**:   umesto brašna i crvene sitne paprike razmućenih u vodi, možete napraviti tanku zapršku od malo ulja, brašna i crvene sitne paprike, pa sipati preko paprika.

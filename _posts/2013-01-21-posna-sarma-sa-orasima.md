@@ -51,7 +51,6 @@ U tiganju zagrejati ostatak ulja, dodati brašno, propržiti ga da blago porumen
 
 Sarma se može poslužiti i topla i hladna.
 
-**Napomena**: 
-> zaprška nije obavezna. Sarma će biti još ukusnija ako se pred kraj kuvanja stavi u zagrejanu pećnicu i zapeče, da dobije rumenu boju.
+**Napomena**:   zaprška nije obavezna. Sarma će biti još ukusnija ako se pred kraj kuvanja stavi u zagrejanu pećnicu i zapeče, da dobije rumenu boju.
 
 Sarma ne mora da se kuva, može da se stavi nakon pripreme odmah u zagrejanu pećnicu i da se peče dok voda skoro potupno ne uvri. U prvo vreme sarmu peći na jačoj temperaturi, a zatim smanjiti na umerenu, da se krčka. Ukoliko u toku pečenja uvri voda, doliti još malo.

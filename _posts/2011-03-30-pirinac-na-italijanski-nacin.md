@@ -40,5 +40,4 @@ Pri kraju kuvanja u pirinač dodati malo bibera i soli po ukusu, seckani peršun
 
 Kada je pirinač skuvan, posuti ga struganim kačkavaljem ili belim sirom. Poslužiti kao prilog uz meso.
 
-**Napomena**: 
-> pirinač ne sadrži gluten, lako se vari pa je pogodan za ishranu ljudi sa probavnim problemima kao i za ishranu kod alergija na žitarice.
+**Napomena**:   pirinač ne sadrži gluten, lako se vari pa je pogodan za ishranu ljudi sa probavnim problemima kao i za ishranu kod alergija na žitarice.

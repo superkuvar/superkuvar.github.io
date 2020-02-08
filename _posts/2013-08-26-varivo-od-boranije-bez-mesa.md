@@ -45,7 +45,6 @@ Krompir oprati, oljuštiti, iseći na kockice i dodati u boraniju. Posoliti, dod
 
 Umutiti jaje sa pavlakom i sipati u gotovo varivo. Izmešati, dodati kašiku limunovog soka i posuti seckanim peršunovim listom.
 
-**Napomena**: 
-> boranija ima vrlo nisku energetsku vrednost u odnosu na pasulj. Brzo i lako se sprema: kao varivo, supa, salata ili prilog uz jela od mesa.
+**Napomena**:   boranija ima vrlo nisku energetsku vrednost u odnosu na pasulj. Brzo i lako se sprema: kao varivo, supa, salata ili prilog uz jela od mesa.
 
 Boranija ima nizak glikemijski indeks, pa je preporučljiva u ishrani dijabetičara, jer sadrži aminokiselinu arginin koji deluje slično insulinu.

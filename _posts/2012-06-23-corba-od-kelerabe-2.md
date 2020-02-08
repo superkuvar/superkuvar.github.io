@@ -34,7 +34,6 @@ Kelerabu naliti litrom tople vode, posoliti i pobiberiti. Čorbu kuvati na umere
 
 U gotovu čorbu dodati obaren pirinač i seckani peršunov list. Čorba se može začiniti kiselom pavlakom.
 
-**Napomena**: 
-> lišće kelerabe ne treba bacati, može se isitnjeno dodati u čorbu.
+**Napomena**:   lišće kelerabe ne treba bacati, može se isitnjeno dodati u čorbu.
 
 Keleraba je niskokalorično povrće (27 kcal na 100 grama), ali zbog vlakana koja sadrži daje osećaj sitosti, pa je pogodna za dijete za mršavljenje.

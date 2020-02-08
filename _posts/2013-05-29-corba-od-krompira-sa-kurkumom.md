@@ -44,8 +44,7 @@ Kašiku brašna razmutiti u malo hladne vode, dobro izmešati da se ne zgrudva i
 
 Umutiti jaje sa jogurtom ili pavlakom, dodati kurkumu, pa sipati u čorbu. Promešati i odmah skloniti sa vatre.
 
-**Napomena**: 
-> kurkuma je biljka koja pripada porodici đumbira, a upotrebljava se kao začin. Poreklom je iz tropskih predela Južne Azije.
+**Napomena**:   kurkuma je biljka koja pripada porodici đumbira, a upotrebljava se kao začin. Poreklom je iz tropskih predela Južne Azije.
 
 Od korena kurkume pravi se začin karakteristične žute boje, koja potiče od kurkumina. Kurkumin se koristi i kao prehrambeni aditiv (E100).
 

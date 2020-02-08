@@ -44,7 +44,6 @@ Posebno, na malo ulja propržiti slaninu isečenu na kockice, pomešati sa izdin
 
 Skuvati školjkice prema uputstvu na ambalaži a zatim ocediti.  koljkice pomešati sa slaninom i izdinstanim povrćem. Odozgo posuti narendanim kačkavaljem. Poslužiti toplo.
 
-**Napomena**: 
-> ko voli pikantniji ukus, može na početku dinstanja u povrće sipati pola čaše belog vina.
+**Napomena**:   ko voli pikantniji ukus, može na početku dinstanja u povrće sipati pola čaše belog vina.
 
 Umesto školjkica možete upotrebiti testeninu nekog drugog oblika.

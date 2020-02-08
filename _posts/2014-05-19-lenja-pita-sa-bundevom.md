@@ -41,5 +41,4 @@ U podmazan pleh posut brašnom ili prekriven papirom za pečenje sipati polovinu
 
 Lenju pitu staviti u pećnicu zagrejanu na 200 stepeni i peći oko 45 minuta. Kada se pita ohladi, iseći je na kocke i posuti šećerom u prahu.
 
-**Napomena**: 
-> bundeva se može zameniti jabukama (1 kilogram).
+**Napomena**:   bundeva se može zameniti jabukama (1 kilogram).

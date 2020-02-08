@@ -36,5 +36,4 @@ Umutiti jaja sa mlekom, malo posoliti, dodati biber i kašiku narendanog kačkav
 
 Zapečeni hleb poslužiti topao za doručak ili večeru, uz jogurt ili čaj.
 
-**Napomena**: 
-> ponekad, umesto suvog vrata i kačkavalja upotrebim paštetu i topljeni sir. Kriške hleba premažem paštetom, a preko stavim komade topljenog sira, pa prelijem masom od mleka i jaja. I ova varijanta nije loša.
+**Napomena**:   ponekad, umesto suvog vrata i kačkavalja upotrebim paštetu i topljeni sir. Kriške hleba premažem paštetom, a preko stavim komade topljenog sira, pa prelijem masom od mleka i jaja. I ova varijanta nije loša.

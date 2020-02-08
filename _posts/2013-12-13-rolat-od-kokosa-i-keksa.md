@@ -37,5 +37,4 @@ Penasto umutiti maslac ili margarin sa ostatkom šećera, a zatim dodati kokosov
 
 Polovinom fila premazati tamnu koru i uz ivicu, dužinom cele kore, poređati žele bombone isečene na uske trake. Uviti rolat i posuti ga kokosovim brašnom. Tako postupiti i sa drugom polovinom testa i fila i formirati drugi rolat. Rolate staviti u frižider i kada se stegnu iseći.
 
-**Napomena**: 
-> ako se pravi posni rolat, umesto mleka upotrebiti gazirani sok ili sojino mleko i posni keks i margarin.
+**Napomena**:   ako se pravi posni rolat, umesto mleka upotrebiti gazirani sok ili sojino mleko i posni keks i margarin.

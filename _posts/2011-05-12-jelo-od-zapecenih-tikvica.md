@@ -38,7 +38,6 @@ Pri kraju pečenja izvaditi posudu sa tikvicama iz pećnice i preliti ih priprem
 
 Jelo od zapečenih tikvica može se servirati i toplo i hladno.
 
-**Napomena**: 
-> prilikom sipanja smese, viljuškom malo pomeriti tikvice da se preliv ravnomerno rasporedi i uđe između njih.
+**Napomena**:   prilikom sipanja smese, viljuškom malo pomeriti tikvice da se preliv ravnomerno rasporedi i uđe između njih.
 
 &nbsp;

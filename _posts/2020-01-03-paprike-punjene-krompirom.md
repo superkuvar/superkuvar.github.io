@@ -33,8 +33,7 @@ Pred kraj dinstanja dodati crvenu mlevenu papriku i začine poukusu.
 Ovako pripremljenim nadevom puniti izdubljene paprike, poređati ih u posudu (može i u zemljanu), otvore
 zatvoriti kolutom krompira, naliti ulja i vode, staviti u pećnicu i peći na temperaturi od 220 stepeni oko 20 minuta.
 
-**Napomena**: 
-> Ovako pripremljene paprike se služe u leskovačkom kraju i to u dane posta, a u hotelima i restoranima kao toplo predjelo.
+**Napomena**:   Ovako pripremljene paprike se služe u leskovačkom kraju i to u dane posta, a u hotelima i restoranima kao toplo predjelo.
 
  
 

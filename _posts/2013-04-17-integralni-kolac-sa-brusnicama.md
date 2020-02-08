@@ -45,7 +45,6 @@ Pripremljeno testo sipati u dugačak uzani pleh, prethodno podmazan uljem i posu
 
 Pečen kolač ostaviti nekoliko minuta u plehu, a zatim izvaditi i ostaviti da se ohladi. Ohlađen kolač posuti šećerom u prahu i iseći na uže parčiće.
 
-**Napomena**: 
-> brusnica je bobičasto voće. Koristi se kao sveža, sušena, prerađuje se u džem, pekmez, sirup, sok ili se zamrzava.
+**Napomena**:   brusnica je bobičasto voće. Koristi se kao sveža, sušena, prerađuje se u džem, pekmez, sirup, sok ili se zamrzava.
 
 Brusnica sadrži dosta lekovitih materija i ima jako antioksidantno dejstvo, korisna je u prevenciji kardiovaskularnih bolesti, snižava šećer u krvi kod dijabetičara, koristi se za lečenje infekcija urinarnog trakta. Brusnica sadrži hipuričnu kiselinu koja je prirodni antibiotik.

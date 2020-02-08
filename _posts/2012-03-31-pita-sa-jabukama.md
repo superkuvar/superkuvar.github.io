@@ -40,5 +40,4 @@ Uvijene rolne pite staviti u podmazan pleh i svaku premazati uljem. Peći u peć
 
 Gotovu pitu prekriti platnenom salvetom i ostaviti da se ohladi. Iseći na šire parčiće i posuti šećerom u prahu pomešanim sa vanilin šećerom.
 
-**Napomena**: 
-> izrendane jabuke malo ocediti rukama, pa onda dodati ostale sastojke.
+**Napomena**:   izrendane jabuke malo ocediti rukama, pa onda dodati ostale sastojke.

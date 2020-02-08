@@ -38,7 +38,6 @@ U tiganj sipati malo ulja, dodati šljive, skrob razmućen u malo vode, paradajz
 
 Gotov sos poslužiti sa prethodno pripremljenim filetima oslića.
 
-**Napomena**: 
-> oslić ima vrlo malo kostiju i one se lako uklanjaju. Meso oslića je bele boje, mekano i sočno i lako je svarljivo, jer sadrži malu količinu masti.
+**Napomena**:   oslić ima vrlo malo kostiju i one se lako uklanjaju. Meso oslića je bele boje, mekano i sočno i lako je svarljivo, jer sadrži malu količinu masti.
 
 Oslić se lako priprema, a koristi se podjednako kao kuvan, pečen i pržen.

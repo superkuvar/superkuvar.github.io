@@ -34,5 +34,4 @@ U ispržene paprike dodati jaja, razbiti ih direktno bez mućenja, promešati va
 
 Prženiju poslužiti samostalno ili kao prilog uz meso.
 
-**Napomena**: 
-> paprike treba da ostanu hrskave, da se ne preprže.
+**Napomena**:   paprike treba da ostanu hrskave, da se ne preprže.

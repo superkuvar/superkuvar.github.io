@@ -34,8 +34,7 @@ naliti tri litre vode i kuvati.
 
 Kada provri dodati kuvanu pšenicu i sitno iseckane kocke sira. Sve kuvati još 20 minuta. Dodati crvenu mlevenu papriku i ostale začine. Na samom kraju kuvanja dodati 1 g ruzmarina u umućena jaja, lagano sipati i mešati. 
 
-**Napomena**: 
-> Gram ruzmarina je dovoljan za tri litra čorbe.
+**Napomena**:   Gram ruzmarina je dovoljan za tri litra čorbe.
 
  
   

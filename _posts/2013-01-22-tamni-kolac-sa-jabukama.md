@@ -56,7 +56,6 @@ Umutiti belanca sa 50 grama šećera u čvrst sneg, dodati ohlađene izdinstane 
 
 Pečen kolač izvaditi iz pećnice, premazati filom od belanaca i jabuka i vratiti u pećnicu da se belanca prosuše, odnosno zapeku na 150 stepeni.
 
-**Napomena**: 
-> kolač se može preliti i glazurom od čokolade (3 štangle čokolade, 2 kašike šećera, kašika mleka i komadić margarina. Sve to prokuvati na tihoj vatri, dok se čokolada ne istopi).
+**Napomena**:   kolač se može preliti i glazurom od čokolade (3 štangle čokolade, 2 kašike šećera, kašika mleka i komadić margarina. Sve to prokuvati na tihoj vatri, dok se čokolada ne istopi).
 
 Ja ovaj kolač najčešće spremam bez čokoladnog preliva. Mogu Vam reći da i bez njega ne gubi na ukusu.

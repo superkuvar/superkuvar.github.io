@@ -38,5 +38,4 @@ Jaja umutiti viljuškom, posoliti, dodati brašno i pivo, da se dobije testo gu�
 
  nicle umakati u pripremljeno testo i pržiti na umereno zagrejanoj masnoći, dok ne porumene. Svaku šniclu okrenuti i na drugu stranu pa i nju ispržiti. Služiti uz bareni pirinač, testeninu, restovani ili pire krompir i salatu.
 
-**Napomena**: 
-> na ovaj način mogu se pripremiti i šnicle od belog pilećeg ili ćurećeg mesa.
+**Napomena**:   na ovaj način mogu se pripremiti i šnicle od belog pilećeg ili ćurećeg mesa.

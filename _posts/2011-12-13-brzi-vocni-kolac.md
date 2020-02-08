@@ -41,5 +41,4 @@ Pripremljeno testo sipati u pleh prekriven papirom za pečenje (ili podmazan i p
 
 Gotov voćni kolač, kad se ohladi, iseći na kocke i posuti šećerom u prahu.
 
-**Napomena**: 
-> ovo testo je univerzalno, pa se može koristiti za pripremu kolača sa nekim drugim sezonskim voćem (jagode, maline, kupine, kajsije, breskve&#8230;). U zimskom periodu može poslužiti i zamrznuto voće.
+**Napomena**:   ovo testo je univerzalno, pa se može koristiti za pripremu kolača sa nekim drugim sezonskim voćem (jagode, maline, kupine, kajsije, breskve&#8230;). U zimskom periodu može poslužiti i zamrznuto voće.

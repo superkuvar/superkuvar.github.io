@@ -39,5 +39,4 @@ Posebno skuvati pirinač, ocediti, pa u njega dodati ostatak milerama i kačkava
 
 U vatrostalnu posudu dobro namazanu margarinom i posutu prezlom sipati deo mase od bundeve, zatim pirinač, pa bundevu i odozgo pirinač. Po površini musake staviti komadiće margarina. Zapeći u pećnici na umerenoj temperaturi. Pre serviranja, po želji, jelo posuti rendanim kačkavaljem.
 
-**Napomena**: 
-> umesto kačkavalja može se upotrebiti stariji beli sir.
+**Napomena**:   umesto kačkavalja može se upotrebiti stariji beli sir.

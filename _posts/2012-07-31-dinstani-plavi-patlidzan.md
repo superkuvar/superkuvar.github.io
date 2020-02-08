@@ -44,5 +44,4 @@ Pri kraju dinstanja u patlidžan i ostalo povrće dodati suvi biljni začin, bib
 
 Jelo poslužiti uz dinstano meso ili faširane šnicle.
 
-**Napomena**: 
-> plavi patlidžan sadrži dosta vode (oko 90%), pa se zbog niske kaloričnosti preporučuje u dijetama za mršavljenje. Preporučuje se i osobama koje pate od anemije, arterioskleroze, imaju problema sa povišenim holesterolom, jetrom, hipertenzijom.
+**Napomena**:   plavi patlidžan sadrži dosta vode (oko 90%), pa se zbog niske kaloričnosti preporučuje u dijetama za mršavljenje. Preporučuje se i osobama koje pate od anemije, arterioskleroze, imaju problema sa povišenim holesterolom, jetrom, hipertenzijom.

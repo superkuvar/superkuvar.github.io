@@ -35,7 +35,6 @@ Odmrznute i oceđene paprike puniti štapićima posnog kačkavalja (nije obavezn
 
 Posne pohovane paprike poslužiti sa pire krompirom. Ovo jelo je pogodno i za dane posta, naročito onda kada svežih paprika nema na pijacama.
 
-**Napomena**: 
-> umesto zamrznutih, u sezoni se mogu koristiti sveže paprike.
+**Napomena**:   umesto zamrznutih, u sezoni se mogu koristiti sveže paprike.
 
 Paprike oprati, posušiti i ispeći na ploči šednjaka, okrećući ih da se ravnomerno ispeku. Pečene paprike ostaviti pokrivene da se malo ohlade, a zatim oljuštiti i ukloniti drške i seme. Dalji postupak je isti kao i sa pečenim paprikama.

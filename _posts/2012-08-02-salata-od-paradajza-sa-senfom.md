@@ -32,7 +32,6 @@ tags:
 
 Kolutove paradajza složiti na plitki tanjir i preliti pripremljenom marinadom. Salatu odozgo, po želji, ukrasiti seckanim peršunovim listom.
 
-**Napomena**: 
-> likopen, glavni sastojak paradajza, spada u antioksidante iz grupe karotena. Veći procenat likopena nalazi se u kečapu i sosu od paradajza.
+**Napomena**:   likopen, glavni sastojak paradajza, spada u antioksidante iz grupe karotena. Veći procenat likopena nalazi se u kečapu i sosu od paradajza.
 
 Sveža paradajz salata trebalo bi da bude skoro svakodnevno zastupljena u našem letnjem jelovniku.

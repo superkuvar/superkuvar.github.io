@@ -45,7 +45,6 @@ Pri kraju kuvanja u čorbu dodati biber, muskatni oraščić i iseckani beli luk
 
 Kada je čorba gotova, u nju ubaciti ispasirani kuvani krompir i kiselu pavlaku, izmešati i poslužiti.
 
-**Napomena**: 
-> čorba se, umesto sa blitvom, može pripremiti sa spanaćem ili zeljem.
+**Napomena**:   čorba se, umesto sa blitvom, može pripremiti sa spanaćem ili zeljem.
 
 &nbsp;

@@ -36,7 +36,6 @@ tags:
 
 Od ukupne količine vode odvojiti litar, pa dodati so i esenciju i kratko prokuvati. Kada se so istopila, dodati vinobran i konzervans, naliti ostatkom vode,  pa tim rastvorom preliti povrće. Bure sa turšijom poklopiti i ostaviti na određeno mesto.
 
-**Napomena**: 
-> ovo su količine za kantu (bure) od 20 litara. Prostorija u kojoj se čuva živa trušija treba da bude hladna.
+**Napomena**:   ovo su količine za kantu (bure) od 20 litara. Prostorija u kojoj se čuva živa trušija treba da bude hladna.
 
 Kiseljenje je od davnina poznata metoda za konzerviranje povrća. Kiseljenjem se menja ukus i tekstura namirnica procesom laktofermentacije. Povrće potopljeno u slanu vodu potpomaže rast laktobacila koji se hrane šećerom iz povrća i proizvode kiselkast ukus mlečne kiseline.

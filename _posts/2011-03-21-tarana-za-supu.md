@@ -34,5 +34,4 @@ Prosušenu taranu zakuvati u supu koja lagano vri i kuvati je 5-8 minuta.
 
 Tarana se obično dodaje u bistre supe. Može se dodati i u čorbu od paradajza.
 
-**Napomena**: 
-> ovo je količina tarane za 2 litra supe.
+**Napomena**:   ovo je količina tarane za 2 litra supe.

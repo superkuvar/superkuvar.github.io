@@ -37,7 +37,6 @@ Kada šargarepa napola omekša, posoliti je, pobiberiti, dodati seckani beli luk
 
 Varivo od šargarepe poslužiti kao prilog uz faširane šnicle ili dinstano meso.
 
-**Napomena**: 
-> šargarepa se u ishrani najčešće koristi kao dinstana ili kuvana, a u supama i čorbama je obavezan dodatak.
+**Napomena**:   šargarepa se u ishrani najčešće koristi kao dinstana ili kuvana, a u supama i čorbama je obavezan dodatak.
 
 Najveća prednost u odnosu na drugo povrće je što se šargarepa lako vari kada se izdinsta ili skuva.

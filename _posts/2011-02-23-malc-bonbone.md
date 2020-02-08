@@ -27,7 +27,6 @@ Ostaviti da se kafa slegne a zatim je procediti. Proceđenu kafu sipati u veći 
 
 Poleđinu pleha namazati uljem i sipati kuvanu masu, rastanjiti je na debljinu od pola santimetra, pa kad počne da se stvrdnjava, seći nožem na kockice &#8211; bombone i služiti.
 
-**Napomena**: 
-> Knajpova kafa je ustvari isprženi ječam.
+**Napomena**:   Knajpova kafa je ustvari isprženi ječam.
 
 &nbsp;

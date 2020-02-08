@@ -31,8 +31,7 @@ Zatim kupus sitno iseći ili izribati na specijalnoj trenici (ribežu) za kupus.
 
 Kada je bure puno prekriti ga platnom, preko njega staviti krst od daščica (najbolje čamovih – naručiti kod stolara), pa pritisnuti kamenom (odabrati rečni kamen koji se ne roni pod dejstvom soli).
 
-**Napomena**: 
-> treba voditi tračuna da krst od daščica čvrsto stoji, da odgovara meri bureta. Platno treba u početku prati jednom nedeljno, a kasnije ređe, jer se tako skuplja pena od kupusa takozvani &#8221;cvet&#8221; i kupus duže traje.
+**Napomena**:   treba voditi tračuna da krst od daščica čvrsto stoji, da odgovara meri bureta. Platno treba u početku prati jednom nedeljno, a kasnije ređe, jer se tako skuplja pena od kupusa takozvani &#8221;cvet&#8221; i kupus duže traje.
 
 Kupus ribanac ne može da se održi tako dugo kao kiseli kupus u glavicama (koji može da traje i do maja), ali se mnogo kraće kiseli.
 

@@ -37,7 +37,6 @@ U isitnjeni patlidžan i paprike dodati so, biber, iseckan beli luk, 3-4 kašike
 
 Ova salata može da se posluži uz jelo ali može biti i lagan obrok.
 
-**Napomena**: 
-> plavi patlidžan ili plavi paradajz, kako ga još zovu, nije toliko zastupljen u našem jelovniku. Više se koristi u mediteranskoj kuhinji, a naročito u južnoj Italiji (Kalabrija) i Turskoj.
+**Napomena**:   plavi patlidžan ili plavi paradajz, kako ga još zovu, nije toliko zastupljen u našem jelovniku. Više se koristi u mediteranskoj kuhinji, a naročito u južnoj Italiji (Kalabrija) i Turskoj.
 
 Plavi patlidžan se dobro kombinuje sa pirinčem, testeninom, mesom, ribom, jajima, sirom.

@@ -38,7 +38,6 @@ U pilav se može dodati i šoljica soka od paradajza. Gotovo jelo preliti sa mal
 
 Pilav sa spanaćem, po želji, služiti sa kiselim mlekom ili kiselom pavlakom.
 
-**Napomena**: 
-> pilav ne mora da se kuva, može i da se stavi odmah u pećnicu zagrejanu na 200 stepeni i peče dok ne uvri voda.
+**Napomena**:   pilav ne mora da se kuva, može i da se stavi odmah u pećnicu zagrejanu na 200 stepeni i peče dok ne uvri voda.
 
 &nbsp;

@@ -41,5 +41,4 @@ U međuvremenu, od šećera i malo vode skuvati preliv. Kada proključa, sklonit
 
 Ohlađenim prelivom poprskati biskvit koru, premazati je džemom ili marmeladom, ponovo urolati, a sastav okrenuti na dole. Rolat posuti kristal šećerom ili preliti glazurom od čokolade. Seći na šnite.
 
-**Napomena**: 
-> ovaj rolat se lako priprema i veoma je ukusan. Nadam se da će Vam se svideti. Prijatno!
+**Napomena**:   ovaj rolat se lako priprema i veoma je ukusan. Nadam se da će Vam se svideti. Prijatno!

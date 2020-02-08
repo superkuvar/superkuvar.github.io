@@ -50,5 +50,4 @@ Napunjene tikvice slagati uspravno u šerpu i naliti toplom vodom, da ogreznu. I
 
 U malo vode razmutiti kašiku brašna i kašičicu crvene sitne paprike i sipati u tikvice. Protresti sud, da se zaprška svuda razlije i kuvati još dvadesetak minuta. Po želji, punjene tikvice poslužiti sa kiselom pavlakom.
 
-**Napomena**: 
-> ko ne voli zapršku može je izostaviti, jelo je ukusno i nezaprženo.
+**Napomena**:   ko ne voli zapršku može je izostaviti, jelo je ukusno i nezaprženo.

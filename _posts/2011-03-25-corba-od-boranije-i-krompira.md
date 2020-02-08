@@ -35,7 +35,6 @@ U međuvremenu, oprati krompir, oljuštiti, iseći na kocke, obariti, ocediti i 
 
 Kada je čorba kuvana dodati ispasiran krompir, pavlaku i iseckan peršunov list, izmešati i poslužiti.
 
-**Napomena**: 
-> umesto sveže može se koristiti zamrznuta boranija, tako da se ova čorba može pripremati u toku cele godine.
+**Napomena**:   umesto sveže može se koristiti zamrznuta boranija, tako da se ova čorba može pripremati u toku cele godine.
 
 &nbsp;

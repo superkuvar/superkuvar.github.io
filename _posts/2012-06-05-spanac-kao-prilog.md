@@ -35,7 +35,6 @@ Spanać preliti sa pola decilitra ulja i šoljom vode. Peći oko 30 minuta na 18
 
 Spanać poslužiti kao prilog uz šnicle ili dinstano belo pileće meso.
 
-**Napomena**: 
-> boja svežeg spanaća je intenzivno zelena, bez oštećenih i žutih listova.
+**Napomena**:   boja svežeg spanaća je intenzivno zelena, bez oštećenih i žutih listova.
 
 Spanać pre pripreme treba dobro oprati u hladnoj vodi i ukloniti drške, jer sadrže oksalnu kiselinu. Treba ga prati neposredno pre upotrebe, da se zbog prisustva vlage ne bi pokvario ako se ne priprema odmah.

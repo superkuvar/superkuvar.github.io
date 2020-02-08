@@ -35,8 +35,7 @@ U međuvremenu, u šerpi zagrejati malo ulja, dodati 3-4 kašike prezli i pržit
 
 Propržene prezle skloniti sa vatre, dodati oceđene rezance, izmešati i posuti šećerom, po ukusu. Rezance poslužiti tople.
 
-**Napomena**: 
-> ponekad, kada mi se jede nešto slatko, a nemam dovoljno vremena ili inspiracije da pripremim neki slatkiš, napravim rezance na ovaj način.  Može se koristiti i bilo koja druga testenina (makarone, školjke, mašnice i sl.). Prezle ponekad zamenim mlevenim orasima ili makom.
+**Napomena**:   ponekad, kada mi se jede nešto slatko, a nemam dovoljno vremena ili inspiracije da pripremim neki slatkiš, napravim rezance na ovaj način.  Može se koristiti i bilo koja druga testenina (makarone, školjke, mašnice i sl.). Prezle ponekad zamenim mlevenim orasima ili makom.
 
 Ukoliko imate dovoljno vremena, možete sami da napravite rezance na sledeći način: zamesiti testo od 500 grama brašna, jajeta, malo soli i mlake vode, tako da bude tvrđe nego za pitu. Testo dobro izmesiti, pa ga oblikovati u loptu. Razvući oklagijom koru debljine oko 2 milimetra i ostaviti da se malo prosuši. Prosušeno testo iseći na rezance širine oko 1 cm.
 

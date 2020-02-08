@@ -39,7 +39,6 @@ tags:
 
 Rusku salatu staviti u frižider da se ohladi.
 
-**Napomena**: 
-> ko voli i ima malo volje i vremena, može napraviti domaći majonez.  unka se može zameniti seckanim kuvanim belim pilećim ili kuvanim junećim mesom. U salatu se može dodati i malo senfa ili čaša kisele pavlake (200 grama).
+**Napomena**:   ko voli i ima malo volje i vremena, može napraviti domaći majonez.  unka se može zameniti seckanim kuvanim belim pilećim ili kuvanim junećim mesom. U salatu se može dodati i malo senfa ili čaša kisele pavlake (200 grama).
 
 Ruska salata je omiljena i vrlo često servirana na prazničnoj trpezi i raznim slavljima.

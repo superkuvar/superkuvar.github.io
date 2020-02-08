@@ -38,5 +38,4 @@ Tikvice posoliti, dodati sitno seckan beli luk, bosiljak, isitnjen peršunov lis
 
 Umutiti jaja, dodati pavlaku i preliti tikvice. Jelo staviti u pećnicu zagrejanu na 220 stepeni i peći oko 40 minuta.
 
-**Napomena**: 
-> tikvice se mogu prethodno obariti u slanoj vodi u koju je dodato malo sirćeta ili propržiti.
+**Napomena**:   tikvice se mogu prethodno obariti u slanoj vodi u koju je dodato malo sirćeta ili propržiti.

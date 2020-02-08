@@ -37,8 +37,7 @@ Guščije meso staviti da se kuva sve dok dobro ne omekša. U drugu posudu stavi
 
 Brašno izmešati sa pavlakom i mlekom (voditi računa da se brašno ne ugrudva) naliti u čorbu i začiniti po želji. Čorbu služiti vruću.
 
-**Napomena**: 
-> Da se brašno ne zgrudva masu procediti u čorbu.
+**Napomena**:   Da se brašno ne zgrudva masu procediti u čorbu.
 
   
 

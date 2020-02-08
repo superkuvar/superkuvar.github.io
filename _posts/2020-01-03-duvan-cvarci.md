@@ -28,8 +28,7 @@ mešanje drvenom varjačom sve dok komadići sala ne počnu da žute. Tada posud
 
 Cediti dok se i poslednja kap ne ocedi. Zatim odviti krajeve platna i istresti čvarke u posudu u kojoj se topila mast, po ukusu posoliti i protrljati ih rukama da se izjednače i izdrobe.
 
-**Napomena**: 
-> Čvarci se u Srbiji različito pripremaju i ovi su podjednako ukusni. Duvan čvarci se spremaju u
+**Napomena**:   Čvarci se u Srbiji različito pripremaju i ovi su podjednako ukusni. Duvan čvarci se spremaju u
 zapadnoj Srbiji, posebno u okolini Valjeva i Čačka, a nazivaju ih tako jer podsećaju na seckani duvan.
 
 

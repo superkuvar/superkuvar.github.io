@@ -33,8 +33,7 @@ Salatu ostaviti u poklopljenoj posudi, na hladnom mestu, da odstoji najmanje jed
 
 Salata se, po želji, može ukrasiti iseckanim peršunovim listom i poslužiti uz neki prilog od povrća i meso.
 
-**Napomena**: 
-> šargarepa, narandžasta lepotica, zahvaljujući svojim sastojcima omiljena je u našoj ishrani.
+**Napomena**:   šargarepa, narandžasta lepotica, zahvaljujući svojim sastojcima omiljena je u našoj ishrani.
 
 Šargarepa se najčešće koristi kao dinstana ili kuvana. Od sveže šargarepe pravi se salata ili cedi u sok, koji se pije sam ili u kombinaciji sa drugim sokovima.
 

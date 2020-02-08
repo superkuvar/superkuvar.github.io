@@ -2,8 +2,9 @@
 layout: default
 title: Poslovi u kuhinji
 permalink: /poslovi-u-kuhinji/
+published: true
 ---
-Pri kuvanju, naročito pri njegovom opisivanju u knjigama za kuvanje, upotrebljavaju se razni izrazi koji rečju treba da predstave način izvođenja raznovrsnih radnji pri gotovljenju jela.
+**Pri kuvanju, naročito pri njegovom opisivanju u knjigama za kuvanje, upotrebljavaju se razni izrazi koji rečju treba da predstave način izvođenja raznovrsnih radnji pri gotovljenju jela.**
 
 ## Blanširati 
 vodom koja vri preliti meso ili povrće i držati ga u toj vodi izvesno vreme dok se, ako je to meso koje se preliva, po mestu ne uhvati bela skrama.
@@ -11,8 +12,7 @@ vodom koja vri preliti meso ili povrće i držati ga u toj vodi izvesno vreme do
 ## Istresti 
 ispečene kolače, pudinge, kremove izvaditi odjedanput iz kalupa. Pri istresanju valja se pomagati čistim nožem. Nožem prvo odvojiti strane kalupa od mase, zatim dno suda, ako je moguće, a potom sud poklopiti tanjirom ili podmetačem za torte, prevrnuti ga i lakim i sigurnim pokretom istresti sadržinu. Kao što se ulaže velika pažnja prilikom istresanja pečenih kohova, pudinga i torti, mora se obratiti pažnja i na istresanje pihtija, sulceva, sireva od dunja i kremova.
 
-Napomena: 
-> mesto noža može se koristiti kuvarska špatula
+**Napomena:** mesto noža može se koristiti kuvarska špatula.
 
 ## Kuvati 
 

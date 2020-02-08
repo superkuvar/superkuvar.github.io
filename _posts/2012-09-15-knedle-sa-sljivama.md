@@ -44,5 +44,4 @@ Kada sve knedle budu pripremljene, spuštati ih u posudu sa ključalom vodom i k
 
 Gotove knedle vaditi rešetkastom kašikom, ređati na tanjir i preliti prezlama proprženim na ulju ili mešavini margarina i ulja. Posuti ih kristal šećerom i cimetom. Služiti tople.
 
-**Napomena**: 
-> Umesto sa šljivama, knedle se mogu pripremiti sa kajsijama.
+**Napomena**:   Umesto sa šljivama, knedle se mogu pripremiti sa kajsijama.

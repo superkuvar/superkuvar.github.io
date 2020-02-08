@@ -29,8 +29,7 @@ Paprike slagati u polietilenske kese, onoliko komada koliko je potrebno za jedan
 
 Ovako zamrznute paprike dobro dođu u zimskom periodu, kada se mogu puniti pirinčem ili na klasičan način, mesom.
 
-**Napomena**: 
-> paprike se zamrzavaju uspešnije od ostalog povrća. Pre zamrzavanja i ne moraju da se potapaju u vrelu vodu.
+**Napomena**:   paprike se zamrzavaju uspešnije od ostalog povrća. Pre zamrzavanja i ne moraju da se potapaju u vrelu vodu.
 
 Zamrzavati treba samo zdrave, mesnate, sveže paprike.
 

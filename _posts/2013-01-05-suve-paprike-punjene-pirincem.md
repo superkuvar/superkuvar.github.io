@@ -50,5 +50,4 @@ Posudu sa paprikama staviti u zagrejanu pećnicu. Peći na temperaturi od 200 st
 
 Ove paprike mogu se služiti tople ili podgrejane.
 
-**Napomena**: 
-> pirinač se može i kratko obariti, a zatim ocediti i dodati u propržen luk.
+**Napomena**:   pirinač se može i kratko obariti, a zatim ocediti i dodati u propržen luk.

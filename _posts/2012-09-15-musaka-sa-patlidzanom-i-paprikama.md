@@ -53,5 +53,4 @@ Pred kraj kuvanja u bešamel dodati malo soli, bibera i narendanog muskatnog ora
 
 Musaku preliti bešamelom i peći u prethodno zagrejanoj pećnici 35-40 minuta na 200 stepeni.
 
-**Napomena**: 
-> za pripremu musake mogu se upotrebiti pečene paprike iz zamrzivača.
+**Napomena**:   za pripremu musake mogu se upotrebiti pečene paprike iz zamrzivača.

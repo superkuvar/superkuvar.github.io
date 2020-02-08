@@ -38,7 +38,6 @@ Ispržene palačinke slagati na veći tanjir.
 
 Ovo je osnovno testo. Od njega se mogu praviti razne slatke i slane varijante palačinki. Slatke palačinke najčešće filujemo džemom, mlevenim orasima, šećerom, eurokremom&#8230; uvijemo ih u rolnu ili presavijemo na četiri dela i služimo tople. Za pripremu slanih varijanti postoji mnogo dobrih recepata i najčešće se služe kao predjelo.
 
-**Napomena**: 
-> umesto mešavine mleka i vode može se upotrebiti samo mleko, ili samo mineralna voda ili mešavina mleka i mineralne vode. Testo treba da bude retko, da se dobro razliva po nauljenom tiganju, kako bi palačinke bile tanke.
+**Napomena**:   umesto mešavine mleka i vode može se upotrebiti samo mleko, ili samo mineralna voda ili mešavina mleka i mineralne vode. Testo treba da bude retko, da se dobro razliva po nauljenom tiganju, kako bi palačinke bile tanke.
 
 Ako se tokom stajanja testo zgusnulo, može se dodati malo mlake vode, pa dobro izmešati.

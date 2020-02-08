@@ -39,5 +39,4 @@ Testo ostaviti da narasta oko 50 minuta, a zatim ga podeliti na šest delova. Sv
 
 Kiflice poređati u dobro podmazan pleh, odozgo na svaku staviti po komadić margarina i peći na umerenoj temperaturi. Čim dobiju svetlo smeđu boju izvaditi ih iz rerne.
 
-**Napomena**: 
-> od ovog testa se mogu praviti i slatke kiflice, tada treba smanjiti količinu soli koja se stavlja u testo i dodati još tri kašike šećera. Umesto margarina za slanu varijantu kiflica nadev može biti od izdrobljenog sira sa jajetom, ili od sira sa seckanom šunkom, a za slatke pekmez od kajsija ili nekog drugog voća.
+**Napomena**:   od ovog testa se mogu praviti i slatke kiflice, tada treba smanjiti količinu soli koja se stavlja u testo i dodati još tri kašike šećera. Umesto margarina za slanu varijantu kiflica nadev može biti od izdrobljenog sira sa jajetom, ili od sira sa seckanom šunkom, a za slatke pekmez od kajsija ili nekog drugog voća.

@@ -31,5 +31,4 @@ tags:
 
 Služiti kao prilog uz krem čorbe, supe ili variva. Krutoni se mogu poslužiti i kao grickalice uz pivo.
 
-**Napomena**: 
-> u ulje se može dodati i neki drugi začin, po želji.
+**Napomena**:   u ulje se može dodati i neki drugi začin, po želji.

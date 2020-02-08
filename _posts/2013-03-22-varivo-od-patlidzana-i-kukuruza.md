@@ -41,8 +41,7 @@ Sitno iseckan crni luk propržiti na ulju, da omekša, a zatim dodati isitnjen p
 
 Gotovo varivo posuti seckanim peršunovim listom.
 
-**Napomena**: 
-> kukuruz šećerac se može jesti svež, konzerviran ili smrznut, jednostavnom pripremom &#8211; kratkim kuvanjem.
+**Napomena**:   kukuruz šećerac se može jesti svež, konzerviran ili smrznut, jednostavnom pripremom &#8211; kratkim kuvanjem.
 
 Zamrznuti kukuruz šećerac ne gubi hranljiva svojstva dubokim zamrzavanjem, a priprema se na isti način kao svež.
 

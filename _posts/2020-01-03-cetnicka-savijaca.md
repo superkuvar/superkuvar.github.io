@@ -33,7 +33,6 @@ U drugoj posudi izgnječiti sir i kajmak i dodati ulupana jaja. Kada testo nado�
 Loptice testa razviti oklagijom u obliku kore i svaku filovati sa masom od sira i kajmaka. Svaku uviti
 u rolnu. Savijaču složiti tako što treba početi od zida pleha ka sredini i to ukrug, preliti sa malo masti i peći u pećnici oko 45 minuta.
 
-**Napomena**: 
-> Četnička savijača je najbolja kada pliva u dosta masti.
+**Napomena**:   Četnička savijača je najbolja kada pliva u dosta masti.
  
 

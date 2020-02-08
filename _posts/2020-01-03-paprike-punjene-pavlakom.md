@@ -26,8 +26,7 @@ Ostatak pavlake preliti preko paprika i zatvoriti posudu hermetički. Ostaviti d
 
 Može se služiti kao predjelo ili kao salata uz jelo. 
 
-**Napomena**: 
-> Jedno od najboljih srpskih hladnih jela je paprika punjena pavlakom. Najbolje se priprema na Pešterskoj visoravni, ali i priprema ovog delikatesa je poznata i u drugim brdsko-planinskim krajevima.
+**Napomena**:   Jedno od najboljih srpskih hladnih jela je paprika punjena pavlakom. Najbolje se priprema na Pešterskoj visoravni, ali i priprema ovog delikatesa je poznata i u drugim brdsko-planinskim krajevima.
 
   
 

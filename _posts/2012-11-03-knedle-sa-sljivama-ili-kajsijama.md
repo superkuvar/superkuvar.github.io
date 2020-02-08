@@ -46,5 +46,4 @@ U drugu šerpu sipati oko dva litra vode i staviti na štednjak. Kada voda prokl
 
 Na margarinu ili ulju propržiti prezle. Knedle uvaljati u prezle i posuti šećerom pomešanim sa vanilom. Odozgo, po želji, posuti cimetom.
 
-**Napomena**: 
-> u šljive se može sipati po malo šećera ili staviti komadić čokolade.
+**Napomena**:   u šljive se može sipati po malo šećera ili staviti komadić čokolade.

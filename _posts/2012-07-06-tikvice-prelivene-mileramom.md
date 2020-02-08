@@ -38,5 +38,4 @@ tags:
 
 Ispohovane tikvice ređati u činiju, svaki red posuti seckanim belim lukom, mlevenim orasima i iseckanom mirođijom, pa prelivati mešavinom milerama i jogurta. Odozgo posuti ostatkom milerama i jogurta, mlevenim orasima i mirođijom. Do služenja držati u frižideru.
 
-**Napomena**: 
-> mileram može da se zameni kiselim mlekom.
+**Napomena**:   mileram može da se zameni kiselim mlekom.

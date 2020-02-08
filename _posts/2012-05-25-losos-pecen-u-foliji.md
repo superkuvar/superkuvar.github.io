@@ -38,8 +38,7 @@ U pleh staviti aluminijumsku foliju, pa preko sjajne strane složiti komade loso
 
 Pečene komade lososa ostaviti da malo odstoje u foliji, pa onda servirati sa barenim pirinčem ili blitvom sa krompirom.
 
-**Napomena**: 
-> losos, zbog malo više cene u odnosu na uobičajene vrste ribe, nije zastupljen u našem jelovniku onoliko koliko bi trebalo da bude.
+**Napomena**:   losos, zbog malo više cene u odnosu na uobičajene vrste ribe, nije zastupljen u našem jelovniku onoliko koliko bi trebalo da bude.
 
 Losos je riba koja živi u slanoj, morskoj vodi, a kada se mresti odlazi u slatku, jezersku ili rečnu vodu.
 

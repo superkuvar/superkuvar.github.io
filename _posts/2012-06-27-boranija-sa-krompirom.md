@@ -41,5 +41,4 @@ U malo hladne vode razmutiti brašno sa kašičicom crvene sitne paprike i sipat
 
 Jelo se može poslužiti samostalno ili kao prilog uz faširane šnicle, dinstano meso i slično.
 
-**Napomena**: 
-> ukoliko se koristi zamrznuta boranija, onda u propržen luk treba dodati krompir isečen na kocke, naliti toplom vodom da ogrezne i kuvati desetak minuta. Zatim dodati paradajz isečen na kriške i boraniju. Začiniti i kuvati dok boranija ne omekša.
+**Napomena**:   ukoliko se koristi zamrznuta boranija, onda u propržen luk treba dodati krompir isečen na kocke, naliti toplom vodom da ogrezne i kuvati desetak minuta. Zatim dodati paradajz isečen na kriške i boraniju. Začiniti i kuvati dok boranija ne omekša.
