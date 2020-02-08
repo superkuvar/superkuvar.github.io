@@ -4,22 +4,11 @@ title: Index
 description: Tradicionalna kuhinja i praktični recepti iz bakinih vitrina.
 ---
 
-<form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="superkuvar.com" /><input type="text" name="q" maxlength="255" value="" placeholder="Google pretraga" class="form-control" />
+<form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="superkuvar.com" /><input type="text" name="q" maxlength="255" value="" placeholder="Superkuvar pretraga" class="form-control" />
 <button type="submit" form="search-google" value="Submit">GO</button>
 </form>
 
 <br style="clear:both" />
-
-<style>
-input{
-float: right;
-padding: 10px;
-border-radius: 10px;
--moz-border-radius: 10px;
--webkit-border-radius: 10px;
-font-size: 20px;
-}
-</style>
 
 
 <div style="clear:both; padding-top:20px;line-height:26px">
