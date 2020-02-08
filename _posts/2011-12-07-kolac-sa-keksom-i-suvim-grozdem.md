@@ -48,6 +48,6 @@ Pripremiti nadev na sledeći način: keks popariti vrelim mlekom, pa dodati suvo
 
 Ispečeno testo staviti na veći poslužavnik, pa ga premazati pripremljenim filom i preliti glazurom od čokolade. Kolač ostaviti da se glazura stegne i ohladi.
 
-Glazura: u šerpicu staviti izlomljenu čokoladu, mleko i margarin, pa na laganoj vatri kuvati nekoliko minuta, da se čokolada istopi i da se dobije glatka masa.
+**Glazura**: u šerpicu staviti izlomljenu čokoladu, mleko i margarin, pa na laganoj vatri kuvati nekoliko minuta, da se čokolada istopi i da se dobije glatka masa.
 
 Kolač sa keksom iseći na pravougaone parčiće i služiti.

@@ -44,4 +44,4 @@ Kolač peći na 200 stepeni oko 40 minuta, u prethodno zagrejanoj pećnici.
 
 Gotov ohlađen kolač preliti glazurom od čokolade. Kada se glazura stegne, seći na kocke.
 
-Glazura: u šerpicu staviti izlomljenu čokoladu, dodati 4 kašike mleka, 4 kašike šećera i komadić margarina ili 4 kašike ulja. Staviti na tihu vatru da provri. Kad se masa ujednači glazura je gotova.
+**Glazura**: u šerpicu staviti izlomljenu čokoladu, dodati 4 kašike mleka, 4 kašike šećera i komadić margarina ili 4 kašike ulja. Staviti na tihu vatru da provri. Kad se masa ujednači glazura je gotova.

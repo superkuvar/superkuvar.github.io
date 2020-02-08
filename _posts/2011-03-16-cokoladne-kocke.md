@@ -42,7 +42,7 @@ Posebno umutiti 10 belanaca, pa ih postepeno dodavati u smasu sa žumancima, a z
 
 **Fil**: umutiti margarin sa 250 grama šećera u prahu, a potom dodati 2 ulupana belanceta.
 
-Glazura: istopiti margarin i čokoladu, skinuti sa ringle i dodati 2 kašike ulja.
+**Glazura**: istopiti margarin i čokoladu, skinuti sa ringle i dodati 2 kašike ulja.
 
 Kada se kora ohladi, premazati je filom i staviti u frižider da se stegne. Na kraju kolač premazati glazurom. Kada se čokolada stegne, kolač iseći na kocke.
 

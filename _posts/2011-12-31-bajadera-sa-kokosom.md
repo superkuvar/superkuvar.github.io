@@ -30,4 +30,4 @@ tags:
 
 U vreli sirup sipati mleveni keks i kokos. Masu dobro izmešati, da se ujednači, i razliti u plići pleh obložen aluminijumskom folijom. Rastanjiti na debljinu od oko jedan i po santimetar. Bajaderu preliti glazurom od čokolade, staviti u frižider da se stegne, a zatim seći na štangle.
 
-Glazura: u šerpicu staviti izlomljenu čokoladu, dodati kašičicu margarina, kašiku šećera i dve kašike mleka, pa kuvati na laganoj vatri, da se čokolada istopi i masa ujednači.
+**Glazura**: u šerpicu staviti izlomljenu čokoladu, dodati kašičicu margarina, kašiku šećera i dve kašike mleka, pa kuvati na laganoj vatri, da se čokolada istopi i masa ujednači.

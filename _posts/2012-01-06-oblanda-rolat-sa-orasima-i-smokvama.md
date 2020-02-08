@@ -39,4 +39,4 @@ Listove oblande staviti na vlažnu salvetu da odstoje desetak minuta da omekšaj
 
 Po želji, dva rolata mogu se preliti glazurom od čokolade. Seći kada se dobro ohlade i stegnu.
 
-Glazura: na tihoj vatri istopiti izlomljenu čokoladu sa kašičicom margarina, kašikom mleka i kašikom šećera, da se dobije glatka masa.
+**Glazura**: na tihoj vatri istopiti izlomljenu čokoladu sa kašičicom margarina, kašikom mleka i kašikom šećera, da se dobije glatka masa.

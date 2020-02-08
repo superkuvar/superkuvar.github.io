@@ -31,14 +31,14 @@ tags:
   * 1 kesica praška za pecivo
   * 2 kašike kakao praha
 
-Za krem
+**Za krem**:
 
   * 6 dl mleka
   * 5 kašika šećera
   * brašno (4 kašike)
   * kokosovo brašno (150 grama)
 
-Glazura
+**Glazura**:
 
   * čokolada za kuvanje (100 g)
   * komadić margarina ili kašika ulja

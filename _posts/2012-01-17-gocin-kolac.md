@@ -42,4 +42,4 @@ tags:
 
 Pečen i ohlađen kolač preliti glazurom od čokolade.
 
-Glazura: u šerpicu staviti izlomljenu čokoladu, dodati 3 kašike mleka, kašiku šećera i komadić margarina. Staviti na tihu vatru da provri. Kada se čokolada istopi i masa postane ujednačena, glazura je gotova.
+**Glazura**: u šerpicu staviti izlomljenu čokoladu, dodati 3 kašike mleka, kašiku šećera i komadić margarina. Staviti na tihu vatru da provri. Kada se čokolada istopi i masa postane ujednačena, glazura je gotova.

@@ -54,7 +54,7 @@ Umešeno testo podeliti na pet jednakih delova. Svaki deo rastanjiti oklagijom u
 
 Ređati kore jednu na drugu i svaku premazati filom, osim poslednje. Tortu premazati filom i sa strane. Poslednju koru premazati glazurom.
 
-Glazura: 250 grama šećera preliti čašom vode i ušpinovati, da sirup bude gust kao za slatko. Zatim skloniti sa vatre i mutiti dok ne pobeli. Dodati malo ekstrakta od maline ili boje za kolače, da glazura dobije roze boju. U glazuru sipati nekoliko kapi ulja.
+**Glazura**: 250 grama šećera preliti čašom vode i ušpinovati, da sirup bude gust kao za slatko. Zatim skloniti sa vatre i mutiti dok ne pobeli. Dodati malo ekstrakta od maline ili boje za kolače, da glazura dobije roze boju. U glazuru sipati nekoliko kapi ulja.
 
 Tortu staviti u frižider i kada se dobro ohladi, seći na štanglice ili kocke.
 
