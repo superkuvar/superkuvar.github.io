@@ -5,7 +5,7 @@ date: 2011-12-22T13:30:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2110
-description: Originalni, recept za oblande sa mlekom i orasima. Potrebno je mleko, šećer, orasi, pažljivo kuvanje na tihoj vatri i naravno jedno veće pakovanje oblandi
+description: Originalni recept za oblande sa mlekom i orasima. Potrebno je mleko, šećer, orasi, pažljivo kuvanje na tihoj vatri i naravno jedno veće pakovanje oblandi
 keywords: oblande, mleko, orasi, fil za oblandu, mleko u šerpi, mleveni orasi, seckani orasi, slatka oblanda, vanilin šećer, vanilica, oblande, ukusne oblande, mlečne oblande, šećerne oblande, oblande bez margarina, oblanda sa margarinom, vreli fil, oblanda fil, filovanje, listovi oblande, karamelizacija mleka
 permalink: /oblande-sa-mlekom-i-orasima/
 totvreme:

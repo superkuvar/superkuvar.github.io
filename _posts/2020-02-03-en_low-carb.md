@@ -6,7 +6,7 @@ author: slava b
 source: https://www.dietdoctor.com/low-carb
 layout: post
 permalink: /en/low-carb/
-description: Low carb diet tips and tricks
+description: Low carb diet tips and tricks.
 published: false
 categories:
    - diet

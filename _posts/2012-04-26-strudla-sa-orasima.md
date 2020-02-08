@@ -7,7 +7,7 @@ layout: post
 guid: http://superkuvar.com/?p=3071
 permalink: /strudla-sa-orasima/
 description: Recept za fantastičnu štrudlu sa orasima. Za spremanje poslastice potrebno je imati brašno, mleko, kvasac, limun, margarin, suvo grožđe, so
-keywords: strudla sa orasima, recepti, poslastica, strudla, orah, slatka štrudla sa orasima, strudla
+keywords: štrudla sa orasima, recepti, poslastica, štrudla, orah, slatka štrudla sa orasima, strudla
 image: /wp-content/uploads/2012/04/Štrudla-sa-orasima-940x198.jpg
 categories:
   - kolači
@@ -68,3 +68,4 @@ Rolne štrudle staviti u podmazan pleh i ostaviti da odstoje još 10 minuta. Sva
 
 Pečenu štrudlu pokriti platnenom salvetom i ostaviti da se malo prohladi. Ne treba je seći dok je vruća, a kada se ohladi iseći na režnjeve i posuti šećerom u prahu zamirisanim vanilom.
 
+**Napomena**: Štrudla (comp: strudla, en: strudel, ge: Strudel) nestrpljivi uglavnom vole da jedu toplu, nepostredno nakon pečenja, ali uobičajeno je da se služi kad se dobro ohladi.
