@@ -23,7 +23,7 @@ tags:
   - šećer
 ---
 **Potrebno je**:  
-Za kore
+**Za kore**:
 
   * 12 žumanaca
   * 300 grama šećera u prahu
@@ -31,7 +31,7 @@ Za kore
   * 3 kašike brašna
   * malo ruma (za prskanje korica)
 
-Za fil
+**Za fil**:
 
   * 12 belanaca
   * 12 kašika šećera
@@ -44,7 +44,7 @@ Za fil
 
 Kore peći na poleđini pleha koji je obložen papirom za pečenje i namazan uljem. Skidati ih sa pleha kada se malo ohlade, jer se lako lome.
 
-Za fil skuvati na pari žumanca sa šećerom, dok se ne zgusnu. U toku kuvanja fil neprestano mešati varjačom. U vreo fil ubaciti izlomljenu čokoladu i dobro izmešati da se istopi.
+**Za fil**: skuvati na pari žumanca sa šećerom, dok se ne zgusnu. U toku kuvanja fil neprestano mešati varjačom. U vreo fil ubaciti izlomljenu čokoladu i dobro izmešati da se istopi.
 
 U ohlađen fil dodati penasto umućen maslac. Dobro umutiti mikserom i filovati kore.
 

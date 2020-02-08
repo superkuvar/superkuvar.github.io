@@ -29,7 +29,7 @@ tags:
   * 3 kašike mlevenih oraha
   * kesica praška za pecivo
 
-Za fil:
+**Za fil**:
 
   * 500 ml mleka
   * 6 kašika oštrog brašna

@@ -21,7 +21,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za testo
+**Za testo**:
 
   * oko 900 grama brašna
   * 1 paketić kvasca

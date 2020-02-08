@@ -35,7 +35,7 @@ tags:
   * 3-4 kisele jabuke srednje veličine
   * šolja seckanih oraha
 
-Za glazuru
+**Za glazuru**:
 
   * 3 rebra čokolade za kuvanje
   * 2 kašike šećera

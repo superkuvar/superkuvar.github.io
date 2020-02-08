@@ -19,7 +19,7 @@ tags:
 * pola kesice praška za pecivo
 * 250 g prosejanog brasna 
 
-Za glazuru: 
+**Za glazuru**: 
 
 * 150 g kristal šećera
 * malo vode

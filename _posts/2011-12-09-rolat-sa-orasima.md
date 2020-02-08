@@ -24,7 +24,7 @@ tags:
   * 150 grama mlevenih oraha
   * 2 kašike brašna
 
-Za fil:
+**Za fil**:
 
   * 150 grama mlevenih oraha
   * 150 grama šećera u prahu
@@ -32,7 +32,7 @@ Za fil:
   * 150 grama margarina ili maslaca
   * kašika (ili nekoliko kapi arome) ruma
 
-Za glazuru:
+**Za glazuru**:
 
   * 100 grama čokolade za kuvanje
   * 2 kašike mleka

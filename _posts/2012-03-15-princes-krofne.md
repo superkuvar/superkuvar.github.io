@@ -19,7 +19,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za testo:
+**Za testo**:
 
   * 200 ml vode
   * 200 grama ulja

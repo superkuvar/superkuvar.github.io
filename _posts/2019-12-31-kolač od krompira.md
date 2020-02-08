@@ -20,7 +20,7 @@ tags:
 * 1 margarin
 * 3 rebra čokolade 
 
-Za glazuru:
+**Za glazuru**:
 
 * 3 rebra čokolade za kuvanje 
 * 2-3 kapi ulja 

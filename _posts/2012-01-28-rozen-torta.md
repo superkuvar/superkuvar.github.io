@@ -19,7 +19,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za kore
+**Za kore**:
 
   * 2 jajeta
   * 4 kašike šećera
@@ -29,7 +29,7 @@ Za kore
   * pola kašičice sode bikarbone
   * brašno
 
-Za fil
+**Za fil**:
 
   * šolja mleka
   * 200 grama šećera
@@ -37,7 +37,7 @@ Za fil
   * kesica vanilin šećera
   * 200 grama maslaca ili margarina
 
-Za glazuru
+**Za glazuru**:
 
   * 250 grama šećera
   * čaša vode

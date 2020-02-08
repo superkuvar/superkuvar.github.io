@@ -41,7 +41,7 @@ Fil
 
 **Priprema**: ulupati belanca sa šećerom u čvrst sneg, a zatim lagano umešati mlevene orahe ili lešnike i griz. Od testa ispeći 4 okrugle ili četvrtaste kore, na poleđini pleha prekrivenog papirom za pečenje. Kore peći 15-20 minuta u pećnici zagrejanoj na 180 stepeni.
 
-Za fil umutiti žumanca sa šećerom i vanilom, pa staviti iznad posude sa vrelom vodom i kuvati na pari dok se ne zgusne. Prilikom kuvanja fil stalno mešati varjačom.
+**Za fil**: umutiti žumanca sa šećerom i vanilom, pa staviti iznad posude sa vrelom vodom i kuvati na pari dok se ne zgusne. Prilikom kuvanja fil stalno mešati varjačom.
 
 U gotov vreo fil staviti maslac i margarin, da se otope. Povremeno promešati. Kada se fil ohladi kratko ga umutiti mikserom.
 

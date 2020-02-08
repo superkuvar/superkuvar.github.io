@@ -19,7 +19,7 @@ tags:
 ---
 **Potrebno je**:
 
-Za tamno testo
+**Za tamno testo**:
 
   * 15 kašika vrele kafe bez šećera (klasične proceđene ili instant)
   * 200 grama šećera
@@ -27,7 +27,7 @@ Za tamno testo
   * 2 štangle čokolade
   * 350 grama mlevenog keksa
 
-Za fil
+**Za fil**:
 
   * 125 grama margarina
   * 100 grama šećera u prahu

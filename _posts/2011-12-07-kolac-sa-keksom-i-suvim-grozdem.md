@@ -36,7 +36,7 @@ Za nadev:
   * 250 grama margarina
   * 250 grama šećera u prahu
 
-Za glazuru:
+**Za glazuru**:
 
   * 100 grama čokolade za kuvanje
   * komadić margarina

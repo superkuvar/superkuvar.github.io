@@ -35,7 +35,7 @@ Za krem
   * 2 kesice vanilin šećera
   * 250 grama margarina
 
-Za glazuru
+**Za glazuru**:
 
   * 150 grama čokolade za kuvanje
   * kašika margarina

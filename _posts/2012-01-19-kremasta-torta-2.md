@@ -21,7 +21,7 @@ tags:
 ---
 **Potrebno je**:
 
-Za koru  
+**Za koru**:  
 * 3 jajeta  
 * 7 žumanaca  
 * 6 kašika šećera  

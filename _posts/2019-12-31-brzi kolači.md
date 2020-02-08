@@ -22,7 +22,7 @@ tags:
 * 1 kesica vanil šećera
 * 5 kašika pekmeza od kajsija
 
-Za glazuru:
+**Za glazuru**:
 
 * 4 rebra čokolade za kuvanje
 * 3 kašike sećera

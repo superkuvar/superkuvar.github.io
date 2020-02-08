@@ -17,7 +17,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za testo:
+**Za testo**:
 
   * 10 jaja
   * 200 grama šećera
@@ -25,7 +25,7 @@ Za testo:
   * 2 kašike brašna
   * 2 štangle čokolade za kuvanje
 
-Za fil:
+**Za fil**:
 
   * 7 jaja
   * 250 grama šećera

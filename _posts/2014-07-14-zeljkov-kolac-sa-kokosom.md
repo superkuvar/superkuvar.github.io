@@ -21,7 +21,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za testo
+**Za testo**:
 
   * 6 jaja
   * 6 kašika ulja

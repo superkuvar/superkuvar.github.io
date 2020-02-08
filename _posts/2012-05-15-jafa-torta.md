@@ -20,7 +20,7 @@ tags:
   - jaja
 ---
 **Potrebno je**:  
-Za kore:
+**Za kore**:
 
   * 10 jaja
   * 10 kašika šećera

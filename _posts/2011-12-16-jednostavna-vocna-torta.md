@@ -26,7 +26,7 @@ tags:
   * kašika ulja
   * kora od limuna
 
-Za fil:
+**Za fil**:
 
   * 2 kesice pudinga od vanile ili slatke pavlake
   * 6 dl mleka

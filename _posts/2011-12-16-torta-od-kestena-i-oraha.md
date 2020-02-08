@@ -25,7 +25,7 @@ tags:
   * 200 grama šećera
   * 2 kesice vanilin šećera
 
-Za glazuru:
+**Za glazuru**:
 
   * 4 štangle čokolade za kuvanje
   * 4 kašike šećera

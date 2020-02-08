@@ -21,7 +21,7 @@ tags:
 * 3-4 jabuke srednje veličine
 * šolja seckanih oraha
 
-Za glazuru: 
+**Za glazuru**: 
 
 * 3 rebra čokolade za kuvanje, 
 * 3 kašike šecera

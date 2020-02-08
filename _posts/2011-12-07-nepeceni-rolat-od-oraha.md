@@ -24,7 +24,7 @@ tags:
   * 200 g šećera u prahu
   * 100 g rendane čokolade
 
-Za fil:
+**Za fil**:
 
   * 100 grama margarina ili maslaca
   * 200 g šećera u prahu

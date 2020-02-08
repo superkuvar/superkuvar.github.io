@@ -28,7 +28,7 @@ Sastojci:
   * 250 grama margarina
   * 250 g šećera u prahu
 
-Za glazuru:
+**Za glazuru**:
 
   * 100 grama margarina
   * 150 g čokolade za kuvanje
