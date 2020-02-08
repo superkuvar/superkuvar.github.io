@@ -27,7 +27,7 @@ tags:
   * 150 grama seckanih oraha
   * kašika ulja
 
-Za krem
+**Za krem:**
 
   * 9 žumanaca
   * 1 celo jaje

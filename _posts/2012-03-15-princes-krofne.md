@@ -26,7 +26,7 @@ tags:
   * 200 grama mekog brašna
   * 7 jaja
 
-Za krem:
+**Za krem**:
 
   * 1 litar mleka
   * 300 grama šećera
