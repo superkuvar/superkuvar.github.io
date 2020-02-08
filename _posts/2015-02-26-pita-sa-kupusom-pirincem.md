@@ -40,6 +40,6 @@ Preko kore staviti ravnomerno fil, uviti je kao štrudlu pa je staviti u podmaza
 
 Pripremljenu pitu premazati uljem i staviti u pećnicu zagrejanu na 200 stepeni. Peći oko 40 minuta. Kada je pita pečena, izvaditi je iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim iseći na parčad.
 
-Fil: opran kupus iseckati. Luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati kupus, pa pržiti i dalje, dok kupus ne porumeni. Po potrebi dolivati po malo vode.
+**Fil**: opran kupus iseckati. Luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati kupus, pa pržiti i dalje, dok kupus ne porumeni. Po potrebi dolivati po malo vode.
 
 Pirinač oprati i do pola obariti u slanoj vodi, a zatim ocediti i pomešati sa kupusom. Posoliti i pobiberiti. Ostaviti da se fil ohladi, pa zatim premazivati pripremljene kore.

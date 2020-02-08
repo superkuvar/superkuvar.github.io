@@ -47,7 +47,7 @@ premaz
 
 **Priprema**: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
 
-Fil: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
+**Fil**: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
 
 Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno. Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
 

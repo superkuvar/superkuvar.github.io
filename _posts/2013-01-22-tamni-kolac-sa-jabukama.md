@@ -37,7 +37,7 @@ tags:
   * 1 kašičica cimeta
   * kora od limuna
 
-Fil:
+**Fil**:
 
   * 3 belanceta
   * 150 grama šećera
@@ -50,7 +50,7 @@ Fil:
 
 Sjediniti mokre i suve sastojke. Masu dobro izmešati varjačom i sipati u pleh prekriven papirom za pečenje. Kolač peći oko 30 minuta u pećnici zagrejanoj na 180 stepeni.
 
-Fil: jabuke oprati, oljuštiti, narendati na krupno rende, dodati 100 grama šećera i sok od pola limuna. Propržiti ih na umerenoj temperaturi, dok ne uvri sok.
+**Fil**: jabuke oprati, oljuštiti, narendati na krupno rende, dodati 100 grama šećera i sok od pola limuna. Propržiti ih na umerenoj temperaturi, dok ne uvri sok.
 
 Umutiti belanca sa 50 grama šećera u čvrst sneg, dodati ohlađene izdinstane jabuke i lagano izmešati.
 

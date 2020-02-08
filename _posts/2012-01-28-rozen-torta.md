@@ -50,7 +50,7 @@ Za glazuru
 
 Umešeno testo podeliti na pet jednakih delova. Svaki deo rastanjiti oklagijom u manju četvrtastu koru debljine oko 3-4 milimetra. Korice peći na poleđini pleha, premazanoj uljem i posutoj brašnom, oko 15 minuta na umerenoj temperaturi (150 stepeni).
 
-Fil: u mleko sipati šećer i vanilu i staviti na štednjak da provri. Vrelim mlekom preliti orahe, pa kad se prohlade dodati penasto umućen maslac ili margarin. Masu lagano izmešati.
+**Fil**: u mleko sipati šećer i vanilu i staviti na štednjak da provri. Vrelim mlekom preliti orahe, pa kad se prohlade dodati penasto umućen maslac ili margarin. Masu lagano izmešati.
 
 Ređati kore jednu na drugu i svaku premazati filom, osim poslednje. Tortu premazati filom i sa strane. Poslednju koru premazati glazurom.
 

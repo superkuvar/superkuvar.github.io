@@ -27,7 +27,7 @@ tags:
   * 5 kašika šećera
   * 5 kašika brašna
 
-Fil:
+**Fil**:
 
   * 500 ml vode
   * 200 grama šećera

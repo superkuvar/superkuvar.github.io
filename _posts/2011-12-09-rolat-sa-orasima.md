@@ -43,7 +43,7 @@ Za glazuru:
 
 Testo sipati u pleh prekriven papirom za pečenje ili masnom hartijom i peći na 180 stepeni 15 minuta.
 
-Fil: orahe popariti sa malo vrelog mleka. Umutiti penasto margarin sa šećerom u prahu, dodati kašiku ruma, pa pomešati sa prohlađenim orasima.
+**Fil**: orahe popariti sa malo vrelog mleka. Umutiti penasto margarin sa šećerom u prahu, dodati kašiku ruma, pa pomešati sa prohlađenim orasima.
 
 Ohlađeno testo ravnomerno premazati filom i uviti u rolat. Rolat preliti glazurom od čokolade.
 

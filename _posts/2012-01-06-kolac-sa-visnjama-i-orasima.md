@@ -34,7 +34,7 @@ tags:
   * 1 prašak za pecivo
   * 4 decilitra mleka (za preliv)
 
-Fil:
+**Fil**:
 
   * 500 grama višanja (svežih ili zamrznutih)
   * 200 grama šećera
@@ -46,6 +46,6 @@ Fil:
 
 **Priprema**: u sudu za mešenje penasto umutiti jaja sa šećerom, dodati mleko, ulje, mlevene orahe i brašno pomešano sa praškom za pecivo. Masu dobro izmešati i sipati u podmazan pleh. Peći na 200 stepeni oko pola sata. Ispečen kolač izvaditi iz pećnice i preliti hladnim mlekom.
 
-Fil: u 5 decilitara vode sipati 200 grama šećera. Kada sirup provri, dodati očišćene višnje i puding prethodno razmućen u malo hladne vode. Kuvati na tihoj vatri dok se ne zgusne, uz neprekidno mešanje.
+**Fil**: u 5 decilitara vode sipati 200 grama šećera. Kada sirup provri, dodati očišćene višnje i puding prethodno razmućen u malo hladne vode. Kuvati na tihoj vatri dok se ne zgusne, uz neprekidno mešanje.
 
 Prohlađenim filom preliti patišpanj. Kada se kolač dobro ohladi, premazati ga umućenim šlagom.

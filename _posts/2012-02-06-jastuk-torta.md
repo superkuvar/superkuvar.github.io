@@ -36,7 +36,7 @@ tags:
 
 Četvrtasti pleh obložiti pek-papirom ili ga podmazati uljem i posuti brašnom, a zatim sipati pripremljeno testo. Peći na umerenoj temperaturi dvadesetak minuta. Ispečeno testo ostaviti do sutradan, a zatim nožem iseći na trake širine prsta.
 
-Fil: umutiti 5 žumanaca sa 5 kašika šećera, pa dodati 6 kašika oštrog brašna i izmešati da ne bude grudvica. U sud sipati litar mleka, dodati 6 kašika šećera i staviti na štednjak.
+**Fil**: umutiti 5 žumanaca sa 5 kašika šećera, pa dodati 6 kašika oštrog brašna i izmešati da ne bude grudvica. U sud sipati litar mleka, dodati 6 kašika šećera i staviti na štednjak.
 
 Kada mleko provri, skloniti ga sa vatre i lagano sipati masu od žumanaca i brašna. Vratiti na štednjak i kuvati na tihoj vatri, uz neprestano mešanje, da se krem dobro ukuva i zgusne. Pri kraju kuvanja dodati vanilin šećer i manji komad margarina. Fil ohladiti, uz povremeno mešanje, da se ne bi stvorila korica.
 

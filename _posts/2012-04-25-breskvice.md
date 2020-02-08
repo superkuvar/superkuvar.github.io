@@ -36,7 +36,7 @@ tags:
 
 Svaku pečenu lopticu izdubiti. Polovinu izdubljenih loptica na kratko potopiti u šerbet od prženog šećera, a drugu u šerbet kome je dodat ekstrakt maline. Svaku polovinu puniti filom i spajati po dve, pa uvaljati u prah, a zatim u kristal šećer.
 
-Fil: mrvice od kolača pomešati sa marmeladom i dobijenom smesom puniti izdubljene loptice.
+**Fil**: mrvice od kolača pomešati sa marmeladom i dobijenom smesom puniti izdubljene loptice.
 
 **Napomena**: 
 > umesto gore navedenim, breskvice se mogu puniti sledećim filom &#8211; penasto umutiti 150 grama šećera u prahu sa 150 grama margarina, pa dodati 150 grama mlevenih oraha.

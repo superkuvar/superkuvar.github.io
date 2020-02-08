@@ -40,7 +40,7 @@ U ohlađenu smesu sa čokoladom i orasima dodati 10 umućenih žumanaca i brašn
 
 Posebno umutiti 10 belanaca, pa ih postepeno dodavati u smasu sa žumancima, a zatim sipati u podmazan i brašnom posut pleh. Koru ispeći u rerni zagrejanoj na 200 stepeni.
 
-Fil: umutiti margarin sa 250 grama šećera u prahu, a potom dodati 2 ulupana belanceta.
+**Fil**: umutiti margarin sa 250 grama šećera u prahu, a potom dodati 2 ulupana belanceta.
 
 Glazura: istopiti margarin i čokoladu, skinuti sa ringle i dodati 2 kašike ulja.
 
