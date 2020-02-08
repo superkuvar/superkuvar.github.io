@@ -717,10 +717,7 @@ form{
      font-size: 20px;
   }
 
-/* index page */
-ul.cat > li {
-    line-height:26px;
-}
+
 
 
 @media print,
@@ -791,6 +788,11 @@ screen and (max-width: 480px) {
     }
     footer a {
         display: block
+    }
+    
+    /* index page */
+    ul.cat > li {
+        line-height:26px;
     }
 }
 
