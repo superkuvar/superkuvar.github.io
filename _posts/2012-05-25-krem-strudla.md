@@ -33,13 +33,13 @@ tags:
   * malo griza
   * ulje
 
-Sirup
+**Sirup**:
 
   * 3 čaše šećera
   * 2 čaše vode
   * 2 kesice vanilin šećera
 
-<img class="alignnone size-medium wp-image-3273" title="Krem štrudla" src="/wp-content/uploads/2012/05/Krem-štrudla-1024x768.jpg" alt="" width="300" height="225" /> 
+![krem štrudla](/wp-content/uploads/2012/05/Krem-štrudla-1024x768.jpg)
 
 **Priprema**: podeliti kore na tri jednaka dela. Umutiti jaja sa šećerom, dodati brašno i narendanu koru od limuna.
 
