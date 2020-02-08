@@ -40,3 +40,7 @@ tags:
 **Preliv**: u šerpu sipati šećer, preliti ga vodom, dodati vanilin šećer i staviti na štednjak. Kuvati desetak minuta, od trenutka kada je sirup proključao.
 
 Hladan kolač preliti vrućim sirupom, ostaviti da dobro upije, a zatim seći na kocke.
+
+---
+
+**Savet**: Za testa ili filove sa makom, bolje je samleti ga neposredno pre pravljenja kolača. Ako ga sameljete ranije držite mak u zamrzivaču.
