@@ -32,12 +32,12 @@ tags:
   * malo narendanog morskog oraščića (po želji)
   * prezle
 
-[<img class="alignnone size-medium wp-image-10833" src="/wp-content/uploads/2011/05/kohodspanaca1-1024x768.jpg" alt="kohodspanaca" width="300" height="225" />](/wp-content/uploads/2011/05/kohodspanaca1-e1453448400589.jpg)
+![koh od spanaca](/wp-content/uploads/2011/05/kohodspanaca1-1024x768.jpg)
 
 **Priprema**: spanać očistiti, oprati, iseći na rezance i malo propržiti na ulju. Pirinač oprati i skuvati u slanoj vodi, ali paziti da se ne prekuva, a zatim ocediti.
 
 Posebno penasto umutiti žumanca sa margarinom, pa u njih dodati hladan obaren pirinač, ohlađen spanać i narendani kačkavalj. Začiniti i dodati sneg od belanaca. Sve lagano izmešati.
 
-U podmazan i prezlom posut vatrostalni sud izručiti pripremljenu masu za koh i staviti u zagrejanu pećnicu. Koh peći na 200 stepeni oko 30 minuta. Poslužiti toplo.
 
-&nbsp;
+U podmazan i prezlom posut vatrostalni sud izručiti pripremljenu masu za koh i staviti u zagrejanu pećnicu. Koh peći na **200 stepeni** **oko 30 minuta**. Poslužiti toplo.
+

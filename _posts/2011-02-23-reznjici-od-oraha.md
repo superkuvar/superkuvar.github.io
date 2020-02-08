@@ -20,7 +20,7 @@ tags:
 ---
 **Potrebno je**:
 
-testo
+**Testo**:
 
   * 250 grama brašna
   * 200 grama maslaca ili margarina
@@ -28,7 +28,7 @@ testo
   * 1 dl mleka
   * pola kockice svežeg kvasca
 
-nadev
+**Nadev**:
 
   * 4 belanca
   * 200 g šećera
@@ -47,8 +47,6 @@ Još vruće režnjiće uvaljati u šećer u prahu.
 
 Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet. Sve lagano izmešati.
 
-&nbsp;
+---
 
-&nbsp;
-
-&nbsp;
+**Cimet** se ovde upotrebljava u prahu. Inače, komadići cimetove kore mogu se stavljati u pića i kompote.

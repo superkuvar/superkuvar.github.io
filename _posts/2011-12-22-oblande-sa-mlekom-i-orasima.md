@@ -38,7 +38,7 @@ Sipati mleko u šerpu da **provri**. Bolje je da koristite **široku šerpu**, k
 
 Zlatasta ili zlano smeđa boje potiče od **karamelizacije šećera**. Ništa novo složićete se.
 
-Porces karamelizacije možete ubrzati ukoliko pojačate vatru na štednjaku, ali pritom morate mešati još intenzivnije kako fil ne bi zagoreo. Sa mešanjem prestati kada varijača ostavlja jasni trag nakon provlačenja kroz fil.
+Porces karamelizacije možete ubrzati ukoliko pojačate vatru na štednjaku, ali pritom morate mešati još intenzivnije kako fil ne bi zagoreo. Sa mešanjem prestati kada varijača ostavlja jasni trag nakon provlačenja kroz fil, kao za puding.
 
 Skloniti fil sa vatre, dodati margarin, vanilin šećer i mlevene orahe pa lagano izmešati.
 

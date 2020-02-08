@@ -22,7 +22,7 @@ tags:
   * 500 g šećera
   * 5 štangli čokolade za kuvanje (od 200 grama)
   * 250 g margarina
-  * oblande &#8211; veće pakovanje
+  * oblande -- veće pakovanje
 
 **Priprema**: u metalnom sudu umutiti varjačom jaja sa šećerom, a zatim kuvati na pari, uz stalno mešanje. Kada se krem zgusne dodati čokoladu. Znaćemo da je dovoljno gust, ako zagrebemo varjačom po dnu posude i pojavi se beli trag na njemu.
 

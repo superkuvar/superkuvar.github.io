@@ -20,7 +20,7 @@ tags:
 ---
 **Potrebno je**:
 
-testo
+**Testo**:
 
   * 150 grama maslaca
   * 250 g oštrog brašna
@@ -30,7 +30,7 @@ testo
   * 1 žumance
   * kora od limuna
 
-fil
+**Fil**:
 
   * mleveni orasi (100 grama)
   * 100 g šećera
@@ -38,7 +38,7 @@ fil
   * suvo grožđe (50 g)
   * 5-6 kašika mleka
 
-premaz
+**Premaz**:
 
   * 5 belanaca
   * 5 kašika šećera
@@ -51,8 +51,10 @@ premaz
 
 Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno. Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
 
-Kolač peći oko 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na štanglice.
+Kolač peći oko **35 minuta** u pećnici zagrejanoj na **180 stepeni**. Kada se kolač ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na štanglice.
 
-&nbsp;
+---
 
-&nbsp;
+**Sneg od belanca**: belanca mutiti u velikoj činiji ručnim mikserom, postepeno povećavajući brzinu. Sneg od belanca biće još čvršći ako se doda malo soli ili nekoliko kapi limuna.
+
+**Savet**: Kada razbijete jaje, ako je žumance uzdignuto polukružno a belance okolo čvrsto, **jaje je sveže**. Staro jaje ima pljosnato žumance i vodnjikavo belance. Kada se jaje stavi u vodu - sveže potone, a staro pliva u vodi. Ako **okrećete jaje**, sveže se brže i pravilno okreće u mestu, dok staro jaje ima manje obrtaja i menja mesto rotacije.

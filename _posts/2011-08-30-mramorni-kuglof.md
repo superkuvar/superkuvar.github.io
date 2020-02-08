@@ -37,7 +37,7 @@ tags:
   * 100 grama čokolade za kuvanje (za glazuru)
   * 50 grama margarina (za glazuru)
 
-<img class="alignnone size-medium wp-image-5436" src="/wp-content/uploads/2011/08/Mramorni-kuglof-1024x768.jpg" alt="Mramorni kuglof" width="300" height="225" /> 
+![Kuglof](/wp-content/uploads/2011/08/Mramorni-kuglof-1024x768.jpg)
 
 **Priprema**: umutiti penasto margarin, postepeno dodajući jaja, šećer, vanilu, koru i sok od limuna. Brašno prosejati zajedno sa praškom za pecivo, pa postepeno dodavati umućenoj masi, uz povremeno dolivanje mleka. Testo podeliti na dva dela, pa u jedan deo umešati kakao.
 
@@ -49,4 +49,8 @@ Pečen kuglof izvaditi iz modle i ostaviti da se ohladi.
 
 U međuvremenu, pripremiti glazuru ovako: u šerpici, na pari ili slaboj vatri, otopiti čokoladu, dodati 50 grama margarina i dobro ujednačiti. Gotovom glazurom preliti kuglof.
 
-Glazura nije neophodna. Kuglof se može posuti samo prah šećerom zamirisanim vanilom.
+**Glazura nije neophodna**. Kuglof se može posuti samo prah šećerom zamirisanim vanilom.
+
+Ako ipak želite da dodateglazuru, možeti koristiti belu glazuru.
+
+**Bela glazura**: 2 belanca mešati (ne tucite) sa 250 g prah šećera ili proceđenom limunovom soku dodajte prah šećera ili smesi belanca i šećera dodajte limunov sok.

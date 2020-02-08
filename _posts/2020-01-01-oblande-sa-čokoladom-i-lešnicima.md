@@ -30,3 +30,6 @@ Potrebno:
 Staviti na plotnu, na laganu vatru da se istopi. Kada se istopi i ujednači dodati prah šećer i pržene i samlevene lešnike. Dobro izmešati i skloniti sa vatre. Kada se masa malo prohladi filovati oblande. 
 
 Pritisnuti nekim težim predmetom i ostaviti da se stegnu i osuše. Pre služenja seći na štanglice.
+
+
+**Lešnici** će imati **izrazitiji miris** ako se prvo proprže (bez masnoće) u teflonskom tiganju, oljušte trljanjem između dlanova, pa tek onda samelju.

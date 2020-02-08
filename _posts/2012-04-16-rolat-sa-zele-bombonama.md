@@ -41,7 +41,7 @@ Glazura
   * 2 kašike šećera
   * komad margarina
 
-<img class="alignnone size-medium wp-image-2961" title="Rolat sa žele bombonama" src="/wp-content/uploads/2012/04/Rolat-sa-žele-bombonama-1024x768.jpg" alt="" width="300" height="225" /> 
+![Rolat žele svi](/wp-content/uploads/2012/04/Rolat-sa-žele-bombonama-1024x768.jpg)
 
 **Priprema**: penasto umutiti jaja sa šećerom, pa dodati jednu po jednu kašiku brašna, lagano mešajući varjačom. Masu sipati u četvrtast pleh (za rernu) prekriven papirom za pečenje. Peći na 180 stepeni 15-20 minuta. Ispečenu koru za rolat izručiti na vlažnu platnenu salvetu ili na veći papir posut kristal šećerom i uviti.
 

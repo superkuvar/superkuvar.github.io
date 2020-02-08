@@ -20,7 +20,7 @@ tags:
 ---
 **Potrebno je**:
 
-testo
+**Testo**:
 
   * 1/2 kg brašna
   * 250 g maslaca ili margarina
@@ -28,13 +28,13 @@ testo
   * 3 kašike šećera
   * 1 čaša belog vina
 
-fil
+**Fil**:
 
   * 250 g mlevenih oraha
   * 250 g šećera
   * marmelada od kajsija ili jagoda
 
-glazura
+**Glazura**:
 
   * 100 grama šećera
   * 100 grama čokolade
@@ -49,12 +49,11 @@ Prvi deo testa rastanjiti oklagijom u koru, da odgovara veličini pleha u kome �
 
 Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni. Pečen kolač ostaviti da se ohladi, a zatim ga preliti glazurom.
 
-Glazuru pripremiti na sledeći način: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med.
+**Čoko glazura**: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med.
 
 Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati. Kada se glazura ohladi kolač iseći na manje kocke.
 
-&nbsp;
+Možete koristiti i mlečnu glazuru **bez kafe**:
 
-&nbsp;
+**Mlečna čoko glazura**: promešajte na niskoj temperaturi 2,5 kašike šećera, 2,5 kašike mleka i 70 g čokolade. U glatku masu dodajte 50 g putera. 
 
-&nbsp;
