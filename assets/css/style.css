@@ -716,7 +716,11 @@ form{
       -webkit-border-radius: 10px;
      font-size: 20px;
   }
-    
+
+/* index page */
+ul.cat > li {
+    line-height:26px;
+}
 
 
 @media print,

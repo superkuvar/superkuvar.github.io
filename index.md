@@ -22,7 +22,7 @@ font-size: 20px;
 </style>
 
 
-<div style="clear:both; padding-top:20px">
+<div style="clear:both; padding-top:20px;line-height:26px">
 <h2>Kategorije:</h2>
 <a href="#salate">SALATE</a> * 
 <a href="#prelivi za salate">PRELIVI ZA SALATE</a> * 
@@ -60,7 +60,7 @@ font-size: 20px;
  
   <h3 id="{{ category[0] }}">{{ category[0] | upcase }} ({{ category[1].size }})</h3>
   
-  <ul>
+  <ul class="cat">
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
