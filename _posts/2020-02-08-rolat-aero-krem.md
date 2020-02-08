@@ -1,11 +1,11 @@
 ---
 id: 3272
-title: AERO KREM ŠRUDLA
+title: AERO KREM ROLAT
 date: 2012-05-25T14:28:37+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=3272
-permalink: /štrudla-aero-krem/
+permalink: /rolat-aero-krem/
 published: false
 totvreme:
   - ""

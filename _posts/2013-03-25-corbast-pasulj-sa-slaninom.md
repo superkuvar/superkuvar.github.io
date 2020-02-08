@@ -6,12 +6,8 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5517
 permalink: /čorbast-pasulj-sa-slaninom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description: Savršen recept za čorbast pasulj sa slaninom. Za spremanje ovog jela potrebno je pripremiti pasulj, slaninu, beli i crni luk, začine  
+keywords: čorbast pasulj, slanina, čorbast pasulj sa slaninom, pasulj, super recept, slanina
 image: /wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-940x198.jpg
 categories:
   - jela od mesa
