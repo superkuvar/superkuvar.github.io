@@ -55,12 +55,6 @@ font-size: 20px;
 
 ---
 
-{% for category in site.categories %}
-<!-- 
-  <h3 id="{{ category[0] }}">{{ category[0] | upcase }} ({{ category[1].size }})</h3>
- -->
-{% endfor %}
-
 
 {% for category in site.categories %}
  
@@ -73,3 +67,6 @@ font-size: 20px;
   </ul>
 {% endfor %}
 
+---
+
+<a href="/poslovi-u-kuhinji/">POSLOVI U KUHINjI</a>
