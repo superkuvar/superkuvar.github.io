@@ -30,7 +30,7 @@ tags:
 * 2 kašike brašna  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9573" src="/wp-content/uploads/2015/03/pasuljsakoprivom-1024x768.jpg" alt="pasuljsakoprivom" width="300" height="225" />](/wp-content/uploads/2015/03/pasuljsakoprivom-e1430746126811.jpg)
+![pasulj sa koprivom](/wp-content/uploads/2015/03/pasuljsakoprivom-1024x768.jpg)
 
 **Priprema**: pasulj oprati i preko noći ostaviti potopljen u vodi. Ujutru ga ocediti, naliti hladnom vodom i staviti da se kuva. Kada pasulj proključa ocediti vodu, naliti drugu i nastaviti sa kuvanjem.
 
@@ -40,4 +40,4 @@ Kada pasulj omekša dodati mu zapršku pripremljenu od ulja, brašna, sitno isec
 
 Uz pasulj poslužiti salatu.
 
-Zanimljivost: kopriva je svima poznata kao biljka koja žari. A šta je to što žari? Kopriva, odnosno njeno stablo i lišće prekriveni su dlačicama koje se u kontaktu sa kožom pretvaraju u iglice koje u kožu ubacuju hemikalije: histamin, mravlju kiselinu, acetilholin i serotonin., što dovodi do osećaja utrnulosti i peckanja.
+**Zanimljivost**: kopriva je svima poznata kao biljka koja žari. A šta je to što žari? Kopriva, odnosno njeno stablo i lišće prekriveni su dlačicama koje se u kontaktu sa kožom pretvaraju u iglice koje u kožu ubacuju hemikalije: histamin, mravlju kiselinu, acetilholin i serotonin, što dovodi do osećaja utrnulosti i peckanja.

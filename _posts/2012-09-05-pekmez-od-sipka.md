@@ -7,8 +7,6 @@ layout: post
 guid: http://superkuvar.com/?p=4213
 permalink: /pekmez-od-šipurka/
 redirect_from: /pekmez-od-šipka/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/09/Pekmezodsipka-940x198.jpg
 categories:
   - slatka zimnica
@@ -21,7 +19,8 @@ tags:
   * 5 kilograma šipurka (šipak)
   * 2 kilograma šećera
 
-<img class="alignnone size-medium wp-image-4214" title="Pekmezodsipka" src="/wp-content/uploads/2012/09/Pekmezodsipka-1024x768.jpg" alt="" width="300" height="225" /> 
+![Pekmez od šipurk
+](/wp-content/uploads/2012/09/Pekmezodsipka-1024x768.jpg)
 
 **Priprema**: oprati krupne zrele šipke, odseći im peteljke i crne kapice. Svaki prepoloviti oštrim nožićem i očistiti od semeniki i dlačica. Očišćen šipak oprati u hladnoj vodi, ocediti i ostaviti poklopljen u šerpi da prenoći. Sutradan ga preliti hladnom vodom da ogrezne i kuvati, stalno mešajući varjačom.
 
