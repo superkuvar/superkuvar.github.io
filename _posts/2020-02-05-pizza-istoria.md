@@ -4,7 +4,7 @@ title: ISTORIJA PIZZA
 date: 2020-01-05
 author: slava b
 layout: post
-permalink: /pizza-storia/
+permalink: /pizza-istoria/
 published: true
 categories:
    - pizza
