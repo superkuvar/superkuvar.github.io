@@ -5,7 +5,7 @@ date: 2012-09-05T07:33:36+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=4213
-permalink: /pekmez-od-šipka/
+permalink: /pekmez-od-šipurka/
 totvreme:
   - ""
 image: /wp-content/uploads/2012/09/Pekmezodsipka-940x198.jpg
@@ -17,7 +17,7 @@ tags:
 ---
 **Potrebno je**:
 
-  * 5 kilograma šipka (šipurak)
+  * 5 kilograma šipurka (šipak)
   * 2 kilograma šećera
 
 <img class="alignnone size-medium wp-image-4214" title="Pekmezodsipka" src="/wp-content/uploads/2012/09/Pekmezodsipka-1024x768.jpg" alt="" width="300" height="225" /> 
