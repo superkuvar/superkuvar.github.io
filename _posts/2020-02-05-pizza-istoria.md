@@ -11,7 +11,6 @@ categories:
 tags:
    - istorija
 ---
-
 Još **500 godina** pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) jeli su tanki opečeni hleb začinjen maslinovim uljem i začinima.
 
 ![grcka](/wp-content/uploads/2020/02/pizza.gr.jpg)
