@@ -12,9 +12,9 @@ tags:
    - istorija
 ---
 
-Još 500 godina pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) su jeli tanki opečeni hleb začinjen maslinovim uljem i začinima.
+Još **500 godina** pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) jeli su tanki opečeni hleb začinjen maslinovim uljem i začinima.
 
-Veruje se da su siromašni grčki doseljenici doneli prvu **_baka pizzu_** u Italiju.
+Veruje se da su siromašni grčki doseljenici doneli ovaj hleb, prvu **_baka pizzu_** u Italiju.
 
 Ostaje zapisano da je reč "pizza" na lokalnom dijalektu latinskog jezika u okolini Sicilije i Calabrije označavala niske hlebne pogače.
 
@@ -26,7 +26,7 @@ Pizza s nadjevom od maslinova ulja, seckana luka i soli, smatra se najstarijim p
 
 Pizza se rodila kad i ideja da se sirovo **nepečeno** tanko testo za pogaču prvo začini lukom, sirom, slanom ribom, a potom peče.
 
-Današnja pizza je nastala u Napulju (Napoli) Italija. Zato se i smatra da je Napulj odakle se pizza raširila po čitavom svetu, presnonica pizze.
+Kako je prva pizzeria nastala u Napulju (Napoli), smatra se da je Napulj prestonica pice. Iz Napulja se pizza raširila po čitavom svetu.
 
 **Napomena**: u početku pizza je bila jelo najsiromašnijih slojeva, sa malo sastojaka u nadjevu. Danas, pizza spada u red privilegovanih jela koja čak ima i svoj tip restorana.
 
