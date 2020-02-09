@@ -12,16 +12,15 @@ tags:
    - istorija
 ---
 
-## Istorija pizze
+Još 500 godina pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) su jeli tanki opečeni hleb začinjen maslinovim uljem i začinima.
 
+Veruje se da su siromašni grčki doseljenici doneli prvu **_baka pizzu_** u Italiju.
 
-Još 500 godina pre nove ere narodi u sredozemlju i oko mediterana (današnji prostor grčke) su jeli tanki opečeni hleb začinjen maslinovim uljem i začinima.
+Ostaje zapisano da je reč "pizza" na lokalnom dijalektu latinskog jezika u okolini Sicilije i Calabrije označavala niske hlebne pogače.
 
-Veruje se da su siromašni grčki naseljenici doneli ovu baka pizzu u Napulj (Italija).
+Upravo od ovih **niskih hlebnih pogača** razvile su se današnje pizze.
 
-"Pizza" na lokalnom dijalektu latinskog jezika u okolini Sicilije i Calabrije označavala je niske hlebne pogače. Upravo od ovih **niskih hlebnih pogača** razvile su se današnje pizze.
-
-U Napulju 1830. godine poslovala je prva pizeria kakve ih danas imamo. Pre te godine, pizerije su postojale samo kao tezge na otvorenom. Ova picerija radi i dan danas pod imenom: [Antica Pizzeria Port'Alba](https://en.wikipedia.org/wiki/Antica_Pizzeria_Port%27Alba){rel="nofollow"}.
+U Napulju 1830. godine poslovala je prva pizeria kakve danas imamo. Pre te godine, pizerije su postojale samo kao tezge na otvorenom. Ova picerija radi i dan danas pod imenom: [Antica Pizzeria Port'Alba](https://en.wikipedia.org/wiki/Antica_Pizzeria_Port%27Alba){:rel="nofollow"}.
 
 Pizza s nadjevom od maslinova ulja, seckana luka i soli, smatra se najstarijim poznatim načinom pripremanja pizze.
 
