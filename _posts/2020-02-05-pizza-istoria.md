@@ -14,6 +14,8 @@ tags:
 
 Još **500 godina** pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) jeli su tanki opečeni hleb začinjen maslinovim uljem i začinima.
 
+![grcka](/wp-content/uploads/2020/02/pizza.gr.jpg)
+
 Veruje se da su siromašni grčki doseljenici doneli ovaj hleb, prvu **_baka pizzu_** u Italiju.
 
 Ostaje zapisano da je reč "pizza" na lokalnom dijalektu latinskog jezika u okolini Sicilije i Calabrije označavala niske hlebne pogače.
