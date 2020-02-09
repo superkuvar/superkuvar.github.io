@@ -64,7 +64,7 @@ Napomena:  **mozzarella**, je speicjalan sir koji se pravio od bivoljeg, ili kra
 **Pizza margerita**: mozzarella, ribani ovčji sir,
 mlad bosiljak.
 
-**Napomena**: najslavnijom pizzom smatra se pizza margerita. Za nju legenda kaže da je nastala 9.6.1889. godine, za vrijeme posjete Napulju talijanskog kralja Umberta prvog i kraljice Margherite. Prema legendi, kraljevski par zaželio pizzu. Njima su u čast, tada najčuveniji napuljski _**pizzaiolo**_(pekar pizza), don Raffaele Esposi i njegova supruga donna Rosa su smislili novu pizzu. Njen je nadjev bio obojen u skladu s talijanskom zastavom. 
+**Napomena**: najslavnijom pizzom smatra se pizza margerita. Za nju legenda kaže da je nastala 9.6.1889. godine, za vrijeme posjete Napulju talijanskog kralja Umberta prvog i kraljice Margherite. Prema legendi, kraljevski par zaželio pizzu. Njima su u čast, tada najčuveniji napuljski _**pizzaiolo**_ (pekar pizza), don Raffaele Esposi i njegova supruga donna Rosa su smislili novu pizzu. Njen je nadjev bio obojen u skladu s talijanskom zastavom. 
 
 Pizza margerita ima tri prevladavajuće boje: crvenu od paradaza (rajčice), belo-žutu od sira i zelenu od svježeg bosiljka.
 
