@@ -47,11 +47,15 @@ Napomena: Iako **svaka pizzeria** ima **poseban recept** pravljenja ovih _čuven
 Ipak, postoji jedna konstanta. U pizzu gotovo uvek ide paradajz, najčešće seckan ili tečan.
 
 ### Napoletana
+![pizza siciliana](/wp-content/uploads/2020/02/pizza.napoletana.jpg)
 
 **Pizzu napoletana**: karakteriše je beli luk (češnjak).
 
 
 ### Siciliana
+
+![pizza siciliana](/wp-content/uploads/2020/02/pizza.siciliana.jpg)
+
 **Pizza siciliana**: ribani ovčji sir, slana riba, crne masline, zelene masline, kapari, origano.
 
 ### Romana
@@ -62,6 +66,9 @@ Napomena:  **mozzarella**, je speicjalan sir koji se pravio od bivoljeg, ili kra
 ![mozzarella](/wp-content/uploads/2020/02/pizza.mozzarella.jpg)
 
 ### Margerita
+
+![margerita](/wp-content/uploads/2020/02/pizza.margerita.jpg)
+
 **Pizza margerita**: mozzarella, ribani ovčji sir,
 mlad bosiljak.
 
