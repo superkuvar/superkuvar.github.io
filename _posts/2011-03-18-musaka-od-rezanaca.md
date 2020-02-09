@@ -27,16 +27,16 @@ tags:
   * ulje
   * mileram
 
-**Priprema**: rezance skuvati prema uputstvu na ambalaži, a zatim ocediti. Crni luk očistiti, oprati, iseckati na rebarca, pa ga malo propržiti na ulju da postane staklast. U propržen luk dodati mleveno meso, biber i so i pržiti 2-3 minuta.
+**Priprema**: rezance skuvati prema uputstvu na ambalaži, a zatim ocediti. **Crni luk** očistiti, oprati, iseckati na rebarca, pa ga malo propržiti na ulju da postane staklast. U propržen luk dodati mleveno meso, biber i so i **pržiti 2-3 minuta**.
 
-Posudu za pečenje podmazati uljem, pa zatim ređati red rezanaca, red mesa, dok se ne utroši materijal. U poslednjem redu treba da budu rezanci. Umutiti jaja sa mileramom i preliti preko musake.
+Posudu za pečenje podmazati uljem, pa zatim ređati **red rezanaca, red mesa**, dok se ne utroši materijal. U poslednjem redu treba da budu rezanci. **Umutiti jaja sa mileramom** i preliti preko musake.
 
-Musaku zapeći 15 minuta u pećnici zagrejanoj na 180 stepeni. Musaku poslužiti toplu.
+Musaku **zapeći 15 minuta** u pećnici zagrejanoj na 180 stepeni. Musaku poslužiti toplu.
 
 ---
 
-**Mileram** je obrana mlečna mast iz svežeg mleka. Obično sadrži od 22% do 30% mlečne masti. Ima kiselkast ukus, kremastu strukturu i koristi se u mnogim jelima.
+**Mileram** je obrana mlečna mast iz svežeg mleka. Obično sadrži od 22% do 30% mlečne masti. Ima čvrstu kremastu strukturu, kiselkast ukus i koristi se u mnogim jelima.
 
 **Razlika** izmedju **pavlake i milerama**. Pavlaka ima do 20 odsto sadržaja mlečne masti a mileram iznad toga.
 
-**Vrhnje** je drugo ime za pavlaku i mileram zajedno.
+**Vrhnje** je drugo ime za pavlaku i mileram i kajmak zajedno. Originalno ime očito ukazuje da ono što je navrh mleka - kajmak.
