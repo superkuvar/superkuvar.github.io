@@ -44,7 +44,7 @@ Najčuvenije pizze su:
 
 Napomena: Iako **svaka pizzeria** ima **poseban recept** pravljenja ovih _čuvenih_ pizza, koji je prilično sličan, ponekad postoje i značajne razlike. Nemojte se stoga iznenaditi.
 
-Ipak, postoji jedna konstanta. U pizzu gotovo uvek ide paradaiz (rajčica), najčešće seckan ili tečan (kečap).
+Ipak, postoji jedna konstanta. U pizzu gotovo uvek ide paradajz, najčešće seckan ili tečan.
 
 ### Napoletana
 
