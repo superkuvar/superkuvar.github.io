@@ -40,3 +40,5 @@ Musaku **zapeći 15 minuta** u pećnici zagrejanoj na 180 stepeni. Musaku poslu�
 **Razlika** izmedju **pavlake i milerama**. Pavlaka ima do 20 odsto sadržaja mlečne masti a mileram iznad toga.
 
 **Vrhnje** je drugo ime za pavlaku i mileram i kajmak zajedno. Originalno ime očito ukazuje da ono što je navrh mleka - kajmak.
+
+

@@ -10,7 +10,7 @@ totvreme:
   - ""
 image: /wp-content/uploads/2013/07/Štrudla-sa-jabukama-940x198.jpg
 categories:
-  - kalači
+  - kolači
 tags:
   - brašno
   - cimet
@@ -38,7 +38,7 @@ tags:
   * kora od limuna
   * šećer u prahu
 
-<img class="alignnone size-medium wp-image-5942" src="/wp-content/uploads/2013/07/Štrudla-sa-jabukama-1024x768.jpg" alt="Štrudla sa jabukama" width="300" height="225" /> 
+![Štrudla sa jabukama](/wp-content/uploads/2013/07/Štrudla-sa-jabukama-1024x768.jpg)
 
 **Priprema**: izmrvljen kvasac staviti u lonče sa toplim mlekom, dodati kašičicu šećera i kašiku brašna, lagano izmešati i ostaviti na toplom da nadođe.
 
