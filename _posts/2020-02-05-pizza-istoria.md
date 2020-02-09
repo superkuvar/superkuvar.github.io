@@ -23,7 +23,7 @@ Upravo od ovih **niskih hlebnih pogača** razvile su se današnje pizze.
 
 U Napulju 1830. godine poslovala je prva pizeria kakve danas imamo. Pre te godine, pizerije su postojale samo kao tezge na otvorenom. Ova picerija radi i dan danas pod imenom: [Antica Pizzeria Port'Alba](https://en.wikipedia.org/wiki/Antica_Pizzeria_Port%27Alba){:rel="nofollow"}.
 
-Pizza s nadjevom od maslinova ulja, seckana luka i soli, smatra se najstarijim poznatim načinom pripremanja pizze.
+Pizza sa nadevom od maslinova ulja, seckana luka i soli, smatra se najstarijim poznatim načinom pripremanja pizze.
 
 Pizza se rodila kad i ideja da se sirovo **nepečeno** tanko testo za pogaču prvo začini lukom, sirom, slanom ribom, a potom peče.
 
