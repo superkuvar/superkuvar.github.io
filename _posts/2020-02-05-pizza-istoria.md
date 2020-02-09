@@ -68,5 +68,5 @@ mlad bosiljak.
 
 Pizza margerita ima tri prevladavajuće boje: crvenu od paradaza (rajčice), belo-žutu od sira i zelenu od svježeg bosiljka.
 
-![boje](/wp-content/uploads/2020/02/pizza.flag.jpg)
+![boje pizze](/wp-content/uploads/2020/02/pizza.flag.jpg)
 
