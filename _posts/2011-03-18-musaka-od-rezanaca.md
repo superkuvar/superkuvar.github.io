@@ -33,4 +33,10 @@ Posudu za pečenje podmazati uljem, pa zatim ređati red rezanaca, red mesa, dok
 
 Musaku zapeći 15 minuta u pećnici zagrejanoj na 180 stepeni. Musaku poslužiti toplu.
 
-&nbsp;
+---
+
+**Mileram** je obrana mlečna mast iz svežeg mleka. Obično sadrži od 22% do 30% mlečne masti. Ima kiselkast ukus, kremastu strukturu i koristi se u mnogim jelima.
+
+**Razlika** izmedju **pavlake i milerama**. Pavlaka ima do 20 odsto sadržaja mlečne masti a mileram iznad toga.
+
+**Vrhnje** je drugo ime za pavlaku i mileram zajedno.
