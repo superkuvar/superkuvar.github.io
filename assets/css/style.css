@@ -792,6 +792,10 @@ screen and (max-width: 480px) {
     ul.cat > li {
         line-height:26px;
     }
+
+    div.h-ad{
+        display:none;
+    }
 }
 
 @media print {
