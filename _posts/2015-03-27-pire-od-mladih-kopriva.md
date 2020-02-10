@@ -16,15 +16,15 @@ tags:
   - brašno
   - koprive
 ---
-**Potrebno je**:  
-* 1 kilogram mladih kopriva  
-* 2 ravne kašike brašna  
-* 3 čena belog luka  
-* so  
-* biber  
+**Potrebno je**:
+* 1 kilogram mladih kopriva
+* 2 ravne kašike brašna
+* 3 čena belog luka
+* so
+* biber
 * ulje
 
-[<img class="alignnone size-medium wp-image-9570" src="/wp-content/uploads/2015/03/pireodmladihkopriva-1024x768.jpg" alt="pireodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/pireodmladihkopriva-e1430745927247.jpg)
+![pire od mladih kopriva](/wp-content/uploads/2015/03/pireodmladihkopriva-1024x768.jpg)
 
 **Priprema**: koprive očistiti, dobro oprati i preliti ključalom vodom, a zatim ocediti. Kada se koprive ohlade sitno ih iseckati.
 

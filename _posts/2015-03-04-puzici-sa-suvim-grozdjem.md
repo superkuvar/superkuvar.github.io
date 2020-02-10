@@ -30,7 +30,7 @@ tags:
   * na vrh noža soli
   * suvo grožđe (150 g)
 
-[<img class="alignnone size-medium wp-image-9476" src="/wp-content/uploads/2015/03/puzicisasuvimgrozđem-1024x768.jpg" alt="puzicisasuvimgrozđem" width="300" height="225" />](/wp-content/uploads/2015/03/puzicisasuvimgrozđem.jpg)
+![puzici sa suvim grozđem](/wp-content/uploads/2015/03/puzicisasuvimgrozđem-1024x768.jpg)
 
 **Priprema**: u malo toplog mleka u koje je dodata kašičica šećera i malo brašna staviti izmrvljen kvasac i ostaviti dvadesetak minuta da nadođe.
 
