@@ -26,8 +26,27 @@ tags:
 
 Raskuvan i mekan šipak prohladiti i ispasirati. Ispasiranu masu vratiti u čistu šerpu i dodati šećer. Pekmez kuvati na jačoj vatri, uz stalno mešanje, dok se ne zgusne. Ako je pre kuvanja masa bila dosta gusta, onda je pekmezu dovoljno 30 minuta kuvanja.
 
-Vruć pekmez sipati u sterilisane zagrejane tegle i staviti u mlaku pećnicu da se uhvati korica. Sutradan tegle povezati celofanom ili zatvoriti poklopcem.
+Vruć pekmez sipati u **sterilisane zagrejane** tegle i staviti u mlaku pećnicu da se uhvati korica. Sutradan tegle povezati celofanom ili zatvoriti poklopcem.
 
-**Napomena**:   postoji i lakši način pripreme ovog pekmeza &#8211; šipak očišćen od drščica oprati, staviti u šerpu, naliti vodom i kuvati dok ne omekša. Kad se prohladi ispasirati ga i u dobijenu masu staviti šećer, pa kuvati dok se ne zgusne. Na kilogram dobijene mase ide kilogram šećera.
+## Lakši način priperme pekmeza
 
-Prethodni način je zahtevniji i oduzima više vremena, ali je pekmez čistiji i bez dlačica.
+Šipak očišćen od drščica oprati, staviti u šerpu, naliti vodom i kuvati dok ne omekša. Kad se prohladi ispasirati ga i u dobijenu masu staviti šećer, pa kuvati dok se ne zgusne. Na kilogram dobijene mase ide kilogram šećera.
+
+**Tip**: Prvi način je zahtevniji i oduzima više vremena, ali je pekmez čistiji i **bez dlačica**.
+
+---
+
+## Razlika izmđu pekmeza, džema i marmelade i želea.
+
+**Pekmez** sadrži visok udeo voća (jedne ili više vrsta) i malo šećera. Po velikoj količini voća i manjoj količini šećera razlikuje se od žema.
+
+**Džem** je želatiran i sadrži voćnu pulpu i/ili voćnu kašu i veću količinu šećera.
+
+**Marmelada** je glatka tekstura bez komadića voća. Najčešće se pravi od limuna, pomorandže iz njihove pulpe ili kaše ili kore sa još manjim udelom voća u odnosu na džem.
+
+**Žele** sadrži samo voćni sok (vodeni ekstrakt voća) i šećer, ne i pulpu, kašu i koru. Sadrži najmanji udeo voća.
+
+
+**Voćna pulpa**: jestivi delovi plodova rezani, sečeni ali ne kašasti.
+
+**Voćna kaša**: pasirano voće u kašu.
