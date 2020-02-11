@@ -798,6 +798,11 @@ screen and (max-width: 480px) {
     }
 }
 
+/* recepti meseca */
+div.r-mes{
+margin-bottom: 10px;
+}
+
 @media print {
     body {
         padding: 0.4in;
