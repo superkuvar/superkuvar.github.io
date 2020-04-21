@@ -29,7 +29,7 @@ tags:
   * biber
   * paradaiz
 
-![salata od spargli i jaja](/wp-content/uploads/2011/02/jaja.spargle.jpg)
+![salata od špargli i jaja](/wp-content/uploads/2011/02/jaja.spargle.jpg)
 
 
 **Priprema**: špargle oljuštiti, oprati i iseći na komade. U lonac sipati litar vode i malo soli, pa staviti na štednjak. Kada voda provri dodati špargle i kašiku šećera. Kuvati oko pola sata na srednjoj temperaturi. Ocediti špargle od vode i ostaviti da se ohlade. Obariti jaja, da budu tvrdo kuvana, oljuštiti i iseći na kolutove.
