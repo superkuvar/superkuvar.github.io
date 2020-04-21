@@ -38,4 +38,3 @@ tags:
 
 Salatu poslužiti uz hleb i maslac.
 
-&nbsp;
