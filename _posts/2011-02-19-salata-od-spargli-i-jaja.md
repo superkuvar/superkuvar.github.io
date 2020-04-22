@@ -18,7 +18,6 @@ tags:
 **Potrebno je**:
 
   * 1 kilogram špargli
-  * so
   * kašika šećera
   * 3 jajeta
   * pola vezice peršunovog lista
@@ -26,6 +25,7 @@ tags:
   * 2 kašike ulja
   * biber
   * paradaiz
+  * so
 
 ![salata od špargli i jaja](/wp-content/uploads/2011/02/jaja.spargle.jpg)
 
