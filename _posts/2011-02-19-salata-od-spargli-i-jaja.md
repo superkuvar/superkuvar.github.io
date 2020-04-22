@@ -15,7 +15,7 @@ tags:
   - jaja
   - špargle
 ---
-**Potrebno je**:
+**Potrebno je **:
 
   * 1 kilogram špargli
   * kašika šećera
