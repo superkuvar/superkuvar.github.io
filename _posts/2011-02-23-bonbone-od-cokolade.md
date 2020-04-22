@@ -17,7 +17,7 @@ tags:
   - rum
   - višnje
 ---
-**Potrebno je**:
+**Potrebno**:
 
   * 150 grama čokolade za jelo i kuvanje
   * 150 g mlevenih oraha
