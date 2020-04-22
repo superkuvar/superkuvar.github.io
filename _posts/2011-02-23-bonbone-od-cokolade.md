@@ -38,4 +38,4 @@ Ostaviti da se bombice prosuše, a zatim ih staviti u papirne korpice i služiti
 
 U vreme praznika i slava naše trpeze su uvek pune. Neizostavni deo praznične trpeze su i sitni kolači. Ovo je recept za jedan jednostavan, a ukusan kolač.
 
-&nbsp;
+
