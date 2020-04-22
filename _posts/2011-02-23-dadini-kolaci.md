@@ -14,8 +14,7 @@ tags:
   - kafa
   - marmelada
   - maslac
-  - orasi
-  - vino
+  - orasi  
   - žumanca
 ---
 **Potrebno je**:
@@ -55,5 +54,5 @@ Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati. Kada se 
 
 Možete koristiti i mlečnu glazuru **bez kafe**:
 
-**Mlečna čoko glazura**: promešajte na niskoj temperaturi 2,5 kašike šećera, 2,5 kašike mleka i 70 g čokolade. U glatku masu dodajte 50 g putera. 
+**Mlečna čoko glazura**: promešajte na niskoj temperaturi 2,5 kašike šećera, 2,5 kašike mleka i 70 g čokolade. U glatku masu dodajte 50 g putera..
 
