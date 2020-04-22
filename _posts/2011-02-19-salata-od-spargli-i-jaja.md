@@ -6,8 +6,6 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=5
 permalink: /salata-od-spargli-i-jaja/
-totvreme:
-  - ""
 categories:
   - salate
 tags:
