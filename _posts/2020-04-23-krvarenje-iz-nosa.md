@@ -1,7 +1,7 @@
 ---
 id: 5
 title: KRVARENJE IZ NOSA
-date: 2011-02-19T15:53:36+00:00
+date: 2020-04-23T15:53:36+00:00
 author: batalex
 layout: post
 permalink: /krvarenje-iz-nosa/
@@ -9,11 +9,7 @@ published: true
 categories:
   - zdravlje
 tags:
-  - peršunov list
-  - sirće
-  - paradaiz
-  - jaja
-  - špargle
+  - zdravlje
 ---
 - [Bez panike](#bez-panike)
 - [Stari babski lek (od dugmadi i braon papira)](#stari-babski-lek-od-dugmadi-i-braon-papira)
