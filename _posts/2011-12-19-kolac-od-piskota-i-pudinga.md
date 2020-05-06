@@ -28,6 +28,8 @@ tags:
 
 **Priprema**: na poslužavnik poređati piškote, a zatim ih poprskati mlekom i rumom. U šerpici razmutiti prašak za puding sa malo mleka. Ostatak mleka sa šećerom staviti na štednjak da se kuva. Kad mleko provri skloniti ga se ringle i zakuvati puding, vratiti na štednjak i kuvati još minut-dva.
 
+![piskote kolač](/wp-content/uploads/2020/05/piskote-puding.jpg)
+
 Vreo puding preliti preko piškota, poređati opet piškote, poprskati ih mlekom i rumom, pa premazati pudingom. Kolač staviti u frižider da se ohladi.
 
 Pred služenje preko pudinga premazati umućeni šlag ili slatku pavlaku, a zatim kolač iseći na pravougaone komade.
