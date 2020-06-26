@@ -13,8 +13,8 @@ tags:
 ---
 - [Bez panike](#bez-panike)
 - [Stari babski lek (od dugmadi i braon papira)](#stari-babski-lek-od-dugmadi-i-braon-papira)
-- [Moć prevencije](#mo%c4%87-prevencije)
-- [Razlozi javljanja](#razlozi-javljanja)
+- [Moć prevencije](#moć-prevencije)
+- [Zašto se javlja?](#zašto-se-javlja)
 - [Da li pozvati lekara?](#da-li-pozvati-lekara)
 
 
@@ -55,7 +55,7 @@ Ako želite da izbegnete krvarenje iz nosa, potrebno je da žavate sluzokožu vl
 * Ako često imate problema sa krvarenjem iz nosa, uključite u svoju ishranu dosta namirnica bogatih vitaminom C. Odlučite se za pomorandže, grejpfrut, kivi i mnogo zeleniša. Takođe bi ste mogli da uzimate suplemente. Uzimajte do 1.000 mg vitamina C svakog dana. Vitamin C pomaže da se ojačaju zidovi kapilara, a uz to je i ključni sastojak kolagena, supstance koja oblaže vaše nozdrve vlažnim, zaštitnim slojem. Uporedo sa vitaminom C, svakodnevno uzimajte 500 mg suplemenata bioflavonoida, kao što su ekstrakt semenki grožđa, ekstrakt kore bora, pikogenol ili proantocijanidini. Flavonoidi su poznati po tome što leče kapilare.
 
  
-## Razlozi javljanja
+## Zašto se javlja?
 
 Krvarenje iz nosa se, kod osoba koje su mu sklone, u većini slučajeva javlja bez ikakvog očiglednog razloga.
 
