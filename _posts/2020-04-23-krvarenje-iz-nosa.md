@@ -22,7 +22,7 @@ tags:
 
 Ona se obično javljaju u najnezgodnjim trenucima, a iznenadno šikljanje krvi iz vašeg nosa može biti i posramljujuće i zastrašujuće, posebno jer kada natapa maramicu za maramicom, ta mala količina krvi može delovati kao da su u pitanju galoni. Nemojte, ipak, paničiti.
 
-![krv iz nosa](/wp-content//uploads/2020/04/krv-iz-nosa.jpg)
+![krv iz nosa](/wp-content/uploads/2020/04/krv-iz-nosa.jpg)
 
 
 
