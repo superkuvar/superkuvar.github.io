@@ -27,7 +27,7 @@ tags:
 * biber  
 * ulje
 
-[<img class="alignnone size-medium wp-image-10719" src="/wp-content/uploads/2015/12/testeninasablitvom-1024x768.jpg" alt="testeninasablitvom" width="300" height="225" />](/wp-content/uploads/2015/12/testeninasablitvom-e1448954785480.jpg)
+![<img class="alignnone size-medium wp-image-10719" src="/wp-content/uploads/2015/12/testeninasablitvom-1024x768.jpg" alt="testeninasablitvom" width="300" height="225" />](/wp-content/uploads/2015/12/testeninasablitvom-e1448954785480.jpg)
 
 **Priprema**: očistiti i oprati crni luk, šargarepu i celer. Crni luk iseći na listiće a šargarepu i celer izrendati. U šerpu sipati ulje, pa kad se malo zagreje dodati isečen crni luk i izrendanu šargarepu i celer i na slabijoj vatri dinstati dok ne omekša.
 

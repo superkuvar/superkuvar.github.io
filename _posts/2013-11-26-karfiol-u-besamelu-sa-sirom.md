@@ -31,7 +31,7 @@ tags:
   * 2 žumanca
   * 6-7 dl vode u kojoj se kuvao karfiol
 
-[<img class="alignnone size-medium wp-image-6294" src="/wp-content/uploads/2013/11/Karfiolubesamelusasirom-1024x768.jpg" alt="Karfiolubesamelusasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Karfiolubesamelusasirom.jpg)
+![<img class="alignnone size-medium wp-image-6294" src="/wp-content/uploads/2013/11/Karfiolubesamelusasirom-1024x768.jpg" alt="Karfiolubesamelusasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Karfiolubesamelusasirom.jpg)
 
 **Priprema**: karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
 

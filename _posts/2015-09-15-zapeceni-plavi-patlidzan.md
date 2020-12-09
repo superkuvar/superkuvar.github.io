@@ -28,7 +28,7 @@ tags:
 * bosiljak  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9738" src="/wp-content/uploads/2015/09/zapeceniplavipatlidzan-1024x768.jpg" alt="zapeceniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2015/09/zapeceniplavipatlidzan-e1442296299168.jpg)
+![<img class="alignnone size-medium wp-image-9738" src="/wp-content/uploads/2015/09/zapeceniplavipatlidzan-1024x768.jpg" alt="zapeceniplavipatlidzan" width="300" height="225" />](/wp-content/uploads/2015/09/zapeceniplavipatlidzan-e1442296299168.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći na kolutove, posoliti i ostaviti da odstoji oko 30 minuta. Nakon toga plavi patlidžan dobro ocediti između dlanova.
 

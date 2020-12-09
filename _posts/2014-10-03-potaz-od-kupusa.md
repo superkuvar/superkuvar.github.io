@@ -35,7 +35,7 @@ tags:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-9272" src="/wp-content/uploads/2014/10/Potazodkupusa-1024x768.jpg" alt="Potazodkupusa" width="300" height="225" />](/wp-content/uploads/2014/10/Potazodkupusa.jpg)
+![<img class="alignnone size-medium wp-image-9272" src="/wp-content/uploads/2014/10/Potazodkupusa-1024x768.jpg" alt="Potazodkupusa" width="300" height="225" />](/wp-content/uploads/2014/10/Potazodkupusa.jpg)
 
 **Priprema**: očistiti crni luk, celer, šargarepu i kupus. Očišćeno povrće oprati pa isitniti: luk na rebarca, kupus na rezance a šargarepu i celer na kockice. Paradajz oljuštiti i sitno iseckati.
 

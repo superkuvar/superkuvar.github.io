@@ -31,7 +31,7 @@ tags:
 * bosiljak  
 * ulje
 
-[<img class="alignnone size-medium wp-image-10783" src="/wp-content/uploads/2015/12/tikvicesaparadajzom-1024x768.jpg" alt="tikvicesaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/12/tikvicesaparadajzom-e1449557930227.jpg)
+![<img class="alignnone size-medium wp-image-10783" src="/wp-content/uploads/2015/12/tikvicesaparadajzom-1024x768.jpg" alt="tikvicesaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/12/tikvicesaparadajzom-e1449557930227.jpg)
 
 **Priprema**: crni luk očistiti, oprati, sitno iseći i propržiti na ulju. Paradajz oprati, oljuštiti, iseći na sitne komade i dodati u crni luk. Pržiti na umerenoj temperaturi dok se sos ne zgusne. Posoliti, dodati pola kašičice šećera, izmrvljen suvi bosiljak i sitno isečen peršunov list.
 

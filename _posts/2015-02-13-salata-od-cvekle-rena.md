@@ -25,7 +25,7 @@ tags:
   * jabukovo sirće
   * ulje
 
-[<img class="alignnone size-medium wp-image-9405" src="/wp-content/uploads/2015/02/salataodcvekleirena-1024x768.jpg" alt="salataodcvekleirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodcvekleirena.jpg)
+![<img class="alignnone size-medium wp-image-9405" src="/wp-content/uploads/2015/02/salataodcvekleirena-1024x768.jpg" alt="salataodcvekleirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodcvekleirena.jpg)
 
 **Priprema**: cveklu (odabrati sitniju) oprati, skuvati i ocediti od vode. Kada se cvekla ohladi oljuštiti je i iseći na kolutove.
 

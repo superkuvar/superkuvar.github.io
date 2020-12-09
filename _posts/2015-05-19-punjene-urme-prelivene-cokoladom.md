@@ -27,7 +27,7 @@ tags:
 * čokolada za kuvanje (100 g)  
 * po 1 kašika ulja, mleka i šećera u prahu
 
-[<img class="alignnone size-medium wp-image-9642" src="/wp-content/uploads/2015/05/urme-1024x768.jpg" alt="urme" width="300" height="225" />](/wp-content/uploads/2015/05/urme-e1432015413310.jpg)
+![<img class="alignnone size-medium wp-image-9642" src="/wp-content/uploads/2015/05/urme-1024x768.jpg" alt="urme" width="300" height="225" />](/wp-content/uploads/2015/05/urme-e1432015413310.jpg)
 
 **Priprema**: urme raseći po dužini i izvaditi koštice. Orahe, keks, kašiku ruma i med izmešati da se dobije malo gušća masa. Od pripremljene smese otkidati manje komade, oblikovati valjčiće slične koštici urme i puniti pripremljene urme. Blago ih pritisnuti, tako da se rez ne zatvori do kraja.
 

@@ -28,7 +28,7 @@ tags:
 * so  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9690" src="/wp-content/uploads/2015/07/keljikrompir-1024x768.jpg" alt="keljikrompir" width="300" height="225" />](/wp-content/uploads/2015/07/keljikrompir-e1437374996327.jpg)
+![<img class="alignnone size-medium wp-image-9690" src="/wp-content/uploads/2015/07/keljikrompir-1024x768.jpg" alt="keljikrompir" width="300" height="225" />](/wp-content/uploads/2015/07/keljikrompir-e1437374996327.jpg)
 
 **Priprema**: kelj oprati i iseći na šire rezance. Krompir oprati, oljuštiti i iseći na kocke. Krompir i kelj obariti u slanoj vodi u koju je dodato nekoliko zrna kima, a zatim ocediti.
 

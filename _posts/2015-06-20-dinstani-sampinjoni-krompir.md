@@ -29,7 +29,7 @@ tags:
 * sok od limuna (2 kašike)  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9660" src="/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-1024x768.jpg" alt="dinstanisampinjoniikrompir" width="300" height="225" />](/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-e1434799762913.jpg)
+![<img class="alignnone size-medium wp-image-9660" src="/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-1024x768.jpg" alt="dinstanisampinjoniikrompir" width="300" height="225" />](/wp-content/uploads/2015/06/dinstanisampinjoniikrompir-e1434799762913.jpg)
 
 **Priprema**: mladi crni luk oprati, očistiti i sitno iseći. Opranu i očišćenu šargarepu narendati na trenici.  ampinjone oprati i iseći na malo deblje listiće. Krompir oprati, oljuštiti i iseći na kockice.
 

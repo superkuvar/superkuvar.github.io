@@ -32,7 +32,7 @@ tags:
 * bosiljak (suvi izmrvljen)  
 * seckani peršunov list
 
-[<img class="alignnone size-medium wp-image-9782" src="/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-1024x768.jpg" alt="zapeceniplavipatlidzansaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-e1445582382632.jpg)
+![<img class="alignnone size-medium wp-image-9782" src="/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-1024x768.jpg" alt="zapeceniplavipatlidzansaparadajzom" width="300" height="225" />](/wp-content/uploads/2015/10/zapeceniplavipatlidzansaparadajzom-e1445582382632.jpg)
 
 **Priprema**: crni luk očistiti, iseći na rebarca i propržiti na ulju. Paradajz oljuštiti, sitno iseći i dodati u luk. Pržiti nekoliko minuta. Oljušten plavi patlidžan iseći na kocke, dodati u luk i paradajz i nastaviti sa dinstanjem na umerenoj vatri. Dinstati dok ne uvri tečnost koju je povrće pustilo. Pri kraju dinstanja posoliti, pobiberiti, dodati bosiljak i iseckan peršunov list.
 

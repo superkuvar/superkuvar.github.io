@@ -33,7 +33,7 @@ tags:
 * peršunov list  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9773" src="/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-1024x768.jpg" alt="varivoodpatlidzanatikvicapaprikaiparadajza" width="300" height="225" />](/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-e1444633158868.jpg)
+![<img class="alignnone size-medium wp-image-9773" src="/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-1024x768.jpg" alt="varivoodpatlidzanatikvicapaprikaiparadajza" width="300" height="225" />](/wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-e1444633158868.jpg)
 
 **Priprema**: crni luk očistiti, iseckati na rebarca i propržiti na ulju, da postane staklast.
 

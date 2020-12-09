@@ -27,7 +27,7 @@ tags:
   * šećer u prahu
   * kesica vanilin šećera
 
-[<img class="alignnone size-medium wp-image-9411" src="/wp-content/uploads/2015/02/trouglovisajabukamaismokvama-1024x768.jpg" alt="trouglovisajabukamaismokvama" width="300" height="225" />](/wp-content/uploads/2015/02/trouglovisajabukamaismokvama.jpg)
+![<img class="alignnone size-medium wp-image-9411" src="/wp-content/uploads/2015/02/trouglovisajabukamaismokvama-1024x768.jpg" alt="trouglovisajabukamaismokvama" width="300" height="225" />](/wp-content/uploads/2015/02/trouglovisajabukamaismokvama.jpg)
 
 **Priprema**: ostaviti testo na sobnoj temperaturi da se odmrzne. Jabuke oprati, oljuštiti i narendati na trenici. Suve smokve sitno iseckati. Pomešati jabuke, suve smokve, šećer i cimet.
 

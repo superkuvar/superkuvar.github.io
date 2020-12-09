@@ -35,7 +35,7 @@ tags:
   * sok od limuna
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9234" src="/wp-content/uploads/2014/08/kolacsabananama-1024x768.jpg" alt="kolacsabananama" width="300" height="225" />](/wp-content/uploads/2014/08/kolacsabananama.jpg)
+![<img class="alignnone size-medium wp-image-9234" src="/wp-content/uploads/2014/08/kolacsabananama-1024x768.jpg" alt="kolacsabananama" width="300" height="225" />](/wp-content/uploads/2014/08/kolacsabananama.jpg)
 
 **Priprema**: penasto umutiti margarin sa šećerom, pa dodati ulje i žumanca i još malo mutiti. Sipati jogurt, izmešati varjačom pa dodati brašno pomešano sa praškom za pecivo, kokosovo brašno i suvo grožđe. Izmešati, a zatim u testo lagano umešati čvrsto umućen sneg od belanaca.
 

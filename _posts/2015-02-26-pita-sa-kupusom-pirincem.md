@@ -28,7 +28,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-9443" src="/wp-content/uploads/2015/02/pitasakupusomipirincem-1024x768.jpg" alt="pitasakupusomipirincem" width="300" height="225" />](/wp-content/uploads/2015/02/pitasakupusomipirincem.jpg)
+![<img class="alignnone size-medium wp-image-9443" src="/wp-content/uploads/2015/02/pitasakupusomipirincem-1024x768.jpg" alt="pitasakupusomipirincem" width="300" height="225" />](/wp-content/uploads/2015/02/pitasakupusomipirincem.jpg)
 
 **Priprema**: u posudu za mešenje sipati prosejano brašno, u sredini rukom napraviti udubljenje i tu dodati kašičicu soli. Sipati malo po malo tople vode, a desnom rukom postepeno obrušavati brašno i stalno mesiti. Treba da se dobije glatko ujednačeno testo, bez grudvica. Zatim testo prebaciti na pobrašnjenu radnu površinu i mesiti ga rukama još desetak minuta, povremeno posipajući brašnom da se ne bi lepilo za radnu površinu.
 

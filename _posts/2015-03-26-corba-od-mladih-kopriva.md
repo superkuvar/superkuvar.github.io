@@ -27,7 +27,7 @@ tags:
 * so  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9567" src="/wp-content/uploads/2015/03/corbaodmladihkopriva-1024x768.jpg" alt="corbaodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodmladihkopriva-e1430745644806.jpg)
+![<img class="alignnone size-medium wp-image-9567" src="/wp-content/uploads/2015/03/corbaodmladihkopriva-1024x768.jpg" alt="corbaodmladihkopriva" width="300" height="225" />](/wp-content/uploads/2015/03/corbaodmladihkopriva-e1430745644806.jpg)
 
 **Priprema**: koprive očistiti, dobro oprati i preliti ključalom vodom. Kada se koprive ohlade iseckati ih na rezance. Očistiti crni luk i šargarepu, pa luk isecakti na rebarca a šargarepu izrendati. Krompir oljuštiti, oprati i iseći na kockice.
 

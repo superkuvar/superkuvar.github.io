@@ -26,7 +26,7 @@ tags:
 * so  
 * kari
 
-[<img class="alignnone size-medium wp-image-9591" src="/wp-content/uploads/2015/04/supaodmladesargarepe-1024x768.jpg" alt="supaodmladesargarepe" width="300" height="225" />](/wp-content/uploads/2015/04/supaodmladesargarepe-e1430748136997.jpg)
+![<img class="alignnone size-medium wp-image-9591" src="/wp-content/uploads/2015/04/supaodmladesargarepe-1024x768.jpg" alt="supaodmladesargarepe" width="300" height="225" />](/wp-content/uploads/2015/04/supaodmladesargarepe-e1430748136997.jpg)
 
 **Priprema**: šargarepu oprati, očistiti i istrugati na trenici. Očišćen i opran mladi crni luk sitno iseći, zajedno sa perima. Na malo zagrejanog ulja propržiti isečen crni luk i narendanu šargarepu, a zatim naliti sa litar i po tople vode. Posoliti i dodati malo karija. Supu kuvati na umerenoj temperaturi oko 15 minuta.
 

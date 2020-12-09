@@ -28,7 +28,7 @@ tags:
 * kesica vanilin šećera  
 * džem
 
-[<img class="alignnone size-medium wp-image-9627" src="/wp-content/uploads/2015/05/vanilicesapavlakom-1024x768.jpg" alt="vanilicesapavlakom" width="300" height="225" />](/wp-content/uploads/2015/05/vanilicesapavlakom-e1431003569127.jpg)
+![<img class="alignnone size-medium wp-image-9627" src="/wp-content/uploads/2015/05/vanilicesapavlakom-1024x768.jpg" alt="vanilicesapavlakom" width="300" height="225" />](/wp-content/uploads/2015/05/vanilicesapavlakom-e1431003569127.jpg)
 
 **Priprema**: penasto umutiti mast sa šećerom, pa dodati kiselu pavlaku. U mast postepeno dodavati brašno i umesiti glatko testo.
 

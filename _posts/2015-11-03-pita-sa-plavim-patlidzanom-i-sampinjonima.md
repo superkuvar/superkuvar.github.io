@@ -29,7 +29,7 @@ tags:
 * biber  
 * ulje
 
-[<img class="alignnone size-medium wp-image-9812" src="/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-1024x768.jpg" alt="pitasaplavimpatlidzanomisampinjonima" width="300" height="225" />](/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-e1446532338349.jpg)
+![<img class="alignnone size-medium wp-image-9812" src="/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-1024x768.jpg" alt="pitasaplavimpatlidzanomisampinjonima" width="300" height="225" />](/wp-content/uploads/2015/11/pitasaplavimpatlidzanomisampinjonima-e1446532338349.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, obariti u slanoj vodi, ostaviti da se dobro ocedi a zatim sitno iseckati. Očišćen crni luk iseći na rebarca i propržiti na ulju dok ne dobije staklast izgled, a zatim dodati plavi patlidžan i pržiti još nekoliko minuta. Na kraju dodati so, biber i kašiku brašna. Očišćene i oprane šampinjone iseći na listiće i pržiti na ulju dok ne ispari voda koju su pustili. Kada se patlidžan i šampinjoni ohlade sjediniti ih, dodati jaja i dobro izmešati.
 

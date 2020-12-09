@@ -28,7 +28,7 @@ tags:
   * pileća kocka za supu
   * ulje
 
-[<img class="alignnone size-medium wp-image-9214" src="/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom-1024x768.jpg" alt="Praziluksapirincemipilecimmesom" width="300" height="225" />](/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom.jpg)
+![<img class="alignnone size-medium wp-image-9214" src="/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom-1024x768.jpg" alt="Praziluksapirincemipilecimmesom" width="300" height="225" />](/wp-content/uploads/2014/07/Praziluksapirincemipilecimmesom.jpg)
 
 **Priprema**: na zagrejanom ulju propržiti pileće meso, da malo porumeni, a zatim ga izvaditi iz posude. Na istom ulju na kome se pržilo meso, propržiti očišćen praziluk isečen na komade veličine oko dva santimetra. Dinstati poklopljeno.
 
