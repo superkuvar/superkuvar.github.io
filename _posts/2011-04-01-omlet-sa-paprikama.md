@@ -23,7 +23,7 @@ tags:
   * biber
   * ulje
 
-[<img class="alignnone size-medium wp-image-8899" src="/wp-content/uploads/2011/04/omletsapaprikama1-1024x768.jpg" alt="omletsapaprikama" width="300" height="225" />](/wp-content/uploads/2011/04/omletsapaprikama1.jpg)
+![omlet](/wp-content/uploads/2011/04/omletsapaprikama1.jpg)
 
 **Priprema**: paprike oprati, ispeći, oljuštiti i iseckati na krupnije rezance. Jaja umutiti sa solju i biberom.
 

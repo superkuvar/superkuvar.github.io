@@ -31,7 +31,7 @@ tags:
   * biber
   * ulje
 
-![](/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-1024x768.jpg)
+![corba od zelja](/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-1024x768.jpg)
 
 **Priprema**: Zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
 

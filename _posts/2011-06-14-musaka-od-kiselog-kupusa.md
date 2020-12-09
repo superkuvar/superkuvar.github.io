@@ -30,7 +30,7 @@ tags:
   * suvi biljni začin
   * ulje
 
-[<img class="alignnone size-medium wp-image-9317" src="/wp-content/uploads/2011/06/musakaodkiselogkupusa1-1024x768.jpg" alt="musakaodkiselogkupusa" width="300" height="225" />](/wp-content/uploads/2011/06/musakaodkiselogkupusa1.jpg)
+![musaka kupus](/wp-content/uploads/2011/06/musakaodkiselogkupusa1.jpg)
 
 **Priprema**: jednu glavicu crnog luka očistiti, sitno iseckati i dinstati na ulju dok ne postane staklast. Kupus, ukoliko je previše kiseo ili slan, isprati u vodi i ocediti, a zatim ga pomešati sa lukom, dodati list lovora i to sve zajedno još malo prodinstati.
 

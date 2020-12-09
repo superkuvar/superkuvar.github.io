@@ -40,7 +40,7 @@ Za preliv
   * 100 grama čokolade za kuvanje
   * 50 grama margarina
 
-[<img class="alignnone size-medium wp-image-9363" src="/wp-content/uploads/2011/08/kolacodgrizaijabuka-1024x768.jpg" alt="kolacodgrizaijabuka" width="300" height="225" />](/wp-content/uploads/2011/08/kolacodgrizaijabuka.jpg)
+![kolac od griza i jabuka](/wp-content/uploads/2011/08/kolacodgrizaijabuka-1024x768.jpg)
 
 **Priprema**: umutiti jaja sa šećerom, pa dodati ulje, mleko, griz pomešan sa praškom za pecivo, izrendane jabuke i suvo grožđe ili seckane orahe. Testo izmešati i sipati u pleh prekriven papirom za pečenje.
 

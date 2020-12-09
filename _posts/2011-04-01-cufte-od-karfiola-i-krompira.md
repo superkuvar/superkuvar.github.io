@@ -35,7 +35,7 @@ tags:
   * brašno
   * ulje
 
-[<img class="alignnone size-medium wp-image-6250" src="/wp-content/uploads/2011/04/Cufte-od-karfiola-i-krompira-1024x768.jpg" alt="Cufte od karfiola i krompira" width="300" height="225" />](/wp-content/uploads/2011/04/Cufte-od-karfiola-i-krompira.jpg)
+![cufte karfiol](/wp-content/uploads/2011/04/Cufte-od-karfiola-i-krompira.jpg)
 
 **Priprema**: karfiol očistiti i oprati, iskidati na cvetiće i skuvati u slanoj vodi. Kada je karfiol kuvan ocediti ga, sitno iseći i pomešati sa skuvanim i izrendanim krompirom. Posoliti, pobiberiti, dodati na vrh noža muskatnog oraščića i sitno isečen peršunov list.
 

@@ -23,7 +23,7 @@ tags:
   * 4 šoljice ulja
   * 300 ml piva
 
-[<img class="alignnone size-full wp-image-1430" title="vaflispivomslani" src="/wp-content/uploads/2011/07/vaflispivomslani.jpg" alt="" width="259" height="194" />](/wp-content/uploads/2011/07/vaflispivomslani.jpg)
+![vaflispivomslani](/wp-content/uploads/2011/07/vaflispivomslani.jpg)
 
 **Priprema**: u posudu za mešenje sipati brašno i kesicu praška za pecivo, pa ravnomerno izmešati. Zatim dodati so i ulje, pa dolivajući pivo, zamesiti glatko testo, ne mnogo tvrdo.
 

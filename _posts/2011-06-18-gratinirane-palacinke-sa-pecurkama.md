@@ -31,7 +31,7 @@ tags:
   * biber
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-9278" src="/wp-content/uploads/2011/06/gratiniranepalacinke1-1024x768.jpg" alt="gratiniranepalacinke" width="300" height="225" />](/wp-content/uploads/2011/06/gratiniranepalacinke1.jpg)
+![GRATINIRANE PALAČINKE SA PEČURKAMA](/wp-content/uploads/2011/06/gratiniranepalacinke1.jpg)
 
 **Priprema**: ispržiti palačinke na uobičajen način.
 

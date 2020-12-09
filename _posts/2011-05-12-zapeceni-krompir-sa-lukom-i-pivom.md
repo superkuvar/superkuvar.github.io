@@ -28,7 +28,7 @@ tags:
   * crvena mlevena paprika
   * ulje ili margarin
 
-[<img class="alignnone size-medium wp-image-8730" src="/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom-1024x768.jpg" alt="zapecenikrompirsalukomipivom" width="300" height="225" />](/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)
+![krompir pire](/wp-content/uploads/2011/05/zapecenikrompirsalukomipivom.jpg)
 
 **Priprema**: krompir oprati, oljuštiti i iseći na kolutove. Crni luk takođe očistiti i iseći na kolutove.
 

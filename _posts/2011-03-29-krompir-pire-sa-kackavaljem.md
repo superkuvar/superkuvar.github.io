@@ -30,7 +30,7 @@ tags:
   * 50 grama margarina
   * ulje
 
-[<img class="alignnone size-medium wp-image-6040" src="/wp-content/uploads/2011/03/Krompirpiresakackavaljem-1024x768.jpg" alt="Krompirpiresakackavaljem" width="300" height="225" />](/wp-content/uploads/2011/03/Krompirpiresakackavaljem-e1376894338511.jpg)
+![krompir kackavalj](/wp-content/uploads/2011/03/Krompirpiresakackavaljem-e1376894338511.jpg)
 
 **Priprema**: krompir oprati, oljuštiti, iseći na manje komade, naliti hladnom vodom da ogrezne, malo posoliti i staviti da se kuva.
 
