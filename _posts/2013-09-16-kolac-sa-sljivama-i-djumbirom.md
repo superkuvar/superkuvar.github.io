@@ -36,7 +36,7 @@ tags:
   * 50 g suvog grožđa
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-6109" src="/wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom-1024x768.jpg" alt="Kolacsasljivamaidjumbirom" width="300" height="225" />](/wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom.jpg)
+![Kolacsasljivamaidjumbirom](/wp-content/uploads/2013/09/Kolacsasljivamaidjumbirom-1024x768.jpg)
 
 **Priprema**: šljive oprati, očistiti od koštica i iseći na šire rezance.
 

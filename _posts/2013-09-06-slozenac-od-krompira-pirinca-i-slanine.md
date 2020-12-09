@@ -35,7 +35,7 @@ tags:
   * 2 jajeta
   * ulje
 
-[<img class="alignnone size-medium wp-image-6092" src="/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca-1024x768.jpg" alt="Slozenacodkrompiraipirinca" width="300" height="225" />](/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca.jpg)
+![Slozenacodkrompiraipirinca](/wp-content/uploads/2013/09/Slozenacodkrompiraipirinca-1024x768.jpg)
 
 **Priprema**: krompir oprati i neoljušten obariti u slanoj vodi. Voditi računa da se ne raskuva, treba da ostane čvršći. Kada se krompir ohladi oljuštiti ga i iseći na kolutove.
 

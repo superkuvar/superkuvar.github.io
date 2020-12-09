@@ -27,7 +27,7 @@ tags:
   * muskatni oraščić
   * ulje
 
-[<img class="alignnone size-medium wp-image-6465" src="/wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom-1024x768.jpg" alt="Spanac sa jajima i sirom" width="300" height="225" />](/wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom.jpg)
+![<img class="alignnone size-medium wp-image-6465" src="/wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom-1024x768.jpg" alt="Spanac sa jajima i sirom" width="300" height="225" />](/wp-content/uploads/2014/01/Spanac-sa-jajima-i-sirom.jpg)
 
 **Priprema**: spanać očistiti, oprati i obariti u ključaloj vodi. Zatim ga ocediti i iseći na rezance. Isečen spanać staviti u posudu sa zagrejanim uljem i propržiti nekoliko minuta.
 

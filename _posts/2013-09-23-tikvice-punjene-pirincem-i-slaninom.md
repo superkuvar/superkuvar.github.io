@@ -33,7 +33,7 @@ tags:
   * kašika brašna
   * ulje
 
-[<img class="alignnone size-medium wp-image-6124" src="/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-1024x768.jpg" alt="Tikvicepunjenepirincemislaninom" width="300" height="225" />](/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom.jpg)
+![Tikvicepunjenepirincemislaninom](/wp-content/uploads/2013/09/Tikvicepunjenepirincemislaninom-1024x768.jpg)
 
 **Priprema**: tikvice oprati, oljuštiti a zatim izdubiti sredinu.
 

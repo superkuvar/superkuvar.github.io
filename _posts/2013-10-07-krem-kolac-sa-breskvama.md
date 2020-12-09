@@ -30,7 +30,7 @@ tags:
   * 1 kesica vanilin šećera
   * 50 grama margarina
 
-[<img class="alignnone size-medium wp-image-6155" src="/wp-content/uploads/2013/10/Kremkolacsabreskvama-1024x768.jpg" alt="Kremkolacsabreskvama" width="300" height="225" />](/wp-content/uploads/2013/10/Kremkolacsabreskvama.jpg)
+![Kremkolacsabreskvama](/wp-content/uploads/2013/10/Kremkolacsabreskvama-1024x768.jpg)
 
 **Priprema**: oprane i od koštica očišćene breskve odvojiti na polovine i kuvati 5 minuta u sirupu od vode i šećera (2 dl vode i 4 kašike šećera). Zatim breskve izvaditi iz sirupa i ostaviti da se ocede.
 

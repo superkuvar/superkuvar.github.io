@@ -34,7 +34,7 @@ tags:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-6269" src="/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira-1024x768.jpg" alt="Musakaodpatlidzanaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira.jpg)
+![<img class="alignnone size-medium wp-image-6269" src="/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira-1024x768.jpg" alt="Musakaodpatlidzanaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Musakaodpatlidzanaikrompira.jpg)
 
 **Priprema**: plavi patlidžan oprati, oljuštiti, iseći na tanje kolutove, posoliti i ostaviti da odstoji 30 minuta. Zatim, pritiskom između dlanova, ocediti patlidžan od vode koju je pustio.
 

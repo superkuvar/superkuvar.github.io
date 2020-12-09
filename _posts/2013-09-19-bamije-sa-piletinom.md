@@ -36,7 +36,7 @@ tags:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-6113" src="/wp-content/uploads/2013/09/Bamijesapiletinom-1024x768.jpg" alt="Bamijesapiletinom" width="300" height="225" />](/wp-content/uploads/2013/09/Bamijesapiletinom.jpg)
+![Bamijesapiletinom](/wp-content/uploads/2013/09/Bamijesapiletinom-1024x768.jpg)
 
 **Priprema**: ukloniti peteljke sa bamija. Mekom četkom, pod mlazom vode, ukloniti dlačice. Ukoliko su bamije mlade nije potrebno. Ako su veće preseći ih na pola.
 

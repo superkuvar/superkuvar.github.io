@@ -29,7 +29,7 @@ tags:
   * oraha po potrebi
   * čaša vode
 
-[<img class="alignnone size-medium wp-image-9110" src="/wp-content/uploads/2014/04/posnekiflicesapivom-1024x768.jpg" alt="posnekiflicesapivom" width="300" height="225" />](/wp-content/uploads/2014/04/posnekiflicesapivom.jpg)
+![<img class="alignnone size-medium wp-image-9110" src="/wp-content/uploads/2014/04/posnekiflicesapivom-1024x768.jpg" alt="posnekiflicesapivom" width="300" height="225" />](/wp-content/uploads/2014/04/posnekiflicesapivom-1024x768.jpg)
 
 **Priprema**: u posudu za mešenje sipati ulje, pivo i vanilin šećer, pa dodati brašno pomešano sa praškom za pecivo. Testo dobro umesiti, da bude srednje tvrdo.
 

@@ -34,7 +34,7 @@ tags:
   * kašika ruma
   * šećer u prahu
 
-[<img class="alignnone size-medium wp-image-9118" src="/wp-content/uploads/2014/04/brzislatkissajabukama-1024x768.jpg" alt="brzislatkissajabukama" width="300" height="225" />](/wp-content/uploads/2014/04/brzislatkissajabukama.jpg)
+![<img class="alignnone size-medium wp-image-9118" src="/wp-content/uploads/2014/04/brzislatkissajabukama-1024x768.jpg" alt="brzislatkissajabukama" width="300" height="225" />](/wp-content/uploads/2014/04/brzislatkissajabukama.jpg)
 
 **Priprema**: jabuke oprati, oljuštiti, iseći na četvrtine, ukloniti semenke a zatim iseći na kriščice (listiće). U isečene jabuke dodati šećer i sok od limuna, izmešati lagano i ostaviti poklopljeno, da jabuke malo puste sok.
 

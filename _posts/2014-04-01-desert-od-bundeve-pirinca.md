@@ -28,7 +28,7 @@ tags:
   * 1 kesica vanilin šećera
   * so
 
-[<img class="alignnone size-medium wp-image-9083" src="/wp-content/uploads/2014/04/desertodpirincaibundeve-1024x768.jpg" alt="desertodpirincaibundeve" width="300" height="225" />](/wp-content/uploads/2014/04/desertodpirincaibundeve.jpg)
+![<img class="alignnone size-medium wp-image-9083" src="/wp-content/uploads/2014/04/desertodpirincaibundeve-1024x768.jpg" alt="desertodpirincaibundeve" width="300" height="225" />](/wp-content/uploads/2014/04/desertodpirincaibundeve-1024x768.jpg)
 
 **Priprema**: bundevu oljuštiti, oprati i skuvati u malo vode, a zatim ocediti. Kada se bundeva ohladi ispasirati je.
 

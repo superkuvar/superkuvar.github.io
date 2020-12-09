@@ -27,7 +27,7 @@ tags:
   * bosiljak
   * ulje
 
-[<img class="alignnone size-medium wp-image-6105" src="/wp-content/uploads/2013/09/Pitasapecurkama-1024x768.jpg" alt="Pitasapecurkama" width="300" height="225" />](/wp-content/uploads/2013/09/Pitasapecurkama.jpg)
+![Pitasapecurkama](/wp-content/uploads/2013/09/Pitasapecurkama-1024x768.jpg)
 
 **Priprema**: praziluk očistiti, oprati, isitniti na kolutove i propržiti na ulju.
 

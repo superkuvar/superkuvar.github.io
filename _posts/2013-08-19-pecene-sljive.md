@@ -24,7 +24,7 @@ tags:
   * pola kesice cimeta (po želji)
   * mleveni orasi
 
-[<img class="alignnone size-medium wp-image-6035" src="/wp-content/uploads/2013/08/Pecenesljive1-1024x768.jpg" alt="Pecenesljive" width="300" height="225" />](/wp-content/uploads/2013/08/Pecenesljive1-e1376893429590.jpg)
+![Pecene sljive](/wp-content/uploads/2013/08/Pecenesljive1-1024x768.jpg)
 
 **Priprema**: šljive oprati, očistiti od koštica i poređati u pleh. Posuti ih mešavinom cimeta i šećera i staviti u zagrejanu pećnicu.  ljive peći oko 25 minuta na 220 stepeni.
 

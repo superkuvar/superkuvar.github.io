@@ -34,7 +34,7 @@ tags:
   * 1 jaje
   * ulje
 
-[<img class="alignnone size-medium wp-image-6282" src="/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira-1024x768.jpg" alt="Corbaodkarfiolaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira.jpg)
+![<img class="alignnone size-medium wp-image-6282" src="/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira-1024x768.jpg" alt="Corbaodkarfiolaikrompira" width="300" height="225" />](/wp-content/uploads/2013/11/Corbaodkarfiolaikrompira.jpg)
 
 **Priprema**: crni luk očistiti, sitno iseckati i propržiti na malo ulja. U propržen luk dodati opran karfiol izdeljen na cvetove i krompir isečen na kockice. Povrće naliti vodom (oko 1 litar) i staviti da se kuva na umerenoj temperaturi.
 

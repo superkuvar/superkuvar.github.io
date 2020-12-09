@@ -38,7 +38,7 @@ tags:
   * peršunov list
   * ulje
 
-[<img class="alignnone size-medium wp-image-6159" src="/wp-content/uploads/2013/10/Bamijasasampinjonima-1024x768.jpg" alt="Bamijasasampinjonima" width="300" height="225" />](/wp-content/uploads/2013/10/Bamijasasampinjonima.jpg)
+![Bamijasasampinjonima](/wp-content/uploads/2013/10/Bamijasasampinjonima-1024x768.jpg)
 
 **Priprema**: bamije oprati i ukloniti peteljke. Ukoliko su plodovi veći, pre kuvanja iseći ih na pola. Staviti bamije u sud sa ključalom vodom u koju je dodato sirće i kuvati pet minuta, a zatim ocediti.
 

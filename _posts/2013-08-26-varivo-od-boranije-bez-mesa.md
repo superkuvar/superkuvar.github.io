@@ -37,7 +37,7 @@ tags:
   * sok od limuna
   * peršunov list
 
-[<img class="alignnone size-medium wp-image-6068" src="/wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa-1024x768.jpg" alt="Varivo od boranije bez mesa" width="300" height="225" />](/wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa.jpg)
+![Varivo od boranije bez mesa](/wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa-1024x768.jpg)
 
 **Priprema**: crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati boraniju i šargarepu isečenu na kolutove i naliti toplom vodom da ogrezne.
 

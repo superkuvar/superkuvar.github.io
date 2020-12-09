@@ -27,7 +27,7 @@ tags:
   * pola kašičice šećera
   * ulje
 
-[<img class="alignnone size-medium wp-image-6056" src="/wp-content/uploads/2013/08/Varivo-od-sargarepe-1024x768.jpg" alt="Varivo od sargarepe" width="300" height="225" />](/wp-content/uploads/2013/08/Varivo-od-sargarepe.jpg)
+![Varivo od sargarepe](/wp-content/uploads/2013/08/Varivo-od-sargarepe-1024x768.jpg)
 
 **Priprema**: na ulju propržiti sitno seckani crni luk, da postane staklast.
 

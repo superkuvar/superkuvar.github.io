@@ -28,7 +28,7 @@ tags:
   * peršunov list
   * so
 
-[<img class="alignnone size-medium wp-image-6221" src="/wp-content/uploads/2013/10/Salataodpatlidzanasasirom-1024x768.jpg" alt="Salataodpatlidzanasasirom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasasirom.jpg)
+![<img class="alignnone size-medium wp-image-6221" src="/wp-content/uploads/2013/10/Salataodpatlidzanasasirom-1024x768.jpg" alt="Salataodpatlidzanasasirom" width="300" height="225" />](/wp-content/uploads/2013/10/Salataodpatlidzanasasirom-1024x768.jpg)
 
 **Priprema**: plavi patlidžan i paprike oprati i ispeći u pećnici, a kada se ohlade oljuštiti i sitno iseckati.
 

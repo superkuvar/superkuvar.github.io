@@ -23,7 +23,7 @@ tags:
   * 5 kašika šećera
   * 2 pomorandže
 
-[<img class="alignnone size-medium wp-image-9324" src="/wp-content/uploads/2012/01/bombiceodorahaikeksa-1024x768.jpg" alt="bombiceodorahaikeksa" width="300" height="225" />](/wp-content/uploads/2012/01/bombiceodorahaikeksa.jpg)
+![bombiceodorahaikeksa](/wp-content/uploads/2012/01/bombiceodorahaikeksa-1024x768.jpg)
 
 **Priprema**: u posudu za mešenje staviti narendanu čokoladu, mlevene orahe, mleveni keks, šećer i vanilin šećer. Dodati sok od isceđene pomorandže i dobro izmesiti rukama.
 

@@ -28,7 +28,7 @@ tags:
   * šećer u prahu
   * kesica vanilin šećera
 
-[<img class="alignnone size-medium wp-image-6320" src="/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom-1024x768.jpg" alt="Posne kiflice sa kokosom" width="300" height="225" />](/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom.jpg)
+![<img class="alignnone size-medium wp-image-6320" src="/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom-1024x768.jpg" alt="Posne kiflice sa kokosom" width="300" height="225" />](/wp-content/uploads/2013/12/Posne-kiflice-sa-kokosom.jpg)
 
 **Priprema**: izvaditi margarin iz frižidera i kad malo omekša, utrljati ga sa brašnom. Zatim dodati šećer, kokosovo brašno i brašno pomešano sa praškom za pecivo. Uz dolivanje po malo mlake vode zamesiti glatko mekše testo.
 

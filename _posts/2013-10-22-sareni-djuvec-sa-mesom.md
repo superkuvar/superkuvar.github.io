@@ -33,7 +33,7 @@ tags:
   * senf
   * ulje
 
-[<img class="alignnone size-medium wp-image-6197" src="/wp-content/uploads/2013/10/Sarenidjuvecsamesom-e1382366701658-300x227.jpg" alt="Sarenidjuvecsamesom" width="300" height="227" />](/wp-content/uploads/2013/10/Sarenidjuvecsamesom.jpg)
+![Sarenidjuvecsamesom](/wp-content/uploads/2013/10/Sarenidjuvecsamesom-1024x768.jpg)
 
 **Priprema**: povrće oprati i očistiti. Plavi patlidžan iseći na kockice, šargarepu na kolutove, paprike na krupnije komade, a crni luk na rebarca. Oljušten paradajz sitno iseći.
 

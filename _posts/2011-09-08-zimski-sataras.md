@@ -25,7 +25,7 @@ tags:
   * soli po ukusu
   * kesica konzervansa
 
-![<img class="alignnone size-medium wp-image-8794" src="/wp-content/uploads/2011/09/paradajzzasataras-1024x768.jpg" alt="paradajzzasataras" width="300" height="225" />](/wp-content/uploads/2011/09/paradajzzasataras-1024x768.jpg)
+![paradajz za sataras](/wp-content/uploads/2011/09/paradajzzasataras-1024x768.jpg)
 
 **Priprema**: paprike oprati, očistiti od semena, a paradajz i crni luk oljuštiti. Povrće sitno iseckati ili samleti na mašini za mlevenje mesa.
 

@@ -29,7 +29,7 @@ tags:
   * 2 šoljice esencije
   * 2 šoljice soli
 
-[<img class="alignnone size-medium wp-image-6180" src="/wp-content/uploads/2013/10/Paprike-punjenesargarepom-1024x768.jpg" alt="Paprike punjenesargarepom" width="300" height="225" />](/wp-content/uploads/2013/10/Paprike-punjenesargarepom.jpg)
+![Paprike punjene sargarepom](/wp-content/uploads/2013/10/Paprike-punjenesargarepom-1024x768.jpg)
 
 **Priprema**: paprike oprati, posušiti, očistiti od peteljki i semena i izbušiti viljuškom.
 

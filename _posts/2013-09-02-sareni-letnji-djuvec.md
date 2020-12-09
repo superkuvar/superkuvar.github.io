@@ -40,7 +40,7 @@ tags:
   * pola kašičice karija
   * ulje
 
-[<img class="alignnone size-medium wp-image-6088" src="/wp-content/uploads/2013/09/Sareniletnjidjuvec-1024x768.jpg" alt="Sareniletnjidjuvec" width="300" height="225" />](/wp-content/uploads/2013/09/Sareniletnjidjuvec.jpg)
+![Sareni letnji djuvec](/wp-content/uploads/2013/09/Sareniletnjidjuvec-1024x768.jpg)
 
 **Priprema**: na ulju propržiti iseckan crni luk, dodati oljušten paradajz isečen na komadiće i još malo pržiti.
 

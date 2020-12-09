@@ -40,7 +40,7 @@ tags:
   * bundeva (150 grama)
   * malo suvog grožđa
 
-[<img class="alignnone size-medium wp-image-8617" src="/wp-content/uploads/2014/03/mafinisabundevom-1024x768.jpg" alt="mafinisabundevom" width="300" height="225" />](/wp-content/uploads/2014/03/mafinisabundevom.jpg)
+![<img class="alignnone size-medium wp-image-8617" src="/wp-content/uploads/2014/03/mafinisabundevom-1024x768.jpg" alt="mafinisabundevom" width="300" height="225" />](/wp-content/uploads/2014/03/mafinisabundevom.jpg)
 
 **Priprema**: umutiti žumanca sa šećerom i medom, dodati ulje, mleko i kiselu pavlaku. Izmešati, a zatim dodati brašno pomešano sa praškom za pecivo, cimetom i mlevenim đumbirom (ili narendanim ukoliko imate svež koren). Testo izmešati, pa dodati čvrst sneg od belanaca, iseckano suvo grožđe i narendanu bundevu.
 
