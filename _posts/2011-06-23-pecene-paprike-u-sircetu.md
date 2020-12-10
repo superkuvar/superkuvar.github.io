@@ -25,7 +25,7 @@ tags:
   * so
   * seckani peršunov list (po želji)
 
-<img class="alignnone size-full wp-image-1248" title="paprikeusircetu" src="/wp-content/uploads/2011/06/paprikeusircetu-e1308829361388.jpg" alt="" width="211" height="159" /> 
+![Pecene paprike](/wp-content/uploads/2011/11/Pecene-paprike-1024x768.jpg)
 
 **Priprema**: paprike oprati, posušiti i ispeći na ploči štednjaka ili električnom roštilju. Treba ih okretati sa svih strana da bi se ravnomerno ispekle. Paprike se mogu ispeći i u rerni, ali tada neće imati lep miris kao one pečene na ploči. Staviti ih u šerpu i prekriti platnenom salvetom. Kada se paprike malo ohlade oljuštiti ih.
 
