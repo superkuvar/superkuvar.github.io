@@ -19,7 +19,6 @@ tags:
   - jaja
 ---
 
-![kokos puding kolac](/wp-content/uploads/2012/01/kokos-puding-kolac.jpg)
 
 **Potrebno je**:
 
@@ -33,6 +32,9 @@ tags:
   * kesica vanilin šećera
   * 2 kesice pudinga od vanile ili slatke pavlake
   * šlag
+
+
+![kokos puding kolac](/wp-content/uploads/2012/01/kokos-puding-kolac.jpg)
 
 **Priprema**: u sudu za mešenje umutiti jaja sa šećerom, dodati jogurt, ulje, kokos, griz, prašak za pecivo i vanilu. Izmešati varjačom da se masa ujednači, a zatim sipati u podmazan i brašnom posut pleh. Kolač peći na umerenoj temperaturi oko pola sata.
 
