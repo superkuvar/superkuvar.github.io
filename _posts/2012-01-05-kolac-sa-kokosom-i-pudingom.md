@@ -18,6 +18,9 @@ tags:
   - šlag
   - jaja
 ---
+
+![kokos puding kolac](/wp-content/uploads/2012/01/kokos-puding-kolac.jpg)
+
 **Potrebno je**:
 
   * 3 jajeta
