@@ -28,9 +28,9 @@ tags:
   * kesica vanilin šećera
   * veće pakovanje oblandi
 
-Uz [bakin kolač](/bakin-kolac), oblanda je jedno od omiljenih sltkiša koje je pravila moja baka. Kasnije su nastale napolitanke, ali nikad nisu nadmašile originalan ukus oblandi.
+Uz [bakin kolač](/bakin-kolac), oblanda je jedno od omiljenih slatkiša koje je pravila moja baka. Kasnije su nastale napolitanke, ali nikad nisu nadmašile originalan ukus oblandi.
 
-![oblande](/wp-content/uploads/2011/12/mamina-oblanda-e1324559971864.jpg) 
+![oblande](/wp-content/uploads/2011/12/mamina-oblanda.jpg) 
 
 **Priprema fila**: 
 
