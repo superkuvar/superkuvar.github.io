@@ -29,7 +29,7 @@ tags:
   * komad margarina
   * pola šolje iseckanih oraha
 
-<img class="alignnone size-medium wp-image-4586" title="Rolat sa kokosom i orasima" src="/wp-content/uploads/2011/12/Rolat-sa-kokosom-i-orasima-e1351529668508-300x230.jpg" alt="" width="300" height="230" /> 
+![Rolat sa kokosom i orasima](/wp-content/uploads/2011/12/Rolat-sa-kokosom-i-orasima-1024x768.jpg)
 
 **Priprema**: list oblande staviti između dve vlažne platnene salvete, da omekša, da bi se lako uvio u rolat. Voditi računa da se previše ne nakvasi, jer će se raspasti.
 
