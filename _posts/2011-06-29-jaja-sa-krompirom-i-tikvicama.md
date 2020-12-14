@@ -30,7 +30,7 @@ tags:
   * peršunov list
   * ulje
 
-<img class="alignnone size-medium wp-image-3696" title="Jajasakrompiromitikvicama" src="/wp-content/uploads/2011/06/Jajasakrompiromitikvicama-e1342022583933-300x231.jpg" alt="" width="300" height="231" /> 
+![Jaja sa krompirom i tikvicama](/wp-content/uploads/2011/06/Jajasakrompiromitikvicama-1024x768.jpg)
 
 **Priprema**: krompir oprati, oljuštiti, iseći na kriške, naliti hladnom vodom da ogrezne, malo posoliti i kuvati. Zatim ga ocediti i desetak minuta pržiti na ulju, na jačoj vatri.
 
