@@ -26,7 +26,7 @@ tags:
   * ulje
   * seckana mirođija ili peršun
 
-![omlet paprika](/wp-content/uploads/2011/06/omletsapecenimpaprikama.jpg)
+![omlet paprika](/wp-content/uploads/2011/06/omletsapecenimpaprikama-1024x768.jpg)
 
 **Priprema**: paprike ispeći, oljuštiti, iseći na rezance i propržiti na ulju. U zimskom periodu mogu poslužiti i zamrznute pečene paprike. Dodati čen iseckanog belog luka.
 
