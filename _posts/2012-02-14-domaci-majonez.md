@@ -6,10 +6,6 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2459
 permalink: /domaći-majonez/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
 totvreme:
   - ""
 categories:

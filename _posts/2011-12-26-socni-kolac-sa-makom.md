@@ -41,6 +41,8 @@ tags:
 
 Hladan kolač preliti vrućim sirupom, ostaviti da dobro upije, a zatim seći na kocke.
 
+![mak kolač](/wp-content/uploads/2011/12/kolacmak2.jpg)
+
 ---
 
 **Savet**: Za testa ili filove sa makom, bolje je samleti ga neposredno pre pravljenja kolača. Ako ga sameljete ranije držite mak u zamrzivaču.
