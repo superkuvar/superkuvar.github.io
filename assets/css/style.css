@@ -508,8 +508,7 @@ section > img, section > p > img {
 
 img {
     position: relative;
-    margin: 0 auto;
-    max-width: 650px;
+    margin: 0 auto;    
     padding: 5px;
     margin: 10px 0 32px 0;
     border: 1px solid #ccc
