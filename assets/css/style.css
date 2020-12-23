@@ -821,9 +821,18 @@ section {
     /* margin: 10px; */
     margin: 0px auto;
    }
+
+   @media (min-width:540px) {
+    section {
+     max-width:512px;
+     font-size:15px
+    }
+   }
+
    @media (min-width:576px) {
     section {
-     max-width:540px
+     max-width:540px;
+     font-size:14px;
     }
    }
    @media (min-width:768px) {
