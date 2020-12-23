@@ -814,6 +814,7 @@ margin-bottom: 10px;
 }
 
 
+
 section {
     width:100%;
     background-color:white;
@@ -822,17 +823,17 @@ section {
     margin: 0px auto;
    }
 
-   @media (min-width:540px) {
+   @media (min-width:400px) {
     section {
-     max-width:512px;
-     font-size:15px
+     max-width:360px;
+     font-size:16px;
     }
    }
 
    @media (min-width:576px) {
     section {
      max-width:540px;
-     font-size:14px;
+     font-size:15px;
     }
    }
    @media (min-width:768px) {
