@@ -357,7 +357,6 @@ ruby,
 section,
 summary,
 time,
-section,
 mark,
 audio,
 video {
@@ -382,7 +381,7 @@ body {
   background-size: auto;
   background-repeat: repeat;
   background-attachment: fixed;
-  background-color: white;
+  background-color: #Febfeb;
 }
 
 
@@ -579,15 +578,16 @@ td {
     background: #ccc
 }
 
-/* .wrapper {
+.wrapper {
     width: 960px
-} */
+}
 
- header {
+header {
     background-color: #171717;
     color: #FDFDFB;
-    width: auto;
-    position:static;
+    width: 170px;
+    float: left;
+    position: fixed;
     border: 1px solid #000;
     -webkit-border-top-right-radius: 4px;
     -webkit-border-bottom-right-radius: 4px;
@@ -598,7 +598,7 @@ td {
     padding: 34px 25px 22px 50px;
     margin: 30px 25px 0 0;
     -webkit-font-smoothing: antialiased
-} 
+}
 
 p.header {
     font-size: 16px
@@ -680,10 +680,17 @@ a.buttons:hover {
     text-decoration: none
 }
 
+section {
+    width: 650px;
+    float: right;    
+    background-color:white;
+    padding: 10px 20px;    
+    margin: 10px;    
+}
 
 footer {
-    border-top: 1px solid #ccc;
-    padding: 10px;
+    border-top: 1px solid #ccc;           
+    padding: 10px;        
 }
 
 
@@ -725,8 +732,6 @@ screen and (max-width: 960px) {
         width: auto
     }    
     header {
-        float: none;
-        position: static;
         padding-right: 320px
     }
     section {
@@ -754,8 +759,8 @@ screen and (max-width: 720px) {
         word-wrap: break-word
     }
     header {
-        float: none;
-        position: static;        
+        padding: 10px 20px 0;
+        margin-right: 0;
     }
     section {
         padding: 0px 10px 10px 10px;
@@ -806,31 +811,3 @@ margin-bottom: 10px;
     }
 }
 
-
-
-.black {
-    background-color: black !important;
-    color: white;
-}
-.black a{
-    color: white; 
-}
-
-
-section {
-    width:100%;
-    background-color:white;
-    padding: 10px 20px;
-    /* margin: 10px; */
-    margin: 0px auto;
-   }
-   @media (min-width:576px) {
-    section {
-     max-width:540px
-    }
-   }
-   @media (min-width:768px) {
-    section {
-     max-width:720px
-    }
-   }
