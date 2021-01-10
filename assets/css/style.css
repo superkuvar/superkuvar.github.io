@@ -374,13 +374,15 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 1.625;
-  -webkit-font-smoothing: antialiased;  
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 10px 50px 0 0;
   background-image: url("/assets/img/back.jpg");
-  margin: 10px 0 20px 0;
   background-position: center center;
   background-size: auto;
   background-repeat: repeat;
-  background-color: white;
+  background-attachment: fixed;
+  background-color: #Febfeb;
 }
 
 
@@ -506,7 +508,8 @@ section > img, section > p > img {
 
 img {
     position: relative;
-    margin: 0 auto;    
+    margin: 0 auto;
+    max-width: 650px;
     padding: 5px;
     margin: 10px 0 32px 0;
     border: 1px solid #ccc
@@ -814,7 +817,6 @@ margin-bottom: 10px;
 }
 
 
-
 section {
     width:100%;
     background-color:white;
@@ -822,18 +824,9 @@ section {
     /* margin: 10px; */
     margin: 0px auto;
    }
-
-   @media (min-width:400px) {
-    section {
-     max-width:360px;
-     font-size:16px;
-    }
-   }
-
    @media (min-width:576px) {
     section {
-     max-width:540px;
-     font-size:15px;
+     max-width:540px
     }
    }
    @media (min-width:768px) {
