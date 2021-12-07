@@ -4,7 +4,7 @@ title: SALATA SA ŠAMPINjONIMA I JAJIMA
 date: 2012-09-22T12:37:09+00:00
 author: mila
 layout: post
-guid: http://superkuvar.com/?p=4340
+guid: https://superkuvar.com/?p=4340
 permalink: /salata-sa-šampinjonima-i-jajima/
 totvreme:
   - ""
