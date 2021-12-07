@@ -32,6 +32,7 @@ tags:
 ![Salata sa pečurkama i jajima](/wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-1024x768.jpg)
 
 
+
 **Priprema**: šampinjone oprati i obariti u slanoj vodi u koju je dodato malo sirćeta. Ocediti ih i iseći na tanke listiće.
 
 Jaja obariti, iseći na kolutove i pomešati sa pečurkama.  ampinjone i jaja preliti mešavinom sirćeta, ulja, soli, šećera, bibera i seckanog peršunovog lista. Salatu promešati i servirati.
