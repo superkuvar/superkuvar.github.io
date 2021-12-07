@@ -28,7 +28,9 @@ tags:
   * so
   * peršunov list
 
-<img class="alignnone size-medium wp-image-4341" title="Salata sa pecurkama i jajima" src="/wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-e1348207281464-1024x783" alt="" width="300" height="229" /> 
+
+![Salata sa pečurkama i jajima](/wp-content/uploads/2012/09/Salata-sa-pecurkama-i-jajima-1024x768.jpg)
+
 
 **Priprema**: šampinjone oprati i obariti u slanoj vodi u koju je dodato malo sirćeta. Ocediti ih i iseći na tanke listiće.
 
