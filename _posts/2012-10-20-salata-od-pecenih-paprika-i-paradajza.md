@@ -29,7 +29,8 @@ tags:
   * so
   * peršunov list
 
-![paradaiz salata](/wp-content/uploads/2012/10/Salata-od-pecenih-paprika-i-paradajza-1024X768.jpg)
+
+![paradaiz salata](/wp-content/uploads/2012/10/Salata-od-pecenih-paprika-i-paradajza-1024x768.jpg)
 
 
 **Priprema**: paprike oprati i ispeći na ploči štednjaka ili u pećnici. Kada se paprike prohlade oljuštiti ih, ukloniti seme, iskidati na rezance i staviti u činiju. Po želji, mogu se dodati dve-tri iseckane ljute papričice radi pikantnog ukusa. Paprike posoliti, dodati malo peršunovog lista i preliti uljem.
