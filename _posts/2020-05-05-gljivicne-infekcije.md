@@ -5,7 +5,7 @@ date: 2020-04-23T15:53:36+00:00
 author: batalex
 layout: post
 permalink: /gljivicne-infekcije/
-published: false
+published: true
 categories:
   - zdravlje
 tags:
