@@ -24,3 +24,4 @@ Za ljubitelje prirodne kozmetike, ulje semenke kajsije je pravi izbor za DIY pre
 
 Korišćenje ulja semenke kajsije u ishrani takođe donosi brojne prednosti. Ovo ulje, bogato mononezasićenim mastima, doprinosi održavanju zdravlja srca i krvnih sudova. Njegov blagi ukus čini ga odličnim dodatkom salatama ili kao sastojak u pripremi raznih jela.
 
+Vitamini...
