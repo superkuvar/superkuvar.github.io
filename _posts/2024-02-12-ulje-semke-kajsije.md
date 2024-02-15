@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Blagodeti ulja semenke kajsije: Prirodni eliksir za zdravlje i lepotu
+title: Blagodeti ulja semenke kajsije
 date: 2024-02-23T15:53:36+00:00
 author: batalex
 layout: post
