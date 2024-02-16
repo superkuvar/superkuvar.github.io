@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Blagodeti ulja semenke kajsije
+title: BLAGODETI ULJA SEMENKE KAJSIJE
 date: 2024-02-13T15:53:36+00:00
 author: batalex
 layout: post
