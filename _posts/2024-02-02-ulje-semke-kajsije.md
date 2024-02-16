@@ -19,11 +19,14 @@ Ulje semenke kajsije prepoznato je i po svojim hidratantnim svojstvima. Zahvalju
 
 Pored nege kože, ulje semenke kajsije ima i terapeutska svojstva. Koristi se u tretmanima za ublažavanje bolova u mišićima, zahvaljujući svojim antiinflamatornim osobinama. Takođe, blagotvorno deluje na suvu i oštećenu kosu, vraćajući joj sjaj i mekoću.
 
+![ulje1](/wp-content/uploads/2024/02/apricot-kernels.webp)
+
+
 Za ljubitelje prirodne kozmetike, ulje semenke kajsije je pravi izbor za DIY preparate. Može se koristiti kao baza za izradu krema, balzama za usne, ili kao dodatak u prirodnim šamponima. Njegova univerzalnost čini ga svestranim sastojkom koji se lako kombinuje s drugim prirodnim uljima i esencijama.
 
 Korišćenje ulja semenke kajsije u ishrani takođe donosi brojne prednosti. Ovo ulje, bogato mononezasićenim mastima, doprinosi održavanju zdravlja srca i krvnih sudova. Njegov blagi ukus čini ga odličnim dodatkom salatama ili kao sastojak u pripremi raznih jela.
 
-![ulje](/wp-content/uploads/2024/02/ulje-kostice-kajsije3.jpg)
+![ulje2](/wp-content/uploads/2024/02/ulje-kostice-kajsije3.jpg)
 
 **Vitamini i minerali**
 
