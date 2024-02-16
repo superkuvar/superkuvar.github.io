@@ -11,10 +11,14 @@ categories:
 tags:
   - zdravlje
 ---
+- [Lečenje i prevencija kandidijaze](#lečenje-i-prevencija-kandidijaze)
+- [Prevencija tinea infekcija](#prevencija-tinea-infekcija)
+- [Saveti za svakodnevnu prevenciju](#saveti-za-svakodnevnu-prevenciju)
+
 
 Gljivične infekcije su čest problem, posebno kod žena, zbog čega je važno poznavati efikasne metode lečenja i prevencije. Jedan od najčešćih oblika gljivične infekcije je kandidijaza, uzrokovana gljivicom Candida albicans. Ova gljivica se najčešće nalazi u vlažnim delovima tela, kao što su usta, vagina, ili kožni nabori.
 
-Lečenje i Prevencija Kandidijaze
+## Lečenje i prevencija kandidijaze
 
 Kandidijaza se često leči lokalnim antigljivičnim kremama, kao što je Canesten, ili oralnim lekovima. Pored ovih standardnih tretmana, postoje i prirodni načini ublažavanja simptoma:
 
@@ -23,7 +27,7 @@ Kandidijaza se često leči lokalnim antigljivičnim kremama, kao što je Canest
     Beli luk: Redovno konzumiranje belog luka može pomoći u borbi protiv gljivičnih infekcija, zahvaljujući njegovim antimikrobnim svojstvima.
     Cimet: Neki istraživači tvrde da cimet ima antigljivična svojstva. Rastvor cimeta može se koristiti za ispiranje ili kao čaj za kontrolu kandidijaze.
 
-Prevencija tinea infekcija
+## Prevencija tinea infekcija
 
 Tinea infekcije, kao što su atletsko stopalo i lišajevi, su takođe česte. Nekoliko koraka može pomoći u prevenciji:
 
@@ -31,7 +35,7 @@ Tinea infekcije, kao što su atletsko stopalo i lišajevi, su takođe česte. Ne
     Antigljivični Lekovi: OTC (over-the-counter) antigljivični lekovi, kao što su mikonazol i klotrimazol, su efikasni u lečenju.
     Prirodni Lekovi: Kućni tretmani kao što su kurkuma i ljuska oraha mogu se koristiti kao alternativni lekovi.
 
-Saveti za Svakodnevnu Prevenciju
+## Saveti za svakodnevnu prevenciju
 
     Ishrana i Odevanje: Ishrana bogata ugljenim hidratima i šećerom ne povećava rizik od kandidijaze. Nošenje pamučnog donjeg veša i izbegavanje uske odeće može smanjiti rizik od infekcije.
     Higijena posle Kupanja: Brzo se presvlačite posle plivanja i koristite fen za kosu za sušenje intimnih područja.
