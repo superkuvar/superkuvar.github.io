@@ -25,7 +25,7 @@ Da bi se ojačala hrskavica, važno je usvojiti zdrave životne navike i hraniti
 
 Konzumiranje hrane bogate vitaminima i mineralima je ključno. Vitamini C, D, i K, kao i kalcijum i fosfor, su posebno važni za zdravlje kostiju i hrskavice.
 
-Vitamin C je neophodan za sintezu kolagena, ključnog proteina u hrskavici. Bogati izvori vitamina C uključuju citrusno voće (kao što su narandže i limun), crvene i zelene paprike, jagode, kivi, brokoli i prokelj. Pogledajte detaljnije članak [četiri tipa vitamina C](superkuvar.com/4-tipa-vitamina-c).
+Vitamin C je neophodan za sintezu kolagena, ključnog proteina u hrskavici. Bogati izvori vitamina C uključuju citrusno voće (kao što su narandže i limun), crvene i zelene paprike, jagode, kivi, brokoli i prokelj. Pogledajte detaljnije članak [četiri tipa vitamina C](https://superkuvar.com/4-tipa-vitamina-c).
 
 Vitamin D je važan za održavanje zdravlja kostiju i može pomoći u prevenciji artritisa. Dobar izvor vitamina D je sunčeva svetlost, a nalazi se i u namirnicama poput masne ribe (losos, skuša), jaja i obogaćenih mlečnih proizvoda.
 
