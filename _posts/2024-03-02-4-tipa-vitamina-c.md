@@ -17,6 +17,7 @@ Sadržaj:
 - [Mineralni askorbat](#mineralni-askorbat)
 - [Liposomalni vitamin C](#liposomalni-vitamin-c)
 
+![Vitamin C](/wp-content/uploads/2024/03/vitamin-c.webp)
 
 Postoje četiri glavne forme vitamina C: 
 * vitamin C iz celih namirnica, 
