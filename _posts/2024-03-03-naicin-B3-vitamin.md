@@ -1,6 +1,6 @@
 ---
 id: 5
-title: NAICIN (VITAMIN B3)
+title: NAICIN (VITAMIN B3) LEK ZA SPREČAVANJE SRČANIH UDARA
 date: 2023-03-03T15:53:36+00:00
 author: batalex
 layout: post
