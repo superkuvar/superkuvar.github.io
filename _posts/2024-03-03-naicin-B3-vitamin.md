@@ -22,7 +22,7 @@ Sadržaj:
 
 Niacin je lek za sprečavanje srčanih udara.
 
-Dr Erik Berg, na svom [youtube kanalu](https://www.youtube.com/watch?v=R0kS26BA5BY){rel="nofollow"} tvrdi da je Niacin moćan lek za sprečavanje srčanih udara i košta samo 3.19 dolara. 
+Dr Erik Berg, na svom [youtube kanalu](https://www.youtube.com/watch?v=R0kS26BA5BY){:rel="nofollow"} tvrdi da je Niacin moćan lek za sprečavanje srčanih udara i košta samo 3.19 dolara. 
 
 Spomenuo je da je na Niacinu urađeno mnogo istraživanja i dokazano je da je efikasan. 
 
