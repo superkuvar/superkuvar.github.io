@@ -23,7 +23,6 @@ Sadržaj:
   - [Korišćenje kozmetičkih proizvoda sa silicijumom](#korišćenje-kozmetičkih-proizvoda-sa-silicijumom)
   - [Izbegavanje procesuirane hrane](#izbegavanje-procesuirane-hrane)
   - [Pravilna priprema hrane](#pravilna-priprema-hrane)
-  - [Balansirana Ishrana: Integracija raznovrsnih namirnica bogatih silicijumom u ishranu može pomoći u postizanju balansa i osigurati da se unosi dovoljna količina ovog važnog elementa.](#balansirana-ishrana-integracija-raznovrsnih-namirnica-bogatih-silicijumom-u-ishranu-može-pomoći-u-postizanju-balansa-i-osigurati-da-se-unosi-dovoljna-količina-ovog-važnog-elementa)
 - [Zaključak](#zaključak)
 
 
@@ -92,7 +91,6 @@ Procesuirana hrana često sadrži manje minerala, uključujući silicijum. Konzu
 
 Neki načini pripreme mogu smanjiti nivo silicijuma u hrani. Na primer, ljuštenje povrća može ukloniti značajne količine silicijuma, pa je preporučljivo jesti povrće sa korom kad god je to moguće.
 
-### Balansirana Ishrana: Integracija raznovrsnih namirnica bogatih silicijumom u ishranu može pomoći u postizanju balansa i osigurati da se unosi dovoljna količina ovog važnog elementa.
 
 ## Zaključak
 
