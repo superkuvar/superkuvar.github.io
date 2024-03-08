@@ -25,6 +25,7 @@ Sadržaj:
   - [Pravilna priprema hrane](#pravilna-priprema-hrane)
 - [Zaključak](#zaključak)
 
+![Silicium](/wp-content/uploads/2024/03/silicium.webp)
 
 ## Uvod
 Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel=nofollow} pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
