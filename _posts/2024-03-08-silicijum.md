@@ -17,7 +17,7 @@ Sadržaj:
 - [Kako silicijum utiče na elastičnost krvnih sudova?](#kako-silicijum-utiče-na-elastičnost-krvnih-sudova)
 - [Kako silicijum pomaže zdravlje kože, kose i noktiju](#kako-silicijum-pomaže-zdravlje-kože-kose-i-noktiju)
 - [Kako uneti dovoljno silicijuma u ljudski organizam](#kako-uneti-dovoljno-silicijuma-u-ljudski-organizam)
-  - [Ishrana bogata Silicijumom](#ishrana-bogata-silicijumom)
+  - [Ishrana bogata silicijumom](#ishrana-bogata-silicijumom)
   - [Piti vodu obogaćenu silicijumom](#piti-vodu-obogaćenu-silicijumom)
   - [Suplementi sa silicijumom](#suplementi-sa-silicijumom)
   - [Korišćenje kozmetičkih proizvoda sa silicijumom](#korišćenje-kozmetičkih-proizvoda-sa-silicijumom)
@@ -28,7 +28,7 @@ Sadržaj:
 ![Silicium](/wp-content/uploads/2024/03/silicium.webp)
 
 ## Uvod
-Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel=nofollow} pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
+Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel="nofollow"}  pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
 
 ## Kako silicijum održava zdrave kosti?
 
@@ -61,7 +61,7 @@ Redovna suplementacija silicijumom ili unos kroz ishranu može doprineti zdravlj
 
 Postoji nekoliko načina da se obezbedi adekvatan unos silicijuma:
 
-### Ishrana bogata Silicijumom
+### Ishrana bogata silicijumom
 
 Najbolji način za unos silicijuma je preko hrane. Namirnice bogate silicijumom uključuju:
 * Integralne žitarice: ovas, ječam i proso
