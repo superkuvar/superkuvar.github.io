@@ -13,7 +13,7 @@ tags:
 ---
 Sadržaj:
 - [Uvod](#uvod)
-- [Kako silicijum održava zdrave kosti?](#kako-silicijum-održava-zdrave-kosti)
+- [Kako silicijum održava zdrave kosti ?](#kako-silicijum-održava-zdrave-kosti-)
 - [Kako silicijum utiče na elastičnost krvnih sudova?](#kako-silicijum-utiče-na-elastičnost-krvnih-sudova)
 - [Kako silicijum pomaže zdravlje kože, kose i noktiju](#kako-silicijum-pomaže-zdravlje-kože-kose-i-noktiju)
 - [Kako uneti dovoljno silicijuma u ljudski organizam](#kako-uneti-dovoljno-silicijuma-u-ljudski-organizam)
@@ -30,7 +30,7 @@ Sadržaj:
 ## Uvod
 Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel="nofollow"}  pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
 
-## Kako silicijum održava zdrave kosti?
+## Kako silicijum održava zdrave kosti ?
 
 Silicijum, iako često zanemaren, igra značajnu ulogu u održavanju zdravlja kostiju. Ovaj mineral je ključan za razvoj i održavanje čvrste i zdrave kostne strukture. Uloga silicijuma u kostima se odvija na dva primarna načina. 
 
