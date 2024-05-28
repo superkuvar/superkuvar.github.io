@@ -12,11 +12,24 @@ tags:
   - zdravlje
 ---
 Sadržaj:
+- [Toksini](#toksini)
+  - [Amatoksini](#amatoksini)
+  - [Muskarin](#muskarin)
+  - [Orelanin](#orelanin)
+  - [Psilocibin i psilocin](#psilocibin-i-psilocin)
+  - [Gyromitrin](#gyromitrin)
+  - [Coprine](#coprine)
+- [Najotrovnije perčurke u Srbiji](#najotrovnije-perčurke-u-srbiji)
+- [Zaključak](#zaključak)
+
+
 
 
 ![Pecurke](/wp-content/uploads/2024/05/mashrooms.jpeg)
 
 Pečurke mogu biti otrovne zbog različitih toksina koje sadrže. Evo nekih od najčešćih toksina koji se nalaze u otrovnim pečurkama:
+
+# Toksini
 
 ## Amatoksini 
 
@@ -34,7 +47,7 @@ Ovaj toksin je prisutan u pečurkama iz roda Cortinarius. Orelanin izaziva simpt
 
 Ovi psihoaktivni spojevi nalaze se u pečurkama iz rodova Psilocybe, Panaeolus, Copelandia i nekih drugih. Oni mogu izazvati halucinacije i promene u percepciji, ali nisu smrtno otrovni. Ipak, konzumacija ovih pečurki može biti opasna zbog psiholoških efekata.
 
-# Gyromitrin
+## Gyromitrin
 
 Ovaj toksin se nalazi u pečurkama iz roda Gyromitra. Kada se unese, gyromitrin se pretvara u monometilhidrazin (MMH), koji je toksičan i može izazvati simptome kao što su mučnina, povraćanje, vrtoglavica, konfuzija i u teškim slučajevima oštećenje jetre.
 
@@ -42,7 +55,7 @@ Ovaj toksin se nalazi u pečurkama iz roda Gyromitra. Kada se unese, gyromitrin 
     
 Ovaj toksin se nalazi u pečurkama iz roda Coprinus. Coprin inhibira enzim koji je potreban za metabolizam alkohola, što može izazvati neprijatne simptome kada se alkohol konzumira zajedno sa pečurkama koje sadrže ovaj toksin.
 
-## Najotrovnije perčurke u Srbiji
+# Najotrovnije perčurke u Srbiji
 
 U Srbiji, kao i u većini drugih regiona, postoje nekoliko vrsta pečuraka koje se smatraju veoma otrovnim i opasnim po zdravlje ukoliko se pojedu. Evo nekoliko primera najotrovnijih pečuraka koje se mogu naći u Srbiji:
 
@@ -59,12 +72,13 @@ U Srbiji, kao i u većini drugih regiona, postoje nekoliko vrsta pečuraka koje 
     ![amanita phanterina](/wp-content/uploads/2024/05/amanita-phanterina.jpeg)  
 
 * Gyromitra esculenta - Poznata kao lažna zelenika, ova pečurka sadrži toksin koji se pretvara u metil-hidrazin, supstancu koja može izazvati ozbiljne zdravstvene probleme, uključujući oštećenje jetre i bubrega.
-        ![Gyromitra esculenta](/wp-content/uploads/2024/05/gyromatria-esculenta.jpeg)  
+
+    ![Gyromitra esculenta](/wp-content/uploads/2024/05/gyromatria-esculenta.jpeg)  
 
 
 Ovo su samo neki od primera veoma otrovnih pečuraka koje se mogu naći u prirodi. Važno je da budete izuzetno oprezni prilikom branja i konzumiranja pečuraka iz prirode, jer greške u identifikaciji mogu imati ozbiljne posledice po zdravlje, pa čak i biti fatalne. Ako niste sigurni u identifikaciju pečurke, bolje je da je ne berete niti jedete. Uvek je najbolje da se konsultujete sa stručnjakom ili osobi koja ima iskustva u prepoznavanju jestivih i otrovnih vrsta pečuraka.
 
-## Zaključak
+# Zaključak
 
 Otrovi u pečurkama deluju na različite sisteme u telu, uključujući nervni sistem, jetru, bubrege i gastrointestinalni trakt. Zbog toga je važno poznavati vrste pečuraka i biti oprezan pri njihovom sakupljanju i konzumaciji.
 
