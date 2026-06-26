@@ -6,7 +6,7 @@ author: sneki
 layout: post
 permalink: /projara-sa-pecurkama-i-sirom/
 published: true
-image: 
+image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.jpg
 posno: 
 categories:
    - proje
@@ -26,6 +26,8 @@ Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjel
 * 5 dl mleka
 * 1 kesica praška za pecivo
 * so i biber po ukusu
+
+![projara sa pečurkama i sirom](/wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.jpg)
 
 **Način pripreme:**
 
