@@ -6,8 +6,22 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=36
 permalink: /kocke-od-karamela/
-totvreme:
-  - ""
+description: Kocke od karamela — u šerpu sipati slatku pavlaku i šećer, dodati vanilu i staviti na štednjak.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 1/2 litra slatke pavlake
+  - 500 g kristal šećera
+  - šipka vanile
+  - šolja i po skuvane crne kafe
+instructions:
+  - u šerpu sipati slatku pavlaku i šećer, dodati vanilu i staviti na štednjak.
+  - Kuvati na umerenoj temperaturi, uz stalno mešanje.
+  - Kada se karamel masa skuva dodati proceđenu crnu kafu.
+  - Da je masa za kocke-bombone gotova proveriti na sledeći način: uzeti šoljicu hladne vode, kašičicom zahvatiti kuvanu karamel masu, staviti je u vodu, pa ako se masa stvrdne znači da je dovoljno kuvana.
 categories:
   - kolači
 tags:
@@ -15,23 +29,12 @@ tags:
   - šećer
   - slatka pavlaka
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1/2 litra slatke pavlake
-  * 500 g kristal šećera
-  * šipka vanile
-  * šolja i po skuvane crne kafe
+<span id="step-1"></span>**Korak 1.** u šerpu sipati slatku pavlaku i šećer, dodati vanilu i staviti na štednjak.
 
-**Priprema**: u šerpu sipati slatku pavlaku i šećer, dodati vanilu i staviti na štednjak. Kuvati na umerenoj temperaturi, uz stalno mešanje. Kada se karamel masa skuva dodati proceđenu crnu kafu. Zatim nastaviti sa kuvanjem.
+<span id="step-2"></span>**Korak 2.** Kuvati na umerenoj temperaturi, uz stalno mešanje.
 
-Da je masa za kocke-bombone gotova proveriti na sledeći način: uzeti šoljicu hladne vode, kašičicom zahvatiti kuvanu karamel masu, staviti je u vodu, pa ako se masa stvrdne znači da je dovoljno kuvana.
+<span id="step-3"></span>**Korak 3.** Kada se karamel masa skuva dodati proceđenu crnu kafu.
 
-Pleh namazati uljem ili maslacem, pa izliti masu i poravnati je širim nožem, da bude jednake debljine. Ostaviti da se malo prohladi.
-
-Kada je karamel masa prohlađena, izručiti je na radnu površinu i oštrim nožem seći na male kocke (kao karamele). Kocke-bombone se mogu uviti u staniol, a zatim služiti.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<span id="step-4"></span>**Korak 4.** Da je masa za kocke-bombone gotova proveriti na sledeći način: uzeti šoljicu hladne vode, kašičicom zahvatiti kuvanu karamel masu, staviti je u vodu, pa ako se masa stvrdne znači da je dovoljno kuvana.
