@@ -21,8 +21,7 @@ ingredients:
   - 2 kašike ulja
 instructions:
   - Očistiti i iseći rotkvice i mladi luk.
-  - Začiniti solju, biberom, sirćetom i uljem.
-  - Dobro izmešati i servirati odmah.
+  - Začiniti solju, biberom, sirćetom i uljem, dobro izmešati i ostaviti da odstoji.
 categories:
   - salate
 tags:

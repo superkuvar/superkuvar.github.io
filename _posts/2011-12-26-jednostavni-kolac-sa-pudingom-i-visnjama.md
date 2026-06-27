@@ -24,7 +24,8 @@ ingredients:
   - 1 kesica šlaga (po želji)
 instructions:
   - Umutiti jaja sa šećerom, dodati brašno i ispeći patišpanj.
-  - Prokuvati višnje sa šećerom i zgusnuti pudingom.
+  - Prokuvati višnje sa šećerom.
+  - Zgusnuti pudingom u vrelim višnjama uz mešanje.
   - Preliti vreli fil preko patišpanja i ohladiti.
 categories:
   - kolači

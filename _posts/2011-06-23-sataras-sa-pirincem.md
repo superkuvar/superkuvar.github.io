@@ -26,7 +26,8 @@ ingredients:
   - so, biber i suvi biljni začin po ukusu
   - ulje
 instructions:
-  - Propržiti luk, dodati papriku i dinstati poklopljeno.
+  - Iseći papriku i paradajz, propržiti luk na ulju.
+  - Dodati papriku i dinstati poklopljeno oko 10 minuta.
   - Umešati paradajz, začine i pirinač.
   - Dinstati dok pirinač ne omekša i sos ne zgusne.
 categories:

@@ -18,7 +18,7 @@ ingredients:
   - 1 praziluk ili glavica crnog luka
   - 3 šargarepe
   - 4 krompira
-  - so po ukusu
+  - so i biber po ukusu
   - suvi biljni začin
   - bosiljak
   - 2 jajeta

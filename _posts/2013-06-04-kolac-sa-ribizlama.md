@@ -28,10 +28,11 @@ ingredients:
   - 250 g ribizle
   - malo muskatnog oraščića
 instructions:
-  - Umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno sa praškom za pecivo, muskatni oraščić i seckane orahe.
-  - U podmazan i posut brašnom pleh sipati polovinu testa, posuti ribizlom, pa preliti ostatkom testa.
-  - Peći u zagrejanoj pećnici na 200 °C oko 40 minuta.
-  - Ohlađen kolač iseći na kocke i posuti šećerom u prahu.
+  - Umutiti jaja sa šećerom, dodati mleko i ulje.
+  - Umešati brašno sa praškom, muskatnim oraščićem i orasima.
+  - U pleh sipati polovinu testa, posuti ribizlom i preliti ostatkom.
+  - Peći na 200 °C oko 40 minuta.
+  - Ohladiti, iseći na kocke i posuti šećerom u prahu.
 categories:
   - kolači
 tags:

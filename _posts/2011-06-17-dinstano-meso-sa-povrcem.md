@@ -26,7 +26,8 @@ ingredients:
   - so, biber i suvi biljni začin po ukusu
   - ulje
 instructions:
-  - Propržiti luk i papriku, dodati meso i dinstati poklopljeno.
+  - Iseći meso i povrće, propržiti luk sa crvenom paprikom.
+  - Dodati meso i dinstati poklopljeno uz dolivanje vode.
   - Ubaciti povrće i beli luk, dinstati dok ne omekša.
   - Zgusnuti brašnom razmućenim u vodi i kratko prokuvati.
 categories:

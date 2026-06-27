@@ -7,7 +7,7 @@ layout: post
 guid: http://superkuvar.com/?p=1630
 permalink: /sladoled-od-pavlake-i-voca/
 image: /wp-content/uploads/2011/08/Sladoledodpavlakeivoća-940x198.jpg
-description: Domći sladoled od slatke i kisele pavlake sa svežim voćem — bez aparata za sladoled, samo mikser i zamrzivač. Kremast, osvežavajući letnji desert za celu porodicu.
+description: Domaći sladoled od slatke i kisele pavlake sa svežim voćem — bez aparata za sladoled, samo mikser i zamrzivač. Kremast, osvežavajući letnji desert za celu porodicu.
 prep_time: PT20M
 cook_time: PT0M
 total_time: PT4H

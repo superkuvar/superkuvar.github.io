@@ -6,6 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5109
 permalink: /posna-sarma-sa-orasima/
+image: /wp-content/uploads/2013/01/Posnasarmasaorasima-940x198.jpg
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
@@ -60,6 +61,6 @@ tags:
 
 <span id="step-6"></span>**Korak 6.** Kuvati još desetak minuta na tihoj vatri.
 
-**Legir:** Zapreška je mešavina ulja, brašna i začina kojom se preliva gotovo jelo da dobije boju i puniji ukus. Kod ove sarme nije obavezna — sarma će biti još ukusnija ako se pred kraj stavi u zagrejanu pećnicu i zapeče do rumene boje.
+**Zapreška:** mešavina ulja, brašna i začina kojom se preliva gotovo jelo da dobije boju i puniji ukus. Kod ove sarme nije obavezna — sarma će biti još ukusnija ako se pred kraj stavi u zagrejanu pećnicu i zapeče do rumene boje.
 
 Sarma se može poslužiti i topla i hladna. Može se i peći umesto kuvanja — u tom slučaju stavite je odmah u zagrejanu pećnicu i pečite dok voda skoro potpuno ne uvri, prvo na jačoj, zatim na umerenoj temperaturi.

@@ -23,9 +23,10 @@ ingredients:
   - 250 g margarina (isitnjenog)
   - 2 dl ulja
 instructions:
-  - U sud za mešenje pomešati brašno sa praškom za pecivo, so, ulje, susam i margarin.
+  - Pomešati brašno sa praškom za pecivo, so, ulje, susam i margarin.
   - Dolivajući mlaku vodu, zamesiti glatko mekše testo.
-  - Kidati na male loptice i peći u aparatu za galete ili na tosteru.
+  - Kidati testo na male loptice.
+  - Peći u aparatu za galete ili na tosteru.
 categories:
   - peciva
 tags:

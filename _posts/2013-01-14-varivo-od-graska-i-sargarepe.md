@@ -23,9 +23,10 @@ ingredients:
   - 2–3 kašike ulja
   - sveža mirođija
 instructions:
-  - Propržiti luk i šargarepu, dodati grašak i vodu.
-  - Kuvati oko 30 minuta, začiniti.
-  - Zgusnuti gustinom i završiti mirođijom.
+  - Iseći šargarepu i propržiti sa lukom na ulju.
+  - Dodati grašak i vodu, kuvati oko 30 minuta i začiniti.
+  - Zgusnuti gustinom razmućenim u hladnoj vodi.
+  - Pobiberiti, dodati mirođiju i servirati.
 categories:
   - prilozi
 tags:

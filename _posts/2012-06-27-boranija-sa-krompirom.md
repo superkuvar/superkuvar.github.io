@@ -26,9 +26,10 @@ ingredients:
   - ulje
   - svež peršunov list
 instructions:
-  - Propržiti luk, dodati boraniju i šargarepu, naliti vodu i kuvati.
-  - Ubaciti krompir, paradajz i začine.
-  - Zgusnuti brašnom i paprikom, završiti peršunom.
+  - Očistiti boraniju i šargarepu, propržiti luk, dodati povrće i naliti vodu.
+  - Posoliti, dodati beli luk, paradajz i krompir, kuvati do omekšavanja.
+  - Zgusnuti brašnom i crvenom paprikom, kuvati još 10 minuta.
+  - Završiti seckanim peršunom i servirati.
 categories:
   - jela bez mesa
 tags:
