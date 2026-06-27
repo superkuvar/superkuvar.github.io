@@ -1,46 +1,54 @@
 ---
 id: 272
-title: KREM ČORBA OD POVRĆA
-date: 2011-03-25T12:09:29+00:00
+title: "KREM ČORBA OD POVRĆA"
+date: "2011-03-25T12:09:29+00:00"
 author: mila
 layout: post
-guid: http://superkuvar.com/?p=272
+guid: "http://superkuvar.com/?p=272"
 permalink: /krem-čorba-od-povrća/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description: "Krem čorba od povrća — Iseckano povrće staviti u lonac i propržiti na malo ulja."
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
+ingredients:
+  - "2-3 šargarepe"
+  - "2 korena peršuna"
+  - "1 koren paškanata"
+  - "manji koren celera"
+  - "2 struka mladog luka"
+  - "2 veća krompira"
+  - "čaša kisele pavlake"
+  - "1 jaje"
+  - "malo ulja"
+  - "so"
+  - "suvi biljni začin"
+  - "peršunov list ili mirođija"
+instructions:
+  - "Iseckano povrće staviti u lonac i propržiti na malo ulja."
+  - "Zatim doliti litar i po vode, spustiti oljušten krompir isečen na polovine, posoliti, dodati suvi biljni začin i kuvati dok povrće ne omekša."
+  - "Krem čorbu začiniti jajetom umućenim sa kiselom pavlakom, promešati i posuti seckanim peršunovim listom ili mirođijom."
 categories:
-  - supe i čorbe
+  - "supe i čorbe"
 tags:
-  - celer
-  - kisela pavlaka
-  - krompir
-  - paškanat
-  - peršun
-  - šargarepa
+  - "celer"
+  - "kisela pavlaka"
+  - "krompir"
+  - "paškanat"
+  - "peršun"
+  - "šargarepa"
+fb_social_plugin_settings_box_like:
+  - "default"
+fb_social_plugin_settings_box_send:
+  - "default"
 ---
-**Potrebno je**:
+<img class="alignnone size-full wp-image-734" title="corbaodpovrca" src="/wp-content/uploads/2011/03/corbaodpovrca.jpg" alt="" width="259" height="194" />
 
-  * 2-3 šargarepe
-  * 2 korena peršuna
-  * 1 koren paškanata
-  * manji koren celera
-  * 2 struka mladog luka
-  * 2 veća krompira
-  * čaša kisele pavlake
-  * 1 jaje
-  * malo ulja
-  * so
-  * suvi biljni začin
-  * peršunov list ili mirođija
+**Način pripreme:**
 
-<img class="alignnone size-full wp-image-734" title="corbaodpovrca" src="/wp-content/uploads/2011/03/corbaodpovrca.jpg" alt="" width="259" height="194" /> 
+<span id="step-1"></span>**Korak 1.** Iseckano povrće staviti u lonac i propržiti na malo ulja.
 
-**Priprema**: oprati, očistiti i na kolutove iseći šargarepu, peršunov koren, paškanat i mladi luk, a celer na kockice. Iseckano povrće staviti u lonac i propržiti na malo ulja. Zatim doliti litar i po vode, spustiti oljušten krompir isečen na polovine, posoliti, dodati suvi biljni začin i kuvati dok povrće ne omekša.
+<span id="step-2"></span>**Korak 2.** Zatim doliti litar i po vode, spustiti oljušten krompir isečen na polovine, posoliti, dodati suvi biljni začin i kuvati dok povrće ne omekša.
 
-Izvaditi krompir, propasirati ga i vratiti u čorbu, a zatim je skloniti sa štednjaka.
-
-Krem čorbu začiniti jajetom umućenim sa kiselom pavlakom, promešati i posuti seckanim peršunovim listom ili mirođijom.
+<span id="step-3"></span>**Korak 3.** Krem čorbu začiniti jajetom umućenim sa kiselom pavlakom, promešati i posuti seckanim peršunovim listom ili mirođijom.
