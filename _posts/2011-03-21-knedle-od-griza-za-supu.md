@@ -6,8 +6,22 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=144
 permalink: /knedle-od-griza-za-supu/
-totvreme:
-  - ""
+description: Knedle od griza za supu — dobro umutiti margarin sa žumancima.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - margarin (kašičica)
+  - 2 jaja
+  - 60 grama griza
+  - malo suvog biljnog začina ili soli
+instructions:
+  - dobro umutiti margarin sa žumancima.
+  - Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
+  - Ukoliko se prva knedla raspadne, to je znak da u testo treba dodati još malo griza.
+  - Knedle kuvati dok ne narastu i isplivaju na površinu supe.
 categories:
   - dodaci za supe i čorbe
 tags:
@@ -15,23 +29,14 @@ tags:
   - margarin
   - jaja
 ---
-**Potrebno je**:
-
-  * margarin (kašičica)
-  * 2 jaja
-  * 60 grama griza
-  * malo suvog biljnog začina ili soli
-
 ![knedle za supu](/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg)
 
-**Priprema**: dobro umutiti margarin sa žumancima. Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
+**Način pripreme:**
 
-U supu koja vri kašičicom spustiti jednu knedlu, pa ako se ne raspadne, spuštati i druge knedle da se kuvaju. Ukoliko se prva knedla raspadne, to je znak da u testo treba dodati još malo griza.
+<span id="step-1"></span>**Korak 1.** dobro umutiti margarin sa žumancima.
 
-Kašičicu svaki put umakati u vrelu supu da bi se knedle lako odvajale od kašičice.
+<span id="step-2"></span>**Korak 2.** Posoliti i dodati, uz mućenje, griz i na kraju čvrsto ulupan sneg od belanaca.
 
-Knedle kuvati dok ne narastu i isplivaju na površinu supe.
+<span id="step-3"></span>**Korak 3.** Ukoliko se prva knedla raspadne, to je znak da u testo treba dodati još malo griza.
 
-**Napomena**:   umesto margarina može se upotrebiti mast.
-
-Ove knedle se obično zakuvavaju u slabije bistre supe, koje se ne prave od masnog mesa.
+<span id="step-4"></span>**Korak 4.** Knedle kuvati dok ne narastu i isplivaju na površinu supe.
