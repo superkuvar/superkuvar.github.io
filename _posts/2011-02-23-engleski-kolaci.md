@@ -1,60 +1,64 @@
 ---
 id: 31
-title: ENGLESKI KOLAČ
-date: 2011-02-23T21:19:12+00:00
+title: "ENGLESKI KOLAČ"
+date: "2011-02-23T21:19:12+00:00"
 author: admin
 layout: post
-guid: http://superkuvar.com/?p=31
+guid: "http://superkuvar.com/?p=31"
 permalink: /engleski-kolaci/
-totvreme:
-  - ""
+description: "Engleski kolač — umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za p…"
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: "4 porcije"
+nutrition: "oko 250 kalorija po porciji"
+ingredients:
+  - "150 grama maslaca"
+  - "250 g oštrog brašna"
+  - "80 g šećera"
+  - "1/2 kesice praška za pecivo"
+  - "1 jaje"
+  - "1 žumance"
+  - "kora od limuna"
+  - "mleveni orasi (100 grama)"
+  - "100 g šećera"
+  - "kesica vanilin šećera"
+  - "suvo grožđe (50 g)"
+  - "5-6 kašika mleka"
+  - "5 belanaca"
+  - "5 kašika šećera"
+  - "2 žumanca"
+  - "50 g oštrog brašna"
+instructions:
+  - "umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo."
+  - "Dobro izmešati varjačom, pa malo izmesiti rukom."
+  - "Testo staviti u podmazan pleh i rastanjiti ga."
+  - "**Fil**: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo."
+  - "Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno."
+  - "Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti."
+  - "Kolač peći oko **35 minuta** u pećnici zagrejanoj na **180 stepeni**."
 categories:
-  - kolači
+  - "kolači"
 tags:
-  - belanca
-  - limun
-  - maslac
-  - orasi
-  - suvo groždje
-  - žumanca
+  - "belanca"
+  - "limun"
+  - "maslac"
+  - "orasi"
+  - "suvo groždje"
+  - "žumanca"
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-**Testo**:
+<span id="step-1"></span>**Korak 1.** umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo.
 
-  * 150 grama maslaca
-  * 250 g oštrog brašna
-  * 80 g šećera
-  * 1/2 kesice praška za pecivo
-  * 1 jaje
-  * 1 žumance
-  * kora od limuna
+<span id="step-2"></span>**Korak 2.** Dobro izmešati varjačom, pa malo izmesiti rukom.
 
-**Fil**:
+<span id="step-3"></span>**Korak 3.** Testo staviti u podmazan pleh i rastanjiti ga.
 
-  * mleveni orasi (100 grama)
-  * 100 g šećera
-  * kesica vanilin šećera
-  * suvo grožđe (50 g)
-  * 5-6 kašika mleka
+<span id="step-4"></span>**Korak 4.** **Fil**: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
 
-**Premaz**:
+<span id="step-5"></span>**Korak 5.** Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno.
 
-  * 5 belanaca
-  * 5 kašika šećera
-  * 2 žumanca
-  * 50 g oštrog brašna
+<span id="step-6"></span>**Korak 6.** Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
 
-**Priprema**: umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo. Dobro izmešati varjačom, pa malo izmesiti rukom. Testo staviti u podmazan pleh i rastanjiti ga.
-
-**Fil**: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
-
-Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno. Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
-
-Kolač peći oko **35 minuta** u pećnici zagrejanoj na **180 stepeni**. Kada se kolač ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na štanglice.
-
----
-
-**Sneg od belanca**: belanca mutiti u velikoj činiji ručnim mikserom, postepeno povećavajući brzinu. Sneg od belanca biće još čvršći ako se doda malo soli ili nekoliko kapi limuna.
-
-**Savet**: Kada razbijete jaje, ako je žumance uzdignuto polukružno a belance okolo čvrsto, **jaje je sveže**. Staro jaje ima pljosnato žumance i vodnjikavo belance. Kada se jaje stavi u vodu - sveže potone, a staro pliva u vodi. Ako **okrećete jaje**, sveže se brže i pravilno okreće u mestu, dok staro jaje ima manje obrtaja i menja mesto rotacije.
+<span id="step-7"></span>**Korak 7.** Kolač peći oko **35 minuta** u pećnici zagrejanoj na **180 stepeni**.
