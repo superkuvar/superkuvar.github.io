@@ -6,28 +6,32 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=61
 permalink: /domace-bonbone/
-totvreme:
-  - ""
+description: Domaće bombone — u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti …
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - fruktoza (200 grama)
+  - 1/2 litra mleka
+  - šećer (2 kašike)
+  - 6 kašika skuvane jake crne kafe
+  - na vrh noža sode bikarbone
+instructions:
+  - u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti na štednjak, pa pustiti da se masa rastopi.
+  - U rastopljenu masu dodati šećer i crnu kafu, pa vratiti na štednjak i kuvati na tihoj vatri još pola sata, neprestano mešajući.
+  - Dodati sodu bikarbonu i nastaviti sa kuvanjem još oko 40 minuta.
 categories:
   - kolači
 tags:
   - kafa
   - mleko
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * fruktoza (200 grama)
-  * 1/2 litra mleka
-  * šećer (2 kašike)
-  * 6 kašika skuvane jake crne kafe
-  * na vrh noža sode bikarbone
+<span id="step-1"></span>**Korak 1.** u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti na štednjak, pa pustiti da se masa rastopi.
 
-**Priprema**: u šerpu staviti fruktozu (može se kupiti u makrobiotičkim prodavnicama), naliti mlekom i staviti na štednjak, pa pustiti da se masa rastopi.
+<span id="step-2"></span>**Korak 2.** U rastopljenu masu dodati šećer i crnu kafu, pa vratiti na štednjak i kuvati na tihoj vatri još pola sata, neprestano mešajući.
 
-U rastopljenu masu dodati šećer i crnu kafu, pa vratiti na štednjak i kuvati na tihoj vatri još pola sata, neprestano mešajući. Dodati sodu bikarbonu i nastaviti sa kuvanjem još oko 40 minuta. Masa za bombone je gotova kada se zahvati kašičicom i kada se na njoj stegne.
-
-Poleđinu pleha namazati maslacem ili uljem, izručiti kuvanu masu i odmah nožem rastanjiti. Pustiti da se masa malo prohladi, a zatim nožem seći manje komade. Nož češće premazati maslacem.
-
-&nbsp;
-
-&nbsp;
+<span id="step-3"></span>**Korak 3.** Dodati sodu bikarbonu i nastaviti sa kuvanjem još oko 40 minuta.
