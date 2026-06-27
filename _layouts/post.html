@@ -28,7 +28,7 @@ layout: default
   {%- if page.instructions -%}
   ,"recipeInstructions": [
     {%- for step in page.instructions -%}
-    {"@type": "HowToStep", "text": {{ step | jsonify }}}{% unless forloop.last %},{% endunless %}
+    {"@type": "HowToStep", "position": {{ forloop.index }}, "name": {{ "Korak " | append: forloop.index | jsonify }}, "text": {{ step | jsonify }}}{% unless forloop.last %},{% endunless %}
     {%- endfor -%}
   ]
   {%- endif -%}
