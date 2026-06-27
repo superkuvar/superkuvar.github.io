@@ -1,44 +1,59 @@
 ---
 id: 263
-title: ČORBA OD TIKVICA SA PIRINČEM
-date: 2011-03-25T11:31:42+00:00
+title: "ČORBA OD TIKVICA SA PIRINČEM"
+date: "2011-03-25T11:31:42+00:00"
 author: mila
 layout: post
-guid: http://superkuvar.com/?p=263
+guid: "http://superkuvar.com/?p=263"
 permalink: /čorba-od-tikvica/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description: "Čorba od tikvica sa pirinčem — mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju."
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
+ingredients:
+  - "500 grama tikvica"
+  - "3 struka mladog crnog luka"
+  - "šoljica pirinča"
+  - "čaša kisele pavlake"
+  - "jaje"
+  - "ulje"
+  - "mirođija"
+  - "so"
+  - "crvena mlevena paprika"
+instructions:
+  - "mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju."
+  - "Dodati crvenu mlevenu papriku, promešati i naliti nekoliko čaša vrele vode (oko litar i po)."
+  - "Tikvice oprati, oljuštiti i iseći na kockice."
+  - "Kada voda za čorbu provri, dodati isečene tikvice i opran pirinač i posoliti."
+  - "Čorbu kuvati dok tikvice i pirinač ne omekšaju."
+  - "Gotovu čorbu skloniti sa štednjaka, začiniti kiselom pavlakom u kojoj je razmućeno jaje i posuti seckanom mirođijom."
 categories:
-  - supe i čorbe
+  - "supe i čorbe"
 tags:
-  - crvena mlevena paprika
-  - crni luk
-  - kisela pavlaka
-  - mirođija
-  - tikvice
+  - "crvena mlevena paprika"
+  - "crni luk"
+  - "kisela pavlaka"
+  - "mirođija"
+  - "tikvice"
+fb_social_plugin_settings_box_like:
+  - "default"
+fb_social_plugin_settings_box_send:
+  - "default"
 ---
-**Potrebno je**:
-
-  * 500 grama tikvica
-  * 3 struka mladog crnog luka
-  * šoljica pirinča
-  * čaša kisele pavlake
-  * jaje
-  * ulje
-  * mirođija
-  * so
-  * crvena mlevena paprika
-
 ![corba od tikvica](/wp-content/uploads/2011/03/orba-od-tikvica-e1351528346632-300x227.jpg)
 
-**Priprema**: mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju. Dodati crvenu mlevenu papriku, promešati i naliti nekoliko čaša vrele vode (oko litar i po).
+**Način pripreme:**
 
-Tikvice oprati, oljuštiti i iseći na kockice. Ukoliko su tikvice starije, ukloniti seme.
+<span id="step-1"></span>**Korak 1.** mladi crni luk očistiti, oprati, iseći na tanke kolutove i propržiti na zagrejanom ulju.
 
-Kada voda za čorbu provri, dodati isečene tikvice i opran pirinač i posoliti. Čorbu kuvati dok tikvice i pirinač ne omekšaju.
+<span id="step-2"></span>**Korak 2.** Dodati crvenu mlevenu papriku, promešati i naliti nekoliko čaša vrele vode (oko litar i po).
 
-Gotovu čorbu skloniti sa štednjaka, začiniti kiselom pavlakom u kojoj je razmućeno jaje i posuti seckanom mirođijom.
+<span id="step-3"></span>**Korak 3.** Tikvice oprati, oljuštiti i iseći na kockice.
+
+<span id="step-4"></span>**Korak 4.** Kada voda za čorbu provri, dodati isečene tikvice i opran pirinač i posoliti.
+
+<span id="step-5"></span>**Korak 5.** Čorbu kuvati dok tikvice i pirinač ne omekšaju.
+
+<span id="step-6"></span>**Korak 6.** Gotovu čorbu skloniti sa štednjaka, začiniti kiselom pavlakom u kojoj je razmućeno jaje i posuti seckanom mirođijom.
