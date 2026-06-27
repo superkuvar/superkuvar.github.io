@@ -44,8 +44,6 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** Tikvice oprati, oljuštiti i narendati. Posoliti po ukusu, dodati malo svežeg bosiljka i mirođije i ostaviti da puste sok dok pripremate testo.
 
-![Korak 1 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** U većoj posudi umutiti jaja, pa dodati ulje, jogurt i izmrvljen sir. Prosejati kukuruzno brašno sa praškom za pecivo, sipati u smesu i kratko izmešati varjačom.
 
 ![Korak 2 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak2.jpg)
