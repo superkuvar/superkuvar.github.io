@@ -6,8 +6,24 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=18
 permalink: /napoleon-stangle/
-totvreme:
-  - ""
+description: Napoleon štangle — sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 400 grama kristal šećera
+  - 200 g maslaca ili margarina
+  - 6 žumanaca
+  - 200 g seckanih oraha
+  - 2 lista veće oblande
+instructions:
+  - sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut.
+  - Penasto umutiti maslac sa ostatkom šećera i žumancima.
+  - Nadev mešati na štednjaku otprilike 5 minuta, a zatim dodati seckane orahe.
+  - Veći list oblande staviti na radnu površinu i preko njega sipati nadev.
+  - Ravnomerno razmazati, pa odozgo staviti drugi list oblande.
 categories:
   - kolači
 tags:
@@ -16,20 +32,14 @@ tags:
   - orasi
   - žumanca
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 400 grama kristal šećera
-  * 200 g maslaca ili margarina
-  * 6 žumanaca
-  * 200 g seckanih oraha
-  * 2 lista veće oblande
+<span id="step-1"></span>**Korak 1.** sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut.
 
-**Priprema**: sipati u šerpu 200 grama šećera i staviti na štednjak da se bez vode peče, dok ne postane žut. Penasto umutiti maslac sa ostatkom šećera i žumancima.
+<span id="step-2"></span>**Korak 2.** Penasto umutiti maslac sa ostatkom šećera i žumancima.
 
-Istopljen šećer skloniti sa štednjaka pa u njega dodavati, malo po malo, umućen maslac sa žumancima, neprestano mešajući.  erpu vratiti na štednjak na jaču vatru, da se sve dobro otopi, ali paziti da ne bude grudvica. Nadev mešati na štednjaku otprilike 5 minuta, a zatim dodati seckane orahe. Nadev skloniti sa štednjaka i ostaviti da se malo prohladi.
+<span id="step-3"></span>**Korak 3.** Nadev mešati na štednjaku otprilike 5 minuta, a zatim dodati seckane orahe.
 
-Veći list oblande staviti na radnu površinu i preko njega sipati nadev. Ravnomerno razmazati, pa odozgo staviti drugi list oblande. Rukama pritisnuti oblandu po celoj površini da se nadev i oblande spoje. Ostaviti neko vreme da se nadev stegne, pa oblandu iseći na štangle.
+<span id="step-4"></span>**Korak 4.** Veći list oblande staviti na radnu površinu i preko njega sipati nadev.
 
-&nbsp;
-
-&nbsp;
+<span id="step-5"></span>**Korak 5.** Ravnomerno razmazati, pa odozgo staviti drugi list oblande.
