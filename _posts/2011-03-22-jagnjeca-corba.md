@@ -15,7 +15,7 @@ servings: 4 porcije
 nutrition: oko 280 kalorija po porciji
 ingredients:
   - 300 g jagnjećeg mesa (but ili vrat, na kockice)
-  - 1 veza zelen za supu (celer, mrkva, paškanat)
+  - 1 veza zelen za supu (celer, šargarepa, paškanat)
   - 1 glavica crnog luka
   - 2–3 kašike ulja
   - 1,5 litra vode
@@ -43,7 +43,7 @@ Lagana i aromatična jagnjeća čorba sa povrćem i blagim legurom od žumanca, 
 **Potrebno je**:
 
 * 300 g jagnjećeg mesa (but ili vrat, na kockice)
-* 1 veza zelen za supu (celer, mrkva, paškanat)
+* 1 veza zelen za supu (celer, šargarepa, paškanat)
 * 1 glavica crnog luka
 * 2–3 kašike ulja
 * 1,5 litra vode
