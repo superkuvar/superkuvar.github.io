@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3411
 permalink: /pita-bez-kora-sa-tikvicama-2/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/06/Pitabezkorasatikvicama1-940x198.jpg
+description: Sočna pita bez kora sa narendanim tikvicama, jogurtom i starijim belim sirom — brzo se meša u jednoj posudi i peče u plehu. Idealna za letnji ručak uz kiselo mleko.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 6 porcija
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 3 tikvice srednje veličine
+  - 3 jajeta
+  - 1,5 šoljice ulja
+  - 2 dl jogurta
+  - 200 g starijeg belog sira (izmrvljenog)
+  - 2 čaše belog kukuruznog brašna
+  - 1 čaša kukuruznog griza
+  - 1 kesica praška za pecivo (10 g)
+  - so po ukusu
+  - svež bosiljak i mirođija po ukusu
+instructions:
+  - Narendati tikvice, posoliti i začiniti bosiljkom i mirođijom.
+  - Umutiti jaja sa uljem, jogurtom i sirom, pa dodati brašno sa praškom za pecivo i tikvice.
+  - Sipati testo u pleh obložen papirom za pečenje i peći na 220 °C, pa smanjiti na 200 °C.
+  - Peći dok pita ne porumeni; služiti toplu uz kiselo mleko ili jogurt.
 categories:
   - slane pite
 tags:
@@ -20,26 +40,14 @@ tags:
   - tikvice
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 tikvice srednje veličine
-  * 3 jajeta
-  * 1,5 šoljica ulja
-  * 2 dl jogurta
-  * 200 grama starijeg belog sira
-  * 2 čaše belog kukuruznog brašna
-  * 1 čaša kukuruznog griza
-  * kesica praška za pecivo
-  * so
-  * bosiljak
-  * mirođija
+<span id="step-1"></span>**Korak 1.** Tikvice oprati, oljuštiti i narendati. Posoliti po ukusu, dodati malo svežeg bosiljka i mirođije i ostaviti da puste sok dok pripremate testo.
 
-<img class="alignnone size-medium wp-image-3412" title="Pitabezkorasatikvicama" src="/wp-content/uploads/2012/06/Pitabezkorasatikvicama1-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U većoj posudi umutiti jaja, pa dodati ulje, jogurt i izmrvljen sir. Prosejati kukuruzno brašno sa praškom za pecivo, sipati u smesu i kratko izmešati varjačom.
 
-**Priprema**: oprati, oljuštiti i narendati tikvice. Dodati soli po ukusu, malo bosiljka i mirođije.
+<span id="step-3"></span>**Korak 3.** U testo dodati narendane tikvice sa grizom i izmešati dok se masa ne izjednači. Treba da bude dovoljno gusta da se lepo razlije u pleh, ali ne previše tvrda.
 
-U posudi za mešenje umutiti jaja, dodati ulje, jogurt, izmrvljen sir i sipati brašno pomešano sa praškom za pecivo. U testo dodati narendane tikvice i izmešati varjačom.
+<span id="step-4"></span>**Korak 4.** Pleh obložiti papirom za pečenje, sipati testo i ravnomerno razmazati. Peći u zagrejanoj pećnici na 220 °C oko 10 minuta, zatim temperaturu smanjiti na 200 °C i peći još oko 30 minuta, dok površina ne postane zlatno žuta.
 
-Pleh obložiti papirom za pečenje, sipati pripremljeno testo i staviti u pećnicu zagrejanu na 220 stepeni. Nakon deset minuta smanjiti temperaturu na 200 stepeni i pitu peći još 30 minuta. Pita je pečena je kada dobije zlatno žutu boju.
-
-Pitu sa tikvicama služiti uz kiselo mleko ili jogurt.
+Pita je gotova kada je čvrsta na dodir, a ivice se lagano odvajaju od pleha. Najukusnija je topla — poslužite je uz kiselo mleko ili jogurt.

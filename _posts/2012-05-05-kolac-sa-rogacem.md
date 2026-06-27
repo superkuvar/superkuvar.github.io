@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3141
 permalink: /kolač-sa-rogačem/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/04/Kolač-sa-rogačem-940x198.jpg
+description: Mekani kolač od mlevenog rogača i cimeta — prirodno sladak, bez gustih krema. Brza priprema u jednoj posudi, savršen uz kafu ili čaj.
+prep_time: PT15M
+cook_time: PT35M
+total_time: PT50M
+servings: 8 porcija
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 200 g mlevenog rogača
+  - 1 šolja brašna
+  - 1 šolja šećera
+  - 1 šolja mleka
+  - ½ šolje ulja
+  - 3 jajeta
+  - 1 kesica praška za pecivo (10 g)
+  - 1 manja kesica cimeta
+  - šećer u prahu za posipanje
+  - 1 kesica vanilin šećera
+instructions:
+  - Umutiti jaja sa šećerom, dodati mleko, ulje, brašno sa praškom, rogač i cimet.
+  - Sipati testo u podmazan i posut pleh.
+  - Peći na 180 °C oko 35 minuta.
+  - Ohladiti, iseći na kocke i posuti šećerom u prahu sa vanilom.
 categories:
   - kolači
 tags:
@@ -19,29 +39,14 @@ tags:
   - šećer
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 200 grama mlevenog rogača
-  * 1 šolja brašna
-  * 1 šolja šećera
-  * 1 šolja mleka
-  * pola šolje ulja
-  * 3 jajeta
-  * kesica praška za pecivo
-  * manja kesica cimeta
-  * šećer u prahu
-  * kesica vanilin šećera
+<span id="step-1"></span>**Korak 1.** U posudi za mešenje umutiti jaja sa šećerom dok smesa ne posvetli. Dodati mleko i ulje, pa promešati varjačom.
 
-<img class="alignnone size-medium wp-image-3143" title="Kolač sa rogačem" src="/wp-content/uploads/2012/04/Kolač-sa-rogačem-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Brašno pomešati sa praškom za pecivo, pa u smesu dodati mleveni rogač i cimet. Izmešati dok ne dobijete glatko, tečno testo bez grudvica.
 
-**Priprema**: u posudi za mešenje umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, rogač i cimet. Dobro izmešati varjačom i sipati u podmazan i brašnom posut manji pleh.
+<span id="step-3"></span>**Korak 3.** Manji pleh podmazati i posuti brašnom. Sipati testo i ravnomerno razmazati. Peći u zagrejanoj pećnici na 180 °C oko 35 minuta — proverite čačkalicom da je spolja zapečeno, a unutra mekano.
 
-Kolač peći 35 minuta u pećnici zagrejanoj na 180 stepeni. Kada se kolač ohladi, iseći ga na kocke i posuti šećerom u prahu zamirasanim vanilom.
+<span id="step-4"></span>**Korak 4.** Kolač ostaviti da se ohladi u plehu, zatim iseći na kocke i posuti šećerom u prahu pomešanim sa vanilin šećerom.
 
-**Napomena**:   kolač sa rogačem će biti još ukusniji ako se u testo dodaju dve narendane kisele jabuke.
-
-Rogač jej zimzeleno samoniklo drvo, poreklom iz Sredozemlja. Pripada mahunarkama. Plod rogača je mahuna u kojoj se nalazi do 15 semenki. I mahuna i semenke su jestivi.
-
-Rogač sadrži visok procenat ugljenih hidrata, minerale (kalcijum, fosfor, kalijum magnezijum), vitamine (A, E, B, D).
-
-Brašno rogača koristi se u prehrambenoj industriji. U domaćinstvu se koristi kao zamena za kakao i kafu, dodaje se kolačima, pudinzima, nekim slanim jelima. Rogač je prirodno sladak, pa prilikom pripreme kolača treba dodati manju količinu šećera.
+**Rogač** je plod samoniklog mediteranskog drveta — jestiva mahuna sa slatkim semenkama, često korišćena kao prirodnija zamena za kakao. Pošto je sam po sebi sladak, u ovom kolaču ne treba preterivati sa šećerom. Za još sočniji ukus možete u testo dodati dve narendane kisele jabuke.

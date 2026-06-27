@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5517
 permalink: /čorbast-pasulj-sa-slaninom/
-description: Savršen recept za čorbast pasulj sa slaninom. Za spremanje ovog jela potrebno je pripremiti pasulj, slaninu, beli i crni luk, začine  
-keywords: čorbast pasulj, slanina, čorbast pasulj sa slaninom, pasulj, super recept, slanina
 image: /wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-940x198.jpg
+description: Tradicionalni čorbast pasulj sa slaninom i zaprškom od brašna i paprike — gust, mirisan i zasitan. Klasično jelo za hladnije dane, najbolji sutradan kad se ukusi slegnu.
+prep_time: PT20M
+cook_time: PT2H
+total_time: PT2H20M
+servings: 6 porcija
+nutrition: oko 380 kalorija po porciji
+ingredients:
+  - 400 g pasulja (prebranog)
+  - 1 glavica crnog luka
+  - 250 g slanine
+  - 1 lovorov list
+  - 1 paprika (sveža, suva ili pečena)
+  - 1 kašičica brašna
+  - 1 kašičica crvene mlevene paprike
+  - 2–3 čena belog luka
+  - so po ukusu
+  - ulje za zapršku
+instructions:
+  - Potopiti pasulj, kuvati u svežoj vodi sa lukom, paprikom, lovorom i slaninom.
+  - Pripremliti zapršku od brašna, belog luka i paprike.
+  - Kad pasulj omekša, posoliti i zapržiti zaprškom uz mešanje.
+  - Kuvati još 10 minuta na tihoj vatri.
 categories:
   - jela od mesa
 tags:
@@ -18,29 +38,14 @@ tags:
   - pasulj
   - slanina
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 400 grama pasulja
-  * glavica crnog luka
-  * 250 grama slanine
-  * lovorov list
-  * 1 paprika (sveža, suva ili pečena iz zamrzivača)
-  * kašičica brašna
-  * crvena mlevena paprika
-  * 2-3 čena belog luka
-  * so
-  * ulje
+<span id="step-1"></span>**Korak 1.** Prebran pasulj potopiti u hladnu vodu i ostaviti 2–3 sata ili preko noći. Ocediti, naliti hladnu vodu, staviti da kuva, pa čim provri — prosuti prvu vodu i naliti svežu vrelu.
 
-![Corbast pasulj sa slaninom](/wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Kada ponovo proključa, dodati sitno seckani crni luk, papriku, lovorov list i isečenu slaninu. Smanjiti vatru i pustiti da tiho vri, po potrebi dolivajući toplu vodu. **Do zapržavanja pasulj ne mešajte** — tako zrna ostaju čitava i ne zagore na dnu.
 
-**Priprema**: prebran pasulj potopiti u hladnu vodu i ostaviti da odstoji dva- tri sata ili preko noći. Zatim ga ocediti, naliti hladnom vodom da ogrezne i staviti da se kuva. Čim voda provri, prosuti je i pasulj naliti novom, vrelom vodom. Kada proključa, dodati sitno seckani crni luk, papriku, lovorov list i isečenu slaninu.
+<span id="step-3"></span>**Korak 3.** U malo zagrejanog ulja dodati brašno i pržiti dok blago ne porumeni. Skloniti sa vatre, odmah dodati sitno seckani beli luk i crvenu papriku i energično izmešati. Ovo je **zaprška** — zgušnjava i daje pasulju karakterističan crvenkast ukus.
 
-Smanjiti temperaturu i ostaviti pasulj da tiho vri. Po potrebi dolivati toplu vodu.
+<span id="step-4"></span>**Korak 4.** Kad pasulj omekša, posoliti po ukusu i u vrelu pasulj sipati zapršku, neprekidno mešajući da se brašno ne zgrudva. Kuvati na tihoj vatri još oko 10 minuta. Po želji dodati mleveni biber.
 
-U malo zagrejanog ulja dodati brašno i pržiti da blago porumeni. Isključiti toplotu, pa odmah dodati sitno seckani beli luk i crvenu mlevenu papriku i sve dobro izmešati.
-
-Kad pasulj omekša posoliti ga i zapržiti pripremljenom zaprškom, uz stalno mešanje da se brašno ne zgrudva. Kuvati na tihoj vatri još desetak minuta. Po želji, u pasulj dodati malo mlevenog bibera.
-
-**Napomena**:   umesto slanine, u pasulj se mogu staviti suva rebra ili suve kosti.
-
-Savet za mlade domaćice: pasulj se pri kuvanju, sve do zapržavanja, ne sme mešati kako ne bi došlo do lomljenja zrna i zagorevanja.
+Pasulj je najukusniji sutradan, uz domaći hleb i feferone. Umesto slanine možete koristiti suva rebra ili suve kosti — ukus će biti blaži, ali jednako aromatičan.
