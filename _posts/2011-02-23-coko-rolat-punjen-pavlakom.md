@@ -6,8 +6,35 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=44
 permalink: /coko-rolat-punjen-pavlakom/
-totvreme:
-  - ""
+description: Čoko-rolat punjen pavlakom — penasto umutiti žumanca sa šećerom.
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 7 jaja
+  - 7 kašika šećera
+  - 3 kašike brašna
+  - 1 kašika kakao praha
+  - 4 dl slatke pavlake
+  - 2 kašike šećera
+  - kesica vanilin šećera
+  - 3 štangle čokolade za kuvanje
+  - kašika šećera
+  - 2 kašike mleka
+  - kašičica maslaca ili margarina
+instructions:
+  - penasto umutiti žumanca sa šećerom.
+  - U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
+  - Testo peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
+  - Pečen rolat izručiti na platnenu salvetu posutu šećerom i uviti ga.
+  - Ukoliko je pleh bio pokriven papirom za pečenje, rolat se može uviti u taj papir.
+  - U dobro umućenu slatku pavlaku može se staviti i kesica učvršćivača za šlag.
+  - Odmotati ohlađeno testo za rolat, pa po sredini celom dužinom testa sipati umućenu pavlaku.
+  - Napraviti preliv na sledeći način: staviti u šerpicu izlomljenu čokoladu, šećer i mleko i kuvati na tihoj vatri dok se čokolada ne istopi.
+  - Skloniti sa vatre i dodati maslac.
+  - Pripremljenim prelivom preliti rolat.
 categories:
   - kolači
 tags:
@@ -16,37 +43,24 @@ tags:
   - slatka pavlaka
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-testo
+<span id="step-1"></span>**Korak 1.** penasto umutiti žumanca sa šećerom.
 
-  * 7 jaja
-  * 7 kašika šećera
-  * 3 kašike brašna
-  * 1 kašika kakao praha
+<span id="step-2"></span>**Korak 2.** U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
 
-nadev
+<span id="step-3"></span>**Korak 3.** Testo peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni.
 
-  * 4 dl slatke pavlake
-  * 2 kašike šećera
-  * kesica vanilin šećera
+<span id="step-4"></span>**Korak 4.** Pečen rolat izručiti na platnenu salvetu posutu šećerom i uviti ga.
 
-preliv
+<span id="step-5"></span>**Korak 5.** Ukoliko je pleh bio pokriven papirom za pečenje, rolat se može uviti u taj papir.
 
-  * 3 štangle čokolade za kuvanje
-  * kašika šećera
-  * 2 kašike mleka
-  * kašičica maslaca ili margarina
+<span id="step-6"></span>**Korak 6.** U dobro umućenu slatku pavlaku može se staviti i kesica učvršćivača za šlag.
 
-**Priprema**: penasto umutiti žumanca sa šećerom. U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
+<span id="step-7"></span>**Korak 7.** Odmotati ohlađeno testo za rolat, pa po sredini celom dužinom testa sipati umućenu pavlaku.
 
-Pleh prekriti pek papirom ili namazati maslacem i posuti brašnom, pa izručiti testo za rolat. Testo peći oko 20 minuta u pećnici zagrejanoj na 180 stepeni. Pečen rolat izručiti na platnenu salvetu posutu šećerom i uviti ga. Ukoliko je pleh bio pokriven papirom za pečenje, rolat se može uviti u taj papir.
+<span id="step-8"></span>**Korak 8.** Napraviti preliv na sledeći način: staviti u šerpicu izlomljenu čokoladu, šećer i mleko i kuvati na tihoj vatri dok se čokolada ne istopi.
 
-U međuvremenu, pripremiti nadev od ulupane slatke pavlake, 2 kašike šećera i vanilin šećera. U dobro umućenu slatku pavlaku može se staviti i kesica učvršćivača za šlag.
+<span id="step-9"></span>**Korak 9.** Skloniti sa vatre i dodati maslac.
 
-Odmotati ohlađeno testo za rolat, pa po sredini celom dužinom testa sipati umućenu pavlaku. Krajeve rolata spojiti ka sredini i rolat okrenuti da spojeni krajevi budu dole.
-
-Napraviti preliv na sledeći način: staviti u šerpicu izlomljenu čokoladu, šećer i mleko i kuvati na tihoj vatri dok se čokolada ne istopi. Skloniti sa vatre i dodati maslac.
-
-Pripremljenim prelivom preliti rolat. Kada se preliv stegne rolat ukrasiti slatkom pavlakom pomoću šprica (kesice) za šlag.
-
+<span id="step-10"></span>**Korak 10.** Pripremljenim prelivom preliti rolat.
