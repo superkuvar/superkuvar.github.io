@@ -6,13 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1125
 permalink: /dinstano-meso-sa-povrćem/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/06/Dinstanomesosapovrcem-940x198.jpg
+description: Sočno dinstano svinjsko meso sa paprikom, paradajzom i šargarepom — klasičan domaći ručak koji miriše po crvenoj paprici. Poslužite uz pirinač, testeninu ili pire.
+prep_time: PT20M
+cook_time: PT1H
+total_time: PT1H20M
+servings: 4 porcije
+nutrition: oko 420 kalorija po porciji
+ingredients:
+  - 500 g svinjskog mesa (na kockice)
+  - 3 glavice crnog luka
+  - 3 paradajza
+  - 3 paprike
+  - 3 šargarepe
+  - 1 ljuta papričica (po želji)
+  - 2 čena belog luka
+  - 1 kašika brašna
+  - 1 kašika crvene mlevene paprike
+  - so, biber i suvi biljni začin po ukusu
+  - ulje
+instructions:
+  - Propržiti luk i papriku, dodati meso i dinstati poklopljeno.
+  - Ubaciti povrće i beli luk, dinstati dok ne omekša.
+  - Zgusnuti brašnom razmućenim u vodi i kratko prokuvati.
 categories:
   - prilozi
 tags:
@@ -23,30 +39,14 @@ tags:
   - paradajz
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * svinjsko meso (500 grama)
-  * 3 glavice crnog luka
-  * 3 paradajza
-  * 3 paprike
-  * 3 šargarepe
-  * 1 ljuta papričica (po želji)
-  * 2 čena belog luka
-  * so
-  * suvi biljni začin
-  * biber
-  * crvena mlevena paprika
-  * kašika brašna
-  * ulje
+<span id="step-1"></span>**Korak 1.** Meso iseći na kockice, luk na listiće, papriku na komade, šargarepu i paradajz na kocke. Na zagrejanom ulju propržiti luk do staklastog izgleda, smanjiti vatru i dodati crvenu papriku — brzo promešati da ne zagori.
 
-<img class="alignnone size-medium wp-image-4775" title="Dinstanomesosapovrcem" src="/wp-content/uploads/2011/06/Dinstanomesosapovrcem-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U luk dodati meso i kratko propržiti. Začiniti biberom i suvim biljnim začinom, po želji dodati seckanu ljutu papričicu. Naliti malo tople vode, poklopiti i dinstati, uz povremeno mešanje i dolivanje vode.
 
-**Priprema**: meso iseći na kockice, luk na listiće, papriku na manje komade, šargarepu i paradajz, prethodno oljušten, na kocke.
+<span id="step-3"></span>**Korak 3.** Kad meso omekša, dodati iseckano povrće i beli luk. Dinstati otklopljeno dok povrće ne postane mekano i sos ne zgusne.
 
-Na zagrejanom ulju propržiti luk da postane staklast, smanjiti temperaturu i dodati crvenu mlevenu papriku. U luk dodati meso i kratko propržiti. Posuti biberom i suvim biljnim začinom, po želji dodati seckanu ljutu papričicu, naliti malo tople vode i poklopljeno dinstati.
+<span id="step-4"></span>**Korak 4.** Brašno razmutiti u malo hladne vode, sipati u jelo i promešati. Ostaviti na vatri još nekoliko minuta da sos postane glatkiji.
 
-Meso promešati povremeno, a po potrebi dolivati po malo tople vode. Kada je omekšalo, dodati iseckano povrće i beli luk. Dinstati dok povrće ne omekša.
-
-Kada je jelo skoro gotovo, sipati brašno razmućeno u malo vode, promešati i ostaviti na vatri još nekoliko minuta.
-
-Dinstano meso sa povrćem poslužiti sa barenim pirinčem, testeninom ili pireom od krompira.
+Dinstano meso je najukusnije sveže — sutrašnji dan ukusi se još više slegnu. Odlično ide uz bareni pirinač ili pire od krompira.

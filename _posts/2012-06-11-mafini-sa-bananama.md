@@ -6,15 +6,31 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3431
 permalink: /mafini-sa-bananama/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-fb_social_plugin_settings_box_comments:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/06/Mafini-sa-bananama-940x198.jpg
+description: Mekani mafini sa bananama i kakaom — koriste prezrele banane za prirodnu slatkoću. Brza priprema, odlični za užinu ili doručak.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 12 mafina
+nutrition: oko 200 kalorija po mafinu
+ingredients:
+  - 2 jajeta
+  - 5 kašika šećera
+  - 3 banane srednje veličine
+  - 1 dl ulja
+  - 2 dl jogurta
+  - 16 kašika mekog brašna
+  - 1 kesica praška za pecivo (10 g)
+  - prstohvat soli i sode bikarbone
+  - 2 kašike kakao praha
+  - 2 kašike ruma
+  - 1 kesica vanilin šećera
+  - 100 g čokolade i 2 kašike ulja (za preliv, po želji)
+instructions:
+  - Umutiti jaja sa šećerom, dodati ulje, jogurt, rum i banane.
+  - Promešati brašno sa praškom, kakaom, solju i sodom.
+  - Rasporediti u kalupe i peći na 200 °C.
+  - Po želji preliti istopljenom čokoladom.
 categories:
   - kolači
 tags:
@@ -25,33 +41,14 @@ tags:
   - rum
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 jajeta
-  * 5 kašika šećera
-  * 3 banane srednje veličine
-  * 1 dl ulja
-  * 2 dl jogurta
-  * 16 kašika mekog brašna
-  * 1 kesica praška za pecivo
-  * na vrh noža soli
-  * na vrh noža sode bikarbone
-  * 2 kašike kakao praha
-  * 2 kašike ruma
-  * 1 kesica vanilin šećera
+<span id="step-1"></span>**Korak 1.** U posudi umutiti jaja sa šećerom i vanilin šećerom. Dodati ulje, jogurt i rum. Banane ispasirati viljuškom i umešati u smesu.
 
-Za preliv:
+<span id="step-2"></span>**Korak 2.** Brašno pomešati sa praškom za pecivo, solju, sodom bikarbonom i kakaom. Sipati u smesu i izmešati varjačom do glatkog testa — ne mešajte predugo.
 
-  * 100 grama čokolade za kuvanje
-  * 2 kašike ulja
-  * čokoladne mrvice
+<span id="step-3"></span>**Korak 3.** Kalup za 12 mafina podmazati ili obložiti papirnim korpicama. Rasporediti testo do ⅔ visine svakog kalupa. Peći na 200 °C oko 30 minuta.
 
-<img class="alignnone size-medium wp-image-3432" title="Mafini sa bananama" src="/wp-content/uploads/2012/06/Mafini-sa-bananama-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-4"></span>**Korak 4.** Ostaviti 5 minuta u kalupu, zatim izvaditi i ohladiti. Po želji preliti čokoladom istopljenom sa uljem na tihoj vatri.
 
-**Priprema**: u posudi za mešenje umutiti jaja sa šećerom i vanilin šećerom, pa dodati ulje, jogurt i rum. Brašno pomešati sa praškom za pecivo, solju, sodom bikarbonom i kakao prahom, pa sipati u smesu sa jajima. Dodati banane, prethodno ispasirane viljuškom. Izmešati varjačom.
-
-Kalup za mafine od dvanaest komada podmazati ili koristiti papirne korpice. Razdeliti smesu u kalupe, do dve trećine svakog. Staviti u pećnicu zagrejanu na 200 stepeni i peći oko 30 minuta.
-
-Gotove mafine ostaviti da se prohlade pet minuta, skloniti korpice i kada se potpuno ohlade preliti ih istopljenom čokoladom. Odozgo, po želji, mafini se mogu posuti čokoladnim mrvicama.
-
-Preliv: izlomljenu čokoladu staviti u posudu, dodati ulje i na tihoj vatri kratko prokuvati, da se čokolada istopi.
+Prezrele banane sa pegama daju najbolji ukus i prirodnu vlagu — što su tamnije, to će mafini biti slađi i sočniji.

@@ -6,9 +6,23 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9544
 permalink: /salata-od-rotkvica/
-totvreme:
-  - ""
 image: /wp-content/uploads/2015/04/salataodrotkvica-940x198.jpg
+description: Osvežavajuća salata od svežih rotkvica i mladog luka sa jabukovim sirćetom — brza, pikantna i idealna uz jela od mesa. Priprema za 10 minuta.
+prep_time: PT10M
+cook_time: PT0M
+total_time: PT10M
+servings: 4 porcije
+nutrition: oko 45 kalorija po porciji
+ingredients:
+  - 2 vezice svežih rotkvica
+  - 1 vezica mladog crnog luka
+  - so i biber po ukusu
+  - 2 kašike jabukovog sirćeta
+  - 2 kašike ulja
+instructions:
+  - Očistiti i iseći rotkvice i mladi luk.
+  - Začiniti solju, biberom, sirćetom i uljem.
+  - Dobro izmešati i servirati odmah.
 categories:
   - salate
 tags:
@@ -16,20 +30,10 @@ tags:
   - rotkvice
   - sirće
 ---
-**Potrebno je**:  
-* sveže rotkvice (2 vezice)  
-* mladi crni luk (1 vezica)  
-* so  
-* biber  
-* jabukovo sirće  
-* ulje
+**Način pripreme:**
 
-![salataodrotkvica](/wp-content/uploads/2015/04/salataodrotkvica-1024x768.jpg)
+<span id="step-1"></span>**Korak 1.** Rotkvice očistiti, dobro oprati i iseći na tanke kolutove. Mladi crni luk očistiti zajedno sa perjem i isitniti.
 
-**Priprema**: rotkvice očistiti, dobro oprati i iseći na kolutove. Mladi crni luk očistiti, oprati i zajedno sa percima isitniti. Isečene rotkvice i mladi crni luk staviti u činiju za salatu, posoliti, pobiberiti, dodati jabukovo sirće i ulje. Salatu dobro izmešati.
+<span id="step-2"></span>**Korak 2.** U činiju za salatu staviti rotkvice i luk. Posoliti, pobiberiti, dodati jabukovo sirće i ulje. Dobro izmešati i ostaviti 5 minuta da se ukusi slegnu.
 
-Salata se, po želji, može ukrasiti maslinama isečenim na kolutiće ili četvrtinama tvrdo kuvanih jaja.
-
-**Napomena**:   rotkvice se mogu čuvati u frižideru, u plastičnoj kesi, najviše 5-6 dana. Prethodno rotkvicama odrezati lišće, jer ono prouzrokuje stvaranje vlage koja uništava hranljive sastojke.
-
-Rotkvice se koriste za pripremu različitih salata, ali se mogu i dinstati, a od lišća se mogu pripremati ukusne supe i prilozi.
+Salatu poslužite uz pečeno meso ili kao lagani predjelo. Po želji ukrasite maslinama ili kolutićima tvrdo kuvanog jaja. Rotkvice u frižideru traju 5–6 dana ako im odsečete lišće — ono zadržava vlagu i ubrzava kvarenje.

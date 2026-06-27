@@ -5,11 +5,26 @@ date: 2011-12-22T13:30:19+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=2110
-description: Originalni recept za oblande sa mlekom i orasima. Potrebno je mleko, šećer, orasi, pažljivo kuvanje na tihoj vatri i naravno jedno veće pakovanje oblandi
-keywords: oblande, mleko, orasi, fil za oblandu, mleko u šerpi, mleveni orasi, seckani orasi, slatka oblanda, vanilin šećer, vanilica, oblande, ukusne oblande, mlečne oblande, šećerne oblande, oblande bez margarina, oblanda sa margarinom, vreli fil, oblanda fil, filovanje, listovi oblande, karamelizacija mleka
 permalink: /oblande-sa-mlekom-i-orasima/
-totvreme:
-  - ""
+image: /wp-content/uploads/2011/12/mamina-oblanda.jpg
+description: Domaća oblanda sa karamelizovanim mlečnim filom i orasima — klasičan praznični slatkiš bez pečenja. Tajna je u postojanom mešanju dok fil ne dobije zlatnu boju.
+prep_time: PT20M
+cook_time: PT45M
+total_time: PT1H30M
+servings: 12 komada
+nutrition: oko 350 kalorija po komadu
+ingredients:
+  - 1,5 l mleka
+  - 900 g šećera
+  - 250 g mlevenih oraha
+  - 150 g margarina (opciono)
+  - 1 kesica vanilin šećera
+  - 1 veće pakovanje oblandi
+instructions:
+  - Prokuvati mleko, dodati šećer i mešati dok fil ne karamelizuje.
+  - Umešati margarin, vanilu i orahe.
+  - Vrelim filom premazati listove oblande i ostaviti da odstoji pod pritiskom.
+  - Seći na željene oblike.
 categories:
   - kolači
 tags:
@@ -19,45 +34,14 @@ tags:
   - orasi
   - šećer
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1,5 litar mleka
-  * 900 grama šećera
-  * 250 grama mlevenih oraha
-  * 150 grama margarina
-  * kesica vanilin šećera
-  * veće pakovanje oblandi
+<span id="step-1"></span>**Korak 1.** Sipati mleko u široku šerpu i dovesti do ključanja — široka površina pomaže da se višak vode ispari i fil brže zgusne.
 
-Uz [bakin kolač](/bakin-kolac), oblanda je jedno od omiljenih slatkiša koje je pravila moja baka. Kasnije su nastale napolitanke, ali nikad nisu nadmašile originalan ukus oblandi.
+<span id="step-2"></span>**Korak 2.** Dodati šećer i neprekidno mešati varjačom na umerenoj vatri. Fil je gotov kada postane zlatno smeđ — to je **karamelizacija** šećera u mleku. Varjača treba da ostavlja jasan trag po površini, kao kod pudinga.
 
-![oblande](/wp-content/uploads/2011/12/mamina-oblanda.jpg) 
+<span id="step-3"></span>**Korak 3.** Skloniti sa vatre, dodati margarin (može i bez njega), vanilin šećer i mlevene orahe. Lagano izmešati dok fil ne postane ujednačen.
 
-**Priprema fila**: 
+<span id="step-4"></span>**Korak 4.** **Vrelim filom** premazivati listove oblande jedan po jedan, pritiskajući dlanovima da se spoje. Gornji list ne mazati. Gotovu oblandu prekriti folijom ili salvetom, staviti teži predmet odozgo i ostaviti da odstoji najmanje 2 sata.
 
-Sipati mleko u šerpu da **provri**. Bolje je da koristite **široku šerpu**, kako bi mleko bolje isparavalo. Kad mleko provri, dodati šećer i mešati varijačom, dok se fil ne zgusne i dobije zlatastu boju. 
-
-Zlatasta ili zlano smeđa boje potiče od **karamelizacije šećera**. Ništa novo složićete se.
-
-Porces karamelizacije možete ubrzati ukoliko pojačate vatru na štednjaku, ali pritom morate mešati još intenzivnije kako fil ne bi zagoreo. Sa mešanjem prestati kada varijača ostavlja jasni trag nakon provlačenja kroz fil, kao za puding.
-
-Skloniti fil sa vatre, dodati margarin, vanilin šećer i mlevene orahe pa lagano izmešati.
-
-**Napomena**: Iako originalni recept zahteva margarin, ako ga nemate pri ruci, moguće ga je potpuno izostaviti. 
-
-Umesto mlevenih oraha možete koristiti sitno seckane orahe. Meni je uvek **lakše i praktičnije** da brzo sameljem orahe mlinom za orahe nego da iz sitno seckam.
-
-**Mazanje filom**:
-
-**Vrelim filom** premazivati listove oblande. Prilikom stavljanja sledećeg lista pritisnuti dlanovima po celoj površini oblande, da se spoje fil i oblanda, pa zatim nastaviti sa filovanjem. Gornji list oblande ne mazati filom.
-
-Gotovu oblandu prekriti folijom ili čistom platnenom salvetom, pritisnuti nekim težim predmetom i ostaviti neko vreme da odstoji, kako bi se fil dobro sjedinio sa listovima oblande.
-
-**Sečenje oblande**:
-
-Oblande seći oštrim nožem, po želji, na štanglice, kvadrate, romboide.
-
-Sledeći video prilično dobro objašnjava proces:
-
-<div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZyUUBDQOrOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Oblanda je najbolja sutradan, kada se fil potpuno stegne. Seći oštrim nožem na štanglice ili rombove. Margarin možete izostaviti; umesto mlevenih oraha koristite sitno seckane.

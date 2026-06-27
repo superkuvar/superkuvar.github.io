@@ -9,9 +9,26 @@ permalink: /sataras-sa-pirincem/
 redirect_from: 
   - /sataraš-sa-pirinčem/
   - /satara%C5%A1-sa-pirin%C4%8Dem/
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/06/Satarašsapirinčem-940x198.jpg
+description: Klasičan sataraš od paprike i paradajza sa pirinčem — jedno jelo u šerpi, pun ukusa i boja. Može samostalno ili kao prilog uz meso.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 200 kalorija po porciji
+ingredients:
+  - 1 kg paprika (crvena i žuta)
+  - 700 g paradajza
+  - 2 glavice crnog luka
+  - 3 čena belog luka
+  - 1 šoljica pirinča
+  - 1 kašičica šećera
+  - so, biber i suvi biljni začin po ukusu
+  - ulje
+instructions:
+  - Propržiti luk, dodati papriku i dinstati poklopljeno.
+  - Umešati paradajz, začine i pirinač.
+  - Dinstati dok pirinač ne omekša i sos ne zgusne.
 categories:
   - jela bez mesa
 tags:
@@ -20,25 +37,14 @@ tags:
   - paradajz
   - pirinač
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * paprike (1 kilogram)
-  * paradajz (700 grama)
-  * 2 glavice crnog luka
-  * 3 čena belog luka
-  * šoljica pirinča
-  * so
-  * biber
-  * suvi biljni začin
-  * kašičica šećera
-  * ulje
+<span id="step-1"></span>**Korak 1.** Papriku oprati, očistiti od semena i iseći na tanke rezance. Paradajz oljuštiti i isitniti. Crni luk sitno iseckati i propržiti na ulju dok ne postane staklast.
 
-<img class="alignnone size-medium wp-image-3691" title="Satarašsapirinčem" src="/wp-content/uploads/2011/06/Satarašsapirinčem-e1342021960671-300x233.jpg" alt="" width="300" height="233" /> 
+<span id="step-2"></span>**Korak 2.** Dodati papriku, poklopiti i dinstati na tihoj vatri oko 10 minuta, uz povremeno mešanje. Paprika treba da omekša, ali da zadrži oblik.
 
-**Priprema**: na ulju kratko propržiti sitno iseckan crni luk da postane staklast, zatim dodati na rezance isečenu papriku, pa poklopljeno, uz povremeno mešanje, dinstati na tihoj vatri.
+<span id="step-3"></span>**Korak 3.** Umešati paradajz, beli luk, suvi biljni začin, kašičicu šećera, so i biber. Dinstati još oko 10 minuta, pa dodati opran pirinač.
 
-Posle desetak minuta umešati oljušten i isitnjen paradajz, iseckan beli luk, kašiku suvog biljnog začina, kašičicu šećera, so i biber. Dinstati još desetak minuta, pa dodati opran pirinač.
+<span id="step-4"></span>**Korak 4.** Nastaviti dinstanje dok pirinač ne upije sok od povrća i ne omekša. Ako treba, doliti po malo tople vode.
 
-Uz povremeno mešanje, sataraš dinstati dok pirinač ne omekša i uvri suvišna voda koju je povrće pustilo.
-
-Sataraš sa pirinčem služiti samostalno ili kao prilog uz dinstano meso, faširane šnicle, ćufte.
+**Sataraš** je vrsni srpski specijalitet od ukrčkanog povrća — ime dolazi od turškog „satar“, što znači mešati. Ovde pirinač čini jelo zasitnijim i pretvara ga u kompletan obrok.

@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3624
 permalink: /boranija-sa-krompirom/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/06/Boranijasakrompirom-940x198.jpg
+description: Domaća boranija sa krompirom, šargarepom i crvenom paprikom — letnje varivo koje može samostalno ili uz meso. Zapravka od brašna daje pun, gust sos.
+prep_time: PT20M
+cook_time: PT45M
+total_time: PT1H5M
+servings: 4 porcije
+nutrition: oko 160 kalorija po porciji
+ingredients:
+  - 1 kg boranije
+  - 3 krompira
+  - 2 šargarepe
+  - 1 paradajz ili 2 kašike soka od paradajza
+  - 1 glavica crnog luka
+  - 2 čena belog luka
+  - 1 kašika brašna
+  - 1 kašika crvene mlevene paprike
+  - so, biber i suvi biljni začin po ukusu
+  - ulje
+  - svež peršunov list
+instructions:
+  - Propržiti luk, dodati boraniju i šargarepu, naliti vodu i kuvati.
+  - Ubaciti krompir, paradajz i začine.
+  - Zgusnuti brašnom i paprikom, završiti peršunom.
 categories:
   - jela bez mesa
 tags:
@@ -17,28 +37,14 @@ tags:
   - krompir
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram boranije
-  * 3 krompira
-  * 2 šargarepe
-  * 1 paradajz ili 2 kašike soka od paradajza
-  * 1 glavica crnog luka
-  * 2 čena belog luka
-  * so
-  * suvi biljni začin
-  * biber
-  * 1 kašika brašna
-  * crvena mlevena paprika
-  * ulje
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** Boraniju oprati, očistiti i iseći na komade od 3–4 cm. Šargarepu oljuštiti. Na vrelom ulju propržiti sitno seckani crni luk, pa dodati boraniju i šargarepu.
 
-![Boranija sa krompirom](/wp-content/uploads/2012/06/Boranijasakrompirom-1024x768.jpg) 
+<span id="step-2"></span>**Korak 2.** Naliti toplom vodom da ogrezne i kuvati dok boranija ne omekša upola. Posoliti, dodati suvi biljni začin, beli luk, paradajz na kriške (ili sok) i krompir na kocke.
 
-**Priprema**: na vrelom ulju propržiti sitno seckani crni luk, pa dodati boraniju, prethodno opranu, očišćenu i isečenu na komade dužine 3-4 santimetra i očišćenu šargarepu. Naliti toplom vodom da ogrezne i kuvati dok boranija upola ne omekša. Posoliti, dodati suvi biljni začin, sitno seckani beli luk, paradajz isečen na kriške ili sok od paradajza i očišćen krompir isečen na kocke. Kuvati dok boranija i krompir ne omekšaju.
+<span id="step-3"></span>**Korak 3.** Kuvati dok boranija i krompir ne postanu mekani. Brašno razmutiti u hladnoj vodi sa crvenom paprikom i sipati u jelo uz mešanje. Kuvati još oko 10 minuta.
 
-U malo hladne vode razmutiti brašno sa kašičicom crvene sitne paprike i sipati u boraniju. Promešati i kuvati još desetak minuta. U kuvanu boraniju dodati sitno seckani peršunov list.
+<span id="step-4"></span>**Korak 4.** Skloniti sa vatre i dodati seckani peršun. Poslužiti toplo — samostalno ili uz faširane šnicle.
 
-Jelo se može poslužiti samostalno ili kao prilog uz faširane šnicle, dinstano meso i slično.
-
-**Napomena**:   ukoliko se koristi zamrznuta boranija, onda u propržen luk treba dodati krompir isečen na kocke, naliti toplom vodom da ogrezne i kuvati desetak minuta. Zatim dodati paradajz isečen na kriške i boraniju. Začiniti i kuvati dok boranija ne omekša.
+Za zamrznutu boraniju prvo kuvajte krompir u proprženom luku oko 10 minuta, pa dodajte paradajz i boraniju.

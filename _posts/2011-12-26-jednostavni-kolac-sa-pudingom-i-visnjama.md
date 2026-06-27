@@ -6,13 +6,26 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2128
 permalink: /jednostavni-kolač-sa-pudingom-i-višnjama/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/12/Kolačsapudingomivisnjama-940x198.jpg
+description: Mekani patišpanj preliven vrelom višnjom i pudingom — jednostavan kolač bez miksera, savršen za praznične trpeze. Višnje daju kiselkast balans slatkom filu.
+prep_time: PT25M
+cook_time: PT30M
+total_time: PT55M
+servings: 8 porcija
+nutrition: oko 290 kalorija po porciji
+ingredients:
+  - 5 jaja
+  - 5 kašika šećera
+  - 5 kašika brašna
+  - 500 ml vode
+  - 200 g šećera (za fil)
+  - 500 g višanja (svežih ili smrznutih)
+  - 2 kesice pudinga od jagode
+  - 1 kesica šlaga (po želji)
+instructions:
+  - Umutiti jaja sa šećerom, dodati brašno i ispeći patišpanj.
+  - Prokuvati višnje sa šećerom i zgusnuti pudingom.
+  - Preliti vreli fil preko patišpanja i ohladiti.
 categories:
   - kolači
 tags:
@@ -21,30 +34,14 @@ tags:
   - višnje
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 5 jaja
-  * 5 kašika šećera
-  * 5 kašika brašna
+<span id="step-1"></span>**Korak 1.** U posudi polupati jaja, dodati šećer i umutiti mikserom. Kašiku po kašiku sipati brašno i lagano promešati spatulom. Testo sipati u podmazan i posut pleh i peći na 180 °C oko 20 minuta.
 
-**Fil**:
+<span id="step-2"></span>**Korak 2.** Dok se peče patišpanj, prokuvati vodu sa 200 g šećera. Dodati očišćene višnje i kuvati 5–6 minuta. Puding razmutiti u malo hladne vode ili soka od višanja.
 
-  * 500 ml vode
-  * 200 grama šećera
-  * 500 grama višanja (svežih ili zamrznutih)
-  * 2 kesice pudinga od jagode
-  * kesica šlaga (po želji)
+<span id="step-3"></span>**Korak 3.** U vrele višnje sipati puding uz neprekidno mešanje. Kuvati na slaboj vatri dok fil ne postane gust, kao kiselo slatko.
 
-![Jednostavni kolač sa pudingom i višnjama](/wp-content/uploads/2011/12/Kolačsapudingomivisnjama-1024x768.jpg)
+<span id="step-4"></span>**Korak 4.** Vreli fil preliti preko vrućeg patišpanja. Ostaviti da se ohladi i stegne — kolač se najlakše seče kada je potpuno hladan.
 
-**Priprema**: u posudu  za mešenje polupati jaja, dodati šećer i mutiti. Kada su jaja čvrsto umućena, dodati brašno (kašiku po kašiku) i lagano promešati. Testo sipati u podmazan i brašnom posut pleh, staviti u pećnicu i peći na 180 stepeni oko 20 minuta.
-
-U međuvremenu, prokuvati vodu sa 200 grama šećera, pa dodati višnje, očišćene od koštica i kuvati još 5-6 minuta.
-
-U prokuvane višnje dodati puding, prethodno razmućen u malo hladne vode ili soka od višanja, i uz neprestano mešanje još malo prokuvati na slaboj vatri.
-
-Vreli fil od pudinga i višanja preliti preko ispečenog patišpanja i ostaviti da se ohladi.
-
-Po želji, kolač se može ukrasiti šlagom.
-
-**Napomena**:   da ispečeno testo kolača ne bi bilo suvo, ja ga poprskam  šerbetom skuvanim od pola čaše vode i 2 kašike šećera, pa zatim premažem filom.
+Da patišpanj ne bi bio suv, možete ga pre fila poprskati šerbetom od pola čaše vode i 2 kašike šećera. Po želji ukrasite šlagom.
