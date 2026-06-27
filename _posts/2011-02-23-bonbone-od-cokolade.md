@@ -6,9 +6,26 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=59
 permalink: /bonbone-od-cokolade/
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/02/bombiceodcokolade-940x198.jpg
+description: Bombice od čokolade — belance penasto umutiti, ali ne previše čvrsto.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 150 grama čokolade za jelo i kuvanje
+  - 150 g mlevenih oraha
+  - 100 g šećera
+  - 1 belance
+  - 2 kašike ruma
+  - višnje iz slatka
+instructions:
+  - belance penasto umutiti, ali ne previše čvrsto.
+  - U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer.
+  - Masu lagano izmešati, da se sastojci sjedine.
+  - U sredinu svake kuglice-bombice staviti po jednu višnju iz slatka.
+  - Ostaviti da se bombice prosuše, a zatim ih staviti u papirne korpice i služiti.
 categories:
   - kolači
 tags:
@@ -17,25 +34,16 @@ tags:
   - rum
   - višnje
 ---
-**Potrebno**:
-
-  * 150 grama čokolade za jelo i kuvanje
-  * 150 g mlevenih oraha
-  * 100 g šećera
-  * 1 belance
-  * 2 kašike ruma
-  * višnje iz slatka
-
-
 ![bombice od cokolade](/wp-content/uploads/2011/02/bombiceodcokolade-1024x768.jpg)
 
+**Način pripreme:**
 
-**Priprema**: belance penasto umutiti, ali ne previše čvrsto. U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer. Masu lagano izmešati, da se sastojci sjedine. Otkidati komade veličine oraha i praviti kuglice.
+<span id="step-1"></span>**Korak 1.** belance penasto umutiti, ali ne previše čvrsto.
 
-U sredinu svake kuglice-bombice staviti po jednu višnju iz slatka. Zatim svaku bombicu uvaljati u rendanu čokoladu izmešanu sa kristal šećerom.
+<span id="step-2"></span>**Korak 2.** U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer.
 
-Ostaviti da se bombice prosuše, a zatim ih staviti u papirne korpice i služiti.
+<span id="step-3"></span>**Korak 3.** Masu lagano izmešati, da se sastojci sjedine.
 
-U vreme praznika i slava naše trpeze su uvek pune. Neizostavni deo praznične trpeze su i sitni kolači. Ovo je recept za jedan jednostavan, a ukusan kolač.
+<span id="step-4"></span>**Korak 4.** U sredinu svake kuglice-bombice staviti po jednu višnju iz slatka.
 
-
+<span id="step-5"></span>**Korak 5.** Ostaviti da se bombice prosuše, a zatim ih staviti u papirne korpice i služiti.
