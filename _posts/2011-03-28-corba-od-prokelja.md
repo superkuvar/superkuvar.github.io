@@ -1,42 +1,53 @@
 ---
 id: 296
-title: ČORBA OD PROKELjA
-date: 2011-03-28T10:46:09+00:00
+title: "ČORBA OD PROKELjA"
+date: "2011-03-28T10:46:09+00:00"
 author: mila
 layout: post
-guid: http://superkuvar.com/?p=296
+guid: "http://superkuvar.com/?p=296"
 permalink: /čorba-od-prokelja/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description: "Čorba od prokelja — crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprat…"
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
+ingredients:
+  - "prokelj (300 grama)"
+  - "1 šargarepa"
+  - "manji koren celera"
+  - "pola veze peršuna"
+  - "glavica crnog luka"
+  - "ulje"
+  - "so"
+  - "suvi biljni začin"
+  - "malo bibera"
+  - "2 dl kisele pavlake"
+instructions:
+  - "crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti."
+  - "Kad voda provri, dodati očišćen i opran prokelj isečen na polovine."
+  - "Čorbu kuvati dok povrće ne omekne, začiniti je i posuti sitno seckanim peršunovim listom."
+  - "Po želji, u čorbu dodati kiselu pavlaku."
 categories:
-  - supe i čorbe
+  - "supe i čorbe"
 tags:
-  - celer
-  - kisela pavlaka
-  - peršunov list
-  - prokelj
+  - "celer"
+  - "kisela pavlaka"
+  - "peršunov list"
+  - "prokelj"
+fb_social_plugin_settings_box_like:
+  - "default"
+fb_social_plugin_settings_box_send:
+  - "default"
 ---
-**Potrebno je**:
-
-  * prokelj (300 grama)
-  * 1 šargarepa
-  * manji koren celera
-  * pola veze peršuna
-  * glavica crnog luka
-  * ulje
-  * so
-  * suvi biljni začin
-  * malo bibera
-  * 2 dl kisele pavlake
-
 ![corba od prokelja](/wp-content/uploads/2011/03/corbaodprokelja.jpg)
 
-**Priprema**: crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti.
+**Način pripreme:**
 
-Posle pet minuta povrće naliti litrom i po tople vode. Kad voda provri, dodati očišćen i opran prokelj isečen na polovine. Ako su glavičice prokelja sitne nije ih potrebno poloviti.
+<span id="step-1"></span>**Korak 1.** crni luk očistiti, sitno iseckati, pa kratko propržiti na ulju. šargarepu i celer očistiti, oprati, iseći na kockice, dodati u luk i još malo pržiti.
 
-Čorbu kuvati dok povrće ne omekne, začiniti je i posuti sitno seckanim peršunovim listom. Po želji, u čorbu dodati kiselu pavlaku.
+<span id="step-2"></span>**Korak 2.** Kad voda provri, dodati očišćen i opran prokelj isečen na polovine.
+
+<span id="step-3"></span>**Korak 3.** Čorbu kuvati dok povrće ne omekne, začiniti je i posuti sitno seckanim peršunovim listom.
+
+<span id="step-4"></span>**Korak 4.** Po želji, u čorbu dodati kiselu pavlaku.
