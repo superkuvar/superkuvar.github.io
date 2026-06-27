@@ -7,8 +7,12 @@ layout: post
 guid: http://superkuvar.com/?p=178
 permalink: /jagnjeća-čorba/
 image: /wp-content/uploads/2011/03/jagnjecacorba-e1306838031484.jpg
-totvreme:
-  - ""
+description: Lagana jagnjeća čorba sa povrćem i legurom od žumanca, kisele pavlake i limuna.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
 ingredients:
   - jagnjeće meso (300 grama)
   - zelen za supu (veza)
@@ -25,18 +29,6 @@ instructions:
   - Jagnjeće meso oprati, zelen očistiti i iseći na kolutove, crni luk sitno iseckati. Na ulju propržiti luk i zelen, dodati meso i dinstati.
   - Naliti 1,5 litra vode, posoliti, dodati začin, biber i lovorov list. Kuvati oko 40 minuta, meso izvaditi, isitniti i vratiti u čorbu.
   - Pre serviranja dodati legir od žumanca, soka limuna, kisele pavlake i peršuna u vrelu čorbu.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
 categories:
   - supe i čorbe
 tags:

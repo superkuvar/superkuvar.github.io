@@ -38,8 +38,14 @@ layout: default
   {%- if page.cook_time -%}
   ,"cookTime": {{ page.cook_time | jsonify }}
   {%- endif -%}
+  {%- if page.total_time -%}
+  ,"totalTime": {{ page.total_time | jsonify }}
+  {%- endif -%}
   {%- if page.servings -%}
   ,"recipeYield": {{ page.servings | jsonify }}
+  {%- endif -%}
+  {%- if page.nutrition -%}
+  ,"nutrition": {"@type": "NutritionInformation", "calories": {{ page.nutrition | jsonify }}}
   {%- endif -%}
 }
 </script>

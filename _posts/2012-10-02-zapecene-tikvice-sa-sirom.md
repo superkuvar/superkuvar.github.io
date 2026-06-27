@@ -12,8 +12,13 @@ fb_social_plugin_settings_box_send:
   - default
 fb_social_plugin_settings_box_comments:
   - default
-totvreme:
-  - ""
+image: /wp-content/uploads/2012/10/Zapecenetikvicesasirom-1024x768.jpg
+description: Slojevito zapečene tikvice sa sirom i jajima, pečene u pećnici do zlatne korice.
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: 6 porcija
+nutrition: oko 290 kalorija po porciji
 ingredients:
   - 1 kilogram tikvica
   - 200 grama belog sira (može feta)
@@ -30,18 +35,6 @@ instructions:
   - Tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati u brašno i propržiti na ulju. Sir izmrviti, dodati dva žumanca, so, biber, mirođiju i bosiljak. Umutiti sneg od belanaca i umešati u sir.
   - Posudu podmazati uljem i ređati red tikvica, red nadeva od sira. Preko sipati malo ulja i peći oko 20 minuta na 200°C.
   - Preostalo jaje, brašno i mleko umutiti sa začinom, preliti preko tikvica i zapeći u pećnici.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
 categories:
   - jela bez mesa
 tags:

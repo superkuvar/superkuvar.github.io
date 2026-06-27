@@ -6,6 +6,13 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=165
 permalink: /pileća-čorba-sa-jabukom/
+image: /wp-content/uploads/2011/03/pilecacorbasajabukom-e1306838193995.jpg
+description: Pileća čorba sa kiselom jabukom, graškom i krompirom, završena pavlakom i jajetom.
+prep_time: PT25M
+cook_time: PT45M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 300 kalorija po porciji
 ingredients:
   - 1 glavica crnog luka
   - 1 veza zeleni (peršun, šargarepa, paškanat)
@@ -23,18 +30,6 @@ instructions:
   - Sitno iseckan crni luk propržiti na ulju da bude staklast. Dodati zelen i krompir na kockice, grašak, pileće meso, narendanu jabuku, začin, biber i lorber.
   - Naliti 2 litra vode i kuvati dok meso ne bude gotovo.
   - Meso iseckati na manje komade, vratiti u čorbu, dodati peršun i začiniti pavlakom u kojoj je razmućeno jaje.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
 categories:
   - supe i čorbe
 tags:

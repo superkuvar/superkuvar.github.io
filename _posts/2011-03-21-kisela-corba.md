@@ -6,8 +6,13 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=161
 permalink: /kisela-čorba/
-totvreme:
-  - ""
+image: /wp-content/uploads/2011/03/kiselacorba.jpg
+description: Kisela čorba od junećeg mesa sa zelenom, začinjena sirćetom ili limunom i kiselom pavlakom.
+prep_time: PT20M
+cook_time: PT1H
+total_time: PT1H20M
+servings: 4 porcije
+nutrition: oko 310 kalorija po porciji
 ingredients:
   - juneće meso (500 grama)
   - 1 veza zeleni
@@ -23,18 +28,6 @@ instructions:
   - Crni luk očistiti, sitno iseći i pržiti na malo ulja da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
   - Meso posoliti, pobiberiti, pa dodati beli luk i povrće iseckano na rezance. Naliti litrom i po tople vode i kuvati na umerenoj temperaturi dok meso ne omekša.
   - Dodati seckani peršunov list i začiniti sirćetom ili sokom od limuna i kiselom pavlakom.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
 categories:
   - supe i čorbe
 tags:

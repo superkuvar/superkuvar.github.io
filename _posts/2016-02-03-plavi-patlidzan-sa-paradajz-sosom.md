@@ -6,10 +6,13 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=12860
 permalink: /plavi-patlidzan-sa-paradajz-sosom/
-totvreme:
-  - ""
-post_views_count:
-  - "1"
+image: /wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-1024x768.jpg
+description: Zapečeni plavi patlidžan u slojevima sa paradajz sosom i kačkavaljem.
+prep_time: PT25M
+cook_time: PT45M
+total_time: PT1H10M
+servings: 6 porcija
+nutrition: oko 270 kalorija po porciji
 ingredients:
   - plavi patlidžan (1 kilogram)
   - crni luk (1 glavica)
@@ -24,19 +27,6 @@ instructions:
   - Patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ocediti. Luk propržiti, dodati paradajz i dinstati dok se sos ne zgusne. Začiniti i dodati beli luk.
   - U posudu ređati kriške patlidžana uvaljane u brašno, preliti sosom i rendanim kačkavaljem.
   - Peći oko 45 minuta na 220°C.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
-image: /wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-940x198.jpg
 categories:
   - jela bez mesa
 tags:

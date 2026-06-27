@@ -6,6 +6,13 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=159
 permalink: /teleća-čorba-sa-krompirom/
+image: /wp-content/uploads/2011/03/telecacorbasakrompirom-e1306838786577.jpg
+description: Teleća čorba sa krompirom i povrćem, zgušnjena jajima i mlekom.
+prep_time: PT25M
+cook_time: PT1H30M
+total_time: PT1H55M
+servings: 6 porcija
+nutrition: oko 350 kalorija po porciji
 ingredients:
   - 500 g telećeg mesa sa koskom (rozbratna)
   - 2 krompira (srednje veličine)
@@ -21,18 +28,6 @@ instructions:
   - Teleće meso staviti u lonac, naliti sa 2 litra vode i kuvati. Čim izbije prvi ključ, prosuti tu vodu, naliti čistu i kuvati meso dok ne omekša.
   - Dodati cele krompire, šargarepu, celer i paškanat, blago posoliti i kuvati dok povrće ne omekša (oko 40 minuta).
   - Procediti čorbu, meso i krompir iseckati na kockice, povrće izrendati, vratiti u lonac i dodati jaja umućena sa mlekom i kašikom brašna. Posuti seckanim peršunovim listom.
-recipeyield:
-  - ""
-url:
-  - ""
-preptime:
-  - ""
-totaltime:
-  - ""
-cooktime:
-  - ""
-breadcrumbs:
-  - ""
 categories:
   - supe i čorbe
 tags:
