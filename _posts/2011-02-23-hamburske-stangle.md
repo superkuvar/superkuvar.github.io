@@ -6,8 +6,34 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=25
 permalink: /hamburske-stangle/
-totvreme:
-  - ""
+description: Hamburške štangle — umutiti maslac sa šećerom i žumancima.
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 150 grama maslaca ili margarina
+  - 70 grama šećera
+  - 200 grama brašna
+  - 2 žumanceta
+  - marmelada od kajsija ili šipka
+  - 4 belanceta
+  - 200 g šećera u prahu
+  - 2 štangle čokolade
+  - 100 g mlevenih oraha ili badema
+  - limun
+  - 2 kašičice ruma
+  - 1 kesica vanilin šećera
+instructions:
+  - umutiti maslac sa šećerom i žumancima.
+  - Dodati brašno i zamesiti testo.
+  - Pleh podmazati maslacem i posuti brašnom, a zatim staviti testo.
+  - Testo premazati marmeladom, a preko marmelade staviti krem.
+  - Krem pripremiti na sledeći način: umutiti čvrst sneg od belanaca i šećera u prahu.
+  - U umućena belaca dodati narendanu čokoladu, mlevene orahe ili bademe, sok od pola limuna, rum i vanilin šećer.
+  - Krem lagano izmešati, a zatim ga premazati preko testa.
+  - Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
 categories:
   - kolači
 tags:
@@ -20,30 +46,20 @@ tags:
   - rum
   - žumanca
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-testo
+<span id="step-1"></span>**Korak 1.** umutiti maslac sa šećerom i žumancima.
 
-  * 150 grama maslaca ili margarina
-  * 70 grama šećera
-  * 200 grama brašna
-  * 2 žumanceta
-  * marmelada od kajsija ili šipka
+<span id="step-2"></span>**Korak 2.** Dodati brašno i zamesiti testo.
 
-krem
+<span id="step-3"></span>**Korak 3.** Pleh podmazati maslacem i posuti brašnom, a zatim staviti testo.
 
-  * 4 belanceta
-  * 200 g šećera u prahu
-  * 2 štangle čokolade
-  * 100 g mlevenih oraha ili badema
-  * limun
-  * 2 kašičice ruma
-  * 1 kesica vanilin šećera
+<span id="step-4"></span>**Korak 4.** Testo premazati marmeladom, a preko marmelade staviti krem.
 
-**Priprema**: umutiti maslac sa šećerom i žumancima. Dodati brašno i zamesiti testo. Pleh podmazati maslacem i posuti brašnom, a zatim staviti testo. Testo premazati marmeladom, a preko marmelade staviti krem.
+<span id="step-5"></span>**Korak 5.** Krem pripremiti na sledeći način: umutiti čvrst sneg od belanaca i šećera u prahu.
 
-Krem pripremiti na sledeći način: umutiti čvrst sneg od belanaca i šećera u prahu. U umućena belaca dodati narendanu čokoladu, mlevene orahe ili bademe, sok od pola limuna, rum i vanilin šećer. Krem lagano izmešati, a zatim ga premazati preko testa.
+<span id="step-6"></span>**Korak 6.** U umućena belaca dodati narendanu čokoladu, mlevene orahe ili bademe, sok od pola limuna, rum i vanilin šećer.
 
-Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni. Još topao kolač iseći na štangle. Štangle uvaljati u šećer u prahu zamirisan vanilom.
+<span id="step-7"></span>**Korak 7.** Krem lagano izmešati, a zatim ga premazati preko testa.
 
-&nbsp;
+<span id="step-8"></span>**Korak 8.** Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
