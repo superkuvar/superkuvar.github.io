@@ -8,10 +8,22 @@ guid: http://superkuvar.com/?p=178
 permalink: /jagnjeća-čorba/
 totvreme:
   - ""
-ingreedients:
-  - ""
-recipeinstructions:
-  - ""
+ingredients:
+  - jagnjeće meso (300 grama)
+  - zelen za supu (veza)
+  - glavica crnog luka
+  - so
+  - suvi biljni začin
+  - nekoliko zrna bibera
+  - lovorov list
+  - jedno žumance
+  - sok od limuna
+  - kašika kisele pavlake
+  - seckani peršunov list
+instructions:
+  - Jagnjeće meso oprati, zelen očistiti i iseći na kolutove, crni luk sitno iseckati. Na ulju propržiti luk i zelen, dodati meso i dinstati.
+  - Naliti 1,5 litra vode, posoliti, dodati začin, biber i lovorov list. Kuvati oko 40 minuta, meso izvaditi, isitniti i vratiti u čorbu.
+  - Pre serviranja dodati legir od žumanca, soka limuna, kisele pavlake i peršuna u vrelu čorbu.
 recipeyield:
   - ""
 url:

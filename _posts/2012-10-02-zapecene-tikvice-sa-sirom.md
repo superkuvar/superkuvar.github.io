@@ -14,10 +14,22 @@ fb_social_plugin_settings_box_comments:
   - default
 totvreme:
   - ""
-ingreedients:
-  - ""
-recipeinstructions:
-  - ""
+ingredients:
+  - 1 kilogram tikvica
+  - 200 grama belog sira (može feta)
+  - 3 jajeta
+  - 3 decilitra mleka
+  - 60 grama brašna
+  - so
+  - suvi biljni začin
+  - mirođija ili peršunov list
+  - bosiljak
+  - biber
+  - ulje
+instructions:
+  - Tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati u brašno i propržiti na ulju. Sir izmrviti, dodati dva žumanca, so, biber, mirođiju i bosiljak. Umutiti sneg od belanaca i umešati u sir.
+  - Posudu podmazati uljem i ređati red tikvica, red nadeva od sira. Preko sipati malo ulja i peći oko 20 minuta na 200°C.
+  - Preostalo jaje, brašno i mleko umutiti sa začinom, preliti preko tikvica i zapeći u pećnici.
 recipeyield:
   - ""
 url:

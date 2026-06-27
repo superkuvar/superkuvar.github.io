@@ -6,10 +6,23 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=163
 permalink: /pileća-kisela-čorba/
-ingreedients:
-  - ""
-recipeinstructions:
-  - ""
+ingredients:
+  - 300 grama živinskog mesa ili pileće sitneži
+  - 2 korena šargarepe
+  - koren peršuna
+  - manji koren celera
+  - koren paškanata
+  - manja glavica crnog luka
+  - biber u zrnu
+  - jaje
+  - so
+  - začin
+  - 1 dl kisele pavlake
+  - sok od limuna
+instructions:
+  - Staviti oprano meso u lonac, preliti sa 1,5 litra vode i kuvati. Dodati po jedan koren zeleni, iseckan crni luk i nekoliko zrna bibera. Posoliti i začiniti po želji.
+  - Kad je meso kuvano, procediti čorbu i zakuvati jajetom razmućenim u pavlaci.
+  - Meso odvojiti od kostiju, iseckati i vratiti u čorbu. Povrće izgnječiti viljuškom i vratiti u čorbu. Služiti sa kiselom pavlakom i sokom od limuna.
 recipeyield:
   - ""
 url:

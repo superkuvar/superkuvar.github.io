@@ -1,0 +1,144 @@
+SUPERKUVAR.COM — INSTRUKCIJE ZA RAD
+====================================
+
+SAJT
+----
+URL:        https://superkuvar.com
+Repo:       /home/dj/repos/superkuvar.github.io
+GitHub:     superkuvar/superkuvar.github.io
+Hosting:    GitHub Pages (automatski deploy posle git push)
+Recepti:    ~1168 objava (Jekyll)
+AdSense:    ca-pub-1993925204978426 (ads.txt postoji)
+AdSense alat: /home/dj/Desktop/adsense (Streamlit dashboard za analizu zarade)
+
+
+GROK BUILD — KAKO RADITI
+-------------------------
+Ne treba Cursor. Ne treba novi "agent repo". Radite direktno iz ovog foldera:
+
+  cd /home/dj/repos/superkuvar.github.io
+  grok
+
+Ili iz bilo kog foldera:
+
+  grok --cwd /home/dj/repos/superkuvar.github.io
+
+Korisne komande u Grok Build-u:
+  @_layouts/default.html     — priloži konkretan fajl u poruku
+  @_posts/                   — pregledaj folder recepata
+  /new                       — novi razgovor
+  grok -c                    — nastavi poslednji razgovor
+  Ctrl+O ili /yolo           — auto-odobravanje izmena (brži rad)
+
+
+GIT WORKFLOW
+------------
+  cd /home/dj/repos/superkuvar.github.io
+  git pull                              # povuci najnovije sa GitHub-a
+  # ... menjaj fajlove ...
+  git add .
+  git commit -m "Opis promene"
+  git push origin master                # GitHub Pages objavljuje za 1-3 min
+
+
+KOJI FAJLOVI SU BITNI ZA REDIZAJN
+---------------------------------
+  _layouts/default.html    — glavni okvir (header, footer, AdSense)
+  _layouts/post.html       — stranica pojedinačnog recepta
+  assets/css/style.css       — izgled
+  index.md                   — početna stranica
+  _config.yml                — podešavanja sajta
+  _posts/                    — svi recepti (Markdown)
+
+
+ADSENSE — KAKO POVEĆATI PRIHOD
+-------------------------------
+Trenutni problemi:
+  1. Zastareo dizajn (visok bounce rate = manje klikova na oglase)
+  2. Oglas u headeru (default.html) se učitava bez adsbygoogle.js skripte
+     (skripta je samo u post.html)
+  3. Stari Google Analytics UA-42249092-1 je ugašen — treba GA4
+  4. Nema Recipe Schema (JSON-LD) — gubite SEO saobraćaj iz Google pretrage
+  5. Početna stranica je jedna dugačka lista od 1168 linkova bez slika
+
+Prioritet za veću zaradu:
+  1. Recipe Schema (JSON-LD)        → +30-50% organski saobraćaj
+  2. Moderan mobilni dizajn         → manji bounce rate, više pageviews
+  3. Oglasi U SADRŽAJU recepta      → 2-3x veći RPM od header oglasa
+  4. Brže učitavanje (slike WebP)   → bolji Core Web Vitals
+  5. Interni linkovi "Slični recepti" → više stranica po posetiocu
+
+AdSense dashboard (analiza koja stranica najviše zarađuje):
+  cd /home/dj/Desktop/adsense
+  source .venv/bin/activate
+  streamlit run dashboard.py
+
+
+PREDLOG KOMPLETNOG REDIZAJNA
+----------------------------
+Vizuelno:
+  - Topla kuhinjska paleta (krem, narandžasta, tamno braon)
+  - Kartice recepata sa slikama na početnoj
+  - Čitljiv layout recepta (sastojci levo, koraci desno)
+  - Mobilni meni po kategorijama
+
+Za AdSense/SEO:
+  - Recipe JSON-LD na svakom receptu
+  - Oglas posle 2. i 5. koraka u receptu
+  - "Slični recepti" na dnu stranice
+  - GA4 umesto Universal Analytics
+  - Optimizovane slike (WebP, lazy loading)
+
+Struktura:
+  - Početna: istaknuti recepti + kategorije sa slikama
+  - Stranice kategorija (npr. /kategorija/kolaci/)
+  - Pretraga po sajtu
+
+
+RECIPE SCHEMA — POLJA U RECEPTIMA (_posts/*.md)
+------------------------------------------------
+Šablon _layouts/post.html čita ova polja iz YAML front matter-a:
+
+  ingredients:          lista sastojaka (obavezno za rich result)
+    - jaja (3 komada)
+    - brašno (200 g)
+  instructions:         lista koraka priprema
+    - Umutiti jaja i brašno.
+    - Peći 30 minuta na 180°C.
+  image:                putanja do slike (npr. /wp-content/uploads/...)
+  description:          kratak opis (opciono)
+  prep_time:            npr. PT15M  (15 min)
+  cook_time:            npr. PT45M  (45 min)
+  servings:             npr. "4 porcije"
+
+NE KORISTITI (stara/pogrešna imena iz WordPress migracije):
+  ingreedients         ← typo, treba ingredients
+  recipeinstructions   ← treba instructions
+  recipeyield          ← treba servings
+  preptime/cooktime    ← treba prep_time/cook_time (ISO 8601 trajanje)
+
+Primer ispravnog front matter-a:
+
+  ---
+  title: GULAŠ
+  layout: post
+  categories:
+    - jela od mesa
+  image: /wp-content/uploads/2011/06/gulas.jpg
+  ingredients:
+    - junetina (500 g)
+    - crni luk (1 glavica)
+  instructions:
+    - Meso iseckati i dinstati sa lukom.
+    - Dodati začine i vodu, kuvati 90 minuta.
+  servings: "4 porcije"
+  ---
+
+Provera: posle push-a testirati na
+  https://search.google.com/test/rich-results
+
+
+PROMPT ZA GROK (kopiraj i nalepi)
+---------------------------------
+  Kreni sa redizajnom superkuvar.com — moderan izgled, bolji AdSense,
+  Recipe Schema. Repo je Jekyll sajt na GitHub Pages.

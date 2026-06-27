@@ -6,10 +6,23 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=165
 permalink: /pileća-čorba-sa-jabukom/
-ingreedients:
-  - ""
-recipeinstructions:
-  - ""
+ingredients:
+  - 1 glavica crnog luka
+  - 1 veza zeleni (peršun, šargarepa, paškanat)
+  - 100 g graška
+  - 300 g krompira
+  - 1 belo pileće meso
+  - nekoliko zrna bibera
+  - začin
+  - peršunov list
+  - list lorbera
+  - čaša kisele pavlake
+  - 1 jaje
+  - 1 kisela jabuka
+instructions:
+  - Sitno iseckan crni luk propržiti na ulju da bude staklast. Dodati zelen i krompir na kockice, grašak, pileće meso, narendanu jabuku, začin, biber i lorber.
+  - Naliti 2 litra vode i kuvati dok meso ne bude gotovo.
+  - Meso iseckati na manje komade, vratiti u čorbu, dodati peršun i začiniti pavlakom u kojoj je razmućeno jaje.
 recipeyield:
   - ""
 url:

@@ -10,10 +10,20 @@ totvreme:
   - ""
 post_views_count:
   - "1"
-ingreedients:
-  - ""
-recipeinstructions:
-  - ""
+ingredients:
+  - plavi patlidžan (1 kilogram)
+  - crni luk (1 glavica)
+  - paradajz (4 srednje veličine)
+  - 2 čena belog luka
+  - brašno
+  - so
+  - biber
+  - ulje
+  - kačkavalj (200 grama)
+instructions:
+  - Patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ocediti. Luk propržiti, dodati paradajz i dinstati dok se sos ne zgusne. Začiniti i dodati beli luk.
+  - U posudu ređati kriške patlidžana uvaljane u brašno, preliti sosom i rendanim kačkavaljem.
+  - Peći oko 45 minuta na 220°C.
 recipeyield:
   - ""
 url:
