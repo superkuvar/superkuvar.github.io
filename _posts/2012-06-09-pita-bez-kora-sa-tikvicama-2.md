@@ -44,10 +44,18 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** Tikvice oprati, oljuštiti i narendati. Posoliti po ukusu, dodati malo svežeg bosiljka i mirođije i ostaviti da puste sok dok pripremate testo.
 
+![Korak 1 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak1.jpg)
+
 <span id="step-2"></span>**Korak 2.** U većoj posudi umutiti jaja, pa dodati ulje, jogurt i izmrvljen sir. Prosejati kukuruzno brašno sa praškom za pecivo, sipati u smesu i kratko izmešati varjačom.
+
+![Korak 2 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** U testo dodati narendane tikvice sa grizom i izmešati dok se masa ne izjednači. Treba da bude dovoljno gusta da se lepo razlije u pleh, ali ne previše tvrda.
 
+![Korak 3 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak3.jpg)
+
 <span id="step-4"></span>**Korak 4.** Pleh obložiti papirom za pečenje, sipati testo i ravnomerno razmazati. Peći u zagrejanoj pećnici na 220 °C oko 10 minuta, zatim temperaturu smanjiti na 200 °C i peći još oko 30 minuta, dok površina ne postane zlatno žuta.
+
+![Korak 4 — pita bez kora sa tikvicama](/wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.korak4.jpg)
 
 Pita je gotova kada je čvrsta na dodir, a ivice se lagano odvajaju od pleha. Najukusnija je topla — poslužite je uz kiselo mleko ili jogurt.
