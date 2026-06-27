@@ -6,8 +6,34 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=56
 permalink: /kolaci-s-jabukama/
-totvreme:
-  - ""
+description: Kolači s jabukama — umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne.
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 3 jajeta
+  - 60 g šećera
+  - 50 g brašna
+  - korica od jednog limuna
+  - kašika maslaca ili margarina
+  - marmelada od kajsija ili malina
+  - 4 kisele jabuke
+  - 150 grama šećera
+  - 2 belanceta
+  - kesica vanilin šećera
+instructions:
+  - umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne.
+  - U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac.
+  - Testo dobro izmešati.
+  - Pleh namazati maslacem, posuti brašnom pa sipati testo.
+  - Peći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
+  - Ispečeno testo izručiti na radnu površinu i okruglim kalupom vaditi pogačice.
+  - Jabuke oprati, oljuštiti, očistiti od semena i iseći na okrugle režnjeve iste debljine kao i pogačice.
+  - U šerpu usuti 100 grama šećera i malo vode, pa staviti na štednjak da se kuva.
+  - Kada sirup provri, dodati režnjeve jabuka i kuvati dok ne omekšaju.
+  - Umutiti čvrst sneg od belanaca, ostatka šećera i vanilin šećera.
 categories:
   - kolači
 tags:
@@ -16,36 +42,24 @@ tags:
   - marmelada
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-testo
+<span id="step-1"></span>**Korak 1.** umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne.
 
-  * 3 jajeta
-  * 60 g šećera
-  * 50 g brašna
-  * korica od jednog limuna
-  * kašika maslaca ili margarina
+<span id="step-2"></span>**Korak 2.** U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac.
 
-nadev
+<span id="step-3"></span>**Korak 3.** Testo dobro izmešati.
 
-  * marmelada od kajsija ili malina
-  * 4 kisele jabuke
-  * 150 grama šećera
-  * 2 belanceta
-  * kesica vanilin šećera
+<span id="step-4"></span>**Korak 4.** Pleh namazati maslacem, posuti brašnom pa sipati testo.
 
-**Priprema**: umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne. U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac. Testo dobro izmešati.
+<span id="step-5"></span>**Korak 5.** Peći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
 
-Pleh namazati maslacem, posuti brašnom pa sipati testo. Peći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
+<span id="step-6"></span>**Korak 6.** Ispečeno testo izručiti na radnu površinu i okruglim kalupom vaditi pogačice.
 
-Ispečeno testo izručiti na radnu površinu i okruglim kalupom vaditi pogačice. Svaku pogačicu namazati marmeladom od kajsija ili malina.
+<span id="step-7"></span>**Korak 7.** Jabuke oprati, oljuštiti, očistiti od semena i iseći na okrugle režnjeve iste debljine kao i pogačice.
 
-Jabuke oprati, oljuštiti, očistiti od semena i iseći na okrugle režnjeve iste debljine kao i pogačice. U šerpu usuti 100 grama šećera i malo vode, pa staviti na štednjak da se kuva. Kada sirup provri, dodati režnjeve jabuka i kuvati dok ne omekšaju. Zatim jabuke izvaditi iz sirupa i ostaviti da se ohlade. Ohlađene jabuke stavljati na pogačice &#8211; na svaki kolačić po jedan režanj.
+<span id="step-8"></span>**Korak 8.** U šerpu usuti 100 grama šećera i malo vode, pa staviti na štednjak da se kuva.
 
-Umutiti čvrst sneg od belanaca, ostatka šećera i vanilin šećera. Ovim ukrasiti kolačiće i ponovo vratiti u pećnicu, da belance porumeni.
+<span id="step-9"></span>**Korak 9.** Kada sirup provri, dodati režnjeve jabuka i kuvati dok ne omekšaju.
 
----
-
-**Sneg od belanca**: belanca mutiti u velikoj činiji ručnim mikserom, postepeno povećavajući brzinu. Sneg od belanca biće još čvršći ako se doda malo soli ili nekoliko kapi limuna.
-
-**Savet**: Kada razbijete jaje, ako je žumance uzdignuto polukružno a belance okolo čvrsto, **jaje je sveže**. Staro jaje ima pljosnato žumance i vodnjikavo belance. Kada se jaje stavi u vodu - sveže potone, a staro pliva u vodi. Ako **okrećete jaje**, sveže se brže i pravilno okreće u mestu, dok staro jaje ima manje obrtaja i menja mesto rotacije.
+<span id="step-10"></span>**Korak 10.** Umutiti čvrst sneg od belanaca, ostatka šećera i vanilin šećera.
