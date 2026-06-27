@@ -1,13 +1,34 @@
 ---
 id: 193
-title: ČORBA OD KOPRIVE I POVRĆA
-date: 2011-03-22T10:58:28+00:00
+title: "ČORBA OD KOPRIVE I POVRĆA"
+date: "2011-03-22T10:58:28+00:00"
 author: admin
 layout: post
-guid: http://superkuvar.com/?p=193
+guid: "http://superkuvar.com/?p=193"
 permalink: /čorba-od-kopriva-i-povrća/
-totvreme:
-  - ""
+description: "Čorba od koprive i povrća — koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti."
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
+ingredients:
+  - 500 grama kopriva
+  - 2 kašike ulja
+  - veza mladog crnog luka
+  - 1 šargarepa
+  - koren paškanata
+  - kašičica crvene sitne paprike
+  - 1 jaje
+  - šoljica pirinča
+  - so
+  - kisela pavlaka
+instructions:
+  - koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
+  - Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju.
+  - U proprženo povrće dodati crvenu mlevenu papriku i šoljicu pirinča, pa naliti sa 7 šolja vode (oko 1,5 litar).
+  - Kada voda provri dodati isitnjenu koprivu.
+  - Čorbu kuvati 30 minuta na umerenoj temperaturi, a pred kraj kuvanja začiniti je kiselom pavlakom u kojoj je razmućeno žumance.
 categories:
   - supe i čorbe
 tags:
@@ -18,28 +39,18 @@ tags:
   - pirinač
   - šargarepa
 ---
-**Potrebno je**:
+<img class="alignnone size-full wp-image-789" title="corbaodkoprivaipovrca" src="/wp-content/uploads/2011/03/corbaodkoprivaipovrca.jpg" alt="" width="231" height="218" />
 
-  * 500 grama kopriva
-  * 2 kašike ulja
-  * veza mladog crnog luka
-  * 1 šargarepa
-  * koren paškanata
-  * kašičica crvene sitne paprike
-  * 1 jaje
-  * šoljica pirinča
-  * so
-  * kisela pavlaka
+**Način pripreme:**
 
-<img class="alignnone size-full wp-image-789" title="corbaodkoprivaipovrca" src="/wp-content/uploads/2011/03/corbaodkoprivaipovrca.jpg" alt="" width="231" height="218" /> 
+<span id="step-1"></span>**Korak 1.** koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
 
-**Priprema**: koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
+<span id="step-2"></span>**Korak 2.** Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju.
 
-Povrće (mladi crni luk, šargarepu i paškanat) isitniti i propržiti na ulju. U proprženo povrće dodati crvenu mlevenu papriku i šoljicu pirinča, pa naliti sa 7 šolja vode (oko 1,5 litar). Kada voda provri dodati isitnjenu koprivu.
+<span id="step-3"></span>**Korak 3.** U proprženo povrće dodati crvenu mlevenu papriku i šoljicu pirinča, pa naliti sa 7 šolja vode (oko 1,5 litar).
 
-Čorbu kuvati 30 minuta na umerenoj temperaturi, a pred kraj kuvanja začiniti je kiselom pavlakom u kojoj je razmućeno žumance.
+<span id="step-4"></span>**Korak 4.** Kada voda provri dodati isitnjenu koprivu.
 
-Čorba od koprive je pravo okrepljenje za organizam u rano proleće.
+<span id="step-5"></span>**Korak 5.** Čorbu kuvati 30 minuta na umerenoj temperaturi, a pred kraj kuvanja začiniti je kiselom pavlakom u kojoj je razmućeno žumance.
 
-**Napomena**: Kopriva je samonikla divlja biljka koja raste na napuštenim staništima, od davnina je služila kao jelo. Hranljivost i delotvornost koprive poznavali su još stari Egipćani, koji su je gajili kao povrće.
-Zajedno sa aronijom i alojom i kopriva je čistač radioaktivnosti iz organizma čoveka.
+**Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
