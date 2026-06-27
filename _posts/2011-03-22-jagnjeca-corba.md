@@ -58,4 +58,6 @@ tags:
 
 <span id="step-2"></span>**Korak 2.** Kada se meso izdinstalo, naliti 1,5 litra vode, posoliti, dodati suvi biljni začin, nekoliko zrna bibera i lovorov list. Čorbu kuvati oko 40 minuta. Meso izvaditi, isitniti i vratiti u čorbu.
 
-<span id="step-3"></span>**Korak 3.** Pre serviranja dodati legir u vrelu čorbu. **Legir:** umutiti žumance, sok od limuna, kašiku kisele pavlake i seckani peršunov list, pa sipati u čorbu neposredno pre iznošenja na sto.
+<span id="step-3"></span>**Korak 3.** Pre serviranja dodati legir u vrelu čorbu, neposredno pre iznošenja na sto.
+
+**Legir:** umutiti žumance, sok od limuna, kašiku kisele pavlake i seckani peršunov list.
