@@ -7,28 +7,35 @@ layout: post
 permalink: /projara-sa-pecurkama-i-sirom/
 published: true
 image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.jpg
+description: Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjelo. Kukuruzno brašno daje blagu slatkastu notu, a prženi luk i lisičarke upotpunjuju bogat, slan ukus.
+prep_time: PT15M
+cook_time: PT50M
+total_time: PT1H5M
+servings: 6 porcija
+nutrition: oko 380 kalorija po porciji
+ingredients:
+  - 200 g pečuraka (lisičarke ili šampinjoni)
+  - 400 g kukuruznog belog brašna
+  - 100 g crnog luka
+  - 300 g sira (polutvrdi ili mladi, izmrvljenog)
+  - 4 jajeta
+  - 2 dl ulja
+  - 5 dl mleka
+  - 1 kesica praška za pecivo (10 g)
+  - so i biber po ukusu
+instructions:
+  - Prosejati kukuruzno brašno u veću posudu.
+  - U tiganju propržiti seckani luk i pečurke 5–7 minuta, pa ostaviti da se ohlade.
+  - Izmrviti sir, dodati umućena jajeta i prašak za pecivo, povezati sa brašnom.
+  - Umasiti luk i pečurke, postepeno dodavati mleko dok se ne dobije glatka masa srednje gustine.
+  - Pleh podmazati uljem, sipati masu i preliti površinu uljem.
+  - Peći na 200 °C oko 40 minuta dok gornja strana ne porumeni i projara ne bude čvrsta na dodir.
 posno: 
 categories:
    - proje
 tags:
    - sir
 ---
-Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjelo. Kukuruzno brašno daje blagu slatkastu notu, a prženi luk i lisičarke upotpunjuju bogat, slan ukus.
-
-**Potrebno je**:
-
-* 200 g lisičarki (ili drugih pečuraka)
-* 400 g kukuruznog belog brašna
-* 100 g crnog luka
-* 300 g sira (polutvrdi ili mladi, izmrvljenog)
-* 4 jajeta
-* 2 dl ulja
-* 5 dl mleka
-* 1 kesica praška za pecivo
-* so i biber po ukusu
-
-![projara sa pečurkama i sirom](/wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Prosejati kukuruzno brašno u veću posudu.
@@ -44,4 +51,3 @@ Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjel
 <span id="step-6"></span>**Korak 6.** Peći u zagrejanoj pećnici na 200 °C oko 40 minuta, dok gornja strana ne porumeni i projara ne bude čvrsta na dodir.
 
 Projara je najukusnija dok je topla. Poslužite je kao predjelo ili lagani obrok, sečenu na kocke ili trouglove po želji.
-
