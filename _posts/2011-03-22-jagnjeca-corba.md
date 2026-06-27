@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=178
 permalink: /jagnjeća-čorba/
+image: /wp-content/uploads/2011/03/jagnjecacorba-e1306838031484.jpg
 totvreme:
   - ""
 ingredients:
