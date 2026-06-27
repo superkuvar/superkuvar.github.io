@@ -1,58 +1,62 @@
 ---
 id: 34
-title: DADINI KOLAČI
-date: 2011-02-23T21:32:51+00:00
+title: "DADINI KOLAČI"
+date: "2011-02-23T21:32:51+00:00"
 author: admin
 layout: post
-guid: http://superkuvar.com/?p=34
+guid: "http://superkuvar.com/?p=34"
 permalink: /dadini-kolaci/
-totvreme:
-  - ""
+description: "Dadini kolači — u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa b…"
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: "4 porcije"
+nutrition: "oko 250 kalorija po porciji"
+ingredients:
+  - "1/2 kg brašna"
+  - "250 g maslaca ili margarina"
+  - "4 žumanceta"
+  - "3 kašike šećera"
+  - "1 čaša belog vina"
+  - "250 g mlevenih oraha"
+  - "250 g šećera"
+  - "marmelada od kajsija ili jagoda"
+  - "100 grama šećera"
+  - "100 grama čokolade"
+  - "5 kašika jake crne kafe"
+  - "komadić maslaca"
+instructions:
+  - "u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom."
+  - "Zatim dodati žumanca, šećer i belo vino."
+  - "Prvi deo testa rastanjiti oklagijom u koru, da odgovara veličini pleha u kome će se kolač peći."
+  - "Rastanjenu koru staviti u podmazan pleh i premazati tankim slojem marmelade."
+  - "Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni."
+  - "Pečen kolač ostaviti da se ohladi, a zatim ga preliti glazurom."
+  - "**Čoko glazura**: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med."
+  - "Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati."
 categories:
-  - kolači
+  - "kolači"
 tags:
-  - kafa
-  - marmelada
-  - maslac
-  - orasi  
-  - žumanca
+  - "kafa"
+  - "marmelada"
+  - "maslac"
+  - "orasi"
+  - "žumanca"
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-**Testo**:
+<span id="step-1"></span>**Korak 1.** u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom.
 
-  * 1/2 kg brašna
-  * 250 g maslaca ili margarina
-  * 4 žumanceta
-  * 3 kašike šećera
-  * 1 čaša belog vina
+<span id="step-2"></span>**Korak 2.** Zatim dodati žumanca, šećer i belo vino.
 
-**Fil**:
+<span id="step-3"></span>**Korak 3.** Prvi deo testa rastanjiti oklagijom u koru, da odgovara veličini pleha u kome će se kolač peći.
 
-  * 250 g mlevenih oraha
-  * 250 g šećera
-  * marmelada od kajsija ili jagoda
+<span id="step-4"></span>**Korak 4.** Rastanjenu koru staviti u podmazan pleh i premazati tankim slojem marmelade.
 
-**Glazura**:
+<span id="step-5"></span>**Korak 5.** Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
 
-  * 100 grama šećera
-  * 100 grama čokolade
-  * 5 kašika jake crne kafe
-  * komadić maslaca
+<span id="step-6"></span>**Korak 6.** Pečen kolač ostaviti da se ohladi, a zatim ga preliti glazurom.
 
-**Priprema**: u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom. Zatim dodati žumanca, šećer i belo vino. Testo dobro izraditi na radnoj površini, pa ga podeliti na četiri jednaka dela.
+<span id="step-7"></span>**Korak 7.** **Čoko glazura**: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med.
 
-Mlevene orahe pomešati sa šećerom, pa podeliti na tri jednaka dela.
-
-Prvi deo testa rastanjiti oklagijom u koru, da odgovara veličini pleha u kome će se kolač peći. Rastanjenu koru staviti u podmazan pleh i premazati tankim slojem marmelade. Odozgo posuti prvim delom mešavine oraha i šećera. Ovako uraditi još dvaput i najzad testo prekriti četvrtom korom.
-
-Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni. Pečen kolač ostaviti da se ohladi, a zatim ga preliti glazurom.
-
-**Čoko glazura**: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med.
-
-Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati. Kada se glazura ohladi kolač iseći na manje kocke.
-
-Možete koristiti i mlečnu glazuru **bez kafe**:
-
-**Mlečna čoko glazura**: promešajte na niskoj temperaturi 2,5 kašike šećera, 2,5 kašike mleka i 70 g čokolade. U glatku masu dodajte 50 g putera..
-
+<span id="step-8"></span>**Korak 8.** Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati.
