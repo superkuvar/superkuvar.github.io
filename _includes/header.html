@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="{{ '/' | relative_url }}" class="logo">Super<span>kuvar</span></a>
+    <button class="nav-toggle" type="button" aria-label="Meni" onclick="document.querySelector('.nav-main').classList.toggle('is-open')">☰</button>
+    <nav class="nav-main">
+      <a href="{{ '/kategorija/supe-i-corbe/' | relative_url }}">Supe i čorbe</a>
+      <a href="{{ '/kategorija/jela-od-mesa/' | relative_url }}">Jela od mesa</a>
+      <a href="{{ '/kategorija/kolaci/' | relative_url }}">Kolači</a>
+      <a href="{{ '/kategorija/slane-pite/' | relative_url }}">Pite</a>
+      <a href="{{ '/kategorije/' | relative_url }}">Sve kategorije</a>
+    </nav>
+    <form class="search-box" method="get" action="https://www.google.com/search" target="_blank">
+      <input type="hidden" name="sitesearch" value="superkuvar.com">
+      <input type="search" name="q" placeholder="Pretraga…" aria-label="Pretraga">
+      <button type="submit">Traži</button>
+    </form>
+  </div>
+</header>

@@ -1,0 +1,157 @@
+# Kategorije sajta — slug, naziv, opis, grupa, ikona
+- slug: supe-i-corbe
+  name: supe i čorbe
+  title: Supe i čorbe
+  icon: "🍲"
+  group: Glavna jela
+  description: Domće čorbe od mesa, povrća i začina — od jagnjeće i teleće do posnih i letnjih varijanti.
+- slug: jela-od-mesa
+  name: jela od mesa
+  title: Jela od mesa
+  icon: "🥩"
+  group: Glavna jela
+  description: Tradicionalna jela od junećeg, svinjskog, jagnjećeg i drugog mesa.
+- slug: jela-bez-mesa
+  name: jela bez mesa
+  title: Jela bez mesa
+  icon: "🥗"
+  group: Glavna jela
+  description: Posna i vegetarijanska jela — povrće, sir, jaja i žitarice.
+- slug: jela-od-ribe
+  name: jela od ribe
+  title: Jela od ribe
+  icon: "🐟"
+  group: Glavna jela
+  description: Riba na razne načine — pečena, kuvana, pohovana i u čorbama.
+- slug: jela-od-jaja
+  name: jela od jaja
+  title: Jela od jaja
+  icon: "🍳"
+  group: Glavna jela
+  description: Jela u kojima su jaja glavni sastojak.
+- slug: prilozi
+  name: prilozi
+  title: Prilozi
+  icon: "🥔"
+  group: Glavna jela
+  description: Krompir, pirinač, povrće i drugi prilozi uz glavno jelo.
+- slug: predjela
+  name: predjela
+  title: Predjela
+  icon: "🫕"
+  group: Predjela i salate
+  description: Hladna i topla predjela za početak obroka.
+- slug: salate
+  name: salate
+  title: Salate
+  icon: "🥬"
+  group: Predjela i salate
+  description: Sveže i zimne salate za svaku priliku.
+- slug: prelivi-za-salate
+  name: prelivi za salate
+  title: Prelivi za salate
+  icon: "🫒"
+  group: Predjela i salate
+  description: Domaći prelivi i dressing za salate.
+- slug: slane-pite
+  name: slane pite
+  title: Slane pite
+  icon: "🥧"
+  group: Peciva i pite
+  description: Pite sa sirom, mesom, povrćem i zeljem — pečenje i prženje.
+- slug: slatke-pite
+  name: slatke pite
+  title: Slatke pite
+  icon: "🥮"
+  group: Peciva i pite
+  description: Pite sa jabukama, višnjama, orasima i ostalim punjenjima.
+- slug: proje
+  name: proje
+  title: Proje
+  icon: "🌽"
+  group: Peciva i pite
+  description: Kukuruzne projice i proje — slane i slatke varijante.
+- slug: hlebovi-i-pogace
+  name: hlebovi i pogače
+  title: Hlebovi i pogače
+  icon: "🍞"
+  group: Peciva i pite
+  description: Domaći hleb, pogače i peciva za svaki dan.
+- slug: peciva
+  name: peciva
+  title: Peciva
+  icon: "🥐"
+  group: Peciva i pite
+  description: Slana i slatka peciva — od kiflica do pereca.
+- slug: testenine
+  name: testenine
+  title: Testenine
+  icon: "🍝"
+  group: Peciva i pite
+  description: Makarone, špagete i domaće testenine sa sosom.
+- slug: kolaci
+  name: kolači
+  title: Kolači
+  icon: "🎂"
+  group: Slatkiši
+  description: Domaći kolači za svakodnevicu i slave.
+- slug: posni-kolaci
+  name: posni kolači
+  title: Posni kolači
+  icon: "✝️"
+  group: Slatkiši
+  description: Kolači bez jaja i mlečnih proizvoda — za post.
+- slug: slatkisi
+  name: slatkiši
+  title: Slatkiši
+  icon: "🍪"
+  group: Slatkiši
+  description: Keks, bajadere, praline i drugi sitni slatkiši.
+- slug: torte
+  name: torte
+  title: Torte
+  icon: "🎂"
+  group: Slatkiši
+  description: Torte za rođendane, slave i praznike.
+- slug: rolati
+  name: rolati
+  title: Rolati
+  icon: "🍰"
+  group: Slatkiši
+  description: Rolat kolači sa raznim punjenjima.
+- slug: sladoledi
+  name: sladoledi
+  title: Sladoledi
+  icon: "🍦"
+  group: Slatkiši
+  description: Domaći sladoledi i sorbeti.
+- slug: slana-zimnica
+  name: slana zimnica
+  title: Slana zimnica
+  icon: "🫙"
+  group: Ostalo
+  description: Ajvar, pečenje, kiseli krastavci i druga slana zimnica.
+- slug: slatka-zimnica
+  name: slatka zimnica
+  title: Slatka zimnica
+  icon: "🍯"
+  group: Ostalo
+  description: Džemovi, pekmezi, kompoti i slatka zimnica.
+- slug: sosovi
+  name: sosovi
+  title: Sosovi
+  icon: "🥄"
+  group: Ostalo
+  description: Bešamel, paradajz sos, prelivi i drugi sosovi.
+- slug: napici
+  name: napici
+  title: Napici
+  icon: "☕"
+  group: Ostalo
+  description: Domaći napici, sokovi i napitci.
+- slug: dodaci-za-supe-i-corbe
+  name: dodaci za supe i čorbe
+  title: Dodaci za supe i čorbe
+  icon: "🍜"
+  group: Ostalo
+  description: Rezanci, knedle, tarana i drugi dodaci za čorbe.

@@ -38,26 +38,6 @@ tags:
   - jagnjeće meso
   - kisela pavlaka
 ---
-Lagana i aromatična jagnjeća čorba sa povrćem i blagim legurom od žumanca, limuna i kisele pavlake. Klasično jelo za hladnije dane — spremno za oko sat vremena.
-
-**Potrebno je**:
-
-* 300 g jagnjećeg mesa (but ili vrat, na kockice)
-* 1 veza zelen za supu (celer, šargarepa, paškanat)
-* 1 glavica crnog luka
-* 2–3 kašike ulja
-* 1,5 litra vode
-* so po ukusu
-* 1 kašičica suvog biljnog začina
-* biber po ukusu (mleven ili u zrnu)
-* 1 lovorov list
-* 1 žumance
-* sok od ½ limuna
-* 2 supene kašike kisele pavlake
-* 2–3 supene kašike seckanog peršunovog lista
-
-![jagnjeća čorba](/wp-content/uploads/2011/03/jagnjeca.corba.gotova.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.

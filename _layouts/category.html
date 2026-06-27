@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% assign cat_posts = site.posts | where_exp: "item", "item.categories contains page.category_name" %}
+
+<section class="category-hero">
+  <div class="category-hero-inner">
+    <nav class="breadcrumb" style="padding:0 0 0.75rem; color:rgba(255,255,255,0.75);">
+      <a href="{{ '/' | relative_url }}" style="color:rgba(255,255,255,0.75);">Početna</a> →
+      <a href="{{ '/kategorije/' | relative_url }}" style="color:rgba(255,255,255,0.75);">Kategorije</a> →
+      <span style="color:#fff;">{{ page.title }}</span>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    {% if page.category_description %}
+    <p>{{ page.category_description }}</p>
+    {% endif %}
+    <div class="category-stats">
+      <span>🍲 {{ cat_posts.size }} recepata</span>
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="category-layout">
+    {% include category-sidebar.html %}
+    <div class="category-main">
+      <div class="category-toolbar">
+        <p class="result-count"><strong>{{ cat_posts.size }}</strong> recepata u kategoriji</p>
+      </div>
+      <div class="recipe-grid" id="category-recipe-grid">
+        {% for post in cat_posts %}
+          {% include recipe-card.html post=post %}
+        {% endfor %}
+      </div>
+      {% include ad-bottom.html %}
+    </div>
+  </div>
+</main>

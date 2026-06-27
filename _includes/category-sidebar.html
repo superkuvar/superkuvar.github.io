@@ -1,0 +1,20 @@
+<aside class="category-sidebar">
+  <h3>Kategorije</h3>
+  <ul class="category-nav">
+    {% for cat in site.data.categories %}
+    {% assign cat_count = 0 %}
+    {% for post in site.posts %}
+      {% if post.categories contains cat.name %}{% assign cat_count = cat_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    <li>
+      <a href="{{ '/kategorija/' | append: cat.slug | append: '/' | relative_url }}"
+         {% if page.category_name == cat.name %}class="active"{% endif %}>
+        {{ cat.title }}
+        <span class="count">{{ cat_count }}</span>
+      </a>
+    </li>
+    {% endfor %}
+    <li><a href="{{ '/kategorije/' | relative_url }}" style="color:var(--orange);">Sve kategorije →</a></li>
+  </ul>
+  {% include ad-rectangle.html %}
+</aside>

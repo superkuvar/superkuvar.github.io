@@ -50,56 +50,128 @@ layout: default
 }
 </script>
 
-<style type="text/css">
-  .adslot_1 { width: 320px; height: 100px; }
-  @media (min-width:500px) { .adslot_1 { width: 475px; height: 60px; } 
-  @media (min-width:600px) { .adslot_1 { width: 575px; height: 60px; }
-  @media (min-width:700px) { .adslot_1 { width: 675px; height: 60px; }
-  }  
-</style>
-<!-- sk_top_resp -->
-<ins class="adsbygoogle adslot_1"
-     style="display:inline-block;"
-     data-ad-client="ca-pub-1993925204978426"
-     data-ad-slot="2714163561"></ins>
+<main class="container">
+
+  <nav class="breadcrumb">
+    <a href="{{ '/' | relative_url }}">Početna</a> →
+    {% if page.categories.first %}
+    {% assign cat_slug = '' %}
+    {% for cat in site.data.categories %}
+      {% if cat.name == page.categories.first %}{% assign cat_slug = cat.slug %}{% endif %}
+    {% endfor %}
+    {% if cat_slug != '' %}
+    <a href="{{ '/kategorija/' | append: cat_slug | append: '/' | relative_url }}">{{ page.categories.first }}</a> →
+    {% else %}
+    <span>{{ page.categories.first }}</span> →
+    {% endif %}
+    {% endif %}
+    {{ page.title }}
+  </nav>
+
+  {% include ad-leaderboard.html %}
+
+  <header class="recipe-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="recipe-intro">{{ page.description }}</p>
+    {% endif %}
+    {% if page.prep_time or page.cook_time or page.total_time or page.servings or page.nutrition %}
+    <div class="recipe-meta-bar">
+      {% if page.prep_time %}
+      <div class="meta-item">⏱ <strong>Priprema:</strong> {{ page.prep_time | replace: 'PT', '' | replace: 'H', ' h ' | replace: 'M', ' min' | strip }}</div>
+      {% endif %}
+      {% if page.cook_time %}
+      <div class="meta-item">🍲 <strong>Kuvanje:</strong> {{ page.cook_time | replace: 'PT', '' | replace: 'H', ' h ' | replace: 'M', ' min' | strip }}</div>
+      {% endif %}
+      {% if page.total_time %}
+      <div class="meta-item">⏰ <strong>Ukupno:</strong> {{ page.total_time | replace: 'PT', '' | replace: 'H', ' h ' | replace: 'M', ' min' | strip }}</div>
+      {% endif %}
+      {% if page.servings %}
+      <div class="meta-item">🍽 <strong>Porcije:</strong> {{ page.servings }}</div>
+      {% endif %}
+      {% if page.nutrition %}
+      <div class="meta-item">🔥 <strong>{{ page.nutrition }}</strong></div>
+      {% endif %}
+    </div>
+    {% endif %}
+  </header>
+
+  {% if page.image and page.image != '' %}
+  <img class="recipe-hero-img" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="eager">
+  {% endif %}
+
+  <div class="recipe-layout{% unless page.ingredients %} recipe-layout--single{% endunless %}">
+
+    {% if page.ingredients %}
+    <aside class="ingredients-panel">
+      <h2>Potrebno je</h2>
+      <ul>
+        {% for item in page.ingredients %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <section class="steps-panel">
+      <div class="recipe-content">
+        {{ content }}
+      </div>
+
+      {% if page.tags or page.categories %}
+      <div class="tags-row">
+        {% for tag in page.tags %}
+        <span class="tag-chip">{{ tag }}</span>
+        {% endfor %}
+        {% for cat in page.categories %}
+        <span class="tag-chip">{{ cat }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </section>
+
+  </div>
+
+  <div id="ad-after-step2">{% include ad-in-content.html %}</div>
+
+  {% include ad-bottom.html %}
+
+  {% if page.categories.first %}
+  {% assign current_cat = page.categories.first %}
+  <section class="similar-section">
+    <h2>Slični recepti</h2>
+    <div class="recipe-grid">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% if post.url != page.url and post.categories contains current_cat and shown < 3 %}
+          {% include recipe-card.html post=post %}
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+</main>
+
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(function() {
+  var step2 = document.getElementById('step-2');
+  var adSlot = document.getElementById('ad-after-step2');
+  if (step2 && adSlot) {
+    var stepArticle = step2.closest('p') || step2.parentElement;
+    var nextImg = stepArticle && stepArticle.nextElementSibling;
+    if (nextImg && nextImg.tagName === 'IMG') {
+      nextImg.insertAdjacentElement('afterend', adSlot);
+    } else if (stepArticle) {
+      stepArticle.insertAdjacentElement('afterend', adSlot);
+    }
+  }
+  document.querySelectorAll('.recipe-content p').forEach(function(p) {
+    var strong = p.querySelector('strong');
+    if (strong && strong.textContent.trim().indexOf('Legir') === 0) {
+      p.classList.add('legir-block');
+    }
+  });
+})();
 </script>
-
-
-<h1>{{ page.title }}</h1>
-
-<!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
-
-{{content}}
-
-{% if page.tags %}
-  <small><strong>tagovi:</strong> <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %} ;
-{% if page.categories %}
-  <small><strong>kategorija:</strong> <em>{{ page.categories | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-
-<div class="r-mes">
-<h3>Recepti meseca:</h3>
-<a href="https://superkuvar.com/brze-%C5%A1pagete/">BRZE ŠPAGETE SA TUNjEVINOM</a> * <a href="https://superkuvar.com/slane-galete/">SLANE GALETE</a> * <a href="https://superkuvar.com/dinstani-plavi-patlid%C5%BEan/">DINSTANI PLAVI PATLIDžAN</a> * <a href="https://superkuvar.com/so%C4%8Dni-kola%C4%8D-od-bundeve/">SOČNI KOLAČ OD BUNDEVE</a> * <a href="https://superkuvar.com/francuski-krompir-sa-jajima/">FRANCUSKI KROMPIR SA JAJIMA</a> * <a href="https://superkuvar.com/boranija-sa-krompirom/">BORANIJA SA KROMPIROM</a> * <a href="https://superkuvar.com/kola%C4%8D-sa-jogurtom-i-orasima/">KOLAČ SA JOGURTOM I ORASIMA</a> * <a href="https://superkuvar.com/rozen-torta/">ROZEN TORTA</a> * <a href="https://superkuvar.com/posne-vanilice/">POSNE VANILICE</a> * <a href="https://superkuvar.com/pire-od-krompira-i-karfiola/">PIRE OD KARFIOLA</a> * <a href="https://superkuvar.com/%C5%A1nenokle-sa-%C4%8Dokoladom/">ŠNENOKLE SA ČOKOLADOM</a> * <a href="https://superkuvar.com/pohovane-fa%C5%A1irane-%C5%A1nicle/">POHOVANE FAŠIRANE ŠNICLE</a> * <a href="https://superkuvar.com/zape%C4%8Deni-karfiol-u-belom-sosu/">ZAPEČENI KARFIOL U BEŠAMEL SOSU</a> * <a href="https://superkuvar.com/dinstani-kupus-sa-makaronama/">DINSTANI KUPUS SA MAKARONAMA</a> * <a href="https://superkuvar.com/zape%C4%8Dene-slatke-makarone/">ZAPEČENE SLATKE MAKARONE</a> * <a href="https://superkuvar.com/vanilice-s-orasima/">VANILICE SA ORASIMA</a> * <a href="https://superkuvar.com/jednostavna-poga%C4%8Da-sa-jogurtom/">BRZA POGACA SA JOGURTOM</a> * <a href="https://superkuvar.com/jednostavni-kola%C4%8D-sa-pudingom-i-vi%C5%A1njama/">KOLAC SA PUDINGOM</a> 
-</div>
-
-
-<style type="text/css">
-  .adslot_2 { width: 320px; height: 100px; }
-  @media (min-width:500px) { .adslot_2 { width: 468px; height: 90px; } }  
-</style>
-<!-- sk_bottom_resp -->
-<ins class="adsbygoogle adslot_2"
-     style="display:inline-block"
-     data-ad-client="ca-pub-1993925204978426"
-     data-ad-slot="7910649921"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<footer>        
-<small>© Superkuvar 2010-2026</small>
-</footer>

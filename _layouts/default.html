@@ -1,65 +1,40 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'sr' }}">
-  <head>
-    <meta charset="utf-8">    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    
-    {% if post.title == "" %}
-      <title>{{site.title | upcase}}</title>
-    {% else %}    
-      <title>{{page.title | upcase}} - {{site.title | upcase}}</title>
-    {% endif %}
-    {% if page.description %}
-      <meta name="description" content="{{page.description}}" />
-    {% endif %}
-    {% if page.keywords %}
-      <meta name="keywords" content="{{page.keywords}}" />
-    {% endif %}    
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>    
-    <![endif]-->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1993925204978426" crossorigin="anonymous"></script>
-    {% if site.google_analytics %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics }}');
-    </script>
-    {% endif %}
-
-
-  </head>
-  <body>
-    <div class="wrapper">
-
-      <header>
-        <h2><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <div class="h-ad">
-          <!-- SK left -->
-<ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1993925204978426"
-data-ad-slot="1837700166"
-data-ad-format="auto"
-data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-          
-        </div>
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      
-    </div>
-    
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/superkuvar.css' | append: '?v=' | append: site.github.build_revision | relative_url }}">
+  {% if page.title == nil or page.title == "" %}
+  <title>{{ site.title }}</title>
+  {% else %}
+  <title>{{ page.title }} — {{ site.title }}</title>
+  {% endif %}
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% elsif site.description %}
+  <meta name="description" content="{{ site.description }}">
+  {% endif %}
+  {% seo %}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1993925204978426" crossorigin="anonymous"></script>
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
+</head>
+<body>
+  {% include header.html %}
+  <div class="container">
+    {% include ad-header.html %}
+  </div>
+  {{ content }}
+  {% include footer.html %}
+</body>
 </html>

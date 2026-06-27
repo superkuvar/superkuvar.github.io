@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<main class="container">
+  <nav class="breadcrumb">
+    <a href="{{ '/' | relative_url }}">Početna</a> → Sve kategorije
+  </nav>
+  {% include ad-leaderboard.html %}
+
+  <header class="recipe-header" style="padding-bottom:0;">
+    <h1>Sve kategorije</h1>
+    <p class="page-intro">Pregledajte recepte po vrsti jela — ukupno preko {{ site.posts.size }} recepata.</p>
+  </header>
+
+  {% assign groups = "Glavna jela,Predjela i salate,Peciva i pite,Slatkiši,Ostalo" | split: "," %}
+  {% for group in groups %}
+  <h2 class="section-title">{{ group }}</h2>
+  <div class="categories-index-grid">
+    {% for cat in site.data.categories %}
+    {% if cat.group == group %}
+    {% assign cat_count = 0 %}
+    {% for post in site.posts %}
+      {% if post.categories contains cat.name %}{% assign cat_count = cat_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    <a href="{{ '/kategorija/' | append: cat.slug | append: '/' | relative_url }}" class="category-tile">
+      <div class="icon">{{ cat.icon }}</div>
+      <h3>{{ cat.title }}</h3>
+      <span class="count">{{ cat_count }} recepata</span>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+  {% include ad-bottom.html %}
+</main>

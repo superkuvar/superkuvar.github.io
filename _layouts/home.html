@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <h1>Tradicionalna kuhinja iz bakinih vitrina</h1>
+  <p>{{ site.description }}</p>
+  <div class="category-pills">
+    {% for cat in site.data.categories limit:8 %}
+    <a href="{{ '/kategorija/' | append: cat.slug | append: '/' | relative_url }}" class="pill">{{ cat.title }}</a>
+    {% endfor %}
+    <a href="{{ '/kategorije/' | relative_url }}" class="pill">Sve kategorije →</a>
+  </div>
+</section>
+
+<main class="container">
+  <h2 class="section-title">Najnoviji recepti</h2>
+  <div class="recipe-grid">
+    {% for post in site.posts limit:12 %}
+      {% include recipe-card.html post=post %}
+    {% endfor %}
+  </div>
+  {% include ad-bottom.html %}
+</main>

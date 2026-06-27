@@ -1,0 +1,17 @@
+<a href="{{ include.post.url | relative_url }}" class="recipe-card">
+  {% if include.post.image and include.post.image != '' %}
+  <img src="{{ include.post.image | relative_url }}" alt="{{ include.post.title | strip_html }}" loading="lazy">
+  {% else %}
+  <div style="aspect-ratio:4/3;background:var(--cream-dark);display:flex;align-items:center;justify-content:center;color:var(--text-light);font-size:2rem;">🍳</div>
+  {% endif %}
+  <div class="recipe-card-body">
+    <h3>{{ include.post.title }}</h3>
+    <div class="meta">
+      {% if include.post.total_time %}⏱ {{ include.post.total_time | replace: 'PT', '' | replace: 'H', ' h ' | replace: 'M', ' min' }}{% endif %}
+      {% if include.post.servings %} · {{ include.post.servings }}{% endif %}
+    </div>
+    {% if include.post.categories.first %}
+    <span class="tag">{{ include.post.categories.first }}</span>
+    {% endif %}
+  </div>
+</a>
