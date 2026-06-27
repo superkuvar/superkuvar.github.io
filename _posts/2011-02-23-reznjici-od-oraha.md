@@ -1,13 +1,37 @@
 ---
 id: 38
-title: REŽNjIĆI OD ORAHA
-date: 2011-02-23T22:02:19+00:00
+title: "REŽNjIĆI OD ORAHA"
+date: "2011-02-23T22:02:19+00:00"
 author: admin
 layout: post
-guid: http://superkuvar.com/?p=38
+guid: "http://superkuvar.com/?p=38"
 permalink: /reznjici-od-oraha/
-totvreme:
-  - ""
+description: "Režnjići od oraha — u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac…"
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: "4 porcije"
+nutrition: "oko 250 kalorija po porciji"
+ingredients:
+  - 250 grama brašna
+  - 200 grama maslaca ili margarina
+  - kašika šećera
+  - 1 dl mleka
+  - pola kockice svežeg kvasca
+  - 4 belanca
+  - 200 g šećera
+  - 250 g mlevenih oraha
+  - štangla čokolade za kuvanje
+  - malo ruma
+  - cimet (kašičica)
+instructions:
+  - u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
+  - U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac.
+  - Pleh podmazati maslacem i posuti brašnom pa poređati isečene komade jedan pored drugog, ali da se ne dodiruju.
+  - Pleh sa testom staviti u pećnicu i peći na 180 stepeni.
+  - Peći dok režnjići ne dobiju svetlo žutu boju.
+  - Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet.
+  - Sve lagano izmešati. --- **Cimet** se ovde upotrebljava u prahu.
 categories:
   - kolači
 tags:
@@ -18,35 +42,18 @@ tags:
   - orasi
   - rum
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-**Testo**:
+<span id="step-1"></span>**Korak 1.** u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
 
-  * 250 grama brašna
-  * 200 grama maslaca ili margarina
-  * kašika šećera
-  * 1 dl mleka
-  * pola kockice svežeg kvasca
+<span id="step-2"></span>**Korak 2.** U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac.
 
-**Nadev**:
+<span id="step-3"></span>**Korak 3.** Pleh podmazati maslacem i posuti brašnom pa poređati isečene komade jedan pored drugog, ali da se ne dodiruju.
 
-  * 4 belanca
-  * 200 g šećera
-  * 250 g mlevenih oraha
-  * štangla čokolade za kuvanje
-  * malo ruma
-  * cimet (kašičica)
+<span id="step-4"></span>**Korak 4.** Pleh sa testom staviti u pećnicu i peći na 180 stepeni.
 
-**Priprema**: u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe. U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac. Izručiti masu na radnu površinu posutu brašnom i umesiti testo umerene tvrdoće, ni suviše tvrdo ni suviše meko.
+<span id="step-5"></span>**Korak 5.** Peći dok režnjići ne dobiju svetlo žutu boju.
 
-Umešeno testo odmah podeliti na tri jednaka dela. Svaki deo testa oklagijom razvući u oblik kvadrata, pa svaki premazati nadevom. Testo zatim uviti kao rolat. Svaki rolat oštrim nožem iseći na komade debljine prsta.
+<span id="step-6"></span>**Korak 6.** Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet.
 
-Pleh podmazati maslacem i posuti brašnom pa poređati isečene komade jedan pored drugog, ali da se ne dodiruju. Pleh sa testom staviti u pećnicu i peći na 180 stepeni. Prvih pet minuta vrata na pećnici ne traba sasvim zatvoriti. Posle pet minuta pećnicu sasvim zatvoriti, za to vreme režnjići će narasti. Peći dok režnjići ne dobiju svetlo žutu boju.
-
-Još vruće režnjiće uvaljati u šećer u prahu.
-
-Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet. Sve lagano izmešati.
-
----
-
-**Cimet** se ovde upotrebljava u prahu. Inače, komadići cimetove kore mogu se stavljati u pića i kompote.
+<span id="step-7"></span>**Korak 7.** Sve lagano izmešati. --- **Cimet** se ovde upotrebljava u prahu.
