@@ -155,3 +155,15 @@
   icon: "🍜"
   group: Ostalo
   description: Rezanci, knedle, tarana i drugi dodaci za čorbe.
+- slug: zdravlje
+  name: zdravlje
+  title: Zdravlje
+  icon: "💚"
+  group: Ostalo
+  description: Saveti o ishrani, vitaminima, začinima i zdravom načinu života.
+- slug: cvarci
+  name: čvarci
+  title: Čvarci
+  icon: "🥓"
+  group: Ostalo
+  description: Priprema čvaraka i jela od čvaraka.
