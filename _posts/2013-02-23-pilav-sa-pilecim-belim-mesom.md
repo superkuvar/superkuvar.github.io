@@ -10,9 +10,26 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-940x198.jpg
+description: Pilav sa pilećim belim mesom, prazilukom i karijem — pirinač pečen u pećnici sa proprženim mesom i toplom pilećom supom.
+prep_time: PT20M
+cook_time: PT45M
+total_time: PT1H5M
+servings: 4 porcije
+nutrition: oko 400 kalorija po porciji
+ingredients:
+  - 500 g pilećeg mesa od grudi
+  - 1 struk praziluka (ili 1 glavica crnog luka)
+  - 1 šolja pirinča
+  - 1 pileća kocka za supu
+  - so i biber po ukusu
+  - kari
+  - ulje
+instructions:
+  - Sitno iseckan praziluk propržiti na ulju; dodati meso na kocke i pržiti dok ne pobeli.
+  - Posoliti, pobiberiti i dodati kari.
+  - U podmazanu posudu sipati opran pirinač, rasporediti luk i meso, naliti toplom supom.
+  - Peći na 180 °C dok pirinač ne upije tečnost.
 categories:
   - jela od mesa
 tags:
@@ -21,27 +38,14 @@ tags:
   - pirinač
   - praziluk
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * pileće meso od grudi (oko 500 grama)
-  * 1 struk praziluka
-  * šolja pirinča
-  * pileća kocka za supu
-  * so
-  * biber
-  * kari
-  * ulje
+<span id="step-1"></span>**Korak 1.** Opran, očišćen i sitno isečen praziluk (ili crni luk) propržiti na zagrejanom ulju.
 
-<img class="alignnone size-medium wp-image-5326" src="/wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-1024x768.jpg" alt="Pilavsapilecimbelimmesom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Dodati belo pileće meso isečeno na kocke i pržiti dok ne promeni boju — pobeli. Posoliti, pobiberiti i dodati kari.
 
-**Priprema**: opran, očišćen i sitno isečen praziluk ili glavicu crnog luka propržiti na zagrejanom ulju. Dodati belo meso isečeno na kocke i pržiti, dok ne promeni boju &#8211; pobeli. Posoliti, pobiberiti i dodati kari.
+<span id="step-3"></span>**Korak 3.** Oprati pirinač i sipati u podmazanu posudu za pečenje. Odozgo rasporediti propržen luk i meso, zatim naliti toplom pilećom supom ili vodom da ogrezne.
 
-Oprati pirinač, pa sipati u podmazanu posudu za pečenje. Odozgo rasporediti propržen luk i meso, a zatim naliti toplom pilećom supom ili vodom, da ogrezne.
+<span id="step-4"></span>**Korak 4.** Posudu staviti u prethodno zagrejanu pećnicu i peći na 180 °C dok tečnost ne uvri, odnosno dok pirinač ne bude prosušen.
 
-Posudu sa jelom staviti u prethodno zagrejanu pećnicu.
-
-Pilav peći na 180 stepeni, dok tečnost ne uvri odnosno pirinač bude prosušen.
-
-Pilav poslužiti sa salatom po izboru.
-
-&nbsp;
+Pilav poslužiti sa salatom po izboru. Praziluk je mladi crni luk u fazi sa tankim belim stabljikama, blagog ukusa.

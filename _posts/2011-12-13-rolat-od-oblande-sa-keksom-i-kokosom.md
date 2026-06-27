@@ -10,9 +10,28 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-940x198.jpg
+description: Dvobojni rolat od oblande sa tamnim filom od keksa i kakaoa i belim kokosovim filom — poslastica sa žele bombonima, bez pečenja.
+prep_time: PT45M
+cook_time: PT0M
+total_time: PT1H45M
+servings: 2 rolata
+nutrition: oko 450 kalorija po porciji
+ingredients:
+  - 2 lista veće oblande
+  - 3 dl mleka
+  - 400 g šećera u prahu
+  - 250 g margarina
+  - 300 g mlevenog keksa (pti ber)
+  - 200 g kokosovog brašna
+  - 2 kašike kakaoa
+  - 100 g žele bombona
+instructions:
+  - Pripremiti tamni fil — umutiti 150 g margarina sa 200 g šećera, dodati keks, kakao i 2 dl mleka.
+  - Pripremiti beli fil — umutiti 100 g margarina sa 200 g šećera, dodati kokosovo brašno preliveno 1 dl mleka.
+  - Oba fila podeliti na dva dela; listove oblande omekšati između vlažnih salveti.
+  - Premazati oblande filovima, dodati žele bombone i uviti u rolat.
+  - Staviti u frižider da se stegnu, pa seći.
 categories:
   - rolati
 tags:
@@ -24,31 +43,16 @@ tags:
   - oblande
   - žele bombone
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 lista veće oblande
-  * 3 decilitra mleka
-  * 400 grama šećera u prahu
-  * 250 grama margarina
-  * 300 grama mlevenog keksa pti ber
-  * 200 grama kokosovog brašna
-  * 2 kašike kakaoa
-  * 100 grama žele bombona
+<span id="step-1"></span>**Korak 1.** Tamni fil: penasto umutiti 150 g margarina sa 200 g šećera u prahu, pa dodati mleveni keks, 2 kašike kakao praha i 2 dl mleka. Masu dobro izmešati da se ujednači.
 
-<img class="alignnone size-medium wp-image-4582" title="Rolat od oblande sa keksom i kokosom" src="/wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Beli fil: penasto umutiti 100 g margarina sa 200 g šećera u prahu, pa dodati kokosovo brašno prethodno preliveno 1 dl mleka. Masu dobro izmešati.
 
-Prvo pripremiti oba fila, tamni i beli.
+<span id="step-3"></span>**Korak 3.** Oba fila podeliti na dva dela (za dva rolata). Listove oblande staviti između dve vlažne salvete da omekšaju, kako bi se lakše uvili.
 
-Tamni fil &#8211; Penasto umutiti 150 grama margarina sa 200 grama šećera u prahu, pa tome dodati mleveni keks, 2 kašike kakao praha i 2 decilitra mleka. Masu dobro izmešati da se ujednači.
+<span id="step-4"></span>**Korak 4.** Na vlažni list oblande, uz ivicu (oko jedne trećine širine) premazati beli fil, a na preostale dve trećine tamni fil. Uz ivicu sa belim filom poređati red žele bombona sečenih na štapiće, pa oblandu uviti kao rolat tako da beli fil bude u sredini. Tako postupiti i sa drugim listom.
 
-Beli fil &#8211; Penasto umutiti 100 grama margarina sa 200 grama šećera u prahu, pa u to dodati kokosovo brašno, prethodno preliveno decilitrom mleka. Masu dobro izmešati.
+<span id="step-5"></span>**Korak 5.** Gotove rolate staviti u frižider da se stegnu, a zatim seći na kolutove.
 
-Oba fila podeliti na dva dela (za dva rolata).
-
-Listove oblande staviti između dve vlažne salvete, da omekšaju, kako bi se lakše uvili u rolat.
-
-Na vlažni list oblande, uz ivicu (oko jedna trećina širine oblande) premazati beli fil, a zatim na ostale dve trećine tamni fil. Uz ivicu sa belim filom poređati jedan red žele bombona sečenih na štapiće, pa zatim oblandu uviti kao rolat (da beli fil bude u sredini). Tako postupiti i sa drugim listom oblande.
-
-Gotove rolate staviti u frižider da se stegnu, a zatim seći.
-
-**Napomena**:   ovaj rolat može se praviti i u posnoj varijanti, umesto mleka koristiti vodu, a umesto pti ber keksa posni keks.
+Rolat može se praviti i u posnoj varijanti — umesto mleka koristiti vodu, a umesto pti ber keksa posni keks.

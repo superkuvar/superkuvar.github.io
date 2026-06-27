@@ -10,33 +10,40 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/07/Kolacicisbelimvinom-940x198.jpg
+description: Mekani kolačići sa belim vinom i margarinom — lagani, aromatični i jednostavni za pripremu. Poslužite ih uvaljane u šećer u prahu sa vanilom.
+prep_time: PT25M
+cook_time: PT15M
+total_time: PT40M
+servings: oko 40 komada
+nutrition: oko 90 kalorija po komadu
+ingredients:
+  - 250 g masti ili 300 g margarina
+  - 2 dl belog vina
+  - 5 kašika šećera
+  - 1 kesica praška za pecivo (10 g)
+  - brašno po potrebi
+  - šećer u prahu za posipanje
+  - 1 kesica vanilin šećera
+instructions:
+  - Penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno koliko je potrebno da se dobije testo kao za vanilice.
+  - Dobro izrađeno testo razvući na debljinu prsta i modlom vaditi kolačiće.
+  - Kolačiće ređati u pleh prekriven papirom za pečenje i peći na 180 °C, pazeći da ostanu svetlije boje.
+  - Pečene kolačiće uvaljati u prah šećer zamirisan vanilom.
 categories:
   - kolači
 tags:
   - margarin
   - vino
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 250 grama masti ili 300 grama margarina
-  * belo vino (2 dl)
-  * 5 kašika šećera
-  * kesica praška za pecivo
-  * brašno
-  * šećer u prahu
-  * kesica vanilin šećera
+<span id="step-1"></span>**Korak 1.** Penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno, onoliko koliko je potrebno da se dobije testo kao za vanilice.
 
-<img class="alignnone size-medium wp-image-5697" src="/wp-content/uploads/2011/07/Kolacicisbelimvinom-1024x768.jpg" alt="Kolacicisbelimvinom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Dobro izrađeno testo razvući na debljinu prsta i modlom vaditi kolačiće.
 
-**Priprema**: penasto umutiti margarin, pa dodati vino, šećer, prašak za pecivo i brašno, onoliko koliko je potrebno da se dobije testo kao za vanilice.
+<span id="step-3"></span>**Korak 3.** Kolačiće ređati u pleh prekriven papirom za pečenje. Peći na 180 °C, ali paziti da ostanu svetlije boje.
 
-Dobro izrađeno testo razvući na debljinu prsta i modlom vaditi kolačiće.
+<span id="step-4"></span>**Korak 4.** Pečene kolačiće uvaljati u prah šećer zamirisan vanilom.
 
-Kolačiće ređati u pleh prekriven papirom za pečenje. Peći na 180 stepeni, ali paziti da ostanu svetlije boje.
-
-Pečene kolačiće uvaljati u prah šećer zamirisan vanilom.
-
-Ovi kolačići se mogu praviti i u posnoj varijanti, umesto masti upotrebiti posni margarin.
+Ove kolačiće možete pripremiti i u posnoj varijanti — umesto masti upotrebite posni margarin.

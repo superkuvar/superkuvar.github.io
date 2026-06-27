@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3643
 permalink: /projice-sa-tikvicama/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/07/Projicesatikvicama-940x198.jpg
+description: Sočne projice sa tikvicama i belim sirom savršene su za predjelo ili lagani doručak. Kukuruzno brašno i griz daju blagu slatkastu notu, a jogurt čini testo mekanim i vazdušastim.
+prep_time: PT15M
+cook_time: PT40M
+total_time: PT55M
+servings: 6 porcija
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 1 tikvica srednje veličine
+  - 2 jajeta
+  - 1,5 šolje ulja
+  - 1 čaša jogurta
+  - 150 g belog sira
+  - so i biber po ukusu
+  - 200 g kukuruznog brašna
+  - 100 g kukuruznog griza
+  - 1 kesica praška za pecivo (10 g)
+instructions:
+  - Tikvicu oprati, oljuštiti i krupno narendati.
+  - U posudu za mešenje staviti narendanu tikvicu, jaja, ulje, izmrvljen sir, jogurt, so, biber, kukuruzno brašno, kukuruzni griz i prašak za pecivo, pa izmešati varjačom.
+  - Sipati testo u kalup za projice obložen papirnim korpicama.
+  - Peći oko 40 minuta u pećnici zagrejanoj na 200 °C.
+  - Pečene projice ostaviti nekoliko minuta u kalupu, zatim izvaditi iz papirnih korpica.
 categories:
   - predjela
 tags:
@@ -18,21 +38,16 @@ tags:
   - tikvice
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 tikvica srednje veličine
-  * 2 jajeta
-  * šoljica i po ulja
-  * čaša jogurta
-  * 150 grama belog sira
-  * so
-  * biber
-  * 200 grama kukuruznog brašna
-  * 100 grama kukuruznog griza
-  * kesica praška za pecivo
+<span id="step-1"></span>**Korak 1.** Tikvicu oprati, oljuštiti i krupno narendati.
 
-<img class="alignnone size-medium wp-image-3644" title="Projicesatikvicama" src="/wp-content/uploads/2012/07/Projicesatikvicama-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U posudu za mešenje staviti narendanu tikvicu, jaja, ulje, izmrvljen sir, jogurt, so, malo bibera, kukuruzno brašno, kukuruzni griz i prašak za pecivo. Testo izmešati varjačom dok se sastojci ne sjedine.
 
-**Priprema**: tikvicu oprati, oljuštiti i krupno narendati. U posudu za mešenje staviti narendanu tikvicu, jaja, ulje, izmrvljen sir, jogurt, so, malo bibera, kukuruzno brašno, kukuruzni griz i prašak za pecivo. Testo za projice izmešati varjačom i sipati u kalup za projice obložen papirnim korpicama.
+<span id="step-3"></span>**Korak 3.** Sipati testo u kalup za projice obložen papirnim korpicama.
 
-Projice peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni. Pečene projice ostaviti nekoliko minuta u kalupu, a zatim ih izvaditi iz papirnih korpica. Služiti kao predjelo ili za doručak, uz jogurt ili kiselo mleko.
+<span id="step-4"></span>**Korak 4.** Peći oko 40 minuta u pećnici zagrejanoj na 200 °C, dok gornja strana ne porumeni i projice ne budu čvrste na dodir.
+
+<span id="step-5"></span>**Korak 5.** Pečene projice ostaviti nekoliko minuta u kalupu, a zatim ih izvaditi iz papirnih korpica.
+
+Projice su najukusnije dok su tople. Poslužite ih kao predjelo ili lagani doručak, uz jogurt ili kiselo mleko.

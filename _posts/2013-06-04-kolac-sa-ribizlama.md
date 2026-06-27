@@ -10,9 +10,28 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2013/06/Kolacsaribizlama-940x198.jpg
+description: Sočan kolač sa svežim ribizlama — polovina testa na dnu, bobice u sredini i preliv odozgo daju kiselkasto-slatki kontrast uz orahe i muskatni oraščić.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 12 kocki
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 2 jajeta
+  - 1 čaša (2 dl) šećera
+  - 1 čaša (2 dl) mleka
+  - ½ čaše (1 dl) ulja
+  - 2 čaše (4 dl) brašna
+  - 1 kesica praška za pecivo (10 g)
+  - ½ čaše (1 dl) seckanih oraha
+  - 250 g ribizle
+  - malo muskatnog oraščića
+instructions:
+  - Umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno sa praškom za pecivo, muskatni oraščić i seckane orahe.
+  - U podmazan i posut brašnom pleh sipati polovinu testa, posuti ribizlom, pa preliti ostatkom testa.
+  - Peći u zagrejanoj pećnici na 200 °C oko 40 minuta.
+  - Ohlađen kolač iseći na kocke i posuti šećerom u prahu.
 categories:
   - kolači
 tags:
@@ -23,28 +42,16 @@ tags:
   - šećer
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 jajeta
-  * čaša šećera
-  * čaša mleka
-  * pola čaše ulja
-  * 2 čaše brašna
-  * kesica praška za pecivo
-  * pola čaše seckanih oraha
-  * ribizla (250 grama)
-  * malo muskatnog oraščića
+<span id="step-1"></span>**Korak 1.** U većoj posudi umutiti jaja sa šećerom, pa dodati mleko i ulje.
 
-<img class="alignnone size-medium wp-image-5726" src="/wp-content/uploads/2013/06/Kolacsaribizlama-1024x768.jpg" alt="Kolacsaribizlama" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Umešati brašno pomešano sa praškom za pecivo, muskatni oraščić i seckane orahe. Masu izmešati varjačom dok ne postane glatka.
 
-**Priprema**: umutiti jaja sa šećerom, pa dodati mleko, ulje, brašno pomešano sa praškom za pecivo, muskatni oraščić i seckane orahe. Masu izmešati varjačom.
+<span id="step-3"></span>**Korak 3.** Pleh podmazati i posuti brašnom. Sipati polovinu količine testa, ravnomerno posuti oprane bobice ribizle, pa odozgo preliti ostatkom testa.
 
-U podmazan i brašnom posut pleh sipati polovinu količine testa, preko njega posuti bobice ribizle, pa odozgo sipati ostatak testa. Kolač staviti u zagrejanu pećnicu i peći na 200 stepeni oko 40 minuta.
+<span id="step-4"></span>**Korak 4.** Peći u zagrejanoj pećnici na 200 °C oko 40 minuta, dok gornja strana ne porumeni i kolač ne bude čvrst na dodir.
 
-Ohlađen kolač iseći na kocke i posuti šećerom u prahu.
+<span id="step-5"></span>**Korak 5.** Ohlađen kolač iseći na kocke i po želji posuti šećerom u prahu.
 
-**Napomena**:   čaša za merenje sastojaka je zapremine 2 dl.
-
-Ribizla je bobičato voće, crvene, crne ili bele boje, zavisno od vrste. Ima sočne sitne bobice, prijatnog kiselkasto slatkog ukusa.
-
-Ribizla je bogata karotenom, od koga potiče njena crvena boja. Najčešće koristi kao sveža ili prerađena u džem, marmeladu, žele, sok, vino.
+Ribizla (crvena, crna ili bela) daje kiselkasto-slatku notu koja lepo kontrastuje sa blagim testom. Za merenje sastojaka koristiti čašu zapremine 2 dl.

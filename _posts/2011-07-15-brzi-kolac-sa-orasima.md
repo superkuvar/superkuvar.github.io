@@ -10,9 +10,27 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/07/Melspajz-sa..-5-940x198.jpg
+description: Brz i jednostavan kolač sa mlevenim orasima — penasto umućena jaja, brašno i prašak za pecivo daju mekan, aromatičan kolač pečen na 200 °C oko pola sata.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 12 kocki
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 3 jajeta
+  - 4 šoljice (oko 2 dl) šećera
+  - 3 šoljice (oko 2 dl) ulja
+  - 3 šoljice (oko 2 dl) mleka
+  - 3 šoljice (oko 2 dl) mlevenih oraha
+  - 7 šoljica (oko 1 kg) brašna
+  - 1 kesica praška za pecivo (10 g)
+instructions:
+  - Penasto umutiti jaja sa šećerom.
+  - Dodati ulje, mleko, mlevene orahe i brašno pomešano sa praškom za pecivo; lagano izmešati.
+  - Masu sipati u pleh prekriven papirom za pečenje.
+  - Peći u zagrejanoj pećnici na 200 °C oko 30 minuta.
+  - Ohlađen kolač iseći na kocke.
 categories:
   - kolači
 tags:
@@ -20,28 +38,16 @@ tags:
   - orasi
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 jajeta
-  * 4 šoljice šećera
-  * 3 šoljice ulja
-  * 3 šoljice mleka
-  * 3 šoljice mlevenih oraha
-  * 7 šoljica brašna
-  * kesica praška za pecivo
+<span id="step-1"></span>**Korak 1.** U većoj posudi penasto umutiti jaja sa šećerom dok masa ne posvetli i ne postane penasta.
 
-<img class="alignnone size-medium wp-image-5761" src="/wp-content/uploads/2011/07/Melspajz-sa..-5-1024x768.jpg" alt="Melspajz sa.. 5" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Postepeno dodati ulje i mleko, zatim mlevene orahe i brašno pomešano sa praškom za pecivo. Lagano izmešati varjačom ili kašikom, samo dok se sastojci ne povežu — testo ne treba previše mešati.
 
-**Priprema**: penasto umutiti jaja sa šećerom, pa dodati ulje, mleko, mlevene orahe i brašno pomešano sa praškom za pecivo. Masu lagano izmešati i sipati u pleh prekriven papirom za pečenje.
+<span id="step-3"></span>**Korak 3.** Masu sipati u pleh obložen papirom za pečenje i ravnomerno rasporediti.
 
-Kolač peći oko 30 minuta u pećnici zagrejanoj na 200 stepeni.
+<span id="step-4"></span>**Korak 4.** Peći u zagrejanoj pećnici na 200 °C oko 30 minuta, dok četkica ubačena u sredinu ne izađe suva.
 
-Kada se kolač ohladi iseći ga na kocke.
+<span id="step-5"></span>**Korak 5.** Kolač ostaviti da se ohladi u plehu, pa iseći na kocke.
 
-O orasima: ovo koštunjavo voće bogato je ugljenim hidratima, belančevinama, nezasićenim masnim kiselinama, mineralima (pre svega selenom, bakrom, cinkom, magnezijumom, kalijumom, fosforom, kalcijumom, gvožđem, manganom) i vitaminima (A, C, E i B grupe &#8211; naročito folnom kiselinom).
-
-Ako se u toku dana pojede šaka oraha, znatno se snižava nivo holesterola u krvi, zbog sadržaja omega-3 masnih kiselina.
-
-Orasi se koriste tokom cele godine, jer se lako skladište i ne kvare. Mogu se, očišćeni, čuvati i u zamrzivaču.
-
-Orasi se najčešće koriste za izradu kolača ili kao dodatak salatama i jelima, a mogu se jesti i kao grickalica.
+Ovaj kolač je idealan kada treba brza poslastica bez komplikovanih koraka. Orahe mogu zameniti drugim mlevenim orašastim plodovima po želji.

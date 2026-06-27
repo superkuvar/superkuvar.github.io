@@ -6,8 +6,24 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1155
 permalink: /sos-od-šampinjona/
-totvreme:
-  - ""
+description: Kremasti sos od šampinjona sa brašnom i mlekom — brzo prženje pečuraka i zgušnjavanje daju sos pogodan za šnicle, pirinač ili rezance.
+prep_time: PT10M
+cook_time: PT15M
+total_time: PT25M
+servings: 4 porcije
+nutrition: oko 120 kalorija po porciji
+ingredients:
+  - 400 g šampinjona
+  - ulje
+  - 1 kašika brašna
+  - malo mleka
+  - so i biber po ukusu
+  - peršunov list
+instructions:
+  - Šampinjone oprati, očistiti i iseći na listiće.
+  - Propržiti na ulju dok ne omekšaju.
+  - Dodati brašno i malo mleka, pa još malo dinstati.
+  - Posoliti, pobiberiti i dodati seckani peršunov list.
 categories:
   - sosovi
 tags:
@@ -15,28 +31,14 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * šampinjoni (400 grama)
-  * ulje
-  * kašika brašna
-  * malo mleka
-  * biber
-  * so
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** Šampinjone oprati pod mlazom hladne vode, očistiti i iseći na listiće.
 
-![sos od pecuraka](/wp-content/uploads/2011/06/sosodpecuraka.jpg)
+<span id="step-2"></span>**Korak 2.** U tiganju zagrejati ulje i propržiti šampinjone dok ne omekšaju i ispuste tečnost.
 
-**Priprema**: šampinjone oprati, očistiti, iseći na listiće i propržiti na ulju. Kada su skoro izdinstani, dodati brašno i malo mleka, pa još malo dinstati. Posoliti, pobiberiti i dodati seckani peršunov list.
+<span id="step-3"></span>**Korak 3.** Kada su skoro izdinstani, posuti brašnom, dodati malo mleka i još nekoliko minuta dinstati uz mešanje, dok sos ne postane kremast.
 
-Sosom od šampinjona preliti šnicle od belog pilećeg mesa, kuvani pirinač ili široke rezance.
+<span id="step-4"></span>**Korak 4.** Posoliti, pobiberiti i dodati seckani peršunov list.
 
-O šampinjonima: šampinjoni su jedna od najčešće korišćenih jestivih pečuraka u ishrani. Pošto se mogu gajiti i na veštački način, u trgovini ih ima preko cele godine.
-
-Sadrže visok procenat vode, od 80-90%. Bogati su belančevinama, mineralima (kalijum, kalcijum, fosfor, gvožđe, selen) i vitaminima (naročito B kompleksa).
-
-Šampinjoni su niskokalorični, 100 grama sadrži svega 15 kcal. Ne sadrže saharozu ni skrob, pa su pogodni za ishranu lica koja boluju od dijabetesa.
-
-Šampinjone treba prati neposredno pre upotrebe, pod mlazom hladne vode. Mogu se koristiti sirovi &#8211; kao salata ili kuvani, dinstani, prženi, pečeni.
-
-Jela pripremljena od pečuraka ne bi trebalo podgrevati, jer stajanjem dolazi do raspadanja belančevina i ostalih sastojaka, pa može doći do razvoja mikroorganizama i nastanka toksina.
+Sosom od šampinjona preliti šnicle od belog pilećeg mesa, kuvani pirinač ili široke rezance. Jelo sa pečurkama ne preporučuje se podgrevanje — najbolje ga poslužiti sveže pripremljeno.

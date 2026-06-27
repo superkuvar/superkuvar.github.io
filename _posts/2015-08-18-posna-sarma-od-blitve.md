@@ -6,9 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9704
 permalink: /posna-sarma-od-blitve/
-totvreme:
-  - ""
 image: /wp-content/uploads/2015/08/posnasarmaodblitve-940x198.jpg
+description: Posna sarma od blitve sa sojinim ljuspicama, pirinčem i povrćem — lagano jelo bez mesa, kuvano u vodi dok listovi ne omekšaju.
+prep_time: PT40M
+cook_time: PT40M
+total_time: PT1H20M
+servings: 4 porcije
+nutrition: oko 220 kalorija po porciji
+ingredients:
+  - 4 veze blitve (malo veći listovi)
+  - 1 veza mladog crnog luka
+  - 1 šargarepa
+  - 100 g sojinih ljuspica
+  - ½ šolje pirinča
+  - so, biber i crvena mlevena paprika po ukusu
+  - ulje
+instructions:
+  - Sojine ljuspice preliti toplom vodom, ostaviti 10 minuta i ocediti.
+  - Sitno iseckati luk, narendati šargarepu i propržiti na ulju; dodati ljuspice, pirinač i začine.
+  - Listove blitve oprati, ukloniti debeli petelj i blanširati u vrelom vodi.
+  - Na svaki list staviti kašiku fila, uviti sarme i poređati u šerpu.
+  - Naliti vodu da ogreznu i kuvati na tihoj vatri oko 40 minuta.
+posno: true
 categories:
   - jela bez mesa
 tags:
@@ -17,25 +36,16 @@ tags:
   - šargarepa
   - sojine ljuspice
 ---
-**Potrebno je**:  
-* blitva (4 veze malo većih listova)  
-* mladi crni luk (1 veza)  
-* 1 šargarepa  
-* 100 grama sojinih ljuspica  
-* pola šolje pirinča  
-* so  
-* biber  
-* crvena mlevena paprika  
-* ulje
+**Način pripreme:**
 
-![<img class="alignnone size-medium wp-image-9705" src="/wp-content/uploads/2015/08/posnasarmaodblitve-1024x768.jpg" alt="posnasarmaodblitve" width="300" height="225" />](/wp-content/uploads/2015/08/posnasarmaodblitve-e1439879595600.jpg)
+<span id="step-1"></span>**Korak 1.** Sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, zatim ih ocediti.
 
-**Priprema**: sojine ljuspice preliti toplom vodom i ostaviti da odstoje desetak minuta, a zatim ih ocediti.
+<span id="step-2"></span>**Korak 2.** Mladi crni luk sitno iseckati, šargarepu narendati i propržiti na malo vrelog ulja. Dodati oceđene sojine ljuspice i opran pirinač, posoliti, pobiberiti, dodati kašičicu crvene sitne paprike i izmešati.
 
-Mladi crni luk i šargarepu oprati i očistiti. Luk sitno iseckati a šargarepu narendati i zatim ih propržiti na malo vrelog ulja. U propržen luk i šargarepu dodati sojine ljuspice i opran pirinač. Posoliti, pobiberiti, dodati kašičicu crvene sitne paprike i izmešati.
+<span id="step-3"></span>**Korak 3.** Listove blitve oprati i nožem ukloniti beli debeli deo petelja kako bi se listovi lakše uvijali. Preliti vrelom vodom, pa ostaviti da se ocede.
 
-Listove blitve oprati i nožem ukloniti beli debeli deo kako bi blitva kasnije mogla da se lako uvija u sarme. Preliti vrelom vodom, a zatim ostaviti da se blitva ocedi.
+<span id="step-4"></span>**Korak 4.** Na svaki list blitve staviti kašiku fila i uvijati sarme. Sarme poređati u šerpu i naliti vodom da ogreznu.
 
-Na svaki list blitve staviti kašiku fila i uvijati sarme. Sarme poređati u šerpu i naliti vodom da ogreznu. Kuvati na tihoj vatri dok voda skoro ne uvri (oko 40 minuta).
+<span id="step-5"></span>**Korak 5.** Kuvati na tihoj vatri dok voda skoro ne uvri, oko 40 minuta.
 
-Posna sarma od blitve može se poslužiti uz kiselo mleko ili pavlaku.
+Posna sarma od blitve može se poslužiti uz kiselo mleko ili pavlaku. Sojine ljuspice su suvišni proteinski proizvod od soje, često korišćen kao zamena za mleso u posnim jelima.

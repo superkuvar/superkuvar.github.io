@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3235
 permalink: /kuvani-mladi-kupus/
-totvreme:
-  - ""
 image: /wp-content/uploads/2012/05/Kuvani-mladi-kupus1-940x198.jpg
+description: Kuvani mladi kupus sa paprikom, šargarepom i paradajzom — jednostavno i zasitno jelo bez mesa. Odličan uz pržene kobasice ili slaninu.
+prep_time: PT20M
+cook_time: PT1H
+total_time: PT1H20M
+servings: 6 porcija
+nutrition: oko 150 kalorija po porciji
+ingredients:
+  - 1,5 kg glavice mladog kupusa
+  - 1 glavica crnog luka
+  - 2 paprike (mogu i pečene iz zamrzivača)
+  - 2 šargarepe
+  - so po ukusu
+  - suvi biljni začin
+  - mleveni biber
+  - 1 šolja kuvanog paradajza
+  - ulje
+instructions:
+  - Crni luk očistiti i sitno iseći; šargarevu i papriku oprati, očistiti i iseći na kolutove; kratko propržiti na ulju.
+  - U proprženo povrće staviti kupus isečen na krupnije komade, dodati so, suvi biljni začin i biber.
+  - Naliti vodom da kupus ogrezne, poklopiti i kuvati 45 minuta na umerenoj temperaturi.
+  - Sipati sok od kuvanog paradajza i kuvati još 15 minuta.
+  - Po želji posuti seckanim peršunovim listom.
 categories:
   - jela bez mesa
 tags:
@@ -16,22 +36,16 @@ tags:
   - paprike
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * glavica mladog kupusa (oko 1,5 kg)
-  * glavica crnog luka
-  * 2 paprike (mogu i pečene iz zamrzivača)
-  * 2 šargarepe
-  * so
-  * suvi biljni začin
-  * mleveni biber
-  * šolja kuvanog paradajza
-  * ulje
+<span id="step-1"></span>**Korak 1.** Crni luk očistiti i sitno iseći. Šargarevu i papriku oprati, očistiti i iseći na kolutove. Iseckano povrće kratko propržiti na malo ulja.
 
-<img class="alignnone size-medium wp-image-3237" title="Kuvani mladi kupus" src="/wp-content/uploads/2012/05/Kuvani-mladi-kupus1-e1337438903246-300x234.jpg" alt="" width="300" height="234" /> 
+<span id="step-2"></span>**Korak 2.** U proprženo povrće staviti kupus isečen na krupnije komade (osmine), dodati so, suvi biljni začin i biber.
 
-**Priprema**: crni luk očistiti i sitno iseći. šargarepu i papriku oprati, očistiti i iseći na kolutove. Iseckano povrće kratko propržiti na malo ulja.
+<span id="step-3"></span>**Korak 3.** Naliti vodom da kupus ogrezne, poklopiti i kuvati 45 minuta na umerenoj temperaturi.
 
-U proprženo povrće staviti kupus isečen na krupnije komade (osmine), dodati so, suvi biljni začin i biber. Naliti vodom da kupus ogrezne, poklopiti i kuvati 45 minuta na umerenoj temperaturi. Sipati sok od kuvanog paradajza i kuvati još 15 minuta. Po želji kupus posuti seckanim peršunovim listom.
+<span id="step-4"></span>**Korak 4.** Sipati sok od kuvanog paradajza i kuvati još 15 minuta.
 
-Kuvani mladi kupus poslužiti sa prženim kobasicama ili proprženom suvom mesnatom slaninom.
+<span id="step-5"></span>**Korak 5.** Po želji kupus posuti seckanim peršunovim listom.
+
+Kuvani mladi kupus poslužite sa prženim kobasicama ili proprženom suvom mesnatom slaninom.

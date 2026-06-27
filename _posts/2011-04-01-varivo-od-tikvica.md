@@ -6,9 +6,25 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=396
 permalink: /varivo-od-tikvica/
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/04/Varivo-od-tikvica-940x198.jpg
+description: Lagano varivo od mladih tikvica sa kiselom pavlakom i mirođijom — brzo jelo bez mesa koje može biti i samostalan obrok i prilog uz piletinu.
+prep_time: PT15M
+cook_time: PT25M
+total_time: PT40M
+servings: 4 porcije
+nutrition: oko 160 kalorija po porciji
+ingredients:
+  - 1 kg mladih tikvica
+  - 1 glavica crnog luka
+  - 1 čaša kisele pavlake
+  - 1 vezica mirođije
+  - suvi biljni začin
+  - ulje
+instructions:
+  - Tikvice oprati, oljuštiti i izrendati.
+  - Crni luk očistiti, sitno iseći i propržiti na ulju.
+  - U propržen luk dodati izrendane tikvice i seckanu mirođiju i dinstati.
+  - Kada tikvice omekšaju i suvišna voda uvri, začiniti kiselom pavlakom, dodati suvi biljni začin i kratko prokuvati.
 categories:
   - jela bez mesa
 tags:
@@ -16,23 +32,14 @@ tags:
   - mirođija
   - tikvice
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * mlade tikvice (1 kilogram)
-  * glavica crnog luka
-  * čaša kisele pavlake
-  * vezica mirođije
-  * suvi biljni začin
-  * ulje
+<span id="step-1"></span>**Korak 1.** Tikvice oprati, oljuštiti i izrendati.
 
-<img class="alignnone size-medium wp-image-3249" title="Varivo od tikvica" src="/wp-content/uploads/2011/04/Varivo-od-tikvica-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Crni luk očistiti, sitno iseći i propržiti na ulju.
 
-**Priprema**: tikvice oprati, oljuštiti i izrendati. Crni luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati izrendane tikvice i seckanu mirođiju, pa dinstati.
+<span id="step-3"></span>**Korak 3.** U propržen luk dodati izrendane tikvice i seckanu mirođiju, pa dinstati.
 
-Kada tikvice omekšaju i suvišna voda uvri, začiniti kiselom pavlakom, dodati malo suvog biljnog začina i kratko prokuvati.
+<span id="step-4"></span>**Korak 4.** Kada tikvice omekšaju i suvišna voda uvri, začiniti kiselom pavlakom, dodati malo suvog biljnog začina i kratko prokuvati.
 
-Varivo od tikvica poslužiti kao samostalno jelo ili kao prilog uz pileće meso.
-
-**Napomena**:   postoji mnogo načina na koje se tikvice mogu pripremiti. Mogu se kuvati, peći, pohovati, puniti različitim nadevima sa i bez mesa ili pripremiti kao ukusna salata sa raznim povrćem.
-
-Tikvice su odlične kao predjelo ili glavno jelo, a najbolje ih je kombinovati sa povrćem kao što je: paradajz, plavi patlidžan, crni luk, paprika ili pečurke.
+Varivo od tikvica poslužite kao samostalno jelo ili kao prilog uz pileće meso. Tikvice se mogu pripremati na mnogo načina — kuvati, peći, pohovati ili kombinovati sa paradajzom, patlidžanom i pečurkama.

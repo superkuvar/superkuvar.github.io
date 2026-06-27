@@ -6,9 +6,26 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1401
 permalink: /slane-galete/
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/07/slanegalete-940x198.jpg
+description: Domaće slane galete sa susamom i margarinom — hrskavo pecivo pogodno za putovanje, pečeno u aparatu za galete ili na tosteru.
+prep_time: PT30M
+cook_time: PT30M
+total_time: PT1H
+servings: 30 komada
+nutrition: oko 150 kalorija po komadu
+ingredients:
+  - 1 kg brašna
+  - 2 jajeta
+  - 1 kesica praška za pecivo (10 g)
+  - 1 kašičica soli
+  - 100 g susama
+  - 2,5 dl mlake vode
+  - 250 g margarina (isitnjenog)
+  - 2 dl ulja
+instructions:
+  - U sud za mešenje pomešati brašno sa praškom za pecivo, so, ulje, susam i margarin.
+  - Dolivajući mlaku vodu, zamesiti glatko mekše testo.
+  - Kidati na male loptice i peći u aparatu za galete ili na tosteru.
 categories:
   - peciva
 tags:
@@ -17,23 +34,14 @@ tags:
   - susam
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram brašna
-  * 2 jajeta
-  * prašak za pecivo
-  * kašičica soli
-  * 100 grama susama
-  * 2,5 dl mlake vode
-  * 250 grama isitnjenog margarina
-  * 2 dl ulja
+<span id="step-1"></span>**Korak 1.** U sud za mešenje sipati brašno i izmešati ga sa praškom za pecivo. Dodati so, ulje, susam i margarin isitnjen na komadiće.
 
-![Slane galete](/wp-content/uploads/2011/07/slanegalete-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Dolivajući mlaku vodu, zamesiti glatko mekše testo koje se lako oblikuje.
 
-**Priprema**: u sud za mešenje sipati brašno i izmešati ga sa praškom za pecivo. Zatim dodati so, ulje, susam i margarin isitnjen na komadiće i dolivajući mlaku vodu, zamesiti glatko mekše testo.
+<span id="step-3"></span>**Korak 3.** Testo kidati na male komade i praviti loptice malo veće od oraha.
 
-Testo kidati na male komade i praviti loptice, malo veće od oraha. Peći ih u aparatu za galete.
+<span id="step-4"></span>**Korak 4.** Peći ih u aparatu za galete. Ukoliko nemate aparat, možete ih ispeći na tosteru.
 
-Ukoliko nemate aparat za galete, možete ih ispeći na tosteru.
-
-Slane galete su pogodne za putovanje, ako nam treba nešto od hrane što dugo traje i ne kvari se. Ostaju dugo sveže.
+Slane galete su pogodne za putovanje — dugo ostaju sveže i ne kvare se lako. Odlične su uz jogurt, sir ili kao grickalica.
