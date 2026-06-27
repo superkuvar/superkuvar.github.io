@@ -53,8 +53,12 @@ Potrebno:
   * 1 jaje
   * 1 kisela jabuka
 
-<img class="alignnone size-full wp-image-810" title="pilecacorbasajabukom" src="/wp-content/uploads/2011/03/pilecacorbasajabukom-e1306838193995.jpg" alt="" width="250" height="132" /> 
+![pileća čorba sa jabukom](/wp-content/uploads/2011/03/pilecacorbasajabukom-e1306838193995.jpg)
 
-**Priprema**: Sitno iseckan crni luk propržiti na ulju da bude staklast. U proprženi luk dodati: na kockice isečenu zelen i krompir, grašak, pileće meso, narendanu jabuku, začin, nekoliko zrna bibera, lorber, naliti sa 2 litra vode i staviti da se kuva.
+**Način pripreme:**
 
-Kada je meso kuvano, izvaditi ga, iseći na manje komade i vratiti u čorbu, promešati i ostaviti da kratko prokuva, a zatim dodati sitno seckani peršunov list. Čorbu začiniti kiselom pavlakom u kojoj je razmućeno jaje.
+<span id="step-1"></span>**Korak 1.** Sitno iseckan crni luk propržiti na ulju da bude staklast. Dodati zelen i krompir na kockice, grašak, pileće meso, narendanu jabuku, začin, biber i lorber.
+
+<span id="step-2"></span>**Korak 2.** Naliti 2 litra vode i kuvati dok meso ne bude gotovo.
+
+<span id="step-3"></span>**Korak 3.** Meso iseckati na manje komade, vratiti u čorbu, dodati peršun i začiniti pavlakom u kojoj je razmućeno jaje.

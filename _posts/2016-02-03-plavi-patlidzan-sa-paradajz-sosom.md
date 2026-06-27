@@ -48,8 +48,10 @@ tags:
 
 ![plavi patlidžan sa paradajz sosom](/wp-content/uploads/2016/02/plavipatlidzansaparadajzsosom-1024x768.jpg)
 
-**Priprema**: plavi patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ostaviti da odstoji dok ne pusti sok. Zatim pritiskanjem između dlanova ocediti kriške patlidžana od vode koju je pustio.
+**Način pripreme:**
 
-Crni luk očistiti, iseći na rebarca i propržiti na ulju. Paradajz oljuštiti, sitno iseći i dodati u propržen crni luk. Nastaviti sa dinstanjem dok se sos ne zgusne. Posoliti, pobiberiti i dodati malo bosiljka i isitnjen beli luk.
+<span id="step-1"></span>**Korak 1.** Patlidžan oprati, oljuštiti, iseći uzdužno na kriške, posoliti i ocediti. Luk propržiti, dodati paradajz i dinstati dok se sos ne zgusne. Začiniti i dodati beli luk.
 
-U podmazanu posudu za pečenje ređati kriške patlidžana prethodno uvaljane u brašno, pa odozgo sipati po malo sosa od paradajza i rendani kačkavalj, dok se ne utroši sav materijal. Odozgo teba da bude paradajz. Posuti kačkavaljem i staviti u pećnicu zagrejanu na 220 stepeni. Peći oko 45 minuta.
+<span id="step-2"></span>**Korak 2.** U posudu ređati kriške patlidžana uvaljane u brašno, preliti sosom i rendanim kačkavaljem.
+
+<span id="step-3"></span>**Korak 3.** Peći oko 45 minuta na 220 °C, dok patlidžan ne omekša i kačkavalj ne porumeni.

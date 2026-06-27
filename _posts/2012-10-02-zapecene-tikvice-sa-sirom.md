@@ -58,10 +58,12 @@ tags:
   * biber
   * ulje
 
-<img class="alignnone size-medium wp-image-4421" title="Zapecenetikvicesasirom" src="/wp-content/uploads/2012/10/Zapecenetikvicesasirom-e1349081960216-300x229.jpg" alt="" width="300" height="229" /> 
+![zapečene tikvice sa sirom](/wp-content/uploads/2012/10/Zapecenetikvicesasirom-e1349081960216-300x229.jpg)
 
-**Priprema**: tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati ih u brašno i propržiti na ulju da porumene. Sir izmrviti viljuškom, dodati dva žumanca, so, biber, iseckanu mirođiju i malo bosiljka. Umutiti čvrst sneg od belanaca, pa lagano umešati u sir.
+**Način pripreme:**
 
-Posudu za pečenje podmazati uljem, ređati red tikvica, red nadeva od sira, i tako dok se ne utroši materijal. Odozgo treba da budu tikvice. Preko tikvica sipati malo ulja i peći u zagrejanoj pećnici oko 20 minuta na 200 stepeni.
+<span id="step-1"></span>**Korak 1.** Tikvice oprati, oljuštiti i iseći na kolutove. Uvaljati u brašno i propržiti na ulju. Sir izmrviti, dodati dva žumanca, so, biber, mirođiju i bosiljak. Umutiti sneg od belanaca i umešati u sir.
 
-Preostalo jaje, brašno i mleko umutiti, dodati malo suvog biljnog začina, pa preliti preko tikvica. Vratiti jelo u pećnicu da se zapeče.
+<span id="step-2"></span>**Korak 2.** Posudu podmazati uljem i ređati red tikvica, red nadeva od sira. Preliti sa malo ulja i peći oko 20 minuta na 200 °C.
+
+<span id="step-3"></span>**Korak 3.** Preostalo jaje, brašno i mleko umutiti sa začinom, preliti preko tikvica i zapeći u pećnici.

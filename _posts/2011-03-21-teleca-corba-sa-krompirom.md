@@ -50,10 +50,12 @@ Potrebno:
   * peršunov list
   * so
 
-<img class="alignnone size-full wp-image-820" title="telecacorbasakrompirom" src="/wp-content/uploads/2011/03/telecacorbasakrompirom-e1306838786577.jpg" alt="" width="199" height="184" /> 
+![teleća čorba sa krompirom](/wp-content/uploads/2011/03/telecacorbasakrompirom-e1306838786577.jpg)
 
-**Priprema**: teleće meso staviti u lonac, naliti ga sa 2 litra vode i kuvati. Čim izbije prvi ključ, prosuti tu vodu i naliti čistu, ključalu, i kuvati meso dok ne omekša. Tada u lonac spustiti cele krompire, šargarepu, celer i paškanat i blago posoliti.
+**Način pripreme:**
 
-Čorbu kuvati dok povrće ne omekša (otprilike 40 minuta) a onda je procediti, pa lonac sa tečnošću vratiti na šporet, a meso i krompir iseckati na kockice. šargarepu, celer i paškanat izrendati.
+<span id="step-1"></span>**Korak 1.** Teleće meso staviti u lonac, naliti sa 2 litra vode i kuvati. Čim izbije prvi ključ, prosuti tu vodu, naliti čistu i kuvati meso dok ne omekša.
 
-Povrće vratiti u lonac, pa uz neprekidno mešanje dodati jaja umućena sa mlekom i kašikom brašna. Čorbu posuti seckanim peršunovim listom.
+<span id="step-2"></span>**Korak 2.** Dodati cele krompire, šargarepu, celer i paškanat, blago posoliti i kuvati dok povrće ne omekša (oko 40 minuta). Procediti čorbu, meso i krompir iseckati na kockice, povrće izrendati i vratiti u lonac.
+
+<span id="step-3"></span>**Korak 3.** Uz neprekidno mešanje dodati jaja umućena sa mlekom i kašikom brašna. Čorbu posuti seckanim peršunovim listom i poslužiti.

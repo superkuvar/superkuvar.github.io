@@ -49,12 +49,12 @@ Potrebno:
   * biber
   * peršunov list
 
-<img class="alignnone size-full wp-image-818" title="kiselacorba" src="/wp-content/uploads/2011/03/kiselacorba.jpg" alt="" width="259" height="194" /> 
+![kisela čorba od junećeg mesa](/wp-content/uploads/2011/03/kiselacorba.jpg)
 
-**Priprema**: crni luk očistiti, sitno iseći i pržiti na malo ulja, da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
+**Način pripreme:**
 
-Meso posoliti, pobiberiti, pa dodati beli luk i povrće iseckano na rezance. Naliti litrom i po tople vode i staviti da se kuva na umerenoj temperaturi. Čorba treba da se kuva dok meso sasvim ne omekša.
+<span id="step-1"></span>**Korak 1.** Crni luk očistiti, sitno iseći i pržiti na malo ulja da postane staklast. U propržen luk dodati na kocke isečeno juneće meso i dinstati dok ne bude napola gotovo.
 
-Kada je čorba kuvana dodati seckani peršunov list i začiniti je sirćetom ili sokom od limuna i kiselom pavlakom.
+<span id="step-2"></span>**Korak 2.** Meso posoliti, pobiberiti, pa dodati beli luk i povrće iseckano na rezance. Naliti litrom i po tople vode i kuvati na umerenoj temperaturi dok meso ne omekša.
 
-&nbsp;
+<span id="step-3"></span>**Korak 3.** Dodati seckani peršunov list i začiniti sirćetom ili sokom od limuna i kiselom pavlakom.

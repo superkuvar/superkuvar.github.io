@@ -54,8 +54,12 @@ Potrebno:
   * 1 dl kisele pavlake
   * sok od limuna
 
-<img class="alignnone size-full wp-image-813" title="pilecakislacorba" src="/wp-content/uploads/2011/03/pilecakislacorba-e1306838349843.jpg" alt="" width="253" height="142" /> 
+![pileća kisela čorba](/wp-content/uploads/2011/03/pilecakislacorba-e1306838349843.jpg)
 
-**Priprema**: Staviti u lonac oprano živinsko meso ili pileću sitnež, preliti sa 1,5 litar vode i kuvati. Dodati od svake zeleni po jedan koren, manju glavicu iseckanog crnog luka i nekoliko zrna bibera. Čorbu posoliti, dodati začin po želji.
+**Način pripreme:**
 
-Kad je meso kuvano, čorbu procediti i zakuvati jajetom razmućenim u pavlaci. Meso odvojiti od kostiju, iseckati ga i vratiti u čorbu. Povrće izgnječiti viljuškom i vratiti u čorbu. Služiti sa kiselom pavlakom i sokom od limuna.
+<span id="step-1"></span>**Korak 1.** Staviti oprano meso u lonac, preliti sa 1,5 litra vode i kuvati. Dodati po jedan koren zeleni, iseckan crni luk i nekoliko zrna bibera. Posoliti i začiniti po želji.
+
+<span id="step-2"></span>**Korak 2.** Kad je meso kuvano, procediti čorbu i zakuvati jajetom razmućenim u pavlaci.
+
+<span id="step-3"></span>**Korak 3.** Meso odvojiti od kostiju, iseckati i vratiti u čorbu. Povrće izgnječiti viljuškom i vratiti u čorbu. Služiti sa kiselom pavlakom i sokom od limuna.

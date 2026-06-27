@@ -31,12 +31,17 @@ Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjel
 
 **Način pripreme:**
 
-1. Prosejati kukuruzno brašno u veću posudu.
-2. U tiganju zagrejati malo ulja i propržiti sitno seckani crni luk i pečurke 5–7 minuta, dok ne omekšaju i ispuste tečnost. Ostaviti da se malo ohlade.
-3. U posebnoj posudi izmrviti sir, dodati umućena jajeta i prašak za pecivo, pa sve povezati sa brašnom.
-4. Umasiti ohlađeni luk i pečurke, zatim postepeno dodavati mleko dok se ne dobije glatka masa srednje gustine — dovoljno tečna da se lepo razlijeva, ali ne previše raskašena.
-5. Pleh podmazati uljem, sipati masu i preliti površinu sa još malo ulja.
-6. Peći u zagrejanoj pećnici na 200 °C oko 40 minuta, dok gornja strana ne porumeni i projara ne bude čvrsta na dodir.
+<span id="step-1"></span>**Korak 1.** Prosejati kukuruzno brašno u veću posudu.
+
+<span id="step-2"></span>**Korak 2.** U tiganju zagrejati malo ulja i propržiti sitno seckani crni luk i pečurke 5–7 minuta, dok ne omekšaju i ispuste tečnost. Ostaviti da se malo ohlade.
+
+<span id="step-3"></span>**Korak 3.** U posebnoj posudi izmrviti sir, dodati umućena jajeta i prašak za pecivo, pa sve povezati sa brašnom.
+
+<span id="step-4"></span>**Korak 4.** Umasiti ohlađeni luk i pečurke, zatim postepeno dodavati mleko dok se ne dobije glatka masa srednje gustine — dovoljno tečna da se lepo razlijeva, ali ne previše raskašena.
+
+<span id="step-5"></span>**Korak 5.** Pleh podmazati uljem, sipati masu i preliti površinu sa još malo ulja.
+
+<span id="step-6"></span>**Korak 6.** Peći u zagrejanoj pećnici na 200 °C oko 40 minuta, dok gornja strana ne porumeni i projara ne bude čvrsta na dodir.
 
 Projara je najukusnija dok je topla. Poslužite je kao predjelo ili lagani obrok, sečenu na kocke ili trouglove po želji.
 
