@@ -1,51 +1,57 @@
 ---
 id: 284
-title: ČORBA OD ZELjA SA SLANINOM
-date: 2011-03-28T09:02:46+00:00
+title: "ČORBA OD ZELjA SA SLANINOM"
+date: "2011-03-28T09:02:46+00:00"
 author: mila
 layout: post
-guid: http://superkuvar.com/?p=284
+guid: "http://superkuvar.com/?p=284"
 permalink: /čorba-od-zelja-sa-slaninom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-940x198.jpg
+description: "Čorba od zelja sa slaninom — U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku."
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
+ingredients:
+  - "zelje (2-3 veze)"
+  - "1 kocka za supu (od povrća)"
+  - "100 grama slanine"
+  - "kašika brašna"
+  - "3 kašike kisele pavlake"
+  - "so"
+  - "biber"
+  - "ulje"
+instructions:
+  - "U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku."
+  - "Dodati isečeno zelje i kratko propržiti."
+  - "Proprženo zelje naliti litrom i po tople vode, dodati kocku za supu i staviti da se čorba kuva."
+  - "Čorbu kuvati 25 minuta na umerenoj temperaturi."
+  - "Pri kraju pobiberiti i ukoliko je potrebno još malo posoliti."
+  - "Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratko proprženu."
 categories:
-  - supe i čorbe
+  - "supe i čorbe"
 tags:
-  - kisela pavlaka
-  - slanina
-  - zelje
+  - "kisela pavlaka"
+  - "slanina"
+  - "zelje"
+fb_social_plugin_settings_box_like:
+  - "default"
+fb_social_plugin_settings_box_send:
+  - "default"
 ---
-**Potrebno je**:
-
-  * zelje (2-3 veze)
-  * 1 kocka za supu (od povrća)
-  * 100 grama slanine
-  * kašika brašna
-  * 3 kašike kisele pavlake
-  * so
-  * biber
-  * ulje
-
 ![corba od zelja](/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-1024x768.jpg)
 
-**Priprema**: Zelje dobro oprati, ukloniti drške, pa ga iseći na rezance.
+**Način pripreme:**
 
-U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku. Dodati isečeno zelje i kratko propržiti.
+<span id="step-1"></span>**Korak 1.** U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku.
 
-Proprženo zelje naliti litrom i po tople vode, dodati kocku za supu i staviti da se čorba kuva. Čorbu kuvati 25 minuta na umerenoj temperaturi. Pri kraju pobiberiti i ukoliko je potrebno još malo posoliti.
+<span id="step-2"></span>**Korak 2.** Dodati isečeno zelje i kratko propržiti.
 
-Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratko proprženu.
+<span id="step-3"></span>**Korak 3.** Proprženo zelje naliti litrom i po tople vode, dodati kocku za supu i staviti da se čorba kuva.
 
-Umesto slaninom, čorba se može začitini kiselom pavlakom.
+<span id="step-4"></span>**Korak 4.** Čorbu kuvati 25 minuta na umerenoj temperaturi.
 
-**Napomena**: Zelje je samonikla višegodišnja biljka. Koriste se mladi listovi, koji su sočni i ukusni. Čim zelje ostari, postaje gorko i oporo.
+<span id="step-5"></span>**Korak 5.** Pri kraju pobiberiti i ukoliko je potrebno još malo posoliti.
 
-Od zelja se prave čorbe, sarmice, pite, proja.
-
-Kopriva i zelje su od davnina smatrani namirnicama siromašnih, uprkos tome što obiluju hranljivim sastojcima.
-
+<span id="step-6"></span>**Korak 6.** Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratko proprženu.
