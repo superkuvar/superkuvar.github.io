@@ -6,9 +6,29 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=195
 permalink: /čorba-od-kopriva/
-totvreme:
-  - ""
 image: /wp-content/uploads/2011/03/corbaodkopriva-940x198.jpg
+description: Čorba od kopriva — koprive preliti vrelom vodom i dobro isprati pod mlazom hladne vode.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - mlade koprive (1/2 kg)
+  - 2 veze mladog crnog luka
+  - kocka za supu (od povrća)
+  - pirinač (šoljica)
+  - kašika brašna
+  - žumance
+  - malo ulja
+  - crvena mlevena paprika
+  - kisela pavlaka
+instructions:
+  - koprive preliti vrelom vodom i dobro isprati pod mlazom hladne vode.
+  - Zatim ih staviti u lonac, naliti vodom i kratko kuvati.
+  - Posebno na ulju propržiti mladi crni luk isečen na kolutove, dodati brašno i crvenu mlevenu papriku, a zatim koprive isečene na rezance.
+  - Kada čorba provri, dodati opran pirinač i kuvati oko 30 minuta.
+  - Gotovu čorbu začiniti žumancetom razmućenim u kiseloj pavlaci.
 categories:
   - supe i čorbe
 tags:
@@ -18,24 +38,18 @@ tags:
   - koprive
   - pirinač
 ---
-**Potrebno je**:
-
-  * mlade koprive (1/2 kg)
-  * 2 veze mladog crnog luka
-  * kocka za supu (od povrća)
-  * pirinač (šoljica)
-  * kašika brašna
-  * žumance
-  * malo ulja
-  * crvena mlevena paprika
-  * kisela pavlaka
-
 ![corba od kopriva](/wp-content/uploads/2011/03/corbaodkopriva-1024x768.jpg)
 
-**Priprema**: koprive preliti vrelom vodom i dobro isprati pod mlazom hladne vode. Zatim ih staviti u lonac, naliti vodom i kratko kuvati.
+**Način pripreme:**
 
-Posebno na ulju propržiti mladi crni luk isečen na kolutove, dodati brašno i crvenu mlevenu papriku, a zatim koprive isečene na rezance. Doliti vodu u kojoj su se koprive kuvale (oko 1,5 litar) i ubaciti kocku za supu.
+<span id="step-1"></span>**Korak 1.** koprive preliti vrelom vodom i dobro isprati pod mlazom hladne vode.
 
-Kada čorba provri, dodati opran pirinač i kuvati oko 30 minuta. Gotovu čorbu začiniti žumancetom razmućenim u kiseloj pavlaci.
+<span id="step-2"></span>**Korak 2.** Zatim ih staviti u lonac, naliti vodom i kratko kuvati.
 
-**Napomena**:   kopriva je jedna od najkorisnijih lekovitih biljaka. Svi njeni delovi &#8211; stabljika, list, koren, cvet, seme imaju lekovita svojstva. Kopriva je najbolja biljka za čišćenje krvi, pomaže snižavanju šećera u krvi, a ima i mnoga druga lekovita svojstva.
+<span id="step-3"></span>**Korak 3.** Posebno na ulju propržiti mladi crni luk isečen na kolutove, dodati brašno i crvenu mlevenu papriku, a zatim koprive isečene na rezance.
+
+<span id="step-4"></span>**Korak 4.** Kada čorba provri, dodati opran pirinač i kuvati oko 30 minuta.
+
+<span id="step-5"></span>**Korak 5.** Gotovu čorbu začiniti žumancetom razmućenim u kiseloj pavlaci.
+
+**Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
