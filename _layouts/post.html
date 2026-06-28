@@ -97,7 +97,21 @@ layout: default
   </header>
 
   {% if page.image and page.image != '' %}
-  <img class="recipe-hero-img" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="eager">
+  {% assign hero_src = page.image | relative_url %}
+  {% if page.image contains '.hero.jpg' %}
+  {% assign hero_800 = page.image | replace: '.hero.jpg', '.hero.800.jpg' | relative_url %}
+  <img class="recipe-hero-img"
+    src="{{ hero_src }}"
+    srcset="{{ hero_800 }} 800w, {{ hero_src }} 1200w"
+    sizes="100vw"
+    width="1200"
+    height="675"
+    alt="{{ page.title }}"
+    loading="eager"
+    fetchpriority="high">
+  {% else %}
+  <img class="recipe-hero-img" src="{{ hero_src }}" alt="{{ page.title }}" loading="eager" fetchpriority="high">
+  {% endif %}
   {% endif %}
 
   <div class="recipe-layout{% unless page.ingredients %} recipe-layout--single{% endunless %}">

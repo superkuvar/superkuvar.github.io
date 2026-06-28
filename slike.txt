@@ -1,0 +1,404 @@
+SUPERKUVAR.COM — SLIKE ZA RECEPTE
+==================================
+Šta generišeš, kako kadriraš, kako imenuješ fajlove.
+
+
+IMENA FAJLOVA — OBAVEZNA PRAVILA
+---------------------------------
+  • Reči u imenu odvojene TACKOM (.), ne crticom:
+      coko.rolat.punjen.pavlakom.hero.jpg     ✓
+      coko-rolat-punjen-pavlakom.hero.jpg     ✗
+
+  • Samo mala slova, brojevi i tacka.
+
+  • BEZ slova sa kvacicama — u imenu fajla koristi ASCII:
+      č, ć  →  c
+      š     →  s
+      ž     →  z
+      đ     →  dj
+      Primer: coko (ne čoko), corba (ne čorba), sljiva → sljiva ili sljive
+
+  • Struktura imena:
+      {slug.recepta}.{tip}.jpg
+
+      tipovi:  hero | hero.800 | korak1 | korak2 | og | kartica | master
+
+  • Slug = skracen naslov recepta u latinici bez kvacica, reci spojene tackom.
+      Recept: ČOKO-ROLAT PUNJEN PAVLAKOM
+      Slug:   coko.rolat.punjen.pavlakom
+
+
+PREGLED SETA PO RECEPTU
+-----------------------
+
+  Fajl                              Dimenzije    Kadriranje       Obavezno?
+  ─────────────────────────────────────────────────────────────────────────
+  slug.hero.jpg                     1200 × 675   16:9 siroko      DA
+  slug.hero.800.jpg                 800 × 450    isto kao hero    DA*
+  slug.korak1.jpg …                 900 × 675    4:3 blizu        2–4 kom
+  slug.og.jpg                       1200 × 630   1.91:1 FB        preporuceno
+  slug.kartica.jpg                  800 × 600    4:3 crop         preporuceno**
+  slug.master.jpg                   2400+        arhiva           Drive only
+
+  *  _layouts/post.html — srcset mobilni (hero.800 + hero)
+  ** _includes/recipe-card.html — YAML card_image: (fallback image:)
+
+
+POVEZIVANJE SA SAJTOM (YAML + sabloni)
+---------------------------------------
+
+  Za svaki recept u _posts/*.md front matter:
+
+    image:       /wp-content/uploads/.../slug.hero.jpg      → stranica recepta
+    og_image:    /wp-content/uploads/.../slug.og.jpg       → Facebook deljenje
+    card_image:  /wp-content/uploads/.../slug.kartica.jpg  → grid kartice
+
+  Gde se koristi:
+  • image:        _layouts/post.html (hero + srcset), Recipe JSON-LD
+  • og_image:    _layouts/default.html (meta og:image)
+  • card_image:  _includes/recipe-card.html (pocetna, kategorije)
+  • hero.800:    automatski u srcset kad image: zavrsava na .hero.jpg
+
+  Srcset na stranici recepta:
+    srcset="slug.hero.800.jpg 800w, slug.hero.jpg 1200w"  sizes="100vw"
+
+  hero.800 i kartica.jpg treba praviti uz svaki novi hero set — inace sajt
+  pada na puni hero (sporije) ili siroke 16:9 thumbnail-e u gridu.
+
+
+══════════════════════════════════════════════════════════════════════
+  OPSTI STIL ZA SVE GENERISANE SLIKE (jednom odluci, drzis se toga)
+══════════════════════════════════════════════════════════════════════
+
+  U svaki AI prompt dodaj ovaj blok (prilagodi po receptu):
+
+    "Fotorealisticna fotografija hrane za kulinarski blog.
+     Prirodno dnevno svetlo sa leve strane, tople boje.
+     Drvena podloga ili svetli platneni stolnjak.
+     Bez teksta, logoa, vodenog ziga, ruku sa prstenovima.
+     Bez previse zasicenih boja i hladnog plavog filtera.
+     Profesionalna food photography, ostrina na jelu."
+
+  Za SWEET recepte dodaj: "Umerena slatkoca, domaca kuhinja, ne patiserija
+  luksuz — prirodno i appetitno."
+
+
+══════════════════════════════════════════════════════════════════════
+  1. HERO — slug.hero.jpg — 1200 × 675 (16:9)
+══════════════════════════════════════════════════════════════════════
+
+  GDE:  vrh stranice recepta, YAML image:, Google Recipe Schema
+
+  KAKO KADRIRATI
+  ──────────────
+  • Ugao kamere: 45° odozgo (klasican food shot).
+  • Gotovo jelo u CENTRU, zauzima ~60 % kadra.
+  • Sa SVIH strana ostavi prazan prostor (min. 10 %) — sajt moze malo
+    da odsece ivice na mobilnom.
+  • Tanjir/posuda celom duzinom vidljiva — rolat, torta, pita se vide
+    u celini, ne odseceni.
+  • Pozadina meka (bokeh): samo podloga + mozda viljuska, salvetica.
+
+  STA NE RADITI
+  ─────────────
+  • Ne preblizu (macro) — to je za korake.
+  • Ne seci jelo na ivici kadra.
+  • Ne stavljaj jelo u gornjih 20 % kadra (mobilni crop).
+
+  AI PROMPT — SABLON
+  ──────────────────
+  "[OPIS GOTVOG JELA], servirano na [POSUDA], 45 degree overhead food
+  photography, wide 16:9 composition, dish centered with breathing room
+  on all sides, [PODLOGA], natural daylight, warm tones, no text, 1200x675"
+
+  POSLE GENERISANJA
+  ─────────────────
+  Export tacno 1200 × 675 px, JPEG 80–85 %, cilj 80–150 KB.
+
+
+══════════════════════════════════════════════════════════════════════
+  2. HERO MOBILNI — slug.hero.800.jpg — 800 × 450 (16:9)
+══════════════════════════════════════════════════════════════════════
+
+  GDE:  mobilni telefon, brze ucitavanje (srcset u post.html)
+
+  KAKO GENERISATI
+  ───────────────
+  • NE generisi ponovo — uzmi slug.hero.jpg i smanji na 800 × 450.
+  • Isti kadar, ista kompozicija. Samo manji fajl.
+  • Ako generises AI: koristi IDENTICAN prompt kao za hero.
+
+  Sajt: _layouts/post.html automatski dodaje srcset kad image: zavrsava
+  na .hero.jpg — browser na uskom ekranu uzima hero.800 (~50–80 KB umesto
+  ~120–150 KB). Bez ovog fajla mobilni skidaju puni hero.
+
+
+══════════════════════════════════════════════════════════════════════
+  3. KORACI — slug.korak1.jpg, korak2.jpg … — 900 × 675 (4:3)
+══════════════════════════════════════════════════════════════════════
+
+  GDE:  u tekstu recepta posle "Korak N."
+
+  KAKO KADRIRAT (drugacije od heroa!)
+  ───────────────────────────────────
+  • Uz kadar: vidis posudu, sastojke, teksturu — kao da gledas preko ramena
+    kuhara.
+  • Ugao: 30–45°, ali BLIZE nego hero (jelo/sastojak zauzima 70–80 % kadra).
+  • Format 4:3 (vise visine nego hero) — dobro za tiganj, posudu, testo.
+  • Jedna slika = jedna radnja. Bez vise koraka u jednoj slici.
+  • Ista podloga i svetlo kao hero TOG recepta.
+
+  KOJI KORACI ZASLUZUJU SLIKU
+  ───────────────────────────
+  Ne svaki korak — biraj 2–4 najvizuelnija:
+  • mesanje / mutenje gde se vidi tekstura
+  • pečenje / kuvanje (stanje u sred procesa)
+  • kljucni trik (uvijanje rolata, razvlacenje testa)
+  • gotov preliv / punjenje
+
+  AI PROMPT — SABLON
+  ──────────────────
+  "Step [N] of [RECEPT]: [RADNJA — npr. folding cocoa sponge batter with
+  meringue in a glass bowl], close-up 4:3 food photography, hands optional
+  but no jewelry, [ISTA PODLOGA], natural light, no text, 900x675"
+
+  POSLE GENERISANJA
+  ─────────────────
+  Export 900 × 675 px, JPEG ~80 %, cilj 60–100 KB po slici.
+
+
+══════════════════════════════════════════════════════════════════════
+  4. OG / FACEBOOK — slug.og.jpg — 1200 × 630 (~1.91:1)
+══════════════════════════════════════════════════════════════════════
+
+  GDE:  Facebook, WhatsApp, Viber, Messenger, Twitter/X — kartica linka
+
+  KAKO KADRIRAT (NAJVAZNIJE — DRUGACIJE OD HERO!)
+  ─────────────────────────────────────────────────
+  Hero i OG prikazuju ISTO JELO, ali OKVIR je nizi i siri.
+
+  ┌────────────────────────────────────────┐
+  │  ~10 % prazno (moze da se odsece)      │
+  │     ┌──────────────────────────┐       │
+  │     │                          │       │
+  │     │   JELO — BEZBEDNA ZONA   │       │
+  │     │   (centar 70 % slike)    │       │
+  │     │                          │       │
+  │     └──────────────────────────┘       │
+  │  ~15 % prazno (FB stavlja naslov ispod)│
+  └────────────────────────────────────────┘
+
+  Pravila:
+  • Glavni motiv (rolat, kolac, tanjir) u SREDINI kadra, vertikalno
+    malo NIZE nego na hero-u — gornja ivica jela oko 35 % od vrha.
+  • Ostavi vise prostora LEVO i DESNO nego na hero-u.
+  • NE stavljaj bitne delove jela blizu gornje ivice — Facebook seci.
+  • Donja trecina moze biti praznija (podloga) — ispod slike ide naslov.
+  • BEZ teksta na slici (naslov pise platforma).
+  • Ista hrana, isto svetlo kao hero — samo drugi crop ili ponovni
+    prompt sa "wider framing, subject lower in frame".
+
+  ZASTO POSEBAN FAJL
+  ──────────────────
+  Hero 16:9 = 1200×675. OG 1.91:1 = 1200×630 — nizi okvir.
+  Ako stavis hero na Facebook, odsece ~22 px gore i dole = moze da
+  odreze ukras ili tanjir.
+
+  AI PROMPT — SABLON
+  ──────────────────
+  "[ISTO JELO KAO HERO], social media share image, wider 1.91:1 composition,
+  main dish centered in safe zone, positioned slightly lower in frame,
+  extra space on left and right, bottom third subtle empty wooden surface,
+  no text overlay, Facebook og:image style, warm food photography, 1200x630"
+
+  ALTERNATIVA BEZ NOVOG AI
+  ─────────────────────────
+  Otvori hero u editoru → crop na 1200×630 → spusti jelo nize u kadru.
+
+
+══════════════════════════════════════════════════════════════════════
+  5. KARTICA — slug.kartica.jpg — 800 × 600 (4:3)
+══════════════════════════════════════════════════════════════════════
+
+  GDE:  pocetna, kategorije, slicni recepti (mala slika u gridu)
+        YAML polje: card_image:
+        Sablon: _includes/recipe-card.html (fallback: image:)
+
+  KAKO KADRIRAT
+  ─────────────
+  • Uz crop 4:3 iz hero — fokus na jelo, odsecena prazna leva/desna
+    polja ako je hero previse sirok.
+  • Jelo popunjava kadar — manje "vazduha" nego hero.
+  • Cilj: na maloj thumbnails jelo mora biti prepoznatljivo.
+
+  AI PROMPT (ako posebno generises)
+  ─────────────────────────────────
+  "[JELO], tight 4:3 thumbnail crop, dish fills frame, appetizing,
+  same styling as hero, 800x600, no text"
+
+
+══════════════════════════════════════════════════════════════════════
+  6. MASTER — slug.master.jpg — samo Google Drive
+══════════════════════════════════════════════════════════════════════
+
+  Najveca verzija (min. 2400 px duza strana). Isti kadar kao hero ili
+  veci. Od nje pravis sve izvoze. Ne ide na sajt.
+
+
+══════════════════════════════════════════════════════════════════════
+  PRIMER KOMPLETNO: coko.rolat.punjen.pavlakom
+  https://superkuvar.com/coko-rolat-punjen-pavlakom/
+══════════════════════════════════════════════════════════════════════
+
+  Slug:  coko.rolat.punjen.pavlakom
+
+  Fajlovi koje pravis:
+  ────────────────────
+  coko.rolat.punjen.pavlakom.hero.jpg
+  coko.rolat.punjen.pavlakom.hero.800.jpg      ← resize iz hero
+  coko.rolat.punjen.pavlakom.og.jpg
+  coko.rolat.punjen.pavlakom.kartica.jpg       ← crop iz hero ili posebno
+  coko.rolat.punjen.pavlakom.korak1.jpg
+  coko.rolat.punjen.pavlakom.korak2.jpg
+  coko.rolat.punjen.pavlakom.korak3.jpg
+  coko.rolat.punjen.pavlakom.korak4.jpg
+  coko.rolat.punjen.pavlakom.master.jpg        ← samo Drive
+
+  YAML u receptu:
+  image: /wp-content/uploads/2026/06/coko.rolat.punjen.pavlakom.hero.jpg
+  og_image: /wp-content/uploads/2026/06/coko.rolat.punjen.pavlakom.og.jpg
+  card_image: /wp-content/uploads/2026/06/coko.rolat.punjen.pavlakom.kartica.jpg
+
+
+  ── HERO — sta trazis od AI ──────────────────────────────────────────
+
+  Prompt:
+  "Chocolate Swiss roll cake filled with sweet whipped cream, topped with
+  glossy dark chocolate glaze and piped cream rosettes on both ends,
+  sliced to show cream spiral inside, on a white oval serving plate,
+  light dusting of powdered sugar, 45 degree food photography, wide 16:9
+  composition, entire roll visible with space around plate, wooden table
+  and linen napkin softly blurred, natural warm daylight, homemade dessert,
+  no text, photorealistic, 1200x675"
+
+  Kadriranje: ceo rolat vidljiv, prerez pokazuje punjenje, cokoladni
+  preliv sjaji — to je 'wow' kadar za stranicu.
+
+
+  ── OG / FACEBOOK — sta trazis (DRUGACIJI KADAR!) ──────────────────
+
+  Prompt:
+  "Same chocolate cream roll with glaze on white plate, social media
+  share image, wider framing, roll positioned in center-lower third of
+  frame, more empty wooden table visible on sides and bottom, safe zone
+  composition for Facebook link preview, no text on image, warm natural
+  light, photorealistic food photography, 1200x630 aspect ratio"
+
+  Ili: crop hero na 1200×630 i spusti rolat za ~30 px nize.
+
+
+  ── KORAK 1 — penasto zumanca sa secerom (Korak 1 u receptu) ────────
+
+  Prompt:
+  "Step 1 chocolate roll recipe: pale yellow egg yolks whipped with sugar
+  in a glass bowl, fluffy ribbon stage, cocoa powder and flour in small
+  bowls nearby, close-up 4:3 food photography, wooden kitchen counter,
+  natural light, no text, 900x675"
+
+  Veza sa receptom: "**Korak 1.** penasto umutiti zumanca sa secerom."
+
+
+  ── KORAK 2 — kakao testo + belance (Korak 2) ──────────────────────
+
+  Prompt:
+  "Step 2: dark cocoa sponge batter being gently folded with stiff egg
+  white meringue in a large glass bowl, marbled texture visible, close-up
+  4:3, same wooden counter and lighting, no text, 900x675"
+
+  Veza: sjediniti testo sa snegom od belanaca.
+
+
+  ── KORAK 3 — pecen biskvit na plehu (Korak 3) ─────────────────────
+
+  Prompt:
+  "Step 3: thin baked chocolate sponge cake on parchment-lined baking sheet,
+  slightly risen edges, just out of oven, kitchen setting, close-up 4:3
+  food photography, warm tones, no text, 900x675"
+
+
+  ── KORAK 4 — uvijanje u salvetu (Korak 4) ─────────────────────────
+
+  Prompt:
+  "Step 4: hot chocolate sponge rolled in a white linen towel dusted with
+  sugar, classic jelly roll technique, hands rolling from one end, close-up
+  4:3, natural light, no text, 900x675"
+
+  Ovo je kljucni vizuelni trik recepta — obavezna slika medju koracima.
+
+
+  (Koraci 5–6 su tekstualni saveti — preskoci sliku.)
+
+  ── KORAK 5 — punjenje pavlakom (odgovara Koraku 7 u receptu) ──────
+
+  Prompt:
+  "Unrolled cooled chocolate sponge cake on towel, sweet whipped cream
+  spread in a thick strip down the center length, ready to roll, close-up
+  4:3 food photography, cream white against dark cake, no text, 900x675"
+
+  U fajlu: korak5.jpg (ili preskoci numeraciju i stavi korak5 = punjenje).
+
+
+  ── KORAK 6 — cokoladni preliv (Korak 10) ──────────────────────────
+
+  Prompt:
+  "Pouring warm glossy chocolate ganache glaze over a rolled cream-filled
+  chocolate Swiss roll on a wire rack, drip catching light, close-up 4:3,
+  steam-free, no text, 900x675"
+
+
+  MAPiranje slika ↔ koraci u tekstu
+  ─────────────────────────────────
+  korak1.jpg  →  Korak 1  (zumanca + secer)
+  korak2.jpg  →  Korak 2  (kakao + belance)
+  korak3.jpg  →  Korak 3  (pecenje)
+  korak4.jpg  →  Korak 4  (uvijanje u salvetu)
+  korak5.jpg  →  Korak 7  (pavlaka po sredini)
+  korak6.jpg  →  Korak 10 (preliv) — opciono, hero vec pokazuje gotov
+
+  Minimum za ovaj recept: hero + og + korak1 + korak4 + korak5 (4 koraka).
+
+
+REDOSLED GENERISANJA (jedan recept)
+------------------------------------
+
+  1. hero.jpg        — definise izgled gotovog jela i stil
+  2. og.jpg          — isto jelo, siri/nizi kadar (ili crop heroa)
+  3. kartica.jpg     — crop iz hero
+  4. hero.800.jpg    — resize hero
+  5. korak1…N        — isti stil podloge/svetla, blizi kadar
+  6. master.jpg      — najveca verzija na Drive
+
+
+CHECKLIST
+---------
+
+  [ ] slug.hero.jpg         1200×675   gotovo jelo, siroko 16:9
+  [ ] slug.og.jpg           1200×630   isto jelo, nize u kadru, FB zona
+  [ ] slug.hero.800.jpg     800×450    resize heroa (srcset na stranici)
+  [ ] slug.korak1…N         900×675    2–4 bliska kadra
+  [ ] slug.kartica.jpg      800×600    grid thumbnail
+  [ ] image: u YAML         → hero.jpg
+  [ ] og_image: u YAML      → og.jpg
+  [ ] card_image: u YAML    → kartica.jpg
+  [ ] imena: tacka izmedju reci, bez c, s, z, dj gresaka u kvacicama
+
+
+KRATKA TABELA
+-------------
+
+  HERO      1200×675  16:9   gotovo jelo, siroko, centar, stranica + Google
+  HERO.800   800×450  16:9   isti kadar, srcset mobilni (post.html)
+  KORAK      900×675  4:3    blizu, jedna radnja, u tekstu
+  OG         1200×630  1.91:1 isto jelo, sire/nize — Facebook (og_image:)
+  KARTICA    800×600   4:3    grid kartice (card_image:)
+  MASTER     2400+      —      samo Drive
