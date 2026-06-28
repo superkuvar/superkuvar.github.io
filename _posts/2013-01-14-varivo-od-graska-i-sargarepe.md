@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5077
 permalink: /varivo-od-graška-i-šargarepe/
-image: /wp-content/uploads/2013/01/Varivoodgraskaisargarepe-940x198.jpg
+image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.hero.jpg
+og_image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.og.jpg
+card_image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.kartica.jpg
 description: Šareno varivo od graška i šargarepe sa lukom i mirođijom — lagan prilog uz pečeno ili dinstano meso. Gustina na kraju daje pun, kremast sos.
 prep_time: PT15M
 cook_time: PT35M

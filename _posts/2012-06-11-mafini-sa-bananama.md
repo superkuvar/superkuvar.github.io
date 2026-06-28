@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3431
 permalink: /mafini-sa-bananama/
-image: /wp-content/uploads/2012/06/Mafini-sa-bananama-940x198.jpg
+image: /wp-content/uploads/2012/06/mafini.sa.bananama.hero.jpg
+og_image: /wp-content/uploads/2012/06/mafini.sa.bananama.og.jpg
+card_image: /wp-content/uploads/2012/06/mafini.sa.bananama.kartica.jpg
 description: Mekani mafini sa bananama i kakaom — koriste prezrele banane za prirodnu slatkoću. Brza priprema, odlični za užinu ili doručak.
 prep_time: PT15M
 cook_time: PT30M

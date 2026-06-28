@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5517
 permalink: /čorbast-pasulj-sa-slaninom/
-image: /wp-content/uploads/2013/03/Corbast-pasulj-sa-slaninom-940x198.jpg
+image: /wp-content/uploads/2013/03/corbast.pasulj.sa.slaninom.hero.jpg
+og_image: /wp-content/uploads/2013/03/corbast.pasulj.sa.slaninom.og.jpg
+card_image: /wp-content/uploads/2013/03/corbast.pasulj.sa.slaninom.kartica.jpg
 description: Tradicionalni čorbast pasulj sa slaninom i zaprškom od brašna i paprike — gust, mirisan i zasitan. Klasično jelo za hladnije dane, najbolji sutradan kad se ukusi slegnu.
 prep_time: PT20M
 cook_time: PT2H

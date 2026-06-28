@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4199
 permalink: /boranija-u-zamrzivacu/
-image: /wp-content/uploads/2012/09/Boranija-940x198.jpg
+image: /wp-content/uploads/2012/09/boranija.u.zamrzivacu.hero.jpg
+og_image: /wp-content/uploads/2012/09/boranija.u.zamrzivacu.og.jpg
+card_image: /wp-content/uploads/2012/09/boranija.u.zamrzivacu.kartica.jpg
 description: Svežu mladu boraniju blanširajte, ohladite i zamrznite u kesama — zimska zaliha koja zadržava boju i ukus do godinu dana. Bez konzervansa, samo kratko kuvanje i brzo hlađenje.
 prep_time: PT30M
 cook_time: PT15M

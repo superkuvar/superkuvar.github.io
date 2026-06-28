@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9771
 permalink: /varivo-od-patlidzana-tikvica-paprika-paradajza/
-image: /wp-content/uploads/2015/10/varivoodpatlidzanatikvicapaprikaiparadajza-940x198.jpg
+image: /wp-content/uploads/2015/10/varivo.od.patlidzana.tikvica.paprika.paradajza.hero.jpg
+og_image: /wp-content/uploads/2015/10/varivo.od.patlidzana.tikvica.paprika.paradajza.og.jpg
+card_image: /wp-content/uploads/2015/10/varivo.od.patlidzana.tikvica.paprika.paradajza.kartica.jpg
 description: Bogato letnje varivo od patlidžana, tikvica, paprika i paradajza — klasično jelo bez mesa sa aromatičnim lukom i belim vinom. Savršeno uz pržene kobasice ili ćufte.
 prep_time: PT25M
 cook_time: PT45M

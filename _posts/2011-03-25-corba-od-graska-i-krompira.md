@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=247
 permalink: /čorba-od-graška-i-krompira/
-image: /wp-content/uploads/2011/03/Čorba-od-graška-i-krompira-940x198.jpg
+image: /wp-content/uploads/2011/03/corba.od.graska.i.krompira.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.graska.i.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.graska.i.krompira.kartica.jpg
 description: Lagana čorba od graška i krompira sa prazilukom i paradajz pireom — brza, jeftina i idealna za decu. Gustina od brašna je daje punu, kremastu teksturu.
 prep_time: PT15M
 cook_time: PT30M

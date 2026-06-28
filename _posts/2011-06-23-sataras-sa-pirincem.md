@@ -9,7 +9,9 @@ permalink: /sataras-sa-pirincem/
 redirect_from: 
   - /sataraš-sa-pirinčem/
   - /satara%C5%A1-sa-pirin%C4%8Dem/
-image: /wp-content/uploads/2011/06/Satarašsapirinčem-940x198.jpg
+image: /wp-content/uploads/2011/06/sataras.sa.pirincem.hero.jpg
+og_image: /wp-content/uploads/2011/06/sataras.sa.pirincem.og.jpg
+card_image: /wp-content/uploads/2011/06/sataras.sa.pirincem.kartica.jpg
 description: Klasičan sataraš od paprike i paradajza sa pirinčem — jedno jelo u šerpi, pun ukusa i boja. Može samostalno ili kao prilog uz meso.
 prep_time: PT20M
 cook_time: PT40M

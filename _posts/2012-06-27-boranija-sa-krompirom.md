@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3624
 permalink: /boranija-sa-krompirom/
-image: /wp-content/uploads/2012/06/Boranijasakrompirom-940x198.jpg
+image: /wp-content/uploads/2012/06/boranija.sa.krompirom.hero.jpg
+og_image: /wp-content/uploads/2012/06/boranija.sa.krompirom.og.jpg
+card_image: /wp-content/uploads/2012/06/boranija.sa.krompirom.kartica.jpg
 description: Domaća boranija sa krompirom, šargarepom i crvenom paprikom — letnje varivo koje može samostalno ili uz meso. Zapravka od brašna daje pun, gust sos.
 prep_time: PT20M
 cook_time: PT45M

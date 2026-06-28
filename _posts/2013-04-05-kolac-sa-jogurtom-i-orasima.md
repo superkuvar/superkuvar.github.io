@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5566
 permalink: /kolač-sa-jogurtom-i-orasima/
-image: /wp-content/uploads/2013/04/Kolacsajogurtomiorasima-940x198.jpg
+image: /wp-content/uploads/2013/04/kolac.sa.jogurtom.i.orasima.hero.jpg
+og_image: /wp-content/uploads/2013/04/kolac.sa.jogurtom.i.orasima.og.jpg
+card_image: /wp-content/uploads/2013/04/kolac.sa.jogurtom.i.orasima.kartica.jpg
 description: Sočan kolač sa jogurtom, orasima i jabukama — meri se čašom od jogurta, bez vagu. Mekan, aromatičan, savršen uz popodnevnu kafu.
 prep_time: PT15M
 cook_time: PT40M

@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9544
 permalink: /salata-od-rotkvica/
-image: /wp-content/uploads/2015/04/salataodrotkvica-940x198.jpg
+image: /wp-content/uploads/2015/04/salata.od.rotkvica.hero.jpg
+og_image: /wp-content/uploads/2015/04/salata.od.rotkvica.og.jpg
+card_image: /wp-content/uploads/2015/04/salata.od.rotkvica.kartica.jpg
 description: Osvežavajuća salata od svežih rotkvica i mladog luka sa jabukovim sirćetom — brza, pikantna i idealna uz jela od mesa. Priprema za 10 minuta.
 prep_time: PT10M
 cook_time: PT0M

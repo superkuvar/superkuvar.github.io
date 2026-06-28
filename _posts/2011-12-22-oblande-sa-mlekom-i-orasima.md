@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2110
 permalink: /oblande-sa-mlekom-i-orasima/
-image: /wp-content/uploads/2011/12/mamina-oblanda.jpg
+image: /wp-content/uploads/2011/12/oblande.sa.mlekom.i.orasima.hero.jpg
+og_image: /wp-content/uploads/2011/12/oblande.sa.mlekom.i.orasima.og.jpg
+card_image: /wp-content/uploads/2011/12/oblande.sa.mlekom.i.orasima.kartica.jpg
 description: Domaća oblanda sa karamelizovanim mlečnim filom i orasima — klasičan praznični slatkiš bez pečenja. Tajna je u postojanom mešanju dok fil ne dobije zlatnu boju.
 prep_time: PT20M
 cook_time: PT45M

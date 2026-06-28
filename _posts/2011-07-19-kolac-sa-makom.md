@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1567
 permalink: /kolac-sa-makom/
-image: /wp-content/uploads/2011/07/kolacsmakom-e1311066255829.jpg
+image: /wp-content/uploads/2011/07/kolac.sa.makom.hero.jpg
+og_image: /wp-content/uploads/2011/07/kolac.sa.makom.og.jpg
+card_image: /wp-content/uploads/2011/07/kolac.sa.makom.kartica.jpg
 description: Brzi kolač sa makom i čvrstim snegom od belanaca — priprema u jednoj šerpi, bez miksera za testo. Mekan, aromatičan, idealan uz kafu.
 prep_time: PT20M
 cook_time: PT25M

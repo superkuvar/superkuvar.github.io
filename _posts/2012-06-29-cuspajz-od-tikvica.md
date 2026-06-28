@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3632
 permalink: /ćušpajz-od-tikvica/
-image: /wp-content/uploads/2012/06/Ćušpajzodtikvica-940x198.jpg
+image: /wp-content/uploads/2012/06/cuspajz.od.tikvica.hero.jpg
+og_image: /wp-content/uploads/2012/06/cuspajz.od.tikvica.og.jpg
+card_image: /wp-content/uploads/2012/06/cuspajz.od.tikvica.kartica.jpg
 description: Lagani ćušpajz od tikvica, luka i paradajza — klasično letnje varivo bez mesa, sočno od povrća i začinjeno svežom mirođijom. Poslužite uz dinstano meso ili kao samostalan obrok.
 prep_time: PT15M
 cook_time: PT35M

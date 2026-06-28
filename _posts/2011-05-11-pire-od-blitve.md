@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=535
 permalink: /pire-od-blitve/
-image: /wp-content/uploads/2011/05/pireodblitve.jpg
+image: /wp-content/uploads/2011/05/pire.od.blitve.hero.jpg
+og_image: /wp-content/uploads/2011/05/pire.od.blitve.og.jpg
+card_image: /wp-content/uploads/2011/05/pire.od.blitve.kartica.jpg
 description: Kremasti pire od blitve sa lukom, prezom i kiselom pavlakom — zdrav prilog uz meso ili ribu. Blitva se kratko blanšira da zadrži boju i mekoću.
 prep_time: PT15M
 cook_time: PT20M

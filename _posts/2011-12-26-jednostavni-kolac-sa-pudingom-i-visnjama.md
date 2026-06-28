@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2128
 permalink: /jednostavni-kolač-sa-pudingom-i-višnjama/
-image: /wp-content/uploads/2011/12/Kolačsapudingomivisnjama-940x198.jpg
+image: /wp-content/uploads/2011/12/jednostavni.kolac.sa.pudingom.i.visnjama.hero.jpg
+og_image: /wp-content/uploads/2011/12/jednostavni.kolac.sa.pudingom.i.visnjama.og.jpg
+card_image: /wp-content/uploads/2011/12/jednostavni.kolac.sa.pudingom.i.visnjama.kartica.jpg
 description: Mekani patišpanj preliven vrelom višnjom i pudingom — jednostavan kolač bez miksera, savršen za praznične trpeze. Višnje daju kiselkast balans slatkom filu.
 prep_time: PT25M
 cook_time: PT30M

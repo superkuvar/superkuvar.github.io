@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1125
 permalink: /dinstano-meso-sa-povrćem/
-image: /wp-content/uploads/2011/06/Dinstanomesosapovrcem-940x198.jpg
+image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.hero.jpg
+og_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.og.jpg
+card_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.kartica.jpg
 description: Sočno dinstano svinjsko meso sa paprikom, paradajzom i šargarepom — klasičan domaći ručak koji miriše po crvenoj paprici. Poslužite uz pirinač, testeninu ili pire.
 prep_time: PT20M
 cook_time: PT1H
