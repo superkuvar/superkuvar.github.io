@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3141
 permalink: /kolač-sa-rogačem/
-image: /wp-content/uploads/2012/04/Kolač-sa-rogačem-940x198.jpg
+image: /wp-content/uploads/2012/04/kolac.sa.rogacem.hero.jpg
+og_image: /wp-content/uploads/2012/04/kolac.sa.rogacem.og.jpg
+card_image: /wp-content/uploads/2012/04/kolac.sa.rogacem.kartica.jpg
 description: Mekani kolač od mlevenog rogača i cimeta — prirodno sladak, bez gustih krema. Brza priprema u jednoj posudi, savršen uz kafu ili čaj.
 prep_time: PT15M
 cook_time: PT35M
