@@ -47,11 +47,6 @@ tags:
   - jaja
 ---
 
-<picture>
-  <source media="(max-width: 767px)" srcset="/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.hero.800.jpg">
-  <img src="/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.hero.jpg" alt="Čoko-rolat punjen pavlakom sa čokoladnim prelivom" width="1200" height="675" loading="eager">
-</picture>
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** penasto umutiti žumanca sa šećerom.
