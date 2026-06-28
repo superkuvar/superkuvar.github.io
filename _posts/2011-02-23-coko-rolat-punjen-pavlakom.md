@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=44
 permalink: /coko-rolat-punjen-pavlakom/
-description: Čoko-rolat punjen pavlakom — penasto umutiti žumanca sa šećerom.
+image: /wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.hero.jpg
+og_image: /wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.og.jpg
+card_image: /wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.kartica.jpg
+description: Čoko-rolat punjen pavlakom — mekani čokoladni biskvit sa slatkom pavlakom i prelivom od čokolade.
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -43,9 +46,17 @@ tags:
   - slatka pavlaka
   - jaja
 ---
+
+<picture>
+  <source media="(max-width: 767px)" srcset="/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.hero.800.jpg">
+  <img src="/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.hero.jpg" alt="Čoko-rolat punjen pavlakom sa čokoladnim prelivom" width="1200" height="675" loading="eager">
+</picture>
+
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** penasto umutiti žumanca sa šećerom.
+
+![Penasto umućena žumanca sa šećerom](/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.korak1.jpg)
 
 <span id="step-2"></span>**Korak 2.** U umućena žumanca dodati kakao i brašno, još malo mutiti a zatim sjediniti sa čvrsto ulupanim snegom od belanaca.
 
@@ -53,11 +64,15 @@ tags:
 
 <span id="step-4"></span>**Korak 4.** Pečen rolat izručiti na platnenu salvetu posutu šećerom i uviti ga.
 
+![Uvijanje pečenog biskvita u platnenu salvetu](/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.korak4.jpg)
+
 <span id="step-5"></span>**Korak 5.** Ukoliko je pleh bio pokriven papirom za pečenje, rolat se može uviti u taj papir.
 
 <span id="step-6"></span>**Korak 6.** U dobro umućenu slatku pavlaku može se staviti i kesica učvršćivača za šlag.
 
 <span id="step-7"></span>**Korak 7.** Odmotati ohlađeno testo za rolat, pa po sredini celom dužinom testa sipati umućenu pavlaku.
+
+![Punjenje rolata umućenom slatkom pavlakom](/wp-content/uploads/2011/02/coko.rolat.punjen.pavlakom.korak5.jpg)
 
 <span id="step-8"></span>**Korak 8.** Napraviti preliv na sledeći način: staviti u šerpicu izlomljenu čokoladu, šećer i mleko i kuvati na tihoj vatri dok se čokolada ne istopi.
 
