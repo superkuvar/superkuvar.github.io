@@ -6,6 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1225
 permalink: /dinstana-boranija-sa-šargarepom/
+image: /wp-content/uploads/2011/06/dinstana.boranija.sa.sargarepom.hero.jpg
 description: Dinstana boranija sa šargarepom, lukom i paradajz pireom — gusto, aromatično jelo bez mesa, idealno uz kiselu pavlaku.
 prep_time: PT25M
 cook_time: PT45M
@@ -35,6 +36,8 @@ tags:
   - crni luk
   - paradajz pire
   - šargarepa
+og_image: /wp-content/uploads/2011/06/dinstana.boranija.sa.sargarepom.og.jpg
+card_image: /wp-content/uploads/2011/06/dinstana.boranija.sa.sargarepom.kartica.jpg
 ---
 **Način pripreme:**
 

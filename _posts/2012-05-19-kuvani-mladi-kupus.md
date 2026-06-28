@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3235
 permalink: /kuvani-mladi-kupus/
-image: /wp-content/uploads/2012/05/Kuvani-mladi-kupus1-940x198.jpg
+image: /wp-content/uploads/2012/05/kuvani.mladi.kupus.hero.jpg
 description: Kuvani mladi kupus sa paprikom, šargarepom i paradajzom — jednostavno i zasitno jelo bez mesa. Odličan uz pržene kobasice ili slaninu.
 prep_time: PT20M
 cook_time: PT1H
@@ -35,6 +35,8 @@ tags:
   - kupus
   - paprike
   - šargarepa
+og_image: /wp-content/uploads/2012/05/kuvani.mladi.kupus.og.jpg
+card_image: /wp-content/uploads/2012/05/kuvani.mladi.kupus.kartica.jpg
 ---
 **Način pripreme:**
 

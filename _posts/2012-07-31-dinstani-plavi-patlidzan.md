@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3852
 permalink: /dinstani-plavi-patlidžan/
-image: /wp-content/uploads/2012/07/Dinstaniplavipatlidzan-940x198.jpg
+image: /wp-content/uploads/2012/07/dinstani.plavi.patlidzan.hero.jpg
 description: Dinstani plavi patlidžan sa paprikom, šargarepom i paradajzom — bogato povrtno jelo sa lukom i začinima, idealno uz meso ili šnicle.
 prep_time: PT30M
 cook_time: PT45M
@@ -36,6 +36,8 @@ tags:
   - peršunov list
   - plavi patlidžan
   - šargarepa
+og_image: /wp-content/uploads/2012/07/dinstani.plavi.patlidzan.og.jpg
+card_image: /wp-content/uploads/2012/07/dinstani.plavi.patlidzan.kartica.jpg
 ---
 **Način pripreme:**
 

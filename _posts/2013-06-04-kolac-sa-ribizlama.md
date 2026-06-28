@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2013/06/Kolacsaribizlama-940x198.jpg
+image: /wp-content/uploads/2013/06/kolac.sa.ribizlama.hero.jpg
 description: Sočan kolač sa svežim ribizlama — polovina testa na dnu, bobice u sredini i preliv odozgo daju kiselkasto-slatki kontrast uz orahe i muskatni oraščić.
 prep_time: PT20M
 cook_time: PT40M
@@ -42,6 +42,8 @@ tags:
   - ribizle
   - šećer
   - jaja
+og_image: /wp-content/uploads/2013/06/kolac.sa.ribizlama.og.jpg
+card_image: /wp-content/uploads/2013/06/kolac.sa.ribizlama.kartica.jpg
 ---
 **Način pripreme:**
 

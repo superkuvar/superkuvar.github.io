@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1401
 permalink: /slane-galete/
-image: /wp-content/uploads/2011/07/slanegalete-940x198.jpg
+image: /wp-content/uploads/2011/07/slane.galete.hero.jpg
 description: Domaće slane galete sa susamom i margarinom — hrskavo pecivo pogodno za putovanje, pečeno u aparatu za galete ili na tosteru.
 prep_time: PT30M
 cook_time: PT30M
@@ -34,6 +34,8 @@ tags:
   - margarin
   - susam
   - jaja
+og_image: /wp-content/uploads/2011/07/slane.galete.og.jpg
+card_image: /wp-content/uploads/2011/07/slane.galete.kartica.jpg
 ---
 **Način pripreme:**
 

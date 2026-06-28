@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2012/01/Kolacsavisnjamaiorasima-940x198.jpg
+image: /wp-content/uploads/2012/01/kolac.sa.visnjama.i.orasima.hero.jpg
 description: Bogat kolač sa orasima i višnjama preliven puding filom i šlagom — praznični desert pun kontrasta slatko-kiselog ukusa. Patišpanj ostaje sočan zahvaljujući mleku.
 prep_time: PT30M
 cook_time: PT40M
@@ -47,6 +47,8 @@ tags:
   - šlag
   - višnje
   - jaja
+og_image: /wp-content/uploads/2012/01/kolac.sa.visnjama.i.orasima.og.jpg
+card_image: /wp-content/uploads/2012/01/kolac.sa.visnjama.i.orasima.kartica.jpg
 ---
 **Način pripreme:**
 

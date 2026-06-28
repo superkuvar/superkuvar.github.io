@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=6061
 permalink: /zapečena-boranija-sa-krompirom/
-image: /wp-content/uploads/2013/08/Zapecena-boranija-sa-krompirom-940x198.jpg
+image: /wp-content/uploads/2013/08/zapecena.boranija.sa.krompirom.hero.jpg
 description: Zapečena boranija sa krompirom, šargarepom i prelivom od jaja i mleka — zasitno jelo bez mesa koje može biti i samostalan obrok i prilog.
 prep_time: PT20M
 cook_time: PT50M
@@ -43,6 +43,8 @@ tags:
   - praziluk
   - šargarepa
   - jaja
+og_image: /wp-content/uploads/2013/08/zapecena.boranija.sa.krompirom.og.jpg
+card_image: /wp-content/uploads/2013/08/zapecena.boranija.sa.krompirom.kartica.jpg
 ---
 **Način pripreme:**
 

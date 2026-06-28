@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3524
 permalink: /dinstana-keleraba/
-image: /wp-content/uploads/2012/06/Dinstana-keleraba-940x198.jpg
+image: /wp-content/uploads/2012/06/dinstana.keleraba.hero.jpg
 description: Dinstana mlada keleraba u blagom sosu od skroba i peršuna — lagan i ukusan prilog uz meso. Šećer ublažava blagu gorčinu povrća.
 prep_time: PT10M
 cook_time: PT45M
@@ -33,6 +33,8 @@ categories:
 tags:
   - keleraba
   - peršunov list
+og_image: /wp-content/uploads/2012/06/dinstana.keleraba.og.jpg
+card_image: /wp-content/uploads/2012/06/dinstana.keleraba.kartica.jpg
 ---
 **Način pripreme:**
 

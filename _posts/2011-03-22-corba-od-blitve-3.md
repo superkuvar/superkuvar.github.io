@@ -6,7 +6,7 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=187
 permalink: /corba-od-blitve-3/
-image: /wp-content/uploads/2011/03/Čorbaodblitve-940x198.jpg
+image: /wp-content/uploads/2011/03/corba.od.blitve.3.hero.jpg
 description: Lagana i hranljiva čorba od blitve sa prženim lukom i žumancem u mleku — jednostavno jelo puno vitamina. Poslužite je toplu uz domaći hleb.
 prep_time: PT15M
 cook_time: PT35M
@@ -34,6 +34,8 @@ tags:
   - blitva
   - crni luk
   - mleko
+og_image: /wp-content/uploads/2011/03/corba.od.blitve.3.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.blitve.3.kartica.jpg
 ---
 **Način pripreme:**
 

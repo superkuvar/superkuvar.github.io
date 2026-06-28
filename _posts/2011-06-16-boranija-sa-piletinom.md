@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1104
 permalink: /boranija-sa-piletinom/
-image: /wp-content/uploads/2011/06/Boranija-sa-piletinom-940x198.jpg
+image: /wp-content/uploads/2011/06/boranija.sa.piletinom.hero.jpg
 description: Dinstana boranija sa piletinom, lukom i šargarepom — klasično letnje jelo zgušnjeno brašnom i crvenom paprikom, posuto peršunom.
 prep_time: PT25M
 cook_time: PT60M
@@ -38,6 +38,8 @@ tags:
   - crni luk
   - peršunov list
   - pileće meso
+og_image: /wp-content/uploads/2011/06/boranija.sa.piletinom.og.jpg
+card_image: /wp-content/uploads/2011/06/boranija.sa.piletinom.kartica.jpg
 ---
 **Način pripreme:**
 

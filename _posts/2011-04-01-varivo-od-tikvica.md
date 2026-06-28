@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=396
 permalink: /varivo-od-tikvica/
-image: /wp-content/uploads/2011/04/Varivo-od-tikvica-940x198.jpg
+image: /wp-content/uploads/2011/04/varivo.od.tikvica.hero.jpg
 description: Lagano varivo od mladih tikvica sa kiselom pavlakom i mirođijom — brzo jelo bez mesa koje može biti i samostalan obrok i prilog uz piletinu.
 prep_time: PT15M
 cook_time: PT25M
@@ -31,6 +31,8 @@ tags:
   - kisela pavlaka
   - mirođija
   - tikvice
+og_image: /wp-content/uploads/2011/04/varivo.od.tikvica.og.jpg
+card_image: /wp-content/uploads/2011/04/varivo.od.tikvica.kartica.jpg
 ---
 **Način pripreme:**
 

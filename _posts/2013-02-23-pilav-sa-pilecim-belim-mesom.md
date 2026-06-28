@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2013/02/Pilavsapilecimbelimmesom-940x198.jpg
+image: /wp-content/uploads/2013/02/pilav.sa.pilecim.belim.mesom.hero.jpg
 description: Pilav sa pilećim belim mesom, prazilukom i karijem — pirinač pečen u pećnici sa proprženim mesom i toplom pilećom supom.
 prep_time: PT20M
 cook_time: PT45M
@@ -37,6 +37,8 @@ tags:
   - pileće meso
   - pirinač
   - praziluk
+og_image: /wp-content/uploads/2013/02/pilav.sa.pilecim.belim.mesom.og.jpg
+card_image: /wp-content/uploads/2013/02/pilav.sa.pilecim.belim.mesom.kartica.jpg
 ---
 **Način pripreme:**
 

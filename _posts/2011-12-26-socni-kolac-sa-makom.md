@@ -6,6 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2136
 permalink: /socni-kolac-sa-makom/
+image: /wp-content/uploads/2011/12/socni.kolac.sa.makom.hero.jpg
 description: Sočan kolač sa mlevenim makom preliven vrućim šećernim sirupom — klasičan domaći desert punog ukusa. Najbolje je samleti mak neposredno pre pečenja.
 prep_time: PT20M
 cook_time: PT50M
@@ -38,6 +39,8 @@ tags:
   - šećer
   - ulje
   - jaja
+og_image: /wp-content/uploads/2011/12/socni.kolac.sa.makom.og.jpg
+card_image: /wp-content/uploads/2011/12/socni.kolac.sa.makom.kartica.jpg
 ---
 **Način pripreme:**
 

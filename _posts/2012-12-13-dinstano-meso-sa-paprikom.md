@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2012/12/Mesosapaprikom-940x198.jpg
+image: /wp-content/uploads/2012/12/dinstano.meso.sa.paprikom.hero.jpg
 description: Dinstano svinjsko ili juneće meso sa paprikom i crvenom mlevenom paprikom — sočno jelo zgušnjeno brašnom, idealno uz pirinač ili testeninu.
 prep_time: PT15M
 cook_time: PT60M
@@ -37,6 +37,8 @@ tags:
   - crni luk
   - meso
   - paprike
+og_image: /wp-content/uploads/2012/12/dinstano.meso.sa.paprikom.og.jpg
+card_image: /wp-content/uploads/2012/12/dinstano.meso.sa.paprikom.kartica.jpg
 ---
 **Način pripreme:**
 

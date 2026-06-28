@@ -12,26 +12,46 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 UPLOADS = ROOT / "wp-content" / "uploads"
 
-# GA4 top #3–#20 (skip #1 pita, #2 rogač done; skip #19 projice done)
+# GA4 top #21–#50 (skip #39 /silicijum/ — nije recept)
 RECIPES = [
-    ("_posts/2012-09-04-boranija-u-zamrzivacu.md", "boranija.u.zamrzivacu"),
-    ("_posts/2011-08-06-sladoled-od-pavlake-i-voca.md", "sladoled.od.pavlake.i.voca"),
-    ("_posts/2012-06-29-cuspajz-od-tikvica.md", "cuspajz.od.tikvica"),
-    ("_posts/2013-03-25-corbast-pasulj-sa-slaninom.md", "corbast.pasulj.sa.slaninom"),
-    ("_posts/2011-05-11-pire-od-blitve.md", "pire.od.blitve"),
-    ("_posts/2011-03-25-corba-od-graska-i-krompira.md", "corba.od.graska.i.krompira"),
-    ("_posts/2011-06-17-dinstano-meso-sa-povrcem.md", "dinstano.meso.sa.povrcem"),
-    ("_posts/2011-12-26-jednostavni-kolac-sa-pudingom-i-visnjama.md", "jednostavni.kolac.sa.pudingom.i.visnjama"),
-    ("_posts/2011-06-23-sataras-sa-pirincem.md", "sataras.sa.pirincem"),
-    ("_posts/2011-07-19-kolac-sa-makom.md", "kolac.sa.makom"),
-    ("_posts/2011-12-22-oblande-sa-mlekom-i-orasima.md", "oblande.sa.mlekom.i.orasima"),
-    ("_posts/2015-04-10-salata-od-rotkvica.md", "salata.od.rotkvica"),
-    ("_posts/2012-06-27-boranija-sa-krompirom.md", "boranija.sa.krompirom"),
-    ("_posts/2013-04-05-kolac-sa-jogurtom-i-orasima.md", "kolac.sa.jogurtom.i.orasima"),
-    ("_posts/2012-06-11-mafini-sa-bananama.md", "mafini.sa.bananama"),
-    ("_posts/2013-01-14-varivo-od-graska-i-sargarepe.md", "varivo.od.graska.i.sargarepe"),
-    ("_posts/2015-10-12-varivo-od-patlidzana-tikvica-paprika-paradajza.md", "varivo.od.patlidzana.tikvica.paprika.paradajza"),
+    ("_posts/2011-08-12-bakini-medenjaci.md", "bakini.medenjaci"),
+    ("_posts/2011-03-22-corba-od-blitve-3.md", "corba.od.blitve.3"),
+    ("_posts/2011-06-29-przenija.md", "przenija"),
+    ("_posts/2012-06-20-dinstana-keleraba.md", "dinstana.keleraba"),
+    ("_posts/2011-12-26-socni-kolac-sa-makom.md", "socni.kolac.sa.makom"),
+    ("_posts/2012-02-06-jastuk-torta.md", "jastuk.torta"),
+    ("_posts/2012-01-06-kolac-sa-visnjama-i-orasima.md", "kolac.sa.visnjama.i.orasima"),
+    ("_posts/2011-04-01-varivo-od-tikvica.md", "varivo.od.tikvica"),
+    ("_posts/2013-08-23-zapecena-boranija-sa-krompirom.md", "zapecena.boranija.sa.krompirom"),
+    ("_posts/2012-12-21-dinstani-grasak.md", "dinstani.grasak"),
+    ("_posts/2011-07-19-kolacici-s-belim-vinom.md", "kolacici.s.belim.vinom"),
+    ("_posts/2012-05-19-kuvani-mladi-kupus.md", "kuvani.mladi.kupus"),
+    ("_posts/2013-01-21-posna-sarma-sa-orasima.md", "posna.sarma.sa.orasima"),
+    ("_posts/2015-04-06-salata-od-rotkvica-sa-pavlakom.md", "salata.od.rotkvica.sa.pavlakom"),
+    ("_posts/2011-07-15-brzi-kolac-sa-orasima.md", "brzi.kolac.sa.orasima"),
+    ("_posts/2013-06-04-kolac-sa-ribizlama.md", "kolac.sa.ribizlama"),
+    ("_posts/2015-08-18-posna-sarma-od-blitve.md", "posna.sarma.od.blitve"),
+    ("_posts/2020-01-03-projara-sa-pecurkama-i-sirom.md", "projara.sa.pecurkama.i.sirom"),
+    ("_posts/2012-07-21-slatka-pita-sa-tikvicama.md", "slatka.pita.sa.tikvicama"),
+    ("_posts/2011-06-18-sos-od-sampinjona.md", "sos.od.sampinjona"),
+    ("_posts/2011-06-21-dinstana-boranija-sa-sargarepom.md", "dinstana.boranija.sa.sargarepom"),
+    ("_posts/2015-08-10-pohovane-tikvice-u-pivskom-testu.md", "pohovane.tikvice.u.pivskom.testu"),
+    ("_posts/2012-02-21-rezanci-sa-sirom.md", "rezanci.sa.sirom"),
+    ("_posts/2012-07-31-dinstani-plavi-patlidzan.md", "dinstani.plavi.patlidzan"),
+    ("_posts/2012-12-13-dinstano-meso-sa-paprikom.md", "dinstano.meso.sa.paprikom"),
+    ("_posts/2013-02-23-pilav-sa-pilecim-belim-mesom.md", "pilav.sa.pilecim.belim.mesom"),
+    ("_posts/2011-12-13-rolat-od-oblande-sa-keksom-i-kokosom.md", "rolat.od.oblande.sa.keksom.i.kokosom"),
+    ("_posts/2011-07-13-slane-galete.md", "slane.galete"),
+    ("_posts/2011-06-16-boranija-sa-piletinom.md", "boranija.sa.piletinom"),
 ]
+
+IMAGE_OVERRIDES: dict[str, str] = {
+    "socni.kolac.sa.makom": "/wp-content/uploads/2011/12/kolacmak.jpg",
+    "sos.od.sampinjona": "/wp-content/uploads/2015/06/dinstanisampinjoniikrompir.jpg",
+    "dinstana.boranija.sa.sargarepom": (
+        "/wp-content/uploads/2011/06/Zapečena-boranija-sa-sojom-1024x768.jpg"
+    ),
+}
 
 SKIP_PARTS = (".korak", ".hero", ".og.", ".kartica", ".master", ".hero.800")
 SIZE_SUFFIX = re.compile(r"-\d+x\d+$")
@@ -205,7 +225,7 @@ def read_image_field(post_path: Path) -> str | None:
 def main() -> None:
     for post_rel, slug in RECIPES:
         post_path = ROOT / post_rel
-        image_field = read_image_field(post_path)
+        image_field = read_image_field(post_path) or IMAGE_OVERRIDES.get(slug)
         if not image_field:
             print(f"SKIP {slug}: no image field")
             continue

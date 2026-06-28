@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9704
 permalink: /posna-sarma-od-blitve/
-image: /wp-content/uploads/2015/08/posnasarmaodblitve-940x198.jpg
+image: /wp-content/uploads/2015/08/posna.sarma.od.blitve.hero.jpg
 description: Posna sarma od blitve sa sojinim ljuspicama, pirinčem i povrćem — lagano jelo bez mesa, kuvano u vodi dok listovi ne omekšaju.
 prep_time: PT40M
 cook_time: PT40M
@@ -35,6 +35,8 @@ tags:
   - pirinač
   - šargarepa
   - sojine ljuspice
+og_image: /wp-content/uploads/2015/08/posna.sarma.od.blitve.og.jpg
+card_image: /wp-content/uploads/2015/08/posna.sarma.od.blitve.kartica.jpg
 ---
 **Način pripreme:**
 

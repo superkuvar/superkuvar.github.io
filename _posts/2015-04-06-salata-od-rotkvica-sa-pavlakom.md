@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9539
 permalink: /salata-od-rotkvica-sa-pavlakom/
-image: /wp-content/uploads/2015/04/salataodrotkvicasapavlakom-940x198.jpg
+image: /wp-content/uploads/2015/04/salata.od.rotkvica.sa.pavlakom.hero.jpg
 description: Sveža salata od mladih rotkvica i luka sa kiselom pavlakom i jabukovim sirćetom — lagano i osvežavajuće predjelo za prolećni i letnji sto.
 prep_time: PT15M
 cook_time: PT0M
@@ -32,6 +32,8 @@ tags:
   - kisela pavlaka
   - rotkvice
   - sirće
+og_image: /wp-content/uploads/2015/04/salata.od.rotkvica.sa.pavlakom.og.jpg
+card_image: /wp-content/uploads/2015/04/salata.od.rotkvica.sa.pavlakom.kartica.jpg
 ---
 **Način pripreme:**
 

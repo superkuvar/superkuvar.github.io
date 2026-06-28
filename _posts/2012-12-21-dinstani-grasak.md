@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2012/12/Dinstani-grašak-940x198.jpg
+image: /wp-content/uploads/2012/12/dinstani.grasak.hero.jpg
 description: Dinstani grašak sa crnim lukom, mirođijom i blagom zaprškom od brašna — klasičan prilog uz meso, šnicle ili pečenje. Može se pripremati i od zamrznutog graška.
 prep_time: PT10M
 cook_time: PT30M
@@ -40,6 +40,8 @@ tags:
   - crni luk
   - grašak
   - mirođija
+og_image: /wp-content/uploads/2012/12/dinstani.grasak.og.jpg
+card_image: /wp-content/uploads/2012/12/dinstani.grasak.kartica.jpg
 ---
 **Način pripreme:**
 

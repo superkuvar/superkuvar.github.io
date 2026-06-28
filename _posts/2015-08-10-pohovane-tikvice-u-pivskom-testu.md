@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9700
 permalink: /pohovane-tikvice-u-pivskom-testu/
-image: /wp-content/uploads/2015/08/pohovanetikviceupivskomtestu-940x198.jpg
+image: /wp-content/uploads/2015/08/pohovane.tikvice.u.pivskom.testu.hero.jpg
 description: Hrskave pohovane tikvice u laganom pivskom testu sa praškom za pecivo — zlatne i sočne, idealne uz salatu ili kao predjelo.
 prep_time: PT20M
 cook_time: PT20M
@@ -32,6 +32,8 @@ tags:
   - pivo
   - tikvice
   - jaja
+og_image: /wp-content/uploads/2015/08/pohovane.tikvice.u.pivskom.testu.og.jpg
+card_image: /wp-content/uploads/2015/08/pohovane.tikvice.u.pivskom.testu.kartica.jpg
 ---
 **Način pripreme:**
 

@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2011/12/Rolat-od-oblande-sa-keksom-i-kokosom-940x198.jpg
+image: /wp-content/uploads/2011/12/rolat.od.oblande.sa.keksom.i.kokosom.hero.jpg
 description: Dvobojni rolat od oblande sa tamnim filom od keksa i kakaoa i belim kokosovim filom — poslastica sa žele bombonima, bez pečenja.
 prep_time: PT45M
 cook_time: PT0M
@@ -42,6 +42,8 @@ tags:
   - mleko
   - oblande
   - žele bombone
+og_image: /wp-content/uploads/2011/12/rolat.od.oblande.sa.keksom.i.kokosom.og.jpg
+card_image: /wp-content/uploads/2011/12/rolat.od.oblande.sa.keksom.i.kokosom.kartica.jpg
 ---
 **Način pripreme:**
 

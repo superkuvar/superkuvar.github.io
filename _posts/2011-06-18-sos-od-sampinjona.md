@@ -6,6 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1155
 permalink: /sos-od-šampinjona/
+image: /wp-content/uploads/2015/06/sos.od.sampinjona.hero.jpg
 description: Kremasti sos od šampinjona sa brašnom i mlekom — brzo prženje pečuraka i zgušnjavanje daju sos pogodan za šnicle, pirinač ili rezance.
 prep_time: PT10M
 cook_time: PT15M
@@ -30,6 +31,8 @@ tags:
   - mleko
   - peršunov list
   - šampinjoni
+og_image: /wp-content/uploads/2015/06/sos.od.sampinjona.og.jpg
+card_image: /wp-content/uploads/2015/06/sos.od.sampinjona.kartica.jpg
 ---
 **Način pripreme:**
 

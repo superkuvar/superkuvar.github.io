@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5109
 permalink: /posna-sarma-sa-orasima/
-image: /wp-content/uploads/2013/01/Posnasarmasaorasima-940x198.jpg
+image: /wp-content/uploads/2013/01/posna.sarma.sa.orasima.hero.jpg
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
@@ -46,6 +46,8 @@ tags:
   - orasi
   - pirinač
   - šargarepa
+og_image: /wp-content/uploads/2013/01/posna.sarma.sa.orasima.og.jpg
+card_image: /wp-content/uploads/2013/01/posna.sarma.sa.orasima.kartica.jpg
 ---
 **Način pripreme:**
 

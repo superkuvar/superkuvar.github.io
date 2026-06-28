@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2012/02/Rezancisasirom-940x198.jpg
+image: /wp-content/uploads/2012/02/rezanci.sa.sirom.hero.jpg
 description: Jednostavni domaći rezanci sa izmrvljenim tvrdim belim sirom — brzo jelo za svakodnevni ručak, pripremljeno za nekoliko minuta.
 prep_time: PT5M
 cook_time: PT15M
@@ -31,6 +31,8 @@ categories:
 tags:
   - rezanci
   - sir
+og_image: /wp-content/uploads/2012/02/rezanci.sa.sirom.og.jpg
+card_image: /wp-content/uploads/2012/02/rezanci.sa.sirom.kartica.jpg
 ---
 **Način pripreme:**
 

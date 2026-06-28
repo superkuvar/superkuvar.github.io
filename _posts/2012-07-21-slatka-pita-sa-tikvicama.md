@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3787
 permalink: /slatka-pita-sa-tikvicama/
-image: /wp-content/uploads/2012/07/Slatkapitasatikvicama-940x198.jpg
+image: /wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.hero.jpg
 description: Slatka pita od tankih kora sa narendanim tikvicama, suvim grožđem i orasima — uvijena kao štrudla, pečena do zlatne boje i posuta šećerom u prahu.
 prep_time: PT40M
 cook_time: PT30M
@@ -35,6 +35,8 @@ tags:
   - prezle
   - suvo groždje
   - tikvice
+og_image: /wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.og.jpg
+card_image: /wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.kartica.jpg
 ---
 **Način pripreme:**
 

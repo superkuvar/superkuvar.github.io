@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2011/08/Bakini-medenjaci-940x198.jpg
+image: /wp-content/uploads/2011/08/bakini.medenjaci.hero.jpg
 description: Klasični bakini medenjaci sa medom, cimetom i đumbirom — mekani, aromatični i dugotrajni. Idealni za prazničnu trpezu ili uz jutarnju kafu.
 prep_time: PT25M
 cook_time: PT10M
@@ -40,6 +40,8 @@ tags:
   - margarin
   - med
   - jaja
+og_image: /wp-content/uploads/2011/08/bakini.medenjaci.og.jpg
+card_image: /wp-content/uploads/2011/08/bakini.medenjaci.kartica.jpg
 ---
 **Način pripreme:**
 

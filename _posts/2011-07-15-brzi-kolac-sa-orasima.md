@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2011/07/Melspajz-sa..-5-940x198.jpg
+image: /wp-content/uploads/2011/07/brzi.kolac.sa.orasima.hero.jpg
 description: Brz i jednostavan kolač sa mlevenim orasima — penasto umućena jaja, brašno i prašak za pecivo daju mekan, aromatičan kolač pečen na 200 °C oko pola sata.
 prep_time: PT15M
 cook_time: PT30M
@@ -37,6 +37,8 @@ tags:
   - mleko
   - orasi
   - jaja
+og_image: /wp-content/uploads/2011/07/brzi.kolac.sa.orasima.og.jpg
+card_image: /wp-content/uploads/2011/07/brzi.kolac.sa.orasima.kartica.jpg
 ---
 **Način pripreme:**
 

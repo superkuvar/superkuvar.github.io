@@ -6,7 +6,7 @@ author: sneki
 layout: post
 permalink: /projara-sa-pecurkama-i-sirom/
 published: true
-image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.jpg
+image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.hero.jpg
 description: Sočna projara sa pečurkama i sirom idealna je za brzi ručak ili toplo predjelo. Kukuruzno brašno daje blagu slatkastu notu, a prženi luk i lisičarke upotpunjuju bogat, slan ukus.
 prep_time: PT15M
 cook_time: PT50M
@@ -35,6 +35,8 @@ categories:
    - proje
 tags:
    - sir
+og_image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.og.jpg
+card_image: /wp-content/uploads/2020/01/projara.sa.pecurkama.i.sirom.kartica.jpg
 ---
 **Način pripreme:**
 

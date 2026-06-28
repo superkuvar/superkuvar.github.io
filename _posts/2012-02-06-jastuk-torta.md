@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2448
 permalink: /jastuk-torta/
-image: /wp-content/uploads/2012/02/Jastuk-torta-940x198.jpg
+image: /wp-content/uploads/2012/02/jastuk.torta.hero.jpg
 description: Jastuk torta sa laganim biskvitom, krem filom od mleka i šlag premazom — elegantan domaći desert koji zahteva malo strpljenja, ali vredi truda.
 prep_time: PT45M
 cook_time: PT35M
@@ -39,6 +39,8 @@ tags:
   - šećer
   - šlag
   - jaja
+og_image: /wp-content/uploads/2012/02/jastuk.torta.og.jpg
+card_image: /wp-content/uploads/2012/02/jastuk.torta.kartica.jpg
 ---
 **Način pripreme:**
 

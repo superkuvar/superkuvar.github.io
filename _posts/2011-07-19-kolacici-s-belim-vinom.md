@@ -10,7 +10,7 @@ fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2011/07/Kolacicisbelimvinom-940x198.jpg
+image: /wp-content/uploads/2011/07/kolacici.s.belim.vinom.hero.jpg
 description: Mekani kolačići sa belim vinom i margarinom — lagani, aromatični i jednostavni za pripremu. Poslužite ih uvaljane u šećer u prahu sa vanilom.
 prep_time: PT25M
 cook_time: PT15M
@@ -35,6 +35,8 @@ categories:
 tags:
   - margarin
   - vino
+og_image: /wp-content/uploads/2011/07/kolacici.s.belim.vinom.og.jpg
+card_image: /wp-content/uploads/2011/07/kolacici.s.belim.vinom.kartica.jpg
 ---
 **Način pripreme:**
 
