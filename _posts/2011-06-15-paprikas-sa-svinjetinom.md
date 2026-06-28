@@ -45,9 +45,15 @@ card_image: /wp-content/uploads/2011/06/paprikas.sa.svinjetinom.kartica.jpg
 
 <span id="step-1"></span>**Korak 1.** Crni luk očistiti, sitno iseckati i propržiti na ulju dok ne postane staklast.
 
+![Korak 1 — paprikaš sa svinjetinom](/wp-content/uploads/2011/06/paprikas.sa.svinjetinom.korak1.jpg)
+
 <span id="step-2"></span>**Korak 2.** Dodati svinjsko meso isečeno na manje komade i začinsku papriku, pa posuti brašnom. Sipati malo vode i dinstati dok meso ne omekša. Posoliti, pobiberiti i dodati pola kašičice majorana.
 
+![Korak 2 — paprikaš sa svinjetinom](/wp-content/uploads/2011/06/paprikas.sa.svinjetinom.korak2.jpg)
+
 <span id="step-3"></span>**Korak 3.** U izdinstano meso dodati krompir isečen na komade i šargarepu isečenu na kolutove. Naliti toplom vodom da ogrezne, pa vratiti na štednjak. Paprikaš kuvati na tihoj vatri dok povrće ne omekša.
+
+![Korak 3 — paprikaš sa svinjetinom](/wp-content/uploads/2011/06/paprikas.sa.svinjetinom.korak3.jpg)
 
 <span id="step-4"></span>**Korak 4.** U gotov paprikaš, po želji, umešati kiselu pavlaku neposredno pre serviranja.
 
