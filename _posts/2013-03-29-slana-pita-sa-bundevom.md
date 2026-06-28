@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/03/Slana-pita-sa-bundevom-940x198.jpg
+image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.hero.jpg
 categories:
   - slane pite
 tags:
@@ -21,6 +21,8 @@ tags:
   - kore za pitu
   - muskatni oraščić
   - jaja
+og_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.og.jpg
+card_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.kartica.jpg
 ---
 **Potrebno je**:
 

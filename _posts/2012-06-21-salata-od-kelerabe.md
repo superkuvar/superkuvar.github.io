@@ -8,13 +8,15 @@ guid: http://superkuvar.com/?p=3547
 permalink: /salata-od-kelerabe/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/06/Salataodkelerabe-940x198.jpg
+image: /wp-content/uploads/2012/06/salata.od.kelerabe.hero.jpg
 categories:
   - salate
 tags:
   - keleraba
   - limunov sok
   - senf
+og_image: /wp-content/uploads/2012/06/salata.od.kelerabe.og.jpg
+card_image: /wp-content/uploads/2012/06/salata.od.kelerabe.kartica.jpg
 ---
 **Potrebno je**:
 

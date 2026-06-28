@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/02/Rolat-sa-dzemom-940x198.jpg
+image: /wp-content/uploads/2013/02/biskvit.rolat.sa.dzemom.hero.jpg
 categories:
   - rolati
 tags:
@@ -20,6 +20,8 @@ tags:
   - džem
   - šećer
   - jaja
+og_image: /wp-content/uploads/2013/02/biskvit.rolat.sa.dzemom.og.jpg
+card_image: /wp-content/uploads/2013/02/biskvit.rolat.sa.dzemom.kartica.jpg
 ---
 **Potrebno je**:
 

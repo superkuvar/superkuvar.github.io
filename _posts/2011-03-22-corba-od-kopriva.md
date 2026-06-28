@@ -6,7 +6,7 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=195
 permalink: /čorba-od-kopriva/
-image: /wp-content/uploads/2011/03/corbaodkopriva-940x198.jpg
+image: /wp-content/uploads/2011/03/corba.od.kopriva.hero.jpg
 description: Čorba od kopriva — koprive preliti vrelom vodom i dobro isprati pod mlazom hladne vode.
 prep_time: PT20M
 cook_time: PT40M
@@ -37,6 +37,8 @@ tags:
   - kisela pavlaka
   - koprive
   - pirinač
+og_image: /wp-content/uploads/2011/03/corba.od.kopriva.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.kopriva.kartica.jpg
 ---
 ![corba od kopriva](/wp-content/uploads/2011/03/corbaodkopriva-1024x768.jpg)
 

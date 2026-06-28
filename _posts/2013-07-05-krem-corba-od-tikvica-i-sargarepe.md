@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=5856
 permalink: /krem-čorba-od-tikvica-i-šargarepe/
 totvreme:
   - ""
-image: /wp-content/uploads/2013/07/Kremcorbaodtikvicaisargarepe-940x198.jpg
+image: /wp-content/uploads/2013/07/krem.corba.od.tikvica.i.sargarepe.hero.jpg
 categories:
   - supe i čorbe
 tags:
@@ -17,6 +17,8 @@ tags:
   - šargarepa
   - tikvice
   - jaja
+og_image: /wp-content/uploads/2013/07/krem.corba.od.tikvica.i.sargarepe.og.jpg
+card_image: /wp-content/uploads/2013/07/krem.corba.od.tikvica.i.sargarepe.kartica.jpg
 ---
 **Potrebno je**:
 

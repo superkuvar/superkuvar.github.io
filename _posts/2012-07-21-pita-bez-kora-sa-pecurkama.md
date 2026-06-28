@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=3777
 permalink: /pita-bez-kora-sa-pečurkama/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/07/Pitabezkorasapecurkama-940x198.jpg
+image: /wp-content/uploads/2012/07/pita.bez.kora.sa.pecurkama.hero.jpg
 categories:
   - slane pite
 tags:
@@ -16,6 +16,8 @@ tags:
   - origano
   - šampinjoni
   - jaja
+og_image: /wp-content/uploads/2012/07/pita.bez.kora.sa.pecurkama.og.jpg
+card_image: /wp-content/uploads/2012/07/pita.bez.kora.sa.pecurkama.kartica.jpg
 ---
 **Potrebno je**:
 

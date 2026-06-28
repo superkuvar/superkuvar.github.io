@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=2712
 permalink: /svedska-pita/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/03/Švedska-pita-940x198.jpg
+image: /wp-content/uploads/2012/03/svedska.pita.hero.jpg
 categories:
   - kolači
 tags:
@@ -18,6 +18,8 @@ tags:
   - margarin
   - suvo groždje
   - jaja
+og_image: /wp-content/uploads/2012/03/svedska.pita.og.jpg
+card_image: /wp-content/uploads/2012/03/svedska.pita.kartica.jpg
 ---
 **Potrebno je**:
 

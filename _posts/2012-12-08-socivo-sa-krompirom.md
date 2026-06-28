@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2012/12/Sočivo-sa-krompirom-940x198.jpg
+image: /wp-content/uploads/2012/12/socivo.sa.krompirom.hero.jpg
 categories:
   - jela bez mesa
 tags:
@@ -22,6 +22,8 @@ tags:
   - lovorov list
   - šargarepa
   - sočivo
+og_image: /wp-content/uploads/2012/12/socivo.sa.krompirom.og.jpg
+card_image: /wp-content/uploads/2012/12/socivo.sa.krompirom.kartica.jpg
 ---
 **Potrebno je**:
 

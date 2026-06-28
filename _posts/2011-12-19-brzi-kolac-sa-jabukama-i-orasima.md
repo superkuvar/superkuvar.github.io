@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=2090
 permalink: /brzi-kolac-sa-jabukama-i-orasima/
 totvreme:
   - ""
-image: /wp-content/uploads/2011/12/Brzi-kolač-sa-jabukama-i-orasima-940x198.jpg
+image: /wp-content/uploads/2011/12/brzi.kolac.sa.jabukama.i.orasima.hero.jpg
 categories:
   - kolači
 tags:
@@ -17,6 +17,8 @@ tags:
   - mleko
   - orasi
   - jaja
+og_image: /wp-content/uploads/2011/12/brzi.kolac.sa.jabukama.i.orasima.og.jpg
+card_image: /wp-content/uploads/2011/12/brzi.kolac.sa.jabukama.i.orasima.kartica.jpg
 ---
 **Potrebno je**:
 

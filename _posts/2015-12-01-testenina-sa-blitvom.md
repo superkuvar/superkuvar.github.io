@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=10717
 permalink: /testenina-sa-blitvom/
 totvreme:
   - ""
-image: /wp-content/uploads/2015/12/testeninasablitvom-940x198.jpg
+image: /wp-content/uploads/2015/12/testenina.sa.blitvom.hero.jpg
 categories:
   - testenine
 tags:
@@ -16,6 +16,8 @@ tags:
   - celer
   - šargarepa
   - testenina
+og_image: /wp-content/uploads/2015/12/testenina.sa.blitvom.og.jpg
+card_image: /wp-content/uploads/2015/12/testenina.sa.blitvom.kartica.jpg
 ---
 **Potrebno je**:  
 * testenina po izboru (400 grama)  

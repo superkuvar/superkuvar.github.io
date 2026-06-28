@@ -15,6 +15,9 @@ tags:
   - margarin
   - mleko
   - jaja
+image: /wp-content/uploads/2011/08/jednostavne.kakao.kocke.hero.jpg
+og_image: /wp-content/uploads/2011/08/jednostavne.kakao.kocke.og.jpg
+card_image: /wp-content/uploads/2011/08/jednostavne.kakao.kocke.kartica.jpg
 ---
 **Potrebno je**:
 

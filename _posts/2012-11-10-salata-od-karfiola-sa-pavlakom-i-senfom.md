@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2012/11/Salata-od-karfiola-sa-pavlakom-i-senfom-940x198.jpg
+image: /wp-content/uploads/2012/11/salata.od.karfiola.sa.pavlakom.i.senfom.hero.jpg
 categories:
   - salate
 tags:
@@ -22,6 +22,8 @@ tags:
   - peršunov list
   - senf
   - susam
+og_image: /wp-content/uploads/2012/11/salata.od.karfiola.sa.pavlakom.i.senfom.og.jpg
+card_image: /wp-content/uploads/2012/11/salata.od.karfiola.sa.pavlakom.i.senfom.kartica.jpg
 ---
 **Potrebno je**:
 

@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=261"
 permalink: /corba-od-boranije-i-krompira/
-image: /wp-content/uploads/2011/03/Čorba-od-boranije-i-krompira1-940x198.jpg
+image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.hero.jpg
 description: "Čorba od boranije i krompira — boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi."
 prep_time: PT20M
 cook_time: PT40M
@@ -34,6 +34,8 @@ tags:
   - "boranija"
   - "kisela pavlaka"
   - "krompir"
+og_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.kartica.jpg
 ---
 ![corba od boranije i krompira](/wp-content/uploads/2011/03/%C4%8Corba-od-boranije-i-krompira1-1024x768.jpg)
 

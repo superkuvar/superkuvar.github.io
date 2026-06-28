@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=3686
 permalink: /šargarepa-u-mleku/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/07/Šargarepaumleku-940x198.jpg
+image: /wp-content/uploads/2012/07/sargarepa.u.mleku.hero.jpg
 categories:
   - prilozi
 tags:
@@ -16,6 +16,8 @@ tags:
   - majoran
   - mleko
   - šargarepa
+og_image: /wp-content/uploads/2012/07/sargarepa.u.mleku.og.jpg
+card_image: /wp-content/uploads/2012/07/sargarepa.u.mleku.kartica.jpg
 ---
 **Potrebno je**:
 

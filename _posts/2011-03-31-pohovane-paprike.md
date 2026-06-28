@@ -12,13 +12,15 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2011/03/Pohovane-paprike-940x198.jpg
+image: /wp-content/uploads/2011/03/pohovane.paprike.hero.jpg
 categories:
   - jela bez mesa
 tags:
   - paprike
   - prezle
   - jaja
+og_image: /wp-content/uploads/2011/03/pohovane.paprike.og.jpg
+card_image: /wp-content/uploads/2011/03/pohovane.paprike.kartica.jpg
 ---
 **Potrebno je**:
 

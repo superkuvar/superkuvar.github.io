@@ -20,6 +20,9 @@ tags:
   - krompir
   - šargarepa
   - svinjsko meso
+image: /wp-content/uploads/2011/06/paprikas.sa.svinjetinom.hero.jpg
+og_image: /wp-content/uploads/2011/06/paprikas.sa.svinjetinom.og.jpg
+card_image: /wp-content/uploads/2011/06/paprikas.sa.svinjetinom.kartica.jpg
 ---
 **Potrebno je**:
 

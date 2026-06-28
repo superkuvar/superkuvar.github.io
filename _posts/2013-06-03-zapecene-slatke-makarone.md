@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/06/Zapeceneslatkemkarone-940x198.jpg
+image: /wp-content/uploads/2013/06/zapecene.slatke.makarone.hero.jpg
 categories:
   - slatkiši
 tags:
@@ -22,6 +22,8 @@ tags:
   - mleko
   - suvo groždje
   - jaja
+og_image: /wp-content/uploads/2013/06/zapecene.slatke.makarone.og.jpg
+card_image: /wp-content/uploads/2013/06/zapecene.slatke.makarone.kartica.jpg
 ---
 **Potrebno je**:
 

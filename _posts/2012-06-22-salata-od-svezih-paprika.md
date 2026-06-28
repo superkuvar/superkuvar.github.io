@@ -8,13 +8,15 @@ guid: http://superkuvar.com/?p=3568
 permalink: /salata-od-svežih-paprika/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/06/Salataodsvežihpaprikasasirom-940x198.jpg
+image: /wp-content/uploads/2012/06/salata.od.svezih.paprika.hero.jpg
 categories:
   - salate
 tags:
   - paprike
   - peršunov list
   - sir
+og_image: /wp-content/uploads/2012/06/salata.od.svezih.paprika.og.jpg
+card_image: /wp-content/uploads/2012/06/salata.od.svezih.paprika.kartica.jpg
 ---
 **Potrebno je**:
 

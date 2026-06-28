@@ -17,6 +17,9 @@ categories:
 tags:
   - pirinač
   - ulje
+image: /wp-content/uploads/2011/05/pirinac.kao.prilog.hero.jpg
+og_image: /wp-content/uploads/2011/05/pirinac.kao.prilog.og.jpg
+card_image: /wp-content/uploads/2011/05/pirinac.kao.prilog.kartica.jpg
 ---
 **Potrebno je**:
 

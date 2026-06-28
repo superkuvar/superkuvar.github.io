@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=3680
 permalink: /tikvice-sa-pirinčem-i-krompirom/
 totvreme:
   - ""
-image: /wp-content/uploads/2012/07/Tikvicesapirinčemikrompirom-940x198.jpg
+image: /wp-content/uploads/2012/07/tikvice.sa.pirincem.i.krompirom.hero.jpg
 categories:
   - jela bez mesa
 tags:
@@ -17,6 +17,8 @@ tags:
   - majoran
   - pirinač
   - tikvice
+og_image: /wp-content/uploads/2012/07/tikvice.sa.pirincem.i.krompirom.og.jpg
+card_image: /wp-content/uploads/2012/07/tikvice.sa.pirincem.i.krompirom.kartica.jpg
 ---
 **Potrebno je**:
 

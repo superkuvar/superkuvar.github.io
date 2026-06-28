@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/03/Pitasaprazilukomisirom-940x198.jpg
+image: /wp-content/uploads/2013/03/pita.sa.prazilukom.i.sirom.hero.jpg
 categories:
   - slane pite
 tags:
@@ -21,6 +21,8 @@ tags:
   - praziluk
   - sir
   - jaja
+og_image: /wp-content/uploads/2013/03/pita.sa.prazilukom.i.sirom.og.jpg
+card_image: /wp-content/uploads/2013/03/pita.sa.prazilukom.i.sirom.kartica.jpg
 ---
 **Potrebno je**:
 

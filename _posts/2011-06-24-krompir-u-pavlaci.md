@@ -16,6 +16,9 @@ tags:
   - kisela pavlaka
   - krompir
   - muskatni oraščić
+image: /wp-content/uploads/2011/06/krompir.u.pavlaci.hero.jpg
+og_image: /wp-content/uploads/2011/06/krompir.u.pavlaci.og.jpg
+card_image: /wp-content/uploads/2011/06/krompir.u.pavlaci.kartica.jpg
 ---
 **Potrebno je**:
 

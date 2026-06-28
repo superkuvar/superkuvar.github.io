@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=558
 permalink: /pire-od-spanaca/
 totvreme:
   - ""
-image: /wp-content/uploads/2011/05/Pire-od-spanaća-940x198.jpg
+image: /wp-content/uploads/2011/05/pire.od.spanaca.hero.jpg
 categories:
   - prilozi
 tags:
@@ -16,6 +16,8 @@ tags:
   - mleko
   - muskatni oraščić
   - spanać
+og_image: /wp-content/uploads/2011/05/pire.od.spanaca.og.jpg
+card_image: /wp-content/uploads/2011/05/pire.od.spanaca.kartica.jpg
 ---
 **Potrebno je**:
 

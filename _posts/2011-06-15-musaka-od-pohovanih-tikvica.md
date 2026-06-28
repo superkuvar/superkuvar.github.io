@@ -16,6 +16,9 @@ tags:
   - mleveno meso
   - tikvice
   - jaja
+image: /wp-content/uploads/2011/06/musaka.od.pohovanih.tikvica.hero.jpg
+og_image: /wp-content/uploads/2011/06/musaka.od.pohovanih.tikvica.og.jpg
+card_image: /wp-content/uploads/2011/06/musaka.od.pohovanih.tikvica.kartica.jpg
 ---
 **Potrebno je**:
 

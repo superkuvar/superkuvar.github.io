@@ -12,13 +12,15 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/03/Rezanci-sa-šećerom-940x198.jpg
+image: /wp-content/uploads/2013/03/rezanci.sa.secerom.hero.jpg
 categories:
   - slatkiši
 tags:
   - prezle
   - rezanci
   - šećer
+og_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.og.jpg
+card_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.kartica.jpg
 ---
 **Potrebno je**:
 

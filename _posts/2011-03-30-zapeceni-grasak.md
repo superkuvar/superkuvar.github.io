@@ -15,6 +15,9 @@ tags:
   - margarin
   - mirođija
   - jaja
+image: /wp-content/uploads/2011/03/zapeceni.grasak.hero.jpg
+og_image: /wp-content/uploads/2011/03/zapeceni.grasak.og.jpg
+card_image: /wp-content/uploads/2011/03/zapeceni.grasak.kartica.jpg
 ---
 **Potrebno je**:
 

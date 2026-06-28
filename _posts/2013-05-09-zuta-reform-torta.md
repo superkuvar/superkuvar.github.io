@@ -12,7 +12,7 @@ fb_social_plugin_settings_box_send:
   - default
 totvreme:
   - ""
-image: /wp-content/uploads/2013/05/Zuta-reform-torta-940x198.jpg
+image: /wp-content/uploads/2013/05/zuta.reform.torta.hero.jpg
 categories:
   - torte
 tags:
@@ -20,6 +20,8 @@ tags:
   - margarin
   - maslac
   - orasi
+og_image: /wp-content/uploads/2013/05/zuta.reform.torta.og.jpg
+card_image: /wp-content/uploads/2013/05/zuta.reform.torta.kartica.jpg
 ---
 **Potrebno je**:  
 Kore

@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=6067
 permalink: /varivo-od-boranije-bez-mesa/
 totvreme:
   - ""
-image: /wp-content/uploads/2013/08/Varivo-od-boranije-bez-mesa-940x198.jpg
+image: /wp-content/uploads/2013/08/varivo.od.boranije.bez.mesa.hero.jpg
 categories:
   - jela bez mesa
 tags:
@@ -19,6 +19,8 @@ tags:
   - krompir
   - limunov sok
   - šargarepa
+og_image: /wp-content/uploads/2013/08/varivo.od.boranije.bez.mesa.og.jpg
+card_image: /wp-content/uploads/2013/08/varivo.od.boranije.bez.mesa.kartica.jpg
 ---
 **Potrebno je**:
 

@@ -8,7 +8,7 @@ guid: http://superkuvar.com/?p=6087
 permalink: /šareni-letnji-đuveč/
 totvreme:
   - ""
-image: /wp-content/uploads/2013/09/Sareniletnjidjuvec-940x198.jpg
+image: /wp-content/uploads/2013/09/sareni.letnji.djuvec.hero.jpg
 categories:
   - jela bez mesa
 tags:
@@ -21,6 +21,8 @@ tags:
   - pirinač
   - plavi patlidžan
   - šargarepa
+og_image: /wp-content/uploads/2013/09/sareni.letnji.djuvec.og.jpg
+card_image: /wp-content/uploads/2013/09/sareni.letnji.djuvec.kartica.jpg
 ---
 **Potrebno je**:
 
