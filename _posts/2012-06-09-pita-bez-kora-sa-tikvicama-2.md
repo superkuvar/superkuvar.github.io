@@ -6,7 +6,9 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3411
 permalink: /pita-bez-kora-sa-tikvicama-2/
-image: /wp-content/uploads/2012/06/Pitabezkorasatikvicama1-940x198.jpg
+image: /wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.hero.jpg
+og_image: /wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.og.jpg
+card_image: /wp-content/uploads/2012/06/pita.bez.kora.sa.tikvicama.kartica.jpg
 description: Sočna pita bez kora sa narendanim tikvicama, jogurtom i starijim belim sirom — brzo se meša u jednoj posudi i peče u plehu. Idealna za letnji ručak uz kiselo mleko.
 prep_time: PT20M
 cook_time: PT40M
