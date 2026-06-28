@@ -41,10 +41,16 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** Karfiol oprati, očistiti, odvojiti na cvetiće, obariti u posoljenoj vodi, a zatim ocediti.
 
+![Korak 1 — karfiol sa šunkom](/wp-content/uploads/2015/12/karfiol.sa.sunkom.i.kiselom.pavlakom.korak1.jpg)
+
 <span id="step-2"></span>**Korak 2.** Odvojiti žumanca od belanaca pa ih umutiti sa malo ulja. U umućena žumanca dodati brašno, so, biber, kiselu pavlaku i čvrsto umućen sneg od belanaca. Masu lagano izmešati.
+
+![Korak 2 — karfiol sa šunkom](/wp-content/uploads/2015/12/karfiol.sa.sunkom.i.kiselom.pavlakom.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** U podmazanu posudu za pečenje rasporediti karfiol, odozgo staviti iseckanu šunku, pa preliti masom od jaja i kisele pavlake.
 
+![Korak 3 — karfiol sa šunkom](/wp-content/uploads/2015/12/karfiol.sa.sunkom.i.kiselom.pavlakom.korak3.jpg)
+
 <span id="step-4"></span>**Korak 4.** Peći oko 30 minuta u pećnici zagrejanoj na 200 °C. Karfiol poslužiti topao.
 
-Umesto kisele pavlake može se dodati mileram. Po želji možete dodati malo narendanog muskatnog oraščića.
+Poslužite odmah, dok je jelo vruće. Umesto kisele pavlake može se koristiti mileram, a po želji dodati malo narendanog muskatnog oraščića.
