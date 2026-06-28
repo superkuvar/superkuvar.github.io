@@ -54,7 +54,7 @@ tags:
 
 ![Testo u kalupu za projice](/wp-content/uploads/2012/07/projice.sa.tikvicama.korak3.jpg)
 
-<span id="step-4"></span>**Korak 4.** Peći oko 40 minuta u pećnici zagreajanoj na 200 °C, dok gornja strana ne porumeni i projice ne budu čvrste na dodir.
+<span id="step-4"></span>**Korak 4.** Peći oko 40 minuta u pećnici zagrejanoj na 200 °C, dok gornja strana ne porumeni i projice ne budu čvrste na dodir.
 
 ![Pečene projice u kalupu](/wp-content/uploads/2012/07/projice.sa.tikvicama.korak4.jpg)
 
