@@ -6,8 +6,10 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=49
 permalink: /francuski-kolaci-s-ribizlama/
-image: /wp-content/uploads/2011/02/Ribizlezakolac-940x198.jpg
-description: Francuski kolač c ribizlama — umutiti žumanca sa šećerom, dodati brašno i čvrst sneg od belanaca.
+image: /wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.hero.jpg
+og_image: /wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.og.jpg
+card_image: /wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.kartica.jpg
+description: Francuski kolač sa ribizlama — lagano testo od jaja i brašna, preliv od belanaca i svežih ribizli zapečen do zlatne boje. Letnja poslastica za kafu i goste.
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -37,11 +39,11 @@ tags:
   - ribizle
   - jaja
 ---
-![Kolac od ribizle](/wp-content/uploads/2011/02/Ribizlezakolac-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** umutiti žumanca sa šećerom, dodati brašno i čvrst sneg od belanaca.
+
+![Umutiti žumanca sa šećerom i brašnom](/wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.korak1.jpg)
 
 <span id="step-2"></span>**Korak 2.** Rastopiti maslac ili margarin, pa dodati u umućeno testo i izmešati.
 
@@ -53,4 +55,10 @@ tags:
 
 <span id="step-6"></span>**Korak 6.** U umućena belanca dodati prethodno oprane i otrebljene ribizle.
 
+![Ribizle u šamu od belanaca](/wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.korak6.jpg)
+
 <span id="step-7"></span>**Korak 7.** Pečen kolač premazati šamom od belanaca i ribizli i vratiti u pećnicu da se malo zapeče, dok belanca ne dobiju zlatnu boju.
+
+![Zapečen preliv od belanaca i ribizli](/wp-content/uploads/2011/02/francuski.kolaci.s.ribizlama.korak7.jpg)
+
+Francuski kolač sa ribizlama najbolje je poslužiti ohlađen, da se preliv od belanaca i voća lepo stegne. Ribizle mogu zameniti malinama ili borovnicama po želji.
