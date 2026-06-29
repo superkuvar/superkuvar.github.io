@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2283
 permalink: /čorba-od-bundeve-i-šargarepe/
-description: Čorba od bundeve i šargarepe.
+description: Čorba od bundeve i šargarepe je kremasto, toplo jelo od bundeve, šargarepe i praziluka sa pirinčem. Odlična je za hladnije dane, lagan ručak ili večeru, a uz kiselu pavlaku postaje još puniji obrok.
 prep_time: PT25M
 cook_time: PT45M
 total_time: PT1H10M
@@ -53,4 +53,4 @@ tags:
 
 <span id="step-4"></span>**Korak 4.** Čorbu od bundeve i šargarepe poslužiti sa kiselom pavlakom (u tanjir sipati kašiku pavlake, pa preko nje toplu čorbu).
 
-![Korak 3 — čorba od bundeve i šargarepe](/wp-content/uploads/2012/01/corba.od.bundeve.i.sargarepe.korak3.jpg)
+![Korak 4 — čorba od bundeve i šargarepe](/wp-content/uploads/2012/01/corba.od.bundeve.i.sargarepe.korak3.jpg)
