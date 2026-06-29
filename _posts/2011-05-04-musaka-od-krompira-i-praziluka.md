@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=460
 permalink: /musaka-od-krompira-i-praziluka/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-940x198.jpg
+description: Musaka od krompira i praziluka je pečeno jelo bez mesa od krompira, praziluka i jaja u mleku. Pogodna za lagan ručak ili večeru uz salatu.
+prep_time: PT30M
+cook_time: PT40M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 260 kalorija po porciji
+ingredients:
+  - krompir (800 grama)
+  - praziluk (3 struka)
+  - 250 ml mleka
+  - 3 jaja
+  - brašno
+  - biber
+  - so
+  - suvi biljni začin
+  - ulje
+instructions:
+  - očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
+  - U podmazan sud ređati red krompira, red proprženog praziluka. Redove krompira posoliti i pobiberiti. U poslednjem redu treba da bude krompir.
+  - Umutiti jaja, kašiku i po brašna i mleko, dodati malo suvog biljnog začina, pa preliti preko musake. Pripremljenu musaku staviti u prethodno zagrejanu rernu da se zapeče na umeranoj temperaturi.
+image: /wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.hero.jpg
+og_image: /wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.og.jpg
+card_image: /wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -17,24 +37,16 @@ tags:
   - praziluk
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * krompir (800 grama)
-  * praziluk (3 struka)
-  * 250 ml mleka
-  * 3 jaja
-  * brašno
-  * biber
-  * so
-  * suvi biljni začin
-  * ulje
+<span id="step-1"></span>**Korak 1.** očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
 
-<img class="alignnone size-medium wp-image-2858" title="Musaka od praziluka i krompira" src="/wp-content/uploads/2011/05/Musaka-od-praziluka-i-krompira-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — musaka od krompira i praziluka](/wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.korak1.jpg)
 
-**Priprema**: očišćen i opran praziluk iseći na kolutove, po ukusu posoliti, pa ga propržiti na ulju. Oprati krompir i neoljušten obariti. Kad se krompir prohladi, oljuštiti ga i iseći na kolutove.
+<span id="step-2"></span>**Korak 2.** U podmazan sud ređati red krompira, red proprženog praziluka. Redove krompira posoliti i pobiberiti. U poslednjem redu treba da bude krompir.
 
-U podmazan sud ređati red krompira, red proprženog praziluka. Redove krompira posoliti i pobiberiti. U poslednjem redu treba da bude krompir.
+![Korak 2 — musaka od krompira i praziluka](/wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.korak2.jpg)
 
-Umutiti jaja, kašiku i po brašna i mleko, dodati malo suvog biljnog začina, pa preliti preko musake.
+<span id="step-3"></span>**Korak 3.** Umutiti jaja, kašiku i po brašna i mleko, dodati malo suvog biljnog začina, pa preliti preko musake. Pripremljenu musaku staviti u prethodno zagrejanu rernu da se zapeče na umeranoj temperaturi.
 
-Pripremljenu musaku staviti u prethodno zagrejanu rernu da se zapeče na umeranoj temperaturi.
+![Korak 3 — musaka od krompira i praziluka](/wp-content/uploads/2011/05/musaka.od.krompira.i.praziluka.korak3.jpg)
