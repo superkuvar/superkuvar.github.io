@@ -6,9 +6,36 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=346
 permalink: /musaka-sa-pirincem/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/03/Musaka-sa-pirinčem-940x198.jpg
+description: Musaka sa pirinčem, povrćem i jajima je bogato pečeno jelo bez mesa od pirinča, graška, šargarepe i jaja. Pogodna za porodični ručak ili laganu večeru.
+prep_time: PT30M
+cook_time: PT25M
+total_time: PT55M
+servings: 4 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 200 grama pirinča
+  - 1 glavica crnog luka ili struk praziluka
+  - ulje
+  - 300 g graška
+  - 3 šargarepe
+  - 4 tvrdo kuvana jajeta
+  - so
+  - biber
+  - malo origana
+  - 1 veza peršunovog lista
+  - 2 jajeta
+  - 2 dl kisele pavlake
+instructions:
+  - pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
+  - Glavicu crnog luka sitno iseckati i pržiti na ulju, da postane staklast.
+  - U ispržen luk dodati grašak i šargarepu isečenu na kolutove. Pirjaniti, uz povremeno dolivanje po malo tople vode.
+  - Kad povrće omekša, posoliti ga i pobiberiti, dodati pirinač, malo origana i iseckan peršunov list, a zatim promešati.
+  - U podmazan sud ređati red pirinča s povrćem, red kolutova tvrdo kuvanih jaja. Svaki red poprskati zagrejanim uljem.
+  - U međuvremenu, umutiti jaja sa kiselom pavlakom, pa preliti preko musake.
+  - Musaku peći oko 15 minuta na 200 stepeni.
+image: /wp-content/uploads/2011/03/musaka.sa.pirincem.hero.jpg
+og_image: /wp-content/uploads/2011/03/musaka.sa.pirincem.og.jpg
+card_image: /wp-content/uploads/2011/03/musaka.sa.pirincem.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -19,31 +46,24 @@ tags:
   - šargarepa
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 200 grama pirinča
-  * 1 glavica crnog luka ili struk praziluka
-  * ulje
-  * 300 g graška
-  * 3 šargarepe
-  * 4 tvrdo kuvana jajeta
-  * so
-  * biber
-  * malo origana
-  * 1 veza peršunovog lista
-  * 2 jajeta
-  * 2 dl kisele pavlake
+<span id="step-1"></span>**Korak 1.** pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
 
-<img class="alignnone size-medium wp-image-2641" title="Musaka sa pirinčem" src="/wp-content/uploads/2011/03/Musaka-sa-pirinčem-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — musaka sa pirinčem](/wp-content/uploads/2011/03/musaka.sa.pirincem.korak1.jpg)
 
-**Priprema**: pirinač očistiti, oprati i skuvati u posoljenoj vodi, a zatim ocediti.
+<span id="step-2"></span>**Korak 2.** Glavicu crnog luka sitno iseckati i pržiti na ulju, da postane staklast.
 
-Glavicu crnog luka sitno iseckati i pržiti na ulju, da postane staklast. U ispržen luk dodati grašak i šargarepu isečenu na kolutove. Pirjaniti, uz povremeno dolivanje po malo tople vode.
+<span id="step-3"></span>**Korak 3.** U ispržen luk dodati grašak i šargarepu isečenu na kolutove. Pirjaniti, uz povremeno dolivanje po malo tople vode.
 
-Kad povrće omekša, posoliti ga i pobiberiti, dodati pirinač, malo origana i iseckan peršunov list, a zatim promešati.
+![Korak 3 — musaka sa pirinčem](/wp-content/uploads/2011/03/musaka.sa.pirincem.korak2.jpg)
 
-U podmazan sud ređati red pirinča s povrćem, red kolutova tvrdo kuvanih jaja. Svaki red poprskati zagrejanim uljem.
+<span id="step-4"></span>**Korak 4.** Kad povrće omekša, posoliti ga i pobiberiti, dodati pirinač, malo origana i iseckan peršunov list, a zatim promešati.
 
-U međuvremenu, umutiti jaja sa kiselom pavlakom, pa preliti preko musake.
+<span id="step-5"></span>**Korak 5.** U podmazan sud ređati red pirinča s povrćem, red kolutova tvrdo kuvanih jaja. Svaki red poprskati zagrejanim uljem.
 
-Musaku peći oko 15 minuta na 200 stepeni.
+<span id="step-6"></span>**Korak 6.** U međuvremenu, umutiti jaja sa kiselom pavlakom, pa preliti preko musake.
+
+![Korak 6 — musaka sa pirinčem](/wp-content/uploads/2011/03/musaka.sa.pirincem.korak3.jpg)
+
+<span id="step-7"></span>**Korak 7.** Musaku peći oko 15 minuta na 200 stepeni.
