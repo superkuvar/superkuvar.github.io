@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4241
 permalink: /fileti-oslića-u-sosu-od-šljiva/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/09/Oslicsasljivama-940x198.jpg
+description: Fileti oslića u sosu od šljiva su prženi fileti oslića u slatko-kiselom sosu od šljiva i paradajz pirea. Pogodni za ručak ili večeru kada želite nešto drugačije od klasičnog pečenog oslića.
+prep_time: PT20M
+cook_time: PT25M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - oslić (4 fileta)
+  - šljive (10-12 komada)
+  - kašika skroba
+  - kašika paradajz pirea
+  - 2 kašike soka od limuna
+  - so
+  - biber
+  - suvi biljni začin
+  - brašno
+  - ulje
+instructions:
+  - filete oslića odmrznuti, posuti suvim biljnim začinom, uvaljati u brašno i ispržiti na ulju.  ljive oprati i isitniti na listiće.
+  - U tiganj sipati malo ulja, dodati šljive, skrob razmućen u malo vode, paradajz pire, so, mleveni biber i sok od limuna ili kašiku jabukovog sirćeta. Kuvati desetak minuta, dok šljive ne omekšaju a sos se zgusne. Po potrebi dolivati po malo tople vode.
+  - Gotov sos poslužiti sa prethodno pripremljenim filetima oslića.
+image: /wp-content/uploads/2012/09/fileti.oslica.u.sosu.od.sljiva.hero.jpg
+og_image: /wp-content/uploads/2012/09/fileti.oslica.u.sosu.od.sljiva.og.jpg
+card_image: /wp-content/uploads/2012/09/fileti.oslica.u.sosu.od.sljiva.kartica.jpg
 categories:
   - jela od ribe
 tags:
@@ -17,26 +38,17 @@ tags:
   - paradajz pire
   - šljive
 ---
-Potrebeno je:
+**Način pripreme:**
 
-  * oslić (4 fileta)
-  * šljive (10-12 komada)
-  * kašika skroba
-  * kašika paradajz pirea
-  * 2 kašike soka od limuna
-  * so
-  * biber
-  * suvi biljni začin
-  * brašno
-  * ulje
+<span id="step-1"></span>**Korak 1.** filete oslića odmrznuti, posuti suvim biljnim začinom, uvaljati u brašno i ispržiti na ulju.  ljive oprati i isitniti na listiće.
 
-<img class="alignnone size-medium wp-image-4242" title="Oslicsasljivama" src="/wp-content/uploads/2012/09/Oslicsasljivama-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — fileti oslića u sosu od šljiva](/wp-content/uploads/2012/09/fileti.oslica.u.sosu.od.sljiva.korak1.jpg)
 
-**Priprema**: filete oslića odmrznuti, posuti suvim biljnim začinom, uvaljati u brašno i ispržiti na ulju.  ljive oprati i isitniti na listiće.
+<span id="step-2"></span>**Korak 2.** U tiganj sipati malo ulja, dodati šljive, skrob razmućen u malo vode, paradajz pire, so, mleveni biber i sok od limuna ili kašiku jabukovog sirćeta. Kuvati desetak minuta, dok šljive ne omekšaju a sos se zgusne. Po potrebi dolivati po malo tople vode.
 
-U tiganj sipati malo ulja, dodati šljive, skrob razmućen u malo vode, paradajz pire, so, mleveni biber i sok od limuna ili kašiku jabukovog sirćeta. Kuvati desetak minuta, dok šljive ne omekšaju a sos se zgusne. Po potrebi dolivati po malo tople vode.
+![Korak 2 — fileti oslića u sosu od šljiva](/wp-content/uploads/2012/09/fileti.oslica.u.sosu.od.sljiva.korak2.jpg)
 
-Gotov sos poslužiti sa prethodno pripremljenim filetima oslića.
+<span id="step-3"></span>**Korak 3.** Gotov sos poslužiti sa prethodno pripremljenim filetima oslića.
 
 **Napomena**:   oslić ima vrlo malo kostiju i one se lako uklanjaju. Meso oslića je bele boje, mekano i sočno i lako je svarljivo, jer sadrži malu količinu masti.
 
