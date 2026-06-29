@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2283
 permalink: /čorba-od-bundeve-i-šargarepe/
-description: Čorba od bundeve i šargarepe sa prazilukom i pirinčem — domaći recept iz kategorije supe i čorbe.
+description: Čorba od bundeve i šargarepe.
 prep_time: PT25M
 cook_time: PT45M
 total_time: PT1H10M
