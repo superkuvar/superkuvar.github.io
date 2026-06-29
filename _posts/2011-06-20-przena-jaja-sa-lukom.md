@@ -6,13 +6,26 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1196
 permalink: /pržena-jaja-sa-lukom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/06/Przena-jaja-sa-lukom-940x198.jpg
+description: Pržena jaja sa lukom su jednostavan doručak od jaja i crnog luka prženog do staklastog. Pogodan za brzo jutarnje jelo uz sir ili jogurt.
+prep_time: PT10M
+cook_time: PT10M
+total_time: PT20M
+servings: 2 porcije
+nutrition: oko 290 kalorija po porciji
+ingredients:
+  - 3 glavice crnog luka (ili struk praziluka)
+  - 5 jaja
+  - so
+  - biber
+  - peršunov list ili mirođija
+  - ulje
+instructions:
+  - luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
+  - U međuvremenu, umutiti jaja, posoliti ih, pobiberiti i dodati seckan peršunov list ili malo mirođije, pa sve sipati preko luka koji se prži. Mešati brzo i čim jaja počnu da se stežu, skloniti sa štednjaka.
+  - Pržena jaja sa lukom poslužiti topla, uz sir, jogurt ili kiselo mleko. Ukusan su i hranljiv doručak.
+image: /wp-content/uploads/2011/06/przena.jaja.sa.lukom.hero.jpg
+og_image: /wp-content/uploads/2011/06/przena.jaja.sa.lukom.og.jpg
+card_image: /wp-content/uploads/2011/06/przena.jaja.sa.lukom.kartica.jpg
 categories:
   - jela od jaja
 tags:
@@ -20,22 +33,17 @@ tags:
   - peršunov list
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 glavice crnog luka (ili struk praziluka)
-  * 5 jaja
-  * so
-  * biber
-  * peršunov list ili mirođija
-  * ulje
+<span id="step-1"></span>**Korak 1.** luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
 
-<img class="alignnone size-medium wp-image-5468" src="/wp-content/uploads/2011/06/Przena-jaja-sa-lukom-1024x768.jpg" alt="Przena jaja sa lukom" width="300" height="225" /> 
+![Korak 1 — pržena jaja sa lukom](/wp-content/uploads/2011/06/przena.jaja.sa.lukom.korak1.jpg)
 
-**Priprema**: luk očistiti, iseći na rebarca i propržiti na ulju, na umerenoj temperaturi. Luk treba da sasvim omekne i postane staklast.
+<span id="step-2"></span>**Korak 2.** U međuvremenu, umutiti jaja, posoliti ih, pobiberiti i dodati seckan peršunov list ili malo mirođije, pa sve sipati preko luka koji se prži. Mešati brzo i čim jaja počnu da se stežu, skloniti sa štednjaka.
 
-U međuvremenu, umutiti jaja, posoliti ih, pobiberiti i dodati seckan peršunov list ili malo mirođije, pa sve sipati preko luka koji se prži. Mešati brzo i čim jaja počnu da se stežu, skloniti sa štednjaka.
+![Korak 2 — pržena jaja sa lukom](/wp-content/uploads/2011/06/przena.jaja.sa.lukom.korak2.jpg)
 
-Pržena jaja sa lukom poslužiti topla, uz sir, jogurt ili kiselo mleko. Ukusan su i hranljiv doručak.
+<span id="step-3"></span>**Korak 3.** Pržena jaja sa lukom poslužiti topla, uz sir, jogurt ili kiselo mleko. Ukusan su i hranljiv doručak.
 
 Sproleća, umesto starog može se upotrebiti mladi crni luk (1 vezica na ovaj broj jaja).
 
