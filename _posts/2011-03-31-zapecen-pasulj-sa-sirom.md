@@ -6,13 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=378
 permalink: /zapečen-pasulj-sa-sirom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/03/Zapeceni-pasulj-sa-sirom-940x198.jpg
+description: Zapečeni pasulj sa sirom je bogato jelo bez mesa od pasulja, luka, sira i začina pečeno u rerni. Pogodno za post i hladnije dane.
+prep_time: PT15M
+cook_time: PT2H
+total_time: PT12H15M
+servings: 4 porcije
+nutrition: oko 350 kalorija po porciji
+ingredients:
+  - pasulj (500 grama)
+  - 2 glavice crnog luka
+  - 200 grama belog starijeg sira
+  - crvena mlevena paprika
+  - nana
+  - so
+  - iseckan peršunov list
+  - ulje
+instructions:
+  - naliti pasulj hladnom vodom i ostaviti preko noći da nabubri.  Sutradan naliti novom hladnom vodom  i staviti da se kuva. Kada pasulj proključa, prosuti vodu, naliti drugom vodom i kuvati dok pasulj ne omekša. Pri kraju kuvanja dodati malo nane. Pasulj treba da bude gušći.
+  - Na ulju propržiti sitno seckan crni luk, dodati crvenu mlevenu papriku, usitnjen sir, malo soli i iseckan peršunov list, pa pomešati sa skuvanim pasuljem.
+  - U podmazan sud sipati ovu masu i zapeći u prethodno zagrejanoj pećnici.
+image: /wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.hero.jpg
+og_image: /wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.og.jpg
+card_image: /wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -21,21 +36,16 @@ tags:
   - pasulj
   - sir
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * pasulj (500 grama)
-  * 2 glavice crnog luka
-  * 200 grama belog starijeg sira
-  * crvena mlevena paprika
-  * nana
-  * so
-  * iseckan peršunov list
-  * ulje
+<span id="step-1"></span>**Korak 1.** naliti pasulj hladnom vodom i ostaviti preko noći da nabubri.  Sutradan naliti novom hladnom vodom  i staviti da se kuva. Kada pasulj proključa, prosuti vodu, naliti drugom vodom i kuvati dok pasulj ne omekša. Pri kraju kuvanja dodati malo nane. Pasulj treba da bude gušći.
 
-<img class="alignnone size-medium wp-image-5220" src="/wp-content/uploads/2011/03/Zapeceni-pasulj-sa-sirom-1024x768.jpg" alt="Zapeceni pasulj sa sirom" width="300" height="225" /> 
+![Korak 1 — zapečeni pasulj sa sirom](/wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.korak1.jpg)
 
-**Priprema**: naliti pasulj hladnom vodom i ostaviti preko noći da nabubri.  Sutradan naliti novom hladnom vodom  i staviti da se kuva. Kada pasulj proključa, prosuti vodu, naliti drugom vodom i kuvati dok pasulj ne omekša. Pri kraju kuvanja dodati malo nane. Pasulj treba da bude gušći.
+<span id="step-2"></span>**Korak 2.** Na ulju propržiti sitno seckan crni luk, dodati crvenu mlevenu papriku, usitnjen sir, malo soli i iseckan peršunov list, pa pomešati sa skuvanim pasuljem.
 
-Na ulju propržiti sitno seckan crni luk, dodati crvenu mlevenu papriku, usitnjen sir, malo soli i iseckan peršunov list, pa pomešati sa skuvanim pasuljem.
+![Korak 2 — zapečeni pasulj sa sirom](/wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.korak2.jpg)
 
-U podmazan sud sipati ovu masu i zapeći u prethodno zagrejanoj pećnici.
+<span id="step-3"></span>**Korak 3.** U podmazan sud sipati ovu masu i zapeći u prethodno zagrejanoj pećnici.
+
+![Korak 3 — zapečeni pasulj sa sirom](/wp-content/uploads/2011/03/zapecen.pasulj.sa.sirom.korak3.jpg)
