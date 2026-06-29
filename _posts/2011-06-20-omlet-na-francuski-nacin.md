@@ -6,8 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1181
 permalink: /omlet-na-francuski-način/
-totvreme:
-  - ""
+description: Omlet na francuski način je mekan omlet od jaja, mleka i brašna sa kačkavaljem i šunkom. Pogodan za doručak ili lagan ručak.
+prep_time: PT10M
+cook_time: PT15M
+total_time: PT25M
+servings: 2 porcije
+nutrition: oko 350 kalorija po porciji
+ingredients:
+  - 5 jaja
+  - 4 kašike mleka
+  - 2 kašike brašna
+  - so
+  - ulje
+  - rendani kačkavalj
+  - seckana šunka
+instructions:
+  - umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
+  - Omlet pržiti na umerenoj temperaturi, samo sa jedne, donje strane. Gornja strana omleta treba da ostane vlažna.
+  - Pečen omlet posuti izrendanim kačkavaljem i seckanom šunkom i preklopiti od ivice prema sredini tiganja.
+  - Sud sa omletom poklopiti i ostaviti da tako stoji pet minuta, zatim poslužiti.
+image: /wp-content/uploads/2011/06/omlet.na.francuski.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/06/omlet.na.francuski.nacin.og.jpg
+card_image: /wp-content/uploads/2011/06/omlet.na.francuski.nacin.kartica.jpg
 categories:
   - jela od jaja
 tags:
@@ -16,25 +36,19 @@ tags:
   - šunka
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 5 jaja
-  * 4 kašike mleka
-  * 2 kašike brašna
-  * so
-  * ulje
-  * rendani kačkavalj
-  * seckana šunka
+<span id="step-1"></span>**Korak 1.** umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
 
-<img class="alignnone size-full wp-image-1182" title="omletsunka" src="/wp-content/uploads/2011/06/omletsunka-e1308560206178.jpg" alt="" width="227" height="174" /> 
+![Korak 1 — omlet na francuski način](/wp-content/uploads/2011/06/omlet.na.francuski.nacin.korak1.jpg)
 
-**Priprema**: umutiti jaja sa mlekom i brašnom, vodeći računa da ne ostanu grudvice. Jaja treba mutiti žustro, snažno kako bi im se dodao vazduh. Kada je masa ujednačena, posoliti je i sipati na zagrejano ulje. Nagnuti tiganj da masa od jaja ispuni celo njegovo dno.
+<span id="step-2"></span>**Korak 2.** Omlet pržiti na umerenoj temperaturi, samo sa jedne, donje strane. Gornja strana omleta treba da ostane vlažna.
 
-Omlet pržiti na umerenoj temperaturi, samo sa jedne, donje strane. Gornja strana omleta treba da ostane vlažna.
+<span id="step-3"></span>**Korak 3.** Pečen omlet posuti izrendanim kačkavaljem i seckanom šunkom i preklopiti od ivice prema sredini tiganja.
 
-Pečen omlet posuti izrendanim kačkavaljem i seckanom šunkom i preklopiti od ivice prema sredini tiganja.
+![Korak 3 — omlet na francuski način](/wp-content/uploads/2011/06/omlet.na.francuski.nacin.korak2.jpg)
 
-Sud sa omletom poklopiti i ostaviti da tako stoji pet minuta, zatim poslužiti.
+<span id="step-4"></span>**Korak 4.** Sud sa omletom poklopiti i ostaviti da tako stoji pet minuta, zatim poslužiti.
 
 O jajima: Jaja su veoma važna namirnica u našoj ishrani. Sadrže visokovredne proteine, minerale (natrijum, kalijum, fosfor, gvožđe, sumpor, bakar), vitamine (A, D, K, B1, B2, E).
 
