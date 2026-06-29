@@ -6,9 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=469
 permalink: /zapecena-boranija/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/05/Zapečena-boranija-940x198.jpg
+description: Zapečena boranija je pečeno jelo bez mesa od boranije, milerama i jaja. Pogodna za ručak ili večeru, služi se topla ili hladna.
+prep_time: PT25M
+cook_time: PT25M
+total_time: PT50M
+servings: 6 porcija
+nutrition: oko 200 kalorija po porciji
+ingredients:
+  - boranija (1,5 kg)
+  - glavica crnog luka
+  - čaša milerama
+  - 4 jajeta
+  - margarin
+  - so
+  - suvi biljni začin
+  - ulje
+instructions:
+  - boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
+  - Umutiti mileram sa žumancima i malo suvog biljnog začina. Posebno umutiti belanca, pa pažljivo izmešati sa žumacima i mileramom. Preliti preko boranije, a odozgo posuti komadićima margarina.
+  - Posudu sa boranijom staviti u rernu zagrejanu na 200 stepeni i zapeći dvadesetak minuta.
+image: /wp-content/uploads/2011/05/zapecena.boranija.hero.jpg
+og_image: /wp-content/uploads/2011/05/zapecena.boranija.og.jpg
+card_image: /wp-content/uploads/2011/05/zapecena.boranija.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -18,23 +37,18 @@ tags:
   - mileram
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * boranija (1,5 kg)
-  * glavica crnog luka
-  * čaša milerama
-  * 4 jajeta
-  * margarin
-  * so
-  * suvi biljni začin
-  * ulje
+<span id="step-1"></span>**Korak 1.** boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
 
-<img class="alignnone size-medium wp-image-2514" title="Zapečena boranija" src="/wp-content/uploads/2011/05/Zapečena-boranija1-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — zapečena boranija](/wp-content/uploads/2011/05/zapecena.boranija.korak1.jpg)
 
-**Priprema**: boraniju očistiti, oprati, iseći na polovine, staviti u dva litra ključale posoljene vode, dodati glavicu krupnije isečenog crnog luka i kuvati oko 15 minuta. Obareno povrće ocediti i staviti u podmazan vatrostalni sud.
+<span id="step-2"></span>**Korak 2.** Umutiti mileram sa žumancima i malo suvog biljnog začina. Posebno umutiti belanca, pa pažljivo izmešati sa žumacima i mileramom. Preliti preko boranije, a odozgo posuti komadićima margarina.
 
-Umutiti mileram sa žumancima i malo suvog biljnog začina. Posebno umutiti belanca, pa pažljivo izmešati sa žumacima i mileramom. Preliti preko boranije, a odozgo posuti komadićima margarina.
+![Korak 2 — zapečena boranija](/wp-content/uploads/2011/05/zapecena.boranija.korak2.jpg)
 
-Posudu sa boranijom staviti u rernu zagrejanu na 200 stepeni i zapeći dvadesetak minuta.
+<span id="step-3"></span>**Korak 3.** Posudu sa boranijom staviti u rernu zagrejanu na 200 stepeni i zapeći dvadesetak minuta.
+
+![Korak 3 — zapečena boranija](/wp-content/uploads/2011/05/zapecena.boranija.korak3.jpg)
 
 Zapečena boranija može se jesti i topla i hladna.
