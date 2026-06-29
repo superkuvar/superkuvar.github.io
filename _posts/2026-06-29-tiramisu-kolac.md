@@ -44,14 +44,8 @@ tags:
 
 <span id="step-2"></span>**Korak 2.** U plitku činiju sipati hladan espreso i liker od kafe. Biskvit prste brzo umočiti sa obe strane (ne treba da se potpuno natope) i složiti u jednom sloju na dno posude od oko 20 × 20 cm.
 
-![Korak 2 — tiramisu kolač](/wp-content/uploads/2026/06/tiramisu.kolac.korak2.jpg)
-
 <span id="step-3"></span>**Korak 3.** Preko prvog sloja prstiju rasporediti polovinu kreme, pa drugi sloj umočenih prstiju i preostalu kremu ravnomerno razmazati po vrhu.
 
-![Korak 3 — tiramisu kolač](/wp-content/uploads/2026/06/tiramisu.kolac.korak3.jpg)
-
 <span id="step-4"></span>**Korak 4.** Obilno posuti kakaom u prahu i staviti u frižider najmanje 3–4 sata, a najbolje preko noći, pre služenja.
-
-![Korak 4 — tiramisu kolač](/wp-content/uploads/2026/06/tiramisu.kolac.korak4.jpg)
 
 **Napomena:** Tiramisu se ne peče — hladnoća u frižideru je važna da se slojevi stegnu i da krema dobije pravu teksturu. Likera od kafe možete izostaviti i koristiti samo espreso.
