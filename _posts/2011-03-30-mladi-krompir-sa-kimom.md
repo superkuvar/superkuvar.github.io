@@ -6,9 +6,24 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=329
 permalink: /mladi-krompir-sa-kimom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/03/Mladi-krompir-sa-kimom-940x198.jpg
+description: Mladi krompir sa kimom je jednostavan pečeni prilog od mladog krompira, margarina, soli i kima. Odličan uz šnicle i salatu u letnjim mesecima.
+prep_time: PT15M
+cook_time: PT35M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 1 kilogram krupnijeg mladog krompira
+  - margarin
+  - so
+  - kim
+instructions:
+  - krompir očistiti, oprati, dobro ocediti i raseći na polovine ili četvrtine.
+  - Rasečene površine krompira premazati margarinom i posuti solju i kimom.
+  - Krompir poređati u podmazan pleh, staviti u pećnicu zagrejanu na 200 stepeni i peći 30-40 minuta.
+image: /wp-content/uploads/2011/03/mladi.krompir.sa.kimom.hero.jpg
+og_image: /wp-content/uploads/2011/03/mladi.krompir.sa.kimom.og.jpg
+card_image: /wp-content/uploads/2011/03/mladi.krompir.sa.kimom.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -16,23 +31,22 @@ tags:
   - krompir
   - margarin
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram krupnijeg mladog krompira
-  * margarin
-  * so
-  * kim
+<span id="step-1"></span>**Korak 1.** krompir očistiti, oprati, dobro ocediti i raseći na polovine ili četvrtine.
 
-<img class="alignnone size-medium wp-image-3291" title="Mladi krompir sa kimom" src="/wp-content/uploads/2011/03/Mladi-krompir-sa-kimom-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — mladi krompir sa kimom](/wp-content/uploads/2011/03/mladi.krompir.sa.kimom.korak1.jpg)
 
-**Priprema**: krompir očistiti, oprati, dobro ocediti i raseći na polovine ili četvrtine. Rasečene površine krompira premazati margarinom i posuti solju i kimom.
+<span id="step-2"></span>**Korak 2.** Rasečene površine krompira premazati margarinom i posuti solju i kimom.
 
-Krompir poređati u podmazan pleh, staviti u pećnicu zagrejanu na 200 stepeni i peći 30-40 minuta.
+![Korak 2 — mladi krompir sa kimom](/wp-content/uploads/2011/03/mladi.krompir.sa.kimom.korak2.jpg)
+
+<span id="step-3"></span>**Korak 3.** Krompir poređati u podmazan pleh, staviti u pećnicu zagrejanu na 200 stepeni i peći 30-40 minuta.
+
+![Korak 3 — mladi krompir sa kimom](/wp-content/uploads/2011/03/mladi.krompir.sa.kimom.korak3.jpg)
 
 Mladi krompir sa kimom poslužiti uz šnicle i salatu.
 
-**Savet**: mladi krompir treba ljuštiti neposredno pre pripeme.
+**Savet:** mladi krompir treba ljuštiti neposredno pre pripeme.
 
 Ljuštenje mladog krompira predstavlja dosadan posao, a naročito ako se radi o vrsti koja se teško ljušti. Zato treba mladi krompir pre ljuštenja staviti u sud sa slanom vodom i ostaviti da u njoj odstoji 10 minuta. Na taj način izbeći ćete i da vam ruke potamne.
-
-&nbsp;
