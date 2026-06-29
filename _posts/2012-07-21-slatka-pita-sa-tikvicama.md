@@ -42,11 +42,19 @@ card_image: /wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.kartica.jpg
 
 <span id="step-1"></span>**Korak 1.** Suvo grožđe oprati, na kratko potopiti u vodu i ocediti. Tikvice oljuštiti i narendati.
 
+![Korak 1 — slatka pita sa tikvicama](/wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.korak1.jpg)
+
 <span id="step-2"></span>**Korak 2.** Po tri kore ređati jednu preko druge, svaku poprskati uljem i posuti malo prezli. Treću koru posuti mlevenim orasima, narendanim tikvicama i suvim grožđem.
+
+![Korak 2 — slatka pita sa tikvicama](/wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** Preko nadeva posuti malo cimeta i šećera po ukusu, pa kore uviti u rolnu kao štrudlu i staviti u podmazan pleh. Na isti način postupiti sa ostatkom kora i nadeva.
 
+![Korak 3 — slatka pita sa tikvicama](/wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.korak3.jpg)
+
 <span id="step-4"></span>**Korak 4.** Pitu premazati uljem i peći u zagrejanoj pećnici na 200 °C oko 30 minuta, dok ne porumeni.
+
+![Korak 4 — slatka pita sa tikvicama](/wp-content/uploads/2012/07/slatka.pita.sa.tikvicama.korak4.jpg)
 
 <span id="step-5"></span>**Korak 5.** Pečenu pitu poprskati vodom, prekriti platnenom salvetom i ostaviti da se malo ohladi, zatim iseći na parčića. Po želji posuti šećerom u prahu.
 
