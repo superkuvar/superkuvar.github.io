@@ -24,8 +24,11 @@ ingredients:
   - kesica cimeta
   - šećer u prahu
 instructions:
-  - bundevu oprati, očistiti i narendati. Umutiti penasto jaja i šećer, pa dodati ulje i jogurt. Izmešati varjačom i dodati narendanu bundevu. Pomešati brašno sa solju, praškom za pecivo i cimetom i lagano dodavati, uz mešanje varjačom, u jaja i bundevu. Testo lagano izmešati.
-  - Pleh prekriti papirom za pečenje i sipati pripremljeno testo. Kolač peći oko 40 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
+  - bundevu oprati, očistiti i narendati.
+  - Umutiti penasto jaja i šećer, pa dodati ulje i jogurt.
+  - Izmešati varjačom i dodati narendanu bundevu. Pomešati brašno sa solju, praškom za pecivo i cimetom i lagano dodavati, uz mešanje varjačom, u jaja i bundevu. Testo lagano izmešati.
+  - Pleh prekriti papirom za pečenje i sipati pripremljeno testo.
+  - Kolač peći oko 40 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
   - Kada je kolač pečen ostaviti ga da se malo ohladi, a zatim iseći na kocke i posuti šećerom u prahu.
 image: /wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.hero.jpg
 og_image: /wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.og.jpg
@@ -40,16 +43,24 @@ tags:
 ---
 **Način pripreme:**
 
-<span id="step-1"></span>**Korak 1.** bundevu oprati, očistiti i narendati. Umutiti penasto jaja i šećer, pa dodati ulje i jogurt. Izmešati varjačom i dodati narendanu bundevu. Pomešati brašno sa solju, praškom za pecivo i cimetom i lagano dodavati, uz mešanje varjačom, u jaja i bundevu. Testo lagano izmešati.
+<span id="step-1"></span>**Korak 1.** bundevu oprati, očistiti i narendati.
 
 ![Korak 1 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak1.jpg)
 
-<span id="step-2"></span>**Korak 2.** Pleh prekriti papirom za pečenje i sipati pripremljeno testo. Kolač peći oko 40 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
+<span id="step-2"></span>**Korak 2.** Umutiti penasto jaja i šećer, pa dodati ulje i jogurt.
 
-![Korak 2 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak2.jpg)
+<span id="step-3"></span>**Korak 3.** Izmešati varjačom i dodati narendanu bundevu. Pomešati brašno sa solju, praškom za pecivo i cimetom i lagano dodavati, uz mešanje varjačom, u jaja i bundevu. Testo lagano izmešati.
 
-<span id="step-3"></span>**Korak 3.** Kada je kolač pečen ostaviti ga da se malo ohladi, a zatim iseći na kocke i posuti šećerom u prahu.
+![Korak 3 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak2.jpg)
 
-![Korak 3 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak3.jpg)
+<span id="step-4"></span>**Korak 4.** Pleh prekriti papirom za pečenje i sipati pripremljeno testo.
+
+![Korak 4 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak3.jpg)
+
+<span id="step-5"></span>**Korak 5.** Kolač peći oko 40 minuta u pećnici prethodno zagrejanoj na 200 stepeni.
+
+<span id="step-6"></span>**Korak 6.** Kada je kolač pečen ostaviti ga da se malo ohladi, a zatim iseći na kocke i posuti šećerom u prahu.
+
+![Korak 6 — jednostavni kolač od bundeve](/wp-content/uploads/2016/01/jednostavni.kolac.od.bundeve.korak4.jpg)
 
 Ovaj kolač se brzo priprema, a pogodan je za pripremu u sezoni bundeve.

@@ -67,6 +67,61 @@ POVEZIVANJE SA SAJTOM (YAML + sabloni)
 
 
 ══════════════════════════════════════════════════════════════════════
+  ALGORITAM — KORAK SLIKE (obavezno, redosled 1 → 2 → 3)
+══════════════════════════════════════════════════════════════════════
+
+  Cilj: citilac vidi POSTUPAK pravljenja, ne istu fotografiju gotovog
+  jela vise puta iz drugog ugla.
+
+  ── 1. Postoje stare korak fotografije u upload folderu? ─────────────
+
+  Pretrazi wp-content/uploads/GODINA/MESec/ za fajlove koji:
+  • NISU hero/og/kartica/korak/master (npr. stari WP nazivi sa -1024x768)
+  • imaju duzu stranu >= 400 px
+  • vizuelno prikazuju RAZLICITE faze (testo, tiganj, pečenje…)
+
+  Ako ima 2–4 razlicite originalne fotografije koraka:
+  → koristi ih; samo resize na 900×675 (convert ili skripta)
+  → mapiraj na najvizuelnije korake u tekstu
+  → NE generisi AI ako original dovoljno dobar
+
+  ── 2. Postoji samo jedna fotografija gotovog jela? ──────────────────
+
+  Tipican slucaj: jedan JPG gotovog kolača/jela (npr. bundevin kolač).
+
+  → hero, og, kartica, hero.800, master — iz te jedne fotografije (OK)
+  → korak slike MORAJU biti posebno generisane (AI ili rucno), po
+    SADRZAJU koraka u receptu — ne iz iste fotografije
+
+  ZABRANJENO u ovom slucaju:
+  ✗ crop istog JPG-a na razlicite uglove (northwest, center, southeast…)
+  ✗ „razlicit“ MD5 hash pri istom vizuelnom sadrzaju
+  ✗ koristiti hero ili master kao izvor za korak1, korak2, korak3
+
+  Primer greske (JEDNOSTAVNI KOLAC OD BUNDEVE):
+  tri koraka = tri kadra istog pecenog kolaca → POGRESNO.
+  Ispravno: korak1 = testo u posudi, korak2 = testo u plehu, korak3 =
+  gotov kolač na kockice.
+
+  ── 3. Koliko korak slika i gde u tekstu ─────────────────────────────
+
+  → generisi 2–4 korak slike, NE za svaki tekstualni korak
+  → biraj korake gde je vizuelno najjasnije sta se desava:
+    mesanje/mutenje, sipanje u pleh, pečenje u procesu, serviranje
+  → umetni sliku odmah POSLE odgovarajuceg **Korak N.** u markdownu
+  → ista podloga i svetlo kao hero tog recepta (kod AI generisanja)
+
+  ── Provera pre commita (obavezno) ───────────────────────────────────
+
+  [ ] Svaka korak slika prikazuje DRUGACIJU FAZU, ne isti tanjir/pleh
+  [ ] Nijedna korak slika nije crop heroa ili mastera (osim ako je to
+      bila originalna WP fotografija tog koraka, ne gotovog jela)
+  [ ] Otvori sve korak JPG-ove jedan pored drugog — ako izgledaju kao
+      „ista slika iz drugog ugla“, obrisi i generisi ponovo
+  [ ] Broj slika: minimum 2, maksimum 4
+
+
+══════════════════════════════════════════════════════════════════════
   OPSTI STIL ZA SVE GENERISANE SLIKE (jednom odluci, drzis se toga)
 ══════════════════════════════════════════════════════════════════════
 
@@ -76,8 +131,13 @@ POVEZIVANJE SA SAJTOM (YAML + sabloni)
      Prirodno dnevno svetlo sa leve strane, tople boje.
      Drvena podloga ili svetli platneni stolnjak.
      Bez teksta, logoa, vodenog ziga, ruku sa prstenovima.
+     BEZ escajga (viljuske, nozevi, kasike, stapici).
+     BEZ plasticnih posluzavnica (plasticni tanjiri, tacne, posude).
+     BEZ metalnih posluzavnica (metalne tacne, plitici, posluzni plehovi),
+       osim emajliranog pleha za pecenje u koraku pecenja.
+     Dozvoljeno: drvena daska, keramicka zdjela, staklena posuda.
      Bez previse zasicenih boja i hladnog plavog filtera.
-     Profesionalna food photography, ostrina na jelu."
+     Profesionalna food photography, ostrina na jelu, NOT CGI."
 
   Za SWEET recepte dodaj: "Umerena slatkoca, domaca kuhinja, ne patiserija
   luksuz — prirodno i appetitno."
@@ -97,7 +157,8 @@ POVEZIVANJE SA SAJTOM (YAML + sabloni)
     da odsece ivice na mobilnom.
   • Tanjir/posuda celom duzinom vidljiva — rolat, torta, pita se vide
     u celini, ne odseceni.
-  • Pozadina meka (bokeh): samo podloga + mozda viljuska, salvetica.
+  • Pozadina meka (bokeh): samo podloga, platno ili blago zacinjeno povrce.
+  • BEZ escajga, plasticnih i metalnih posluzavnica (vidi OPSTI STIL).
 
   STA NE RADITI
   ─────────────
@@ -150,11 +211,15 @@ POVEZIVANJE SA SAJTOM (YAML + sabloni)
 
   KOJI KORACI ZASLUZUJU SLIKU
   ───────────────────────────
-  Ne svaki korak — biraj 2–4 najvizuelnija:
+  Ne svaki korak — biraj 2–4 najvizuelnija (vidi ALGORITAM gore):
   • mesanje / mutenje gde se vidi tekstura
   • pečenje / kuvanje (stanje u sred procesa)
   • kljucni trik (uvijanje rolata, razvlacenje testa)
   • gotov preliv / punjenje
+
+  Ako nema originalnih korak fotografija — AI prompt za svaku sliku
+  mora opisivati TU RADNJU (npr. „grated pumpkin in bowl with eggs“),
+  ne „same cake from different angle“.
 
   AI PROMPT — SABLON
   ──────────────────
@@ -385,7 +450,8 @@ CHECKLIST
   [ ] slug.hero.jpg         1200×675   gotovo jelo, siroko 16:9
   [ ] slug.og.jpg           1200×630   isto jelo, nize u kadru, FB zona
   [ ] slug.hero.800.jpg     800×450    resize heroa (srcset na stranici)
-  [ ] slug.korak1…N         900×675    2–4 bliska kadra
+  [ ] slug.korak1…N         900×675    2–4 bliska kadra, RAZLICITE FAZE
+  [ ] korak slike NISU crop heroa/mastera (jedna fotka gotovog jela)
   [ ] slug.kartica.jpg      800×600    grid thumbnail
   [ ] image: u YAML         → hero.jpg
   [ ] og_image: u YAML      → og.jpg
