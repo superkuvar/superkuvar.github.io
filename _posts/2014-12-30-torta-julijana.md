@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9337
 permalink: /torta-julijana/
-description: Torta Julijana sa kakaoom kore, tamnim čokoladnim i belim filom — bogata višeslojna poslastica koja impresionira izgledom i ukusom na svakoj svečanoj trpezi.
+description: Torta Julijana sa kakaom u kori, tamnim čokoladnim i belim filom — bogata višeslojna poslastica koja impresionira izgledom i ukusom na svakoj svečanoj trpezi.
 prep_time: PT1H
 cook_time: PT40M
 total_time: PT5H
