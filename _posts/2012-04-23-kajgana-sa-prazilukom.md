@@ -6,9 +6,26 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3034
 permalink: /kajgana-sa-prazilukom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/04/Kajgana-sa-prazilukom-940x198.jpg
+description: Kajgana sa prazilukom je jednostavno jelo od jaja, praziluka i sira prženo u tiganju. Pogodna za brz doručak ili večeru.
+prep_time: PT10M
+cook_time: PT10M
+total_time: PT20M
+servings: 2 porcije
+nutrition: oko 300 kalorija po porciji
+ingredients:
+  - 2 struka praziluka
+  - 4 jajeta
+  - malo tvrdog belog sira ili kačkavalja
+  - so
+  - biber
+  - ulje
+instructions:
+  - praziluk očistiti, oprati i iseći na kolutove. Staviti ga u tiganj sa umereno zagrejanim uljem. Pržiti dva-tri minuta, da praziluk malo omekša, ali da ne promeni boju.
+  - Iseći sir na kockice i dodati u praziluk.
+  - Jaja umutiti, posoliti, pobiberiti i sipati preko praziluka. Promešati dva-tri puta i čim jaja počnu da se stežu kajganu skloniti sa vatre.
+image: /wp-content/uploads/2012/04/kajgana.sa.prazilukom.hero.jpg
+og_image: /wp-content/uploads/2012/04/kajgana.sa.prazilukom.og.jpg
+card_image: /wp-content/uploads/2012/04/kajgana.sa.prazilukom.kartica.jpg
 categories:
   - jela od jaja
 tags:
@@ -16,22 +33,17 @@ tags:
   - sir
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 struka praziluka
-  * 4 jajeta
-  * malo tvrdog belog sira ili kačkavalja
-  * so
-  * biber
-  * ulje
+<span id="step-1"></span>**Korak 1.** praziluk očistiti, oprati i iseći na kolutove. Staviti ga u tiganj sa umereno zagrejanim uljem. Pržiti dva-tri minuta, da praziluk malo omekša, ali da ne promeni boju.
 
-![kajgana sa prazilukom](/wp-content/uploads/2012/04/Kajgana-sa-prazilukom-1024x768.jpg)
+![Korak 1 — kajgana sa prazilukom](/wp-content/uploads/2012/04/kajgana.sa.prazilukom.korak1.jpg)
 
-**Priprema**: praziluk očistiti, oprati i iseći na kolutove. Staviti ga u tiganj sa umereno zagrejanim uljem. Pržiti dva-tri minuta, da praziluk malo omekša, ali da ne promeni boju.
+<span id="step-2"></span>**Korak 2.** Iseći sir na kockice i dodati u praziluk.
 
-Iseći sir na kockice i dodati u praziluk.
+<span id="step-3"></span>**Korak 3.** Jaja umutiti, posoliti, pobiberiti i sipati preko praziluka. Promešati dva-tri puta i čim jaja počnu da se stežu kajganu skloniti sa vatre.
 
-Jaja umutiti, posoliti, pobiberiti i sipati preko praziluka. Promešati dva-tri puta i čim jaja počnu da se stežu kajganu skloniti sa vatre.
+![Korak 3 — kajgana sa prazilukom](/wp-content/uploads/2012/04/kajgana.sa.prazilukom.korak2.jpg)
 
 Kajgana se služi topla.
 
