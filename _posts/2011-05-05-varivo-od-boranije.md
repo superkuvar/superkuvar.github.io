@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=471
 permalink: /varivo-od-boranije/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/05/Varivo-od-boranije-940x198.jpg
+description: Varivo od boranije je pečeno jelo bez mesa od dinstane boranije, paradajza i belog luka. Pogodno za letnji ručak ili večeru uz hleb.
+prep_time: PT20M
+cook_time: PT50M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - boranija (1 kilogram)
+  - glavica crnog luka
+  - 3 paradajza
+  - 3 čena belog luka
+  - peršunov list
+  - ulje
+  - 1 kašika brašna
+  - 1 kašičica crvene sitne paprike
+  - suvi biljni začin
+  - so
+instructions:
+  - sipati malo ulja u šerpu i propržiti sitno seckani crni luk da postane staklast, dolivajući po potrebi malo vode. U propržen luk odati očišćenu i isečenu boraniju, posoliti i dinstati dok ne omekša.
+  - Izdinstanu boraniju sipati u podmazan sud, posuti suvim biljnim začinom, dodati iseckan oljušten paradajz, iseckan peršunov list i izgnječen beli luk. Sve izmešati i preliti šoljom vode u kojoj je razmućeno brašno sa alevom paprikom. Odozgo preliti sa malo ulja.
+  - Varivo peći u prethodno zagrejanoj rerni, na 200 stepeni, dok voda ne ispari.
+image: /wp-content/uploads/2011/05/varivo.od.boranije.hero.jpg
+og_image: /wp-content/uploads/2011/05/varivo.od.boranije.og.jpg
+card_image: /wp-content/uploads/2011/05/varivo.od.boranije.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -17,23 +38,16 @@ tags:
   - paradajz
   - peršunov list
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * boranija (1 kilogram)
-  * glavica crnog luka
-  * 3 paradajza
-  * 3 čena belog luka
-  * peršunov list
-  * ulje
-  * 1 kašika brašna
-  * 1 kašičica crvene sitne paprike
-  * suvi biljni začin
-  * so
+<span id="step-1"></span>**Korak 1.** sipati malo ulja u šerpu i propržiti sitno seckani crni luk da postane staklast, dolivajući po potrebi malo vode. U propržen luk odati očišćenu i isečenu boraniju, posoliti i dinstati dok ne omekša.
 
-<img class="alignnone size-medium wp-image-2575" title="Varivo od boranije" src="/wp-content/uploads/2011/05/Varivo-od-boranije-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — varivo od boranije](/wp-content/uploads/2011/05/varivo.od.boranije.korak1.jpg)
 
-**Priprema**: sipati malo ulja u šerpu i propržiti sitno seckani crni luk da postane staklast, dolivajući po potrebi malo vode. U propržen luk odati očišćenu i isečenu boraniju, posoliti i dinstati dok ne omekša.
+<span id="step-2"></span>**Korak 2.** Izdinstanu boraniju sipati u podmazan sud, posuti suvim biljnim začinom, dodati iseckan oljušten paradajz, iseckan peršunov list i izgnječen beli luk. Sve izmešati i preliti šoljom vode u kojoj je razmućeno brašno sa alevom paprikom. Odozgo preliti sa malo ulja.
 
-Izdinstanu boraniju sipati u podmazan sud, posuti suvim biljnim začinom, dodati iseckan oljušten paradajz, iseckan peršunov list i izgnječen beli luk. Sve izmešati i preliti šoljom vode u kojoj je razmućeno brašno sa alevom paprikom. Odozgo preliti sa malo ulja.
+![Korak 2 — varivo od boranije](/wp-content/uploads/2011/05/varivo.od.boranije.korak2.jpg)
 
-Varivo peći u prethodno zagrejanoj rerni, na 200 stepeni, dok voda ne ispari.
+<span id="step-3"></span>**Korak 3.** Varivo peći u prethodno zagrejanoj rerni, na 200 stepeni, dok voda ne ispari.
+
+![Korak 3 — varivo od boranije](/wp-content/uploads/2011/05/varivo.od.boranije.korak3.jpg)
