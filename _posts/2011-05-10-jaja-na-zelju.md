@@ -1,18 +1,33 @@
 ---
 id: 523
-title: JAJA NA ZELjU
+title: JAJA NA ZELJU
 date: 2011-05-10T10:14:23+00:00
 author: mila
 layout: post
 guid: http://superkuvar.com/?p=523
 permalink: /jaja-na-zelju/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/05/Jaja-na-zelju-940x198.jpg
+description: Jaja na zelju su pečeno jelo bez mesa od zelja, pirinča i jaja. Pogodno za lagan ručak ili večeru uz kiselo mleko, može se pripremati i od spanaća.
+prep_time: PT20M
+cook_time: PT35M
+total_time: PT55M
+servings: 4 porcije
+nutrition: oko 210 kalorija po porciji
+ingredients:
+  - zelje (4 veze)
+  - šoljica pirinča
+  - glavica crnog luka
+  - kocka za supu
+  - biber
+  - ulje
+  - 4 jajeta
+  - kiselo mleko
+instructions:
+  - na ulju propržiti iseckan crni luk, pa mu dodati opran pirinač i zelje isečeno na rezance. U to dodati kocku za supu rastopljenu u vodi, tako da zelje ogrezne.
+  - Jelo staviti u pećnicu i peći na umerenoj temperaturi dok pirinač ne omekša, a voda ispari.
+  - U jelu napraviti četiri udubljenja u koja se razbiju jaja, pa vratiti u pećnicu da se belanca ispeku, dok žumanca treba da ostanu mekana.
+image: /wp-content/uploads/2011/05/jaja.na.zelju.hero.jpg
+og_image: /wp-content/uploads/2011/05/jaja.na.zelju.og.jpg
+card_image: /wp-content/uploads/2011/05/jaja.na.zelju.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -21,24 +36,19 @@ tags:
   - zelje
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * zelje (4 veze)
-  * šoljica pirinča
-  * glavica crnog luka
-  * kocka za supu
-  * biber
-  * ulje
-  * 4 jajeta
-  * kiselo mleko
+<span id="step-1"></span>**Korak 1.** na ulju propržiti iseckan crni luk, pa mu dodati opran pirinač i zelje isečeno na rezance. U to dodati kocku za supu rastopljenu u vodi, tako da zelje ogrezne.
 
-<img class="alignnone size-medium wp-image-4785" title="Jaja na zelju" src="/wp-content/uploads/2011/05/Jaja-na-zelju-1024x768.jpg" alt="" width="300" height="225" /> 
+![Korak 1 — jaja na zelju](/wp-content/uploads/2011/05/jaja.na.zelju.korak1.jpg)
 
-**Priprema**: na ulju propržiti iseckan crni luk, pa mu dodati opran pirinač i zelje isečeno na rezance. U to dodati kocku za supu rastopljenu u vodi, tako da zelje ogrezne.
+<span id="step-2"></span>**Korak 2.** Jelo staviti u pećnicu i peći na umerenoj temperaturi dok pirinač ne omekša, a voda ispari.
 
-Jelo staviti u pećnicu i peći na umerenoj temperaturi dok pirinač ne omekša, a voda ispari.
+![Korak 2 — jaja na zelju](/wp-content/uploads/2011/05/jaja.na.zelju.korak2.jpg)
 
-U jelu napraviti četiri udubljenja u koja se razbiju jaja, pa vratiti u pećnicu da se belanca ispeku, dok žumanca treba da ostanu mekana.
+<span id="step-3"></span>**Korak 3.** U jelu napraviti četiri udubljenja u koja se razbiju jaja, pa vratiti u pećnicu da se belanca ispeku, dok žumanca treba da ostanu mekana.
+
+![Korak 3 — jaja na zelju](/wp-content/uploads/2011/05/jaja.na.zelju.korak3.jpg)
 
 Jaja na zelju poslužiti sa kiselim mlekom.
 
