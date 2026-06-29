@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=16
 permalink: /kocke-od-kestena-s-pavlakom/
-description: Kocke od kestena s pavlakom — penasto umutiti maslac sa šećerom, pa dodati žumanca i još malo mutiti.
+image: /wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.hero.jpg
+og_image: /wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.og.jpg
+card_image: /wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.kartica.jpg
+description: Kocke od kestena s pavlakom — lagano kesten testo pečeno u plehu, isečeno na kocke i spojeno ulupanom slatkom pavlakom. Domaća poslastica za kafu i goste.
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -41,16 +44,26 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** penasto umutiti maslac sa šećerom, pa dodati žumanca i još malo mutiti.
 
+![Umućen maslac sa šećerom i žumancima](/wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.korak1.jpg)
+
 <span id="step-2"></span>**Korak 2.** U umućenu masu dodati obaren, oljušten i propasiran kesten.
 
 <span id="step-3"></span>**Korak 3.** Umutiti belanca u čvrst sneg, pa u njih dodati testo sa kestenom.
 
+![Sjediniti testo sa snegom od belanaca](/wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.korak3.jpg)
+
 <span id="step-4"></span>**Korak 4.** Namazati pleh maslacem i posuti brašnom, pa sipati testo.
 
 <span id="step-5"></span>**Korak 5.** Testo peći oko 30 minuta u pećnici zagrejanoj na 180 stepeni.
+
+![Pečeno kesten testo u plehu](/wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.korak5.jpg)
 
 <span id="step-6"></span>**Korak 6.** Kada je testo pečeno, ostaviti da se malo ohladi i iseći na kocke.
 
 <span id="step-7"></span>**Korak 7.** U rashlađenu slatku pavlaku dodati šećer i vanilin šećer i dobro je umutiti.
 
 <span id="step-8"></span>**Korak 8.** Na svaku kocku isečenog testa staviti deblji sloj ulupane pavlake, a odozgo staviti drugu kocku testa.
+
+![Kocke spojene ulupanom pavlakom](/wp-content/uploads/2011/02/kocke.od.kestena.s.pavlakom.korak8.jpg)
+
+Kocke od kestena najbolje su kada se malo ohlade pre serviranja, da pavlaka postane čvršća. Idealne uz kafu ili čaj.
