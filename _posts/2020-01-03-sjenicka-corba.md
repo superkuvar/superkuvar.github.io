@@ -6,7 +6,7 @@ author: sneki
 layout: post
 permalink: /sjenicka-corba/
 published: true
-description: Tradicionalna sjenička čorba od ovčijeg mesa sa paprikom i ovčijim mlekom, zgušnjena zaprškom — jelo sa Pester planine.
+description: Tradicionalna sjenička čorba od ovčijeg mesa sa paprikom i ovčijim mlekom, zgušnjena zaprškom — jelo sa Pesterske visoravni.
 prep_time: PT25M
 cook_time: PT2H30M
 total_time: PT2H55M
@@ -23,7 +23,7 @@ ingredients:
   - biber po ukusu
 instructions:
   - Ovčije meso kuvati oko 2 sata dok dobro ne omekša.
-  - Kuvano meso iseći na kocke i sa iseckanim povrćem dinstati još 15 minuta.
+  - Kuvano meso iseći na kocke i sa iseckanim povrćem dinstati još 15 minuta zajedno.
   - Sve staviti u lonac, naliti 2 litra vrele vode, kuvati 15 minuta i dodati ovčije mleko.
   - Napraviti zapršku od brašna, naliti u čorbu, posoliti i začiniti po ukusu.
 image: /wp-content/uploads/2020/01/sjenicka.corba.hero.jpg
@@ -41,7 +41,7 @@ tags:
 
 ![Korak 1 — sjenička čorba](/wp-content/uploads/2020/01/sjenicka.corba.korak1.jpg)
 
-<span id="step-2"></span>**Korak 2.** Kuvano meso iseći na male kocke. Sa iseckanim crnim lukom i paprikama dinstati još 15 minuta.
+<span id="step-2"></span>**Korak 2.** Kuvano meso iseći na male kocke. Meso sa iseckanim crnim lukom i paprikama dinstati još 15 minuta.
 
 ![Korak 2 — sjenička čorba](/wp-content/uploads/2020/01/sjenicka.corba.korak2.jpg)
 
@@ -53,7 +53,7 @@ tags:
 
 ![Korak 4 — sjenička čorba](/wp-content/uploads/2020/01/sjenicka.corba.korak4.jpg)
 
-Po želji može se dodati koja kocka sjeničkog starog sira, najviše 200 g. Čorba je najukusnija dok je vruća, uz domaći hleb.
+Po želji može se dodati neka kocka sjeničkog starog sira, najviše 200 g. Čorba je najukusnija dok je vruća, uz domaći hleb.
 
 **Objašnjenja kulinarskih termina:**
 
@@ -61,4 +61,4 @@ Po želji može se dodati koja kocka sjeničkog starog sira, najviše 200 g. Čo
 
 **Zaprška** — brašno blago proprženo u masti ili ulju, pa razmućeno u tečnost; služi za zgušnjavanje čorbe.
 
-**Sjenički stari sir** — tradicionalni punomasni sir sa Pester planine; opcionalno se dodaje na kraju za jači ukus.
+**Sjenički stari sir** — tradicionalni punomasni sir sa Pesterske visoravni; opcionalno se dodaje na kraju za jači ukus.
