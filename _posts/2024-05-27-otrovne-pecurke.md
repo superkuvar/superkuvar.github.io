@@ -3,15 +3,35 @@ id: 5
 title: ZAŠTO SU PEČURKE OTROVNE
 date: 2023-03-08T15:53:36+00:00
 author: batalex
-layout: post
+layout: article
 permalink: /otrovne-pecurke/
 published: true
+description: Najčešći toksini u otrovnim pečurkama i najopasnije vrste u Srbiji — amatoksini, muskarin, zelena pupavka, bela pupavka i lažna jestiva. Saveti za bezbedno branje.
+about: Otrovne pečurke i gljive toksini
+image: /wp-content/uploads/2024/05/otrovne.pecurke.hero.jpg
+og_image: /wp-content/uploads/2024/05/otrovne.pecurke.og.jpg
+card_image: /wp-content/uploads/2024/05/otrovne.pecurke.kartica.jpg
 categories:
   - zdravlje
 tags:
+  - pečurke
+  - toksini
+  - amanita
   - zdravlje
+item_list:
+  - name: Amanita phalloides
+    description: Zelena pupavka — jedna od najotrovnijih pečuraka na svetu; smrtonosna oštećenja jetre i bubrega.
+  - name: Amanita virosa
+    description: Bela pupavka — veoma otrovna; teška oštećenja jetre.
+  - name: Amanita pantherina
+    description: Panter pupavka — neurološki simptomi, halucinacije, koma.
+  - name: Gyromitra esculenta
+    description: Lažna jestiva — toksin se pretvara u metil-hidrazin; oštećenje jetre i bubrega.
 ---
-Sadržaj:
+<nav class="article-toc" markdown="1">
+
+**Sadržaj**
+
 - [Toksini](#toksini)
   - [Amatoksini](#amatoksini)
   - [Muskarin](#muskarin)
@@ -19,66 +39,84 @@ Sadržaj:
   - [Psilocibin i psilocin](#psilocibin-i-psilocin)
   - [Gyromitrin](#gyromitrin)
   - [Coprine](#coprine)
-- [Najotrovnije perčurke u Srbiji](#najotrovnije-perčurke-u-srbiji)
+- [Najotrovnije pečurke u Srbiji](#najotrovnije-pecurke-u-srbiji)
 - [Zaključak](#zaključak)
 
+</nav>
 
+Pečurke mogu biti otrovne zbog različitih toksina koje sadrže. Ispod su najčešći otrovi u gljivama koje se mogu naći u prirodi, zatim najopasnije vrste u Srbiji i kratki zaključak za bezbedno branje.
 
+## Toksini {#toksini}
 
-![Pecurke](/wp-content/uploads/2024/05/mashrooms.jpeg)
+### Amatoksini {#amatoksini}
 
-Pečurke mogu biti otrovne zbog različitih toksina koje sadrže. Evo nekih od najčešćih toksina koji se nalaze u otrovnim pečurkama:
+Ovi toksini su prisutni u pečurkama iz roda *Amanita*, *Galerina*, *Lepiota* i *Conocybe*. Amatoksini su izuzetno otrovni i mogu izazvati ozbiljno oštećenje jetre i bubrega. Primer je *Amanita phalloides* (zelena pupavka).
 
-# Toksini
+### Muskarin {#muskarin}
 
-## Amatoksini 
+Nalazi se u pečurkama iz rodova *Inocybe* i *Clitocybe*, kao i u nekim vrstama *Amanita*. Muskarin deluje na parasimpatički nervni sistem i može izazvati salivaciju, suzenje očiju, znojenje, grčeve u stomaku, dijareju i probleme sa disanjem.
 
-Ovi toksini su prisutni u pečurkama iz roda Amanita, Galerina, Lepiota, i Conocybe. Amatoksini su izuzetno otrovni i mogu izazvati ozbiljno oštećenje jetre i bubrega. Primer pečurke koja sadrži ovaj toksin je Amanita phalloides (zelena pupavka).
+### Orelanin {#orelanin}
 
-## Muskarin 
+Prisutan je u pečurkama iz roda *Cortinarius*. Izaziva mučninu, povraćanje i bolove u stomaku, ali može dovesti i do ozbiljnog oštećenja bubrega koje se manifestuje nekoliko dana nakon konzumacije.
 
-Ovaj toksin se nalazi u pečurkama iz rodova Inocybe i Clitocybe, kao i u nekim vrstama Amanita. Muskarin deluje na parasimpatički nervni sistem i može izazvati simptome kao što su salivacija, suzenje očiju, znojenje, grčevi u stomaku, dijareja i problemi sa disanjem.
+### Psilocibin i psilocin {#psilocibin-i-psilocin}
 
-## Orelanin 
+Psihoaktivni spojevi u rodovima *Psilocybe*, *Panaeolus*, *Copelandia* i drugima. Mogu izazvati halucinacije i promene u percepciji; nisu tipično smrtno otrovni, ali konzumacija može biti opasna zbog psiholoških efekata.
 
-Ovaj toksin je prisutan u pečurkama iz roda Cortinarius. Orelanin izaziva simptome kao što su mučnina, povraćanje, bolovi u stomaku, ali može dovesti i do ozbiljnog oštećenja bubrega koje se manifestuje nekoliko dana nakon konzumacije.
+### Gyromitrin {#gyromitrin}
 
-## Psilocibin i psilocin
+Nalazi se u pečurkama iz roda *Gyromitra*. U organizmu se pretvara u monometilhidrazin (MMH), koji može izazvati mučninu, povraćanje, vrtoglavicu, konfuziju i, u teškim slučajevima, oštećenje jetre.
 
-Ovi psihoaktivni spojevi nalaze se u pečurkama iz rodova Psilocybe, Panaeolus, Copelandia i nekih drugih. Oni mogu izazvati halucinacije i promene u percepciji, ali nisu smrtno otrovni. Ipak, konzumacija ovih pečurki može biti opasna zbog psiholoških efekata.
+### Coprine {#coprine}
 
-## Gyromitrin
+Toksin u pečurkama iz roda *Coprinus*. Inhibira enzim potreban za metabolizam alkohola, pa konzumacija alkohola uz ovu pečurku može izazvati neprijatne reakcije.
 
-Ovaj toksin se nalazi u pečurkama iz roda Gyromitra. Kada se unese, gyromitrin se pretvara u monometilhidrazin (MMH), koji je toksičan i može izazvati simptome kao što su mučnina, povraćanje, vrtoglavica, konfuzija i u teškim slučajevima oštećenje jetre.
+## Najotrovnije pečurke u Srbiji {#najotrovnije-pecurke-u-srbiji}
 
-## Coprine 
-    
-Ovaj toksin se nalazi u pečurkama iz roda Coprinus. Coprin inhibira enzim koji je potreban za metabolizam alkohola, što može izazvati neprijatne simptome kada se alkohol konzumira zajedno sa pečurkama koje sadrže ovaj toksin.
+U Srbiji, kao i u većini regiona, postoji nekoliko vrsta koje su veoma otrovne ako se pojedu. Evo najpoznatijih primera:
 
-# Najotrovnije perčurke u Srbiji
+<ul class="species-list" markdown="1">
+<li markdown="1">
 
-U Srbiji, kao i u većini drugih regiona, postoje nekoliko vrsta pečuraka koje se smatraju veoma otrovnim i opasnim po zdravlje ukoliko se pojedu. Evo nekoliko primera najotrovnijih pečuraka koje se mogu naći u Srbiji:
+**Amanita phalloides** — zelena pupavka (zelena mušnica)
 
-* Amanita phalloides - Poznata i kao zelena pupavka ili zelena mušnica, ova pečurka je jedna od najotrovnijih na svetu. Sadrži smrtonosne toksine koji mogu izazvati teška oštećenja jetre i bubrega, često sa fatalnim ishodom.
+Jedna od najotrovnijih pečuraka na svetu. Sadrži smrtonosne toksine koji mogu izazvati teška oštećenja jetre i bubrega, često sa fatalnim ishodom.
 
-    ![amanita phalloides](/wp-content/uploads/2024/05/amanita-phalloides.webp)
+![Amanita phalloides — zelena pupavka](/wp-content/uploads/2024/05/amanita-phalloides.webp)
 
-* Amanita virosa - Poznata kao bela pupavka, takođe je veoma otrovna i može prouzrokovati teške zdravstvene probleme, uključujući oštećenje jetre.
+</li>
+<li markdown="1">
 
-    ![amanita virossa](/wp-content/uploads/2024/05/amanita-virosa.jpeg)
+**Amanita virosa** — bela pupavka
 
-* Amanita pantherina - Ova pečurka poznata je kao panter pupavka i takođe je izuzetno otrovna. Može izazvati ozbiljne neurološke simptome kao što su konfuzija, halucinacije i komu.
-  
-    ![amanita phanterina](/wp-content/uploads/2024/05/amanita-phanterina.jpeg)  
+Veoma otrovna; može prouzrokovati teške zdravstvene probleme, uključujući oštećenje jetre.
 
-* Gyromitra esculenta - Poznata kao lažna zelenika, ova pečurka sadrži toksin koji se pretvara u metil-hidrazin, supstancu koja može izazvati ozbiljne zdravstvene probleme, uključujući oštećenje jetre i bubrega.
+![Amanita virosa — bela pupavka](/wp-content/uploads/2024/05/amanita-virosa.jpeg)
 
-    ![Gyromitra esculenta](/wp-content/uploads/2024/05/gyromatria-esculenta.jpeg)  
+</li>
+<li markdown="1">
 
+**Amanita pantherina** — panter pupavka
 
-Ovo su samo neki od primera veoma otrovnih pečuraka koje se mogu naći u prirodi. Važno je da budete izuzetno oprezni prilikom branja i konzumiranja pečuraka iz prirode, jer greške u identifikaciji mogu imati ozbiljne posledice po zdravlje, pa čak i biti fatalne. Ako niste sigurni u identifikaciju pečurke, bolje je da je ne berete niti jedete. Uvek je najbolje da se konsultujete sa stručnjakom ili osobi koja ima iskustva u prepoznavanju jestivih i otrovnih vrsta pečuraka.
+Izuzetno otrovna; može izazvati ozbiljne neurološke simptome — konfuziju, halucinacije i komu.
 
-# Zaključak
+![Amanita pantherina](/wp-content/uploads/2024/05/amanita-phanterina.jpeg)
 
-Otrovi u pečurkama deluju na različite sisteme u telu, uključujući nervni sistem, jetru, bubrege i gastrointestinalni trakt. Zbog toga je važno poznavati vrste pečuraka i biti oprezan pri njihovom sakupljanju i konzumaciji.
+</li>
+<li markdown="1">
 
+**Gyromitra esculenta** — lažna jestiva
+
+Sadrži toksin koji se pretvara u metil-hidrazin; može oštetiti jetru i bubrege.
+
+![Gyromitra esculenta — lažna jestiva](/wp-content/uploads/2024/05/gyromatria-esculenta.jpeg)
+
+</li>
+</ul>
+
+**Upozorenje:** Greške u identifikaciji mogu imati ozbiljne posledice po zdravlje, pa čak i biti fatalne. Ako niste sigurni u vrstu pečurke, ne berite je i ne jedite. Uvek se konsultujte sa stručnjakom za gljive ili sa iskusnim poznavaocem jestivih i otrovnih vrsta.
+
+## Zaključak {#zaključak}
+
+Otrovi u pečurkama deluju na različite sisteme u telu — nervni sistem, jetru, bubrege i gastrointestinalni trakt. Zbog toga je važno poznavati vrste pečuraka i biti oprezan pri sakupljanju i konzumaciji.

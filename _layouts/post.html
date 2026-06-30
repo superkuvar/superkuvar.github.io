@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% if page.ingredients %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,6 +50,7 @@ layout: default
   {%- endif -%}
 }
 </script>
+{% endif %}
 
 <main class="container">
 

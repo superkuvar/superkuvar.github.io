@@ -670,6 +670,220 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
   line-height: 1.7;
 }
 
+/* ── Article pages ── */
+
+.article-header {
+  padding: 1rem 0 1.25rem;
+}
+
+.article-header h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+  color: var(--brown);
+  margin: 0 0 0.75rem;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+.article-intro {
+  font-size: 1.08rem;
+  color: var(--text-light);
+  max-width: 720px;
+  margin: 0 0 1rem;
+  line-height: 1.65;
+}
+
+.article-meta-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  font-size: 0.88rem;
+}
+
+.article-hero-img {
+  width: 100%;
+  border-radius: var(--radius);
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+  margin-bottom: 0.5rem;
+}
+
+.article-layout {
+  padding: 1.75rem 0 2.5rem;
+}
+
+.article-body {
+  max-width: 760px;
+}
+
+.article-content {
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.article-content > :first-child {
+  margin-top: 0;
+}
+
+.article-content h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  color: var(--brown);
+  margin: 2.5rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  scroll-margin-top: 5rem;
+}
+
+.article-content > h2:first-child,
+.article-content .article-toc + h2,
+.article-content p + h2:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 1.25rem;
+}
+
+.article-content h3 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--brown-muted);
+  margin: 1.75rem 0 0.65rem;
+  scroll-margin-top: 5rem;
+}
+
+.article-content p {
+  margin: 0 0 1.1rem;
+}
+
+.article-content ul,
+.article-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.35rem;
+}
+
+.article-content li {
+  margin-bottom: 0.45rem;
+  line-height: 1.65;
+}
+
+.article-content img {
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+  margin: 1rem 0;
+  width: 100%;
+  max-width: 420px;
+}
+
+.article-content li img {
+  margin: 0.75rem 0 0.25rem;
+}
+
+.article-toc {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.35rem;
+  margin: 0 0 1.75rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.article-toc > strong,
+.article-toc > p > strong:first-child {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--brown);
+  display: block;
+  margin-bottom: 0.65rem;
+}
+
+.article-toc ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.95rem;
+}
+
+.article-toc li {
+  margin-bottom: 0.35rem;
+}
+
+.article-toc a {
+  color: var(--brown-muted);
+  text-decoration: none;
+}
+
+.article-toc a:hover {
+  color: var(--orange);
+  text-decoration: underline;
+}
+
+.article-content .article-callout,
+.article-content p.article-callout {
+  background: var(--orange-light);
+  border-left: 4px solid var(--orange);
+  padding: 1rem 1.25rem;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  margin: 1.5rem 0;
+}
+
+.article-content .article-callout strong,
+.article-content p.article-callout strong {
+  color: var(--brown);
+}
+
+.species-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 1.5rem;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.species-list > li {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.25rem;
+  box-shadow: var(--shadow-sm);
+  margin: 0;
+}
+
+.species-list > li strong {
+  font-family: var(--font-display);
+  color: var(--brown);
+  font-size: 1.05rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.species-list > li img {
+  margin-top: 0.75rem;
+  max-width: 100%;
+}
+
+@media (min-width: 600px) {
+  .species-list > li {
+    display: grid;
+    grid-template-columns: 1fr min(200px, 35%);
+    gap: 1rem 1.25rem;
+    align-items: start;
+  }
+
+  .species-list > li img {
+    margin: 0;
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    max-width: 200px;
+    justify-self: end;
+  }
+}
+
+@media (max-width: 768px) {
+  .article-content img {
+    max-width: 100%;
+  }
+}
+
 /* ── Recipe markdown content ── */
 
 .recipe-content img {

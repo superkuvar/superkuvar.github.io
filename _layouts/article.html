@@ -1,0 +1,181 @@
+---
+layout: default
+---
+{% assign word_count = content | number_of_words %}
+{% assign read_mins = word_count | divided_by: 180 | plus: 1 %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "url": {{ site.url | append: page.url | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "dateModified": {{ page.date | date_to_xmlschema | jsonify }},
+  "inLanguage": "sr",
+  "image": {% if page.image and page.image != '' %}{{ site.url | append: page.image | jsonify }}{% else %}""{% endif %}
+  {%- if page.author -%}
+  ,"author": {"@type": "Person", "name": {{ page.author | jsonify }}}
+  {%- endif -%}
+  {%- if page.description -%}
+  ,"description": {{ page.description | jsonify }}
+  {%- endif -%}
+  {%- if page.categories.first -%}
+  ,"articleSection": {{ page.categories.first | jsonify }}
+  {%- endif -%}
+  {%- if page.tags -%}
+  ,"keywords": {{ page.tags | join: ', ' | jsonify }}
+  {%- endif -%}
+  {%- if page.about -%}
+  ,"about": {"@type": "Thing", "name": {{ page.about | jsonify }}}
+  {%- endif -%}
+  ,"publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {"@type": "ImageObject", "url": {{ site.url | append: '/assets/img/logo.png' | jsonify }}}
+  }
+  ,"mainEntityOfPage": {"@type": "WebPage", "@id": {{ site.url | append: page.url | jsonify }}}
+}
+</script>
+
+{%- if page.item_list -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "numberOfItems": {{ page.item_list.size }},
+  "itemListElement": [
+    {%- for item in page.item_list -%}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": {{ item.name | jsonify }},
+      "description": {{ item.description | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}
+
+<main class="container">
+
+  <nav class="breadcrumb">
+    <a href="{{ '/' | relative_url }}">Početna</a> →
+    {% if page.categories.first %}
+    {% assign cat_slug = '' %}
+    {% for cat in site.data.categories %}
+      {% if cat.name == page.categories.first %}{% assign cat_slug = cat.slug %}{% endif %}
+    {% endfor %}
+    {% if cat_slug != '' %}
+    <a href="{{ '/kategorija/' | append: cat_slug | append: '/' | relative_url }}">{{ page.categories.first }}</a> →
+    {% else %}
+    <span>{{ page.categories.first }}</span> →
+    {% endif %}
+    {% endif %}
+    {{ page.title }}
+  </nav>
+
+  {% include ad-leaderboard.html %}
+
+  <header class="article-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="article-intro">{{ page.description }}</p>
+    {% endif %}
+    <div class="article-meta-bar">
+      {% if page.author %}
+      <div class="meta-item">✍️ <strong>{{ page.author }}</strong></div>
+      {% endif %}
+      {% if page.date %}
+      <div class="meta-item">📅 <strong>{{ page.date | date: '%d.%m.%Y.' }}</strong></div>
+      {% endif %}
+      <div class="meta-item">📖 <strong>~{{ read_mins }} min čitanja</strong></div>
+    </div>
+  </header>
+
+  {% if page.image and page.image != '' %}
+  {% assign hero_src = page.image | relative_url %}
+  {% if page.image contains '.hero.jpg' %}
+  {% assign hero_800 = page.image | replace: '.hero.jpg', '.hero.800.jpg' | relative_url %}
+  <img class="article-hero-img"
+    src="{{ hero_src }}"
+    srcset="{{ hero_800 }} 800w, {{ hero_src }} 1200w"
+    sizes="100vw"
+    width="1200"
+    height="675"
+    alt="{{ page.title }}"
+    loading="eager"
+    fetchpriority="high">
+  {% else %}
+  <img class="article-hero-img" src="{{ hero_src }}" alt="{{ page.title }}" loading="eager" fetchpriority="high">
+  {% endif %}
+  {% endif %}
+
+  <div class="article-layout">
+    <article class="article-body">
+      <div class="article-content">
+        {{ content }}
+      </div>
+
+      {% if page.tags or page.categories %}
+      <div class="tags-row">
+        {% for tag in page.tags %}
+        <span class="tag-chip">{{ tag }}</span>
+        {% endfor %}
+        {% for cat in page.categories %}
+        <span class="tag-chip">{{ cat }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </article>
+  </div>
+
+  <div id="ad-after-intro">{% include ad-in-content.html %}</div>
+
+  {% include ad-bottom.html %}
+
+  {% if page.categories.first %}
+  {% assign current_cat = page.categories.first %}
+  <section class="similar-section">
+    <h2>Slični članci</h2>
+    <div class="recipe-grid">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% if post.url != page.url and post.categories contains current_cat and shown < 3 %}
+          {% include recipe-card.html post=post %}
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+</main>
+
+<script>
+(function() {
+  var adSlot = document.getElementById('ad-after-intro');
+  var content = document.querySelector('.article-content');
+  if (!adSlot || !content) return;
+  var firstH2 = content.querySelector('h2');
+  if (firstH2) {
+    firstH2.insertAdjacentElement('beforebegin', adSlot);
+  } else {
+    var paras = content.querySelectorAll('p');
+    if (paras.length > 1) {
+      paras[1].insertAdjacentElement('afterend', adSlot);
+    }
+  }
+  content.querySelectorAll('p').forEach(function(p) {
+    var strong = p.querySelector('strong');
+    if (!strong) return;
+    var label = strong.textContent.trim();
+    if (label.indexOf('Upozorenje') === 0 || label.indexOf('Napomena') === 0) {
+      p.classList.add('article-callout');
+    }
+  });
+})();
+</script>
