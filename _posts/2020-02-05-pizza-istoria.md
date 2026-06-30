@@ -6,75 +6,96 @@ author: slava b
 layout: article
 permalink: /pizza-istoria/
 published: true
+description: Od antičkog hleba na Mediteranu do napuljske picerije i Margherite — kratka istorija pizze i najpoznatijih vrsta (napoletana, siciliana, romana, margerita).
+about: Istorija pizze
+image: /wp-content/uploads/2020/02/pizza.istoria.hero.jpg
+og_image: /wp-content/uploads/2020/02/pizza.istoria.og.jpg
+card_image: /wp-content/uploads/2020/02/pizza.istoria.kartica.jpg
 categories:
    - pizza
 tags:
    - istorija
+   - pizza
+   - napoletana
+   - margherita
+item_list:
+  - name: Pizza napoletana
+    description: Beli luk (češnjak) i klasičan napuljski stil.
+  - name: Pizza siciliana
+    description: Ovčji sir, slana riba, masline, kapari i origano.
+  - name: Pizza romana
+    description: Mozzarella, slana riba i bosiljak.
+  - name: Pizza Margherita
+    description: Mozzarella, sir i bosiljak — boje talijanske zastave.
+sections:
+  - name: Počeci i reč pizza
+    id: pocetci
+  - name: Napulj i širenje
+    id: napulj
+  - name: Poznate pizze
+    id: poznate-pizze
+    items:
+      - name: Napoletana
+        id: napoletana
+      - name: Siciliana
+        id: siciliana
+      - name: Romana
+        id: romana
+      - name: Margherita
+        id: margherita
 ---
-Još **500 godina** pre nove ere narodi sredozemlja i mediterana (današnji prostor grčke) jeli su tanki opečeni hleb začinjen maslinovim uljem i začinima.
+Još pre naše ere narodi Mediterana jeli su tanki opečeni hleb začinjen uljem i začinima — preteču današnje pizze. Ispod je kratka istorija nastanka, prve picerije u Napulju i najpoznatijih vrsta.
 
-![grcka](/wp-content/uploads/2020/02/pizza.gr.jpg)
+## Počeci i reč pizza {#pocetci}
 
-Veruje se da su siromašni grčki doseljenici doneli ovaj hleb, prvu **_baka pizzu_** u Italiju.
+Pre oko 2500 godina na prostoru današnje Grčke jeli su tanki opečeni hleb sa začinima. Veruje se da su grčki doseljenici doneli taj običaj u Italiju — prvu „baka pizzu“.
 
-Ostaje zapisano da je reč "pizza" na lokalnom dijalektu latinskog jezika u okolini Sicilije i Calabrije označavala niske hlebne pogače.
+![Antička pizza — grčki preteča](/wp-content/uploads/2020/02/pizza.gr.jpg)
 
-Upravo od ovih **niskih hlebnih pogača** razvile su se današnje pizze.
+Na sicilijskom i kalabrijskom dijalektu latinskog reč *pizza* označavala je niske hlebne pogače. Od njih su se razvile današnje pizze — tanko testo, nadev, pečenje.
 
-U Napulju 1830. godine poslovala je prva pizeria kakve danas imamo. Pre te godine, pizerije su postojale samo kao tezge na otvorenom. Ova picerija radi i dan danas pod imenom: [Antica Pizzeria Port'Alba](https://en.wikipedia.org/wiki/Antica_Pizzeria_Port%27Alba){:rel="nofollow"}.
+## Napulj i širenje {#napulj}
 
-Pizza sa nadevom od maslinova ulja, seckana luka i soli, smatra se najstarijim poznatim načinom pripremanja pizze.
+U Napulju 1830. godine otvorena je prva picerija slična današnjima — [Antica Pizzeria Port'Alba](https://en.wikipedia.org/wiki/Antica_Pizzeria_Port%27Alba){:rel="nofollow"} radi i danas. Ranije su pizze bile tezge na ulici.
 
-Pizza se rodila kad i ideja da se sirovo **nepečeno** tanko testo za pogaču prvo začini lukom, sirom, slanom ribom, a potom peče.
+Najstariji poznati način: tanko testo začinjeno maslinovim uljem, lukom i solju, pa pečenje. Pizza je nastala kad se **nepečeno** testo prvo začini sirom, ribom ili povrćem, a zatim peče.
 
-Kako je prva pizzeria nastala u Napulju (Napoli), smatra se da je Napulj prestonica pice. Iz Napulja se pizza raširila po čitavom svetu.
+Napulj se smatra prestonicom pizze; odatle se jelo širilo svetom. U početku je bila hrana siromašnih — malo nadeva. Danas je pizza svetski simbol i ima posebne restorane.
 
-**Napomena**: u početku pizza je bila jelo najsiromašnijih slojeva, sa malo sastojaka u nadjevu. Danas, pizza spada u red privilegovanih jela koja čak ima i svoj tip restorana.
+**Napomena:** Za pripremu kod kuće pogledajte recept [kako se pravi pizza](/pizza/).
 
-## Poznate pizze 
+## Poznate pizze {#poznate-pizze}
 
-Većina najpoznatijih pizza dobila je ime prema području odakle potiču. 
+Većina čuvenih pizza nosi ime područja odakle potiču. Svaka picerija ima svoj recept, ali gotovo uvek u podlogu ide paradajz — seckan ili kao sos.
 
-Najčuvenije pizze su:
+**Napomena:** Recepti se razlikuju od mesta do mesta; ispod su tipične karakteristike, ne jedini „zvanični“ sastav.
 
-* pizza napoletana 
-* pizza siciliana
-* pizza romana
-* pizzai margerita
+### Napoletana {#napoletana}
 
-Napomena: Iako **svaka pizzeria** ima **poseban recept** pravljenja ovih _čuvenih_ pizza, koji je prilično sličan, ponekad postoje i značajne razlike. Nemojte se stoga iznenaditi.
+![Pizza napoletana](/wp-content/uploads/2020/02/pizza.napoletana.jpg)
 
-Ipak, postoji jedna konstanta. U pizzu gotovo uvek ide paradajz, najčešće seckan ili tečan.
+Klasičan napuljski stil — izrazit beli luk (češnjak) u nadevu uz paradajz i sir.
 
-### Napoletana
-![pizza siciliana](/wp-content/uploads/2020/02/pizza.napoletana.jpg)
+### Siciliana {#siciliana}
 
-**Pizzu napoletana**: karakteriše je beli luk (češnjak).
+![Pizza siciliana](/wp-content/uploads/2020/02/pizza.siciliana.jpg)
 
+Ribani ovčji sir, slana riba, crne i zelene masline, kapari i origano — bogatiji, salaniji profil.
 
-### Siciliana
+### Romana {#romana}
 
-![pizza siciliana](/wp-content/uploads/2020/02/pizza.siciliana.jpg)
+Mozzarella, slana riba i bosiljak — jednostavniji rimski stil.
 
-**Pizza siciliana**: ribani ovčji sir, slana riba, crne masline, zelene masline, kapari, origano.
+**Mozzarella** je elastičan sir od mleka bivola ili krave; pravi se zagrevanjem sira u vrućoj vodi i mešanjem dok ne postane rastegljiv.
 
-### Romana
-**Pizza romana**: mozzarella, slana riba, bosiljak.
+![Mozzarella](/wp-content/uploads/2020/02/pizza.mozzarella.jpg)
 
-Napomena:  **mozzarella**, je speicjalan sir koji se pravio od bivoljeg, ili kravljeg mleka tako da bude elastičan (rastegljiv). Može se praviti i od komada sira koji se ubace u vrelu vodu i mešaju što daje rastegljivost siru.
+### Margherita {#margherita}
 
-![mozzarella](/wp-content/uploads/2020/02/pizza.mozzarella.jpg)
+![Pizza Margherita](/wp-content/uploads/2020/02/pizza.margerita.jpg)
 
-### Margerita
+Mozzarella, ribani ovčji sir i mlad bosiljak. Legenda vezuje nastanak za posetu kralja Umberta I i kraljice Margherite Napulju 1889. — pizzaiolo Raffaele Esposito navodno je složio nadev u bojama talijanske zastave: crvena (paradajz), belo-žuta (sir), zelena (bosiljak).
 
-![margerita](/wp-content/uploads/2020/02/pizza.margerita.jpg)
+![Boje pizze Margherita — talijanska zastava](/wp-content/uploads/2020/02/pizza.flag.jpg)
 
-**Pizza margerita**: mozzarella, ribani ovčji sir,
-mlad bosiljak.
-
-**Napomena**: najslavnijom pizzom smatra se pizza margerita. Za nju legenda kaže da je nastala 9.6.1889. godine, za vrijeme posjete Napulju talijanskog kralja Umberta prvog i kraljice Margherite. Prema legendi, kraljevski par zaželio pizzu. Njima su u čast, tada najčuveniji napuljski _**pizzaiolo**_ (pekar pizza), don Raffaele Esposi i njegova supruga donna Rosa su smislili novu pizzu. Njen je nadjev bio obojen u skladu s talijanskom zastavom. 
-
-Pizza margerita ima tri prevladavajuće boje: crvenu od paradaza (rajčice), belo-žutu od sira i zelenu od svježeg bosiljka.
-
-![boje pizze](/wp-content/uploads/2020/02/pizza.flag.jpg)
-
+Margherita se danas smatra najslavnijom pizzom na svetu.
