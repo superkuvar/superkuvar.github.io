@@ -3,3 +3,17 @@ _site
 .jekyll-cache
 Gemfile.lock
 *.gem
+Gemfile
+preskok.txt
+renoviranje.txt
+scripts/__pycache__/
+scripts/corbe_batch.log
+scripts/corbe_renovirane.txt
+scripts/pending_recepti.txt
+scripts/renovate_and_push.py
+scripts/renovate_posts.py
+scripts/renovate_progress.txt
+scripts/renovate_push.log
+scripts/renovirani-urlovi.txt
+scripts/renovirani-za-proveru.txt
+scripts/torte_heroes.py
