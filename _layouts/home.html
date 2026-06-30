@@ -16,14 +16,11 @@ layout: default
 <main class="container">
   <h2 class="section-title">Najnoviji recepti</h2>
   <div class="recipe-grid">
-    {% assign shown = 0 %}
-    {% for post in site.posts %}
-      {% if post.layout == 'article' %}{% continue %}{% endif %}
-      {% if post.categories contains 'zdravlje' %}{% continue %}{% endif %}
-      {% if shown >= 12 %}{% break %}{% endif %}
+    {% assign recipes = site.posts | where_exp: "item", "item.layout != 'article'" %}
+    {% for post in recipes limit:12 %}
       {% include recipe-card.html post=post %}
-      {% assign shown = shown | plus: 1 %}
     {% endfor %}
   </div>
+  <p class="home-articles-link"><a href="{{ '/clanci/' | relative_url }}">Članci o zdravlju i ishrani →</a></p>
   {% include ad-bottom.html %}
 </main>

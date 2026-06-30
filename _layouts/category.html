@@ -3,6 +3,16 @@ layout: default
 ---
 
 {% assign cat_posts = site.posts | where_exp: "item", "item.categories contains page.category_name" %}
+{% if page.category_name == 'zdravlje' %}
+{% assign cat_posts = cat_posts | where_exp: "item", "item.layout == 'article'" %}
+{% else %}
+{% assign cat_posts = cat_posts | where_exp: "item", "item.layout != 'article'" %}
+{% endif %}
+{% if page.category_name == 'zdravlje' %}
+{% assign item_label = 'članaka' %}
+{% else %}
+{% assign item_label = 'recepata' %}
+{% endif %}
 
 <section class="category-hero">
   <div class="category-hero-inner">
@@ -16,7 +26,7 @@ layout: default
     <p>{{ page.category_description }}</p>
     {% endif %}
     <div class="category-stats">
-      <span>🍲 {{ cat_posts.size }} recepata</span>
+      <span>{% if page.category_name == 'zdravlje' %}📖{% else %}🍲{% endif %} {{ cat_posts.size }} {{ item_label }}</span>
     </div>
   </div>
 </section>
@@ -26,7 +36,7 @@ layout: default
     {% include category-sidebar.html %}
     <div class="category-main">
       <div class="category-toolbar">
-        <p class="result-count"><strong>{{ cat_posts.size }}</strong> recepata u kategoriji</p>
+        <p class="result-count"><strong>{{ cat_posts.size }}</strong> {{ item_label }} u kategoriji</p>
       </div>
       <div class="recipe-grid" id="category-recipe-grid">
         {% for post in cat_posts %}

@@ -166,7 +166,7 @@ layout: default
     <div class="recipe-grid">
       {% assign shown = 0 %}
       {% for post in site.posts %}
-        {% if post.url != page.url and post.categories contains current_cat and shown < 3 %}
+        {% if post.url != page.url and post.layout == 'article' and post.categories contains current_cat and shown < 3 %}
           {% include recipe-card.html post=post %}
           {% assign shown = shown | plus: 1 %}
         {% endif %}

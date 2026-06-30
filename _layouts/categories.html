@@ -21,12 +21,18 @@ layout: default
     {% if cat.group == group %}
     {% assign cat_count = 0 %}
     {% for post in site.posts %}
-      {% if post.categories contains cat.name %}{% assign cat_count = cat_count | plus: 1 %}{% endif %}
+      {% if post.categories contains cat.name %}
+        {% if cat.slug == 'zdravlje' %}
+          {% if post.layout == 'article' %}{% assign cat_count = cat_count | plus: 1 %}{% endif %}
+        {% else %}
+          {% if post.layout != 'article' %}{% assign cat_count = cat_count | plus: 1 %}{% endif %}
+        {% endif %}
+      {% endif %}
     {% endfor %}
     <a href="{{ '/kategorija/' | append: cat.slug | append: '/' | relative_url }}" class="category-tile">
       <div class="icon">{{ cat.icon }}</div>
       <h3>{{ cat.title }}</h3>
-      <span class="count">{{ cat_count }} recepata</span>
+      <span class="count">{{ cat_count }} {% if cat.slug == 'zdravlje' %}članaka{% else %}recepata{% endif %}</span>
     </a>
     {% endif %}
     {% endfor %}

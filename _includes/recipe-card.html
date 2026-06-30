@@ -12,8 +12,12 @@
   <div class="recipe-card-body">
     <h3>{{ include.post.title }}</h3>
     <div class="meta">
+      {% if include.post.layout == 'article' %}
+      📖 članak
+      {% else %}
       {% if include.post.total_time %}⏱ {{ include.post.total_time | replace: 'PT', '' | replace: 'H', ' h ' | replace: 'M', ' min' }}{% endif %}
       {% if include.post.servings %} · {{ include.post.servings }}{% endif %}
+      {% endif %}
     </div>
     {% if include.post.categories.first %}
     <span class="tag">{{ include.post.categories.first }}</span>

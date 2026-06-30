@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% assign articles = site.posts | where_exp: "item", "item.layout == 'article'" %}
+
+<section class="category-hero">
+  <div class="category-hero-inner">
+    <nav class="breadcrumb" style="padding:0 0 0.75rem; color:rgba(255,255,255,0.75);">
+      <a href="{{ '/' | relative_url }}" style="color:rgba(255,255,255,0.75);">Početna</a> →
+      <span style="color:#fff;">Članci</span>
+    </nav>
+    <h1>Članci</h1>
+    <p>Informativni tekstovi o zdravlju, ishrani, istoriji i praktičnim savetima — bez recepta za kuvanje.</p>
+    <div class="category-stats">
+      <span>📖 {{ articles.size }} članaka</span>
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="recipe-grid">
+    {% for post in articles %}
+      {% include recipe-card.html post=post %}
+    {% endfor %}
+  </div>
+  {% include ad-bottom.html %}
+</main>
