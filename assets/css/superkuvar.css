@@ -195,6 +195,12 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
 }
 .pill:hover { background: var(--orange); border-color: var(--orange); color: white; text-decoration: none; }
 
+.home-articles-link {
+  text-align: center;
+  margin: 1.5rem 0 0;
+  font-size: 1.05rem;
+}
+
 .section-title {
   font-family: var(--font-display);
   font-size: 1.5rem;
@@ -894,6 +900,44 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
 
 .article-content li img {
   margin: 0.75rem 0 0.25rem;
+}
+
+.article-toc {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.35rem;
+  margin: 0 0 1.75rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.article-toc > strong,
+.article-toc > p > strong:first-child {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--brown);
+  display: block;
+  margin-bottom: 0.65rem;
+}
+
+.article-toc ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.95rem;
+}
+
+.article-toc li {
+  margin-bottom: 0.35rem;
+}
+
+.article-toc a {
+  color: var(--brown-muted);
+  text-decoration: none;
+}
+
+.article-toc a:hover {
+  color: var(--orange);
+  text-decoration: underline;
 }
 
 .article-content .article-callout,
