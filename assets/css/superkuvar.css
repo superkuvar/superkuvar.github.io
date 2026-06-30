@@ -710,10 +710,60 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
 }
 
 .article-layout {
-  padding: 1.75rem 0 2.5rem;
+  padding: 2rem 0 3rem;
 }
 
-.article-body {
+.article-panel {
+  min-width: 0;
+}
+
+.article-sidebar ul.article-sidebar-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.article-sidebar .sidebar-section {
+  padding: 0;
+  border-bottom: none;
+}
+
+.article-sidebar .sidebar-section > a {
+  display: block;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--cream-dark);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--brown);
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.article-sidebar .sidebar-section > a:hover {
+  color: var(--orange);
+}
+
+.article-sidebar .sidebar-section ul {
+  margin: 0;
+  padding: 0 0 0.35rem 0.75rem;
+  list-style: none;
+}
+
+.article-sidebar .sidebar-section ul li a {
+  display: block;
+  padding: 0.3rem 0;
+  font-size: 0.88rem;
+  color: var(--text-light);
+  text-decoration: none;
+  line-height: 1.4;
+  border-bottom: none;
+}
+
+.article-sidebar .sidebar-section ul li a:hover {
+  color: var(--orange);
+}
+
+.article-layout.recipe-layout--single .article-content {
   max-width: 760px;
 }
 
@@ -777,44 +827,6 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
 
 .article-content li img {
   margin: 0.75rem 0 0.25rem;
-}
-
-.article-toc {
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.15rem 1.35rem;
-  margin: 0 0 1.75rem;
-  box-shadow: var(--shadow-sm);
-}
-
-.article-toc > strong,
-.article-toc > p > strong:first-child {
-  font-family: var(--font-display);
-  font-size: 1rem;
-  color: var(--brown);
-  display: block;
-  margin-bottom: 0.65rem;
-}
-
-.article-toc ul {
-  margin: 0;
-  padding-left: 1.1rem;
-  font-size: 0.95rem;
-}
-
-.article-toc li {
-  margin-bottom: 0.35rem;
-}
-
-.article-toc a {
-  color: var(--brown-muted);
-  text-decoration: none;
-}
-
-.article-toc a:hover {
-  color: var(--orange);
-  text-decoration: underline;
 }
 
 .article-content .article-callout,

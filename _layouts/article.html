@@ -114,9 +114,30 @@ layout: default
   {% endif %}
   {% endif %}
 
-  <div class="article-layout">
-    <article class="article-body">
-      <div class="article-content">
+  <div class="recipe-layout article-layout{% unless page.sections %} recipe-layout--single{% endunless %}">
+
+    {% if page.sections %}
+    <aside class="ingredients-panel article-sidebar">
+      <h2>Sadržaj</h2>
+      <ul class="article-sidebar-nav">
+        {% for section in page.sections %}
+        <li class="sidebar-section">
+          <a href="#{{ section.id }}">{{ section.name }}</a>
+          {% if section.items %}
+          <ul>
+            {% for item in section.items %}
+            <li><a href="#{{ item.id }}">{{ item.name }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <section class="steps-panel article-panel">
+      <div class="article-content recipe-content">
         {{ content }}
       </div>
 
@@ -130,7 +151,8 @@ layout: default
         {% endfor %}
       </div>
       {% endif %}
-    </article>
+    </section>
+
   </div>
 
   <div id="ad-after-intro">{% include ad-in-content.html %}</div>

@@ -2,7 +2,7 @@ SUPERKUVAR.COM — UPUTSTVO ZA ČLANKE (ARTICLE)
 ==============================================
 
 Cilj: informativni tekstovi (zdravlje, istorija, vodiči) sa pravom SEO šemom,
-lepim responsive izgledom — bez lažnog Recipe markupa.
+responsive rasporedom kao kod recepta (sidebar + tekst) — bez lažnog Recipe markupa.
 
 Repo:     /home/dj/repos/superkuvar.github.io
 Layout:   _layouts/article.html
@@ -19,9 +19,27 @@ KADA KORISTITI ČLANAK UMESTO RECEPTA
   Enciklopedija, zdravlje           Jelo ili piće za pripremu
   Više sekcija (##)                 Korak 1–N
   JSON-LD: Article                  JSON-LD: Recipe
+  Sidebar: sections (Sadržaj)       Sidebar: ingredients (Potrebno je)
 
   Primeri članaka: otrovne pečurke, silicijum, pizza-istoria
   Primeri vodiča (i dalje post): kafa, pizza (više varijanti)
+
+
+RASPORED STRANICE (KAO RECEPT)
+------------------------------
+
+  Desktop: grid 300px + 1fr (ista .recipe-layout klasa)
+
+    ┌─────────────────┬──────────────────────────────┐
+    │  Sadržaj        │  Tekst članka                │
+    │  (sticky)       │  ## sekcije, slike, napomene │
+    └─────────────────┴──────────────────────────────┘
+
+  Mobilni: jedna kolona — sidebar iznad teksta (kao „Potrebno je“)
+
+  Analogija:
+    recept  →  ingredients:  + panel „Potrebno je“
+    članak  →  sections:      + panel „Sadržaj“
 
 
 YAML — OBAVEZNO
@@ -36,9 +54,36 @@ YAML — OBAVEZNO
   categories:      [zdravlje]  (ili druga kategorija)
   tags:            konkretne reči (pecurke, toksini…)
 
+  sections:        navigacija u levom panelu (obavezno za duže članke)
+    - name: Glavna sekcija
+      id: anchor-id          ← mora odgovarati ## naslovu u telu
+      items:                 ← opciono, podsekcije (###)
+        - name: Podsekcija
+          id: podsekcija-id
+
   Opciono (SEO schema):
   about:           kratka tema članka (npr. "Otrovne pečurke")
   item_list:       lista stavki za ItemList JSON-LD (vidi primer ispod)
+
+
+PRIMER sections (otrovne pečurke)
+---------------------------------
+
+  sections:
+    - name: Toksini
+      id: toksini
+      items:
+        - name: Amatoksini
+          id: amatoksini
+        - name: Muskarin
+          id: muskarin
+    - name: Najotrovnije pečurke u Srbiji
+      id: najotrovnije-pecurke-u-srbiji
+    - name: Zaključak
+      id: zaključak
+
+  id mora biti isti kao Kramdown anchor iz ## naslova u telu.
+  Provera: klik na link u sidebaru skroluje na odgovarajući naslov.
 
 
 YAML — ZABRANJENO
@@ -57,16 +102,14 @@ YAML — ZABRANJENO
 Telo članka
 -----------
 
-  Struktura:
-
-    <nav class="article-toc"> … ručni sadržaj … </nav>   (opciono)
+  Struktura (samo desna kolona — levi panel dolazi iz sections: u YAML):
 
     Uvodni pasus (1–3 rečenice) — NE ponavljati description reč po reč
 
     ## Glavna sekcija {#anchor-id}
     Tekst…
 
-    ### Podsekcija
+    ### Podsekcija {#pod-anchor}
     Tekst…
 
     ## Sledeća sekcija {#anchor-2}
@@ -76,10 +119,11 @@ Telo članka
 
   Pravila:
   - Naslov stranice (h1) dolazi iz layouta — u telu koristiti ## i ###, ne #
-  - Anchori: {#id} na kraj ## naslova ili pustiti Kramdown da generiše iz naslova
+  - Anchori: {#id} na kraj ## naslova; id uskladiti sa sections: u YAML
+  - Sadržaj (TOC) ide u YAML sections:, NE u telo članka
   - Slike u tekstu: ![opis](/wp-content/uploads/.../fajl.jpg)
-  - Bez Korak 1, bez „Potrebno je“, bez AdSense skripti u telu
-  - Liste, tabele i citati — slobodno
+  - Bez Korak 1, bez liste sastojaka u telu, bez AdSense skripti
+  - Liste, tabele i citati — slobodno u tekstu
 
 
 JSON-LD (automatski iz layouta)
@@ -118,17 +162,18 @@ SLIKE (isto kao recepti — vidi slike.txt)
 RESPONSIVE IZGLED (article.html + CSS)
 --------------------------------------
 
-  • Jedna kolona, max-width ~760px za tekst (čitljivost)
+  • Isti grid kao recept: .recipe-layout (300px sidebar + tekst)
+  • Sidebar: .ingredients-panel.article-sidebar, sticky na desktopu
+  • Naslov panela: „Sadržaj“ (umesto „Potrebno je“)
+  • Bez sections: .recipe-layout--single, tekst max ~760px
   • Hero 16:9 pun širina kontejnera, srcset na .hero.jpg
-  • article-toc: kartica sa sadržajem, sticky na desktopu (opciono)
   • article-meta-bar: autor, datum, procena čitanja
-  • H2 sekcije: razmak, Fraunces, tanka linija iznad (osim prve)
-  • H3 podsekcije: manji naslov, više razmaka iznad
-  • Slike: zaobljeni uglovi, senka; figure.species-card za vrstu + slika
-  • Upozorenje/Napomena: narandžasti blok (kao Legir kod recepta)
+  • H2/H3 u .article-content: Fraunces, razmaci, scroll-margin za anchor
+  • species-list: kartice vrsta + slika (responsive grid)
+  • Upozorenje/Napomena: narandžasti callout blok
   • tag-chip red na dnu
   • „Slični članci“ — 3 kartice iz iste kategorije
-  • Reklame: leaderboard (header), in-content (posle uvoda), bottom — kao recept
+  • Reklame: leaderboard, in-content (posle uvoda), bottom
 
 
 UNIVERZALNI UPIT (kopiraj u Grok)
@@ -142,34 +187,32 @@ UNIVERZALNI UPIT (kopiraj u Grok)
 
   ZADATAK:
   - layout: article
-  - YAML: description, image set, about, item_list (ako ima listu)
-  - Telo: ## sekcije, bez Recipe polja
+  - YAML: description, sections, image set, about, item_list (ako ima listu)
+  - Telo: ## sekcije (anchor id = sections.id), bez TOC u telu
   - NE menjaj: title, permalink, date, id
-  - Hero set iz postojeće slike (slike.txt)
   - Commit + push
 
   ZABRANJENO:
   - ingredients / instructions / prep_time
+  - TOC u markdown telu (ide u sections:)
   - layout: post sa praznim Recipe schema
   - AdSense u telu
-  - description koji je samo „Sadržaj: …“
 
 
 PROVERA PRE COMMITA
 -------------------
 
   1. layout: article u front matter
-  2. description je pravi uvod (ne TOC)
-  3. Nema Recipe u page source (View Source → application/ld+json)
-  4. Article + eventualno ItemList prisutni
-  5. Hero + og + kartica u YAML
-  6. Mobilni: TOC i tekst čitljivi, slike ne prelivaju
+  2. sections: u YAML, linkovi rade (#id)
+  3. description je pravi uvod (ne TOC)
+  4. Nema Recipe u page source
+  5. Desktop: sticky sidebar; mobilni: sidebar iznad teksta
+  6. Hero + og + kartica u YAML
 
 
 GIT
 ---
 
-  git add _layouts/article.html _posts/....md assets/css/superkuvar.css
-  git add wp-content/uploads/.../slug.hero.jpg ...
-  git commit -m "Članak: [naslov] — article layout i SEO"
+  git add _layouts/article.html _posts/....md assets/css/superkuvar.css superkuvar.art.md
+  git commit -m "Članak: sidebar sections kao Potrebno je"
   git push origin master

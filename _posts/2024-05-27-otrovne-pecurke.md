@@ -27,23 +27,27 @@ item_list:
     description: Panter pupavka — neurološki simptomi, halucinacije, koma.
   - name: Gyromitra esculenta
     description: Lažna jestiva — toksin se pretvara u metil-hidrazin; oštećenje jetre i bubrega.
+sections:
+  - name: Toksini
+    id: toksini
+    items:
+      - name: Amatoksini
+        id: amatoksini
+      - name: Muskarin
+        id: muskarin
+      - name: Orelanin
+        id: orelanin
+      - name: Psilocibin i psilocin
+        id: psilocibin-i-psilocin
+      - name: Gyromitrin
+        id: gyromitrin
+      - name: Coprine
+        id: coprine
+  - name: Najotrovnije pečurke u Srbiji
+    id: najotrovnije-pecurke-u-srbiji
+  - name: Zaključak
+    id: zaključak
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Toksini](#toksini)
-  - [Amatoksini](#amatoksini)
-  - [Muskarin](#muskarin)
-  - [Orelanin](#orelanin)
-  - [Psilocibin i psilocin](#psilocibin-i-psilocin)
-  - [Gyromitrin](#gyromitrin)
-  - [Coprine](#coprine)
-- [Najotrovnije pečurke u Srbiji](#najotrovnije-pecurke-u-srbiji)
-- [Zaključak](#zaključak)
-
-</nav>
-
 Pečurke mogu biti otrovne zbog različitih toksina koje sadrže. Ispod su najčešći otrovi u gljivama koje se mogu naći u prirodi, zatim najopasnije vrste u Srbiji i kratki zaključak za bezbedno branje.
 
 ## Toksini {#toksini}
