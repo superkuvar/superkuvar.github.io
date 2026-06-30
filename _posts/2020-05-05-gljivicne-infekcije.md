@@ -18,17 +18,14 @@ tags:
   - kandida
   - prevencija
   - zdravlje
+sections:
+  - name: Lečenje i prevencija kandidijaze
+    id: lečenje-i-prevencija-kandidijaze
+  - name: Prevencija tinea infekcija
+    id: prevencija-tinea-infekcija
+  - name: Saveti za svakodnevnu prevenciju
+    id: saveti-za-svakodnevnu-prevenciju
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Lečenje i prevencija kandidijaze](#lečenje-i-prevencija-kandidijaze)
-- [Prevencija tinea infekcija](#prevencija-tinea-infekcija)
-- [Saveti za svakodnevnu prevenciju](#saveti-za-svakodnevnu-prevenciju)
-
-</nav>
-
 Gljivične infekcije su čest problem, posebno kod žena. U nastavku su pregled najčešćih oblika, metode lečenja i saveti za svakodnevnu prevenciju.
 
 Gljivične infekcije su čest problem, posebno kod žena, zbog čega je važno poznavati efikasne metode lečenja i prevencije. Jedan od najčešćih oblika gljivične infekcije je kandidijaza, uzrokovana gljivicom Candida albicans. Ova gljivica se najčešće nalazi u vlažnim delovima tela, kao što su usta, vagina, ili kožni nabori.

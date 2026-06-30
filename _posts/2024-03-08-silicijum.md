@@ -18,20 +18,33 @@ tags:
   - kosti
   - krvni sudovi
   - kolagen
+sections:
+  - name: Uvod
+    id: uvod
+  - name: Zdrave kosti
+    id: zdrave-kosti
+  - name: Krvni sudovi
+    id: krvni-sudovi
+  - name: Koža, kosa i nokti
+    id: koza-kosa-nokti
+  - name: Unos silicijuma
+    id: unos-silicijuma
+    items:
+      - name: Ishrana
+        id: ishrana-bogata-silicijumom
+      - name: Voda
+        id: voda-silicijum
+      - name: Suplementi
+        id: suplementi-silicijum
+      - name: Kozmetika
+        id: kozmetika-silicijum
+      - name: Bez procesuirane hrane
+        id: bez-procesuirane-hrane
+      - name: Priprema hrane
+        id: priprema-hrane
+  - name: Zaključak
+    id: zakljucak
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Uvod](#uvod)
-- [Kako silicijum održava zdrave kosti?](#kako-silicijum-održava-zdrave-kosti)
-- [Kako silicijum utiče na elastičnost krvnih sudova?](#kako-silicijum-utiče-na-elastičnost-krvnih-sudova)
-- [Kako silicijum pomaže zdravlje kože, kose i noktiju](#kako-silicijum-pomaže-zdravlje-kože-kose-i-noktiju)
-- [Kako uneti dovoljno silicijuma u ljudski organizam](#kako-uneti-dovoljno-silicijuma-u-ljudski-organizam)
-- [Zaključak](#zaključak)
-
-</nav>
-
 Silicijum je mineral koji često prolazi neprimećen, a ključan je za kosti, krvne sudove i vezivno tkivo. U nastavku su njegove uloge i praktični saveti za unos.
 
 ![Silicium](/wp-content/uploads/2024/03/silicium.webp)
@@ -40,7 +53,7 @@ Silicijum je mineral koji često prolazi neprimećen, a ključan je za kosti, kr
 
 Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel="nofollow"} pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
 
-## Kako silicijum održava zdrave kosti? {#kako-silicijum-održava-zdrave-kosti}
+## Kako silicijum održava zdrave kosti? {#zdrave-kosti}
 
 Silicijum, iako često zanemaren, igra značajnu ulogu u održavanju zdravlja kostiju. Ovaj mineral je ključan za razvoj i održavanje čvrste i zdrave kostne strukture. Uloga silicijuma u kostima se odvija na dva primarna načina.
 
@@ -50,7 +63,7 @@ Drugo, silicijum pomaže u mineralizaciji kostiju, procesu koji učvršćuje kos
 
 S obzirom na ove efekte, jasno je da silicijum predstavlja važan element u održavanju zdravlja kostiju. Redovni unos silicijuma kroz ishranu ili suplemente može doprineti zdravlju kostiju i smanjiti rizik od bolesti povezanih sa kostima, kao što je osteoporoza.
 
-## Kako silicijum utiče na elastičnost krvnih sudova? {#kako-silicijum-utiče-na-elastičnost-krvnih-sudova}
+## Kako silicijum utiče na elastičnost krvnih sudova? {#krvni-sudovi}
 
 Silicijum ima značajnu ulogu u održavanju zdravlja kardiovaskularnog sistema, posebno kada je u pitanju elastičnost krvnih sudova. Ovaj element doprinosi snazi i fleksibilnosti krvnih sudova, što je ključno za normalno funkcionisanje cirkulatornog sistema. Silicijum se nalazi u vezivnom tkivu krvnih sudova, gde pomaže u sintezi kolagena i elastina. Ova dva proteina su ključna za održavanje strukture i elastičnosti krvnih sudova.
 
@@ -58,7 +71,7 @@ Sposobnost krvnih sudova da se šire i skupljaju, poznata kao vaskularna reaktiv
 
 Silicijum takođe igra ulogu u prevenciji akumulacije plaka u arterijama. Plak može da uzrokuje aterosklerozu, stanje koje sužava i otežava protok krvi kroz arterije. Redovni unos silicijuma kroz ishranu može pomoći u očuvanju elastičnosti krvnih sudova i smanjiti rizik od kardiovaskularnih bolesti. Ne zaboravimo da je plak u arterijama najveći ubica ljudi na planeti.
 
-## Kako silicijum pomaže zdravlje kože, kose i noktiju {#kako-silicijum-pomaže-zdravlje-kože-kose-i-noktiju}
+## Kako silicijum pomaže zdravlje kože, kose i noktiju {#koza-kosa-nokti}
 
 Silicijum je, kako smo već naveli, vitalan za sintezu kolagena, proteina koji je od suštinskog značaja za zdravlje i snagu kože, kose i noktiju. On doprinosi elastičnosti i čvrstoći kože, smanjujući vidljive znake starenja kao što su bore i opuštenost kože. Takođe, on pomaže u održavanju vlažnosti kože, što je važno za očuvanje njenog mladolikog izgleda.
 
@@ -66,7 +79,7 @@ Kod kose, silicijum doprinosi njenom sjaju, snazi i zdravom rastu. Nedostatak si
 
 Redovna suplementacija silicijumom ili unos kroz ishranu može doprineti zdravlju i lepoti kože, kose i noktiju. Ovo čini silicijum važnim elementom ne samo za unutrašnje zdravlje, već i za spoljašnji izgled.
 
-## Kako uneti dovoljno silicijuma u ljudski organizam {#kako-uneti-dovoljno-silicijuma-u-ljudski-organizam}
+## Kako uneti dovoljno silicijuma u ljudski organizam {#unos-silicijuma}
 
 Postoji nekoliko načina da se obezbedi adekvatan unos silicijuma:
 
@@ -81,19 +94,19 @@ Najbolji način za unos silicijuma je preko hrane. Namirnice bogate silicijumom 
 
 Uključivanje ovih namirnica u svakodnevnu ishranu može znatno doprineti povećanju unosa silicijuma.
 
-### Piti vodu obogaćenu silicijumom {#piti-vodu-obogaćenu-silicijumom}
+### Piti vodu obogaćenu silicijumom {#voda-silicijum}
 
 Neki izvori pitke vode prirodno sadrže visoke nivoe silicijuma. Istraživanja su pokazala da je konzumiranje vode obogaćene silicijumom efikasan način da se poveća njegov unos.
 
-### Suplementi sa silicijumom {#suplementi-sa-silicijumom}
+### Suplementi sa silicijumom {#suplementi-silicijum}
 
 Za osobe koje možda ne dobijaju dovoljno silicijuma iz svoje ishrane, suplementi mogu biti korisna opcija. Silicijum se često nalazi u suplementima u obliku silicijum-dioksida ili kao horsetail (preslica) ekstrakt. Važno je posavetovati se sa zdravstvenim radnikom pre početka bilo kakve suplementacije.
 
-### Korišćenje kozmetičkih proizvoda sa silicijumom {#korišćenje-kozmetičkih-proizvoda-sa-silicijumom}
+### Korišćenje kozmetičkih proizvoda sa silicijumom {#kozmetika-silicijum}
 
 Za lokalnu upotrebu, postoje razni kozmetički proizvodi obogaćeni silicijumom koji mogu pomoći u poboljšanju zdravlja kože i kose.
 
-### Izbegavanje procesuirane hrane {#izbegavanje-procesuirane-hrane}
+### Izbegavanje procesuirane hrane {#bez-procesuirane-hrane}
 
 Procesuirana hrana često sadrži manje minerala, uključujući silicijum. Konzumiranje sveže, neprerađene hrane može pomoći u očuvanju viših nivoa silicijuma.
 
@@ -101,6 +114,6 @@ Procesuirana hrana često sadrži manje minerala, uključujući silicijum. Konzu
 
 Neki načini pripreme mogu smanjiti nivo silicijuma u hrani. Na primer, ljuštenje povrća može ukloniti značajne količine silicijuma, pa je preporučljivo jesti povrće sa korom kad god je to moguće.
 
-## Zaključak {#zaključak}
+## Zaključak {#zakljucak}
 
 Uzimajući u obzir sve ove aspekte, ključno je usmeriti se na uravnoteženu ishranu koja prirodno sadrži silicijum, uz mogućnost upotrebe suplemenata ako postoji potreba. Redovno konsultovanje sa zdravstvenim profesionalcima može pomoći u određivanju optimalnog unosa silicijuma za individualne potrebe.

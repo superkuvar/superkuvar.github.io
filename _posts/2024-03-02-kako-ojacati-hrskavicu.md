@@ -18,20 +18,20 @@ tags:
   - zglobovi
   - kolagen
   - zdravlje
+sections:
+  - name: Uravnotežena ishrana
+    id: uravnotežena-ishrana
+  - name: Hrana bogata kolagenom
+    id: hrana-bogata-kolagenom
+  - name: Omega-3 masne kiseline
+    id: omega-3-masne-kiseline
+  - name: Redovna fizička aktivnost
+    id: redovna-fizička-aktivnost
+  - name: Održavanje zdrave telesne težine
+    id: održavanje-zdrave-telesne-težine
+  - name: Suplementi
+    id: suplementi
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Uravnotežena ishrana](#uravnotežena-ishrana)
-- [Hrana bogata kolagenom](#hrana-bogata-kolagenom)
-- [Omega-3 masne kiseline](#omega-3-masne-kiseline)
-- [Redovna fizička aktivnost](#redovna-fizička-aktivnost)
-- [Održavanje zdrave telesne težine](#održavanje-zdrave-telesne-težine)
-- [Suplementi](#suplementi)
-
-</nav>
-
 Da bi se ojačala hrskavica, važno je usvojiti zdrave životne navike i hraniti se pravilno. Evo nekoliko proverenih saveta.
 
 ## Uravnotežena ishrana {#uravnotežena-ishrana}

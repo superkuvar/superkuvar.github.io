@@ -18,22 +18,24 @@ tags:
   - vitamin B3
   - holesterol
   - zdravlje
+sections:
+  - name: Šta postiže naicin
+    id: šta-postiže-naicin
+  - name: Statini
+    id: statini
+  - name: Premalo naicina
+    id: premalo-naicina
+  - name: Prevelika doza
+    id: prevelika-doza
+  - name: Gde naći niacin?
+    id: gde-naći-niacin
+  - name: Maksimizacija dejstva niacina
+    id: maksimizacija-dejstva-niacina
+  - name: Dodatak ishrani Spirulina
+    id: dodatak-ishrani-spirulina
+  - name: Zaključak
+    id: zaključak
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Šta postiže naicin](#šta-postiže-naicin)
-- [Statini](#statini)
-- [Premalo naicina](#premalo-naicina)
-- [Prevelika doza](#prevelika-doza)
-- [Gde naći niacin?](#gde-naći-niacin)
-- [Maksimizacija dejstva niacina](#maksimizacija-dejstva-niacina)
-- [Dodatak ishrani Spirulina](#dodatak-ishrani-spirulina)
-- [Zaključak](#zaključak)
-
-</nav>
-
 Niacin je vitamin B3 koji igra važnu ulogu u metabolizmu i zdravlju krvnih sudova. U nastavku su pregled dejstva, izvori u ishrani i napomene o doziranju — uz podsticaj da se pre suplementacije konsultujete sa lekarom.
 
 Niacin je lek za sprečavanje srčanih udara.

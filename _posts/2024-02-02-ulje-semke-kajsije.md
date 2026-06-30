@@ -18,19 +18,18 @@ tags:
   - rast kose
   - nega kože
   - zdravlje
+sections:
+  - name: Ulje semenke kajsije za rast kose
+    id: ulje-semenke-kajsije-za-rast-kose
+  - name: Antioksidacija i podmladjivanje
+    id: antioksidacija-i-podmladjivanje
+  - name: Krvni sudovi
+    id: krvni-sudovi
+  - name: Vitamini i minerali
+    id: vitamini-i-minerali
+  - name: Imunitet
+    id: imunitet
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Ulje semenke kajsije za rast kose](#ulje-semenke-kajsije-za-rast-kose)
-- [Antioksidacija i podmladjivanje](#antioksidacija-i-podmladjivanje)
-- [Krvni sudovi](#krvni-sudovi)
-- [Vitamini i minerali](#vitamini-i-minerali)
-- [Imunitet](#imunitet)
-
-</nav>
-
 Ulje semenke kajsije sve više dobija na popularnosti kao prirodno sredstvo za negu kose i kože. U nastavku su glavne prednosti, sastav i načini upotrebe.
 
 ## Ulje semenke kajsije za rast kose {#ulje-semenke-kajsije-za-rast-kose}

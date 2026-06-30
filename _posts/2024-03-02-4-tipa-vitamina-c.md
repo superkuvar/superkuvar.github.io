@@ -27,18 +27,16 @@ item_list:
     description: Puferovani vitamin C — manje kiseo, skuplji od askorbinske kiseline.
   - name: Liposomalni vitamin C
     description: Obavijen liposomom — najbolja apsorpcija, ali i najskuplji.
+sections:
+  - name: Vitamin C iz celih namirnica
+    id: vitamin-c-iz-celih-namirnica
+  - name: Askorbinska kiselina
+    id: askorbinska-kiselina
+  - name: Mineralni askorbat
+    id: mineralni-askorbat
+  - name: Liposomalni vitamin C
+    id: liposomalni-vitamin-c
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Vitamin C iz celih namirnica](#vitamin-c-iz-celih-namirnica)
-- [Askorbinska kiselina](#askorbinska-kiselina)
-- [Mineralni askorbat](#mineralni-askorbat)
-- [Liposomalni vitamin C](#liposomalni-vitamin-c)
-
-</nav>
-
 Postoje četiri glavne forme vitamina C, svaka sa svojim prednostima i nedostacima. U nastavku su kratki opisi i saveti za izbor.
 
 ![Vitamin C](/wp-content/uploads/2024/03/vitamin-c.webp)

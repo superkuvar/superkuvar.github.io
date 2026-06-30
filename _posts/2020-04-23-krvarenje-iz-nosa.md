@@ -18,19 +18,18 @@ tags:
   - prva pomoć
   - vitamin C
   - zdravlje
+sections:
+  - name: Bez panike
+    id: bez-panike
+  - name: Stari babski lek
+    id: stari-babski-lek
+  - name: Moć prevencije
+    id: moć-prevencije
+  - name: Zašto se javlja?
+    id: zašto-se-javlja
+  - name: Da li pozvati lekara?
+    id: da-li-pozvati-lekara
 ---
-<nav class="article-toc" markdown="1">
-
-**Sadržaj**
-
-- [Bez panike](#bez-panike)
-- [Stari babski lek](#stari-babski-lek)
-- [Moć prevencije](#moć-prevencije)
-- [Zašto se javlja?](#zašto-se-javlja)
-- [Da li pozvati lekara?](#da-li-pozvati-lekara)
-
-</nav>
-
 Krvarenje iz nosa obično izgleda dramatičnije nego što jeste. U većini slučajeva možete ga zaustaviti za nekoliko minuta — evo proverenih koraka i saveta za prevenciju.
 
 ## Bez panike {#bez-panike}
