@@ -23,10 +23,10 @@ ingredients:
   - narendana bundeva (500 grama)
   - šećer u prahu
 instructions:
-  - treba napraviti dva fila, beli i žuti. Beli fil: umutiti belanca sa tri kašike šećera, pa dodati jogurt, ulje, griz i prašak za pecivo. Lagano izmešati. Žuti fil: umutiti žumanca sa tri kašike šećera, vanilin šećerom i cimetom.
-  - Odvojiti po pet kora. Prve četiri kore premazati, svaku, sa po 2-3 kašike belog fila, a petu premazati žutim filom, pa odozgo rasporediti narendanu bundevu. Uviti kao rolat i staviti u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila.
-  - Pripremljenu pitu premazati umućenim žumancetom i staviti u zagrejanu pećnicu. Peći oko 30 minuta na 200 stepeni, a zatim još 10 minuta na 180 stepeni.
-  - Pečenu pitu prekriti platnenom salvetom. Kada se pita ohladi iseći je na parčiće i posuti šećerom u prahu.
+  - "treba napraviti dva fila, beli i žuti. Beli fil: umutiti belanca sa tri kašike šećera, pa dodati jogurt, ulje, griz i prašak za pecivo. Lagano izmešati. Žuti fil: umutiti žumanca sa tri kašike šećera, vanilin šećerom i cimetom."
+  - "Odvojiti po pet kora. Prve četiri kore premazati, svaku, sa po 2-3 kašike belog fila, a petu premazati žutim filom, pa odozgo rasporediti narendanu bundevu. Uviti kao rolat i staviti u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila."
+  - "Pripremljenu pitu premazati umućenim žumancetom i staviti u zagrejanu pećnicu. Peći oko 30 minuta na 200 stepeni, a zatim još 10 minuta na 180 stepeni."
+  - "Pečenu pitu prekriti platnenom salvetom. Kada se pita ohladi iseći je na parčiće i posuti šećerom u prahu."
 image: /wp-content/uploads/2014/05/bakina.pita.od.bundeve.hero.jpg
 og_image: /wp-content/uploads/2014/05/bakina.pita.od.bundeve.og.jpg
 card_image: /wp-content/uploads/2014/05/bakina.pita.od.bundeve.kartica.jpg
@@ -56,3 +56,5 @@ tags:
 <span id="step-4"></span>**Korak 4.** Pečenu pitu prekriti platnenom salvetom. Kada se pita ohladi iseći je na parčiće i posuti šećerom u prahu.
 
 ![Korak 4 — bakina pita od bundeve](/wp-content/uploads/2014/05/bakina.pita.od.bundeve.korak4.jpg)
+
+Poslužite pitu isečenu na parčiće, posutu šećerom u prahu — najukusnija je dok je još mlako topla, uz čaj ili kafu.
