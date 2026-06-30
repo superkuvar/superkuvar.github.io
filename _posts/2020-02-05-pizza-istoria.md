@@ -3,7 +3,7 @@ id: 12971
 title: ISTORIJA PIZZA
 date: 2020-01-05
 author: slava b
-layout: post
+layout: article
 permalink: /pizza-istoria/
 published: true
 categories:

@@ -16,8 +16,13 @@ layout: default
 <main class="container">
   <h2 class="section-title">Najnoviji recepti</h2>
   <div class="recipe-grid">
-    {% for post in site.posts limit:12 %}
+    {% assign shown = 0 %}
+    {% for post in site.posts %}
+      {% if post.layout == 'article' %}{% continue %}{% endif %}
+      {% if post.categories contains 'zdravlje' %}{% continue %}{% endif %}
+      {% if shown >= 12 %}{% break %}{% endif %}
       {% include recipe-card.html post=post %}
+      {% assign shown = shown | plus: 1 %}
     {% endfor %}
   </div>
   {% include ad-bottom.html %}
