@@ -49,3 +49,9 @@ tags:
 <span id="step-4"></span>**Korak 4.** Obilno posuti kakaom u prahu i staviti u frižider na najmanje 4 sata, a najbolje preko noći, pre služenja.
 
 **Napomena:** Ovo je tiramisu **bez sirovih jaja** — krema se pravi od umućene slatke pavlake i maskarpone, bez žumanaca i belanaca u filu. Klasičan tiramisu često sadrži sirova jaja u kremi; ova varijanta je bezbednija i pogodna kada ne želite sirove jaje u poslastici. Tiramisu se ne peče — važno je da odstoji na hladnoći najmanje 4 sata da se slojevi stegnu i krema učvrsti. Likera od kafe možete izostaviti i koristiti samo espreso.
+
+**Šta je maskarpone?** Maskarpone (na srpskom se često piše i maskarpone) je italijanski meki kremasti sir od kravljeg mleka. Tekstura mu je veoma glatka, gusta i kremasta — slična gustoj pavlaci ili puteru. Sadržaj masti je visok, obično 60–75%, pa je sir bogat i kaloričan. Ukus je blag i slatkast, sa finim mlečnim notama — nije slan kao većina sireva. Boja varira od bledožute do kremasto-bele.
+
+Pravi se od pavlake koja se zagreva, a zatim se zgruša dodavanjem kiseline (najčešće limunske kiseline ili sirćeta). Masa se procedi kroz gazu da se ocedi višak tečnosti — zbog jednostavnog procesa može se napraviti i kod kuće.
+
+Najpoznatiji je po tiramisu, ali koristi se i u drugim desertima (čizkejkovi, musovi, kremovi, voćne torte), slanim jelima (sosovi za testenine, jela sa povrćem, risotto, salate) i kao zamena za pavlaku ili puter u nekim receptima. U prodavnicama u Srbiji najčešće ga nalazite u većim marketima (Idea, Maxi, Tempo, Lidl...) u plastičnim kutijicama od 250 g ili 500 g.
