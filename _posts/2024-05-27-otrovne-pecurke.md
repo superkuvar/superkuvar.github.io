@@ -45,6 +45,15 @@ sections:
         id: coprine
   - name: Najotrovnije pečurke u Srbiji
     id: najotrovnije-pecurke-u-srbiji
+    items:
+      - name: Amanita phalloides
+        id: amanita-phalloides
+      - name: Amanita virosa
+        id: amanita-virosa
+      - name: Amanita pantherina
+        id: amanita-pantherina
+      - name: Gyromitra esculenta
+        id: gyromitra-esculenta
   - name: Zaključak
     id: zaključak
 ---
@@ -80,44 +89,29 @@ Toksin u pečurkama iz roda *Coprinus*. Inhibira enzim potreban za metabolizam a
 
 U Srbiji, kao i u većini regiona, postoji nekoliko vrsta koje su veoma otrovne ako se pojedu. Evo najpoznatijih primera:
 
-<ul class="species-list" markdown="1">
-<li markdown="1">
+### Amanita phalloides — zelena pupavka {#amanita-phalloides}
 
-**Amanita phalloides** — zelena pupavka (zelena mušnica)
-
-Jedna od najotrovnijih pečuraka na svetu. Sadrži smrtonosne toksine koji mogu izazvati teška oštećenja jetre i bubrega, često sa fatalnim ishodom.
+Poznata i kao zelena mušnica — jedna od najotrovnijih pečuraka na svetu. Sadrži smrtonosne amatoksine koji mogu izazvati teška oštećenja jetre i bubrega, često sa fatalnim ishodom.
 
 ![Amanita phalloides — zelena pupavka](/wp-content/uploads/2024/05/amanita-phalloides.webp)
 
-</li>
-<li markdown="1">
+### Amanita virosa — bela pupavka {#amanita-virosa}
 
-**Amanita virosa** — bela pupavka
-
-Veoma otrovna; može prouzrokovati teške zdravstvene probleme, uključujući oštećenje jetre.
+Veoma otrovna bela pupavka; može prouzrokovati teške zdravstvene probleme, uključujući oštećenje jetre.
 
 ![Amanita virosa — bela pupavka](/wp-content/uploads/2024/05/amanita-virosa.jpeg)
 
-</li>
-<li markdown="1">
-
-**Amanita pantherina** — panter pupavka
+### Amanita pantherina — panter pupavka {#amanita-pantherina}
 
 Izuzetno otrovna; može izazvati ozbiljne neurološke simptome — konfuziju, halucinacije i komu.
 
-![Amanita pantherina](/wp-content/uploads/2024/05/amanita-phanterina.jpeg)
+![Amanita pantherina — panter pupavka](/wp-content/uploads/2024/05/amanita-phanterina.jpeg)
 
-</li>
-<li markdown="1">
+### Gyromitra esculenta — lažna jestiva {#gyromitra-esculenta}
 
-**Gyromitra esculenta** — lažna jestiva
-
-Sadrži toksin koji se pretvara u metil-hidrazin; može oštetiti jetru i bubrege.
+Sadrži gyromitrin koji se pretvara u metil-hidrazin; može oštetiti jetru i bubrege.
 
 ![Gyromitra esculenta — lažna jestiva](/wp-content/uploads/2024/05/gyromatria-esculenta.jpeg)
-
-</li>
-</ul>
 
 **Upozorenje:** Greške u identifikaciji mogu imati ozbiljne posledice po zdravlje, pa čak i biti fatalne. Ako niste sigurni u vrstu pečurke, ne berite je i ne jedite. Uvek se konsultujte sa stručnjakom za gljive ili sa iskusnim poznavaocem jestivih i otrovnih vrsta.
 
