@@ -6,7 +6,7 @@ author: slava b
 layout: post
 permalink: /grcka-torta/
 published: true
-description: Grčka torta sa jogurtom, grizom i orasima — sočan domaći kolač preliven limunovim sirupom, jednostavan za pripremu a veoma bogatog ukusa.
+description: Grčka torta sa jogurtom, grizom i orasima — sočan domaći kolač preliven limunovim sirupom, jednostavan za pripremu a bogatog ukusa.
 prep_time: PT25M
 cook_time: PT40M
 total_time: PT2H
