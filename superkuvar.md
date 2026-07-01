@@ -55,18 +55,24 @@ To je dovoljno. Asistent radi sve ispod i **commituje**; vlasnik pushuje na live
 
 ## 2. Šta znači „potpuno renoviran“
 
-Jedan recept = **tri dela + commit**. Tekst bez slika **nije gotov**.
+Jedan recept = **dva dela + commit** (privremeno). Tekst bez hero seta **nije gotov**.
 
 | Deo | Rezultat |
 |-----|----------|
 | **A. Tekst** | YAML + Korak 1, 2, 3… u telu |
 | **B. Hero set** | glavna slika + og + kartica |
-| **C. Korak slike** | 2–4 slike u tekstu posle koraka |
+| **C. Korak slike** | 2–4 slike u tekstu posle koraka — **⏸ privremeno se ne rade** (vidi ispod) |
 | **D. Commit** | `git commit` (push radi vlasnik) |
+
+**⏸ Privremeno: korak slike se ne rade.** Radi pojednostavljenja unapređenja sajta,
+renovacija recepta za sada obuhvata samo **A (tekst) + B (hero set)**. Sva pravila o
+korak slikama u ovom dokumentu **ostaju** — vraćaju se u budućnosti kad se krene sa
+korak slikama. U telu članka **ne umetaj** `slug.korak1.jpg` … dok traje ova izmena.
 
 **Referenca:** jagnjeća čorba (`_posts/2011-03-22-jagnjeca-corba.md`)
 
-**Redosled:** A → B → C → D. Nikad obrnuto (hero pre teksta pravi duplikate i pogrešne slike).
+**Redosled (sada):** A → B → D. **Redosled (budućnost):** A → B → C → D.
+Nikad obrnuto (hero pre teksta pravi duplikate i pogrešne slike).
 
 ---
 
@@ -112,7 +118,9 @@ SEO i kvalitet pisanja postižu se **dodacima**, ne izmenom starog teksta recept
 
 <span id="step-1"></span>**Korak 1.** ...
 
+<!-- privremeno: korak slike se ne umetaju
 ![Korak 1 — naziv](/wp-content/uploads/.../slug.korak1.jpg)
+-->
 
 <span id="step-2"></span>**Korak 2.** ...
 ...
@@ -177,9 +185,14 @@ Ako si promenio originalni tekst recepta — vrati ga. Greške iz originala **os
 
 ### Korak 3 — Odluka o slikama (algoritam)
 
+**⏸ Privremeno preskočeno za korak slike.** Ovaj korak se sada odnosi samo na **hero set**
+(B). Pravila za korak slike ispod ostaju za budućnost — ne briši ih.
+
 Prvo proveri šta postoji u `wp-content/uploads/GODINA/MESec/` za taj recept.
 
-#### Pravilo 1 — Postoje stare korak fotografije (≥ 400 px, različite)
+#### Pravilo 1 — Postoje stare korak fotografije (≥ 400 px, različite) *(budućnost)*
+
+**⏸ Privremeno se ne primenjuje** — korak slike se trenutno ne rade.
 
 Ako u upload folderu ima **2–4 različite** originalne fotografije koje prikazuju **različite faze** pripreme (ne isto gotovo jelo):
 
@@ -187,7 +200,7 @@ Ako u upload folderu ima **2–4 različite** originalne fotografije koje prikaz
 - Mapiraj na najvizuelnije korake u tekstu
 - Hero set može iz najbolje fotografije gotovog jela ili posebno generisanog heroa
 
-#### Pravilo 2 — Postoji samo jedna fotografija gotovog jela
+#### Pravilo 2 — Postoji samo jedna fotografija gotovog jela *(budućnost — korak slike)*
 
 Tipičan slučaj: jedan stari WP JPG pečenog kolača ili jela na tanjiru.
 
@@ -209,7 +222,7 @@ Tipičan slučaj: jedan stari WP JPG pečenog kolača ili jela na tanjiru.
 | korak2 | testo sipano u pleh, pred pečenjem |
 | korak3 | pečen kolač isečen na kocke, posut šećerom |
 
-#### Pravilo 3 — Koliko korak slika
+#### Pravilo 3 — Koliko korak slika *(budućnost)*
 
 - Generiši **2–4** korak slike
 - **Ne** za svaki tekstualni korak — samo tamo gde je **vizuelno smisleno**
@@ -228,15 +241,15 @@ Nisi siguran?          → ne pushuj; pitaj
 
 - **Ne upscale-uj** sitne JPG-ove (< 400 px duža strana).
 - **Ne uzimaj** slike drugog recepta.
-- **Stare `<img>`** u tekstu obriši u Koraku 2; slike se vraćaju samo kao hero + koraci.
+- **Stare `<img>`** u tekstu obriši u Koraku 2; slike se vraćaju kao hero set (koraci — u budućnosti).
 
-#### Provera korak slika pre commita
+#### Provera korak slika pre commita *(budućnost — privremeno preskočiti)*
 
 - [ ] Svaka korak slika = **drugačija faza** postupka, ne isti tanjir/pleh
 - [ ] Nijedna korak slika nije crop heroa/mastera (osim ako je to bila originalna WP fotografija te faze)
 - [ ] Otvori sve korak JPG-ove jedan pored drugog — ako izgledaju kao ista slika, generiši ponovo
 
-### Korak 4 — Hero set + korak slike
+### Korak 4 — Hero set *(+ korak slike u budućnosti)*
 
 **Imena fajlova:** `{slug}.{tip}.jpg` — reči odvojene **tačkom**, mala slova, bez kvčica (č→c, š→s, ž→z, đ→dj).
 
@@ -246,10 +259,12 @@ Nisi siguran?          → ne pushuj; pitaj
 | `slug.hero.800.jpg` | 800×450 | mobilni (resize iz heroa) |
 | `slug.og.jpg` | 1200×630 | YAML `og_image:`, Facebook deljenje |
 | `slug.kartica.jpg` | 800×600 | YAML `card_image:`, grid |
-| `slug.korak1.jpg` … | 900×675 | u tekstu posle Korak N |
+| `slug.korak1.jpg` … | 900×675 | u tekstu posle Korak N — **⏸ privremeno se ne rade** |
 | `slug.master.jpg` | arhiva | kopija originala (opciono u repo) |
 
-**Redosled pravljenja:** 1.hero → 2.og → 3.kartica → 4.hero.800 → 5.korak1…N → 6.master
+**Redosled pravljenja (sada):** 1.hero → 2.og → 3.kartica → 4.hero.800 → (opciono) master
+
+**Redosled pravljenja (budućnost):** … → 5.korak1…N → 6.master
 
 **YAML posle slika:**
 
@@ -259,7 +274,7 @@ og_image: /wp-content/uploads/GODINA/slug.og.jpg
 card_image: /wp-content/uploads/GODINA/slug.kartica.jpg
 ```
 
-**Umetanje koraka u tekst:**
+**Umetanje koraka u tekst** *(budućnost — privremeno ne umetati):**
 
 ```markdown
 ![Korak 2 — naziv jela](/wp-content/uploads/GODINA/slug.korak2.jpg)
@@ -277,7 +292,8 @@ git commit -m "Recept: NAZIV — potpuno renoviran"
 
 **Ne radi `git push`** — vlasnik pregleda i sam pushuje na live.
 
-**Commit samo kad je recept potpun** (A+B+C). Nepotpun → pitaj, ne commituj.
+**Commit samo kad je recept potpun** (A+B; C korak slike privremeno nije obavezan).
+Nepotpun → pitaj, ne commituj.
 
 ---
 
@@ -327,7 +343,7 @@ git commit -m "Recept: NAZIV — potpuno renoviran"
 | **Original** | **Ne menjaj** tekst sastojaka ni načina pripreme — čak i ako ima grešaka |
 | **description** | Uvod: šta je jelo + kada dobro dođe (Korak 2a); ne uputstvo |
 | **SEO dodaci** | Napomene i objašnjenja — novi, gramatički ispravni tekst |
-| **Korak slike** | 2–4 **različite faze** postupka; **ne** crop heroa/mastera kad postoji samo jedna fotka gotovog jela |
+| **Korak slike** | 2–4 **različite faze** postupka; **ne** crop heroa/mastera kad postoji samo jedna fotka gotovog jela — **⏸ privremeno se ne rade** |
 
 ---
 
@@ -341,8 +357,8 @@ git commit -m "Recept: NAZIV — potpuno renoviran"
 - [ ] Nema „Potrebno je“ ni starih `<img>` u telu
 - [ ] `slug.hero.jpg` + og + kartica + hero.800
 - [ ] YAML: image, og_image, card_image
-- [ ] 2–4 korak slike umetnute posle odgovarajućih koraka
-- [ ] **Korak slike = različite faze** (vizuelna provera, ne samo MD5)
+- [ ] ~~2–4 korak slike umetnute posle odgovarajućih koraka~~ *(privremeno — preskočiti)*
+- [ ] ~~**Korak slike = različite faze** (vizuelna provera, ne samo MD5)~~ *(budućnost)*
 - [ ] **Nema escajga, plastičnih ni metalnih poslužavnica** na slikama
 - [ ] Imena fajlova: tačka, bez kvčica
 - [ ] title, permalink, date, categories netaknuti
@@ -369,7 +385,7 @@ Push na live radi vlasnik kad pregleda promene.
 
 | Stari dokument | Staro pravilo | **Sada važi (ovaj dokument)** |
 |----------------|---------------|-------------------------------|
-| renoviranje.txt | „samo tekst“, ne diraj slike | **Potpuna renovacija** uključuje slike |
+| renoviranje.txt | „samo tekst“, ne diraj slike | **Potpuna renovacija** uključuje hero set; korak slike privremeno ne |
 | renoviranje.txt | ne menjaj `image:` | Možeš dodati/izmeniti `image`, `og_image`, `card_image` uz hero set |
 | renoviranje.txt | čekaj „ok“ pre sledećeg | **Commit** odmah; push radi vlasnik |
 | renoviranje.txt | commit „samo tekst“ | commit **„potpuno renoviran“** |
@@ -386,8 +402,8 @@ Ako nađeš novo protivrečje — pitaj vlasnika pre nego što nastaviš.
 
 1. Pilot: 4 koraka + završni pasus
 2. Hero: `paprikas.sa.svinjetinom.hero.jpg` (AI jer original 240 px)
-3. Koraci: `korak1.jpg` (luk), `korak2.jpg` (meso), `korak3.jpg` (kuvanje) — **različite faze**
-4. Commit → vlasnik pushuje → https://superkuvar.com/paprikaš-sa-svinjetinom/
+3. *(budućnost)* Koraci: `korak1.jpg` (luk), `korak2.jpg` (meso), `korak3.jpg` (kuvanje) — **različite faze**
+4. Commit (A+B) → vlasnik pushuje → https://superkuvar.com/paprikaš-sa-svinjetinom/
 
 **Anti-primer:** JEDNOSTAVNI KOLAČ OD BUNDEVE sa crop-om iste fotografije — **ne ponavljati**.
 
