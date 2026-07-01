@@ -17,3 +17,5 @@ scripts/renovate_push.log
 scripts/renovirani-urlovi.txt
 scripts/renovirani-za-proveru.txt
 scripts/torte_heroes.py
+.bundle/
+vendor/

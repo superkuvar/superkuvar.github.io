@@ -32,8 +32,6 @@ instructions:
 image: /wp-content/uploads/2020/01/grcka.torta.hero.jpg
 og_image: /wp-content/uploads/2020/01/grcka.torta.og.jpg
 card_image: /wp-content/uploads/2020/01/grcka.torta.kartica.jpg
-totvreme:
-  - ""
 categories:
    - torte
 tags:
@@ -47,18 +45,12 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** U posudu za mešenje staviti jaja i šećer, penasto umutiti mikserom. Dodati ulje i jogurt, pa lagano izmešati.
 
-![Korak 1 — grčka torta](/wp-content/uploads/2020/01/grcka.torta.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Promešati brašno, griz, prašak za pecivo i struganu limunovu koru, pa dodati u smesu jaja i dobro izmešati varjačom.
-
-![Korak 2 — grčka torta](/wp-content/uploads/2020/01/grcka.torta.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** Pripremljeno testo sipati u podmazan i brašnom posut pleh, ravnomerno posuti mlevenim orasima. Peći u zagrejanoj pećnici na 180 stepeni oko 35–40 minuta, dok čačkalica izađe suva.
 
-![Korak 3 — grčka torta](/wp-content/uploads/2020/01/grcka.torta.korak3.jpg)
-
 <span id="step-4"></span>**Korak 4.** U šerpu sipati šećer i vodu za sirup, staviti na štednjak i kuvati dok se šećer ne rastopi. Skloniti sa vatre, dodati sok limuna i politi vruću tortu.
 
-<span id="step-5"></span>**Korak 5.** Tortu ostaviti da se ohladi u plehu, zatim izvaditi i seći na parčića.
+<span id="step-5"></span>**Korak 5.** Tortu ostaviti da se ohladi u plehu, zatim izvaditi i seći na parčića. Najbolje je kada odstoji bar sat vremena da sirup upije.
 
 Grčku tortu poslužite ohlađenu, kada sirup potpuno upije u koru. Po želji parče može da se posluži uz šoljicu kafe ili čaja.
