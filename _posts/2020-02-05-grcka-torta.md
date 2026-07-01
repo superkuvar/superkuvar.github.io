@@ -6,14 +6,14 @@ author: slava b
 layout: post
 permalink: /grcka-torta/
 published: true
-description: Grčka torta sa jogurtom, grizom i orasima — sočan domaći kolač preliven limunovim sirupom, jednostavan za pripremu a bogatog ukusa.
+description: Grčka torta sa jogurtom, grizom i orasima — sočan domaći kolač preliven limunovim sirupom, jednostavan za pripremu a veoma bogatog ukusa.
 prep_time: PT25M
 cook_time: PT40M
 total_time: PT2H
 servings: 12 parčića
 nutrition: oko 310 kalorija po parčetu
 ingredients:
-  - 5 jaja
+  - 5 jega
   - 200 g šećera
   - 200 ml ulja
   - 200 g grčkog jogurta (ili kiselog mleka)
