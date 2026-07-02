@@ -38,14 +38,8 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** prosejati na radnoj površini brašno, dodati jaja, šećer u prahu, maslac, malo strugane limunove kore, malo sode bikarbone i kašiku mleka.
 
-![Mešanje sastojaka za testo](/wp-content/uploads/2011/02/domaci.biskviti.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Tepsiju malo namazati maslacem pa posuti brašnom, poređati biskvite i peći na 180 stepeni.
 
-![Biskviti poređani u tepsiji](/wp-content/uploads/2011/02/domaci.biskviti.korak2.jpg)
-
 <span id="step-3"></span>**Korak 3.** Kolačići se mogu preliti i glazurom od limuna i šećera u prahu.
-
-![Pečeni kolačići sa limunovom glazurom](/wp-content/uploads/2011/02/domaci.biskviti.korak3.jpg)
 
 Kolačići su najbolji dok su sveži, uz toplu kafu ili mleko.
