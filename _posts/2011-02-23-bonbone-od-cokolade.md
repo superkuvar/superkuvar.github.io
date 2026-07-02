@@ -40,11 +40,7 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** belance penasto umutiti, ali ne previše čvrsto.
 
-![Penasto umućeno belance](/wp-content/uploads/2011/02/bombice.od.cokolade.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** U umućeno belance dodati narendanu čokoladu, mlevene orahe, rum i šećer.
-
-![Čokolada, orahe i rum u belancu](/wp-content/uploads/2011/02/bombice.od.cokolade.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** Masu lagano izmešati, da se sastojci sjedine.
 
@@ -52,4 +48,4 @@ tags:
 
 <span id="step-5"></span>**Korak 5.** Ostaviti da se bombice prosuše, a zatim ih staviti u papirne korpice i služiti.
 
-![Gotove bombice u papirnim korpicama](/wp-content/uploads/2011/02/bombice.od.cokolade.korak4.jpg)
+Bombice od čokolade pripremaju se za nekoliko desetina minuta i najukusnije su kada se potpuno osuše. Papirne korpice daju im praznični izgled na stolu.
