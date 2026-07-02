@@ -50,17 +50,11 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** u posudu za mešenje sipati brašno i dodati maslac izdrobljen na komadiće i dobro ga utrljati sa brašnom.
 
-![Utrljavanje maslaca sa brašnom](/wp-content/uploads/2011/02/dadini.kolaci.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Zatim dodati žumanca, šećer i belo vino.
 
 <span id="step-3"></span>**Korak 3.** Prvi deo testa rastanjiti oklagijom u koru, da odgovara veličini pleha u kome će se kolač peći.
 
-![Rastanjivanje testa oklagijom](/wp-content/uploads/2011/02/dadini.kolaci.korak2.jpg)
-
 <span id="step-4"></span>**Korak 4.** Rastanjenu koru staviti u podmazan pleh i premazati tankim slojem marmelade.
-
-![Kora u plehu premazana marmeladom](/wp-content/uploads/2011/02/dadini.kolaci.korak3.jpg)
 
 <span id="step-5"></span>**Korak 5.** Kolač peći oko 40 minuta u pećnici zagrejanoj na 180 stepeni.
 
@@ -69,7 +63,5 @@ tags:
 <span id="step-7"></span>**Korak 7.** **Čoko glazura**: u šerpu staviti šećer, izlomljenu čokoladu, kafu i komadić maslaca i kuvati na slabijoj vatri dok glazura ne postane gusta kao med.
 
 <span id="step-8"></span>**Korak 8.** Vrelom glazurom preliti kolač i širim nožem je ravnomerno razmazati.
-
-![Kolač preliven čokoladnom glazurom](/wp-content/uploads/2011/02/dadini.kolaci.korak4.jpg)
 
 Kolač je najukusniji kada se potpuno ohladi i glazura stegne.
