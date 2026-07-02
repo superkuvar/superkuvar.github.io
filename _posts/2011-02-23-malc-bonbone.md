@@ -9,7 +9,7 @@ permalink: /malc-bonbone/
 image: /wp-content/uploads/2011/02/malc.bonbone.hero.jpg
 og_image: /wp-content/uploads/2011/02/malc.bonbone.og.jpg
 card_image: /wp-content/uploads/2011/02/malc.bonbone.kartica.jpg
-description: Domaće kafene bombone od samlevene kafe, meda i šećera — gusta masa se peče na plehu i seče na kockice.
+description: Malc-bombone su domaće kafene bombone od Knajpove kafe, meda i šećera. Odlične uz kafu ili čaj, kao slatki zalogaj ili domaći poklon.
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -36,16 +36,12 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** kafu samleti, staviti u šerpu i preliti litrom vode.
 
-![Samlevena kafa u šerpi sa vodom](/wp-content/uploads/2011/02/malc.bonbone.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Zakuvati kafu i kuvati je dok ne ispari pola litra vode.
 
 <span id="step-3"></span>**Korak 3.** Proceđenu kafu sipati u veći sud, pa dodati med i šećer.
-
-![Kafa sa medom i šećerom](/wp-content/uploads/2011/02/malc.bonbone.korak3.jpg)
 
 <span id="step-4"></span>**Korak 4.** Kafu, med i šećer kuvati na umerenoj temperaturi dok se ne dobije potrebna gustina.
 
 <span id="step-5"></span>**Korak 5.** Poleđinu pleha namazati uljem i sipati kuvanu masu, rastanjiti je na debljinu od pola santimetra, pa kad počne da se stvrdnjava, seći nožem na kockice – bombone i služiti.
 
-![Sečenje kafenih bombona na plehu](/wp-content/uploads/2011/02/malc.bonbone.korak5.jpg)
+Malc-bombone poslužite isečene na kockice — najukusnije su uz toplu kafu ili čaj, a mogu i kao domaći poklon.
