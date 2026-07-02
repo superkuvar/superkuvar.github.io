@@ -49,8 +49,6 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** umutiti jaja sa šećerom, a zatim ih kuvati na pari dok se masa ne zgusne.
 
-![Umućena jaja na pari](/wp-content/uploads/2011/02/kolaci.s.jabukama.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** U ohlađen krem dodati brašno, narendanu koricu dobro opranog limuna i rastopljeni maslac.
 
 <span id="step-3"></span>**Korak 3.** Testo dobro izmešati.
@@ -59,19 +57,13 @@ tags:
 
 <span id="step-5"></span>**Korak 5.** Peći oko 15 minuta u pećnici zagrejanoj na 180 stepeni.
 
-![Pečenje biskvit testa](/wp-content/uploads/2011/02/kolaci.s.jabukama.korak5.jpg)
-
 <span id="step-6"></span>**Korak 6.** Ispečeno testo izručiti na radnu površinu i okruglim kalupom vaditi pogačice.
 
 <span id="step-7"></span>**Korak 7.** Jabuke oprati, oljuštiti, očistiti od semena i iseći na okrugle režnjeve iste debljine kao i pogačice.
 
-![Režnjevi kiselih jabuka](/wp-content/uploads/2011/02/kolaci.s.jabukama.korak7.jpg)
-
 <span id="step-8"></span>**Korak 8.** U šerpu usuti 100 grama šećera i malo vode, pa staviti na štednjak da se kuva.
 
 <span id="step-9"></span>**Korak 9.** Kada sirup provri, dodati režnjeve jabuka i kuvati dok ne omekšaju.
-
-![Kuvanje jabuka u sirupu](/wp-content/uploads/2011/02/kolaci.s.jabukama.korak9.jpg)
 
 <span id="step-10"></span>**Korak 10.** Umutiti čvrst sneg od belanaca, ostatka šećera i vanilin šećera.
 
