@@ -54,21 +54,15 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** umutiti maslac sa šećerom, dodati jaje, žumance, koru od limuna i brašno pomešano sa praškom za pecivo.
 
-![Umutiti maslac sa šećerom i jajima](/wp-content/uploads/2011/02/engleski.kolaci.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Dobro izmešati varjačom, pa malo izmesiti rukom.
 
 <span id="step-3"></span>**Korak 3.** Testo staviti u podmazan pleh i rastanjiti ga.
 
 <span id="step-4"></span>**Korak 4.** **Fil**: izmešati mlevene orahe, šećer, vanilin šećer, prethodno oprano suvo grožđe i mleko, pa premazati testo.
 
-![Orašasti fil sa suvim grožđem](/wp-content/uploads/2011/02/engleski.kolaci.korak4.jpg)
-
 <span id="step-5"></span>**Korak 5.** Umutiti čvrst sneg od belanaca, dodati šećer, žumanca i brašno.
 
 <span id="step-6"></span>**Korak 6.** Sve dobro promešati, pa sipati preko fila i ravnomerno rastanjiti.
-
-![Preliv od belanaca preko fila](/wp-content/uploads/2011/02/engleski.kolaci.korak6.jpg)
 
 <span id="step-7"></span>**Korak 7.** Kolač peći oko **35 minuta** u pećnici zagrejanoj na **180 stepeni**.
 
