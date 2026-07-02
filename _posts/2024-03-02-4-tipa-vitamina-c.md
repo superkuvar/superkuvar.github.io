@@ -39,8 +39,6 @@ sections:
 ---
 Postoje četiri glavne forme vitamina C, svaka sa svojim prednostima i nedostacima. U nastavku su kratki opisi i saveti za izbor.
 
-![Vitamin C](/wp-content/uploads/2024/03/vitamin-c.webp)
-
 ## Vitamin C iz celih namirnica {#vitamin-c-iz-celih-namirnica}
 
 Dobija se iz celih namirnica kao što su acerola trešnje ili kamuku. Dolazi sa ko-faktorima vitamina koji se prirodno nalaze u hrani. Međutim, obično je skuplji i ima manju dozu od sintetičkog vitamina C.

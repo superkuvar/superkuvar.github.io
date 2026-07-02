@@ -47,8 +47,6 @@ sections:
 ---
 Silicijum je mineral koji često prolazi neprimećen, a ključan je za kosti, krvne sudove i vezivno tkivo. U nastavku su njegove uloge i praktični saveti za unos.
 
-![Silicium](/wp-content/uploads/2024/03/silicium.webp)
-
 ## Uvod {#uvod}
 
 Ovaj članak podstaknut je izvrsnim [YouTube videom](https://www.youtube.com/watch?v=1NNJiouOx_Y){:rel="nofollow"} pod naslovom: Fantastični mineral štiti krvne sudove, mišiće, zglobovi i hrskavice doktora Branislava Mihajlovića.
