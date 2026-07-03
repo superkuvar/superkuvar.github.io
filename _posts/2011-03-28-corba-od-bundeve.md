@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=292"
 permalink: /čorba-od-bundeve/
-description: "Čorba od bundeve — bundevu, krompir i šargarepu oljuštiti, oprati i iseći na sitnije kocke."
+image: /wp-content/uploads/2011/03/corba.od.bundeve.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.bundeve.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.bundeve.kartica.jpg
+description: "Čorba od bundeve je kremasta, topla čorba od bundeve, šargarepe, krompira i crnog luka sa muskatnim oraščićem. Odlična je za hladnije dane, lagan ručak ili večeru uz kiselu pavlaku."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -41,8 +44,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![bundeva corba](/wp-content/uploads/2011/03/corbabundeva1.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** bundevu, krompir i šargarepu oljuštiti, oprati i iseći na sitnije kocke.
@@ -52,3 +53,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** U izdinstano povrće sipati litar i po vode ili supe od kocke.
 
 <span id="step-4"></span>**Korak 4.** Kada čorba provri, dodati suvi biljni začin ili so i muskatni oraščić, pa nastaviti sa kuvanjem dok povrće ne omekša.
+
+Čorba od bundeve najbolje se poslužuje vruća, uz kiselu pavlaku ili domaći hleb, kao lagan obrok za četiri osobe.
