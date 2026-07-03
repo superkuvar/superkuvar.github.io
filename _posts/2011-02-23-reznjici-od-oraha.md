@@ -1,6 +1,6 @@
 ---
 id: 38
-title: REŽNJIĆI OD ORAHA
+title: REŽNjIĆI OD ORAHA
 date: 2011-02-23T22:02:19+00:00
 author: admin
 layout: post
@@ -28,13 +28,13 @@ ingredients:
   - malo ruma
   - cimet (kašičica)
 instructions:
-  - U mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
+  - u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
   - U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac.
-  - Izručiti masu na radnu površinu posutu brašnom i umesiti testo umerene tvrdoće. Testo odmah podeliti na tri jednaka dela.
+  - Izručiti masu na radnu površinu posutu brašnom i umesiti testo umerene tvrdoće, ni suviše tvrdo ni suviše meko. Umešeno testo odmah podeliti na tri jednaka dela.
   - Svaki deo testa oklagijom razvući u oblik kvadrata, pa svaki premazati nadevom. Testo zatim uviti kao rolat.
   - Svaki rolat oštrim nožem iseći na komade debljine prsta.
   - Pleh podmazati maslacem i posuti brašnom pa poređati isečene komade jedan pored drugog, ali da se ne dodiruju.
-  - Pleh sa testom staviti u pećnicu i peći na 180 stepeni. Prvih pet minuta vrata na pećnici ne treba sasvim zatvoriti. Posle pet minuta pećnicu sasvim zatvoriti i peći dok režnjići ne dobiju svetlo žutu boju.
+  - Pleh sa testom staviti u pećnicu i peći na 180 stepeni. Prvih pet minuta vrata na pećnici ne traba sasvim zatvoriti. Posle pet minuta pećnicu sasvim zatvoriti, za to vreme režnjići će narasti. Peći dok režnjići ne dobiju svetlo žutu boju.
   - Još vruće režnjiće uvaljati u šećer u prahu.
   - Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet. Sve lagano izmešati.
 categories:
@@ -49,9 +49,7 @@ tags:
 ---
 **Način pripreme:**
 
-<span id="step-1"></span>**Korak 1.** U mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
-
-![Kvasac u mlakom mleku sa šećerom](/wp-content/uploads/2011/02/reznjici.od.oraha.korak1.jpg)
+<span id="step-1"></span>**Korak 1.** u mlako mleko dodati šećer i izmrvljen kvasac i ostaviti na toplom mestu oko 15 minuta, da kvasac nadođe.
 
 <span id="step-2"></span>**Korak 2.** U posudu za mešenje sipati brašno, dodati maslac isečen na komadiće i rukom izmesiti da se brašno i maslac povežu, a zatim dodati nadošli kvasac.
 
@@ -59,17 +57,13 @@ tags:
 
 <span id="step-4"></span>**Korak 4.** Svaki deo testa oklagijom razvući u oblik kvadrata, pa svaki premazati nadevom. Testo zatim uviti kao rolat.
 
-![Razvijanje testa i uvijanje sa nadevom](/wp-content/uploads/2011/02/reznjici.od.oraha.korak4.jpg)
-
 <span id="step-5"></span>**Korak 5.** Svaki rolat oštrim nožem iseći na komade debljine prsta.
 
 <span id="step-6"></span>**Korak 6.** Pleh podmazati maslacem i posuti brašnom pa poređati isečene komade jedan pored drugog, ali da se ne dodiruju.
 
-<span id="step-7"></span>**Korak 7.** Pleh sa testom staviti u pećnicu i peći na 180 stepeni. Prvih pet minuta vrata na pećnici ne treba sasvim zatvoriti. Posle pet minuta pećnicu sasvim zatvoriti, za to vreme režnjići će narasti. Peći dok režnjići ne dobiju svetlo žutu boju.
+<span id="step-7"></span>**Korak 7.** Pleh sa testom staviti u pećnicu i peći na 180 stepeni. Prvih pet minuta vrata na pećnici ne traba sasvim zatvoriti. Posle pet minuta pećnicu sasvim zatvoriti, za to vreme režnjići će narasti. Peći dok režnjići ne dobiju svetlo žutu boju.
 
 <span id="step-8"></span>**Korak 8.** Još vruće režnjiće uvaljati u šećer u prahu.
-
-![Uvaljavanje vrućih režnjica u šećer](/wp-content/uploads/2011/02/reznjici.od.oraha.korak8.jpg)
 
 <span id="step-9"></span>**Korak 9.** Nadev pripremiti na sledeći način: umutiti belanca u čvrst sneg, pa dodati šećer, mlevene orahe, narendanu čokoladu, malo ruma i cimet. Sve lagano izmešati.
 
