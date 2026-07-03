@@ -6,7 +6,8 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=189
 permalink: /čorba-od-blitve-i-krompira/
-description: Čorba od blitve i krompira — U lonac sipati malo ulja, dodati blitvu i dinstati je desetak minuta, uz povremeno mešanje.
+image: /wp-content/uploads/2011/03/corba.od.blitve.i.krompira.hero.jpg
+description: Čorba od blitve i krompira je kremasto, zeleno jelo od blitve i krompira sa žumancem u mleku i kiselom pavlakom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -34,9 +35,9 @@ tags:
   - blitva
   - krompir
   - mleko
+og_image: /wp-content/uploads/2011/03/corba.od.blitve.i.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.blitve.i.krompira.kartica.jpg
 ---
-<img class="alignnone size-full wp-image-796" title="corbablitvakrompir" src="/wp-content/uploads/2011/03/corbablitvakrompir1-e1306826538671.jpg" alt="" width="247" height="171" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** U lonac sipati malo ulja, dodati blitvu i dinstati je desetak minuta, uz povremeno mešanje.
@@ -48,3 +49,5 @@ tags:
 <span id="step-4"></span>**Korak 4.** Kad je čorba kuvana, u nju dodati žumance razmućeno u mleku.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od blitve i krompira najbolje se poslužuje topla, uz domaći hleb ili kao lagan ručak i večera u hladnijim danima.
