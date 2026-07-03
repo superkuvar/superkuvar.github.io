@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=210"
 permalink: /čorba-od-šampinjona-i-zeleni/
-description: "Čorba od šampinjona i zeleni — na ulju propržiti iseckan crni luk, dodati očišćene, oprane i na listiće isečene šampinjone i pir…"
+image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.zeleni.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.zeleni.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.zeleni.kartica.jpg
+description: "Čorba od šampinjona i zeleni je lagana supa od šampinjona, zelenog povrća i crnog luka sa zaprškom. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -34,7 +37,6 @@ tags:
   - šampinjoni
   - žumanca
 ---
-<img class="alignnone size-full wp-image-779" title="corbaodsampinjonaizeleni" src="/wp-content/uploads/2011/03/corbaodsampinjonaizeleni3-e1306823623721.jpg" alt="" width="252" height="156" />
 
 **Način pripreme:**
 
@@ -45,3 +47,9 @@ tags:
 <span id="step-3"></span>**Korak 3.** Kad su šampinjoni skoro gotovi, sipati ih u vodu u kojoj se kuvala zelen, posoliti, pobiberiti i kuvati još desetak minuta.
 
 <span id="step-4"></span>**Korak 4.** Napraviti tanku zapršku od malo ulja i kašike brašna, sipati u čorbu, kratko prokuvati i skloniti sa štednjaka.
+
+Čorba od šampinjona i zeleni najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — mešavina ulja i brašna kratko propržena na tiganju, koja se sipa u tečnost da je blago zgusne i obogati ukusom.
