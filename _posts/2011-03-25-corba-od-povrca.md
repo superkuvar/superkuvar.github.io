@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=253"
 permalink: /čorba-od-povrća/
-image: /wp-content/uploads/2011/03/Čorbaodpovrća-940x198.jpg
-description: "Čorba od povrća — na ulju propržiti sitno seckani crni luk, dodati krompir isečen na kockice, šargarepu isečenu na …"
+image: /wp-content/uploads/2011/03/corba.od.povrca.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.povrca.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.povrca.kartica.jpg
+description: "Čorba od povrća je kremasto, toplo jelo od krompira, šargarepe, graška i rezanca sa kiselom pavlakom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -46,8 +48,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![Čorba od povrća](/wp-content/uploads/2011/03/Čorbaodpovrća-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** na ulju propržiti sitno seckani crni luk, dodati krompir isečen na kockice, šargarepu isečenu na kolutove, grašak i izgnječen beli luk.
@@ -61,3 +61,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-5"></span>**Korak 5.** Pred kraj kuvanja u čorbu dodati rezance i malo bibera, pa kuvati još pet minuta.
 
 <span id="step-6"></span>**Korak 6.** Gotovu čorbu začiniti pavlakom i posuti seckanim peršunovim listom.
+
+Čorba od povrća najbolje se poslužuje vruća, sa kiselom pavlakom i svežim peršunom — lagan obrok za četiri osobe.
