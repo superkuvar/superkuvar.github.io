@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=109"
 permalink: /brze-špagete/
-description: "Brze špagete sa tunjevinom — sipati vodu u dublju posudu i dodati so i kašiku ulja."
+description: Brze špagete sa tunjevinom u paradajz sosu — jednostavno i zasitno jelo za brzi ručak ili večeru kada nemate mnogo vremena.
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -23,6 +23,9 @@ instructions:
   - U zagrejan tiganj staviti ulje iz konzerve tunjevine, dodati luk i propržiti ga, da omekne.
   - U propržen luk ubaciti komade tunjevine, promešati a zatim dodati paradajz pire.
   - Kada je sos gotov preliti špagete.
+image: /wp-content/uploads/2011/03/brze.spagete.hero.jpg
+og_image: /wp-content/uploads/2011/03/brze.spagete.og.jpg
+card_image: /wp-content/uploads/2011/03/brze.spagete.kartica.jpg
 categories:
   - testenine
 tags:
@@ -30,9 +33,6 @@ tags:
   - špagete
   - tunjevina
 ---
-![Brze špagete](/wp-content/uploads/2011/03/Spagete.jpg)
-![Brze špagete](/wp-content/uploads/2011/03/Spagete2.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** sipati vodu u dublju posudu i dodati so i kašiku ulja.
@@ -44,3 +44,5 @@ tags:
 <span id="step-4"></span>**Korak 4.** U propržen luk ubaciti komade tunjevine, promešati a zatim dodati paradajz pire.
 
 <span id="step-5"></span>**Korak 5.** Kada je sos gotov preliti špagete.
+
+Brze špagete sa tunjevinom poslužite odmah, dok je sos još vruć. Jednostavno jelo za brzi ručak ili večeru, sa sastojcima koje obično imate u kući.
