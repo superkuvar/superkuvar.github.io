@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=272"
 permalink: /krem-čorba-od-povrća/
-description: "Krem čorba od povrća — Iseckano povrće staviti u lonac i propržiti na malo ulja."
+image: /wp-content/uploads/2011/03/krem.corba.od.povrca.hero.jpg
+og_image: /wp-content/uploads/2011/03/krem.corba.od.povrca.og.jpg
+card_image: /wp-content/uploads/2011/03/krem.corba.od.povrca.kartica.jpg
+description: "Krem čorba od povrća je kremasto, toplo jelo od šargarepe, peršuna, paškanata, celera, krompira i kisele pavlake. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -43,8 +46,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-<img class="alignnone size-full wp-image-734" title="corbaodpovrca" src="/wp-content/uploads/2011/03/corbaodpovrca.jpg" alt="" width="259" height="194" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Iseckano povrće staviti u lonac i propržiti na malo ulja.
@@ -52,3 +53,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-2"></span>**Korak 2.** Zatim doliti litar i po vode, spustiti oljušten krompir isečen na polovine, posoliti, dodati suvi biljni začin i kuvati dok povrće ne omekša.
 
 <span id="step-3"></span>**Korak 3.** Krem čorbu začiniti jajetom umućenim sa kiselom pavlakom, promešati i posuti seckanim peršunovim listom ili mirođijom.
+
+Krem čorba od povrća najbolje se poslužuje vruća, sa kiselom pavlakom i svežim peršunom — lagan obrok za četiri osobe.
