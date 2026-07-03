@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=284"
 permalink: /čorba-od-zelja-sa-slaninom/
-image: /wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-940x198.jpg
-description: "Čorba od zelja sa slaninom — U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku."
+image: /wp-content/uploads/2011/03/corba.od.zelja.sa.slaninom.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.zelja.sa.slaninom.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.zelja.sa.slaninom.kartica.jpg
+description: "Čorba od zelja sa slaninom je zasitna supa od zelja, slanine i kisele pavlake sa svetlom zaprškom od brašna. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -40,8 +42,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![corba od zelja](/wp-content/uploads/2011/03/Corba-od-zelja-sa-slaninom-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** U lonac sipati malo ulja, zagrejati ga, dodati brašno i napraviti svetlu zapršku.
@@ -55,3 +55,9 @@ fb_social_plugin_settings_box_send:
 <span id="step-5"></span>**Korak 5.** Pri kraju pobiberiti i ukoliko je potrebno još malo posoliti.
 
 <span id="step-6"></span>**Korak 6.** Kada je čorba kuvana, pre serviranja dodati slaninu isečenu na kockice i kratko proprženu.
+
+Čorba od zelja sa slaninom najbolje se poslužuje vruća, uz domaći hleb ili kao zasitan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — brašno proprženo na ulju pre dodavanja tečnosti; zgušnjava čorbu i daje joj puniji ukus.
