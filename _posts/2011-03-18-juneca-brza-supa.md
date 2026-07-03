@@ -6,7 +6,8 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=142"
 permalink: /juneća-brza-supa/
-description: "Juneća brza supa — mleveno juneće meso staviti u lonac, naliti hladnom vodom i kuvati 20 minuta na umerenoj temperat…"
+image: /wp-content/uploads/2011/03/juneca.brza.supa.hero.jpg
+description: Juneća brza supa je lagana, topla supa od mlevenog junećeg mesa sa zelenom i crnim lukom. Brzo se priprema za porodični ručak ili večeru, a uz rezance ili pirinač postaje još zasitniji obrok.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -32,9 +33,9 @@ tags:
   - crni luk
   - mleveno meso
   - peršunov list
+og_image: /wp-content/uploads/2011/03/juneca.brza.supa.og.jpg
+card_image: /wp-content/uploads/2011/03/juneca.brza.supa.kartica.jpg
 ---
-<img class="alignnone size-medium wp-image-830" title="supasamlevenimmesom" src="/wp-content/uploads/2011/03/supasamlevenimmesom-e1306839457546.jpg" alt="" width="228" height="133" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** mleveno juneće meso staviti u lonac, naliti hladnom vodom i kuvati 20 minuta na umerenoj temperaturi.
@@ -46,3 +47,5 @@ tags:
 <span id="step-4"></span>**Korak 4.** Proprženu zelen i luk dodati u supu, posoliti i kuvati još 10 minuta.
 
 <span id="step-5"></span>**Korak 5.** U supu se mogu dodati rezanci ili 2 kašike pirinča.
+
+Juneća brza supa poslužuje se vruća, posuta svežim peršunovim listom — idealna za hladnije dane kada treba brzo i zasitno jelo.
