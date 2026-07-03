@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=245"
 permalink: /juneća-čorba-sa-povrćem/
-description: "Čorba od junećeg mesa sa povrćem — crni luk očistiti, sitno iseckati i dinstati na malo ulja dok ne postane staklast."
+image: /wp-content/uploads/2011/03/juneca.corba.sa.povrcem.hero.jpg
+og_image: /wp-content/uploads/2011/03/juneca.corba.sa.povrcem.og.jpg
+card_image: /wp-content/uploads/2011/03/juneca.corba.sa.povrcem.kartica.jpg
+description: "Čorba od junećeg mesa sa povrćem je topla, zasitna čorba sa šargarepom, korenastim povrćem i junećim mesom, uz zapršku i kiselu pavlaku. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -61,3 +64,11 @@ tags:
 <span id="step-7"></span>**Korak 7.** Po želji, u čorbu se, prilikom služenja, može dodati kisela pavlaka.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od junećeg mesa sa povrćem najbolje se poslužuje vruća, uz domaći hleb ili kao zasitan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — mešavina brašna i začina kratko propržena na ulju, pa sipana u jelo da ga zgusne i obogati ukusom.
+
+**Legir** — mešavina žumanca i kisele pavlake koja se razmuti malo vrućom tečnosti iz jela, pa polako sipa u sud sklonjen sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
