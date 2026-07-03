@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=243"
 permalink: /čorba-od-celera-drugi-način/
-description: "Čorba od celera sa pavlakom — celer oprati, oljuštiti i iseći na kocke."
+image: /wp-content/uploads/2011/03/corba.od.celera.drugi.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.celera.drugi.nacin.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.celera.drugi.nacin.kartica.jpg
+description: "Čorba od celera sa pavlakom je kremasta supa od korena celera, brašna i kisele pavlake sa zaprškom. Prikladna je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -37,8 +40,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - default
 ---
-<img class="alignnone size-full wp-image-754" title="corbaodceleradruginacin" src="/wp-content/uploads/2011/03/corbaodceleradruginacin.jpg" alt="" width="279" height="181" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** celer oprati, oljuštiti i iseći na kocke.
@@ -50,3 +51,9 @@ fb_social_plugin_settings_box_send:
 <span id="step-4"></span>**Korak 4.** U gotovu zapršku dodati suvi biljni začin i propasiran celer, pa uz neprestano mešanje, naliti vodom u kojoj se celer kuvao.
 
 <span id="step-5"></span>**Korak 5.** Dodati malo bibera i kuvati još desetak minuta.
+
+Čorba od celera sa pavlakom poslužuje se vruća, sa seckanim listom celera po želji, kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — zagrejano ulje sa brašnom koje se kratko prži dok brašno ne dobije zlatnožutu boju, pa se polako razblažuje tečnošću uz stalno mešanje da ne nastanu grudvice.
