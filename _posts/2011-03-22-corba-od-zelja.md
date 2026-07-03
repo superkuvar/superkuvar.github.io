@@ -6,12 +6,15 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=191
 permalink: /čorba-od-zelja/
-description: Čorba od zelja — zelje oprati, odstraniti drške i preliti vrelom vodom.
+image: /wp-content/uploads/2011/03/corba.od.zelja.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.zelja.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.zelja.kartica.jpg
+description: "Čorba od zelja je lagana, kremasta supa od kuvanog zelja sa svetlom zaprškom od brašna i legurom od žumanca i kisele pavlake. Odlična je za hladnije dane, brz ručak ili večeru."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
-servings: 4 porcije
-nutrition: oko 280 kalorija po porciji
+servings: "4 porcije"
+nutrition: "oko 280 kalorija po porciji"
 ingredients:
   - zelje (2 veze)
   - 3 kašike brašna
@@ -32,8 +35,6 @@ tags:
   - kisela pavlaka
   - zelje
 ---
-![corba zelje](/wp-content/uploads/2011/03/corbazelje-300x150.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** zelje oprati, odstraniti drške i preliti vrelom vodom.
@@ -45,3 +46,11 @@ tags:
 <span id="step-4"></span>**Korak 4.** Čorbu skloniti sa štednjaka i začiniti kiselom pavlakom u kojoj je razmućeno žumance.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od zelja najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok bogat vitaminima.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — brašno proprženo na ulju pre dodavanja tečnosti; zgušnjava čorbu i daje joj puniji ukus.
+
+**Legir** — žumance razmućeno u kiseloj pavlaci, pa polako umešano u vrelu jelo sklonjeno sa vatre; zgušnjava i obogaćuje čorbu bez ključanja.
