@@ -9,7 +9,7 @@ permalink: /čorba-od-šampinjona-na-domaći-način/
 image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.hero.jpg
 og_image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.og.jpg
 card_image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.kartica.jpg
-description: "Čorba od šampinjona na domaći način je kremasto, toplo jelo od šampinjona sa zaprškom od brašna i mleka i žumancem. Odlična je za hladnije dane, lagan ručak ili večeru."
+description: "Čorba od šampinjona na domaći način je kremasta, topla čorba od dinstanih pečuraka, zaprške od brašna i mleka i umućenih žumanaca. Odlična je za hladnije dane — kao lagan ručak ili večera za celu porodicu."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -51,7 +51,7 @@ fb_social_plugin_settings_box_send:
 
 <span id="step-4"></span>**Korak 4.** Kada je čorba gotova, skloniti je sa štednjaka, začiniti umućenim žumancima i posuti seckanim peršunovim listom.
 
-Čorba od šampinjona na domaći način najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+Najukusnija je vruća, uz domaći hleb — dovoljna je za lagan ručak ili večeru za četiri osobe.
 
 **Objašnjenja kulinarskih termina:**
 
