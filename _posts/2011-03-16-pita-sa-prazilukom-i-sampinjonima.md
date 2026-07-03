@@ -6,7 +6,7 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=105
 permalink: /pita-sa-prazilukom-i-šampinjonima/
-description: Pita sa prazilukom i šampinjonima — Na malo ulja propržiti praziluk, dodati meso i šampinjone pa dinstati dok ne omekšaju.
+description: Pita sa prazilukom, šampinjonima i mlevenim mesom — hrskava slana pita pogodna za porodični ručak ili doprinos na stolu.
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -28,6 +28,9 @@ instructions:
   - Pleh namazati uljem, staviti dve kore, fil, dve kore i tako dok se ne utroši sav materijal.
   - Pitu odozgo, takođe, poprskati mešavinom vode i ulja, iseći na kocke, preliti jajima umućenim sa mlekom i peći na 220 stepeni oko 40 minuta.
   - Pečenu pitu izvaditi iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi.
+image: /wp-content/uploads/2011/03/pita.sa.prazilukom.i.sampinjonima.hero.jpg
+og_image: /wp-content/uploads/2011/03/pita.sa.prazilukom.i.sampinjonima.og.jpg
+card_image: /wp-content/uploads/2011/03/pita.sa.prazilukom.i.sampinjonima.kartica.jpg
 categories:
   - slane pite
 tags:
@@ -41,8 +44,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - default
 ---
-![pita od sampinjona](/wp-content/uploads/2011/03/pitaodsampinjona-e1306843120247.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Na malo ulja propržiti praziluk, dodati meso i šampinjone pa dinstati dok ne omekšaju.
@@ -54,3 +55,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-4"></span>**Korak 4.** Pitu odozgo, takođe, poprskati mešavinom vode i ulja, iseći na kocke, preliti jajima umućenim sa mlekom i peći na 220 stepeni oko 40 minuta.
 
 <span id="step-5"></span>**Korak 5.** Pečenu pitu izvaditi iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi.
+
+Pitu sa prazilukom i šampinjonima poslužite dok je još topla, uz jogurt ili salatu. Odličan izbor za porodični ručak ili kao deo šireg stola.
