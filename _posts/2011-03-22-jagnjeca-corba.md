@@ -6,8 +6,10 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=178
 permalink: /jagnjeća-čorba/
-image: /wp-content/uploads/2011/03/jagnjeca.corba.gotova.jpg
-description: Lagana jagnjeća čorba sa povrćem i legurom od žumanca, kisele pavlake i limuna.
+image: /wp-content/uploads/2011/03/jagnjeca.corba.hero.jpg
+og_image: /wp-content/uploads/2011/03/jagnjeca.corba.og.jpg
+card_image: /wp-content/uploads/2011/03/jagnjeca.corba.kartica.jpg
+description: Čorba od jagnjećeg mesa je lagana supa sa zelenom za supu, crnim lukom i legurom od žumanca, kisele pavlake i limuna. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -28,9 +30,9 @@ ingredients:
   - 2 supene kašike kisele pavlake
   - 2–3 supene kašike seckanog peršunovog lista
 instructions:
-  - Jagnjeće meso oprati, zelen očistiti i iseći na kolutove, crni luk sitno iseckati. Na ulju propržiti luk i zelen, dodati meso i dinstati.
-  - Naliti 1,5 litra vode, posoliti, dodati začin, biber i lovorov list. Kuvati oko 40 minuta, meso izvaditi, isitniti i vratiti u čorbu.
-  - Pre serviranja dodati legir od žumanca, soka limuna, kisele pavlake i peršuna u vrelu čorbu.
+  - Jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.
+  - Kada se meso izdinstalo, naliti vodu, posoliti po ukusu, dodati suvi biljni začin, biber po želji i lovorov list. Čorbu kuvati oko 40 minuta. Meso izvaditi, isitniti viljuškom i vratiti u čorbu. Povrće ostaviti u čorbi.
+  - Pre serviranja dodati legir u vrelu čorbu, neposredno pre iznošenja na sto.
 categories:
   - supe i čorbe
 tags:
@@ -42,14 +44,14 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** Jagnjeće meso oprati, zelen za supu očistiti i iseći na kolutove, a glavicu crnog luka sitno iseckati. Na zagrejanom ulju propržiti luk i zelen dok ne omekšaju, pa dodati meso i nastaviti sa dinstanjem.
 
-![Korak 1 — jagnjeća čorba](/wp-content/uploads/2011/03/jagnjeca.corba.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Kada se meso izdinstalo, naliti vodu, posoliti po ukusu, dodati suvi biljni začin, biber po želji i lovorov list. Čorbu kuvati oko 40 minuta. Meso izvaditi, isitniti viljuškom i vratiti u čorbu. Povrće ostaviti u čorbi.
-
-![Korak 2 — jagnjeća čorba](/wp-content/uploads/2011/03/jagnjeca.corba.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** Pre serviranja dodati legir u vrelu čorbu, neposredno pre iznošenja na sto.
 
-![Korak 3 — jagnjeća čorba](/wp-content/uploads/2011/03/jagnjeca.corba.korak3.jpg)
-
 **Legir:** umutiti žumance, sok od pola limuna, 2 supene kašike kisele pavlake i seckani peršunov list. Uzmuti sa 2–3 kašike vruće čorbe, pa polako sipati u čorbu sklonjenu sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od jagnjećeg mesa najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Legir** — mešavina žumanca, kisele pavlake i soka limuna koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
