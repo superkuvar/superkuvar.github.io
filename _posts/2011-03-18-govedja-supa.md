@@ -6,7 +6,8 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=134
 permalink: /goveđa-supa/
-description: Goveđa supa — oprati meso, staviti u lonac, naliti hladnom vodom i kuvati na tihoj vatri.
+image: /wp-content/uploads/2011/03/govedja.supa.hero.jpg
+description: Goveđa supa je tradicionalna, topla čorba od goveđeg ili junećeg mesa sa zelenom, celerom i crnim lukom. Idealna je za hladnije dane, porodični ručak ili večeru, posebno uz knedle od griza ili rezance.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -32,13 +33,13 @@ tags:
   - celer
   - meso
   - peršunov list
+og_image: /wp-content/uploads/2011/03/govedja.supa.og.jpg
+card_image: /wp-content/uploads/2011/03/govedja.supa.kartica.jpg
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
 ---
-<img class="alignnone size-full wp-image-836" title="govedjasupa" src="/wp-content/uploads/2011/03/govedjasupa1-e1306839794618.jpg" alt="" width="252" height="172" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** oprati meso, staviti u lonac, naliti hladnom vodom i kuvati na tihoj vatri.
@@ -48,3 +49,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Crni luk oljuštiti, preseći na pola, zapeći na ringli i dodati u supu.
 
 <span id="step-4"></span>**Korak 4.** Proceđenu supu vratiti na štednjak, dodati knedle od griza ili rezance i ostaviti da se kuva još desetak minuta.
+
+Domaća goveđa supa najlepše se posluži vruća, posuta svežim peršunovim listom, uz knedle od griza ili domaće rezance.
