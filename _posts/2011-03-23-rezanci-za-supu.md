@@ -20,11 +20,11 @@ ingredients:
   - oko 1 šoljica brašna (po potrebi)
   - so
 instructions:
-  - Na radnu površinu sipati brašno, napraviti udubljenje, dodati jaje i so i strpljivo umesiti glatko testo.
-  - Od testa formirati loptu, prekriti platnenom salvetom ili staviti u kesu i ostaviti da odstoji oko pola sata.
-  - Radnu površinu i testo posuti brašnom i oklagijom razviti u što tanju koru.
-  - Razvijeno testo iseći na trake ili urolati i seći nožem na tanke rezance; pre sečenja malo prosušiti.
-  - Rezance staviti na platnenu salvetu da se prosuše, pa zakuvati u vrelu supi.
+  - "Na radnu površinu sipati brašno, napraviti udubljenje, pa u njega dodati jaje i so. Umesiti glatko testo — u početku može biti izmrvljeno, zato mesiti strpljivo."
+  - "Od umešenog testa formirati loptu, prekriti je platnenom salvetom ili staviti u plastičnu kesu i ostaviti da odstoji oko pola sata."
+  - "Radnu površinu posuti brašnom, staviti testo, njega takođe posuti brašnom i oklagijom razviti u što tanju koru. Ako se testo lepi za oklagiju, posuti ga još malo brašna."
+  - "Razvijeno testo iseći na trake ili urolati kao za rolat i seći oštrim nožem na tanke rezance. Pre rezanja testo treba malo da se prosuši da se ne lepi."
+  - "Isečene rezance staviti na platnenu salvetu da se malo prosuše, a zatim ih zakuvati u vrelu supi."
 categories:
   - dodaci za supe i čorbe
 tags:
