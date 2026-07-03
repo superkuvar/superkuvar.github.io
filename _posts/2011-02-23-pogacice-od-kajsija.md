@@ -38,20 +38,14 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** U dublju posudu za mešenje staviti belanca i šećer i mutiti mikserom.
 
-![Belanca i šećer u posudi za mešenje](/wp-content/uploads/2011/02/pogacice.od.kajsija.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Kada su belanca postala čvrsta dodati džem od kajsija i nastaviti sa mućenjem dok se ne dobije potpuno čvrst sneg.
 
 <span id="step-3"></span>**Korak 3.** U umućena belanca dodati mleveni badem i pažljivo izmešati.
 
 <span id="step-4"></span>**Korak 4.** Radnu površinu posuti šećerom, sipati testo, rastanjiti ga na debljinu od pola santimetra i rakijskom čašicom vaditi pogačice.
 
-![Vadjenje pogačica rakijskom čašicom](/wp-content/uploads/2011/02/pogacice.od.kajsija.korak4.jpg)
-
 <span id="step-5"></span>**Korak 5.** Pleh namazati maslacem ili margarinom, posuti brašnom, pa u njega ređati pogačice. Peći ih desetak minuta u pećnici zagrejanoj na 180 stepeni.
 
 <span id="step-6"></span>**Korak 6.** Pečene pogačice spajati džemom od kajsija, kao vanilice, a zatim služiti.
-
-![Pogačice spojene džemom od kajsija](/wp-content/uploads/2011/02/pogacice.od.kajsija.korak6.jpg)
 
 Pogačice od kajsija su mekane i krhke — čuvajte ih u zatvorenoj posudi i služite uz čaj ili kafu. Džem od kajsija možete zameniti šipkom ili šljivom po ukusu.
