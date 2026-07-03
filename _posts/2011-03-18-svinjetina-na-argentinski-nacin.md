@@ -6,14 +6,14 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=118"
 permalink: /svinjetina-na-argentinski-način/
-description: "Svinjsko meso na argentinski način — na zagrejanom ulju pržiti sitno seckani crni i beli luk."
+description: Svinjsko meso na argentinski način je aromatično jelo od krtine, maslina, suvog grožđa i crvenog vina sa krompirom. Pogodno za porodični ručak ili večeru kada želite zasitan obrok iz jednog posuda.
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
 servings: "4 porcije"
 nutrition: "oko 250 kalorija po porciji"
 ingredients:
-  - svinjsko meso (krtina &#8211; 1/2 kg)
+  - svinjsko meso (krtina – 1/2 kg)
   - suvo grožđe (50 grama)
   - 2 krompira
   - masline (150 g)
@@ -29,6 +29,9 @@ instructions:
   - Kada omekša, dodati iseckane masline i svinjsko meso isečeno na parčiće.
   - Posoliti, pobiberiti, dodati suvi biljni začin i pržiti 15 minuta.
   - U meso dodati suvo grožđe omekšalo u vodi, preostale masline, vino i na kriške isečen krompir.
+image: /wp-content/uploads/2011/03/svinjetina.na.argentinski.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/03/svinjetina.na.argentinski.nacin.og.jpg
+card_image: /wp-content/uploads/2011/03/svinjetina.na.argentinski.nacin.kartica.jpg
 categories:
   - jela od mesa
 tags:
@@ -48,3 +51,5 @@ tags:
 <span id="step-3"></span>**Korak 3.** Posoliti, pobiberiti, dodati suvi biljni začin i pržiti 15 minuta.
 
 <span id="step-4"></span>**Korak 4.** U meso dodati suvo grožđe omekšalo u vodi, preostale masline, vino i na kriške isečen krompir.
+
+Jelo poslužiti vruće, uz kuvani pirinač ili domaći hleb — kombinacija maslina, vina i suvog grožđa daje mu poseban, blago slatkast ukus.
