@@ -26,10 +26,10 @@ ingredients:
   - 2–3 kašike ulja
   - sveža mirođija
 instructions:
-  - Propržiti praziluk na ulju, dodati grašak, paradajz pire i krompir.
-  - Naliti vodu i kuvati oko 25 minuta.
-  - Zgusnuti brašnom razmućenim u hladnoj vodi.
-  - Posuti mirođijom i servirati.
+  - Praziluk očistiti, oprati i isitniti na kolutove. U loncu zagrejati ulje, dodati praziluk i kratko propržiti da omekša.
+  - Dodati grašak, paradajz pire i krompir isečen na kockice. Naliti litar vrele vode i kuvati na umerenoj vatri oko 25 minuta, dok grašak i krompir ne omekšaju.
+  - Posoliti, dodati suvi biljni začin i biber. Brašno razmutiti u malo hladne vode i polako sipati u čorbu uz mešanje. Kuvati još 5 minuta.
+  - Skloniti sa vatre, posuti seckanom mirođijom i servirati toplo uz tost ili domaći hleb.
 categories:
   - supe i čorbe
 tags:
@@ -48,5 +48,7 @@ tags:
 <span id="step-3"></span>**Korak 3.** Posoliti, dodati suvi biljni začin i biber. Brašno razmutiti u malo hladne vode i polako sipati u čorbu uz mešanje. Kuvati još 5 minuta.
 
 <span id="step-4"></span>**Korak 4.** Skloniti sa vatre, posuti seckanom mirođijom i servirati toplo uz tost ili domaći hleb.
+
+Čorba od graška i krompira najbolje se poslužuje topla, uz tost ili domaći hleb, kao lagan obrok za četiri osobe.
 
 **Praziluk** je mladi, blagi luk u belom stabljiku — daje čorbi finu, slatkoću bez oštrine starijeg luka. Ako ga nemate, crni luk je dobra zamena.
