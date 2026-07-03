@@ -22,13 +22,13 @@ ingredients:
   - 200 g seckanih oraha
   - 2 lista veće oblande
 instructions:
-  - U šerpu sipati 200 g šećera i peći bez vode dok ne postane žut (karamel).
+  - U šerpu sipati 200 g šećera i staviti na štednjak da se bez vode peče, dok ne postane žut.
   - Penasto umutiti maslac sa preostalih 200 g šećera i žumancima.
-  - U istopljen karamel postepeno dodavati umućeni maslac sa žumancima, vratiti na jaču vatru i mešati dok ne postane glatko.
-  - Nadev kuvati na šporetu oko 5 minuta, dodati seckane orahe, skloniti i kratko ohladiti.
+  - Istopljen šećer skloniti sa štednjaka, pa u njega postepeno dodavati umućeni maslac sa žumancima, neprestano mešajući. Šerpu vratiti na jaču vatru da se sve dobro otopi, ali paziti da ne nastanu grudvice.
+  - Nadev mešati na štednjaku oko 5 minuta, zatim dodati seckane orahe. Skloniti sa štednjaka i ostaviti da se malo prohladi.
   - Veći list oblande staviti na radnu površinu i preko njega sipati nadev.
-  - Nadev ravnomerno razmazati, pokriti drugim listom oblande i rukama pritisnuti po celoj površini.
-  - Ostaviti da se nadev stegne, pa iseći oblandu na štangle i poslužiti.
+  - Nadev ravnomerno razmazati, pa odozgo staviti drugi list oblande. Rukama pritisnuti oblandu po celoj površini da se nadev i oblande spoje.
+  - Ostaviti neko vreme da se nadev stegne, pa oblandu iseći na štangle i poslužiti.
 categories:
   - kolači
 tags:
@@ -42,21 +42,13 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** U šerpu sipati 200 g šećera i staviti na štednjak da se bez vode peče, dok ne postane žut.
 
-![Karamelizacija šećera za nadev](/wp-content/uploads/2011/02/napoleon.stangle.korak1.jpg)
-
 <span id="step-2"></span>**Korak 2.** Penasto umutiti maslac sa preostalih 200 g šećera i žumancima.
-
-![Umućeni maslac, šećer i žumanca](/wp-content/uploads/2011/02/napoleon.stangle.korak2.jpg)
 
 <span id="step-3"></span>**Korak 3.** Istopljen šećer skloniti sa štednjaka, pa u njega postepeno dodavati umućeni maslac sa žumancima, neprestano mešajući. Šerpu vratiti na jaču vatru da se sve dobro otopi, ali paziti da ne nastanu grudvice.
 
 <span id="step-4"></span>**Korak 4.** Nadev mešati na štednjaku oko 5 minuta, zatim dodati seckane orahe. Skloniti sa štednjaka i ostaviti da se malo prohladi.
 
-![Nadev sa orasima](/wp-content/uploads/2011/02/napoleon.stangle.korak3.jpg)
-
 <span id="step-5"></span>**Korak 5.** Veći list oblande staviti na radnu površinu i preko njega sipati nadev.
-
-![Razmazivanje nadeva po oblandi](/wp-content/uploads/2011/02/napoleon.stangle.korak5.jpg)
 
 <span id="step-6"></span>**Korak 6.** Nadev ravnomerno razmazati, pa odozgo staviti drugi list oblande. Rukama pritisnuti oblandu po celoj površini da se nadev i oblande spoje.
 
