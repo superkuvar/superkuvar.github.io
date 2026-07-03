@@ -6,8 +6,10 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=181"
 permalink: /čorba-od-spanaća/
-image: /wp-content/uploads/2011/03/Corbaspanac-940x198.jpg
-description: "Čorba od spanaća — spanać očistiti, dobro oprati, preliti ključalom vodom i ocediti."
+image: /wp-content/uploads/2011/03/corba.od.spanaca.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.spanaca.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.spanaca.kartica.jpg
+description: "Čorba od spanaća je zelena, kremasta supa od spanaća i pirinča sa zapreškom od luka i brašna. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -42,8 +44,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - default
 ---
-![Corba spanac](/wp-content/uploads/2011/03/Corbaspanac-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** spanać očistiti, dobro oprati, preliti ključalom vodom i ocediti.
@@ -54,6 +54,10 @@ fb_social_plugin_settings_box_send:
 
 <span id="step-4"></span>**Korak 4.** Na ulju propržiti sitno isečenu glavicu crnog luka, dodati brašno, dobro promešati, skloniti sa štednjaka, dodati crvenu mlavenu papriku i zapržiti čorbu.
 
+**Zapreška:** na ulju propržiti luk i brašno, skloniti sa vatre, dodati začin i sipati u čorbu uz neprekidno mešanje da se ne stvore grudvice.
+
 <span id="step-5"></span>**Korak 5.** Čorbu posoliti i ostaviti da vri **5 minuta**, a potom skloniti sa štednjaka.
 
 <span id="step-6"></span>**Korak 6.** Po želji, umutiti jaje sa mlekom i umešati u čorbu.
+
+Čorba od spanaća poslužuje se vruća, po želji sa umućenim jajetom i mlekom. Ide uz domaći hleb ili kao lagan obrok bogat gvožđem iz spanaća.
