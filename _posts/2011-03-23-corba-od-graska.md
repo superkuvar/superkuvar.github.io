@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=222
 permalink: /čorba-od-graška/
-description: Čorba od graška — na malo ulja izdinstati sitno seckani crni luk, dodati šargarepu isečenu na kolutove, krompir ise…
+image: /wp-content/uploads/2011/03/corba.od.graska.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.graska.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.graska.kartica.jpg
+description: Čorba od graška je kremasto, toplo jelo od graška, krompira, šargarepe i mleka sa gustinom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -42,8 +45,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - default
 ---
-<img class="alignnone size-full wp-image-759" title="grasakcorba" src="/wp-content/uploads/2011/03/grasakcorba.jpg" alt="" width="259" height="194" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** na malo ulja izdinstati sitno seckani crni luk, dodati šargarepu isečenu na kolutove, krompir isečen na kockice i grašak.
@@ -53,3 +54,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Pri kraju kuvanja čorbu začiniti suvim biljnim začinom i biberom.
 
 <span id="step-4"></span>**Korak 4.** U čorbu sipati mleko u kome je razmućen gustin, promešati da se ne bi zgrudvalo i kuvati još pet minuta na tihoj vatri.
+
+Čorba od graška najbolje se poslužuje vruća, posuta peršunom ili mirođijom, uz domaći hleb ili kao lagan obrok za četiri osobe.
