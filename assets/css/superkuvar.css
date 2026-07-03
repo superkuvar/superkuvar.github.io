@@ -500,6 +500,12 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
   font-weight: 600;
 }
 
+/* Lista članaka (/clanci/) — razmak ispod narandžastog hero bloka */
+main.articles-page {
+  padding-top: 2.5rem;
+  padding-bottom: 3rem;
+}
+
 .category-layout {
   display: grid;
   grid-template-columns: 220px 1fr;
