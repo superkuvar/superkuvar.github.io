@@ -7,38 +7,35 @@ layout: post
 guid: "http://superkuvar.com/?p=261"
 permalink: /corba-od-boranije-i-krompira/
 image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.hero.jpg
-description: "Čorba od boranije i krompira — boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi."
+og_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.kartica.jpg
+description: Čorba od boranije i krompira je kremasta, topla čorba od boranije i krompira sa kiselom pavlakom i belim lukom. Odlična je za hladnije dane, lagan ručak ili večeru, a zamrznuta boranija omogućava pripremu tokom cele godine.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
-servings: "4 porcije"
-nutrition: "oko 280 kalorija po porciji"
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
 ingredients:
-  - "boranija (500 grama)"
-  - "3-4 krompira"
-  - "čen belog luka"
-  - "malo peršunovog lista"
-  - "čaša kisele pavlake"
-  - "kašičica slatke crvene sitne paprike"
-  - "1 kocka za supu"
+  - boranija (500 grama)
+  - 3-4 krompira
+  - čen belog luka
+  - malo peršunovog lista
+  - čaša kisele pavlake
+  - kašičica slatke crvene sitne paprike
+  - 1 kocka za supu
 instructions:
-  - "boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi."
-  - "Kada je boranija upola kuvana, dodati izgnječen beli luk, crvenu mlevenu papriku i kocku za supu."
-  - "U međuvremenu, oprati krompir, oljuštiti, iseći na kocke, obariti, ocediti i izgnječiti viljuškom."
-  - "Kada je čorba kuvana dodati ispasiran krompir, pavlaku i iseckan peršunov list, izmešati i poslužiti."
-  - "**Napomena**: umesto sveže može se koristiti zamrznuta boranija, tako da se ova čorba može pripremati u toku cele godine. &nbsp;"
+  - boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi.
+  - Kada je boranija upola kuvana, dodati izgnječen beli luk, crvenu mlevenu papriku i kocku za supu.
+  - U međuvremenu, oprati krompir, oljuštiti, iseći na kocke, obariti, ocediti i izgnječiti viljuškom.
+  - Kada je čorba kuvana dodati ispasiran krompir, pavlaku i iseckan peršunov list, izmešati i poslužiti.
 categories:
-  - "supe i čorbe"
+  - supe i čorbe
 tags:
-  - "crvena mlevena paprika"
-  - "boranija"
-  - "kisela pavlaka"
-  - "krompir"
-og_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.og.jpg
-card_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.kartica.jpg
+  - crvena mlevena paprika
+  - boranija
+  - kisela pavlaka
+  - krompir
 ---
-![corba od boranije i krompira](/wp-content/uploads/2011/03/%C4%8Corba-od-boranije-i-krompira1-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** boraniju oprati, očistiti i iseći na manje komade, naliti vodom i kuvati na umerenoj temperaturi.
@@ -49,4 +46,6 @@ card_image: /wp-content/uploads/2011/03/corba.od.boranije.i.krompira.kartica.jpg
 
 <span id="step-4"></span>**Korak 4.** Kada je čorba kuvana dodati ispasiran krompir, pavlaku i iseckan peršunov list, izmešati i poslužiti.
 
-<span id="step-5"></span>**Korak 5.** **Napomena**: umesto sveže može se koristiti zamrznuta boranija, tako da se ova čorba može pripremati u toku cele godine. &nbsp;
+Čorba od boranije i krompira najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Napomena:** umesto sveže može se koristiti zamrznuta boranija, tako da se ova čorba može pripremati u toku cele godine.
