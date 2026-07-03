@@ -38,7 +38,7 @@ Ulje semenke kajsije sve više dobija na popularnosti kao prirodno sredstvo za n
 
 Redovnom upotrebom, ulje semenke kajsije može pomoći u jačanju folikula dlake, čime se podstiče zdrav rast kose. Njegova hidratantna svojstva sprečavaju isušivanje i lomljenje kose, čineći je mekšom, sjajnijom i otpornijom. Takođe, ulje semenke kajsije može pomoći u smanjenju peruti i smirivanju iritirane kože glave, što je ključno za održavanje zdravog okruženja za rast kose.
 
-![rast kose](/wp-content/uploads/2024/02/rast-kose.webp)
+![Masaža kože glave uljem semenke kajsije za rast kose](/wp-content/uploads/2024/02/rast-kose.webp)
 
 Za najbolje rezultate, preporučuje se masaža kože glave uljem semenke kajsije, što poboljšava cirkulaciju i doprinosi boljem rastu kose. Ulje može biti korišćeno i kao tretman pre pranja kose, ostavljajući ga da deluje nekoliko sati ili preko noći za dubinsku negu.
 
@@ -52,7 +52,7 @@ Ulje semenke kajsije prepoznato je i po svojim hidratantnim svojstvima. Zahvalju
 
 Pored nege kože, ulje semenke kajsije ima i terapeutska svojstva. Koristi se u tretmanima za ublažavanje bolova u mišićima, zahvaljujući svojim antiinflamatornim osobinama. Takođe, blagotvorno deluje na suvu i oštećenu kosu, vraćajući joj sjaj i mekoću.
 
-![podmladjivanje](/wp-content/uploads/2024/02/apricot-kernels.webp)
+![Kostice kajsije i zlatno ulje semenke — antioksidansi za kožu](/wp-content/uploads/2024/02/apricot-kernels.webp)
 
 Za ljubitelje prirodne kozmetike, ulje semenke kajsije je pravi izbor za DIY preparate. Može se koristiti kao baza za izradu krema, balzama za usne, ili kao dodatak u prirodnim šamponima. Njegova univerzalnost čini ga svestranim sastojkom koji se lako kombinuje s drugim prirodnim uljima i esencijama.
 
@@ -60,7 +60,7 @@ Za ljubitelje prirodne kozmetike, ulje semenke kajsije je pravi izbor za DIY pre
 
 Korišćenje ulja semenke kajsije u ishrani takođe donosi brojne prednosti. Ovo ulje, bogato mononezasićenim mastima, doprinosi održavanju zdravlja srca i krvnih sudova. Njegov blagi ukus čini ga odličnim dodatkom salatama ili kao sastojak u pripremi raznih jela.
 
-![krvni sudovi](/wp-content/uploads/2024/02/ulje-kostice-kajsije3.jpg)
+![Salata sa uljem semenke kajsije — zdravlje srca i krvnih sudova](/wp-content/uploads/2024/02/ulje-kostice-kajsije3.jpg)
 
 ## Vitamini i minerali {#vitamini-i-minerali}
 
