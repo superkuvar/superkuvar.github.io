@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=278"
 permalink: /krem-čorba-od-šampinjona/
-description: "Krem čorba od šampinjona — luk očistiti, iseći na rebarca i propržiti na ulju, a zatim dodati šampinjone i šargarepu (isecka…"
+image: /wp-content/uploads/2011/03/krem.corba.od.sampinjona.hero.jpg
+og_image: /wp-content/uploads/2011/03/krem.corba.od.sampinjona.og.jpg
+card_image: /wp-content/uploads/2011/03/krem.corba.od.sampinjona.kartica.jpg
+description: "Krem čorba od šampinjona je kremasto, toplo jelo od šampinjona, crnog luka i šargarepe sa kiselom pavlakom i peršunom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -40,8 +43,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![corba krem sampinjoni](/wp-content/uploads/2011/03/corbakremsampinjoni.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** luk očistiti, iseći na rebarca i propržiti na ulju, a zatim dodati šampinjone i šargarepu (iseckanu na krupnije kockice a šampinjone na listiće).
@@ -53,3 +54,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-4"></span>**Korak 4.** Čorbu kuvati na tihoj vatri još 5-6 minuta.
 
 <span id="step-5"></span>**Korak 5.** Kada je krem čorba kuvana, posuti je iseckanim peršunovim listom i dodati kiselu pavlaku.
+
+Krem čorba od šampinjona najbolje se poslužuje vruća, sa kiselom pavlakom i svežim peršunom — lagan obrok za četiri osobe.
