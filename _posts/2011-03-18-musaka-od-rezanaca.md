@@ -6,6 +6,9 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=124
 permalink: /musaka-od-rezanaca/
+image: /wp-content/uploads/2011/03/musaka.od.rezanaca.hero.jpg
+og_image: /wp-content/uploads/2011/03/musaka.od.rezanaca.og.jpg
+card_image: /wp-content/uploads/2011/03/musaka.od.rezanaca.kartica.jpg
 description: Musaka od rezanaca sa mlevenim junećim mesom i crnim lukom — slojevito jelo od kuvanih rezanaca i mesnog nadeva, preliveno jajima i mileramom i zapečeno u rerni. Brza i zasitna porodična večera.
 prep_time: PT25M
 cook_time: PT20M
@@ -23,11 +26,11 @@ ingredients:
   - ulje
 instructions:
   - Rezance skuvati prema uputstvu na ambalaži, pa ocediti.
-  - Crni luk očistiti, iseckati na rebarca i propržiti na ulju dok ne postane staklast.
-  - U luk dodati mleveno meso, so i biber i pržiti 2–3 minuta.
-  - Posudu za pečenje podmazati uljem i ređati naizmenično red rezanaca i red mesa; poslednji red treba da budu rezanci.
+  - Crni luk očistiti, oprati, iseckati na rebarca i propržiti na ulju dok ne postane staklast.
+  - U propržen luk dodati mleveno meso, so i biber i pržiti 2–3 minuta.
+  - Posudu za pečenje podmazati uljem, pa ređati naizmenično red rezanaca i red mesa dok se ne utroši materijal. Poslednji red treba da budu rezanci.
   - Umutiti jaja sa mileramom i preliti preko musake.
-  - Zapeći 15 minuta u pećnici zagrejanoj na 180 °C.
+  - Musaku zapeći 15 minuta u pećnici zagrejanoj na 180 °C.
 categories:
   - testenine
 tags:
