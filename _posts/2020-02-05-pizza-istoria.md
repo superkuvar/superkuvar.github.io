@@ -4,6 +4,7 @@ title: ISTORIJA PIZZA
 date: 2020-01-05
 author: slava b
 layout: article
+article_column: kuvarica
 permalink: /pizza-istoria/
 published: true
 description: Od antičkog hleba na Mediteranu do napuljske picerije i Margherite — kratka istorija pizze i najpoznatijih vrsta (napoletana, siciliana, romana, margerita).

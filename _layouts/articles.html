@@ -2,7 +2,9 @@
 layout: default
 ---
 
-{% assign articles = site.posts | where_exp: "item", "item.layout == 'article'" %}
+{% assign articles = site.posts | where_exp: "item", "item.layout == 'article'" | sort: 'date' | reverse %}
+{% assign kuvarica_count = articles | where_exp: "item", "item.article_column == 'kuvarica'" | size %}
+{% assign zdravlje_count = articles | where_exp: "item", "item.article_column == 'zdravlje'" | size %}
 
 <section class="category-hero">
   <div class="category-hero-inner">
@@ -11,18 +13,47 @@ layout: default
       <span style="color:#fff;">Članci</span>
     </nav>
     <h1>Članci</h1>
-    <p>Informativni tekstovi o zdravlju, ishrani, istoriji i praktičnim savetima — bez recepta za kuvanje.</p>
+    <p>Informativni tekstovi o zdravlju i ishrani, tehnikama kuvanja, sastojcima, tradiciji i bezbednosti — vodiči i enciklopedije bez jednog recepta.</p>
     <div class="category-stats">
       <span>📖 {{ articles.size }} članaka</span>
+      <span>🍳 {{ kuvarica_count }} Kuvarica</span>
+      <span>💚 {{ zdravlje_count }} Zdravlje</span>
     </div>
   </div>
 </section>
 
 <main class="container articles-page">
-  <div class="recipe-grid">
+  <nav class="articles-filter" aria-label="Filter članaka">
+    <button type="button" class="articles-filter-btn is-active" data-filter="all">Svi članci</button>
+    <button type="button" class="articles-filter-btn" data-filter="kuvarica">Kuvarica</button>
+    <button type="button" class="articles-filter-btn" data-filter="zdravlje">Zdravlje</button>
+  </nav>
+
+  <div class="recipe-grid" id="articles-grid">
     {% for post in articles %}
-      {% include recipe-card.html post=post %}
+      <div class="articles-grid-item" data-column="{{ post.article_column | default: 'zdravlje' }}">
+        {% include recipe-card.html post=post %}
+      </div>
     {% endfor %}
   </div>
   {% include ad-bottom.html %}
 </main>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.articles-filter-btn');
+  var items = document.querySelectorAll('.articles-grid-item');
+  if (!buttons.length || !items.length) return;
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var filter = btn.getAttribute('data-filter');
+      buttons.forEach(function (b) { b.classList.toggle('is-active', b === btn); });
+      items.forEach(function (item) {
+        var col = item.getAttribute('data-column');
+        var show = filter === 'all' || col === filter;
+        item.style.display = show ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>

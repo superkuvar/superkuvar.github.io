@@ -19,7 +19,11 @@
       {% if include.post.servings %} · {{ include.post.servings }}{% endif %}
       {% endif %}
     </div>
-    {% if include.post.categories.first %}
+    {% if include.post.article_column == 'kuvarica' %}
+    <span class="tag tag-kuvarica">Kuvarica</span>
+    {% elsif include.post.article_column == 'zdravlje' %}
+    <span class="tag tag-zdravlje">Zdravlje</span>
+    {% elsif include.post.categories.first %}
     <span class="tag">{{ include.post.categories.first }}</span>
     {% endif %}
   </div>

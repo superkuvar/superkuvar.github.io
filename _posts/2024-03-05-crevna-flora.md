@@ -4,6 +4,7 @@ title: ZDRAVA CREVNA FLORA
 date: 2023-03-03T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /zdrava-crevna-flora/
 published: true
 description: Probiotici iz hrane grade zdravu crevnu floru — fermentisani mlečni proizvodi, kiselo povrće, pasulj i prebiotici. Praktičan vodič sa balkanskim navikama i receptima sa Superkuvara.

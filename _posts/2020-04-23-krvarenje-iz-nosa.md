@@ -4,6 +4,7 @@ title: KRVARENJE IZ NOSA
 date: 2020-04-23T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /krvarenje-iz-nosa/
 published: true
 description: Kako zaustaviti krvarenje iz nosa kod kuće, kada pozvati lekara i koje navike pomažu u prevenciji — bez panike.

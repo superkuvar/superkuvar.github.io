@@ -528,6 +528,28 @@ URL: https://superkuvar.com/...
 „Najnoviji recepti“ na početnoj. Recepti (npr. pizza, tiramisu) ostaju.
 Novi članak: postavi `layout: article` — automatski isključen sa home.
 
+### Sekcija /clanci/ — Kuvarica i Zdravlje
+
+Na listi članaka (`clanci.md`, layout `articles`) filter deli sadržaj u dve kolone:
+
+| `article_column` | Sadržaj |
+|------------------|---------|
+| `kuvarica` | Tehnike kuvanja, sastojci, zimnica, post, tradicija, bezbednost |
+| `zdravlje` | Vitamini, prevencija, biljke, suplementi |
+
+U YAML svakog članka dodaj:
+
+```yaml
+article_column: kuvarica   # ili zdravlje
+```
+
+Kartica na `/clanci/` prikazuje tag **Kuvarica** ili **Zdravlje**. Svaki novi
+članak treba da linkuje **5–10 postojećih recepata** na superkuvar.com (relativni
+permalinki). Tehničke teme piši po modelu `/kafa/` — više `###` kartica.
+
+Opis stranice `/clanci/` obuhvata zdravlje, ishranu, tehnike kuvanja, sastojke,
+tradicionu i bezbednost — ne samo zdravlje.
+
 ---
 
 *superkuvar.com · Uputstvo za članke (article)*

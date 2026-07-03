@@ -4,6 +4,7 @@ title: ZAŠTO SU PEČURKE OTROVNE
 date: 2023-03-08T15:53:36+00:00
 author: batalex
 layout: article
+article_column: kuvarica
 permalink: /otrovne-pecurke/
 published: true
 description: Najčešći toksini u otrovnim pečurkama i primeri najopasnijih vrsta u Srbiji — amatoksini, muskarin, zelena pupavka, bela pupavka i lažni smrčak. Saveti za bezbedno branje.

@@ -4,6 +4,7 @@ title: GLJIVIČNE INFEKCIJE
 date: 2020-04-23T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /gljivicne-infekcije/
 published: true
 description: Lečenje i prevencija kandidijaze i tinea infekcija — od antigljivičnih krema do prirodnih pomoćnih sredstava i svakodnevne higijene.

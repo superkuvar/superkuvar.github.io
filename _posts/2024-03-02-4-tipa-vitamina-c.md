@@ -4,6 +4,7 @@ title: 4 TIPA VITAMINA C
 date: 2023-02-02T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /4-tipa-vitamina-c/
 published: true
 description: Četiri glavne forme vitamina C — iz celih namirnica, askorbinska kiselina, mineralni askorbat i liposomalni — i kako izabrati pravu za vas.

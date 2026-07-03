@@ -4,6 +4,7 @@ title: SILICIJUM
 date: 2023-03-08T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /silicijum/
 published: true
 description: Silicijum za zdrave kosti, elastične krvne sudove i negu kože, kose i noktiju — kako ga unositi kroz ishranu i suplemente.

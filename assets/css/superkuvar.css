@@ -506,6 +506,51 @@ main.articles-page {
   padding-bottom: 3rem;
 }
 
+.articles-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.75rem;
+}
+
+.articles-filter-btn {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.45rem 1rem;
+  border-radius: 999px;
+  border: 2px solid var(--orange-light);
+  background: var(--white);
+  color: var(--brown);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.articles-filter-btn:hover {
+  border-color: var(--orange);
+  color: var(--orange-hover);
+}
+
+.articles-filter-btn.is-active {
+  background: var(--orange);
+  border-color: var(--orange);
+  color: #fff;
+}
+
+.articles-grid-item {
+  display: block;
+}
+
+.recipe-card .tag-kuvarica {
+  background: #f5e6d0;
+  color: #8b5a2b;
+}
+
+.recipe-card .tag-zdravlje {
+  background: #e0f0e4;
+  color: #2d6a3e;
+}
+
 .category-layout {
   display: grid;
   grid-template-columns: 220px 1fr;

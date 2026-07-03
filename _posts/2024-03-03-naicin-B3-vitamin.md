@@ -4,6 +4,7 @@ title: NAICIN (VITAMIN B3) LEK ZA SPREČAVANJE SRČANIH UDARA
 date: 2023-03-03T15:53:36+00:00
 author: batalex
 layout: article
+article_column: zdravlje
 permalink: /naicin/
 published: true
 description: Niacin (vitamin B3) u ishrani i kao suplement — uticaj na holesterol, trigliceride i kardiovaskularno zdravlje. Gde ga naći i na šta paziti.
