@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=236"
 permalink: /čorba-od-krompira/
-image: /wp-content/uploads/2011/03/čorba-od-krompira-940x198.jpg
-description: "Čorba od krompira — krompir oprati, oljuštiti i iseckati na kockice."
+image: /wp-content/uploads/2011/03/corba.od.krompira.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.krompira.kartica.jpg
+description: "Čorba od krompira je kremasto, toplo jelo od krompira i praziluka sa kiselom pavlakom i tvrdo kuvanim jajima. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -40,8 +42,6 @@ tags:
   - "praziluk"
   - "jaja"
 ---
-![čorba od krompira](/wp-content/uploads/2011/03/čorba-od-krompira-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** krompir oprati, oljuštiti i iseckati na kockice.
@@ -55,3 +55,5 @@ tags:
 <span id="step-5"></span>**Korak 5.** U gotovu čorbu dodati iseckan peršunov list, komadić margarina i kiselu pavlaku.
 
 <span id="step-6"></span>**Korak 6.** Prilikom serviranja, u svaki tanjir sa čorbom dodati jaja isečena na kriške (četvrtine). &nbsp;
+
+Čorba od krompira najbolje se poslužuje vruća, sa kiselom pavlakom i jajima u tanjiru — jednostavan i zasitan obrok za četiri osobe.
