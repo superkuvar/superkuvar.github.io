@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=199"
 permalink: /čorba-sa-šampinjonima-i-celerom/
-description: "Čorba sa šampinjonima i celerom — Celer oprati, oljuštiti i izrendati na trenici."
+image: /wp-content/uploads/2011/03/corba.sa.sampinjonima.i.celerom.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.sa.sampinjonima.i.celerom.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.sa.sampinjonima.i.celerom.kartica.jpg
+description: "Čorba sa šampinjonima i celerom je kremasta, lagana supa od pečuraka i celera sa legurom od žumanca i kisele pavlake. Odlična je za hladnije dane, brz ručak ili laganu večeru."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -35,8 +38,6 @@ tags:
   - peršunov list
   - šampinjoni
 ---
-<img class="alignnone size-full wp-image-786" title="corbaodsampinjonaicelera" src="/wp-content/uploads/2011/03/corbaodsampinjonaicelera.jpg" alt="" width="259" height="194" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Celer oprati, oljuštiti i izrendati na trenici.
@@ -50,3 +51,5 @@ tags:
 <span id="step-5"></span>**Korak 5.** Umutiti žumance sa pavlakom i sipati u gotovu čorbu.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba sa šampinjonima i celerom najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
