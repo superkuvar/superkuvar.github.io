@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=157"
 permalink: /teleća-čorba/
-description: "Teleća čorba — teleće meso iseći na kocke, staviti u lonac i naliti vodom."
+image: /wp-content/uploads/2011/03/teleca.corba.hero.jpg
+og_image: /wp-content/uploads/2011/03/teleca.corba.og.jpg
+card_image: /wp-content/uploads/2011/03/teleca.corba.kartica.jpg
+description: "Teleća čorba je lagana domaća čorba od telećeg mesa, zelenog za supu i kisele pavlake. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -40,8 +43,6 @@ tags:
   - meso
   - peršunov list
 ---
-<img class="alignnone size-full wp-image-826" title="telecacorba" src="/wp-content/uploads/2011/03/telecacorba1-e1306839091407.jpg" alt="" width="255" height="161" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** teleće meso iseći na kocke, staviti u lonac i naliti vodom.
@@ -57,3 +58,7 @@ tags:
 <span id="step-6"></span>**Korak 6.** Dodati limunov sok, a zatim čorbu posuti seckanim peršunovim listom i služiti.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Teleću čorbu poslužiti toplu, uz domaći hleb ili kao laganiji glavni obrok za celu porodicu.
+
+**Objašnjenja kulinarskih termina:** Svetla zaprška je mešavina ulja i brašna kratko propržena na tihoj vatri dok brašno ne dobije blago žućkastu boju, pa se sipa u vrelu tečnost da je zgusne i obogati ukus.
