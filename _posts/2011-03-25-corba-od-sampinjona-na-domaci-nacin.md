@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=259"
 permalink: /čorba-od-šampinjona-na-domaći-način/
-description: "Čorba od šampinjona na domaći način — Isitnjene šampinjone staviti na zagrejani margarin i dinstati oko 15 minuta, a zatim naliti litro…"
+image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.sampinjona.na.domaci.nacin.kartica.jpg
+description: "Čorba od šampinjona na domaći način je kremasto, toplo jelo od šampinjona sa zaprškom od brašna i mleka i žumancem. Odlična je za hladnije dane, lagan ručak ili večeru."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -38,8 +41,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![sampinjoni corba](/wp-content/uploads/2011/03/sampinjonicorbadom1.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Isitnjene šampinjone staviti na zagrejani margarin i dinstati oko 15 minuta, a zatim naliti litrom tople vode, posoliti i kuvati oko 20 minuta.
@@ -49,3 +50,9 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Pred kraj kuvanja u čorbu dodati pripremljenu zapršku od brašna i mleka.
 
 <span id="step-4"></span>**Korak 4.** Kada je čorba gotova, skloniti je sa štednjaka, začiniti umućenim žumancima i posuti seckanim peršunovim listom.
+
+Čorba od šampinjona na domaći način najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — mešavina proprženog brašna i mleka kojom se zgusne i obogati jelo.
