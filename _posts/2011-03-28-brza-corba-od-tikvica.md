@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=280"
 permalink: /brza-čorba-od-tikvica/
-image: /wp-content/uploads/2011/03/Brza-corba-od-tikvica-940x198.jpg
-description: "Brza čorba od tikvica — na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po …"
+image: /wp-content/uploads/2011/03/brza.corba.od.tikvica.hero.jpg
+og_image: /wp-content/uploads/2011/03/brza.corba.od.tikvica.og.jpg
+card_image: /wp-content/uploads/2011/03/brza.corba.od.tikvica.kartica.jpg
+description: "Brza čorba od tikvica je lagana čorba od tikvica, crnog i belog luka sa brašnom, završena kiselom pavlakom i jajetom. Odlična je za brzi ručak ili večeru u sezoni tikvica."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -40,8 +42,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![brza čorba od tikvica](/wp-content/uploads/2011/03/Brza-corba-od-tikvica-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** na ulju propržiti crni luk isečen na rebarca, pa dodati brašno, promešati i naliti sa litar i po vode.
@@ -49,3 +49,11 @@ fb_social_plugin_settings_box_send:
 <span id="step-2"></span>**Korak 2.** U vodu dodati tikvice isečene na kockice i iseckan beli luk, dodati suvi biljni začin, pa čorbu kuvati dvadesetak minuta.
 
 <span id="step-3"></span>**Korak 3.** Kada je čorba gotova, posuti je seckanom mirođijom i začiniti kiselom pavlakom u kojoj je razmućeno jaje.
+
+**Legir:** razmutiti jaje u kiseloj pavlaci, uzmuti sa nekoliko kašika vruće čorbe, pa polako sipati u čorbu sklonjenu sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Brza čorba od tikvica poslužuje se vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Legir** — mešavina jajeta i kisele pavlake koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
