@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: http://superkuvar.com/?p=144
 permalink: /knedle-od-griza-za-supu/
-description: Knedle od griza za supu — dobro umutiti margarin sa žumancima.
+image: /wp-content/uploads/2011/03/knedle.od.griza.za.supu.hero.jpg
+og_image: /wp-content/uploads/2011/03/knedle.od.griza.za.supu.og.jpg
+card_image: /wp-content/uploads/2011/03/knedle.od.griza.za.supu.kartica.jpg
+description: Knedle od griza za supu su lagani, mekani dodatak od griza, jaja i margarina koji narastu u ključaloj supi. Idealne za domaću bistru čorbu ili juneću supu na hladnim danima.
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -29,8 +32,6 @@ tags:
   - margarin
   - jaja
 ---
-![knedle za supu](/wp-content/uploads/2011/03/knedlezasupu-300x150.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** dobro umutiti margarin sa žumancima.
@@ -40,3 +41,5 @@ tags:
 <span id="step-3"></span>**Korak 3.** Ukoliko se prva knedla raspadne, to je znak da u testo treba dodati još malo griza.
 
 <span id="step-4"></span>**Korak 4.** Knedle kuvati dok ne narastu i isplivaju na površinu supe.
+
+Knedle od griza za supu spremne su za nekoliko minuta i odlično upijaju ukus domaće supe. Ako prva knedla pukne pri kuvanju, dodajte još malo griza u testo pre nego što formirate ostale.
