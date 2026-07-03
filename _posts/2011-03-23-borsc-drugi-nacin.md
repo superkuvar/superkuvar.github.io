@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=229
 permalink: /boršč-drugi-način/
-description: Boršč (drugi način) — meso iseći na kocke, preliti litrom i po vode, dodati so, biber i izgnječeni beli luk i kuvati tr…
+image: /wp-content/uploads/2011/03/borsc.drugi.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/03/borsc.drugi.nacin.og.jpg
+card_image: /wp-content/uploads/2011/03/borsc.drugi.nacin.kartica.jpg
+description: Boršč (drugi način) je bogata, crvenkasta supa od goveđeg mesa, cvekle, kupusa i povrća sa kiselom pavlakom. Odličan je za hladnije dane, porodični ručak ili večeru uz domaći hleb.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -44,8 +47,6 @@ tags:
   - paradajz
   - šargarepa
 ---
-<img class="alignnone size-full wp-image-781" title="borscdruginacin" src="/wp-content/uploads/2011/03/borscdruginacin.jpg" alt="" width="229" height="220" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** meso iseći na kocke, preliti litrom i po vode, dodati so, biber i izgnječeni beli luk i kuvati tridesetak minuta.
@@ -55,3 +56,5 @@ tags:
 <span id="step-3"></span>**Korak 3.** Jednu svežu cveklu izrendati, iscediti sok, sipati ga u boršč i još malo prokuvati.
 
 <span id="step-4"></span>**Korak 4.** U gotov boršč dodati sirće (limunov sok), iseckani peršunov list i preliti kiselom pavlakom.
+
+Boršč po drugom načinu najbolje se poslužuje vruć, sa kiselom pavlakom i svežim peršunom — zasitan obrok za četiri osobe.
