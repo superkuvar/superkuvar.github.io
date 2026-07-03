@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=238"
 permalink: /čorba-od-šargarepe/
-description: "Čorba od šargarepe — šargarepu očistiti, oprati i narendati na trenici."
+image: /wp-content/uploads/2011/03/corba.od.sargarepe.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.sargarepe.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.sargarepe.kartica.jpg
+description: "Čorba od šargarepe je kremasto, toplo jelo od narendane šargarepe sa kiselom pavlakanom i jajetom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -40,8 +43,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-<img class="alignnone size-full wp-image-756" title="corbaodsargarepe" src="/wp-content/uploads/2011/03/corbaodsargarepe.jpg" alt="" width="249" height="203" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** šargarepu očistiti, oprati i narendati na trenici.
@@ -51,3 +52,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Kada čorba provri dodati nekoliko zrna bibera, so i suvi biljni začin i kuvati oko 30 minuta, dok šargarepa ne omekša.
 
 <span id="step-4"></span>**Korak 4.** Gotovu čorbu skloniti sa štednjaka i začiniti jajetom razmućenim u mešavini pavlake i mleka.
+
+Čorba od šargarepe najbolje se poslužuje vruća, posuta seckanim peršunovim listom, uz domaći hleb ili kao lagan obrok za četiri osobe.
