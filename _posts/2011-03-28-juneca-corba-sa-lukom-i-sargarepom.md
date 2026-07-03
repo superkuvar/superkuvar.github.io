@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=286"
 permalink: /juneća-čorba-sa-lukom-i-šargarepom/
-description: "Juneća čorba sa lukom i šargarepom — juneće meso i šargarepu isitniti na kocke, a luk na listiće, pa sve dinstati na laganoj vatri dok…"
+image: /wp-content/uploads/2011/03/juneca.corba.sa.lukom.i.sargarepom.hero.jpg
+og_image: /wp-content/uploads/2011/03/juneca.corba.sa.lukom.i.sargarepom.og.jpg
+card_image: /wp-content/uploads/2011/03/juneca.corba.sa.lukom.i.sargarepom.kartica.jpg
+description: "Juneća čorba sa lukom i šargarepom je toplo, zasitno jelo od junećeg mesa, šargarepe i crnog luka sa grizom i jajetom. Odlična je za hladnije dane, porodični ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -39,8 +42,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![juneca corba sargarepica](/wp-content/uploads/2011/03/junecacorbasasargarepom.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** juneće meso i šargarepu isitniti na kocke, a luk na listiće, pa sve dinstati na laganoj vatri dok luk ne postane staklast.
@@ -50,3 +51,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Čorbu kuvati na umerenoj temperaturi dok meso ne bude mekano.
 
 <span id="step-4"></span>**Korak 4.** Pri kraju kuvanja, u čorbu dodati razmućeno jaje sa grizom, vrelu vodu do željene gustine i ostaviti da vri još nekoliko minuta na laganoj vatri.
+
+Juneća čorba sa lukom i šargarepom poslužuje se vruća, posuta seckanim peršunovim listom, uz domaći hleb ili kao zasitan obrok za četiri osobe.
