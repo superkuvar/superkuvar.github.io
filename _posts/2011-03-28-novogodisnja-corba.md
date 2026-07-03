@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=290"
 permalink: /novogodišnja-čorba/
-description: "Čorba sa mesom i povrćem — meso naliti sa 2 litra vode i staviti da se kuva."
+image: /wp-content/uploads/2011/03/novogodisnja.corba.hero.jpg
+og_image: /wp-content/uploads/2011/03/novogodisnja.corba.og.jpg
+card_image: /wp-content/uploads/2011/03/novogodisnja.corba.kartica.jpg
+description: "Čorba sa mesom i povrćem je zasitna supa od telećeg ili junećeg mesa, šargarepe, celera, peršuna, paškanata i graška sa zaprškom i kiselom pavlakom. Odlična je za novogodišnje praznike, hladne dane i porodični ručak."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -58,3 +61,11 @@ tags:
 <span id="step-5"></span>**Korak 5.** Pred serviranje, čorbu začiniti kiselom pavlakom u kojoj je razmućeno žumance.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Novogodišnja čorba sa mesom i povrćem najbolje se poslužuje vruća, uz domaći hleb, kao zasitan praznični obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — brašno proprženo na ulju koje se razblaži tečnošću iz čorbe i pomeša sa ostatkom da zgusne čorbu.
+
+**Legir** — mešavina žumanca i kisele pavlake koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga obogati, bez ponovnog ključanja.
