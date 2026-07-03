@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=249"
 permalink: /corba-od-kelerabe/
-description: "Čorba od kelerabe — kelerabu oprati, oljuštiti i isitniti na kockice ili kriške."
+image: /wp-content/uploads/2011/03/corba.od.kelerabe.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.kelerabe.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.kelerabe.kartica.jpg
+description: "Čorba od kelerabe je kremasta supa od kelerabe, crnog luka i brašna sa kiselom pavlakom i žumancem. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -37,8 +40,6 @@ tags:
   - "keleraba"
   - "kisela pavlaka"
 ---
-![corba od kelerabe](/wp-content/uploads/2011/03/corbaodkelerabe.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** kelerabu oprati, oljuštiti i isitniti na kockice ili kriške.
@@ -56,3 +57,9 @@ tags:
 <span id="step-7"></span>**Korak 7.** Keleraba je ukusna i ako se dinsta, kuva pa zatim pohuje ili peče u rerni.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od kelerabe najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Legir** — mešavina žumanca i kisele pavlake koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
