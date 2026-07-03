@@ -6,7 +6,10 @@ author: admin
 layout: post
 guid: "http://superkuvar.com/?p=193"
 permalink: /čorba-od-kopriva-i-povrća/
-description: "Čorba od koprive i povrća — koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti."
+image: /wp-content/uploads/2011/03/corba.od.koprive.i.povrca.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.koprive.i.povrca.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.koprive.i.povrca.kartica.jpg
+description: "Čorba od koprive i povrća je lagana, zelena supa od koprive, mladog crnog luka, šargarepe i paškanata sa pirinčem. Odlična je za prolećne dane, zdrav ručak ili večeru, a kiselom pavlakom postaje još puniji obrok."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -39,8 +42,6 @@ tags:
   - pirinač
   - šargarepa
 ---
-<img class="alignnone size-full wp-image-789" title="corbaodkoprivaipovrca" src="/wp-content/uploads/2011/03/corbaodkoprivaipovrca.jpg" alt="" width="231" height="218" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** koprivu očistiti, oprati, posoliti, ostaviti da odstoji desetak minuta, a zatim isitniti.
@@ -54,3 +55,5 @@ tags:
 <span id="step-5"></span>**Korak 5.** Čorbu kuvati 30 minuta na umerenoj temperaturi, a pred kraj kuvanja začiniti je kiselom pavlakom u kojoj je razmućeno žumance.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od koprive i povrća najbolje se poslužuje vruća, uz domaći hleb ili kao lagan prolećni obrok bogat vitaminima.
