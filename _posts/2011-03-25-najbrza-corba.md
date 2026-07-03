@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=255"
 permalink: /najbrža-čorba/
-image: /wp-content/uploads/2011/03/Najbrzacorba-940x198.jpg
-description: "Najbrža čorba sa dronjcima od testa — u loncu zagrejati ulje i dodati kašiku brašna."
+image: /wp-content/uploads/2011/03/najbrza.corba.hero.jpg
+og_image: /wp-content/uploads/2011/03/najbrza.corba.og.jpg
+card_image: /wp-content/uploads/2011/03/najbrza.corba.kartica.jpg
+description: "Najbrža čorba sa dronjcima od testa je lagana čorba od brašna, jajeta i limuna sa bledom zaprškom. Odlična je za brz ručak ili večeru kada treba toplo jelo bez dugog kuvanja."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -41,13 +43,13 @@ tags:
   - "muskatni oraščić"
   - "peršunov list"
 ---
-![Najbrza corba](/wp-content/uploads/2011/03/Najbrzacorba-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** u loncu zagrejati ulje i dodati kašiku brašna.
 
 <span id="step-2"></span>**Korak 2.** Propržiti da se dobije bleda zaprška, pa naliti litrom i po vode.
+
+**Zaprška:** propržiti brašno na ulju dok ne postane bledo žućkasto — osnova za zgušnjavanje čorbe.
 
 <span id="step-3"></span>**Korak 3.** Promešati i ostaviti da voda provri.
 
@@ -60,3 +62,9 @@ tags:
 <span id="step-7"></span>**Korak 7.** Posle pet minuta kuvanja, u čorbu dodati sitno seckani peršunov list i sok od limuna.
 
 <span id="step-8"></span>**Korak 8.** Po želji, može se dodati i malo margarina ili kisele pavlake.
+
+Najbrža čorba sa dronjcima od testa poslužuje se vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — brašno proprženo na ulju dok ne postane bledo žućkasto; služi za zgušnjavanje čorbe i daje joj puniji ukus.
