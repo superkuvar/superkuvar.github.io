@@ -6,7 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=251"
 permalink: /corba-od-kelerabe-drugi-nacin/
-description: "Čorba od rendane kelerabe — kelerabu oprati, oljuštiti i narendati."
+image: /wp-content/uploads/2011/03/corba.od.kelerabe.drugi.nacin.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.kelerabe.drugi.nacin.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.kelerabe.drugi.nacin.kartica.jpg
+description: "Čorba od rendane kelerabe je kremasta supa od narendane kelerabe, bele zaprške i kisele pavlake sa žumancem. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -36,8 +39,6 @@ tags:
   - "kisela pavlaka"
   - "peršunov list"
 ---
-![corba od spanaca](/wp-content/uploads/2011/03/corba-od-spanaca-turska.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** kelerabu oprati, oljuštiti i narendati.
@@ -53,3 +54,11 @@ tags:
 <span id="step-6"></span>**Korak 6.** Stabljika i mlado lišće kelerabe su takođe jestivi, pa ih ne treba bacati, već isitniti i dodati u čorbu.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od rendane kelerabe poslužuje se vruća, posuta peršunovim listom, kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Zaprška** — zagrejano ulje sa brašnom koje se kratko prži dok brašno ne dobije zlatnožutu boju, pa se polako razblažuje tečnošću uz stalno mešanje da ne nastanu grudvice.
+
+**Legir** — mešavina žumanca i kisele pavlake koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
