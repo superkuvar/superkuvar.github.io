@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=314"
 permalink: /corba-od-sargarepe-i-tikvica/
-image: /wp-content/uploads/2011/03/Čorbaodšargarepeitikvica-940x198.jpg
-description: "Čorba od šargarepe i tikvica — crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži."
+image: /wp-content/uploads/2011/03/corba.od.sargarepe.i.tikvica.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.sargarepe.i.tikvica.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.sargarepe.i.tikvica.kartica.jpg
+description: "Čorba od šargarepe i tikvica je kremasto jelo od šargarepe, tikvica i griza sa kiselom pavlakom i jajetom. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -41,8 +43,6 @@ tags:
   - "šargarepa"
   - "tikvice"
 ---
-<img class="alignnone size-medium wp-image-3315" title="Čorbaodšargarepeitikvica" src="/wp-content/uploads/2011/03/%C4%8Corbaodšargarepeitikvica-1024x768.jpg" alt="" width="300" height="225" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** crni luk očistiti, sitno iseckati i staviti na zagrejano ulje da se malo proprži.
@@ -54,3 +54,5 @@ tags:
 <span id="step-4"></span>**Korak 4.** Čorbu kuvati na umerenoj temperaturi 30 minuta.
 
 <span id="step-5"></span>**Korak 5.** Kada je čorba gotova umešati pavlaku sa jajetom (može i samo pavlaka), po ukusu posoliti i pobiberiti, vratiti na štednjak da ponovo proključa, a zatim skloniti sa vatre.
+
+Čorba od šargarepe i tikvica najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
