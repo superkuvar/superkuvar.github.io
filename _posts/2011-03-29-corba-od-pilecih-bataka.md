@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=309"
 permalink: /čorba-od-pilećih-bataka/
-image: /wp-content/uploads/2011/03/Corba-od-pilecih-bataka-940x198.jpg
-description: "Čorba od pilećih bataka — naliti u lonac litar i po vode, staviti povrće i pileće batake, pa kad voda proključa, posoliti i…"
+image: /wp-content/uploads/2011/03/corba.od.pilecih.bataka.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.pilecih.bataka.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.pilecih.bataka.kartica.jpg
+description: "Čorba od pilećih bataka je lagana supa sa šargarepom, krompirom i rezancima, začinjena kiselom pavlakom i žumancem. Odlična je za hladnije dane, porodični ručak ili večeru."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -40,8 +42,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![Corba od pilecih bataka](/wp-content/uploads/2011/03/Corba-od-pilecih-bataka-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** naliti u lonac litar i po vode, staviti povrće i pileće batake, pa kad voda proključa, posoliti i dodati malo suvog biljnog začina i bibera.
@@ -51,3 +51,9 @@ fb_social_plugin_settings_box_send:
 <span id="step-3"></span>**Korak 3.** Skuvanu čorbu začiniti umućenom pavlakom i žumancetom i posuti seckanim listom celera ili peršuna.
 
 **Legir:** umutiti žumance sa sokom limuna i kiselom pavlakom. Uzeti malo vruće tečnosti iz jela, polako umutiti, pa vratiti u sud sklonjen sa vatre, neprekidno mešajući. Ne dovesti ponovo do ključanja.
+
+Čorba od pilećih bataka najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
+
+**Objašnjenja kulinarskih termina:**
+
+**Legir** — mešavina žumanca i kisele pavlake koja se razmuti malo vrućom čorbom, pa polako sipa u jelo sklonjeno sa vatre da ga zgusne i obogati, bez ponovnog ključanja.
