@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=307"
 permalink: /juneća-čorba-sa-karfiolom/
-image: /wp-content/uploads/2011/03/Junecacorbasakarfiolom-940x198.jpg
-description: "Čorba od junećeg mesa i karfiola — Na malo ulja propržiti sitno seckani praziluk, dodati meso i povrće i još kratko propržiti, a zat…"
+image: /wp-content/uploads/2011/03/juneca.corba.sa.karfiolom.hero.jpg
+og_image: /wp-content/uploads/2011/03/juneca.corba.sa.karfiolom.og.jpg
+card_image: /wp-content/uploads/2011/03/juneca.corba.sa.karfiolom.kartica.jpg
+description: "Čorba od junećeg mesa i karfiola je kremasta, topla čorba sa prazilukom, karfiolom i završnicom od kisele pavlake i jajeta. Odlična je za hladnije dane, porodični ručak ili večeru uz hleb."
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -47,8 +49,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-<img class="alignnone size-medium wp-image-4935" title="Junecacorbasakarfiolom" src="/wp-content/uploads/2011/03/Junecacorbasakarfiolom-1024x768.jpg" alt="" width="300" height="225" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** Na malo ulja propržiti sitno seckani praziluk, dodati meso i povrće i još kratko propržiti, a zatim naliti litrom i po tople vode i staviti da se kuva.
@@ -60,3 +60,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-4"></span>**Korak 4.** Kuvati još desetak minuta.
 
 <span id="step-5"></span>**Korak 5.** Gotovu čorbu začiniti limunovim sokom i pavlakom u kojoj je razmućeno jaje, a odozgo posuti seckanim peršunovim listom.
+
+Čorba od junećeg mesa i karfiola poslužuje se vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
