@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=322"
 permalink: /gratinirani-pire-krompir/
-image: /wp-content/uploads/2011/03/gratiniranipirekrompir1-940x198.jpg
-description: "Gratinirani pire krompir — krompir oprati, oljuštiti, iseći na kocke, naliti vodom da ogrezne, posoliti i skuvati."
+image: /wp-content/uploads/2011/03/gratinirani.pire.krompir.hero.jpg
+og_image: /wp-content/uploads/2011/03/gratinirani.pire.krompir.og.jpg
+card_image: /wp-content/uploads/2011/03/gratinirani.pire.krompir.kartica.jpg
+description: "Gratinirani pire krompir je kremasti prilog od kuvanog krompira sa margarinom i muskatnim oraščićem, zapečen posut struganim kačkavaljem. Odličan uz pečeno meso ili kao bogat prilog porodičnom ručku."
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -34,8 +36,6 @@ tags:
   - "krompir"
   - "muskatni oraščić"
 ---
-![gratinirani pire](/wp-content/uploads/2011/03/gratiniranipirekrompir1.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** krompir oprati, oljuštiti, iseći na kocke, naliti vodom da ogrezne, posoliti i skuvati.
@@ -45,3 +45,5 @@ tags:
 <span id="step-3"></span>**Korak 3.** Začiniti sa malo bibera i na vrh noža muskatnog oraščića.
 
 <span id="step-4"></span>**Korak 4.** Pire sipati u plitku posudu za pečenje, posuti struganim kačkavaljem i staviti u pećnicu, prethodno zagrejanu na 180 stepeni, da se zapeče, samo da sir požuti.
+
+Gratinirani pire krompir poslužite toplo, odmah posle pečenja, uz pečeno meso ili kao samostalan prilog.
