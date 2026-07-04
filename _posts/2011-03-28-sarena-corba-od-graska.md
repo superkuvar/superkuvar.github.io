@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=274"
 permalink: /šarena-čorba-od-graška/
-image: /wp-content/uploads/2011/03/Sarena-corba-od-graska-940x198.jpg
-description: "Šarena čorba od graška — U lonac sa zagrejanim uljem spustiti luk i zelen i dinstati poklopljeno na tihoj vatri, uz povrem…"
+image: /wp-content/uploads/2011/03/sarena.corba.od.graska.hero.jpg
+og_image: /wp-content/uploads/2011/03/sarena.corba.od.graska.og.jpg
+card_image: /wp-content/uploads/2011/03/sarena.corba.od.graska.kartica.jpg
+description: "Šarena čorba od graška je kremasto jelo od zamrznutog graška, zelenom za supu i crnog luka, zgusnuto brašnom i posluženo sa jajetom i kiselom pavlakom. Odlična je za hladnije dane i lagan porodični ručak."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -44,8 +46,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![šarena čorba od graška](/wp-content/uploads/2011/03/Sarena-corba-od-graska-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** U lonac sa zagrejanim uljem spustiti luk i zelen i dinstati poklopljeno na tihoj vatri, uz povremeno dolivanje po malo tople vode.
@@ -59,3 +59,5 @@ fb_social_plugin_settings_box_send:
 <span id="step-5"></span>**Korak 5.** Razmutiti brašno u malo hladne vode i sipati u čorbu.
 
 <span id="step-6"></span>**Korak 6.** Kuvati još pet minuta.
+
+Šarena čorba od graška poslužuje se vruća, sa umutenim jajetom i kiselom pavlakom po želji; seckani peršun ili mirođija daju svežinu na kraju.
