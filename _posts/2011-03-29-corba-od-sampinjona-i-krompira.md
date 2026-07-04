@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=305"
 permalink: /čorba-od-šampinjona-i-krompira/
-image: /wp-content/uploads/2011/03/Čorbaodšampinjonaikrompira-940x198.jpg
-description: "Čorba od šampinjona i krompira — krompir oprati, oljuštiti i iseći na kocke. ampinjone očistiti, oprati i iseći na listiće."
+image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.krompira.hero.jpg
+og_image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.krompira.og.jpg
+card_image: /wp-content/uploads/2011/03/corba.od.sampinjona.i.krompira.kartica.jpg
+description: Čorba od šampinjona i krompira je kremasta, topla čorba od šampinjona i krompira sa zaprškom, kiselom pavlakom i začinima. Odlična je za hladnije dane, lagan ručak ili večeru uz domaći hleb.
 prep_time: PT20M
 cook_time: PT40M
 total_time: PT1H
@@ -44,8 +46,6 @@ fb_social_plugin_settings_box_like:
 fb_social_plugin_settings_box_send:
   - "default"
 ---
-![Čorba od šampinjona i krompira](/wp-content/uploads/2011/03/Čorbaodšampinjonaikrompira-1024x768.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** krompir oprati, oljuštiti i iseći na kocke. ampinjone očistiti, oprati i iseći na listiće.
@@ -54,4 +54,8 @@ fb_social_plugin_settings_box_send:
 
 <span id="step-3"></span>**Korak 3.** Na ulju propržiti iseckanu vezu mladog crnog luka, dodati iseckan beli luk i brašno, pa napraviti svetlu zapršku.
 
+**Zaprška** — mešavina brašna propržena na ulju sa lukom koja se sipa u čorbu da je zgusne i obogati ukusom.
+
 <span id="step-4"></span>**Korak 4.** Zapršku sipati u čorbu, dodati začine i još malo prokuvati.
+
+Čorba od šampinjona i krompira najbolje se poslužuje vruća, uz domaći hleb ili kao lagan obrok za četiri osobe.
