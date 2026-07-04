@@ -6,8 +6,10 @@ author: mila
 layout: post
 guid: "http://superkuvar.com/?p=325"
 permalink: /krompir-sa-jajima/
-image: /wp-content/uploads/2011/03/Krompirsajajima-940x198.jpg
-description: "Krompir sa jajima — krompir oprati, neoljušten skuvati u posoljenoj vodi i ocediti."
+image: /wp-content/uploads/2011/03/krompir.sa.jajima.hero.jpg
+og_image: /wp-content/uploads/2011/03/krompir.sa.jajima.og.jpg
+card_image: /wp-content/uploads/2011/03/krompir.sa.jajima.kartica.jpg
+description: "Krompir sa jajima je kremasti prilog od kuvanog krompira, jaja, crnog luka i mleka sa peršunom i muskatnim oraščićem. Odličan je uz meso ili ribu, kao zasitan porodični ručak."
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -38,8 +40,6 @@ tags:
   - "muskatni oraščić"
   - "jaja"
 ---
-<img class="alignnone size-medium wp-image-5970" src="/wp-content/uploads/2011/03/Krompirsajajima-1024x768.jpg" alt="Krompirsajajima" width="300" height="225" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** krompir oprati, neoljušten skuvati u posoljenoj vodi i ocediti.
@@ -53,3 +53,5 @@ tags:
 <span id="step-5"></span>**Korak 5.** Izmešati, naliti mlekom i kratko sve propirjaniti.
 
 <span id="step-6"></span>**Korak 6.** Zbog toga krompir treba ljuštiti što tanje ili ga kuvati s korom, pa tek onda ljuštiti.
+
+Krompir sa jajima poslužiti toplo kao prilog uz pečeno meso, ribu ili dinstano jelo.
