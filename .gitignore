@@ -20,3 +20,11 @@ scripts/renovirani-za-proveru.txt
 scripts/torte_heroes.py
 .bundle/
 vendor/
+scripts/batch_next_40.py
+batch_remaining_report.json
+run-todo.sh
+batch_remaining.log
+todo-run.log
+todo.done.log
+scripts/batch_all_remaining.py
+scripts/batch_finish_still.py
