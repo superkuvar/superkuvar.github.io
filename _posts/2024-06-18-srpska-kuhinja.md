@@ -78,7 +78,7 @@ Srpska kuhinja je zato manje jedan recept, a više porodica srodnih kuhinja koje
 
 ## Šta znači srpska kuhinja {#sta-znaci-srpska-kuhinja}
 
-Dva faktora najviše oblikuju ono što se kuva u nekom kraju: geografija i istorija. Centralna Srbija — šume, pašnjaci, krompir i jaja — daje masniju, pećnu, čorbastu kuhinju. Jug i jugoistok — dolina Južne Morave, sunce i paprika — daju ljutinu, roštilj i pite koje se jedu rukom. Vojvodina — Panonija, mađarski i nemački susedi — daje gulaše, kiflice, slatko od voća i zimnicu u teglama.
+Dva faktora najviše oblikuju ono što se kuva u nekom kraju: geografija i istorija. Centralna Srbija — šume, pašnjaci i brdovit teren — daje masniju, pećnu, čorbastu kuhinju baziranu na krompiru, jajima i domaćem siru. Jug i jugoistok — dolina Južne Morave, sunce i plodna zemlja za papriku — daju ljutinu, roštilj i pite koje se jedu rukom. Vojvodina — ravnica Panonije, mađarski i nemački susedi — daje gulaše, kiflice, slatko od voća i zimnicu u teglama.
 
 Uz geografiju ide i istorijski sloj. Osmansko nasleđe ostavlja sarmu, musaku, burek, baklavu i naviku na dinstano povrće na ulju sa lukom. Austrougarski sloj donosi kiflice, šnicle, kiseli kupus u svim oblicima i čorbe sa rezancima. Stariji, domaći sloj — žito na slavi, proja kao kukuruzni hleb, kačamak kao planinska hrana — nije muzejski eksponat, već jela koja se i danas redovno kuvaju.
 
@@ -96,7 +96,7 @@ Slojevi srpske kuhinje liče na slojeve zemlje u bašti — najstariji je najdub
 
 **Osmansko nasleđe (XV–XIX vek).** Jela na ulju i domaćem maslu, dinstano povrće, sarma u listu kupusa, musaka, burek i pite, jogurt i kiselo mleko, slatkiši od oraha i meda. Mnogi „klasični" srpski ručkovi zapravo su balkanske varijante jela koja su putovala od Carigrada do Sarajeva i Skoplja — svako mesto ih je preimenovalo i začinilo po svome. Reč musaka, na primer, u srpskoj kuhinji najčešće označava slojevito jelo od krompira i mesa ili povrća, blisko grčkoj i bugarskoj tradiciji, ali sa domaćim začinima.
 
-**Austrougarski i mađarski uticaj (XIX–XX vek).** Posebno u Vojvodini: gulaš, paprikaš, kiflice, šnicle, čorbe sa rezancima, francuski kupus, slatko od višnje i dunje. U Beogradu i većim gradovima mešaju se šumadijska domaćnost i gradska kuhinja restorana i konoba.
+**Austrougarski i mađarski uticaj (XIX–XX vek).** Posebno u Vojvodini: gulaš, paprikaš, kiflice, šnicle, čorbe sa rezancima, francuski kupus, slatko od višnje i dunje. U Beogradu i većim gradovima mešaju se šumadijska domaća kuhinja i gradska kuhinja restorana i konoba.
 
 **Moderna Srbija (XX–XXI vek).** Supermarketi, frižideri, globalni trendovi — ali i povratak domaćem: ajvar iz tegle komšije, pečenje na roštilju, slava kao godišnji kulinarski vrhunac. Arhive poput Superkuvara čuvaju ono što nije ušlo u udžbenike — bakin recept, varijantu iz jednog sela, drugačiji način za [domaću čorbu](/domaca-corba/).
 
