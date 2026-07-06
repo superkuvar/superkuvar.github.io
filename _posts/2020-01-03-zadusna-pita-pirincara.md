@@ -36,7 +36,6 @@ tags:
 
 <span id="step-1"></span>**Korak 1.** Pšenicu dobro skuvati i oprati i ohladiti, dodati šećer i cimet i sve dobro izmešati.
 
-![Korak 1 — zadušna pita pirinčara](/wp-content/uploads/2020/01/zadusna.pita.pirincara.korak1.jpg)
 
 <span id="step-2"></span>**Korak 2.** Pleh podmazati, na dno staviti dve kore i filovati tankim slojem koru po koru i slagati sve dok se masa ne potroši.
 
@@ -48,4 +47,3 @@ tags:
 
 <span id="step-4"></span>**Korak 4.** Pečenu pitu iseći na kocke i posuti kristal šećerom.
 
-![Korak 4 — zadušna pita pirinčara](/wp-content/uploads/2020/01/zadusna.pita.pirincara.korak4.jpg)
