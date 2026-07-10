@@ -6,8 +6,24 @@ author: sneki
 layout: post
 permalink: /mesana-prsuta/
 published: true
-image: 
-posno: 
+description: >-
+  Mešana pršuta je klasično hladno predjelo od goveđe, svinjske i ovčije
+  pršute, posloženo u obliku lepeze. Odlična je za svečani sto, praznike
+  ili uz rashlađenu rakiju.
+prep_time: PT10M
+cook_time: PT5M
+total_time: PT15M
+servings: 4 porcije
+nutrition: oko 200 kalorija po porciji
+ingredients:
+  - 100 g goveđe pršute
+  - 100 g svinjske pršute
+  - 100 g ovčije pršute
+instructions:
+  - Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuelni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
+image: /wp-content/uploads/2020/01/mesana.prsuta.hero.jpg
+og_image: /wp-content/uploads/2020/01/mesana.prsuta.og.jpg
+card_image: /wp-content/uploads/2020/01/mesana.prsuta.kartica.jpg
 categories:
    - predjela
 tags: 
@@ -27,18 +43,8 @@ U hladne zakuske (predjela) mogli bi da uračunamo razne konzervisane ribe, masl
 
 Ovo je moje omiljeno predjelo:
 
-<img class="alignnone size-medium wp-image-9490" src="/wp-content/uploads/2020/01/prsuta.jpg" alt="prsuta" width="300" height="285">
+**Način pripreme:**
 
-### Potrebno je (za 4 osobe):
+<span id="step-1"></span>**Korak 1.** Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuelni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
 
-* 100 g goveđe pršute 
-* 100 g svinjske pršute
-* 100 g ovčije pršute
-
-### Način pripreme:
-
-Pršutu iseći na tanke listiće, pa onda pristupiti slaganju predjela u tanjir, oval ili na drveni podmetač i to sleva nadesno u obliku raširene lepeze, red po red. Voditi računa da razmak između pršute bude vrlo mali, a vizuelni izgled zbog raznovrsnosti boja adekvatno postavljen. Prvo slagati goveđu, svinjsku i na kraju ovčiju pršutu.
-
-
-  
-
+Mešana pršuta se služi hladna, u malim količinama, kao klasično predjelo koje otvara apetit. Najbolje ide uz sir, kajmak ili rashlađenu rakiju na svečanom ili porodičnom stolu.
