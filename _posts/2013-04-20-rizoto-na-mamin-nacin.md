@@ -6,13 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5606
 permalink: /rižoto-na-mamin-način/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/04/Maminrizoto-940x198.jpg
+published: true
+description: >-
+  Rižoto na mamin način je kremasti prilog od pirinča, praziluka, šargarepe
+  i kačkavalja sa karijem. Odličan je uz pečeno meso, za porodični ručak ili
+  jednostavnu večeru.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 380 kalorija po porciji
+ingredients:
+  - 300 grama pirinča
+  - 1 manji praziluk
+  - 3 šargarepe
+  - kocka za supu (od povrća)
+  - 50 grama grama kačkavalja
+  - so
+  - biber
+  - kari
+  - peršunov list
+  - ulje
+instructions:
+  - praziluk očistiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati narendanu šargarepu i još kratko pržiti, a zatim dodati opran pirinač. Pržiti na umerenoj temperaturi dok pirinač ne postane staklast.
+  - Pirinač naliti šoljom i po supe od kocke i kuvati na tihoj vatri. Rižoto povremeno promešati i doliti po malo supe.
+  - Kada pirinač omekša, začiniti ga biberom, karijem i seckanim peršunovim listom. Dosoliti ukoliko je potrebno, skloniti sa vatre i umešati strugani kačkavalj.
+image: /wp-content/uploads/2013/04/rizoto.na.mamin.nacin.hero.jpg
+og_image: /wp-content/uploads/2013/04/rizoto.na.mamin.nacin.og.jpg
+card_image: /wp-content/uploads/2013/04/rizoto.na.mamin.nacin.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -22,23 +43,12 @@ tags:
   - praziluk
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 300 grama pirinča
-  * 1 manji praziluk
-  * 3 šargarepe
-  * kocka za supu (od povrća)
-  * 50 grama grama kačkavalja
-  * so
-  * biber
-  * kari
-  * peršunov list
-  * ulje
+<span id="step-1"></span>**Korak 1.** praziluk očistiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati narendanu šargarepu i još kratko pržiti, a zatim dodati opran pirinač. Pržiti na umerenoj temperaturi dok pirinač ne postane staklast.
 
-<img class="alignnone size-medium wp-image-5607" src="/wp-content/uploads/2013/04/Maminrizoto-1024x768.jpg" alt="Maminrizoto" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Pirinač naliti šoljom i po supe od kocke i kuvati na tihoj vatri. Rižoto povremeno promešati i doliti po malo supe.
 
-**Priprema**: praziluk očistiti, sitno iseckati i propržiti na ulju. U propržen praziluk dodati narendanu šargarepu i još kratko pržiti, a zatim dodati opran pirinač. Pržiti na umerenoj temperaturi dok pirinač ne postane staklast. Pirinač naliti šoljom i po supe od kocke i kuvati na tihoj vatri. Rižoto povremeno promešati i doliti po malo supe.
+<span id="step-3"></span>**Korak 3.** Kada pirinač omekša, začiniti ga biberom, karijem i seckanim peršunovim listom. Dosoliti ukoliko je potrebno, skloniti sa vatre i umešati strugani kačkavalj.
 
-Kada pirinač omekša, začiniti ga biberom, karijem i seckanim peršunovim listom. Dosoliti ukoliko je potrebno, skloniti sa vatre i umešati strugani kačkavalj.
-
-Rižoto poslužiti kao prilog uz meso.
+Rižoto poslužiti kao prilog uz meso. Kari i kačkavalj daju toplu, blago začinjenu notu zbog koje se ovaj prilog lako voli uz pečenje ili roštilj.
