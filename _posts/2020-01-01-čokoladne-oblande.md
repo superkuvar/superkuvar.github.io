@@ -7,7 +7,9 @@ layout: post
 permalink: /čokoladne-oblande/
 published: true
 description: >-
-  Čokoladne oblande su bogat posni kolač od čokolade, margarina, šećera i mlevenih oraha između listova oblandi. Odlične su za praznike, posne dane ili kada treba desert bez pečenja.
+  Čokoladne oblande su klasičan posni kolač bez pečenja: listovi oblandi
+  filovani čokoladom, biljnim margarinom, šećerom i mlevenim orasima. Idealne
+  su za posne dane, praznike i brzo posluženje uz kafu.
 prep_time: PT20M
 cook_time: PT10M
 total_time: PT30M
@@ -38,3 +40,7 @@ tags:
 <span id="step-2"></span>**Korak 2.** Kada se masa malo prohladi filovati oblande a potom ih pritisnuti nekim težim predmetom (šerpom) i ostaviti da prenoće.
 
 Filovane oblande ostavite preko noći pod pritiskom da se masa stegne. Sečene na kocke lepo izgledaju na posnoj trpezi ili uz kafu.
+
+Posne čokoladne oblande spadaju među najomiljenije domaće kolače bez pećnice: sastojci su jednostavni, a rezultat je bogat, hrskav i sladak desert koji se lako seče i deli. Fil od topljene čokolade, margarina, šećera i oraha lepo povezuje listove oblandi, pa kolač sutradan dobija pravu čvrstinu i ukus.
+
+Najbolje se služe sobne temperature, isečene na rombove ili kocke, uz tursku kafu, čaj ili čašu mleka. Čuvaju se u frižideru, u zatvorenoj posudi, nekoliko dana — praktičan izbor za praznične dane, slave i posne trpeze kada treba desert unapred.
