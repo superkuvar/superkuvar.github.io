@@ -1,42 +1,75 @@
 # SUPERKUVAR.COM
+
 ## Kompletno uputstvo — transformacija jednog recepta
 
-**Datum:** jun 2026 · **Repo:** `/home/dj/repos/superkuvar.github.io` · **Sajt:** https://superkuvar.com
+**Verzija:** 2.0 · **Datum:** jul 2026 · **Sajt:** <https://superkuvar.com>
 
-**Ovaj dokument zamenjuje** `renoviranje.txt` i `slike.txt`. Jedan dokument = sva pravila.
+**Repo (logički):** `superkuvar/superkuvar.github.io`, grana `master`
+**Repo (lokalno, na vlasnikovoj mašini):** `/home/dj/repos/superkuvar.github.io`
+Ako asistent radi u drugom okruženju (cloud agent, sandbox), „root repoa" znači
+koren klona ovog repoa — sve putanje u dokumentu su relativne u odnosu na njega.
+
+**Ovaj dokument zamenjuje** `renoviranje.txt` i `slike.txt` — ta dva fajla se
+**ne koriste i ne citiraju**. Jedan dokument = sva pravila za recepte.
+Za članke (layout `article`) važi `superkuvar.art.md`.
+
+**Changelog:**
+- v2.0 (jul 2026): korak slike izmeštene u Appendix A (neaktivno); razrešena
+  batch kontradikcija; dodat kompletan YAML šablon i pun primer pre→posle;
+  dodata pravila za procenu vremena/kalorija; dodata grana za slike < 400 px;
+  uklonjene reference na slike.txt; dodata mašinska provera.
+- v1.x (jun 2026): prvobitna verzija.
+
+---
+
+## STATUS PRAVILA (pročitaj prvo)
+
+| Oblast | Status |
+| ------ | ------ |
+| A. Tekst (YAML + telo, Korak 1…N) | ✅ AKTIVNO |
+| B. Hero set (hero, og, kartica, hero.800) | ✅ AKTIVNO |
+| C. Korak slike (`slug.korakN.jpg` u telu) | ⛔ NEAKTIVNO — sva pravila u **Appendix A**; NE primenjuj ih |
+| D. Commit (bez push) | ✅ AKTIVNO |
+
+Glavni tok ovog dokumenta sadrži **samo aktivna pravila**. Sve o korak slikama
+je u Appendix A i primenjuje se tek kada vlasnik u ovom dokumentu promeni
+status C u AKTIVNO. Do tada: **ne umeći korak slike, ne generiši ih, ne
+ostavljaj HTML komentare o njima u telu recepta.**
 
 ---
 
 ## 0. Git repo i commit (obavezno)
 
-**Jedini repo za rad:**
-
-```
-/home/dj/repos/superkuvar.github.io
-```
+**Jedini repo za rad:** koren repoa `superkuvar/superkuvar.github.io`
+(lokalno: `/home/dj/repos/superkuvar.github.io`).
 
 **Zabranjeno:** rad u drugim klonovima, worktree folderima ili kopijama repoa
-(npr. `.grok/worktrees/...`). Lokalni pregled uvek iz **ovog** foldera:
+(npr. `.grok/worktrees/...`). Lokalni pregled uvek iz root foldera:
 
 ```bash
-cd /home/dj/repos/superkuvar.github.io
+cd <root-repoa>
 bundle exec jekyll serve --livereload
+# → http://localhost:4000
 ```
 
-→ http://localhost:4000
+**Commit pre izmene:** pre izmene bilo kog fajla (`_posts/...`, layout, CSS,
+slike…) taj fajl mora biti commitovan. **Ako nije commitovan**, asistent ga
+prvo commituje ovako, pa tek onda kreće sa izmenom:
 
-**Commit pre izmene:** Pre nego što se krene sa izmenom bilo kog fajla
-(`_posts/...`, layout, CSS, slike…), taj fajl mora biti **commitovan** u git-u.
+```bash
+git add <fajl>
+git commit -m "backup: <fajl> pre renovacije"
+```
 
-**Commit posle izmene:** Kada se izmena završi, odmah **commituj** sve izmenjene
+**Commit posle izmene:** kada je izmena završena, odmah commituj sve izmenjene
 fajlove. Asistent ne ostavlja necommitovane izmene.
 
-**Push na live:** Asistent **ne pushuje** na GitHub. Vlasnik pregleda promene
-(`git status`, `git diff`, localhost) i sam radi `git push origin master` kad
-je zadovoljan.
+**Push na live:** asistent **ne pushuje**. Vlasnik pregleda (`git status`,
+`git diff`, localhost) i sam radi `git push origin master`.
 
-**Ova uputstva** (`superkuvar.md`, `superkuvar.art.md`): commituj ih pre i posle
-izmene pravila — isti princip kao za recepte i članke.
+**Ova uputstva** (`superkuvar.md`, `superkuvar.art.md`): commituj ih pre i
+posle izmene pravila — isti princip kao za recepte. Pri svakoj izmeni pravila
+ažuriraj **Changelog** i, ako treba, tabelu **STATUS PRAVILA**.
 
 ---
 
@@ -47,119 +80,161 @@ Potpuno renoviraj recept:
 URL: https://superkuvar.com/...
 ```
 
-To je dovoljno. Asistent radi sve ispod i **commituje**; vlasnik pushuje na live.
+To je dovoljno. Asistent radi sve ispod i **commituje**; vlasnik pushuje.
 
-**Važno:** jedan recept = jedan posao. **Bez batch moda** — recept po recept, individualno.
+**Jedinica posla:** jedan recept = jedan posao = jedan commit. Recepti se
+uvek rade **pojedinačno i sekvencijalno** — nikad dva recepta u jednom
+commitu i nikad paralelno.
+
+**Kada vlasnik zada listu recepata (batch):** asistent ih radi **redom, jedan
+po jedan**, svaki kao zaseban posao sa zasebnim commitom, i **ne čeka „ok"**
+između dva recepta. „Batch" znači redosled bez pauze — ne znači spajanje
+poslova, preskakanje provera ni zajednički commit.
 
 ---
 
-## 2. Šta znači „potpuno renoviran“
+## 2. Šta znači „potpuno renoviran"
 
-Jedan recept = **dva dela + commit** (privremeno). Tekst bez hero seta **nije gotov**.
+Jedan recept = **tekst + hero set + commit**. Tekst bez hero seta **nije gotov**.
 
 | Deo | Rezultat |
-|-----|----------|
+| --- | -------- |
 | **A. Tekst** | YAML + Korak 1, 2, 3… u telu |
-| **B. Hero set** | glavna slika + og + kartica |
-| **C. Korak slike** | 2–4 slike u tekstu posle koraka — **⏸ privremeno se ne rade** (vidi ispod) |
+| **B. Hero set** | hero + og + kartica + hero.800 |
 | **D. Commit** | `git commit` (push radi vlasnik) |
 
-**⏸ Privremeno: korak slike se ne rade.** Radi pojednostavljenja unapređenja sajta,
-renovacija recepta za sada obuhvata samo **A (tekst) + B (hero set)**. Sva pravila o
-korak slikama u ovom dokumentu **ostaju** — vraćaju se u budućnosti kad se krene sa
-korak slikama. U telu članka **ne umetaj** `slug.korak1.jpg` … dok traje ova izmena.
+*(C. Korak slike — ⛔ neaktivno, vidi Appendix A.)*
 
-**Referenca:** jagnjeća čorba (`_posts/2011-03-22-jagnjeca-corba.md`)
+**Referenca u repou:** `_posts/2011-03-22-jagnjeca-corba.md` (uvek pogledaj
+ako imaš pristup repou). **Kompletan primer formata** je i u sekciji 10 ovog
+dokumenta — koristi ga ako repo nije pri ruci.
 
-**Redosled (sada):** A → B → D. **Redosled (budućnost):** A → B → C → D.
-Nikad obrnuto (hero pre teksta pravi duplikate i pogrešne slike).
+**Redosled:** A → B → D. Nikad obrnuto (hero pre teksta pravi duplikate i
+pogrešne slike).
 
 ---
 
-## 3. Transformacija — pet koraka (glavni tok)
+## 3. Transformacija — koraci
 
 ### Korak 1 — Pročitaj original
 
 - Otvori `_posts/....md` i razumi šta se zaista kuva.
 - Ne izmišljaj sastojke. Ne kopiraj fraze iz drugog recepta.
-- Proveri postojeće slike: YAML `image:`, `<img>` u članku, fajlovi u `wp-content/uploads/`.
+- Proveri postojeće slike: YAML `image:`, `<img>` u članku, fajlovi u
+  `wp-content/uploads/GODINA/MESEC/`.
 
-### Korak 2 — Pilot tekst (YAML + telo)
+### Korak 2 — Tekst (YAML + telo)
 
-**Originalni tekst — ne menjati:** Sastojci i način pripreme moraju **ostati kao u originalu** — iste reči, isti redosled, iste formulacije (uključujući stare pravopisne ili gramatične greške). **Ne prepisuj, ne lektorši i ne „poboljšavaj“** tekst recepta.
+**Originalni tekst — ne menjati.** Sastojci i način pripreme moraju **ostati
+kao u originalu** — iste reči, isti redosled, iste formulacije (uključujući
+stare pravopisne ili gramatičke greške). **Ne prepisuj, ne lektoriši i ne
+„poboljšavaj"** tekst recepta.
 
-**Šta smeš da dodaš (za SEO i čitljivost):**
+**Šta smeš da dodaš (SEO i čitljivost):**
 
 | Dodatak | Gde | Primer |
-|---------|-----|--------|
-| **Uvod** | YAML `description` | vidi **Korak 2a** ispod |
-| **Napomene** | završni pasus ili poseban blok | serviranje, varijante, saveti iz originalne napomene |
-| **Objašnjenja termina** | na kraju članka | dinstanje, zaprška, legir — samo ako se pojavljuju u originalu |
+| ------- | --- | ------ |
+| **Uvod** | YAML `description` | vidi Korak 2a |
+| **Napomene** | završni pasus | serviranje, varijante, saveti iz originalne napomene |
+| **Objašnjenja termina** | kraj članka | dinstanje, zaprška, legir — samo ako postoje u originalu |
 
-SEO i kvalitet pisanja postižu se **dodacima**, ne izmenom starog teksta recepta.
+SEO se postiže **dodacima**, ne izmenom starog teksta recepta.
 
-**Dodaj u YAML:**
+**KOMPLETAN YAML ŠABLON** (kopiraj i popuni; postojeća polja `title`,
+`permalink`, `date`, `categories`, `tags`, `guid`, `id`, `author` iz starog
+fajla **prepiši netaknuta**):
 
-| Polje | Primer |
-|-------|--------|
-| `description` | **obavezno** — uvodni tekst po Koraku 2a |
-| `prep_time` | `PT20M` |
-| `cook_time` | `PT40M` |
-| `total_time` | `PT1H` |
-| `servings` | `4 porcije` |
-| `nutrition` | `oko 280 kalorija po porciji` |
-| `ingredients` | lista sastojaka — **doslovno iz originala** |
-| `instructions` | koraci — **isti tekst kao u telu**, samo podeljen po koracima |
-
-**Telo članka (ispod `---`):**
-
+```yaml
+---
+id: 123
+title: NASLOV RECEPTA          # iz originala, ne menjaj
+date: 2011-03-22               # iz originala, ne menjaj
+author: ime                    # iz originala, ne menjaj
+layout: post
+permalink: /url-recepta/       # iz originala, ne menjaj
+published: true
+description: >-
+  Uvod od 1–2 rečenice po Koraku 2a. Šta je jelo + kada dobro dođe.
+prep_time: PT20M               # ISO 8601; procena — vidi Korak 2b
+cook_time: PT40M
+total_time: PT1H               # prep + cook
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji   # slobodan tekst, tačno ovaj oblik
+ingredients:                   # lista stringova, DOSLOVNO iz originala,
+  - 500 g krompira             # jedan sastojak = jedan string,
+  - 2 kašike rena              # količina i sastojak zajedno u istom stringu
+  - so
+instructions:                  # jedan korak = jedan string; IDENTIČAN tekst
+  - Krompir oljuštiti i skuvati u slanoj vodi.     # kao Korak 1 u telu
+  - Ren narendati i pomešati sa pavlakom.          # (bez "Korak N." prefiksa)
+image: /wp-content/uploads/GODINA/slug.hero.jpg
+og_image: /wp-content/uploads/GODINA/slug.og.jpg
+card_image: /wp-content/uploads/GODINA/slug.kartica.jpg
+categories:                    # iz originala, ne menjaj
+  - salate
+tags:                          # iz originala, ne menjaj
+  - krompir
+---
 ```
+
+**Sintaksa `ingredients` i `instructions`:** uvek YAML lista stringova
+(crtica + razmak). Bez mapa, bez multiline `|` blokova, bez numeracije u
+stringu. `instructions[i]` = tekst Koraka i+1 iz tela, **reč po reč**, bez
+prefiksa „Korak N.".
+
+**Stara pogrešna polja (obriši ako postoje, ne koristi):** `ingreedients`,
+`recipeinstructions`, `recipeyield`, `preptime`, `cooktime`.
+
+**TELO ČLANKA (ispod `---`) — tačan format:**
+
+```markdown
 **Način pripreme:**
 
-<span id="step-1"></span>**Korak 1.** ...
+<span id="step-1"></span>**Korak 1.** Tekst prvog koraka iz originala.
 
-<!-- privremeno: korak slike se ne umetaju
-![Korak 1 — naziv](/wp-content/uploads/.../slug.korak1.jpg)
--->
+<span id="step-2"></span>**Korak 2.** Tekst drugog koraka iz originala.
 
-<span id="step-2"></span>**Korak 2.** ...
-...
 Završni pasus / napomena (novi tekst, SEO — 1–2 rečenice).
-...
-**Objašnjenja kulinarskih termina:** (novi tekst, po potrebi)
+
+**Objašnjenja kulinarskih termina:** (novi tekst, samo po potrebi)
 ```
 
-**Koraci u telu:** originalni tekst načina pripreme, podeljen na Korak 1…N — **bez preformulisanja**.
+**Precizna pravila za korake u telu:**
 
-**Obriši iz tela:** zaglavlje „Potrebno je“ (sastojci idu u YAML), „Priprema“ u starom formatu, sve stare `<img>`.
+- Format je tačno: `<span id="step-N"></span>**Korak N.** ` — mala slova u
+  `step-N`, numeracija od 1 bez preskakanja, tačka posle broja, jedan razmak
+  posle zatvorenog bolda, sve u istom redu sa tekstom koraka.
+- Tekst koraka = originalni tekst načina pripreme, samo isečen na logične
+  celine — **bez preformulisanja**. Jedan korak = jedna zaokružena radnja ili
+  originalni pasus; ne cepaj rečenicu na pola.
+- **Uvodni pasus originala** (ako postoji pre postupka) ostaje kao pasus pre
+  `**Način pripreme:**` — nije korak.
+- **Originalna napomena o serviranju** (npr. „Salata se služi topla.") nije
+  korak — ide u završni pasus, doslovno, a novi SEO tekst se dodaje posle nje.
+- Ako se postupak ne da prirodno iseći (jedan kratak pasus), dozvoljen je i
+  samo **Korak 1** — ne izmišljaj podelu na silu.
 
-**Ne menjaj:** `title`, `permalink`, `date`, `categories`, `tags`, `guid`, `id`.
+**Obriši iz tela:** zaglavlje „Potrebno je" (sastojci idu u YAML), staro
+zaglavlje „Priprema", sve stare `<img>` tagove.
 
-**Možeš dodati u YAML:** `image`, `og_image`, `card_image` (u fazi slika).
-
-**Stara pogrešna polja (ne koristi):** `ingreedients`, `recipeinstructions`, `recipeyield`, `preptime`, `cooktime`.
+**Ne menjaj:** `title`, `permalink`, `date`, `categories`, `tags`, `guid`,
+`id`, `author` — čak i ako `title` ima grešku ili je sav velikim slovima.
 
 ### Korak 2a — `description` (uvodni tekst, obavezno)
 
-**Šta je:** 1–2 rečenice **uvoda** u YAML polju `description`. Pojavljuje se na početku stranice, u Google pretrazi i pri deljenju.
-
-**Svrha:** SEO + da čitalac odmah razume **šta je jelo** i **kada dobro dođe**.
-
-**Nije:** uputstvo za kuvanje, kopija „Način pripreme“, lista koraka.
+**Šta je:** 1–2 rečenice uvoda u YAML polju `description`. Pojavljuje se na
+početku stranice, u Google pretrazi i pri deljenju.
 
 **Mora da sadrži:**
 
 1. **Šta je jelo** — vrsta jela i glavni sastojci (**samo iz originala**).
-2. **Karakter** — npr. kremasto, toplo, lagano, zasitno (ako odgovara receptu).
-3. **Kada dobro dođe** — npr. hladni dani, ručak, večera, porodični obrok, sezona.
+2. **Karakter** — npr. kremasto, toplo, lagano, zasitno (ako odgovara).
+3. **Kada dobro dođe** — hladni dani, ručak, večera, porodični obrok, sezona.
 
-**Ne sme:**
+**Ne sme:** prepisivati korake; izmišljati sastojke; prazan šablon tipa
+„domaći recept iz kategorije supe i čorbe".
 
-- prepisivati korake („oprati, oljuštiti, kuvati…“);
-- izmišljati sastojke koji nisu u originalu;
-- koristiti prazan šablon tipa „domaći recept iz kategorije supe i čorbe“.
-
-**Dužina:** oko 120–200 karaktera (1–2 rečenice).
+**Dužina:** 120–200 karaktera (1–2 rečenice).
 
 **Formula:**
 
@@ -168,103 +243,78 @@ Završni pasus / napomena (novi tekst, SEO — 1–2 rečenice).
 [Zašto / kada poslužiti — jedna kratka rečenica].
 ```
 
-**Primer (ČORBA OD BUNDEVE I ŠARGAREPE):**
+**Primer (Čorba od bundeve i šargarepe):**
+> Čorba od bundeve i šargarepe je kremasto, toplo jelo od bundeve, šargarepe i
+> praziluka sa pirinčem. Odlična je za hladnije dane, lagan ručak ili večeru,
+> a uz kiselu pavlaku postaje još puniji obrok.
 
-> Čorba od bundeve i šargarepe je kremasto, toplo jelo od bundeve, šargarepe i praziluka sa pirinčem. Odlična je za hladnije dane, lagan ručak ili večeru, a uz kiselu pavlaku postaje još puniji obrok.
+### Korak 2b — Procena vremena, porcija i kalorija (novo, obavezno)
 
-### Korak 2b — Provera originala (obavezno pre slika)
+Stari recepti najčešće **nemaju** vremena ni kalorije. Ova polja su **jedina**
+gde je asistentu dozvoljena procena — po sledećim pravilima:
 
-Pre slika **uporedi sa originalom** i proveri:
+- `prep_time` / `cook_time`: proceni realno iz sastojaka i postupka; zaokruži
+  na **5 minuta**; `total_time` = zbir. Format ISO 8601 (`PT20M`, `PT1H10M`).
+- `servings`: ako original navodi broj porcija — prepiši; ako ne, proceni iz
+  količina (npr. 500 g mesa ≈ 4 porcije). Format: `4 porcije`.
+- `nutrition`: gruba procena iz sastojaka, zaokružena na **10 kcal**, uvek u
+  obliku `oko NNN kalorija po porciji`. Ne navodi makronutrijente.
+- Ako je procena nemoguća (nejasne količine), pitaj vlasnika — ne izmišljaj
+  precizne brojeve.
+- Procena važi **samo** za ova polja. Za sastojke i korake procena je i dalje
+  strogo zabranjena.
 
-- `ingredients` i svaki **Korak N** — ista reč po reč kao u izvornom receptu
+### Korak 2c — Provera originala (obavezno pre slika)
+
+Uporedi sa izvornim receptom:
+
+- `ingredients` i svaki **Korak N** — ista reč po reč kao u izvoru
 - `instructions[i]` = Korak i+1 (isti tekst, isti redosled)
-- `description`, završni pasus i **Objašnjenja** — jedini novi tekst; tu piši gramatički ispravno
-- nisi slučajno zamenio reči, ispravio pravopis ili dodao sastojke/korake
+- `description`, završni pasus i **Objašnjenja** — jedini novi tekst; tu piši
+  gramatički ispravno
+- nisi zamenio reči, ispravio pravopis ili dodao sastojke/korake
 
-Ako si promenio originalni tekst recepta — vrati ga. Greške iz originala **ostaju**.
+Ako si promenio originalni tekst recepta — vrati ga. Greške iz originala
+**ostaju**.
 
-### Korak 3 — Odluka o slikama (algoritam)
+### Korak 3 — Odluka o slikama (algoritam za hero set)
 
-**⏸ Privremeno preskočeno za korak slike.** Ovaj korak se sada odnosi samo na **hero set**
-(B). Pravila za korak slike ispod ostaju za budućnost — ne briši ih.
-
-Prvo proveri šta postoji u `wp-content/uploads/GODINA/MESec/` za taj recept.
-
-#### Pravilo 1 — Postoje stare korak fotografije (≥ 400 px, različite) *(budućnost)*
-
-**⏸ Privremeno se ne primenjuje** — korak slike se trenutno ne rade.
-
-Ako u upload folderu ima **2–4 različite** originalne fotografije koje prikazuju **različite faze** pripreme (ne isto gotovo jelo):
-
-- **Koristi ih** za `slug.korak1.jpg` … — samo resize na **900×675**
-- Mapiraj na najvizuelnije korake u tekstu
-- Hero set može iz najbolje fotografije gotovog jela ili posebno generisanog heroa
-
-#### Pravilo 2 — Postoji samo jedna fotografija gotovog jela *(budućnost — korak slike)*
-
-Tipičan slučaj: jedan stari WP JPG pečenog kolača ili jela na tanjiru.
-
-- **Hero, og, kartica, hero.800, master** → iz te fotografije (resize/crop po `slike.txt`)
-- **Korak slike** → **generisati posebno** (AI ili ručno), po **sadržaju koraka** u receptu
-
-**Zabranjeno** u ovom slučaju:
-
-- crop iste fotografije na različite uglove (gravity, PIL crop, „različit“ MD5)
-- tri kadra istog gotovog jela kao korak1, korak2, korak3
-
-**Primer greške:** JEDNOSTAVNI KOLAČ OD BUNDEVE — tri koraka = isti pečeni kolač iz drugog ugla. **Pogrešno.**
-
-**Ispravno za taj recept:**
-
-| Slika | Šta prikazuje |
-|-------|----------------|
-| korak1 | narendana bundeva, mutena jaja, testo u posudi |
-| korak2 | testo sipano u pleh, pred pečenjem |
-| korak3 | pečen kolač isečen na kocke, posut šećerom |
-
-#### Pravilo 3 — Koliko korak slika *(budućnost)*
-
-- Generiši **2–4** korak slike
-- **Ne** za svaki tekstualni korak — samo tamo gde je **vizuelno smisleno**
-- Biraj: mešanje/mutenje, sipanje u pleh, pečenje u toku, ključni trik, serviranje
-- Umetni sliku odmah **posle** odgovarajućeg `**Korak N.**` u markdownu
-
-#### Ostala pravila
+Prvo proveri šta postoji u `wp-content/uploads/GODINA/MESEC/` za taj recept.
 
 ```
-Ima slika >= 400 px?  → DA: resize u hero set
-                      → koraci: Pravilo 1 ili 2 (gore), ne automatski crop
-Nema slike uopšte?     → pitaj vlasnika; sa odobrenjem → AI za hero i korake
-Više originalnih?      → najbolja gotovog jela = hero; faze pripreme = koraci
-Nisi siguran?          → ne pushuj; pitaj
+Postoji fotografija ≥ 400 px (duža strana)?
+  → DA: najbolja fotografija gotovog jela = izvor za hero set
+        (resize/crop po tabeli u Koraku 4)
+  → NE, postoji samo slika < 400 px:
+        AI generiše hero set (sekcija 4 — promptovi);
+        original sačuvaj kao slug.master.jpg (arhiva);
+        NE upscale-uj sitni JPG
+  → NE, nema nijedne slike:
+        pitaj vlasnika; sa odobrenjem → AI generiše hero set
+
+Više originalnih fotografija? → najbolja gotovog jela = hero.
+Nisi siguran? → ne commituj slike; pitaj.
 ```
 
 - **Ne upscale-uj** sitne JPG-ove (< 400 px duža strana).
 - **Ne uzimaj** slike drugog recepta.
-- **Stare `<img>`** u tekstu obriši u Koraku 2; slike se vraćaju kao hero set (koraci — u budućnosti).
+- Stare `<img>` iz tela su obrisane u Koraku 2; slike se vraćaju kao hero set.
 
-#### Provera korak slika pre commita *(budućnost — privremeno preskočiti)*
+### Korak 4 — Hero set
 
-- [ ] Svaka korak slika = **drugačija faza** postupka, ne isti tanjir/pleh
-- [ ] Nijedna korak slika nije crop heroa/mastera (osim ako je to bila originalna WP fotografija te faze)
-- [ ] Otvori sve korak JPG-ove jedan pored drugog — ako izgledaju kao ista slika, generiši ponovo
-
-### Korak 4 — Hero set *(+ korak slike u budućnosti)*
-
-**Imena fajlova:** `{slug}.{tip}.jpg` — reči odvojene **tačkom**, mala slova, bez kvčica (č→c, š→s, ž→z, đ→dj).
+**Imena fajlova:** `{slug}.{tip}.jpg` — reči odvojene **tačkom**, mala slova,
+**bez kvačica** (č→c, ć→c, š→s, ž→z, đ→dj).
 
 | Fajl | Dimenzija | Gde se koristi |
-|------|-----------|----------------|
+| ---- | --------- | -------------- |
 | `slug.hero.jpg` | 1200×675 | YAML `image:`, vrh stranice |
 | `slug.hero.800.jpg` | 800×450 | mobilni (resize iz heroa) |
-| `slug.og.jpg` | 1200×630 | YAML `og_image:`, Facebook deljenje |
+| `slug.og.jpg` | 1200×630 | YAML `og_image:`, Facebook |
 | `slug.kartica.jpg` | 800×600 | YAML `card_image:`, grid |
-| `slug.korak1.jpg` … | 900×675 | u tekstu posle Korak N — **⏸ privremeno se ne rade** |
-| `slug.master.jpg` | arhiva | kopija originala (opciono u repo) |
+| `slug.master.jpg` | original | arhiva kopije originala (opciono) |
 
-**Redosled pravljenja (sada):** 1.hero → 2.og → 3.kartica → 4.hero.800 → (opciono) master
-
-**Redosled pravljenja (budućnost):** … → 5.korak1…N → 6.master
+**Redosled pravljenja:** 1. hero → 2. og → 3. kartica → 4. hero.800 →
+(opciono) master.
 
 **YAML posle slika:**
 
@@ -274,95 +324,119 @@ og_image: /wp-content/uploads/GODINA/slug.og.jpg
 card_image: /wp-content/uploads/GODINA/slug.kartica.jpg
 ```
 
-**Umetanje koraka u tekst** *(budućnost — privremeno ne umetati):**
-
-```markdown
-![Korak 2 — naziv jela](/wp-content/uploads/GODINA/slug.korak2.jpg)
-```
-
-odmah **posle** tog koraka. Biraj **2–4 najvizuelnija koraka** (ne svaki). Svaka korak-slika mora prikazivati **različitu fazu** — nikad istu fotografiju gotovog jela na više mesta.
+**Skripta za resize:** `scripts/process_recipe_images.py` — samo za hero set
+iz postojećeg originala ≥ 400 px.
 
 ### Korak 5 — Commit (obavezno)
 
 ```bash
-cd /home/dj/repos/superkuvar.github.io
-git add _posts/ime.md wp-content/uploads/.../slug.*.jpg
+cd <root-repoa>
+git add _posts/ime.md wp-content/uploads/GODINA/slug.*.jpg
 git commit -m "Recept: NAZIV — potpuno renoviran"
 ```
 
-**Ne radi `git push`** — vlasnik pregleda i sam pushuje na live.
+**Ne radi `git push`** — vlasnik pregleda i sam pushuje.
 
-**Commit samo kad je recept potpun** (A+B; C korak slike privremeno nije obavezan).
-Nepotpun → pitaj, ne commituj.
+**Commit samo kad je recept potpun** (A + B). Nepotpun → pitaj, ne commituj.
 
 ---
 
 ## 4. Kadriranje i AI promptovi
 
 **Opšti stil** (u svaki AI prompt):
+> Fotorealistična fotografija hrane. Prirodno dnevno svetlo sa leve strane,
+> tople boje. Drvena podloga ili svetli stolnjak. Bez teksta, logoa, vodenog
+> žiga. Za slatko: umerena slatkoća, domaća kuhinja.
 
-> Fotorealistična fotografija hrane. Prirodno dnevno svetlo sa leve strane, tople boje. Drvena podloga ili svetli stolnjak. Bez teksta, logoa, vodenog žiga. Za slatko: umerena slatkoća, domaća kuhinja.
-
-**Zabrane na slikama** (hero, og, kartica i koraci):
+**Zabrane na svim slikama:**
 
 - **Bez escajga** — viljuške, noževi, kašike, štapići, posude za escajg
 - **Bez plastičnih poslužavnica** — plastični tanjiri, tacne, posude, kutije
-- **Bez metalnih poslužavnica** — metalne tacne, plitici, poslužni plehovi (osim pleha za pečenje u koraku pečenja)
-- **Dozvoljeno:** drvena daska, keramička zdjela, staklena posuda, emajlirani pleh za pečenje, platneni stolnjak
-- Ako AI ubaci escajg ili plastiku — **regeneriši** sliku sa eksplicitnom zabranom u promptu
+- **Bez metalnih poslužavnica** — metalne tacne, plitici, poslužni plehovi
+  (osim pleha za pečenje kada prikazuje pečenje)
+- **Dozvoljeno:** drvena daska, keramička zdela, staklena posuda, emajlirani
+  pleh za pečenje, platneni stolnjak
+- Ako AI ubaci escajg ili plastiku — **regeneriši** sa eksplicitnom zabranom
+  u promptu
 
-**Varijacija na slikama** (dozvoljeno):
-
-- AI slike **ne moraju biti vizuelno identične** — dozvoljena je prirodna varijacija u uglu, posudi, kadru i osvetljenju između heroa i koraka, i među koracima
-- Možeš generisati **više varijanti** iste slike (drugi seed, blago izmenjen prompt) i uzeti najbolju koja poštuje zabrane i prikazuje pravu fazu
-- Korak slike **ne moraju** imati potpuno istu podlogu ili posudu kao hero — važno je da svaka slika prikazuje **drugačiju fazu** postupka i da deluje apetitno i domaće
-- Varijacija **nije** izgovor za crop iste fotografije gotovog jela niti za tri gotovo ista kadra — to i dalje zabranjeno (vidi Korak 3, Pravilo 2)
+**Varijacija:** dozvoljena prirodna varijacija ugla, posude, kadra i
+osvetljenja; sme se generisati više varijanti (drugi seed) i uzeti najbolja
+koja poštuje zabrane.
 
 | Tip | Kadar | Prompt skica |
-|-----|-------|----------------|
-| **Hero** | 45° odozgo, jelo u centru, 16:9, prostor oko tanjira | `[GOTOVO JELO] on [POSUDA], 45 degree food photography, wide 16:9, warm daylight, no text, 1200x675` |
-| **OG** | isto jelo, šire, jelo niže u kadru (FB seče gore/dole) | `same dish, wider 1.91:1, subject lower in frame, safe zone, 1200x630` ili crop heroa |
-| **Korak** | bliže, 4:3, **jedna radnja / jedna faza**, sličan domaći stil (varijacija posude/kadra OK) | `Step N: [RADNJA iz teksta koraka], close-up 4:3 food photography, natural light, no cutlery, no plastic trays, no text, 900x675` |
+| --- | ----- | ------------ |
+| **Hero** | 45° odozgo, jelo u centru, 16:9, prostor oko tanjira | `[GOTOVO JELO] on [POSUDA], 45 degree food photography, wide 16:9 aspect, warm daylight, no text, no cutlery, no plastic trays` |
+| **OG** | isto jelo, šire, jelo niže u kadru (FB seče gore/dole) | `same dish, wider 1.91:1 aspect, subject lower in frame, safe zone` — ili crop heroa |
 | **Kartica** | crop iz heroa, jelo popunjava kadar | crop hero na 800×600 |
 
-**JPEG:** kvalitet 80–85 %. Hero ~80–150 KB, korak ~60–100 KB.
+**Napomena o dimenzijama:** generatori slika ignorišu piksele u promptu —
+u prompt ide **aspect ratio** (16:9, 1.91:1), a tačne dimenzije (1200×675,
+1200×630, 800×600, 800×450) se dobijaju naknadnim **resize/crop** korakom.
 
-**Skripta za resize:** `scripts/process_recipe_images.py` — samo za **hero set** iz postojećeg originala ≥ 400 px. **Ne koristi** za generisanje korak slika iz iste fotografije.
+**JPEG:** kvalitet 80–85 %. Hero ~80–150 KB.
 
 ---
 
 ## 5. Pravila teksta — zabrane
 
 | Pravilo | Detalj |
-|---------|--------|
-| **Legir** | Samo ako recept STVARNO ima legir (žumance + kisela pavlaka u vrelu jelo na kraju). Referenca: jagnjeća čorba, Korak 3 + pasus **Legir:** ispod. |
+| ------- | ------ |
+| **Legir** | Samo ako recept STVARNO ima legir (žumance + kisela pavlaka u vrelo jelo na kraju). Referenca: jagnjeća čorba. |
 | **Legir NE** | u prženiji, piti, sarmi, kolačima, projari… |
-| **Posebni termini** | zapreška, legir → poseban pasus ispod tog koraka, ne u svim receptima |
+| **Posebni termini** | zaprška, legir → poseban pasus ispod tog koraka, ne u svim receptima |
 | **Obične reči** | dinstati, propržiti, narendati — ne objašnjavati |
 | **Provera** | `instructions[i]` = Korak i+1; sastojci = original |
-| **Original** | **Ne menjaj** tekst sastojaka ni načina pripreme — čak i ako ima grešaka |
+| **Original** | Ne menjaj tekst sastojaka ni načina pripreme — čak i ako ima grešaka |
 | **description** | Uvod: šta je jelo + kada dobro dođe (Korak 2a); ne uputstvo |
-| **SEO dodaci** | Napomene i objašnjenja — novi, gramatički ispravni tekst |
-| **Korak slike** | 2–4 **različite faze** postupka; **ne** crop heroa/mastera kad postoji samo jedna fotka gotovog jela — **⏸ privremeno se ne rade** |
+| **SEO dodaci** | Napomene i objašnjenja — novi, gramatički ispravan tekst |
 
 ---
 
-## 6. Checklist pre pusha
+## 6. Checklist pre commita
 
-- [ ] YAML: description, vremena, servings, nutrition, ingredients, instructions
+**Sadržaj:**
+
+- [ ] YAML: description, prep/cook/total_time, servings, nutrition,
+      ingredients, instructions — po šablonu iz Koraka 2
 - [ ] **Original sačuvan:** sastojci i koraci = isti tekst kao u izvoru
-- [ ] **description:** uvod (šta + kada), po Koraku 2a — nije uputstvo
-- [ ] **SEO dodaci:** napomene, objašnjenja — gramatički ispravni
-- [ ] Telo: Način pripreme + Korak 1…N sa `<span id="step-N">`
-- [ ] Nema „Potrebno je“ ni starih `<img>` u telu
-- [ ] `slug.hero.jpg` + og + kartica + hero.800
-- [ ] YAML: image, og_image, card_image
-- [ ] ~~2–4 korak slike umetnute posle odgovarajućih koraka~~ *(privremeno — preskočiti)*
-- [ ] ~~**Korak slike = različite faze** (vizuelna provera, ne samo MD5)~~ *(budućnost)*
-- [ ] **Nema escajga, plastičnih ni metalnih poslužavnica** na slikama
-- [ ] Imena fajlova: tačka, bez kvčica
-- [ ] title, permalink, date, categories netaknuti
-- [ ] commit urađen (push — vlasnik)
+- [ ] `instructions[i]` = Korak i+1, reč po reč, bez prefiksa „Korak N."
+- [ ] **description:** uvod (šta + kada), 120–200 karaktera — nije uputstvo
+- [ ] SEO dodaci (napomene, objašnjenja) gramatički ispravni
+- [ ] Telo: `**Način pripreme:**` + Korak 1…N sa `<span id="step-N"></span>`
+- [ ] Nema „Potrebno je", starog „Priprema" ni starih `<img>` u telu
+- [ ] Nema korak slika ni komentara o njima (⛔ Appendix A je neaktivan)
+- [ ] title, permalink, date, categories, tags, guid, id netaknuti
+- [ ] Nema starih pogrešnih polja (`ingreedients`, `preptime`…)
+
+**Slike:**
+
+- [ ] `slug.hero.jpg` (1200×675) + og (1200×630) + kartica (800×600) +
+      hero.800 (800×450)
+- [ ] YAML: image, og_image, card_image pokazuju na te fajlove
+- [ ] Nema escajga, plastičnih ni metalnih poslužavnica
+- [ ] Imena fajlova: tačke, mala slova, bez kvačica
+
+**Mašinska provera (asistent izvršava pre commita):**
+
+```bash
+# YAML validan i dimenzije tačne:
+ruby -ryaml -e 'YAML.load_file(ARGV[0].sub(/\.md$/,"")+".md")' _posts/ime.md \
+  || python3 -c "import yaml,sys; yaml.safe_load(open(sys.argv[1]).read().split('---')[1])" _posts/ime.md
+python3 - <<'EOF'
+from PIL import Image
+import sys
+ocekivano = {"hero": (1200, 675), "og": (1200, 630),
+             "kartica": (800, 600), "hero.800": (800, 450)}
+# prilagodi putanju i slug:
+for tip, dim in ocekivano.items():
+    p = f"wp-content/uploads/GODINA/slug.{tip}.jpg"
+    assert Image.open(p).size == dim, f"{p}: {Image.open(p).size} != {dim}"
+print("Slike OK")
+EOF
+```
+
+- [ ] Git: fajl commitovan pre izmene; commit posle izmene urađen
+      (push — vlasnik)
 
 ---
 
@@ -371,26 +445,27 @@ Nepotpun → pitaj, ne commituj.
 Radi recepte po saobraćaju (`top.csv` na Desktopu), ne po datumu fajla.
 
 | Talas | Fokus |
-|-------|-------|
+| ----- | ----- |
 | Top 1–80 | dopuni gde fali, očisti duplikate |
 | Top 81–150 | potpuna renovacija |
 | Ostatak | po kategorijama |
 
-Jedan recept = jedan commit. U batch režimu: odmah na sledeći, bez čekanja „ok“.
-Push na live radi vlasnik kad pregleda promene.
+Jedan recept = jedan commit, redom sa liste, bez čekanja „ok" između recepata
+(pravilo iz sekcije 1). Push na live radi vlasnik kad pregleda promene.
 
 ---
 
 ## 8. Razrešene kolizije (stara uputstva)
 
 | Stari dokument | Staro pravilo | **Sada važi (ovaj dokument)** |
-|----------------|---------------|-------------------------------|
-| renoviranje.txt | „samo tekst“, ne diraj slike | **Potpuna renovacija** uključuje hero set; korak slike privremeno ne |
+| -------------- | ------------- | ----------------------------- |
+| renoviranje.txt | „samo tekst", ne diraj slike | Potpuna renovacija uključuje hero set |
 | renoviranje.txt | ne menjaj `image:` | Možeš dodati/izmeniti `image`, `og_image`, `card_image` uz hero set |
-| renoviranje.txt | čekaj „ok“ pre sledećeg | **Commit** odmah; push radi vlasnik |
-| renoviranje.txt | commit „samo tekst“ | commit **„potpuno renoviran“** |
+| renoviranje.txt | čekaj „ok" pre sledećeg | Commit odmah; recepti sa liste redom bez pauze; push radi vlasnik |
+| renoviranje.txt | commit „samo tekst" | commit „potpuno renoviran" |
 | slike.txt | master samo na Drive | master može u repo kao arhiva; nije obavezan na sajtu |
-| slike.txt | crop za korake | **Zabranjen** crop heroa kad je jedina fotka gotovog jela |
+| slike.txt | crop za korake | korak slike su ⛔ neaktivne; pravilo protiv cropa u Appendix A |
+| slike.txt | (sve ostalo) | tabela dimenzija je sada u Koraku 4 — slike.txt se ne koristi |
 
 Ako nađeš novo protivrečje — pitaj vlasnika pre nego što nastaviš.
 
@@ -400,12 +475,137 @@ Ako nađeš novo protivrečje — pitaj vlasnika pre nego što nastaviš.
 
 **Recept:** Paprikaš sa svinjetinom
 
-1. Pilot: 4 koraka + završni pasus
-2. Hero: `paprikas.sa.svinjetinom.hero.jpg` (AI jer original 240 px)
-3. *(budućnost)* Koraci: `korak1.jpg` (luk), `korak2.jpg` (meso), `korak3.jpg` (kuvanje) — **različite faze**
-4. Commit (A+B) → vlasnik pushuje → https://superkuvar.com/paprikaš-sa-svinjetinom/
+1. Tekst: 4 koraka + završni pasus
+2. Hero set: `paprikas.sa.svinjetinom.hero.jpg` + og + kartica + hero.800
+   (AI generisan, jer je original 240 px — vidi Korak 3, grana < 400 px)
+3. Commit (A+B) → vlasnik pushuje
 
-**Anti-primer:** JEDNOSTAVNI KOLAČ OD BUNDEVE sa crop-om iste fotografije — **ne ponavljati**.
+**Anti-primer:** JEDNOSTAVNI KOLAČ OD BUNDEVE sa crop-om iste fotografije za
+više slika — **ne ponavljati** (detalji u Appendix A).
+
+---
+
+## 10. Kompletan primer pre → posle
+
+*Primer je **ilustrativan** (skraćen, izmišljeni recept radi prikaza formata).
+Za stvarni renoviran recept iz repoa vidi
+`_posts/2011-03-22-jagnjeca-corba.md`.*
+
+**PRE (stari format):**
+
+```markdown
+---
+id: 123
+title: KROMPIR SALATA SA RENOM
+date: 2011-04-05
+author: ime
+layout: post
+permalink: /krompir-salata-sa-renom/
+published: true
+categories:
+  - salate
+tags:
+  - krompir
+guid: http://superkuvar.com/?p=123
+image: /wp-content/uploads/2011/04/krompir-240.jpg
+---
+**Potrebno je:** 500 g krompira, 2 kašike rena, 100 ml kisele pavlake, so
+
+**Priprema:** Krompir oljuštiti i skuvati u slanoj vodi. Ren narendati i
+pomešati sa pavlakom pa preliti preko toplog krompira.
+
+Salata se služi topla.
+
+<img src="/wp-content/uploads/2011/04/krompir-240.jpg" />
+```
+
+**POSLE (novi format):**
+
+```markdown
+---
+id: 123
+title: KROMPIR SALATA SA RENOM
+date: 2011-04-05
+author: ime
+layout: post
+permalink: /krompir-salata-sa-renom/
+published: true
+description: >-
+  Krompir salata sa renom je jednostavno, blago ljuto jelo od kuvanog
+  krompira, rena i kisele pavlake. Odlična je kao topao prilog uz pečenje
+  ili lagana večera.
+prep_time: PT10M
+cook_time: PT25M
+total_time: PT35M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - 500 g krompira
+  - 2 kašike rena
+  - 100 ml kisele pavlake
+  - so
+instructions:
+  - Krompir oljuštiti i skuvati u slanoj vodi.
+  - Ren narendati i pomešati sa pavlakom pa preliti preko toplog krompira.
+image: /wp-content/uploads/2011/krompir.salata.sa.renom.hero.jpg
+og_image: /wp-content/uploads/2011/krompir.salata.sa.renom.og.jpg
+card_image: /wp-content/uploads/2011/krompir.salata.sa.renom.kartica.jpg
+categories:
+  - salate
+tags:
+  - krompir
+guid: http://superkuvar.com/?p=123
+---
+**Način pripreme:**
+
+<span id="step-1"></span>**Korak 1.** Krompir oljuštiti i skuvati u slanoj
+vodi.
+
+<span id="step-2"></span>**Korak 2.** Ren narendati i pomešati sa pavlakom
+pa preliti preko toplog krompira.
+
+Salata se služi topla. Najbolje ide uz pečeno meso, a ren joj daje blagu
+ljutinu zbog koje osvaja na prvi zalogaj.
+```
+
+Obrati pažnju: koraci su **doslovno** stari tekst pripreme; originalna
+napomena „Salata se služi topla." je zadržana doslovno, a SEO rečenica je
+**dodata posle nje**; `title`, `permalink`, `date`, `guid` su netaknuti;
+staro `image` polje je zamenjeno hero setom, a stari `<img>` obrisan.
+
+---
+
+## Appendix A — Korak slike (⛔ NEAKTIVNO — ne primenjuj)
+
+*Ova pravila se čuvaju za budućnost. Primenjuju se tek kada vlasnik u tabeli
+STATUS PRAVILA promeni C u AKTIVNO. Do tada asistent NE generiše korak slike,
+NE umeće ih u telo i NE ostavlja komentare o njima u receptima.*
+
+**Kada se aktivira, važi:**
+
+- Redosled postaje A → B → C → D; imena `slug.korak1.jpg` …, dimenzija
+  900×675, umetanje `![Korak N — naziv](putanja)` odmah posle
+  `**Korak N.**` u telu; JPEG ~60–100 KB; u YAML `instructions` ništa se
+  ne menja.
+- **Pravilo 1 — postoje stare korak fotografije (≥ 400 px, različite faze):**
+  koristi ih, samo resize na 900×675; mapiraj na najvizuelnije korake.
+- **Pravilo 2 — postoji samo jedna fotografija gotovog jela:** hero set iz
+  nje; korak slike **generisati posebno** po sadržaju koraka. **Zabranjeno:**
+  crop iste fotografije na različite uglove (gravity, PIL crop, „različit"
+  MD5); tri kadra istog gotovog jela kao korak1–3.
+  *Anti-primer:* JEDNOSTAVNI KOLAČ OD BUNDEVE — tri koraka = isti pečeni
+  kolač iz drugog ugla. *Ispravno za taj recept:* korak1 = narendana bundeva
+  i testo u posudi; korak2 = testo u plehu pred pečenje; korak3 = pečen
+  kolač isečen na kocke.
+- **Pravilo 3 — koliko korak slika:** 2–4; ne za svaki tekstualni korak, samo
+  gde je vizuelno smisleno (mešanje, sipanje u pleh, pečenje, ključni trik,
+  serviranje).
+- **Prompt skica za korak:** `Step N: [RADNJA iz teksta koraka], close-up 4:3
+  food photography, natural light, no cutlery, no plastic trays, no text`
+  (+ resize na 900×675).
+- **Provera pre commita:** svaka korak slika = drugačija faza; nijedna nije
+  crop heroa/mastera; vizuelna provera jedna pored druge (ne samo MD5) —
+  odnosno programska provera dimenzija + ručni pregled na localhost-u.
 
 ---
 
