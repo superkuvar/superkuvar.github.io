@@ -6,9 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2483
 permalink: /neobicna-salata-od-krompira/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/02/Neobicna-salata-od-krompira-940x198.jpg
+published: true
+description: >-
+  Neobična salata od krompira je osvežavajuća salata od kuvanog krompira,
+  nakiselih jabuka i majoneza. Odlična je kao prilog uz pečenje ili ribu,
+  ili lagan porodični obrok.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 6 porcija
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 1 kilogram krompira
+  - 3 nakisele jabuke
+  - so
+  - biber
+  - majonez
+instructions:
+  - krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
+  - Jabuke oprati, oljuštiti, iseći na kocke i pomešati sa krompirom. Posoliti prema ukusu, pobiberiti i preliti  obilno majonezom.
+image: /wp-content/uploads/2012/02/neobicna.salata.od.krompira.hero.jpg
+og_image: /wp-content/uploads/2012/02/neobicna.salata.od.krompira.og.jpg
+card_image: /wp-content/uploads/2012/02/neobicna.salata.od.krompira.kartica.jpg
 categories:
   - salate
 tags:
@@ -16,19 +35,13 @@ tags:
   - krompir
   - majonez
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram krompira
-  * 3 nakisele jabuke
-  * so
-  * biber
-  * majonez
+<span id="step-1"></span>**Korak 1.** krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
 
-<img class="alignnone size-medium wp-image-2489" title="Neobicna salata od krompira" src="/wp-content/uploads/2012/02/Neobicna-salata-od-krompira-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Jabuke oprati, oljuštiti, iseći na kocke i pomešati sa krompirom. Posoliti prema ukusu, pobiberiti i preliti  obilno majonezom.
 
-**Priprema**: krompir oprati i neoljušten skuvati. Ocediti ga od vode i oljuštiti. Kada se krompir prohladi iseći ga na kolutove.
-
-Jabuke oprati, oljuštiti, iseći na kocke i pomešati sa krompirom. Posoliti prema ukusu, pobiberiti i preliti  obilno majonezom. Salatu služiti uz ribu ili pečenje.
+Salatu služiti uz ribu ili pečenje. Kombinacija krompira i nakiselih jabuka daje blagu svežinu, a majonez povezuje salatu u kremast prilog.
 
 Krompir se u ishrani koristi tokom cele godine. Lako se vari, a bogat je hranljivim materijama.
 
