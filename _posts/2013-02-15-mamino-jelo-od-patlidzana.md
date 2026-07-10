@@ -6,13 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5260
 permalink: /mamino-jelo-od-patlidžana/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-940x198.jpg
+published: true
+description: >-
+  Mamino jelo od patlidžana je domaći prilog od plavog patlidžana, praziluka
+  i pirinča sa biljnim začinima. Odlično ide uz pečeno meso ili prženu kobasicu.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - 2 plava patlidžana
+  - struk praziluka ili glavica crnog luka
+  - pola šolje pirinča
+  - so
+  - biber
+  - suvi biljni začin
+  - bosiljak
+  - peršunov list
+  - ulje
+instructions:
+  - plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
+  - Na ulju ispržiti isitnjen praziluk. Dodati patlidžan, so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list. Patlidžan dinstati 15 minuta.
+  - U izdinstani patlidžan dodati oceđen kuvani pirinač i promešati.
+image: /wp-content/uploads/2013/02/mamino.jelo.od.patlidzana.hero.jpg
+og_image: /wp-content/uploads/2013/02/mamino.jelo.od.patlidzana.og.jpg
+card_image: /wp-content/uploads/2013/02/mamino.jelo.od.patlidzana.kartica.jpg
 categories:
   - prilozi
   - prilozi
@@ -22,25 +41,15 @@ tags:
   - pirinač
   - plavi patlidžan
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 plava patlidžana
-  * struk praziluka ili glavica crnog luka
-  * pola šolje pirinča
-  * so
-  * biber
-  * suvi biljni začin
-  * bosiljak
-  * peršunov list
-  * ulje
+<span id="step-1"></span>**Korak 1.** plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
 
-<img class="alignnone size-medium wp-image-5261" src="/wp-content/uploads/2013/02/Mamino-jelo-sa-patlidzanom-1024x768.jpg" alt="Mamino jelo sa patlidzanom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Na ulju ispržiti isitnjen praziluk. Dodati patlidžan, so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list. Patlidžan dinstati 15 minuta.
 
-**Priprema**: plavi patlidžan oprati, oljuštiti i obariti u slanoj vodi. Obaren patlidžan ocediti i kada se ohladi sitno iseckati.
+<span id="step-3"></span>**Korak 3.** U izdinstani patlidžan dodati oceđen kuvani pirinač i promešati.
 
-Na ulju ispržiti isitnjen praziluk. Dodati patlidžan, so, suvi biljni začin, biber, bosiljak i sitno seckani peršunov list. Patlidžan dinstati 15 minuta.
-
-U izdinstani patlidžan dodati oceđen kuvani pirinač i promešati. Jelo poslužiti kao prilog uz meso ili prženu kobasicu.
+Jelo poslužiti kao prilog uz meso ili prženu kobasicu. Lagano je, aromatično i brzo se sprema, pa dobro dođe uz porodični ručak ili večeru.
 
 Zanimljivost: plavi patlidžan je u Evropu, tačnije Italiju, stigao 1300 godine. Na jugu Italije u vreme gladnih godina koristio se kao zamena za meso.
 
