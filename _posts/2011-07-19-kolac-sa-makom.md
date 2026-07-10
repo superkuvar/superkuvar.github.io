@@ -9,27 +9,28 @@ permalink: /kolac-sa-makom/
 image: /wp-content/uploads/2011/07/kolac.sa.makom.hero.jpg
 og_image: /wp-content/uploads/2011/07/kolac.sa.makom.og.jpg
 card_image: /wp-content/uploads/2011/07/kolac.sa.makom.kartica.jpg
-description: Brzi kolač sa makom i čvrstim snegom od belanaca — priprema u jednoj šerpi, bez miksera za testo. Mekan, aromatičan, idealan uz kafu.
-prep_time: PT20M
+description: >-
+  Brzi kolač sa makom je mekan, aromatičan kolač od nemlevenog maka, margarina i snega od belanaca. Odličan je uz kafu, za porodični ručak ili brzo slatko kada zatreba.
+prep_time: PT15M
 cook_time: PT25M
-total_time: PT45M
+total_time: PT40M
 servings: 8 porcija
 nutrition: oko 320 kalorija po porciji
 ingredients:
   - 250 g margarina
-  - 1 čaša (2 dl) šećera
-  - 1 čaša nemlevenog maka
-  - 1 čaša brašna
-  - ½ kesice praška za pecivo
-  - 5 belanaca
+  - čaša od 2 dl šećera
+  - čaša nemlevenog maka
+  - čaša brašna
   - malo ruma
-  - 3 štangle čokolade za kuvanje (za glazuru, po želji)
-  - 3 kašike mleka i 3 kašike šećera (za glazuru)
+  - pola kesice praška za pecivo
+  - 5 belanaca
+  - 3 štangle čokolade za kuvanje
+  - 3 kašike mleka
+  - 3 kašike šećera
 instructions:
-  - Na laganoj vatri pripremiti masu od margarina, šećera, maka i brašna.
-  - Pažljivo umešati čvrst sneg od belanaca.
-  - Peći na 200 °C oko 25 minuta.
-  - Po želji preliti čokoladnom glazurom.
+  - u šerpi, na laganoj vatri, istopiti margarin, pa dodati šećer, mak, brašno, rum i prašak za pecivo. Sve dobro izmešati varjačom, a zatim dodati čvrst sneg od belanaca, pa opet lagano izmešati.
+  - Pleh podmazati, posuti brašnom, sipati testo i peći na 200 stepeni oko 25 minuta.
+  - Po želji, može se napraviti glazura od 3 kašike šećera, 3 kašike mleka, 3 štangle čokolade i komada margarina u veličini jajeta. Sve malo prokuvati i preliti kolač. Kad se glazura ohladi i stegne, seći kolač na kocke ili šire štangle.
 categories:
   - kolači
 tags:
@@ -41,12 +42,10 @@ tags:
 ---
 **Način pripreme:**
 
-<span id="step-1"></span>**Korak 1.** U šerpi na laganoj vatri istopiti margarin. Dodati šećer, mak, brašno, rum i prašak za pecivo. Mešati varjačom dok se sastojci ne spoje u glatku masu. Skloniti sa vatre i ostaviti da se malo ohladi.
+<span id="step-1"></span>**Korak 1.** u šerpi, na laganoj vatri, istopiti margarin, pa dodati šećer, mak, brašno, rum i prašak za pecivo. Sve dobro izmešati varjačom, a zatim dodati čvrst sneg od belanaca, pa opet lagano izmešati.
 
-<span id="step-2"></span>**Korak 2.** Belance umutiti u čvrst sneg. Delom po delom pažljivo umešati u mak masu spatulom — odozdo na gore, da sneg ne padne.
+<span id="step-2"></span>**Korak 2.** Pleh podmazati, posuti brašnom, sipati testo i peći na 200 stepeni oko 25 minuta.
 
-<span id="step-3"></span>**Korak 3.** Pleh podmazati i posuti brašnom. Sipati testo i peći u zagrejanoj pećnici na 200 °C oko 25 minuta — proverite čačkalicom da je spolja zlatno, a unutra mekano.
+<span id="step-3"></span>**Korak 3.** Po želji, može se napraviti glazura od 3 kašike šećera, 3 kašike mleka, 3 štangle čokolade i komada margarina u veličini jajeta. Sve malo prokuvati i preliti kolač. Kad se glazura ohladi i stegne, seći kolač na kocke ili šire štangle.
 
-<span id="step-4"></span>**Korak 4.** Ohladiti i iseći na kocke. Po želji preliti glazurom od čokolade, mleka i šećera kratko prokuvanom na tihoj vatri.
-
-Mak daje kolaču karakterističnu teksturu i blagu orašastu aromu — tradicionalan sastojak srpskih slavskih i nedeljnih kolača.
+Umesto glazurom od čokolade, kolač se može preliti belom glazurom od prah šećera, koja se pravi na sledeći način: 150 grama prah šećera izmešati sa 3 kašike soka od limuna i vrlo malo vode da se dobije gusta, glatka masa, kojom preliti kolač. Mekan, pun maka i spreman za manje od sat vremena — savršen uz kafu ili kao brzi domaći desert.
