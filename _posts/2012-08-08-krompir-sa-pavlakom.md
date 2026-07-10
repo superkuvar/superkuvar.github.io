@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3914
 permalink: /krompir-sa-pavlakom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/08/Krompirsapavlakom-940x198.jpg
+published: true
+description: >-
+  Krompir sa pavlakom je kremast prilog od kuvanog krompira, staklastog crnog
+  luka i kisele pavlake sa peršunom. Odličan je uz dinstano meso, faširane
+  šnicle ili kao lagan porodični obrok.
+prep_time: PT20M
+cook_time: PT25M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 1 kilogram krompira
+  - 2 glavice crnog luka
+  - so
+  - biber
+  - peršunov list
+  - 2 dl kisele pavlake
+  - ulje
+instructions:
+  - krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
+  - Na ulju propržiti iseckan crni luk, da postane staklast. Skloniti ga sa vatre, pa dodati krompir, iseckan peršunov list i kiselu pavlaku. Izmešati lagano, da se kriške krompira ne izlome.
+image: /wp-content/uploads/2012/08/krompir.sa.pavlakom.hero.jpg
+og_image: /wp-content/uploads/2012/08/krompir.sa.pavlakom.og.jpg
+card_image: /wp-content/uploads/2012/08/krompir.sa.pavlakom.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -16,22 +37,12 @@ tags:
   - kisela pavlaka
   - krompir
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram krompira
-  * 2 glavice crnog luka
-  * so
-  * biber
-  * peršunov list
-  * 2 dl kisele pavlake
-  * ulje
+<span id="step-1"></span>**Korak 1.** krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
 
-<img class="alignnone size-medium wp-image-3916" title="Krompirsapavlakom" src="/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg" alt="" width="300" height="228" srcset="/wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-300x228.jpg 300w, /wp-content/uploads/2012/08/Krompirsapavlakom-e1344334842831-1024x778.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<span id="step-2"></span>**Korak 2.** Na ulju propržiti iseckan crni luk, da postane staklast. Skloniti ga sa vatre, pa dodati krompir, iseckan peršunov list i kiselu pavlaku. Izmešati lagano, da se kriške krompira ne izlome.
 
-**Priprema**: krompir oprati, oljuštiti, iseći na kriške i skuvati u posoljenoj vodi, ali paziti da se ne prekuva. Zatim ga ocediti.
+Krompir sa pavlakom poslužiti kao prilog uz dinstano meso ili faširane šnicle. Kremasta pavlaka i sveži peršun čine ga idealnom pratnjom uz pečenje ili faširano meso za porodični ručak.
 
-Na ulju propržiti iseckan crni luk, da postane staklast. Skloniti ga sa vatre, pa dodati krompir, iseckan peršunov list i kiselu pavlaku. Izmešati lagano, da se kriške krompira ne izlome.
-
-Krompir sa pavlakom poslužiti kao prilog uz dinstano meso ili faširane šnicle.
-
-**Savet**: krompir se lako raskuva i hranljivi sastojci odlaze u vodu. Da bi se to izbeglo, u vodu u kojoj se krompir kuva treba dodati so.
+**Savet:** krompir se lako raskuva i hranljivi sastojci odlaze u vodu. Da bi se to izbeglo, u vodu u kojoj se krompir kuva treba dodati so.
