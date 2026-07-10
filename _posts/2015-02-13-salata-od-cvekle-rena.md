@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9402
 permalink: /salata-od-cvekle-rena/
-totvreme:
-  - ""
-image: /wp-content/uploads/2015/02/salataodcvekleirena-940x198.jpg
+published: true
+description: >-
+  Salata od cvekle i rena je pikantna zimska salata od kuvane cvekle, narendanog
+  rena i preliva od jabukovog sirćeta i ulja. Odlična je kao prilog uz pečenje
+  ili kada nema dovoljno svežeg povrća.
+prep_time: PT20M
+cook_time: PT50M
+total_time: PT1H10M
+servings: 6 porcija
+nutrition: oko 120 kalorija po porciji
+ingredients:
+  - cvekla (1 kilogram)
+  - ren (1 koren)
+  - kašika šećera
+  - so
+  - jabukovo sirće
+  - ulje
+instructions:
+  - cveklu (odabrati sitniju) oprati, skuvati i ocediti od vode. Kada se cvekla ohladi oljuštiti je i iseći na kolutove.
+  - Ren oprati, oljuštiti i narendati na sitno rende, a zatim posuti preko kolutova cvekle.
+  - Pomešati sirće, ulje, so i šećer, pa sipati u cveklu i ren. Izmešati dobro i ostaviti tri-četiri sata da cvekla upije preliv.
+image: /wp-content/uploads/2015/02/salata.od.cvekle.rena.hero.jpg
+og_image: /wp-content/uploads/2015/02/salata.od.cvekle.rena.og.jpg
+card_image: /wp-content/uploads/2015/02/salata.od.cvekle.rena.kartica.jpg
 categories:
   - salate
 tags:
@@ -16,23 +37,12 @@ tags:
   - ren
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * cvekla (1 kilogram)
-  * ren (1 koren)
-  * kašika šećera
-  * so
-  * jabukovo sirće
-  * ulje
+<span id="step-1"></span>**Korak 1.** cveklu (odabrati sitniju) oprati, skuvati i ocediti od vode. Kada se cvekla ohladi oljuštiti je i iseći na kolutove.
 
-![<img class="alignnone size-medium wp-image-9405" src="/wp-content/uploads/2015/02/salataodcvekleirena-1024x768.jpg" alt="salataodcvekleirena" width="300" height="225" />](/wp-content/uploads/2015/02/salataodcvekleirena.jpg)
+<span id="step-2"></span>**Korak 2.** Ren oprati, oljuštiti i narendati na sitno rende, a zatim posuti preko kolutova cvekle.
 
-**Priprema**: cveklu (odabrati sitniju) oprati, skuvati i ocediti od vode. Kada se cvekla ohladi oljuštiti je i iseći na kolutove.
+<span id="step-3"></span>**Korak 3.** Pomešati sirće, ulje, so i šećer, pa sipati u cveklu i ren. Izmešati dobro i ostaviti tri-četiri sata da cvekla upije preliv.
 
-Ren oprati, oljuštiti i narendati na sitno rende, a zatim posuti preko kolutova cvekle.
-
-Pomešati sirće, ulje, so i šećer, pa sipati u cveklu i ren. Izmešati dobro i ostaviti tri-četiri sata da cvekla upije preliv.
-
-Ova salata kojoj ren daje pikantan ukus, naročito je pogodna za zimski period kada nema dovoljno svežeg povrća. U salatu se može, po želji, dodati i kisela pavlaka.
-
-&nbsp;
+Ova salata kojoj ren daje pikantan ukus, naročito je pogodna za zimski period kada nema dovoljno svežeg povrća. U salatu se može, po želji, dodati i kisela pavlaka. Najbolje ide uz pečeno meso ili pečenje, a posle odležavanja ukus je puniji i uravnoteženiji.
