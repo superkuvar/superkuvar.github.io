@@ -6,12 +6,15 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4924
 permalink: /dinstani-grašak/
+published: true
 fb_social_plugin_settings_box_like:
   - default
 fb_social_plugin_settings_box_send:
   - default
-image: /wp-content/uploads/2012/12/dinstani.grasak.hero.jpg
-description: Dinstani grašak sa crnim lukom, mirođijom i blagom zaprškom od brašna — klasičan prilog uz meso, šnicle ili pečenje. Može se pripremati i od zamrznutog graška.
+description: >-
+  Dinstani grašak je jednostavan, blag prilog od graška sa crnim lukom,
+  mirođijom i blagom zaprškom od brašna. Odličan je uz šnicle, pečenje ili
+  dinstano meso, za porodični ručak ili večeru.
 prep_time: PT10M
 cook_time: PT30M
 total_time: PT40M
@@ -28,11 +31,14 @@ ingredients:
   - 1 kašika brašna ili gustina
   - ulje
 instructions:
-  - Na zagrejanom ulju propržiti sitno seckani crni luk da blago porumeni.
-  - U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati uz povremeno dolivanje vode.
-  - Posoliti, dodati suvi biljni začin, biber i mirođiju.
-  - U malo hladne vode razmutiti brašno ili skrob i crvenu mlevenu papriku, pa sipati u grašak.
-  - Dinstati još desetak minuta na umerenoj temperaturi dok grašak ne omekša.
+  - Na zagrejanom ulju propržiti sitno seckani crni luk, da blago porumeni.
+  - U propržen luk dodati grašak, sipati malo tople vode, poklopiti i dinstati. U toku dinstanja povremeno dolivati po malo vode.
+  - Grašak posoliti, dodati suvi biljni začin, biber i mirođiju.
+  - U malo hladne vode razmutiti brašno ili skrob i crvenu mlevenu papriku pa sipati u grašak.
+  - Dinstati još desetak minuta na umerenoj temperaturi, dok grašak ne omekša.
+image: /wp-content/uploads/2012/12/dinstani.grasak.hero.jpg
+og_image: /wp-content/uploads/2012/12/dinstani.grasak.og.jpg
+card_image: /wp-content/uploads/2012/12/dinstani.grasak.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -40,8 +46,6 @@ tags:
   - crni luk
   - grašak
   - mirođija
-og_image: /wp-content/uploads/2012/12/dinstani.grasak.og.jpg
-card_image: /wp-content/uploads/2012/12/dinstani.grasak.kartica.jpg
 ---
 **Način pripreme:**
 
@@ -55,4 +59,4 @@ card_image: /wp-content/uploads/2012/12/dinstani.grasak.kartica.jpg
 
 <span id="step-5"></span>**Korak 5.** Dinstati još desetak minuta na umerenoj temperaturi, dok grašak ne omekša.
 
-Grašak servirajte kao prilog uz dinstano meso, šnicle, piletinu ili pečenje i salatu.
+Grašak servirajte kao prilog uz dinstano meso, šnicle, piletinu ili pečenje i salatu. Blaga zaprška od brašna i paprike daje gustinu, a mirođija svež, domaći ukus.
