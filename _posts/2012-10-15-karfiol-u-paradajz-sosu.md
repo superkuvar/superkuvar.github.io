@@ -6,12 +6,36 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4489
 permalink: /karfiol-u-paradajz-sosu/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+published: true
+description: >-
+  Karfiol u paradajz sosu je lagan prilog od blanširanog karfiola sa prženim
+  prezlama i bogatim paradajz sosom. Odličan je uz faširane šnicle, dinstano
+  meso ili kao jednostavan porodični obrok.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - glavica karfiola (oko 1 kilogram)
+  - ulje ili margarin
+  - 2 kašike prezli
+  - so
+  - voda
+  - ulje
+  - 2-3 kašike oštrog brašna
+  - 5 dl kuvanog paradajza
+  - mala glavica crnog luka
+  - so
+  - mleveni biber
+  - mirođija ili peršunov list
+instructions:
+  - karfiol oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Na malo ulja ili margarina propržiti prezle i preliti oceđen karfiol.
+  - U posudi zagrejati ulje, dodati brašno, malo propržiti, pa sipati kuvani paradajz, narendani luk, dobro promešati i kuvati na tihoj vatri dok se sos ne zgusne. Pri kraju kuvanja sos posoliti, dodati malo mirođije i mlevenog bibera.
+  - Vrelim paradajz sosom preliti karfiol.
+image: /wp-content/uploads/2012/10/karfiol.u.paradajz.sosu.hero.jpg
+og_image: /wp-content/uploads/2012/10/karfiol.u.paradajz.sosu.og.jpg
+card_image: /wp-content/uploads/2012/10/karfiol.u.paradajz.sosu.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -20,28 +44,12 @@ tags:
   - paradajz
   - prezle
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * glavica karfiola (oko 1 kilogram)
-  * ulje ili margarin
-  * 2 kašike prezli
-  * so
-  * voda
+<span id="step-1"></span>**Korak 1.** karfiol oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Na malo ulja ili margarina propržiti prezle i preliti oceđen karfiol.
 
-Sos:
+<span id="step-2"></span>**Korak 2.** U posudi zagrejati ulje, dodati brašno, malo propržiti, pa sipati kuvani paradajz, narendani luk, dobro promešati i kuvati na tihoj vatri dok se sos ne zgusne. Pri kraju kuvanja sos posoliti, dodati malo mirođije i mlevenog bibera.
 
-  *  ulje
-  * 2-3 kašike oštrog brašna
-  * 5 dl kuvanog paradajza
-  * mala glavica crnog luka
-  * so
-  * mleveni biber
-  * mirođija ili peršunov list
+<span id="step-3"></span>**Korak 3.** Vrelim paradajz sosom preliti karfiol.
 
-<img class="alignnone size-medium wp-image-4490" title="Karfioluparadajzsosu" src="/wp-content/uploads/2012/10/Karfioluparadajzsosu-e1350291313792-300x236.jpg" alt="" width="300" height="236" /> 
-
-**Priprema**: karfiol oprati, iskidati na cvetiće i obariti u posoljenoj vodi. Na malo ulja ili margarina propržiti prezle i preliti oceđen karfiol.
-
-U posudi zagrejati ulje, dodati brašno, malo propržiti, pa sipati kuvani paradajz, narendani luk, dobro promešati i kuvati na tihoj vatri dok se sos ne zgusne. Pri kraju kuvanja sos posoliti, dodati malo mirođije i mlevenog bibera.
-
-Vrelim paradajz sosom preliti karfiol. Jelo poslužiti uz faširane šnicle ili dinstano meso.
+Jelo poslužiti uz faširane šnicle ili dinstano meso. Odličan je i kao lagan prilog uz pečeno meso, a mirođija ili peršun osvežavaju paradajz sos.
