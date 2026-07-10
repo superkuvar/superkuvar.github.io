@@ -9,26 +9,30 @@ permalink: /varivo-od-graška-i-šargarepe/
 image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.hero.jpg
 og_image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.og.jpg
 card_image: /wp-content/uploads/2013/01/varivo.od.graska.i.sargarepe.kartica.jpg
-description: Šareno varivo od graška i šargarepe sa lukom i mirođijom — lagan prilog uz pečeno ili dinstano meso. Gustina na kraju daje pun, kremast sos.
+description: >-
+  Varivo od graška i šargarepe je toplo, šareno jelo od graška i šargarepe
+  sa lukom i mirođijom. Odlično je kao prilog uz meso za porodični ručak ili
+  večeru.
 prep_time: PT15M
 cook_time: PT35M
 total_time: PT50M
 servings: 4 porcije
 nutrition: oko 140 kalorija po porciji
 ingredients:
-  - 500 g graška
-  - 300 g šargarepe
-  - 1 glavica crnog luka ili manji praziluk
-  - 7–8 dl vode
-  - 1 kašika gustina ili brašna
-  - so, biber i suvi biljni začin po ukusu
-  - 2–3 kašike ulja
-  - sveža mirođija
+  - 500 grama graška
+  - 300 grama šargarepe
+  - 1 glavica crnog luka ili manji struk praziluka
+  - so
+  - suvi biljni začin
+  - biber
+  - kašika gustina (skrob) ili brašna
+  - ulje
+  - mirođija
 instructions:
-  - Iseći šargarepu i propržiti sa lukom na ulju.
-  - Dodati grašak i vodu, kuvati oko 30 minuta i začiniti.
-  - Zgusnuti gustinom razmućenim u hladnoj vodi.
-  - Pobiberiti, dodati mirođiju i servirati.
+  - Šargarpu oprati, oljuštiti i iseći na kockice. Crni luk očistiti, sitno iseckati i zajedno sa šargarpom propržiti na ulju.
+  - Dodati grašak i naliti sa 7-8 decilitara tople vode. Kuvati oko 30 minuta, dok povrće ne omekša.
+  - Na sredini kuvanja u grašak i šargarepu dodati so i suvi biljni začin. Pred kraj u povrće sipati gustin razmućen u malo hladne vode i dobro promešati da se ne bi zgrudvao.
+  - Varivo kuvati još pet minuta. Pobiberiti i dodati seckanu mirođiju.
 categories:
   - prilozi
 tags:
@@ -39,12 +43,12 @@ tags:
 ---
 **Način pripreme:**
 
-<span id="step-1"></span>**Korak 1.** Šargarepu oprati, oljuštiti i iseći na kockice. Crni luk sitno iseckati i propržiti na ulju sa šargarepom dok luk ne omekša.
+<span id="step-1"></span>**Korak 1.** Šargarpu oprati, oljuštiti i iseći na kockice. Crni luk očistiti, sitno iseckati i zajedno sa šargarpom propržiti na ulju.
 
-<span id="step-2"></span>**Korak 2.** Dodati grašak i naliti 7–8 dl tople vode. Kuvati oko 30 minuta na umerenoj vatri. Na sredini kuvanja posoliti i dodati suvi biljni začin.
+<span id="step-2"></span>**Korak 2.** Dodati grašak i naliti sa 7-8 decilitara tople vode. Kuvati oko 30 minuta, dok povrće ne omekša.
 
-<span id="step-3"></span>**Korak 3.** Gustin razmutiti u malo hladne vode i polako sipati u varivo uz neprekidno mešanje. Kuvati još 5 minuta da sos postane glatkiji.
+<span id="step-3"></span>**Korak 3.** Na sredini kuvanja u grašak i šargarepu dodati so i suvi biljni začin. Pred kraj u povrće sipati gustin razmućen u malo hladne vode i dobro promešati da se ne bi zgrudvao.
 
-<span id="step-4"></span>**Korak 4.** Pobiberiti, dodati seckanu mirođiju i servirati toplo uz meso.
+<span id="step-4"></span>**Korak 4.** Varivo kuvati još pet minuta. Pobiberiti i dodati seckanu mirođiju.
 
-**Gustin** je kukuruzni skrob za zgušnjavanje — daje varivu punu, kremastu teksturu bez brašnastog ukusa.
+Grašak sa šargarepom servirati kao prilog uz meso. Najbolje ide uz pečeno ili dinstano meso, a gustin na kraju daje puniji, glatkiji sos.
