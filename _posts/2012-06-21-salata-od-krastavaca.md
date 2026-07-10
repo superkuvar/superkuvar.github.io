@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3559
 permalink: /salata-od-krastavaca/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/06/Salataodkrastavaca-940x198.jpg
+published: true
+description: >-
+  Salata od krastavaca je sveža, lagana salata od krastavaca, belog luka, ulja
+  i sirćeta. Odlična je kao prilog uz pečenje ili letnji ručak, a najbolja
+  neposredno pre jela.
+prep_time: PT15M
+cook_time: PT0M
+total_time: PT15M
+servings: 4 porcije
+nutrition: oko 90 kalorija po porciji
+ingredients:
+  - 3 krastavca srednje veličine
+  - 2-3 čena belog luka
+  - ulje
+  - sirće
+  - mleveni biber
+  - so
+instructions:
+  - krastavce oprati, oljuštiti i iseći na kolutove. Beli luk očistiti i sitno iseckati.
+  - U poseban sud sipati sirće, so, ulje, biber, beli luk, dobro izmešati i preliti isečene krastavce neposredno pred služenje. Po želji, salatu posuti sa malo seckane mirođije.
+image: /wp-content/uploads/2012/06/salata.od.krastavaca.hero.jpg
+og_image: /wp-content/uploads/2012/06/salata.od.krastavaca.og.jpg
+card_image: /wp-content/uploads/2012/06/salata.od.krastavaca.kartica.jpg
 categories:
   - salate
 tags:
@@ -16,20 +36,11 @@ tags:
   - krastavci
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 krastavca srednje veličine
-  * 2-3 čena belog luka
-  * ulje
-  * sirće
-  * mleveni biber
-  * so
+<span id="step-1"></span>**Korak 1.** krastavce oprati, oljuštiti i iseći na kolutove. Beli luk očistiti i sitno iseckati.
 
-<img class="alignnone size-medium wp-image-3560" title="Salataodkrastavaca" src="/wp-content/uploads/2012/06/Salataodkrastavaca-e1340267536590-300x231.jpg" alt="" width="300" height="231" /> 
-
-**Priprema**: krastavce oprati, oljuštiti i iseći na kolutove. Beli luk očistiti i sitno iseckati.
-
-U poseban sud sipati sirće, so, ulje, biber, beli luk, dobro izmešati i preliti isečene krastavce neposredno pred služenje. Po želji, salatu posuti sa malo seckane mirođije.
+<span id="step-2"></span>**Korak 2.** U poseban sud sipati sirće, so, ulje, biber, beli luk, dobro izmešati i preliti isečene krastavce neposredno pred služenje. Po želji, salatu posuti sa malo seckane mirođije.
 
 Salatu od krstavaca treba pripremati neposredno pre jela, jer se tako najbolje iskorišćavaju njegovi sastojci. Mnogi od nas prilikom pripreme salate krastavac iseku, posole, pa zatim ocede sok koji je pustio i tako se izgubi najveći deo korisnih sastojaka. Da bi se ti sastojci sačuvali, najbolje bi bilo da se krstavac ne soli.
 
