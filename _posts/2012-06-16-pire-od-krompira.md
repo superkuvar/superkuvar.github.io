@@ -6,9 +6,27 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3507
 permalink: /pire-od-krompira/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/06/Pireodkrompira-940x198.jpg
+published: true
+description: >-
+  Pire od krompira je kremasti, mekan prilog od belog krompira, mleka i
+  margarina ili ulja. Odličan je uz pečenje, gulaš, šnicle ili porodični ručak.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 1 kilogram belog krompira
+  - mleko (oko 2-2,5 dl)
+  - ulje ili margarin (oko 50 grama)
+  - so
+instructions:
+  - krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
+  - Kuvan krompir ocediti, vratiti u vreo lonac u kome se kuvao i staviti na još vruću ringlu da vlaga ispari. Zatim ga izgnječiti kašikom za gnječenje krompira. U propasiran krompir dodati vrelo mleko i maslac (margarin) ili ulje i po potrebi dosoliti. Sve dobro izmešati, da se dobije glatka, ujednačena penasta masa.
+  - Ukoliko se ne dobije željena gustina pirea prilikom dodavanja mleka, može se umesto mleka dodati malo vode u kojoj se krompir kuvao. Ne sipati odjednom svu količinu mleka u krompir, već postepeno da bi se dobila željena gustina pirea.
+image: /wp-content/uploads/2012/06/pire.od.krompira.hero.jpg
+og_image: /wp-content/uploads/2012/06/pire.od.krompira.og.jpg
+card_image: /wp-content/uploads/2012/06/pire.od.krompira.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -16,22 +34,15 @@ tags:
   - margarin
   - mleko
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram belog krompira
-  * mleko (oko 2-2,5 dl)
-  * ulje ili margarin (oko 50 grama)
-  * so
+<span id="step-1"></span>**Korak 1.** krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
 
-<img class="alignnone size-medium wp-image-3508" title="Pireodkrompira" src="/wp-content/uploads/2012/06/Pireodkrompira-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Kuvan krompir ocediti, vratiti u vreo lonac u kome se kuvao i staviti na još vruću ringlu da vlaga ispari. Zatim ga izgnječiti kašikom za gnječenje krompira. U propasiran krompir dodati vrelo mleko i maslac (margarin) ili ulje i po potrebi dosoliti. Sve dobro izmešati, da se dobije glatka, ujednačena penasta masa.
 
-**Priprema**: krompir oprati, oljuštiti, iseći na četvrtine ili na kockice, naliti hladnom vodom, da ogrezne, malo posoliti i kuvati oko 20 minuta, dok ne omekša. U toku kuvanja u krompir ne dolivati vodu.
+<span id="step-3"></span>**Korak 3.** Ukoliko se ne dobije željena gustina pirea prilikom dodavanja mleka, može se umesto mleka dodati malo vode u kojoj se krompir kuvao. Ne sipati odjednom svu količinu mleka u krompir, već postepeno da bi se dobila željena gustina pirea.
 
-Kuvan krompir ocediti, vratiti u vreo lonac u kome se kuvao i staviti na još vruću ringlu da vlaga ispari. Zatim ga izgnječiti kašikom za gnječenje krompira. U propasiran krompir dodati vrelo mleko i maslac (margarin) ili ulje i po potrebi dosoliti. Sve dobro izmešati, da se dobije glatka, ujednačena penasta masa.
-
-Ukoliko se ne dobije željena gustina pirea prilikom dodavanja mleka, može se umesto mleka dodati malo vode u kojoj se krompir kuvao. Ne sipati odjednom svu količinu mleka u krompir, već postepeno da bi se dobila željena gustina pirea.
-
-Pire krompir služiti kao prilog uz kuvano ili dinstano meso, pečenje, gulaš, šnicle, ćufte. Pire može da bude i u kombinaciji sa drugim prilozima od povrća.
+Pire krompir služiti kao prilog uz kuvano ili dinstano meso, pečenje, gulaš, šnicle, ćufte. Pire može da bude i u kombinaciji sa drugim prilozima od povrća. Klasičan je, zasitan i brzo se priprema — pravi izbor kada treba pouzdan prilog uz meso.
 
 Pire krompir je poznat u većini svetskih kuhinja, a omiljen je i na našim trpezama. Priprema se najčešće od svih priloga u našoj kuhinji.
 
