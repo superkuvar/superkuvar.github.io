@@ -6,13 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5794
 permalink: /pekarski-krompir-na-mamin-način/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/06/Pekarskikrompirnamaminnacin-940x198.jpg
+description: >-
+  Pekarski krompir na mamin način je jednostavan pečeni prilog od krompira,
+  crnog luka, crvene paprike i peršuna. Odličan je uz pečenje, dinstano ili
+  kuvano meso, ili kao samostalan obrok.
+prep_time: PT20M
+cook_time: PT50M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 1 kilogram krompira
+  - 2 glavice crnog luka
+  - šoljica ulja
+  - crvena mlevena paprika
+  - mleveni biber
+  - so
+  - peršunov list
+instructions:
+  - očišćen i opran krompir iseći na režnjeve. Crni luk očistiti i iseći na kolutove. Pomešati luk sa krompirom, posoliti, a zatim dodati, po ukusu, biber, crvenu mlevenu papriku i iseckan peršunov list. Sve dobro izmešati i složiti u dobro podmazan dublji pleh.
+  - Pripremljeni krompir preliti zagrejanim uljem, naliti malo tople vode, otprilike 2 decilitra, i staviti u pećnicu zagrejanu na 200 stepeni.
+  - Krompir peći dok ne omekša. Paziti da ne pregori i da se ne prepeče. U toku pečenja krompir ne prelivati.
+image: /wp-content/uploads/2013/06/pekarski.krompir.na.mamin.nacin.hero.jpg
+og_image: /wp-content/uploads/2013/06/pekarski.krompir.na.mamin.nacin.og.jpg
+card_image: /wp-content/uploads/2013/06/pekarski.krompir.na.mamin.nacin.kartica.jpg
 categories:
   - prilozi
 tags:
@@ -21,22 +38,12 @@ tags:
   - krompir
   - peršunov list
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram krompira
-  * 2 glavice crnog luka
-  * šoljica ulja
-  * crvena mlevena paprika
-  * mleveni biber
-  * so
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** očišćen i opran krompir iseći na režnjeve. Crni luk očistiti i iseći na kolutove. Pomešati luk sa krompirom, posoliti, a zatim dodati, po ukusu, biber, crvenu mlevenu papriku i iseckan peršunov list. Sve dobro izmešati i složiti u dobro podmazan dublji pleh.
 
-<img class="alignnone size-medium wp-image-5795" src="/wp-content/uploads/2013/06/Pekarskikrompirnamaminnacin-1024x768.jpg" alt="Pekarskikrompirnamaminnacin" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Pripremljeni krompir preliti zagrejanim uljem, naliti malo tople vode, otprilike 2 decilitra, i staviti u pećnicu zagrejanu na 200 stepeni.
 
-**Priprema**: očišćen i opran krompir iseći na režnjeve. Crni luk očistiti i iseći na kolutove. Pomešati luk sa krompirom, posoliti, a zatim dodati, po ukusu, biber, crvenu mlevenu papriku i iseckan peršunov list. Sve dobro izmešati i složiti u dobro podmazan dublji pleh.
+<span id="step-3"></span>**Korak 3.** Krompir peći dok ne omekša. Paziti da ne pregori i da se ne prepeče. U toku pečenja krompir ne prelivati.
 
-Pripremljeni krompir preliti zagrejanim uljem, naliti malo tople vode, otprilike 2 decilitra, i staviti u pećnicu zagrejanu na 200 stepeni.
-
-Krompir peći dok ne omekša. Paziti da ne pregori i da se ne prepeče. U toku pečenja krompir ne prelivati.
-
-Pekarski krompir poslužiti kao prilog uz pečenje, dinstano ili kuvano meso, a može se poslužiti i samostalno.
+Pekarski krompir poslužiti kao prilog uz pečenje, dinstano ili kuvano meso, a može se poslužiti i samostalno. Pečen u dubljem plehu sa lukom i crvenom paprikom, ostaje sočan i mirisan — pravi kućni prilog za porodični ručak.
