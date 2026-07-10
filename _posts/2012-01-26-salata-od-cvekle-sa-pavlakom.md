@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2350
 permalink: /salata-od-cvekle-sa-pavlakom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/01/Cvekla-sa-pavlakom-2-940x198.jpg
+published: true
+description: >-
+  Salata od cvekle sa pavlakom je osvežavajuće, kremasto jelo od kuvane ili
+  pečene cvekle, kisele pavlake, senfa i limuna. Odlična je kao prilog uz
+  pečenje ili lagan hladan obrok.
+prep_time: PT20M
+cook_time: PT50M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 190 kalorija po porciji
+ingredients:
+  - 800 grama cvekle
+  - čaša kisele pavlake (od 2 dl)
+  - sok od limuna
+  - 1 kašičica senfa
+  - so
+  - biber
+instructions:
+  - cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice.
+  - Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
+image: /wp-content/uploads/2012/01/salata.od.cvekle.sa.pavlakom.hero.jpg
+og_image: /wp-content/uploads/2012/01/salata.od.cvekle.sa.pavlakom.og.jpg
+card_image: /wp-content/uploads/2012/01/salata.od.cvekle.sa.pavlakom.kartica.jpg
 categories:
   - salate
 tags:
@@ -17,20 +37,13 @@ tags:
   - limunov sok
   - senf
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 800 grama cvekle
-  * čaša kisele pavlake (od 2 dl)
-  * sok od limuna
-  * 1 kašičica senfa
-  * so
-  * biber
+<span id="step-1"></span>**Korak 1.** cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice.
 
-<img class="alignnone size-medium wp-image-2351" title="Cvekla sa pavlakom# (2)" src="/wp-content/uploads/2012/01/Cvekla-sa-pavlakom-2-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
 
-**Priprema**: cveklu oprati i skuvati ili ispeći u rerni. Kada se ohladi, oljuštiti je i izrendati na krupno rende ili isitniti na kockice. Cveklu preliti sokom od pola limuna, dodati so, biber, senf i kiselu pavlaku. Promešati.
-
-Salatu od cvekle servirati ohlađenu.
+Salatu od cvekle servirati ohlađenu. Odlično ide uz pečeno meso ili kao lagan prilog uz ručak, a senf i limun daju svežinu koja lepo balansira slatkoću cvekle.
 
 Cvekla je povrće karakteristične crvene boje, koja potiče od pigmenta antocijana. Bogata je belančevinama, mastima, ugljenim hidratima i dijetnim vlaknima. Sadrži skoro sve minerale, vitamine C, B1, B2 i B12 koji je naročito redak u namirnicama biljnog porekla.
 
