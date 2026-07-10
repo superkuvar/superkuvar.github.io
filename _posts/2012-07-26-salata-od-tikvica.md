@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3824
 permalink: /salata-od-tikvica/
-totvreme:
-  - ""
-image: /wp-content/uploads/2015/07/salataodtikvica-940x198.jpg
+published: true
+description: >-
+  Salata od tikvica je lagana, osvežavajuća salata od mladih tikvica, belog
+  luka, peršuna, ulja i jabukovog sirćeta. Odlična je kao prilog ili lagan
+  obrok u toplim letnjim danima.
+prep_time: PT15M
+cook_time: PT10M
+total_time: PT25M
+servings: 4 porcije
+nutrition: oko 90 kalorija po porciji
+ingredients:
+  - 3-4 mlade tikvice
+  - so
+  - biber
+  - ulje
+  - jabukovo sirće
+  - 3 čena belog luka
+  - peršunov list
+instructions:
+  - tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
+  - Oceđene tikvice preručiti u činiju, dodati iseckani beli luk, seckani peršunov list i biber. Ukoliko je potebno tikvice još malo posoliti, pa preliti uljem i sirćetom. Izmešati i staviti u frižider da se salata ohladi.
+image: /wp-content/uploads/2012/07/salata.od.tikvica.hero.jpg
+og_image: /wp-content/uploads/2012/07/salata.od.tikvica.og.jpg
+card_image: /wp-content/uploads/2012/07/salata.od.tikvica.kartica.jpg
 categories:
   - salate
 tags:
@@ -16,25 +37,15 @@ tags:
   - sirće
   - tikvice
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3-4 mlade tikvice
-  * so
-  * biber
-  * ulje
-  * jabukovo sirće
-  * 3 čena belog luka
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
 
-![salataodtikvica](/wp-content/uploads/2015/07/salataodtikvica-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Oceđene tikvice preručiti u činiju, dodati iseckani beli luk, seckani peršunov list i biber. Ukoliko je potebno tikvice još malo posoliti, pa preliti uljem i sirćetom. Izmešati i staviti u frižider da se salata ohladi.
 
-**Priprema**: tikvice oprati, oljuštiti, preseći uzduž, nožem iseći sredinu sa semenkama, a zatim iseći na kocke i obariti u slanoj vodi. Obarene tikvice staviti u cediljku da se ocede od vode u kojoj su se kuvale.
+Ova salata može da se posluži i kao osvežavajući obrok u toplim letnjim danima. Najbolje ide uz pečeno meso ili pečene paprike, a hladna iz frižidera osvježava u vrućim danima.
 
-Oceđene tikvice preručiti u činiju, dodati iseckani beli luk, seckani peršunov list i biber. Ukoliko je potebno tikvice još malo posoliti, pa preliti uljem i sirćetom. Izmešati i staviti u frižider da se salata ohladi.
-
-Ova salata može da se posluži i kao osvežavajući obrok u toplim letnjim danima.
-
-**Napomena**:   umesto peršuna u salatu možete dodati seckanu mirođiju ili sitno iscepkane listiće svežeg bosiljka. Ukoliko volite pikantan ukus, možete dodati i nekoliko kolutića ljute papričice.
+**Napomena:** umesto peršuna u salatu možete dodati seckanu mirođiju ili sitno iscepkane listiće svežeg bosiljka. Ukoliko volite pikantan ukus, možete dodati i nekoliko kolutića ljute papričice.
 
 Zbog odličnog ukusa, niske kaloričnosti i povoljnog uticaja na zdravlje, tikvice su postale omiljeno povrće u mnogim kuhinjama, a u mediteranskoj su skoro obavezan sastojak.
 
