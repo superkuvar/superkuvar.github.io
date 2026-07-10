@@ -6,13 +6,33 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4522
 permalink: /salata-od-patlidžana-i-pečenih-paprika/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/10/Salataodpatlidzanaipaprika-940x198.jpg
+published: true
+description: >-
+  Salata od patlidžana i pečenih paprika je lagana, bogata salata od prženog
+  plavog patlidžana, pečenih paprika i belog sira. Odlična je kao prilog ili
+  kompletan lagani obrok za večeru.
+prep_time: PT25M
+cook_time: PT30M
+total_time: PT55M
+servings: 4 porcije
+nutrition: oko 280 kalorija po porciji
+ingredients:
+  - 3 srednja plava patlidžana
+  - 7-8 paprika
+  - 2-3 čena belog luka
+  - jabukovo sirće
+  - ulje
+  - 200 grama starijeg belog sira
+  - so
+  - biber
+  - peršunov list
+instructions:
+  - plavi patlidžan oprati, oljuštiti, iseći na režnjeve, posoliti i ostaviti dvadesetak minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio i ispržiti na ulju. Kada se ohladi iseći ga na trakice.
+  - Paprike oprati, ispeći, oljuštiti, očistiti od semena, takođe iseći na trake i propržiti na ulju.
+  - U činiji za salatu pomešati patlidžan, paprike i izmrvljen sir. Posoliti, pobiberiti, dodati sirće, iseckan beli luk i peršunov list, pa dobro izmešati. Odozgo salatu posuti izmrvljenim sirom.
+image: /wp-content/uploads/2012/10/salata.od.patlidzana.i.pecenih.paprika.hero.jpg
+og_image: /wp-content/uploads/2012/10/salata.od.patlidzana.i.pecenih.paprika.og.jpg
+card_image: /wp-content/uploads/2012/10/salata.od.patlidzana.i.pecenih.paprika.kartica.jpg
 categories:
   - salate
 tags:
@@ -23,24 +43,12 @@ tags:
   - sir
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 srednja plava patlidžana
-  * 7-8 paprika
-  * 2-3 čena belog luka
-  * jabukovo sirće
-  * ulje
-  * 200 grama starijeg belog sira
-  * so
-  * biber
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** plavi patlidžan oprati, oljuštiti, iseći na režnjeve, posoliti i ostaviti dvadesetak minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio i ispržiti na ulju. Kada se ohladi iseći ga na trakice.
 
-<img class="alignnone size-medium wp-image-4523" title="Salataodpatlidzanaipaprika" src="/wp-content/uploads/2012/10/Salataodpatlidzanaipaprika-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Paprike oprati, ispeći, oljuštiti, očistiti od semena, takođe iseći na trake i propržiti na ulju.
 
-**Priprema**: plavi patlidžan oprati, oljuštiti, iseći na režnjeve, posoliti i ostaviti dvadesetak minuta da odstoji. Nakon toga patlidžan ocediti od vode koju je pustio i ispržiti na ulju. Kada se ohladi iseći ga na trakice.
+<span id="step-3"></span>**Korak 3.** U činiji za salatu pomešati patlidžan, paprike i izmrvljen sir. Posoliti, pobiberiti, dodati sirće, iseckan beli luk i peršunov list, pa dobro izmešati. Odozgo salatu posuti izmrvljenim sirom.
 
-Paprike oprati, ispeći, oljuštiti, očistiti od semena, takođe iseći na trake i propržiti na ulju.
-
-U činiji za salatu pomešati patlidžan, paprike i izmrvljen sir. Posoliti, pobiberiti, dodati sirće, iseckan beli luk i peršunov list, pa dobro izmešati. Odozgo salatu posuti izmrvljenim sirom.
-
-Ova salata može se poslužiti i kao kompletan, lagani obrok, na primer kao večera.
+Ova salata može se poslužiti i kao kompletan, lagani obrok, na primer kao večera. Posebno dobro ide uz pečeno meso ili pečeni krompir, a pečene paprike i patlidžan daju joj bogat, letnji ukus.
