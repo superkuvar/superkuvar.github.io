@@ -6,9 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3864
 permalink: /salata-od-paradajza-sa-senfom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/08/Salataodparadajzasasenfom-940x198.jpg
+published: true
+description: >-
+  Salata od paradajza sa senfom je sveža letnja salata od paradajza, crnog luka
+  i marinada sa jabukovim sirćetom i senfom. Odlična je kao prilog uz pečenje
+  ili lagan letnji obrok.
+prep_time: PT15M
+cook_time: PT0M
+total_time: PT15M
+servings: 4 porcije
+nutrition: oko 150 kalorija po porciji
+ingredients:
+  - 4 paradajza
+  - 1 glavica crnog luka
+  - 4 kašika ulja
+  - 2 kašike jabukovog sirćeta
+  - 1 kašičica šećera
+  - senf
+instructions:
+  - paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
+  - Kolutove paradajza složiti na plitki tanjir i preliti pripremljenom marinadom. Salatu odozgo, po želji, ukrasiti seckanim peršunovim listom.
+image: /wp-content/uploads/2012/08/salata.od.paradajza.sa.senfom.hero.jpg
+og_image: /wp-content/uploads/2012/08/salata.od.paradajza.sa.senfom.og.jpg
+card_image: /wp-content/uploads/2012/08/salata.od.paradajza.sa.senfom.kartica.jpg
 categories:
   - salate
 tags:
@@ -17,21 +37,12 @@ tags:
   - senf
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 4 paradajza
-  * 1 glavica crnog luka
-  * 4 kašika ulja
-  * 2 kašike jabukovog sirćeta
-  * 1 kašičica šećera
-  * senf
+<span id="step-1"></span>**Korak 1.** paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
 
-<img class="alignnone size-medium wp-image-3865" title="Salataodparadajzasasenfom" src="/wp-content/uploads/2012/08/Salataodparadajzasasenfom-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Kolutove paradajza složiti na plitki tanjir i preliti pripremljenom marinadom. Salatu odozgo, po želji, ukrasiti seckanim peršunovim listom.
 
-**Priprema**: paradajz oprati i iseći na kolutove. Crni luk očistiti i iseckati na kockice. Izmešati ulje, sirće, šećer i senf, dodati iseckani luk i promešati.
+likopen, glavni sastojak paradajza, spada u antioksidante iz grupe karotena. Veći procenat likopena nalazi se u kečapu i sosu od paradajza.
 
-Kolutove paradajza složiti na plitki tanjir i preliti pripremljenom marinadom. Salatu odozgo, po želji, ukrasiti seckanim peršunovim listom.
-
-**Napomena**:   likopen, glavni sastojak paradajza, spada u antioksidante iz grupe karotena. Veći procenat likopena nalazi se u kečapu i sosu od paradajza.
-
-Sveža paradajz salata trebalo bi da bude skoro svakodnevno zastupljena u našem letnjem jelovniku.
+Sveža paradajz salata trebalo bi da bude skoro svakodnevno zastupljena u našem letnjem jelovniku. Marinada od senfa i jabukovog sirćeta daje blago kiselo-ljut ukus koji se lepo slaže uz pečeno meso ili roštilj.
