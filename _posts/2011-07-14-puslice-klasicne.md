@@ -6,8 +6,26 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1454
 permalink: /puslice-klasične/
-totvreme:
-  - ""
+published: true
+description: >-
+  Klasične puslice su lagani kolačići od belanaca, kristal šećera i limunovog
+  soka. Hrskave su spolja, savršene uz kafu ili čaj i za svečani poslužnik.
+prep_time: PT20M
+cook_time: PT1H
+total_time: PT1H20M
+servings: 6 porcija
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 5 belanaca
+  - 30 kašika kristal šećera
+  - 5 kašika soka od limuna
+instructions:
+  - u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
+  - Kašičicom ili kuvarskim špricem formirati puslice, pa ih ređati u pleh obložen namašćenim papirom.
+  - Zagrejati pećnicu na 150 stepeni i staviti puslice da se peku, odnosno treba da se suše. Voditi računa da puslice ostanu bele boje.
+image: /wp-content/uploads/2011/07/puslice.klasicne.hero.jpg
+og_image: /wp-content/uploads/2011/07/puslice.klasicne.og.jpg
+card_image: /wp-content/uploads/2011/07/puslice.klasicne.kartica.jpg
 categories:
   - kolači
 tags:
@@ -15,24 +33,12 @@ tags:
   - limunov sok
   - šećer
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 5 belanaca
-  * 30 kašika kristal šećera
-  * 5 kašika soka od limuna
+<span id="step-1"></span>**Korak 1.** u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
 
-<img class="alignnone size-full wp-image-1456" title="puslice1" src="/wp-content/uploads/2011/07/puslice1-e1310649691203.jpg" alt="" width="255" height="170" /> 
+<span id="step-2"></span>**Korak 2.** Kašičicom ili kuvarskim špricem formirati puslice, pa ih ređati u pleh obložen namašćenim papirom.
 
-**Priprema**: u vanglici mikserom mutiti belanca, pa kad počne da se stvara pena, dodati šećer i sok od limuna. Mutiti sve dok masa ne postane čvrsta.
+<span id="step-3"></span>**Korak 3.** Zagrejati pećnicu na 150 stepeni i staviti puslice da se peku, odnosno treba da se suše. Voditi računa da puslice ostanu bele boje.
 
-Kašičicom ili kuvarskim špricem formirati puslice, pa ih ređati u pleh obložen namašćenim papirom.
-
-Zagrejati pećnicu na 150 stepeni i staviti puslice da se peku, odnosno treba da se suše. Voditi računa da puslice ostanu bele boje.
-
-**Savet**: da bi se belanca za puslice dobro umutila, posuda u kojoj se mute, kao i metlice miksera moraju biti suvi i bez primesa masnoće. U belancetu ne sme biti tragova žumanceta.
-
-Šećer se u belanca dodaje postepeno, i muti najvećom brzinom miksera.
-
-Puslice, kao i ostali kolači od belanaca, više se suše nego što se peku.
-
-Puslice čuvati u poklopljenoj kutiji, ako želite da ostanu spolja hrskave.
+Da bi se belanca za puslice dobro umutila, posuda u kojoj se mute, kao i metlice miksera moraju biti suvi i bez primesa masnoće. U belancetu ne sme biti tragova žumanceta. Šećer se u belanca dodaje postepeno, i muti najvećom brzinom miksera. Puslice, kao i ostali kolači od belanaca, više se suše nego što se peku. Puslice čuvati u poklopljenoj kutiji, ako želite da ostanu spolja hrskave. Klasične puslice odlično idu uz kafu ili čaj i dugo se čuvaju ako ostanu suve i hrskave.
