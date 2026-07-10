@@ -6,10 +6,11 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1125
 permalink: /dinstano-meso-sa-povrćem/
-image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.hero.jpg
-og_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.og.jpg
-card_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.kartica.jpg
-description: Sočno dinstano svinjsko meso sa paprikom, paradajzom i šargarepom — klasičan domaći ručak koji miriše po crvenoj paprici. Poslužite uz pirinač, testeninu ili pire.
+published: true
+description: >-
+  Dinstano meso sa povrćem je sočno jelo od svinjskog mesa, paprike,
+  paradajza i šargarepe u sosu sa crvenom paprikom. Odlično je za
+  porodični ručak, uz pirinač ili pire od krompira.
 prep_time: PT20M
 cook_time: PT1H
 total_time: PT1H20M
@@ -28,10 +29,13 @@ ingredients:
   - so, biber i suvi biljni začin po ukusu
   - ulje
 instructions:
-  - Iseći meso i povrće, propržiti luk sa crvenom paprikom.
-  - Dodati meso i dinstati poklopljeno uz dolivanje vode.
-  - Ubaciti povrće i beli luk, dinstati dok ne omekša.
-  - Zgusnuti brašnom razmućenim u vodi i kratko prokuvati.
+  - Meso iseći na kockice, luk na listiće, papriku na komade, šargarepu i paradajz na kocke. Na zagrejanom ulju propržiti luk do staklastog izgleda, smanjiti vatru i dodati crvenu papriku — brzo promešati da ne zagori.
+  - U luk dodati meso i kratko propržiti. Začiniti biberom i suvim biljnim začinom, po želji dodati seckanu ljutu papričicu. Naliti malo tople vode, poklopiti i dinstati, uz povremeno mešanje i dolivanje vode.
+  - Kad meso omekša, dodati iseckano povrće i beli luk. Dinstati otklopljeno dok povrće ne postane mekano i sos ne zgusne.
+  - Brašno razmutiti u malo hladne vode, sipati u jelo i promešati. Ostaviti na vatri još nekoliko minuta da sos postane glatkiji.
+image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.hero.jpg
+og_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.og.jpg
+card_image: /wp-content/uploads/2011/06/dinstano.meso.sa.povrcem.kartica.jpg
 categories:
   - prilozi
 tags:
