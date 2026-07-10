@@ -6,9 +6,39 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2645
 permalink: /rolat-sa-pečurkama/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/03/Rolat-sa-pečurkama-940x198.jpg
+published: true
+description: >-
+  Rolat sa pečurkama je slano predjelo od mekog pečenog testa punjenog
+  pečurkama, crnim lukom i kiselom pavlakom. Odličan je za proslave,
+  porodične ručkove ili kao hladan zalogaj uz salatu.
+prep_time: PT30M
+cook_time: PT45M
+total_time: PT1H15M
+servings: 6 porcija
+nutrition: oko 310 kalorija po porciji
+ingredients:
+  - 120 grama brašna
+  - 120 grama margarina ili 1 decilitar ulja
+  - 500 ml mleka
+  - 6 jaja
+  - 500 grama pečuraka (šampinjoi)
+  - 2 glavice crnog luka
+  - biber
+  - origano
+  - so
+  - malo ulja
+  - 3 kašike kisele pavlake
+  - 2 dl kisele pavlake (za premazivanje)
+instructions:
+  - brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
+  - U prohlađenu masu dodati žumanca, jedno po jedno, a zatim i sneg od belanaca. Lagano izmešati i sipati u pleh obložen aluminijumskom folijom premazanom uljem. Peći na 180 stepeni dvadesetak minuta. Pečeno testo izručiti na vlažnu platnenu salvetu i uviti ga u rolat.
+  - Dok se testo hladi, pripremiti nadev. Na ulju propržiti sitno seckan crni luk. Pečurke oprati, isitniti na listiće i dodati u proprženi luk. Dinstati na umerenoj temperaturi, bez dodavanja vode.
+  - Kada uvri sav sok koji su pečurke pustile, skloniti sa vatre, posoliti, dodati biber, malo origana i umešati tri kašike kisele pavlake. Ovim filom premazati ohlađenu koru i uviti je u rolat.
+  - Pripremljen rolat staviti u frižider da se stegne, a pre služenja premazati ga kiselom pavlakom.
+  - Ohlađen rolat iseći na parčiće širine oko jedan i po santimetar.
+image: /wp-content/uploads/2012/03/rolat.sa.pecurkama.hero.jpg
+og_image: /wp-content/uploads/2012/03/rolat.sa.pecurkama.og.jpg
+card_image: /wp-content/uploads/2012/03/rolat.sa.pecurkama.kartica.jpg
 categories:
   - predjela
 tags:
@@ -19,35 +49,18 @@ tags:
   - pečurke
   - jaja
 ---
-**Potrebno je**:  
-Testo
+**Način pripreme:**
 
-  * 120 grama brašna
-  * 120 grama margarina ili 1 decilitar ulja
-  * 500 ml mleka
-  * 6 jaja
+<span id="step-1"></span>**Korak 1.** brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
 
-Fil
+<span id="step-2"></span>**Korak 2.** U prohlađenu masu dodati žumanca, jedno po jedno, a zatim i sneg od belanaca. Lagano izmešati i sipati u pleh obložen aluminijumskom folijom premazanom uljem. Peći na 180 stepeni dvadesetak minuta. Pečeno testo izručiti na vlažnu platnenu salvetu i uviti ga u rolat.
 
-  * 500 grama pečuraka (šampinjoi)
-  * 2 glavice crnog luka
-  * biber
-  * origano
-  * so
-  * malo ulja
-  * 3 kašike kisele pavlake
-  * 2 dl kisele pavlake (za premazivanje)
+<span id="step-3"></span>**Korak 3.** Dok se testo hladi, pripremiti nadev. Na ulju propržiti sitno seckan crni luk. Pečurke oprati, isitniti na listiće i dodati u proprženi luk. Dinstati na umerenoj temperaturi, bez dodavanja vode.
 
-<img class="alignnone size-medium wp-image-2646" title="Rolat sa pečurkama" src="/wp-content/uploads/2012/03/Rolat-sa-pečurkama-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-4"></span>**Korak 4.** Kada uvri sav sok koji su pečurke pustile, skloniti sa vatre, posoliti, dodati biber, malo origana i umešati tri kašike kisele pavlake. Ovim filom premazati ohlađenu koru i uviti je u rolat.
 
-**Priprema**: brašno propržiti na margarinu ili ulju, ali voditi računa da ne potamni. U proprženo brašno uliti mleko i kuvati na tihoj vatri, uz neprestano mešanje, dok se ne zgusne.
+<span id="step-5"></span>**Korak 5.** Pripremljen rolat staviti u frižider da se stegne, a pre služenja premazati ga kiselom pavlakom.
 
-U prohlađenu masu dodati žumanca, jedno po jedno, a zatim i sneg od belanaca. Lagano izmešati i sipati u pleh obložen aluminijumskom folijom premazanom uljem. Peći na 180 stepeni dvadesetak minuta. Pečeno testo izručiti na vlažnu platnenu salvetu i uviti ga u rolat.
+<span id="step-6"></span>**Korak 6.** Ohlađen rolat iseći na parčiće širine oko jedan i po santimetar.
 
-Dok se testo hladi, pripremiti nadev. Na ulju propržiti sitno seckan crni luk. Pečurke oprati, isitniti na listiće i dodati u proprženi luk. Dinstati na umerenoj temperaturi, bez dodavanja vode.
-
-Kada uvri sav sok koji su pečurke pustile, skloniti sa vatre, posoliti, dodati biber, malo origana i umešati tri kašike kisele pavlake. Ovim filom premazati ohlađenu koru i uviti je u rolat.
-
-Pripremljen rolat staviti u frižider da se stegne, a pre služenja premazati ga kiselom pavlakom.
-
-Ohlađen rolat iseći na parčiće širine oko jedan i po santimetar.
+Rolat se poslužuje ohlađen, isečen na tanje kriške, kao predjelo ili lagan obrok. Fil od pečuraka i kisele pavlake daje kremastu, blagu aromu koja se lepo slaže sa mekanim testom.
