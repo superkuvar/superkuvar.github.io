@@ -6,8 +6,11 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3524
 permalink: /dinstana-keleraba/
-image: /wp-content/uploads/2012/06/dinstana.keleraba.hero.jpg
-description: Dinstana mlada keleraba u blagom sosu od skroba i peršuna — lagan i ukusan prilog uz meso. Šećer ublažava blagu gorčinu povrća.
+published: true
+description: >-
+  Dinstana keleraba je lagan, blag prilog od mlade kelerabe u umaku od skroba
+  sa svežim peršunom. Odlična je uz meso, šnicle ili ćufte, za porodični ručak
+  ili laganu večeru.
 prep_time: PT10M
 cook_time: PT45M
 total_time: PT55M
@@ -24,17 +27,18 @@ ingredients:
 instructions:
   - Kelerabu oprati, očistiti i iseći na komade.
   - U vrelo ulje dodati komade kelerabe i dinstati u poklopljenoj posudi, uz povremeno mešanje i dolivanje po malo tople vode.
-  - Kada keleraba upola omekša, posoliti, dodati suvi biljni začin, naliti toplom vodom da ogrezne i pustiti da provri.
-  - Dodati kašičicu šećera i kuvati na tihoj vatri oko pola sata.
-  - U malo vode razmutiti skrob i sipati u kelerabu uz lagano mešanje; kuvati još pet minuta.
+  - Kada keleraba upola omekša, posoliti je, dodati suvi biljni začin, naliti toplom vodom da ogrezne i pustiti da provri.
+  - Kada keleraba provri, dodati kašičicu šećera i kuvati na tihoj vatri oko pola sata.
+  - U malo vode razmutiti skrob i sipati u kelerabu, uz lagano mešanje da se ne zgrudva. Kuvati još pet minuta.
   - U gotovo jelo dodati iseckan peršunov list.
+image: /wp-content/uploads/2012/06/dinstana.keleraba.hero.jpg
+og_image: /wp-content/uploads/2012/06/dinstana.keleraba.og.jpg
+card_image: /wp-content/uploads/2012/06/dinstana.keleraba.kartica.jpg
 categories:
   - prilozi
 tags:
   - keleraba
   - peršunov list
-og_image: /wp-content/uploads/2012/06/dinstana.keleraba.og.jpg
-card_image: /wp-content/uploads/2012/06/dinstana.keleraba.kartica.jpg
 ---
 **Način pripreme:**
 
@@ -50,4 +54,4 @@ card_image: /wp-content/uploads/2012/06/dinstana.keleraba.kartica.jpg
 
 <span id="step-6"></span>**Korak 6.** U gotovo jelo dodati iseckan peršunov list.
 
-Dinstanu kelerabu poslužite uz kuvano ili dinstano meso, šnicle ili ćufte.
+Dinstanu kelerabu poslužite uz kuvano ili dinstano meso, šnicle ili ćufte. Blaga keleraba sa peršunom lepo se uklapa u porodični ručak ili laganu večeru.
