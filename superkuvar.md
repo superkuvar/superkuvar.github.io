@@ -2,7 +2,7 @@
 
 ## Kompletno uputstvo — transformacija jednog recepta
 
-**Verzija:** 2.0 · **Datum:** jul 2026 · **Sajt:** <https://superkuvar.com>
+**Verzija:** 2.1 · **Datum:** jul 2026 · **Sajt:** <https://superkuvar.com>
 
 **Repo (logički):** `superkuvar/superkuvar.github.io`, grana `master`
 **Repo (lokalno, na vlasnikovoj mašini):** `/home/dj/repos/superkuvar.github.io`
@@ -14,6 +14,8 @@ koren klona ovog repoa — sve putanje u dokumentu su relativne u odnosu na njeg
 Za članke (layout `article`) važi `superkuvar.art.md`.
 
 **Changelog:**
+- v2.1 (jul 2026): hero set (AI) — zabrana ostataka hrane / mrvica / prosute
+  hrane na stolu i oko posude; proširen hero prompt.
 - v2.0 (jul 2026): korak slike izmeštene u Appendix A (neaktivno); razrešena
   batch kontradikcija; dodat kompletan YAML šablon i pun primer pre→posle;
   dodata pravila za procenu vremena/kalorija; dodata grana za slike < 400 px;
@@ -359,14 +361,26 @@ git commit -m "Recept: NAZIV — potpuno renoviran"
 - Ako AI ubaci escajg ili plastiku — **regeneriši** sa eksplicitnom zabranom
   u promptu
 
+**Hero set (posebno — AI generisanje hero / og / kartica):**
+
+- **Bez ostataka hrane na stolu** — nema mrvica, prosutih zrna, komadića jela,
+  oraha, voća ili sosa oko posude; nema „rasute“ dekoracije hrane po daski
+  ili stolnjaku
+- Sto / daska / podloga moraju izgledati **čisto**; jelo je **samo u posudi**
+  (tanjir, zdela, pleh) u centru kadra
+- Ako AI ipak raspe hranu oko tanjira — **regeneriši** hero sa eksplicitnom
+  zabranom u promptu: `clean table, no crumbs, no spilled food, no food
+  scraps around the dish`
+- OG i kartica nastaju iz heroa (crop/resize) pa nasleđuju isto pravilo
+
 **Varijacija:** dozvoljena prirodna varijacija ugla, posude, kadra i
 osvetljenja; sme se generisati više varijanti (drugi seed) i uzeti najbolja
 koja poštuje zabrane.
 
 | Tip | Kadar | Prompt skica |
 | --- | ----- | ------------ |
-| **Hero** | 45° odozgo, jelo u centru, 16:9, prostor oko tanjira | `[GOTOVO JELO] on [POSUDA], 45 degree food photography, wide 16:9 aspect, warm daylight, no text, no cutlery, no plastic trays` |
-| **OG** | isto jelo, šire, jelo niže u kadru (FB seče gore/dole) | `same dish, wider 1.91:1 aspect, subject lower in frame, safe zone` — ili crop heroa |
+| **Hero** | 45° odozgo, jelo u centru, 16:9, prostor oko tanjira, **čist sto** | `[GOTOVO JELO] on [POSUDA], 45 degree food photography, wide 16:9 aspect, warm daylight, clean table, no crumbs, no spilled food, no food scraps around the dish, no text, no cutlery, no plastic trays` |
+| **OG** | isto jelo, šire, jelo niže u kadru (FB seče gore/dole) | `same dish, wider 1.91:1 aspect, subject lower in frame, safe zone, clean table` — ili crop heroa |
 | **Kartica** | crop iz heroa, jelo popunjava kadar | crop hero na 800×600 |
 
 **Napomena o dimenzijama:** generatori slika ignorišu piksele u promptu —
@@ -414,6 +428,7 @@ u prompt ide **aspect ratio** (16:9, 1.91:1), a tačne dimenzije (1200×675,
       hero.800 (800×450)
 - [ ] YAML: image, og_image, card_image pokazuju na te fajlove
 - [ ] Nema escajga, plastičnih ni metalnih poslužavnica
+- [ ] Hero (AI): **nema ostataka hrane / mrvica / prosute hrane** na stolu oko posude
 - [ ] Imena fajlova: tačke, mala slova, bez kvačica
 
 **Mašinska provera (asistent izvršava pre commita):**
