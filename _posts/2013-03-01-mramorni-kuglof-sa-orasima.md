@@ -6,13 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5364
 permalink: /mramorni-kuglof-sa-orasima/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/02/Mramornikuglofsaaorasima-940x198.jpg
+published: true
+description: >-
+  Mramorni kuglof sa orasima je sočan kolač od maslaca, kakaa i mlevenih oraha sa mermernim uzorkom. Odličan je uz kafu ili čaj, za porodični desert ili posluženje gostima.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 10 porcija
+nutrition: oko 480 kalorija po porciji
+ingredients:
+  - 250 grama maslaca ili margarina
+  - 200 grama šećera
+  - 4 jajeta
+  - čaša (od 2 dl) mleka
+  - 450 g brašna
+  - kesica praška za pecivo
+  - kašika kakaoa
+  - 3 kašike mlevenih oraha
+  - šećer u prahu
+  - kesica vanilin šećera
+instructions:
+  - penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
+  - Testo podeliti na dva dela. U jedan deo staviti kakao, orahe i pola šoljice mleka.
+  - U podmazan i brašnom posut kalup sipati žuto testo, a preko njega tamno. Viljuškom proći kroz testo i izmešati.
+  - Kuglof peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni.
+  - Pečen kuglof ostaviti nekoliko minuta u kalupu, a zatim izručiti na tanjir. Kada se kuglof ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na komade.
+image: /wp-content/uploads/2013/02/mramorni.kuglof.sa.orasima.hero.jpg
+og_image: /wp-content/uploads/2013/02/mramorni.kuglof.sa.orasima.og.jpg
+card_image: /wp-content/uploads/2013/02/mramorni.kuglof.sa.orasima.kartica.jpg
 categories:
   - kolači
 tags:
@@ -24,27 +45,16 @@ tags:
   - šećer
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 250 grama maslaca ili margarina
-  * 200 grama šećera
-  * 4 jajeta
-  * čaša (od 2 dl) mleka
-  * 450 g brašna
-  * kesica praška za pecivo
-  * kašika kakaoa
-  * 3 kašike mlevenih oraha
-  * šećer u prahu
-  * kesica vanilin šećera
+<span id="step-1"></span>**Korak 1.** penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
 
-<img class="alignnone size-medium wp-image-5365" src="/wp-content/uploads/2013/02/Mramornikuglofsaaorasima-1024x768.jpg" alt="Mramornikuglofsaaorasima" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Testo podeliti na dva dela. U jedan deo staviti kakao, orahe i pola šoljice mleka.
 
-**Priprema**: penasto umutiti maslac sa šećerom, pa dodati jaja i mleko, dobro izmešati, a zatim sipati brašno pomešano sa praškom za pecivo.
+<span id="step-3"></span>**Korak 3.** U podmazan i brašnom posut kalup sipati žuto testo, a preko njega tamno. Viljuškom proći kroz testo i izmešati.
 
-Testo podeliti na dva dela. U jedan deo staviti kakao, orahe i pola šoljice mleka.
+<span id="step-4"></span>**Korak 4.** Kuglof peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni.
 
-U podmazan i brašnom posut kalup sipati žuto testo, a preko njega tamno. Viljuškom proći kroz testo i izmešati.
+<span id="step-5"></span>**Korak 5.** Pečen kuglof ostaviti nekoliko minuta u kalupu, a zatim izručiti na tanjir. Kada se kuglof ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na komade.
 
-Kuglof peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni.
-
-Pečen kuglof ostaviti nekoliko minuta u kalupu, a zatim izručiti na tanjir. Kada se kuglof ohladi, posuti ga šećerom u prahu pomešanim sa vanilin šećerom i iseći na komade.
+Mramorni kuglof sa orasima najbolje se seče kada se potpuno ohladi, a lepo dođe uz šolju kafe ili kao slatki zalogaj za goste.
