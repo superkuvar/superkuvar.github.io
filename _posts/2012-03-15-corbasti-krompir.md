@@ -6,9 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2679
 permalink: /čorbasti-krompir/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/03/Čorbasti-krompir-940x198.jpg
+published: true
+description: >-
+  Čorbasti krompir je gusto, toplo jelo od krompira, šargarepe, crnog luka i pečene paprike sa paradajzom i karijem. Odličan je za hladnije dane, porodični ručak ili jednostavnu večeru.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 260 kalorija po porciji
+ingredients:
+  - 1 kilogram krompira
+  - 2 glavice crnog luka
+  - 1 pečena paprika
+  - 2 šargarepe
+  - 100 grama kuvanog paradajza
+  - so
+  - suvi biljni začin
+  - malo kari začina
+  - seckani peršunov list
+  - 2 kašike skroba (gustina)
+  - ulje
+instructions:
+  - na ulju propržiti sitno seckani crni luk. šargarepu oprati, oljuštiti i iseći na štapiće, a papriku (može i iz zamrzivača) iseckati, pa ih dodati u propržen luk. Dinstati nekoliko minuta, a zatim sipati paradajz pire ili kuvani paradajz.
+  - Krompir oprati, oljuštiti, iseći na kockice i dodati u izdinstano povrće. Naliti sa litar do litar i po vode i staviti da se kuva.
+  - Jelo kuvati na umerenoj temperaturi, dok krompir i šargarepa ne omekšaju. Posoliti, dodati suvi biljni začin, malo karija i seckanog peršunovog lista.
+  - U malo hladne vode razmutiti skrob ili brašno i sipati u jelo, promešati i ostaviti na tihoj vatri još desetak minuta.
+image: /wp-content/uploads/2012/corbasti.krompir.hero.jpg
+og_image: /wp-content/uploads/2012/corbasti.krompir.og.jpg
+card_image: /wp-content/uploads/2012/corbasti.krompir.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -18,28 +43,14 @@ tags:
   - kuvani paradajz
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram krompira
-  * 2 glavice crnog luka
-  * 1 pečena paprika
-  * 2 šargarepe
-  * 100 grama kuvanog paradajza
-  * so
-  * suvi biljni začin
-  * malo kari začina
-  * seckani peršunov list
-  * 2 kašike skroba (gustina)
-  * ulje
+<span id="step-1"></span>**Korak 1.** na ulju propržiti sitno seckani crni luk. šargarepu oprati, oljuštiti i iseći na štapiće, a papriku (može i iz zamrzivača) iseckati, pa ih dodati u propržen luk. Dinstati nekoliko minuta, a zatim sipati paradajz pire ili kuvani paradajz.
 
-<img class="alignnone size-medium wp-image-2681" title="Čorbasti krompir" src="/wp-content/uploads/2012/03/%C4%8Corbasti-krompir-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Krompir oprati, oljuštiti, iseći na kockice i dodati u izdinstano povrće. Naliti sa litar do litar i po vode i staviti da se kuva.
 
-**Priprema**: na ulju propržiti sitno seckani crni luk. šargarepu oprati, oljuštiti i iseći na štapiće, a papriku (može i iz zamrzivača) iseckati, pa ih dodati u propržen luk. Dinstati nekoliko minuta, a zatim sipati paradajz pire ili kuvani paradajz.
+<span id="step-3"></span>**Korak 3.** Jelo kuvati na umerenoj temperaturi, dok krompir i šargarepa ne omekšaju. Posoliti, dodati suvi biljni začin, malo karija i seckanog peršunovog lista.
 
-Krompir oprati, oljuštiti, iseći na kockice i dodati u izdinstano povrće. Naliti sa litar do litar i po vode i staviti da se kuva.
+<span id="step-4"></span>**Korak 4.** U malo hladne vode razmutiti skrob ili brašno i sipati u jelo, promešati i ostaviti na tihoj vatri još desetak minuta.
 
-Jelo kuvati na umerenoj temperaturi, dok krompir i šargarepa ne omekšaju. Posoliti, dodati suvi biljni začin, malo karija i seckanog peršunovog lista.
-
-U malo hladne vode razmutiti skrob ili brašno i sipati u jelo, promešati i ostaviti na tihoj vatri još desetak minuta.
-
-&nbsp;
+Čorbasti krompir poslužite vruć uz domaći hleb. Kari i pečena paprika daju blagu začinskost, a skrob zgusne jelo u klasičnu domaću čorbu.
