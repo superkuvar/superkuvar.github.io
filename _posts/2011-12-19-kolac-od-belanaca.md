@@ -6,13 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2093
 permalink: /kolač-od-belanaca/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/12/Kolacsabelancima3-940x198.jpg
+published: true
+description: >-
+  Kolač od belanaca je lagan pečeni kolač od belanaca, šećera, brašna, limuna, oraha i suvog grožđa. Odličan je uz kafu ili kada preostanu belanca od torti.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 10 porcije
+nutrition: oko 220 kalorija po porciji
+ingredients:
+  - 6 belanaca
+  - po 150 grama šećera i brašna
+  - šoljica ulja
+  - sok i kora od jednog limuna
+  - seckani orasi
+  - malo suvog grožđa
+  - žele bombone ili ratluk
+instructions:
+  - umutiti čvrst sneg od belanaca i šećera. U umućena belanca dodati sok i koru od prethodno dobro opranog limuna, iseckane orahe, suvo grožđe, iseckane žele bombone ili ratluk i brašno.
+  - Testo lagano izmešati varjačom, sipati u podmazan i brašnom posut uski pleh i peći na umerenoj temperaturi oko 30 minuta.
+  - Pečen kolač izvaditi iz pleha i kad se potpuno ohladi seći na užu parčad.
+image: /wp-content/uploads/2011/12/kolac.od.belanaca.hero.jpg
+og_image: /wp-content/uploads/2011/12/kolac.od.belanaca.og.jpg
+card_image: /wp-content/uploads/2011/12/kolac.od.belanaca.kartica.jpg
 categories:
   - kolači
 tags:
@@ -23,22 +39,12 @@ tags:
   - suvo groždje
   - žele bombone
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 6 belanaca
-  * po 150 grama šećera i brašna
-  * šoljica ulja
-  * sok i kora od jednog limuna
-  * seckani orasi
-  * malo suvog grožđa
-  * žele bombone ili ratluk
+<span id="step-1"></span>**Korak 1.** umutiti čvrst sneg od belanaca i šećera. U umućena belanca dodati sok i koru od prethodno dobro opranog limuna, iseckane orahe, suvo grožđe, iseckane žele bombone ili ratluk i brašno.
 
-<img class="alignnone size-medium wp-image-5729" src="/wp-content/uploads/2011/12/Kolacsabelancima3-1024x768.jpg" alt="Kolacsabelancima3" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Testo lagano izmešati varjačom, sipati u podmazan i brašnom posut uski pleh i peći na umerenoj temperaturi oko 30 minuta.
 
-**Priprema**: umutiti čvrst sneg od belanaca i šećera. U umućena belanca dodati sok i koru od prethodno dobro opranog limuna, iseckane orahe, suvo grožđe, iseckane žele bombone ili ratluk i brašno.
+<span id="step-3"></span>**Korak 3.** Pečen kolač izvaditi iz pleha i kad se potpuno ohladi seći na užu parčad.
 
-Testo lagano izmešati varjačom, sipati u podmazan i brašnom posut uski pleh i peći na umerenoj temperaturi oko 30 minuta.
-
-Pečen kolač izvaditi iz pleha i kad se potpuno ohladi seći na užu parčad.
-
-Ovaj ukusan i lagan kolač obično se pravi kada preostanu belanca od pripreme nekih drugih kolača ili torti.
+Ovaj ukusan i lagan kolač obično se pravi kada preostanu belanca od pripreme nekih drugih kolača ili torti. Poslužite ohlađen, isečen na užu parčad, uz čaj ili kafu.
