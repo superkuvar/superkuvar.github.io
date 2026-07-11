@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=509
 permalink: /snicle-od-spanaca/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/05/Šnicle-od-spanaća-940x198.jpg
+description: >-
+  Šnicle od spanaća su pržene šnicle od spanaća, jaja i parmezana ili kačkavalja sa prezlama. Odlične su kao lagan ručak ili večera uz pire od krompira ili bareni pirinač.
+prep_time: PT30M
+cook_time: PT20M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 290 kalorija po porciji
+ingredients:
+  - spanać (1 kilogram)
+  - 2 jaja
+  - kašika parmezana ili narendanog kačkavalja
+  - 3 čena belog luka
+  - prezle
+  - brašno
+  - so
+  - biber
+  - ulje
+instructions:
+  - očišćen i opran spanać obariti u posoljenoj vodi. Spanać ocediti, sitno iseckati i dodati jaja, kašiku parmezana, iseckani beli luk, prezle i brašno, onoliko koliko je potrebno da se dobije čvršća masa.
+  - Od pripremljenog spanaća oblikovati šnicle, svaku uvaljati u brašno i pržiti na vrelom ulju, na umerenoj temperaturi, sa obe strane.
+  - Ispržene šnicle staviti na papirni ubrus da upije suvišnu masnoću.
+image: /wp-content/uploads/2011/05/snicle.od.spanaca.hero.jpg
+og_image: /wp-content/uploads/2011/05/snicle.od.spanaca.og.jpg
+card_image: /wp-content/uploads/2011/05/snicle.od.spanaca.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -18,26 +39,14 @@ tags:
   - spanać
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * spanać (1 kilogram)
-  * 2 jaja
-  * kašika parmezana ili narendanog kačkavalja
-  * 3 čena belog luka
-  * prezle
-  * brašno
-  * so
-  * biber
-  * ulje
+<span id="step-1"></span>**Korak 1.** očišćen i opran spanać obariti u posoljenoj vodi. Spanać ocediti, sitno iseckati i dodati jaja, kašiku parmezana, iseckani beli luk, prezle i brašno, onoliko koliko je potrebno da se dobije čvršća masa.
 
-<img class="alignnone size-medium wp-image-2850" title="Šnicle od spanaća" src="/wp-content/uploads/2011/05/%C5%A0nicle-od-spanaća-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Od pripremljenog spanaća oblikovati šnicle, svaku uvaljati u brašno i pržiti na vrelom ulju, na umerenoj temperaturi, sa obe strane.
 
-**Priprema**: očišćen i opran spanać obariti u posoljenoj vodi. Spanać ocediti, sitno iseckati i dodati jaja, kašiku parmezana, iseckani beli luk, prezle i brašno, onoliko koliko je potrebno da se dobije čvršća masa.
-
-Od pripremljenog spanaća oblikovati šnicle, svaku uvaljati u brašno i pržiti na vrelom ulju, na umerenoj temperaturi, sa obe strane.
-
-Ispržene šnicle staviti na papirni ubrus da upije suvišnu masnoću.
+<span id="step-3"></span>**Korak 3.** Ispržene šnicle staviti na papirni ubrus da upije suvišnu masnoću.
 
  nicle od spanaća služiti uz pire od krompira ili bareni pirinač.
 
-**Savet**: pre pripreme spanać treba oprati u hladnoj vodi i ukloniti drške.
+**Savet**: pre pripreme spanać treba oprati u hladnoj vodi i ukloniti drške. Hrskava kora i blagi ukus spanaća čine ih pogodnim i za porodični obrok i za laganiji jelovnik bez mesa.
