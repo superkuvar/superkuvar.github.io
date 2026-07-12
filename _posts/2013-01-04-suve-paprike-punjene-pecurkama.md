@@ -6,13 +6,37 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5018
 permalink: /suve-paprike-punjene-pečurkama/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/01/Paprikepunjenepecurkama-940x198.jpg
+published: true
+description: >-
+  Suve paprike punjene pečurkama su bogato pečeno jelo od suvih paprika, šampinjona, pirinča i povrća. Odlične su za porodični ručak, hladnije dane ili sezonsku trpezu sa domaćim hlebom.
+prep_time: PT45M
+cook_time: PT50M
+total_time: PT1H35M
+servings: 5 porcija
+nutrition: oko 380 kalorija po porciji
+ingredients:
+  - 10-12 crvenih suvih paprika
+  - 400 grama šampinjona
+  - 2 šargarepe
+  - 100 grama pirinča
+  - 3 glavice crnog luka
+  - 2 dl kuvanog paradajza
+  - pola kašike crvene sitne paprike
+  - peršunov list
+  - biber
+  - so
+  - 2 manja krompira
+  - 2 šoljice ulja
+instructions:
+  - suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
+  - Zagrejati polovinu predviđene količine ulja, pa dodati očišćen sitno iseckan crni luk, šampinjone takođe sitno isečene i izrendanu šargarepu, a zatim pržiti na umerenoj temperaturi.
+  - Opran pirinač obariti i ocediti. Pirinač treba da bude napola kuvan.
+  - Kada luk, šargarepa i šampinjoni budu dobro uprženi dodati so, biber i na kraju pirinač, seckani peršunov list i crvenu mlevenu papriku.
+  - Pripremljenim nadevom, kada se prohladi, puniti paprike, zatvoriti ih kolutovima krompira i složiti u vatrostalnu posudu ili zemljani đuveč. Paprike preliti vodom u kojoj je rastvoren kuvani paradajz, da ogreznu i preliti ostatkom ulja.
+  - Paprike staviti u pećnicu zagrejanu na 220 stepeni i peći na toj temperaturi dok voda ne provri, a zatim smanjiti na 200 stepeni i ostaviti da se jelo zapeče, da paprike dobiju rumenu koricu.
+image: /wp-content/uploads/2013/01/suve.paprike.punjene.pecurkama.hero.jpg
+og_image: /wp-content/uploads/2013/01/suve.paprike.punjene.pecurkama.og.jpg
+card_image: /wp-content/uploads/2013/01/suve.paprike.punjene.pecurkama.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -26,33 +50,18 @@ tags:
   - šampinjoni
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 10-12 crvenih suvih paprika
-  * 400 grama šampinjona
-  * 2 šargarepe
-  * 100 grama pirinča
-  * 3 glavice crnog luka
-  * 2 dl kuvanog paradajza
-  * pola kašike crvene sitne paprike
-  * peršunov list
-  * biber
-  * so
-  * 2 manja krompira
-  * 2 šoljice ulja
+<span id="step-1"></span>**Korak 1.** suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
 
-<img class="alignnone size-medium wp-image-5019" src="/wp-content/uploads/2013/01/Paprikepunjenepecurkama-1024x768.jpg" alt="Paprikepunjenepecurkama" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Zagrejati polovinu predviđene količine ulja, pa dodati očišćen sitno iseckan crni luk, šampinjone takođe sitno isečene i izrendanu šargarepu, a zatim pržiti na umerenoj temperaturi.
 
-**Priprema**: suve paprike preliti vrelom vodom i ostaviti da odstoje dvadesetak minuta, da omekšaju, a zatim ih ocediti. Ukloniti drške i semene lože, ukoliko su paprike bile nanizane u venac.
+<span id="step-3"></span>**Korak 3.** Opran pirinač obariti i ocediti. Pirinač treba da bude napola kuvan.
 
-Zagrejati polovinu predviđene količine ulja, pa dodati očišćen sitno iseckan crni luk, šampinjone takođe sitno isečene i izrendanu šargarepu, a zatim pržiti na umerenoj temperaturi.
+<span id="step-4"></span>**Korak 4.** Kada luk, šargarepa i šampinjoni budu dobro uprženi dodati so, biber i na kraju pirinač, seckani peršunov list i crvenu mlevenu papriku.
 
-Opran pirinač obariti i ocediti. Pirinač treba da bude napola kuvan.
+<span id="step-5"></span>**Korak 5.** Pripremljenim nadevom, kada se prohladi, puniti paprike, zatvoriti ih kolutovima krompira i složiti u vatrostalnu posudu ili zemljani đuveč. Paprike preliti vodom u kojoj je rastvoren kuvani paradajz, da ogreznu i preliti ostatkom ulja.
 
-Kada luk, šargarepa i šampinjoni budu dobro uprženi dodati so, biber i na kraju pirinač, seckani peršunov list i crvenu mlevenu papriku.
+<span id="step-6"></span>**Korak 6.** Paprike staviti u pećnicu zagrejanu na 220 stepeni i peći na toj temperaturi dok voda ne provri, a zatim smanjiti na 200 stepeni i ostaviti da se jelo zapeče, da paprike dobiju rumenu koricu.
 
-Pripremljenim nadevom, kada se prohladi, puniti paprike, zatvoriti ih kolutovima krompira i složiti u vatrostalnu posudu ili zemljani đuveč. Paprike preliti vodom u kojoj je rastvoren kuvani paradajz, da ogreznu i preliti ostatkom ulja.
-
-Paprike staviti u pećnicu zagrejanu na 220 stepeni i peći na toj temperaturi dok voda ne provri, a zatim smanjiti na 200 stepeni i ostaviti da se jelo zapeče, da paprike dobiju rumenu koricu.
-
-&nbsp;
+Suve paprike punjene pečurkama najbolje se poslužuju tople, uz hleb ili kao glavno jelo za porodični ručak.
