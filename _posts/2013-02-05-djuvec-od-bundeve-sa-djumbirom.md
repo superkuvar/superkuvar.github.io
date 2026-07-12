@@ -6,13 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5228
 permalink: /đuveč-od-bundeve-sa-đumbirom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/02/Djuvečodbundevesadjumbirom-940x198.jpg
+description: >-
+  Đuveč od bundeve sa đumbirom je pečeno posno jelo od bundeve, šargarepe, krompira i pirinča sa blagom aromom đumbira. Odličan je za porodični ručak ili večeru uz dinstano meso ili šnicle.
+prep_time: PT25M
+cook_time: PT45M
+total_time: PT1H10M
+servings: 6 porcija
+nutrition: oko 250 kalorija po porciji
+ingredients:
+  - 1 kilogram bundeve
+  - 1 struk praziluka
+  - 5 šargarepa
+  - 3 krompira
+  - 100 grama pirinča
+  - so
+  - suvi biljni začin
+  - kašičica đumbira u prahu
+  - biber
+  - peršunov list
+  - ulje
+instructions:
+  - povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
+  - Posudu za pečenje podmazati uljem, sipati isitnjeno povrće, opran pirinač, so, biber, đumbir i iseckan peršunov list, dobro izmešati, pa preliti toplom vodom u kojoj je rastvorena kašika suvog biljnog začina. Vode treba da bude toliko da povrće ogrezne.
+  - Đuveč preliti uljem, posudu poklopiti i staviti u zagrejanu pećnicu. Prvih dvadesetak minuta đuveč peći na temperaturi od 250 stepeni, a sledećih 25 minuta na 220 stepeni.
+image: /wp-content/uploads/2013/02/djuvec.od.bundeve.sa.djumbirom.hero.jpg
+og_image: /wp-content/uploads/2013/02/djuvec.od.bundeve.sa.djumbirom.og.jpg
+card_image: /wp-content/uploads/2013/02/djuvec.od.bundeve.sa.djumbirom.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -24,26 +43,12 @@ tags:
   - praziluk
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram bundeve
-  * 1 struk praziluka
-  * 5 šargarepa
-  * 3 krompira
-  * 100 grama pirinča
-  * so
-  * suvi biljni začin
-  * kašičica đumbira u prahu
-  * biber
-  * peršunov list
-  * ulje
+<span id="step-1"></span>**Korak 1.** povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
 
-<img class="alignnone size-medium wp-image-5229" src="/wp-content/uploads/2013/02/Djuvečodbundevesadjumbirom-1024x768.jpg" alt="Djuvečodbundevesadjumbirom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Posudu za pečenje podmazati uljem, sipati isitnjeno povrće, opran pirinač, so, biber, đumbir i iseckan peršunov list, dobro izmešati, pa preliti toplom vodom u kojoj je rastvorena kašika suvog biljnog začina. Vode treba da bude toliko da povrće ogrezne.
 
-**Priprema**: povrće oprati, očistiti pa isitniti: praziluk i šargarpu na kolutove, a krompir i bundevu na kockice.
+<span id="step-3"></span>**Korak 3.** Đuveč preliti uljem, posudu poklopiti i staviti u zagrejanu pećnicu. Prvih dvadesetak minuta đuveč peći na temperaturi od 250 stepeni, a sledećih 25 minuta na 220 stepeni.
 
-Posudu za pečenje podmazati uljem, sipati isitnjeno povrće, opran pirinač, so, biber, đumbir i iseckan peršunov list, dobro izmešati, pa preliti toplom vodom u kojoj je rastvorena kašika suvog biljnog začina. Vode treba da bude toliko da povrće ogrezne.
-
-Đuveč preliti uljem, posudu poklopiti i staviti u zagrejanu pećnicu. Prvih dvadesetak minuta đuveč peći na temperaturi od 250 stepeni, a sledećih 25 minuta na 220 stepeni.
-
-Đuveč od bundeve poslužiti uz dinstano meso ili šnicle.
+Đuveč od bundeve poslužiti uz dinstano meso ili šnicle. Aroma đumbira i slatkoća bundeve čine ovo jelo posebno ukusnim u hladnijim danima, a odlično se slaže i kao prilog uz pečenje.
