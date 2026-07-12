@@ -6,9 +6,31 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3346
 permalink: /posni-pilav-sa-spanacem/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/06/Posnipilavsaspanaćem-940x198.jpg
+published: true
+description: >-
+  Posni pilav sa spanaćem je lagano, zasitno jelo od spanaća, pirinča i crnog
+  luka. Odličan je za post, porodični ručak ili laganu večeru uz kiselo mleko.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 1 kilogram spanaća
+  - 2 šoljice pirinča
+  - so
+  - mleveni biber
+  - crvena začinska paprika
+  - glavica crnog luka
+  - ulje
+instructions:
+  - spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
+  - Spanać ocediti rukama od soka koji je pustio, pa dodati u luk i kratko propržiti. Kada je spanać omekšao, dodati opran pirinač, posoliti, pobiberiti i naliti sa malo tople vode, da ogrezne.
+  - Pilav kuvati na umerenoj temperaturi oko 30 minuta. Po potrebi, dolivati po malo tople vode. Za vreme kuvanja pilav ne mešati, već šerpu povremeno protresti.
+  - U pilav se može dodati i šoljica soka od paradajza. Gotovo jelo preliti sa malo vrelog ulja u koje je dodata kašičica crvene začinske paprike i ostaviti da vri još dva-tri minuta.
+image: /wp-content/uploads/2012/06/posni.pilav.sa.spanacem.hero.jpg
+og_image: /wp-content/uploads/2012/06/posni.pilav.sa.spanacem.og.jpg
+card_image: /wp-content/uploads/2012/06/posni.pilav.sa.spanacem.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -16,28 +38,14 @@ tags:
   - pirinač
   - spanać
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram spanaća
-  * 2 šoljice pirinča
-  * so
-  * mleveni biber
-  * crvena začinska paprika
-  * glavica crnog luka
-  * ulje
+<span id="step-1"></span>**Korak 1.** spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
 
-<img class="alignnone size-medium wp-image-3350" title="Posnipilavsaspanaćem" src="/wp-content/uploads/2012/06/Posnipilavsaspanaćem-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Spanać ocediti rukama od soka koji je pustio, pa dodati u luk i kratko propržiti. Kada je spanać omekšao, dodati opran pirinač, posoliti, pobiberiti i naliti sa malo tople vode, da ogrezne.
 
-**Priprema**: spanać očistiti, oprati, iseći na krupne rezance, posoliti, pa ostaviti desetak minuta, dok ne pusti zeleni sok. U međuvremenu, sitno iseckati glavicu crnog luka i propržiti na malo ulja.
+<span id="step-3"></span>**Korak 3.** Pilav kuvati na umerenoj temperaturi oko 30 minuta. Po potrebi, dolivati po malo tople vode. Za vreme kuvanja pilav ne mešati, već šerpu povremeno protresti.
 
-Spanać ocediti rukama od soka koji je pustio, pa dodati u luk i kratko propržiti. Kada je spanać omekšao, dodati opran pirinač, posoliti, pobiberiti i naliti sa malo tople vode, da ogrezne.
+<span id="step-4"></span>**Korak 4.** U pilav se može dodati i šoljica soka od paradajza. Gotovo jelo preliti sa malo vrelog ulja u koje je dodata kašičica crvene začinske paprike i ostaviti da vri još dva-tri minuta.
 
-Pilav kuvati na umerenoj temperaturi oko 30 minuta. Po potrebi, dolivati po malo tople vode. Za vreme kuvanja pilav ne mešati, već šerpu povremeno protresti.
-
-U pilav se može dodati i šoljica soka od paradajza. Gotovo jelo preliti sa malo vrelog ulja u koje je dodata kašičica crvene začinske paprike i ostaviti da vri još dva-tri minuta.
-
-Pilav sa spanaćem, po želji, služiti sa kiselim mlekom ili kiselom pavlakom.
-
-**Napomena**:   pilav ne mora da se kuva, može i da se stavi odmah u pećnicu zagrejanu na 200 stepeni i peče dok ne uvri voda.
-
-&nbsp;
+Pilav sa spanaćem, po želji, služiti sa kiselim mlekom ili kiselom pavlakom. Pilav ne mora da se kuva, može i da se stavi odmah u pećnicu zagrejanu na 200 stepeni i peče dok ne uvri voda. Idealan je kao posni ručak ili lagana večera, a boja i aroma paprike daju mu prepoznatljiv domaći pečat.
