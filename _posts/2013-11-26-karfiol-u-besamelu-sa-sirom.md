@@ -6,9 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=6292
 permalink: /karfiol-u-bešamelu-sa-sirom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/11/Karfiolubesamelusasirom-940x198.jpg
+published: true
+description: >-
+  Karfiol u bešamelu sa sirom je kremasto jelo od kuvanog karfiola u bešamel sosu sa kačkavaljem i žumancima. Odličan je kao samostalan ručak ili prilog uz meso za porodični obrok.
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 300 kalorija po porciji
+ingredients:
+  - karfiol (1 glavica 1 kg)
+  - 60 grama margarina
+  - 50 grama oštrog brašna
+  - kačkavalj (100 g)
+  - so
+  - kašika šećera
+  - biber
+  - muskatni oraščić
+  - 2 žumanca
+  - 6-7 dl vode u kojoj se kuvao karfiol
+instructions:
+  - karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
+  - Na zagrejanom margarinu propržiti brašno, pa u njega postepeno sipati vodu u kojoj se kuvao karfiol. Mešati žicom za mućenje da se ne bi stvorile grudvice. Bešamel sos kuvati desetak minuta na umerenoj temperaturi.
+  - Pripremljen sos skloniti sa vatre, posoliti, dodati biber, malo narendanog muskatnog oraščića, narendani kačkavalj i žumanca. U bešamel ubaciti cvetiće karfiola, izmešati i prokuvati još minut-dva na slaboj vatri.
+image: /wp-content/uploads/2013/11/karfiol.u.besamelu.sa.sirom.hero.jpg
+og_image: /wp-content/uploads/2013/11/karfiol.u.besamelu.sa.sirom.og.jpg
+card_image: /wp-content/uploads/2013/11/karfiol.u.besamelu.sa.sirom.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -18,25 +41,12 @@ tags:
   - margarin
   - muskatni oraščić
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * karfiol (1 glavica 1 kg)
-  * 60 grama margarina
-  * 50 grama oštrog brašna
-  * kačkavalj (100 g)
-  * so
-  * kašika šećera
-  * biber
-  * muskatni oraščić
-  * 2 žumanca
-  * 6-7 dl vode u kojoj se kuvao karfiol
+<span id="step-1"></span>**Korak 1.** karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
 
-![<img class="alignnone size-medium wp-image-6294" src="/wp-content/uploads/2013/11/Karfiolubesamelusasirom-1024x768.jpg" alt="Karfiolubesamelusasirom" width="300" height="225" />](/wp-content/uploads/2013/11/Karfiolubesamelusasirom.jpg)
+<span id="step-2"></span>**Korak 2.** Na zagrejanom margarinu propržiti brašno, pa u njega postepeno sipati vodu u kojoj se kuvao karfiol. Mešati žicom za mućenje da se ne bi stvorile grudvice. Bešamel sos kuvati desetak minuta na umerenoj temperaturi.
 
-**Priprema**: karfiol očistiti, oprati, iskidati na cvetiće, obariti u vodi u koju su dodati so i šećer, a zatim ocediti. Paziti da se ne prekuva. Vodu u kojoj se karfiol kuvao sačuvati.
+<span id="step-3"></span>**Korak 3.** Pripremljen sos skloniti sa vatre, posoliti, dodati biber, malo narendanog muskatnog oraščića, narendani kačkavalj i žumanca. U bešamel ubaciti cvetiće karfiola, izmešati i prokuvati još minut-dva na slaboj vatri.
 
-Na zagrejanom margarinu propržiti brašno, pa u njega postepeno sipati vodu u kojoj se kuvao karfiol. Mešati žicom za mućenje da se ne bi stvorile grudvice. Bešamel sos kuvati desetak minuta na umerenoj temperaturi.
-
-Pripremljen sos skloniti sa vatre, posoliti, dodati biber, malo narendanog muskatnog oraščića, narendani kačkavalj i žumanca. U bešamel ubaciti cvetiće karfiola, izmešati i prokuvati još minut-dva na slaboj vatri. Poslužiti toplo, kao samostalno jelo ili kao prilog uz meso.
-
-**Savet**: karfiol pre pripreme potopiti u posoljenu vodu i ostaviti da tako stoji 10 minuta, kako bi izašle štetočine koje se mogu naći između cvasti.
+Poslužiti toplo, kao samostalno jelo ili kao prilog uz meso. Karfiol pre pripreme potopiti u posoljenu vodu i ostaviti da tako stoji 10 minuta, kako bi izašle štetočine koje se mogu naći između cvasti. Kremasti bešamel sa kačkavaljem i muskatnim oraščićem čini ovo jelo bogatim prilogom ili laganim ručkom bez mesa.
