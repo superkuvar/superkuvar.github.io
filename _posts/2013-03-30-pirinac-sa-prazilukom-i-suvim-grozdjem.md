@@ -6,13 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5541
 permalink: /pirinač-sa-prazilukom-i-suvim-grožđem/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-940x198.jpg
+description: >-
+  Pirinač sa prazilukom i suvim grožđem je lagano jelo bez mesa od pirinča, praziluka, šargarepe i suvog grožđa. Odličan je kao samostalan ručak ili prilog uz dinstano meso.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 330 kalorija po porciji
+ingredients:
+  - pirinač (2 šolje)
+  - 2 struka praziluka
+  - koren šargarepe
+  - 3 kašike suvog grožđa
+  - so
+  - suvi biljni začin
+  - korijander
+  - peršunov list
+  - limun
+  - ulje
+instructions:
+  - pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
+  - Praziluk očistiti i sitno iseckati. šargarepu oprati, oljuštiti i narendati.
+  - Na zagrejanom ulju zajednsuvo grožđe, limuno propržiti praziluk i šargarepu, da omekšaju.
+  - U proprženo povrće dodati oprano suvo grožđe, so, suvi biljni začin, korijander i oceđen pirinač. Izmešati, sipati malo vode u kojoj se pirinač kuvao i na tihoj vatri kuvati još pet-šest minuta. Gotovo jelo posuti seckanim peršunovim listom.
+image: /wp-content/uploads/2013/03/pirinac.sa.prazilukom.i.suvim.grozdjem.hero.jpg
+og_image: /wp-content/uploads/2013/03/pirinac.sa.prazilukom.i.suvim.grozdjem.og.jpg
+card_image: /wp-content/uploads/2013/03/pirinac.sa.prazilukom.i.suvim.grozdjem.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -22,27 +41,14 @@ tags:
   - šargarepa
   - suvo groždje
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * pirinač (2 šolje)
-  * 2 struka praziluka
-  * koren šargarepe
-  * 3 kašike suvog grožđa
-  * so
-  * suvi biljni začin
-  * korijander
-  * peršunov list
-  * limun
-  * ulje
+<span id="step-1"></span>**Korak 1.** pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
 
-<img class="alignnone size-medium wp-image-5542" src="/wp-content/uploads/2013/03/Pirinac-sa-prazilukom-i-suvim-grozdjem-1024x768.jpg" alt="Pirinac sa prazilukom i suvim grozdjem" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Praziluk očistiti i sitno iseckati. šargarepu oprati, oljuštiti i narendati.
 
-**Priprema**: pirinač oprati, obariti u posoljenoj vodi kojoj je dodato nekoliko kapi limuna, a zatim ocediti. Sačuvati vodu u kojoj se pirinač kuvao.
+<span id="step-3"></span>**Korak 3.** Na zagrejanom ulju zajednsuvo grožđe, limuno propržiti praziluk i šargarepu, da omekšaju.
 
-Praziluk očistiti i sitno iseckati. šargarepu oprati, oljuštiti i narendati.
+<span id="step-4"></span>**Korak 4.** U proprženo povrće dodati oprano suvo grožđe, so, suvi biljni začin, korijander i oceđen pirinač. Izmešati, sipati malo vode u kojoj se pirinač kuvao i na tihoj vatri kuvati još pet-šest minuta. Gotovo jelo posuti seckanim peršunovim listom.
 
-Na zagrejanom ulju zajednsuvo grožđe, limuno propržiti praziluk i šargarepu, da omekšaju.
-
-U proprženo povrće dodati oprano suvo grožđe, so, suvi biljni začin, korijander i oceđen pirinač. Izmešati, sipati malo vode u kojoj se pirinač kuvao i na tihoj vatri kuvati još pet-šest minuta. Gotovo jelo posuti seckanim peršunovim listom.
-
-Pirinač sa prazilukom i suvim grožđem poslužiti kao samostalno jelo ili kao prilog uz dinstano meso ili šnicle.
+Pirinač sa prazilukom i suvim grožđem poslužiti kao samostalno jelo ili kao prilog uz dinstano meso ili šnicle. Uz svež hleb ili laganu salatu postaje kompletan porodični obrok.
