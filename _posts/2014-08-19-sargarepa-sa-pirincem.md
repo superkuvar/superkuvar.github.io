@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=9245
 permalink: /sargarepa-sa-pirincem/
-totvreme:
-  - ""
-image: /wp-content/uploads/2014/08/sargarepasapirincem-940x198.jpg
+published: true
+description: >-
+  Šargarepa sa pirinčem je lagano jelo bez mesa od šargarepe, pirinča i crnog luka ili praziluka. Odlična je kao prilog uz meso ili samostalan ručak i večera.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 230 kalorija po porciji
+ingredients:
+  - šargarepa (300 grama)
+  - pirinač (šolja)
+  - 1 glavica crnog luka ili struk praziluka
+  - so
+  - suvi biljni začin
+  - ulje
+  - peršunov list
+instructions:
+  - luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
+  - Na ulju propržiti praziluk, dodati šargarepu i uz dolivanje po malo vode dinstati. Posoliti, dodati suvi biljni začin i biber po ukusu.
+  - U međuvremenu, obariti pirinač i ocediti ga.
+  - U izdinstanu šargarepu dodati pirinač, promešati i nastaviti sa dinstanjem još nekoliko minuta. U gotovo jelo, po želji, dodati malo iseckanog peršunovog lista.
+image: /wp-content/uploads/2014/08/sargarepa.sa.pirincem.hero.jpg
+og_image: /wp-content/uploads/2014/08/sargarepa.sa.pirincem.og.jpg
+card_image: /wp-content/uploads/2014/08/sargarepa.sa.pirincem.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -17,24 +38,14 @@ tags:
   - pirinač
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * šargarepa (300 grama)
-  * pirinač (šolja)
-  * 1 glavica crnog luka ili struk praziluka
-  * so
-  * suvi biljni začin
-  * ulje
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
 
-![<img class="alignnone size-medium wp-image-9247" src="/wp-content/uploads/2014/08/sargarepasapirincem-1024x768.jpg" alt="sargarepasapirincem" width="300" height="225" />](/wp-content/uploads/2014/08/sargarepasapirincem.jpg)
+<span id="step-2"></span>**Korak 2.** Na ulju propržiti praziluk, dodati šargarepu i uz dolivanje po malo vode dinstati. Posoliti, dodati suvi biljni začin i biber po ukusu.
 
-**Priprema**: luk ili praziluk očistiti, oprati i sitno iseckati. šargarepu oprati, očistiti i iseći na kolutove ili kockice.
+<span id="step-3"></span>**Korak 3.** U međuvremenu, obariti pirinač i ocediti ga.
 
-Na ulju propržiti praziluk, dodati šargarepu i uz dolivanje po malo vode dinstati. Posoliti, dodati suvi biljni začin i biber po ukusu.
+<span id="step-4"></span>**Korak 4.** U izdinstanu šargarepu dodati pirinač, promešati i nastaviti sa dinstanjem još nekoliko minuta. U gotovo jelo, po želji, dodati malo iseckanog peršunovog lista.
 
-U međuvremenu, obariti pirinač i ocediti ga.
-
-U izdinstanu šargarepu dodati pirinač, promešati i nastaviti sa dinstanjem još nekoliko minuta. U gotovo jelo, po želji, dodati malo iseckanog peršunovog lista.
-
-šargarepa sa pirinčem može se poslužiti kao samostalno jelo ili kao prilog uz dinstano meso ili šnicle.
+šargarepa sa pirinčem može se poslužiti kao samostalno jelo ili kao prilog uz dinstano meso ili šnicle. Lagano je povrće sa pirinčem koje se brzo priprema i lepo se slaže uz dinstano meso ili pečene šnicle.
