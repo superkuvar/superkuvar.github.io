@@ -6,9 +6,37 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3475
 permalink: /zapecene-tikvice-sa-sargarepom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/06/Zapečenetikvicesašargarepom-940x198.jpg
+published: true
+description: >-
+  Zapečene tikvice sa šargarepom su sočno pečeno jelo od tikvica punjenih pirinčem i šargarepom, sa sirom i prelivom od pavlake. Odlične su za letnji ručak, porodičnu večeru ili jelo bez mesa.
+prep_time: PT25M
+cook_time: PT45M
+total_time: PT1H10M
+servings: 4 porcije
+nutrition: oko 350 kalorija po porciji
+ingredients:
+  - 4 srednje tikvice
+  - glavica crnog luka
+  - 2 čena belog luka
+  - 3 šargarepe
+  - 1 šoljica pirinča
+  - so
+  - suvi biljni začin
+  - biber
+  - majoran ili origano
+  - peršunov list
+  - 100 grama kačkavalja ili feta sira
+  - čaša kisele pavlake
+  - 1 jaje
+  - ulje
+instructions:
+  - tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
+  - Na malo ulja propržiti sitno seckani crni luk. Dodati iseckan beli luk, pirinač i narendanu šargarepu. Sve kratko propržiti, skloniti sa vatre, posoliti, pobiberiti, dodati suvi biljni začin, majoran i seckani peršunov list.
+  - Pripremljenim nadevom puniti polovine tikvica, poređati ih u podmazanu posudu, odozgo posuti narendanim kačkavaljem ili sirom, preliti sa malo ulja i staviti u pećnicu zagrejanu na 200 stepeni.
+  - Nakon dvadesetak minuta izvaditi tikvice iz pećnice i svaku preliti pavlakom u kojoj je razmućeno jaje. Zapeći još desetak minuta, da jelo dobije zlatno žutu boju.
+image: /wp-content/uploads/2012/06/zapecene.tikvice.sa.sargarepom.hero.jpg
+og_image: /wp-content/uploads/2012/06/zapecene.tikvice.sa.sargarepom.og.jpg
+card_image: /wp-content/uploads/2012/06/zapecene.tikvice.sa.sargarepom.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -19,29 +47,14 @@ tags:
   - šargarepa
   - tikvice
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 4 srednje tikvice
-  * glavica crnog luka
-  * 2 čena belog luka
-  * 3 šargarepe
-  * 1 šoljica pirinča
-  * so
-  * suvi biljni začin
-  * biber
-  * majoran ili origano
-  * peršunov list
-  * 100 grama kačkavalja ili feta sira
-  * čaša kisele pavlake
-  * 1 jaje
-  * ulje
+<span id="step-1"></span>**Korak 1.** tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
 
-<img class="alignnone size-medium wp-image-3488" title="Zapečenetikvicesašargarepom" src="/wp-content/uploads/2012/06/Zapečenetikvicesašargarepom-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Na malo ulja propržiti sitno seckani crni luk. Dodati iseckan beli luk, pirinač i narendanu šargarepu. Sve kratko propržiti, skloniti sa vatre, posoliti, pobiberiti, dodati suvi biljni začin, majoran i seckani peršunov list.
 
-**Priprema**: tikvice oprati, oljuštiti, uzduž iseći na pola i izdubiti kašičicom. Potopiti ih na minut-dva u ključalu slanu vodu. U istoj vodi obariti šargarepu. Pirinač takođe obariti, a zatim ocediti.
+<span id="step-3"></span>**Korak 3.** Pripremljenim nadevom puniti polovine tikvica, poređati ih u podmazanu posudu, odozgo posuti narendanim kačkavaljem ili sirom, preliti sa malo ulja i staviti u pećnicu zagrejanu na 200 stepeni.
 
-Na malo ulja propržiti sitno seckani crni luk. Dodati iseckan beli luk, pirinač i narendanu šargarepu. Sve kratko propržiti, skloniti sa vatre, posoliti, pobiberiti, dodati suvi biljni začin, majoran i seckani peršunov list.
+<span id="step-4"></span>**Korak 4.** Nakon dvadesetak minuta izvaditi tikvice iz pećnice i svaku preliti pavlakom u kojoj je razmućeno jaje. Zapeći još desetak minuta, da jelo dobije zlatno žutu boju.
 
-Pripremljenim nadevom puniti polovine tikvica, poređati ih u podmazanu posudu, odozgo posuti narendanim kačkavaljem ili sirom, preliti sa malo ulja i staviti u pećnicu zagrejanu na 200 stepeni.
-
-Nakon dvadesetak minuta izvaditi tikvice iz pećnice i svaku preliti pavlakom u kojoj je razmućeno jaje. Zapeći još desetak minuta, da jelo dobije zlatno žutu boju.
+Zapečene tikvice sa šargarepom najbolje se poslužuju tople, kao lagan letnji ručak ili večera za četiri osobe, uz salatu ili parče domaćeg hleba.
