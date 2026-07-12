@@ -6,13 +6,29 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4789
 permalink: /zapečeni-spanać/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/11/Zapečeni-spanać-940x198.jpg
+published: true
+description: >-
+  Zapečeni spanać je toplo jelo od spanaća, pirinča i paradajz pirea sa lukom.
+  Odličan je kao prilog uz dinstano meso ili lagan ručak uz kiselo mleko.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 220 kalorija po porciji
+ingredients:
+  - 1 kilogram spanaća
+  - glavica crnog luka ili struk praziluka
+  - pola šolje pirinča
+  - 2 kašike paradajz pirea
+  - so
+  - crvena mlevena paprika
+  - ulje
+instructions:
+  - spanać očistiti, oprati i iseći na rezance. Crni luk očistiti, sitno iseći i propržiti na zagrejanom ulju. Dodati spanać i pržiti zajedno, dok spanać ne omekša.
+  - U propržen spanać dodati paradajz pire, so, crvenu mlevenu papriku i opran pirinač. Izmešati, sipati u podmazanu posudu za pečenje i naliti mlakom vodom, da ogrezne. Peći na umerenoj temperaturi, dok voda ne uvri.
+image: /wp-content/uploads/2012/zapeceni.spanac.hero.jpg
+og_image: /wp-content/uploads/2012/zapeceni.spanac.og.jpg
+card_image: /wp-content/uploads/2012/zapeceni.spanac.kartica.jpg
 categories:
   - jela bez mesa
 tags:
@@ -22,22 +38,10 @@ tags:
   - pirinač
   - spanać
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram spanaća
-  * glavica crnog luka ili struk praziluka
-  * pola šolje pirinča
-  * 2 kašike paradajz pirea
-  * so
-  * crvena mlevena paprika
-  * ulje
+<span id="step-1"></span>**Korak 1.** spanać očistiti, oprati i iseći na rezance. Crni luk očistiti, sitno iseći i propržiti na zagrejanom ulju. Dodati spanać i pržiti zajedno, dok spanać ne omekša.
 
-<img class="alignnone size-medium wp-image-4790" title="Zapečeni spanać" src="/wp-content/uploads/2012/11/Zapečeni-spanać-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U propržen spanać dodati paradajz pire, so, crvenu mlevenu papriku i opran pirinač. Izmešati, sipati u podmazanu posudu za pečenje i naliti mlakom vodom, da ogrezne. Peći na umerenoj temperaturi, dok voda ne uvri.
 
-**Priprema**: spanać očistiti, oprati i iseći na rezance. Crni luk očistiti, sitno iseći i propržiti na zagrejanom ulju. Dodati spanać i pržiti zajedno, dok spanać ne omekša.
-
-U propržen spanać dodati paradajz pire, so, crvenu mlevenu papriku i opran pirinač. Izmešati, sipati u podmazanu posudu za pečenje i naliti mlakom vodom, da ogrezne. Peći na umerenoj temperaturi, dok voda ne uvri.
-
-Zapečeni spanać polužiti sa kiselim mlekom ili kao prilog uz dinstano meso ili šnicle.
-
-**Savet**: vodu u kojoj se spanać kuvao treba baciti, jer je zasićena nitratima koji se pod uticajem bakterija pretvaraju u nitrite. Iz tog razloga spanać treba da se priprema neposredno pre konzumiranja.
+Zapečeni spanać polužiti sa kiselim mlekom ili kao prilog uz dinstano meso ili šnicle. Vodu u kojoj se spanać kuvao treba baciti, jer je zasićena nitratima koji se pod uticajem bakterija pretvaraju u nitrite. Iz tog razloga spanać treba da se priprema neposredno pre konzumiranja.
