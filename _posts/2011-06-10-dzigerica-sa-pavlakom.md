@@ -6,8 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1059
 permalink: /džigerica-sa-pavlakom/
-totvreme:
-  - ""
+published: true
+description: >-
+  Džigerica sa pavlakom je sočno jelo od juneće crne džigerice pržene u brašnu, sa dinstanim crnim lukom i kiselom pavlakom. Odlična je za porodični ručak ili večeru uz pire, pirinač ili makarone.
+prep_time: PT20M
+cook_time: PT40M
+total_time: PT1H
+servings: 4 porcije
+nutrition: oko 350 kalorija po porciji
+ingredients:
+  - 600 grama juneće crne džigerice
+  - 4 glavice crnog luka
+  - čaša kisele pavlake
+  - brašno
+  - so
+  - ulje
+instructions:
+  - crni luk očistiti, iseckati, staviti na zagrejano ulje i dinstati na tihoj vatri desetak minuta. Posoliti ga, i skloniti sa štednjaka.
+  - Džigericu iseći na tanje šnicle, uvaljati ih u brašno i pržiti na ulju, da porumene s obe strane.
+  - Džigericu staviti u sud sa izdinstanim lukom, vratiti na štednjak i naliti vodom da ogrezne. Dinstati na tihoj vatri još petanestak minuta. Posoliti, preliti kiselom pavlakom i kad provri, skloniti sa štednjaka.
+image: /wp-content/uploads/2011/06/dzigerica.sa.pavlakom.hero.jpg
+og_image: /wp-content/uploads/2011/06/dzigerica.sa.pavlakom.og.jpg
+card_image: /wp-content/uploads/2011/06/dzigerica.sa.pavlakom.kartica.jpg
 categories:
   - jela od mesa
 tags:
@@ -15,21 +35,12 @@ tags:
   - džigerica
   - kisela pavlaka
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 600 grama juneće crne džigerice
-  * 4 glavice crnog luka
-  * čaša kisele pavlake
-  * brašno
-  * so
-  * ulje
+<span id="step-1"></span>**Korak 1.** crni luk očistiti, iseckati, staviti na zagrejano ulje i dinstati na tihoj vatri desetak minuta. Posoliti ga, i skloniti sa štednjaka.
 
-**Priprema**: crni luk očistiti, iseckati, staviti na zagrejano ulje i dinstati na tihoj vatri desetak minuta. Posoliti ga, i skloniti sa štednjaka.
+<span id="step-2"></span>**Korak 2.** Džigericu iseći na tanje šnicle, uvaljati ih u brašno i pržiti na ulju, da porumene s obe strane.
 
-Džigericu iseći na tanje šnicle, uvaljati ih u brašno i pržiti na ulju, da porumene s obe strane. Džigericu staviti u sud sa izdinstanim lukom, vratiti na štednjak i naliti vodom da ogrezne. Dinstati na tihoj vatri još petanestak minuta. Posoliti, preliti kiselom pavlakom i kad provri, skloniti sa štednjaka.
+<span id="step-3"></span>**Korak 3.** Džigericu staviti u sud sa izdinstanim lukom, vratiti na štednjak i naliti vodom da ogrezne. Dinstati na tihoj vatri još petanestak minuta. Posoliti, preliti kiselom pavlakom i kad provri, skloniti sa štednjaka.
 
-Džigericu služiti sa kuvanim pirinčem, pire krompirom ili makaronama i salatom od paradajza ili nekog drugog sezonskog povrća.
-
-**Napomena**:   sa džigerice pre pripreme treba oštrim nožem ukloniti opnu i čvrste krvne sudove, ukoliko ih ima.
-
-Za iznutrice važi pravilo &#8211; kada ih kupujemo treba da budu sveže i treba ih odmah pripremiti. Džigerica treba da bude glatka, sjajna i dovoljno svetle boje.
+Džigericu služiti sa kuvanim pirinčem, pire krompirom ili makaronama i salatom od paradajza ili nekog drugog sezonskog povrća. Sa džigerice pre pripreme treba oštrim nožem ukloniti opnu i čvrste krvne sudove, ukoliko ih ima. Za iznutrice važi pravilo – kada ih kupujemo treba da budu sveže i treba ih odmah pripremiti. Džigerica treba da bude glatka, sjajna i dovoljno svetle boje.
