@@ -6,9 +6,36 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=6339
 permalink: /pita-sa-kupusom-sirom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/12/Pitasakupusomisirom-940x198.jpg
+published: true
+description: >-
+  Pita sa kupusom i sirom je sočna slana pita od kora, prženog kupusa, belog sira i oraha. Odlična je za doručak, ručak ili porodičnu večeru uz jogurt.
+prep_time: PT30M
+cook_time: PT1H
+total_time: PT1H30M
+servings: 6 porcija
+nutrition: oko 360 kalorija po porciji
+ingredients:
+  - 500 grama kora za pitu
+  - manja glavica kupusa (oko 1 kilogram)
+  - 1 glavica crnog luka
+  - 250 grama belog sira
+  - 50 grama seckanih oraha
+  - kašičica šećera
+  - 2 lista lovora
+  - so
+  - biber
+  - ulje
+instructions:
+  - kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
+  - Luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati kupus, šećer, lovor i na umerenoj temperaturi pržiti dok kupus ne dobije zlatno žutu boju. Posoliti i pobiberiti po ukusu. U toku prženja dolivati po malo tople vode.
+  - Kada se kupus ohladi dodati izmrvljen sir i seckane orahe.
+  - Uzeti dve kore, staviti jednu preko druge i svaku poprskati mešavinom ulja i vode. Preko druge kore premazati deo fila od kupusa i sira, pa staviti treću i četvrtu koru, koje takođe poprskati vodom i uljem. Preko četvrte kore premazati fil i uviti kao rolat. Na isti način postupiti sa ostatkom kora i fila.
+  - Rolne pite poređati u podmazan pleh i svaku odozgo premazati uljem.
+  - Pitu peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni, da porumeni.
+  - Pečenu pitu izvaditi iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčad.
+image: /wp-content/uploads/2013/12/pita.sa.kupusom.sirom.hero.jpg
+og_image: /wp-content/uploads/2013/12/pita.sa.kupusom.sirom.og.jpg
+card_image: /wp-content/uploads/2013/12/pita.sa.kupusom.sirom.kartica.jpg
 categories:
   - slane pite
 tags:
@@ -19,31 +46,20 @@ tags:
   - orasi
   - sir
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama kora za pitu
-  * manja glavica kupusa (oko 1 kilogram)
-  * 1 glavica crnog luka
-  * 250 grama belog sira
-  * 50 grama seckanih oraha
-  * kašičica šećera
-  * 2 lista lovora
-  * so
-  * biber
-  * ulje
+<span id="step-1"></span>**Korak 1.** kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
 
-![<img class="alignnone size-medium wp-image-6340" src="/wp-content/uploads/2013/12/Pitasakupusomisirom-1024x768.jpg" alt="Pitasakupusomisirom" width="300" height="225" />](/wp-content/uploads/2013/12/Pitasakupusomisirom.jpg)
+<span id="step-2"></span>**Korak 2.** Luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati kupus, šećer, lovor i na umerenoj temperaturi pržiti dok kupus ne dobije zlatno žutu boju. Posoliti i pobiberiti po ukusu. U toku prženja dolivati po malo tople vode.
 
-**Priprema**: kupus očistiti, oprati i sitno iseći, kao za slatu ili narendati na trenici.
+<span id="step-3"></span>**Korak 3.** Kada se kupus ohladi dodati izmrvljen sir i seckane orahe.
 
-Luk očistiti, sitno iseći i propržiti na ulju. U propržen luk dodati kupus, šećer, lovor i na umerenoj temperaturi pržiti dok kupus ne dobije zlatno žutu boju. Posoliti i pobiberiti po ukusu. U toku prženja dolivati po malo tople vode.
+<span id="step-4"></span>**Korak 4.** Uzeti dve kore, staviti jednu preko druge i svaku poprskati mešavinom ulja i vode. Preko druge kore premazati deo fila od kupusa i sira, pa staviti treću i četvrtu koru, koje takođe poprskati vodom i uljem. Preko četvrte kore premazati fil i uviti kao rolat. Na isti način postupiti sa ostatkom kora i fila.
 
-Kada se kupus ohladi dodati izmrvljen sir i seckane orahe.
+<span id="step-5"></span>**Korak 5.** Rolne pite poređati u podmazan pleh i svaku odozgo premazati uljem.
 
-Uzeti dve kore, staviti jednu preko druge i svaku poprskati mešavinom ulja i vode. Preko druge kore premazati deo fila od kupusa i sira, pa staviti treću i četvrtu koru, koje takođe poprskati vodom i uljem. Preko četvrte kore premazati fil i uviti kao rolat. Na isti način postupiti sa ostatkom kora i fila.
+<span id="step-6"></span>**Korak 6.** Pitu peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni, da porumeni.
 
-Rolne pite poređati u podmazan pleh i svaku odozgo premazati uljem.
+<span id="step-7"></span>**Korak 7.** Pečenu pitu izvaditi iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčad.
 
-Pitu peći oko 40 minuta u pećnici zagrejanoj na 200 stepeni, da porumeni.
-
-Pečenu pitu izvaditi iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčad.
+Poslužiti blago toplu ili ohlađenu, uz jogurt ili kiselo mleko. Kupus, sir i orasi čine sočan fil, a rolat od kora daje klasičnu domaću slanu pitu za porodični sto.
