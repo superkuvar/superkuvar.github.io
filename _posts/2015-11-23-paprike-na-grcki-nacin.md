@@ -6,27 +6,39 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=10522
 permalink: /paprike-na-grcki-nacin/
-totvreme:
-  - ""
-image: /wp-content/uploads/2015/11/paprikenagrckinacin-940x198.jpg
+published: true
+description: >-
+  Paprike na grčki način su dinstano jelo od mesnatih paprika i crnog luka.
+  Odlične su tople uz pire krompir i meso, a mogu se jesti i hladne.
+prep_time: PT20M
+cook_time: PT35M
+total_time: PT55M
+servings: 4 porcije
+nutrition: oko 160 kalorija po porciji
+ingredients:
+  - veće mesnate paprike (8-10 komada)
+  - crni luk (6 glavica)
+  - ulje
+  - so
+instructions:
+  - očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
+  - U šerpu sipati ulje, pa kad se zagreje dodati isečen crni luk i paprike. Posoliti i dinstati na umerenoj vatri dok paprike i luk ne omekšaju. Jelo treba češće mešati da ne bi zagorelo.
+  - Paprike sipati u činiju i poslužiti uz pire krompir i meso. Paprike na grčki način mogu se jesti i hladne, a mogu da stoje dva-tri dana.
+image: /wp-content/uploads/2015/11/paprike.na.grcki.nacin.hero.jpg
+og_image: /wp-content/uploads/2015/11/paprike.na.grcki.nacin.og.jpg
+card_image: /wp-content/uploads/2015/11/paprike.na.grcki.nacin.kartica.jpg
 categories:
   - jela bez mesa
 tags:
   - crni luk
   - paprike
 ---
-**Potrebno je**:  
-* veće mesnate paprike (8-10 komada)  
-* crni luk (6 glavica)  
-* ulje  
-* so
+**Način pripreme:**
 
-![<img class="alignnone size-medium wp-image-10525" src="/wp-content/uploads/2015/11/paprikenagrckinacin-1024x768.jpg" alt="paprikenagrckinacin" width="300" height="225" />](/wp-content/uploads/2015/11/paprikenagrckinacin-e1448262791370.jpg)
+<span id="step-1"></span>**Korak 1.** očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
 
-**Priprema**: očistiti crni luk i iseći ga sitno na listiće. Paprike oprati, očistiti od peteljki i semena i iseći na kolutove, ne mnogo tanke.
+<span id="step-2"></span>**Korak 2.** U šerpu sipati ulje, pa kad se zagreje dodati isečen crni luk i paprike. Posoliti i dinstati na umerenoj vatri dok paprike i luk ne omekšaju. Jelo treba češće mešati da ne bi zagorelo.
 
-U šerpu sipati ulje, pa kad se zagreje dodati isečen crni luk i paprike. Posoliti i dinstati na umerenoj vatri dok paprike i luk ne omekšaju. Jelo treba češće mešati da ne bi zagorelo.
+<span id="step-3"></span>**Korak 3.** Paprike sipati u činiju i poslužiti uz pire krompir i meso. Paprike na grčki način mogu se jesti i hladne, a mogu da stoje dva-tri dana.
 
-Paprike sipati u činiju i poslužiti uz pire krompir i meso. Paprike na grčki način mogu se jesti i hladne, a mogu da stoje dva-tri dana.
-
-**Napomena**:   jelo lepše izgleda kada se pomešaju zelene i crvene paprike. U paprike se može dodati i seckani peršunov list.
+Jelo lepše izgleda kada se pomešaju zelene i crvene paprike. U paprike se može dodati i seckani peršunov list. Jednostavan prilog bez mesa, pogodan za porodični ručak ili večeru.
