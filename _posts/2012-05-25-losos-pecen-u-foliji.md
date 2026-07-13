@@ -41,16 +41,14 @@ tags:
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** napraviti marinadu od ulja, najbolje maslinovog, bibera, suvog biljnog začina, peršuna, bosiljka, ruzmarina i soka od limuna.
-
-![Korak 1 — losos pečen u foliji](/wp-content/uploads/2012/05/losos.pecen.u.foliji.korak1.jpg)
+
 
 <span id="step-2"></span>**Korak 2.** Krmenadle ili filete lososa preliti marinadom i ostaviti da u frižideru odstoje sat-dva pre dalje pripreme.
 
 <span id="step-3"></span>**Korak 3.** U pleh staviti aluminijumsku foliju, pa preko sjajne strane složiti komade lososa i preliti ih ostatkom marinade. Foliju dobro zatvoriti, da ne iscuri sok prilikom pečenja.
 
 <span id="step-4"></span>**Korak 4.** Foliju sa lososom staviti u rernu zagrejanu na 200 stepeni i peći oko 20 minuta.
-
-![Korak 4 — losos pečen u foliji](/wp-content/uploads/2012/05/losos.pecen.u.foliji.korak2.jpg)
+
 
 <span id="step-5"></span>**Korak 5.** Pečene komade lososa ostaviti da malo odstoje u foliji, pa onda servirati sa barenim pirinčem ili blitvom sa krompirom.
 
