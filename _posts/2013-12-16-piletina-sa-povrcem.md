@@ -6,9 +6,31 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=6328
 permalink: /piletina-sa-povrćem/
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/12/Piletinasapovrcem-940x198.jpg
+published: true
+description: >-
+  Pileće meso sa povrćem je toplo, zasitno jelo od belog pilećeg mesa, paprika, paradajza i crnog luka. Odlično je za porodični ručak ili večeru, uz prženi ili kuvani krompir.
+prep_time: PT20M
+cook_time: PT45M
+total_time: PT1H5M
+servings: 4 porcije
+nutrition: oko 350 kalorija po porciji
+ingredients:
+  - 600 grama belog pilećeg mesa
+  - 2 glavice crnog luka
+  - 5 paprika (2 zelene i 3 crvene)
+  - 4 paradajza
+  - crvena mlevena paprika
+  - biber
+  - 500 grama krompira
+  - so
+  - ulje
+instructions:
+  - crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
+  - Na ulju propržiti pileće meso, dodati iseckan luk i zajedno pržiti dok ne porumeni. Ubaciti isitnjeno povrće, poklopiti i dinstati dok meso ne omekša. Povremeno, ukoliko je potrebno, doliti po malo tople vode.
+  - Na polovini dinstanja meso i povrće posoliti, pobiberiti i dodati pola kašičice crvene sitne paprike. Nastaviti sa dinstanjem dok meso ne omekša.
+image: /wp-content/uploads/2013/12/piletina.sa.povrcem.hero.jpg
+og_image: /wp-content/uploads/2013/12/piletina.sa.povrcem.og.jpg
+card_image: /wp-content/uploads/2013/12/piletina.sa.povrcem.kartica.jpg
 categories:
   - jela od mesa
 tags:
@@ -19,24 +41,12 @@ tags:
   - paradajz
   - pileće meso
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 600 grama belog pilećeg mesa
-  * 2 glavice crnog luka
-  * 5 paprika (2 zelene i 3 crvene)
-  * 4 paradajza
-  * crvena mlevena paprika
-  * biber
-  * 500 grama krompira
-  * so
-  * ulje
+<span id="step-1"></span>**Korak 1.** crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
 
-![<img class="alignnone size-medium wp-image-6329" src="/wp-content/uploads/2013/12/" alt="Piletinasapovrcem" width="300" height="225" />](/wp-content/uploads/2013/12/Piletinasapovrcem-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Na ulju propržiti pileće meso, dodati iseckan luk i zajedno pržiti dok ne porumeni. Ubaciti isitnjeno povrće, poklopiti i dinstati dok meso ne omekša. Povremeno, ukoliko je potrebno, doliti po malo tople vode.
 
-**Priprema**: crni luk očistiti i sitno iseckati. Paprike oprati, očistiti od semena i iseći na kolutove. Opran paradajz oljuštiti, ukloniti seme i sitno iseckati.
+<span id="step-3"></span>**Korak 3.** Na polovini dinstanja meso i povrće posoliti, pobiberiti i dodati pola kašičice crvene sitne paprike. Nastaviti sa dinstanjem dok meso ne omekša.
 
-Na ulju propržiti pileće meso, dodati iseckan luk i zajedno pržiti dok ne porumeni. Ubaciti isitnjeno povrće, poklopiti i dinstati dok meso ne omekša. Povremeno, ukoliko je potrebno, doliti po malo tople vode.
-
-Na polovini dinstanja meso i povrće posoliti, pobiberiti i dodati pola kašičice crvene sitne paprike. Nastaviti sa dinstanjem dok meso ne omekša.
-
-Pileće meso i povrće servirati sa prženim ili kuvanim krompirom.
+Pileće meso i povrće servirati sa prženim ili kuvanim krompirom. Dinstano belo meso sa paprikama i paradajzom lako se prilagođava broju porcija i lepo ide uz jednostavan prilog od krompira.
