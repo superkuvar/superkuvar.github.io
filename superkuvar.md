@@ -2,7 +2,7 @@
 
 ## Kompletno uputstvo — transformacija jednog recepta
 
-**Verzija:** 2.1 · **Datum:** jul 2026 · **Sajt:** <https://superkuvar.com>
+**Verzija:** 2.2 · **Datum:** jul 2026 · **Sajt:** <https://superkuvar.com>
 
 **Repo (logički):** `superkuvar/superkuvar.github.io`, grana `master`
 **Repo (lokalno, na vlasnikovoj mašini):** `/home/dj/repos/superkuvar.github.io`
@@ -14,6 +14,9 @@ koren klona ovog repoa — sve putanje u dokumentu su relativne u odnosu na njeg
 Za članke (layout `article`) važi `superkuvar.art.md`.
 
 **Changelog:**
+- v2.2 (jul 2026): zabrana escajga važi **samo** za AI-generisane hero set
+  slike; hero set iz starog originala (≥ 400 px) se samo resize/crop-uje —
+  escajg na originalu se **ne uklanja** i nije razlog za regenerisanje.
 - v2.1 (jul 2026): hero set (AI) — zabrana ostataka hrane / mrvica / prosute
   hrane na stolu i oko posude; proširen hero prompt.
 - v2.0 (jul 2026): korak slike izmeštene u Appendix A (neaktivno); razrešena
@@ -286,7 +289,7 @@ Prvo proveri šta postoji u `wp-content/uploads/GODINA/MESEC/` za taj recept.
 ```
 Postoji fotografija ≥ 400 px (duža strana)?
   → DA: najbolja fotografija gotovog jela = izvor za hero set
-        (resize/crop po tabeli u Koraku 4)
+        (samo resize/crop po tabeli u Koraku 4; sadržaj se ne menja)
   → NE, postoji samo slika < 400 px:
         AI generiše hero set (sekcija 4 — promptovi);
         original sačuvaj kao slug.master.jpg (arhiva);
@@ -301,6 +304,10 @@ Nisi siguran? → ne commituj slike; pitaj.
 - **Ne upscale-uj** sitne JPG-ove (< 400 px duža strana).
 - **Ne uzimaj** slike drugog recepta.
 - Stare `<img>` iz tela su obrisane u Koraku 2; slike se vraćaju kao hero set.
+- **Hero set iz originala (≥ 400 px):** samo resize/crop. Ako original ima
+  escajg (viljušku, nož, kašiku…), **ostavi ga** — ne retuširaj, ne
+  izbacuj escajg, ne regeneriši AI-jem samo zbog escajga. Zabrana escajga
+  važi isključivo za **AI-generisane** slike (sekcija 4).
 
 ### Korak 4 — Hero set
 
@@ -350,9 +357,11 @@ git commit -m "Recept: NAZIV — potpuno renoviran"
 > tople boje. Drvena podloga ili svetli stolnjak. Bez teksta, logoa, vodenog
 > žiga. Za slatko: umerena slatkoća, domaća kuhinja.
 
-**Zabrane na svim slikama:**
+**Zabrane — važe samo za AI-generisane slike** (ne za hero set napravljen
+resize/crop-om iz starog originala ≥ 400 px):
 
 - **Bez escajga** — viljuške, noževi, kašike, štapići, posude za escajg
+  (**samo AI**; stari original sa escajgom se ne dira — vidi Korak 3)
 - **Bez plastičnih poslužavnica** — plastični tanjiri, tacne, posude, kutije
 - **Bez metalnih poslužavnica** — metalne tacne, plitici, poslužni plehovi
   (osim pleha za pečenje kada prikazuje pečenje)
@@ -427,7 +436,9 @@ u prompt ide **aspect ratio** (16:9, 1.91:1), a tačne dimenzije (1200×675,
 - [ ] `slug.hero.jpg` (1200×675) + og (1200×630) + kartica (800×600) +
       hero.800 (800×450)
 - [ ] YAML: image, og_image, card_image pokazuju na te fajlove
-- [ ] Nema escajga, plastičnih ni metalnih poslužavnica
+- [ ] Hero (**AI**): nema escajga, plastičnih ni metalnih poslužavnica
+- [ ] Hero (**iz originala**): escajg na staroj fotografiji je **dozvoljen** —
+      ne uklanjati ga
 - [ ] Hero (AI): **nema ostataka hrane / mrvica / prosute hrane** na stolu oko posude
 - [ ] Imena fajlova: tačke, mala slova, bez kvačica
 
