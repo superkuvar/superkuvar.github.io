@@ -42,15 +42,12 @@ tags:
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** kupus oprati u hladnoj vodi, da bi se malo isprala so ili ukoliko je kiseliji nego što želite. Zatim ga ocediti i sitno iseckati.
-
-![Korak 1 — podvarak sa ribom](/wp-content/uploads/2013/01/podvarak.sa.ribom.korak1.jpg)
+
 
 <span id="step-2"></span>**Korak 2.** Crni luk očistiti, iseckati i propržiti na ulju. Sjediniti kupus i luk, ukoliko je potrebno posoliti, dodati kašičicu šećera, lovorov list i crvenu mlevenu papriku. Kupus dinstati dok ne omekne, uz dolivanje po malo tople vode.
-
-![Korak 2 — podvarak sa ribom](/wp-content/uploads/2013/01/podvarak.sa.ribom.korak2.jpg)
+
 
 <span id="step-3"></span>**Korak 3.** Kada kupus omekša i voda uvri, dodati sitnije komade fileta ribe, izmešati, sipati u podmazanu posudu za pečenje, doliti malo vode, odozgo preliti uljem, poklopiti i staviti u zagrejanu pećnicu.
 
 <span id="step-4"></span>**Korak 4.** Podvarak peći na 220 stepeni. Posle 40 minuta skloniti poklopac sa posude, smanjiti temperaturu na 200 stepeni i ostaviti da se podvarak zapeče, ali paziti da ne pregori.
-
-![Korak 4 — podvarak sa ribom](/wp-content/uploads/2013/01/podvarak.sa.ribom.korak3.jpg)
+
