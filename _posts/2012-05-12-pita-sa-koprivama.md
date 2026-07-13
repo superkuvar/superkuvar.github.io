@@ -6,9 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3200
 permalink: /pita-sa-koprivama/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/05/Pita-sa-koprivama-940x198.jpg
+published: true
+description: >-
+  Pita sa koprivom je sočna slana pita od tankih kora, sira, jaja, kisele
+  pavlake i mlade koprive. Odlična je za prolećni doručak, ručak ili večeru
+  uz jogurt ili kiselo mleko.
+prep_time: PT35M
+cook_time: PT40M
+total_time: PT1H15M
+servings: 6 porcija
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 500 grama tankih kora za pitu
+  - 300 grama sira
+  - 400 grama mlade koprive
+  - 2 jajeta
+  - čaša kisele pavlake
+  - malo mleka
+  - so
+  - ulje
+  - 50 grama margarina
+instructions:
+  - koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
+  - Po tri-četiri kore ređati jednu preko druge, svaku poprskati mešavinom ulja i vode, pa preko četvrte premazati pripremljeni fil. Nafilovane kore uviti u rolnu i ređati u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila.
+  - Pre pečenja pitu premazati rastopljenim margarinom. Pitu staviti u pećnicu zagrejanu na 200 stepeni i peći 40 minuta, dok ne porumeni.
+  - Kada je pita pečena, izvaditi je iz pećnice, pokriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčiće. Poslužiti sa jogurtom ili kiselim mlekom.
+image: /wp-content/uploads/2012/05/pita.sa.koprivama.hero.jpg
+og_image: /wp-content/uploads/2012/05/pita.sa.koprivama.og.jpg
+card_image: /wp-content/uploads/2012/05/pita.sa.koprivama.kartica.jpg
 categories:
   - slane pite
 tags:
@@ -18,27 +43,15 @@ tags:
   - sir
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama tankih kora za pitu
-  * 300 grama sira
-  * 400 grama mlade koprive
-  * 2 jajeta
-  * čaša kisele pavlake
-  * malo mleka
-  * so
-  * ulje
-  * 50 grama margarina
+<span id="step-1"></span>**Korak 1.** koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
 
-<img class="alignnone size-medium wp-image-3201" title="Pita sa koprivama" src="/wp-content/uploads/2012/05/Pita-sa-koprivama-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Po tri-četiri kore ređati jednu preko druge, svaku poprskati mešavinom ulja i vode, pa preko četvrte premazati pripremljeni fil. Nafilovane kore uviti u rolnu i ređati u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila.
 
-**Priprema**: koprivu oprati, preliti vrelom vodom, ocediti a zatim iseckati. Sir izmrviti viljuškom, pomešati sa umućenim jajima, kiselom pavlakom i mlekom, pa dodati koprivu i malo ulja. Ukoliko sir nije dovoljno slan, posoliti. Masu dobro izmešati.
+<span id="step-3"></span>**Korak 3.** Pre pečenja pitu premazati rastopljenim margarinom. Pitu staviti u pećnicu zagrejanu na 200 stepeni i peći 40 minuta, dok ne porumeni.
 
-Po tri-četiri kore ređati jednu preko druge, svaku poprskati mešavinom ulja i vode, pa preko četvrte premazati pripremljeni fil. Nafilovane kore uviti u rolnu i ređati u podmazan pleh. Na isti način postupiti sa ostatkom kora i fila.
-
-Pre pečenja pitu premazati rastopljenim margarinom. Pitu staviti u pećnicu zagrejanu na 200 stepeni i peći 40 minuta, dok ne porumeni.
-
-Kada je pita pečena, izvaditi je iz pećnice, pokriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčiće. Poslužiti sa jogurtom ili kiselim mlekom.
+<span id="step-4"></span>**Korak 4.** Kada je pita pečena, izvaditi je iz pećnice, pokriti platnenom salvetom i ostaviti da se malo ohladi, a zatim seći na parčiće. Poslužiti sa jogurtom ili kiselim mlekom.
 
 Kopriva je korovska biljka koja raste pored puteva i na zapuštenom zemljištu. Sadrži dosta belančevina, ugljenih hidrata, masti, minerale (kalcijum, fosfor, gvožđe, magnezijum), vitamine (C, A, B2, B5, K, karoten). Kopriva sadrži veću količinu C vitamina od mnogih kultivisanih biljaka.
 
@@ -46,4 +59,4 @@ Listovi mlade koprive imaju ukus sličan spanaću. Od nje se mogu praviti supe, 
 
 Osim u ishrani, kopriva se koristi i kao lek u narodnoj medicini. Smatra se jednom od najlekovitijih biljaka. Pročišćava krv, dobar je diuretik, zbog visokog sadržaja gvožđa korisna je kod anemije. Zbog prisustva vitamina K smanjuje sklonost ka krvarenju. Kopriva se koristi i kod nekih kožnih oboljenja.
 
-&nbsp;
+Klasična je prolećna domaća pita za porodični sto, lagana za pripremu i puna sira i mlade koprive.
