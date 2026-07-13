@@ -6,13 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5196
 permalink: /bečka-šnicla/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/01/Bečka-šnicla-940x198.jpg
+published: true
+description: >-
+  Bečke šnicle su pohovano meso od telećeg ili svinjskog buta u brašnu, jajima i prezlama. Odlične su za porodični ručak ili večeru uz prilog od povrća i svežu salatu.
+prep_time: PT25M
+cook_time: PT20M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 480 kalorija po porciji
+ingredients:
+  - 500 grama telećeg ili svinjskog mesa od buta
+  - 2 jajeta
+  - brašno
+  - prezle
+  - so
+  - biber
+  - ulje
+instructions:
+  - meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
+  - nicle izlupati tučkom za meso, da budu što tanje. Zatim šnicle posoliti, pobiberiti i panirati (uvaljati u brašno, umakati u dobro razmućena jaja pa provući kroz prezle). Ostaviti ih da malo odstoje.
+  - U dubljem tiganju zagrejati ulje, pa u njega spuštati šniclu po šniclu. Pržiti da porumene s jedne, a zatim šnicle okrenuti i pržiti da porumene i sa druge strane.
+  - Ispržene šnicle rešetkastom kašikom izvaditi na tanjir, po želji dekorisati kriškama limuna i služiti uz dodatke od povrća i salatu.
+image: /wp-content/uploads/2013/01/becka.snicla.hero.jpg
+og_image: /wp-content/uploads/2013/01/becka.snicla.og.jpg
+card_image: /wp-content/uploads/2013/01/becka.snicla.kartica.jpg
 categories:
   - jela od mesa
 tags:
@@ -21,30 +38,20 @@ tags:
   - prezle
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama telećeg ili svinjskog mesa od buta
-  * 2 jajeta
-  * brašno
-  * prezle
-  * so
-  * biber
-  * ulje
+<span id="step-1"></span>**Korak 1.** meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
 
-<img class="alignnone size-medium wp-image-5194" src="/wp-content/uploads/2013/01/Bečka-šnicla-1024x768.jpg" alt="Bečka šnicla" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** nicle izlupati tučkom za meso, da budu što tanje. Zatim šnicle posoliti, pobiberiti i panirati (uvaljati u brašno, umakati u dobro razmućena jaja pa provući kroz prezle). Ostaviti ih da malo odstoje.
 
-**Priprema**: meso iseći na podjednake šnicle, debljine jedan santimetar, vodeći računa o tome da se mišićna vlakna ne seku uzduž, već popreko.
+<span id="step-3"></span>**Korak 3.** U dubljem tiganju zagrejati ulje, pa u njega spuštati šniclu po šniclu. Pržiti da porumene s jedne, a zatim šnicle okrenuti i pržiti da porumene i sa druge strane.
 
- nicle izlupati tučkom za meso, da budu što tanje. Zatim šnicle posoliti, pobiberiti i panirati (uvaljati u brašno, umakati u dobro razmućena jaja pa provući kroz prezle). Ostaviti ih da malo odstoje.
+<span id="step-4"></span>**Korak 4.** Ispržene šnicle rešetkastom kašikom izvaditi na tanjir, po želji dekorisati kriškama limuna i služiti uz dodatke od povrća i salatu.
 
-U dubljem tiganju zagrejati ulje, pa u njega spuštati šniclu po šniclu. Pržiti da porumene s jedne, a zatim šnicle okrenuti i pržiti da porumene i sa druge strane.
-
-Ispržene šnicle rešetkastom kašikom izvaditi na tanjir, po želji dekorisati kriškama limuna i služiti uz dodatke od povrća i salatu.
-
-**Napomena**:   u posudi u kojoj se šnicle prže ne treba da bude previše masnoće, odnosno gornja strana šnicle ne treba da bude uronjena u masnoću.
+u posudi u kojoj se šnicle prže ne treba da bude previše masnoće, odnosno gornja strana šnicle ne treba da bude uronjena u masnoću.
 
 Zanimljivost: u stručnoj literaturi se može naići na podatak da je Milano postojbina pohovane teleće šnicle. Neki istoričari tvrde da se još u Vizantiji pripremalo pohovano prženo meso.
 
 Po drugoj teoriji Jevreji su, navodno, preneli ovaj specijalitet u  paniju, a odatle u Italiju, pa zatim u Beč.
 
-&nbsp;
+Bečke šnicle se najbolje služe odmah tople, uz limun, povrće i svežu salatu.
