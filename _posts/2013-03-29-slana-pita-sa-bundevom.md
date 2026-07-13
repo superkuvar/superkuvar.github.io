@@ -6,13 +6,31 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5537
 permalink: /slana-pita-sa-bundevom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+published: true
+description: >-
+  Slana pita sa bundevom je sočna pita od tankih kora sa nadevom od dinstane bundeve, jaja i kisele pavlake. Odlična je za porodični ručak, večeru ili kao toplo predjelo uz jogurt.
+prep_time: PT40M
+cook_time: PT40M
+total_time: PT1H20M
+servings: 6 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 500 grama tankih kora za pitu
+  - bundeva (900 grama)
+  - 2 dl kisele pavlake
+  - 3 jajeta
+  - so
+  - biber
+  - muskatni oraščić
+  - ulje
+instructions:
+  - bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
+  - Uzeti četiri kore, svaku poprskati mešavinom ulja i vode i slagati jednu preko druge. Preko četvrte kore premazati nadev, pa uviti u rolnu kao štrudlu. Tako postupiti sa ostatkom kora i nadeva.
+  - Rolne pite nasložiti u podmazan pleh, poprskati mešavinom vode i ulja i staviti u pećnicu zagrejanu na 220 stepeni. Peći oko 40 minuta.
+  - Kada pita porumeni izvaditi je iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim iseći na parčiće.
 image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.hero.jpg
+og_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.og.jpg
+card_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.kartica.jpg
 categories:
   - slane pite
 tags:
@@ -21,28 +39,15 @@ tags:
   - kore za pitu
   - muskatni oraščić
   - jaja
-og_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.og.jpg
-card_image: /wp-content/uploads/2013/03/slana.pita.sa.bundevom.kartica.jpg
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama tankih kora za pitu
-  * bundeva (900 grama)
-  * 2 dl kisele pavlake
-  * 3 jajeta
-  * so
-  * biber
-  * muskatni oraščić
-  * ulje
+<span id="step-1"></span>**Korak 1.** bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
 
-<img class="alignnone size-medium wp-image-5538" src="/wp-content/uploads/2013/03/Slana-pita-sa-bundevom-1024x768.jpg" alt="Slana pita sa bundevom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Uzeti četiri kore, svaku poprskati mešavinom ulja i vode i slagati jednu preko druge. Preko četvrte kore premazati nadev, pa uviti u rolnu kao štrudlu. Tako postupiti sa ostatkom kora i nadeva.
 
-**Priprema**: bundevu oprati, oljuštiti i izrendati. Zatim je izdinstati na ulju, posoliti, pobiberiti i dodati muskatni oraščić po ukusu. Kada se bundeva ohladi, pomešati je sa umućenim žumancima, kiselom pavlakom i snegom od belanaca.
+<span id="step-3"></span>**Korak 3.** Rolne pite nasložiti u podmazan pleh, poprskati mešavinom vode i ulja i staviti u pećnicu zagrejanu na 220 stepeni. Peći oko 40 minuta.
 
-Uzeti četiri kore, svaku poprskati mešavinom ulja i vode i slagati jednu preko druge. Preko četvrte kore premazati nadev, pa uviti u rolnu kao štrudlu. Tako postupiti sa ostatkom kora i nadeva.
+<span id="step-4"></span>**Korak 4.** Kada pita porumeni izvaditi je iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim iseći na parčiće.
 
-Rolne pite nasložiti u podmazan pleh, poprskati mešavinom vode i ulja i staviti u pećnicu zagrejanu na 220 stepeni. Peći oko 40 minuta.
-
-Kada pita porumeni izvaditi je iz pećnice, prekriti platnenom salvetom i ostaviti da se malo ohladi, a zatim iseći na parčiće.
-
-Slana pita od bundeve može se poslužiti sa jogurtom ili kiselim mlekom.
+Slana pita od bundeve može se poslužiti sa jogurtom ili kiselim mlekom. Uz jogurt ili kiselo mleko postaje još bogatiji porodični obrok za hladnije dane.
