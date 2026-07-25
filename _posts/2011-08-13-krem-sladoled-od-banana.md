@@ -6,8 +6,27 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1711
 permalink: /krem-sladoled-od-banana/
-totvreme:
-  - ""
+published: true
+description: >-
+  Krem sladoled od banana je kremasta domaća poslastica od zrelih banana,
+  slatke pavlake i limuna. Odličan je za tople letnje dane kao osvježenje
+  ili lagan desert u čašama.
+prep_time: PT20M
+cook_time: PT4H
+total_time: PT4H20M
+servings: 6 porcija
+nutrition: oko 590 kalorija po porciji
+ingredients:
+  - 4 zrelije banane
+  - limun
+  - 400 grama šećera
+  - 500 ml slatke pavlake
+instructions:
+  - od šećera i pola litra vode skuvati gust sirup, kao za slatko. Banane oljuštiti, viljuškom dobro izgnječiti, pa u njih sipati ohlađen sirup, sok od limuna i slatku pavlaku. Mutiti mikserom da se masa ujednači.
+  - Umućenu masu sipati u odgovarajuću posudu i staviti u zamrzivač, da se stegne.
+image: /wp-content/uploads/2011/08/krem.sladoled.od.banana.hero.jpg
+og_image: /wp-content/uploads/2011/08/krem.sladoled.od.banana.og.jpg
+card_image: /wp-content/uploads/2011/08/krem.sladoled.od.banana.kartica.jpg
 categories:
   - sladoledi
 tags:
@@ -15,19 +34,10 @@ tags:
   - limun
   - slatka pavlaka
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 4 zrelije banane
-  * limun
-  * 400 grama šećera
-  * 500 ml slatke pavlake
+<span id="step-1"></span>**Korak 1.** od šećera i pola litra vode skuvati gust sirup, kao za slatko. Banane oljuštiti, viljuškom dobro izgnječiti, pa u njih sipati ohlađen sirup, sok od limuna i slatku pavlaku. Mutiti mikserom da se masa ujednači.
 
-<img class="alignnone size-full wp-image-1713" title="bananasladoled" src="/wp-content/uploads/2011/08/bananasladoled-e1313246509174.jpg" alt="" width="229" height="187" /> 
+<span id="step-2"></span>**Korak 2.** Umućenu masu sipati u odgovarajuću posudu i staviti u zamrzivač, da se stegne.
 
-**Priprema**: od šećera i pola litra vode skuvati gust sirup, kao za slatko. Banane oljuštiti, viljuškom dobro izgnječiti, pa u njih sipati ohlađen sirup, sok od limuna i slatku pavlaku. Mutiti mikserom da se masa ujednači.
-
-Umućenu masu sipati u odgovarajuću posudu i staviti u zamrzivač, da se stegne. Gotov sladoled sipati u čaše i po želji ukrasiti rendanom čokoladom ili komadićima banane.
-
-Sladoled je jedna od omiljenih poslastica u toplim letnjim danima. Neki se pripremaju brzo i lako, a za neke je potrebno više vremena i kulinarskog umeća.
-
-&nbsp;
+Gotov sladoled sipati u čaše i po želji ukrasiti rendanom čokoladom ili komadićima banane. Sladoled je jedna od omiljenih poslastica u toplim letnjim danima. Neki se pripremaju brzo i lako, a za neke je potrebno više vremena i kulinarskog umeća. Ovaj krem sladoled od banana sprema se bez mašine za sladoled i lepo se drži u zamrzivaču do posluživanja.
