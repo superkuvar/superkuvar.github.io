@@ -6,38 +6,42 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5387
 permalink: /rezanci-sa-šećerom/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
+description: >-
+  Rezanci sa šećerom su brzi slatki obrok od testenine sa proprženim prezlama.
+  Odlični su kada zatreba nešto slatko u kratkom roku, za lagan desert ili užinu.
+prep_time: PT10M
+cook_time: PT20M
+total_time: PT30M
+servings: 4 porcije
+nutrition: oko 380 kalorija po porciji
+ingredients:
+  - 500 grama rezanaca
+  - ulje
+  - šećer
+  - prezle
+instructions:
+  - skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
+  - U međuvremenu, u šerpi zagrejati malo ulja, dodati 3-4 kašike prezli i pržiti nekoliko minuta, na umerenoj temperaturi.
+  - Propržene prezle skloniti sa vatre, dodati oceđene rezance, izmešati i posuti šećerom, po ukusu. Rezance poslužiti tople.
 image: /wp-content/uploads/2013/03/rezanci.sa.secerom.hero.jpg
+og_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.og.jpg
+card_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.kartica.jpg
 categories:
   - slatkiši
 tags:
   - prezle
   - rezanci
   - šećer
-og_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.og.jpg
-card_image: /wp-content/uploads/2013/03/rezanci.sa.secerom.kartica.jpg
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama rezanaca
-  * ulje
-  * šećer
-  * prezle
+<span id="step-1"></span>**Korak 1.** skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
 
-<img class="alignnone size-medium wp-image-5388" src="/wp-content/uploads/2013/03/Rezanci-sa-šećerom-1024x768.jpg" alt="Rezanci sa šećerom" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U međuvremenu, u šerpi zagrejati malo ulja, dodati 3-4 kašike prezli i pržiti nekoliko minuta, na umerenoj temperaturi.
 
-**Priprema**: skuvati rezance prema uputstvu na ambalaži, a zatim ocediti.
+<span id="step-3"></span>**Korak 3.** Propržene prezle skloniti sa vatre, dodati oceđene rezance, izmešati i posuti šećerom, po ukusu. Rezance poslužiti tople.
 
-U međuvremenu, u šerpi zagrejati malo ulja, dodati 3-4 kašike prezli i pržiti nekoliko minuta, na umerenoj temperaturi.
-
-Propržene prezle skloniti sa vatre, dodati oceđene rezance, izmešati i posuti šećerom, po ukusu. Rezance poslužiti tople.
-
-**Napomena**:   ponekad, kada mi se jede nešto slatko, a nemam dovoljno vremena ili inspiracije da pripremim neki slatkiš, napravim rezance na ovaj način.  Može se koristiti i bilo koja druga testenina (makarone, školjke, mašnice i sl.). Prezle ponekad zamenim mlevenim orasima ili makom.
+ponekad, kada mi se jede nešto slatko, a nemam dovoljno vremena ili inspiracije da pripremim neki slatkiš, napravim rezance na ovaj način.  Može se koristiti i bilo koja druga testenina (makarone, školjke, mašnice i sl.). Prezle ponekad zamenim mlevenim orasima ili makom.
 
 Ukoliko imate dovoljno vremena, možete sami da napravite rezance na sledeći način: zamesiti testo od 500 grama brašna, jajeta, malo soli i mlake vode, tako da bude tvrđe nego za pitu. Testo dobro izmesiti, pa ga oblikovati u loptu. Razvući oklagijom koru debljine oko 2 milimetra i ostaviti da se malo prosuši. Prosušeno testo iseći na rezance širine oko 1 cm.
 
