@@ -6,13 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=2700
 permalink: /slane-galete-sa-kačkavaljem/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/03/slanegaletesakackavaljem-940x198.jpg
+published: true
+description: >-
+  Slane galete sa kačkavaljem su hrskavo pecivo od margarina, jaja, kačkavalja
+  i susama. Odlične su kao grickalica uz pivo, lagan zalogaj za goste ili
+  užinu tokom dana.
+prep_time: PT20M
+cook_time: PT25M
+total_time: PT45M
+servings: 8 porcije
+nutrition: oko 320 kalorija po porciji
+ingredients:
+  - 250 grama margarina
+  - 2 dl ulja
+  - čaša mineralne vode
+  - 3 jaja
+  - 150 grama kačkavalja
+  - susam (100 g)
+  - oko 900 g mekog brašna
+  - kesica praška za pecivo
+  - so (po ukusu)
+instructions:
+  - u sudu za mešenje umutiti margarin, pa dodati jaja, ulje, vodu, rendani kačkavalj, susam i brašno u koje su umešani prašak za pecivo i so. Sve sastojke sjediniti mešajući varjačom, da se dobije ređe testo.
+  - Drvenom ili plastičnom kašičicom uzimati po malo testa, stavljati u kalup za galete i peći.
+image: /wp-content/uploads/2012/03/slane.galete.sa.kackavaljem.hero.jpg
+og_image: /wp-content/uploads/2012/03/slane.galete.sa.kackavaljem.og.jpg
+card_image: /wp-content/uploads/2012/03/slane.galete.sa.kackavaljem.kartica.jpg
 categories:
   - peciva
 tags:
@@ -21,22 +40,10 @@ tags:
   - susam
   - jaja
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 250 grama margarina
-  * 2 dl ulja
-  * čaša mineralne vode
-  * 3 jaja
-  * 150 grama kačkavalja
-  * susam (100 g)
-  * oko 900 g mekog brašna
-  * kesica praška za pecivo
-  * so (po ukusu)
+<span id="step-1"></span>**Korak 1.** u sudu za mešenje umutiti margarin, pa dodati jaja, ulje, vodu, rendani kačkavalj, susam i brašno u koje su umešani prašak za pecivo i so. Sve sastojke sjediniti mešajući varjačom, da se dobije ređe testo.
 
-![slanegaletesakackavaljem](/wp-content/uploads/2012/03/slanegaletesakackavaljem-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Drvenom ili plastičnom kašičicom uzimati po malo testa, stavljati u kalup za galete i peći.
 
-**Priprema**: u sudu za mešenje umutiti margarin, pa dodati jaja, ulje, vodu, rendani kačkavalj, susam i brašno u koje su umešani prašak za pecivo i so. Sve sastojke sjediniti mešajući varjačom, da se dobije ređe testo. Drvenom ili plastičnom kašičicom uzimati po malo testa, stavljati u kalup za galete i peći.
-
-Ove galete se mogu poslužiti kao grickalice uz pivo.
-
-Da bi galete ostale sveže nekoliko dana, ukoliko pravite veću količinu, čuvati ih u kutiji sa poklopcem.
+Ove galete se mogu poslužiti kao grickalice uz pivo. Da bi galete ostale sveže nekoliko dana, ukoliko pravite veću količinu, čuvati ih u kutiji sa poklopcem. Kačkavalj i susam daju im bogat, slan ukus zbog kog se brzo nestaju sa tacne.
