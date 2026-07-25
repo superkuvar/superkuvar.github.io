@@ -6,9 +6,33 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3158
 permalink: /čorba-od-bundeve-i-prosa/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/05/Čorba-od-bundeve-i-prosa-940x198.jpg
+published: true
+description: >-
+  Čorba od bundeve i prosa je toplo, blago jelo od bundeve, praziluka i prosa
+  sa biljnim začinima. Odlična je za hladnije dane, lagan ručak ili večeru uz
+  kiselu pavlaku.
+prep_time: PT15M
+cook_time: PT35M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 200 kalorija po porciji
+ingredients:
+  - 500 grama bundeve
+  - 1 struk praziluka ili 1 glavica crnog luka
+  - proso (šolja)
+  - so
+  - suvi biljni začin
+  - bosiljak
+  - peršunov ili celerov list
+  - ulje
+  - kisela pavlaka
+instructions:
+  - praziluk očistiti, oprati, sitno iseckati i propržiti na malo ulja. U propržen luk dodati oljuštenu i narendanu bundevu, naliti sa litar i po vode i staviti na štednjak.
+  - Kada čorba provri kuvati je deset minuta, pa dodati opran proso, so, suvi biljni začin i malo bosiljka. Nastaviti sa kuvanjem na tihoj vatri još dvadesetak minuta.
+  - Gotovu čorbu posuti seckanim peršunovim ili celerovim listom.
+image: /wp-content/uploads/2012/05/corba.od.bundeve.i.prosa.hero.jpg
+og_image: /wp-content/uploads/2012/05/corba.od.bundeve.i.prosa.og.jpg
+card_image: /wp-content/uploads/2012/05/corba.od.bundeve.i.prosa.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -17,26 +41,12 @@ tags:
   - praziluk
   - proso
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 500 grama bundeve
-  * 1 struk praziluka ili 1 glavica crnog luka
-  * proso (šolja)
-  * so
-  * suvi biljni začin
-  * bosiljak
-  * peršunov ili celerov list
-  * ulje
-  * kisela pavlaka
+<span id="step-1"></span>**Korak 1.** praziluk očistiti, oprati, sitno iseckati i propržiti na malo ulja. U propržen luk dodati oljuštenu i narendanu bundevu, naliti sa litar i po vode i staviti na štednjak.
 
-<img class="alignnone size-medium wp-image-3174" title="Čorba od bundeve i prosa" src="/wp-content/uploads/2012/05/orba-od-bundeve-i-prosa-e1336385196675-300x244.jpg" alt="" width="300" height="244" /> 
+<span id="step-2"></span>**Korak 2.** Kada čorba provri kuvati je deset minuta, pa dodati opran proso, so, suvi biljni začin i malo bosiljka. Nastaviti sa kuvanjem na tihoj vatri još dvadesetak minuta.
 
-**Priprema**: praziluk očistiti, oprati, sitno iseckati i propržiti na malo ulja. U propržen luk dodati oljuštenu i narendanu bundevu, naliti sa litar i po vode i staviti na štednjak.
+<span id="step-3"></span>**Korak 3.** Gotovu čorbu posuti seckanim peršunovim ili celerovim listom.
 
-Kada čorba provri kuvati je deset minuta, pa dodati opran proso, so, suvi biljni začin i malo bosiljka. Nastaviti sa kuvanjem na tihoj vatri još dvadesetak minuta.
-
-Gotovu čorbu posuti seckanim peršunovim ili celerovim listom.
-
-Čorba od bundeve i prosa može se poslužiti sa kiselom pavlakom.
-
-&nbsp;
+Čorba od bundeve i prosa može se poslužiti sa kiselom pavlakom. Najbolje ide vruća, kao lagan ručak ili večera, a proso je čini zasitnijom od obične čorbe od bundeve.
