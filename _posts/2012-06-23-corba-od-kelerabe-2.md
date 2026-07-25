@@ -6,9 +6,31 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3594
 permalink: /corba-od-kelerabe-2/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/06/Čorbaodkelerabe-940x198.jpg
+published: true
+description: >-
+  Čorba od kelerabe sa pirinčem je lagana, blaga čorba od rendane kelerabe,
+  brašna i pirinča sa peršunom. Odlična je za lagan ručak, dijetalni obrok
+  ili toplu večeru.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 160 kalorija po porciji
+ingredients:
+  - 2 kelerabe
+  - 2 kašike brašna
+  - 3 kašike pirinča
+  - ulje
+  - so
+  - biber
+  - peršunov list
+instructions:
+  - kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
+  - Kelerabu naliti litrom tople vode, posoliti i pobiberiti. Čorbu kuvati na umerenoj temperaturi, dok keleraba potpuno ne omekša.
+  - U gotovu čorbu dodati obaren pirinač i seckani peršunov list. Čorba se može začiniti kiselom pavlakom.
+image: /wp-content/uploads/2012/06/corba.od.kelerabe.2.hero.jpg
+og_image: /wp-content/uploads/2012/06/corba.od.kelerabe.2.og.jpg
+card_image: /wp-content/uploads/2012/06/corba.od.kelerabe.2.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -16,24 +38,14 @@ tags:
   - peršunov list
   - pirinač
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 kelerabe
-  * 2 kašike brašna
-  * 3 kašike pirinča
-  * ulje
-  * so
-  * biber
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
 
-<img class="alignnone size-medium wp-image-3595" title="Čorbaodkelerabe" src="/wp-content/uploads/2012/06/%C4%8Corbaodkelerabe-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Kelerabu naliti litrom tople vode, posoliti i pobiberiti. Čorbu kuvati na umerenoj temperaturi, dok keleraba potpuno ne omekša.
 
-**Priprema**: kelerabu oprati, oljuštiti i narendati na krupno rende. Staviti je u sud sa malo zagrejanog ulja, dodati brašno, promešati i dinstati, vodeći računa da brašno ne potamni.
+<span id="step-3"></span>**Korak 3.** U gotovu čorbu dodati obaren pirinač i seckani peršunov list. Čorba se može začiniti kiselom pavlakom.
 
-Kelerabu naliti litrom tople vode, posoliti i pobiberiti. Čorbu kuvati na umerenoj temperaturi, dok keleraba potpuno ne omekša.
+lišće kelerabe ne treba bacati, može se isitnjeno dodati u čorbu.
 
-U gotovu čorbu dodati obaren pirinač i seckani peršunov list. Čorba se može začiniti kiselom pavlakom.
-
-**Napomena**:   lišće kelerabe ne treba bacati, može se isitnjeno dodati u čorbu.
-
-Keleraba je niskokalorično povrće (27 kcal na 100 grama), ali zbog vlakana koja sadrži daje osećaj sitosti, pa je pogodna za dijete za mršavljenje.
+Keleraba je niskokalorično povrće (27 kcal na 100 grama), ali zbog vlakana koja sadrži daje osećaj sitosti, pa je pogodna za dijete za mršavljenje. Poslužite vruću, po želji sa kašikom kisele pavlake.
