@@ -39,9 +39,10 @@ tags:
   - "paradaiz"
   - "jaja"
   - "špargle"
+image: /wp-content/uploads/2011/02/salata.od.spargli.i.jaja.hero.jpg
+og_image: /wp-content/uploads/2011/02/salata.od.spargli.i.jaja.og.jpg
+card_image: /wp-content/uploads/2011/02/salata.od.spargli.i.jaja.kartica.jpg
 ---
-![salata od špargli i jaja](/wp-content/uploads/2011/02/jaja.spargle.jpg)
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** : špargle oljuštiti, oprati i iseći na komade.
