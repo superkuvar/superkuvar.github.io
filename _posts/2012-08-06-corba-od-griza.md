@@ -6,9 +6,33 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=3895
 permalink: /čorba-od-griza/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/08/Čorbaodgriza-940x198.jpg
+published: true
+description: >-
+  Čorba od griza je kremasta, topla čorba od pšeničnog griza, crnog luka i
+  kisele pavlake sa jajetom. Odlična je za brzi ručak, laganu večeru ili
+  hladnije dane.
+prep_time: PT10M
+cook_time: PT20M
+total_time: PT30M
+servings: 4 porcije
+nutrition: oko 160 kalorija po porciji
+ingredients:
+  - 3 kašike pšeničnog griza
+  - 1 kašika brašna
+  - 3 kašike ulja
+  - 1 manja glavica crnog luka
+  - so
+  - biber
+  - suvi biljni začin
+  - 1 jaje
+  - 2 dl kisele pavlake
+  - peršunov ili celerov list
+instructions:
+  - u lonac sipati ulje, zagrejati ga pa dodati griz i brašno. Pržiti na slabijoj vatri dok griz i brašno ne porumene. Dodati sitno seckani crni luk i kratko propržiti, pazeći da ne zagori. Sipati litar do litar i po tople vode i dobro promešati. Kada čorba proključa posoliti je, dodati suvi biljni začin i mleveni biber, pa kuvati 10-15 minuta.
+  - Gotovu čorbu začiniti jajetom razmućenim sa kiselom pavlakom. Ostaviti je na štednjaku još minut-dva, a zatim skloniti sa vatre i posuti seckanim peršunovim ili celerovim listom.
+image: /wp-content/uploads/2012/08/corba.od.griza.hero.jpg
+og_image: /wp-content/uploads/2012/08/corba.od.griza.og.jpg
+card_image: /wp-content/uploads/2012/08/corba.od.griza.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -16,21 +40,10 @@ tags:
   - kisela pavlaka
   - peršunov list
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 3 kašike pšeničnog griza
-  * 1 kašika brašna
-  * 3 kašike ulja
-  * 1 manja glavica crnog luka
-  * so
-  * biber
-  * suvi biljni začin
-  * 1 jaje
-  * 2 dl kisele pavlake
-  * peršunov ili celerov list
+<span id="step-1"></span>**Korak 1.** u lonac sipati ulje, zagrejati ga pa dodati griz i brašno. Pržiti na slabijoj vatri dok griz i brašno ne porumene. Dodati sitno seckani crni luk i kratko propržiti, pazeći da ne zagori. Sipati litar do litar i po tople vode i dobro promešati. Kada čorba proključa posoliti je, dodati suvi biljni začin i mleveni biber, pa kuvati 10-15 minuta.
 
-<img class="alignnone size-medium wp-image-3896" title="Čorbaodgriza" src="/wp-content/uploads/2012/08/%C4%8Corbaodgriza-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Gotovu čorbu začiniti jajetom razmućenim sa kiselom pavlakom. Ostaviti je na štednjaku još minut-dva, a zatim skloniti sa vatre i posuti seckanim peršunovim ili celerovim listom.
 
-**Priprema**: u lonac sipati ulje, zagrejati ga pa dodati griz i brašno. Pržiti na slabijoj vatri dok griz i brašno ne porumene. Dodati sitno seckani crni luk i kratko propržiti, pazeći da ne zagori. Sipati litar do litar i po tople vode i dobro promešati. Kada čorba proključa posoliti je, dodati suvi biljni začin i mleveni biber, pa kuvati 10-15 minuta.
-
-Gotovu čorbu začiniti jajetom razmućenim sa kiselom pavlakom. Ostaviti je na štednjaku još minut-dva, a zatim skloniti sa vatre i posuti seckanim peršunovim ili celerovim listom.
+Čorba od griza najbolje se poslužuje vruća, uz domaći hleb, kao lagan i zasitan obrok za četiri osobe.
