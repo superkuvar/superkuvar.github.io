@@ -35,9 +35,10 @@ tags:
   - "celerov list"
   - "margarin"
   - "šargarepa"
+image: /wp-content/uploads/2011/03/supa.od.sargarepe.hero.jpg
+og_image: /wp-content/uploads/2011/03/supa.od.sargarepe.og.jpg
+card_image: /wp-content/uploads/2011/03/supa.od.sargarepe.kartica.jpg
 ---
-<img class="alignnone size-full wp-image-715" title="supaodsargarepe" src="/wp-content/uploads/2011/03/supaodsargarepe.jpg" alt="" width="256" height="192" />
-
 **Način pripreme:**
 
 <span id="step-1"></span>**Korak 1.** šargarepu oprati, oljuštiti i narendati.
