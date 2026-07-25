@@ -6,9 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=1943
 permalink: /seckane-paprike-sa-renom/
-totvreme:
-  - ""
-image: /wp-content/uploads/2011/11/paprike-940x198.jpg
+published: true
+description: >-
+  Seckane paprike sa renom su ljuta slana zimnica od mesnatih paprika u
+  sirćetnom presolcu sa struganim renom. Spremaju se u jesen u tegle i
+  odlične su kao prilog tokom cele zime.
+prep_time: PT45M
+cook_time: PT20M
+total_time: PT1H5M
+servings: 20 porcija
+nutrition: oko 40 kalorija po porciji
+ingredients:
+  - mesnate paprike (5 kg)
+  - ren (300 g korena)
+  - sirće (3 dl)
+  - malo bibera u zrnu
+  - 150 grama šećera
+  - soli po ukusu
+instructions:
+  - paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
+  - Prokuvati 4 litra vode, sirće, biber, šećer i so, pa u ovom presolcu kratko obariti paprike i ocediti.
+  - Ređati u tegle red paprika, red struganog rena, pa zatim paprike, dok se sve ne utroši. Odozgo staviti dva očišćena korena rena, unakrst, pa naliti presolcem da paprike ogreznu. Tegle povezati celofanom i odložiti sa ostalom zimnicom.
+image: /wp-content/uploads/2011/11/seckane.paprike.sa.renom.hero.jpg
+og_image: /wp-content/uploads/2011/11/seckane.paprike.sa.renom.og.jpg
+card_image: /wp-content/uploads/2011/11/seckane.paprike.sa.renom.kartica.jpg
 categories:
   - slana zimnica
 tags:
@@ -16,27 +37,12 @@ tags:
   - ren
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * mesnate paprike (5 kg)
-  * ren (300 g korena)
-  * sirće (3 dl)
-  * malo bibera u zrnu
-  * 150 grama šećera
-  * soli po ukusu
+<span id="step-1"></span>**Korak 1.** paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
 
-![paprike](/wp-content/uploads/2011/11/paprike-1024x768.jpg)
+<span id="step-2"></span>**Korak 2.** Prokuvati 4 litra vode, sirće, biber, šećer i so, pa u ovom presolcu kratko obariti paprike i ocediti.
 
-**Priprema**: paprike oprati, očistiti od semena i iseći na rezance. Ren očistiti i istrugati.
+<span id="step-3"></span>**Korak 3.** Ređati u tegle red paprika, red struganog rena, pa zatim paprike, dok se sve ne utroši. Odozgo staviti dva očišćena korena rena, unakrst, pa naliti presolcem da paprike ogreznu. Tegle povezati celofanom i odložiti sa ostalom zimnicom.
 
-Prokuvati 4 litra vode, sirće, biber, šećer i so, pa u ovom presolcu kratko obariti paprike i ocediti.
-
-Ređati u tegle red paprika, red struganog rena, pa zatim paprike, dok se sve ne utroši. Odozgo staviti dva očišćena korena rena, unakrst, pa naliti presolcem da paprike ogreznu. Tegle povezati celofanom i odložiti sa ostalom zimnicom.
-
-O renu: ren je višegodišnja zeljasta biljka. Vrlo je korisno povrće i njegov svež koren se može koristiti tokom cele godine. Kada kupujemo ren treba voditi računa da koren bude neoštećen i čvrst.
-
-Koren rena ima ljut ukus i miris. Uglavnom se koristi svež. Ren je odličan dodatak jelima, naročito mesu, salatama (od cvekle, kupusa i drugog povrća). Od njega se mogu praviti sosovi.
-
-Ren čisti oraganizam, pa ga treba češće jesti, naročito u zimskim mesecima.
-
-Zbog lekovitih sastojaka koje sadrži, ren se koristi u narodnoj medicini kao lek za jačanje imuniteta, protiv kašlja, bronhitisa, astme, reume, a preporučuje se i ushrani dijabetičara.
+Seckane paprike sa renom najbolje stoje na hladnijem mestu uz ostalu zimnicu. Ren im daje blagu ljutinu i čini ih odličnim prilogom uz pečeno meso, roštilj ili domaći hleb tokom zime.
