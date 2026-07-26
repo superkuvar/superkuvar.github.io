@@ -6,13 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4494
 permalink: /čorba-od-karfiola/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/10/Corba-od-karfiola-940x198.jpg
+description: >-
+  Čorba od karfiola je kremasta, blaga čorba od karfiola, luka, kisele pavlake
+  i žumanca sa kimom. Odlična je za hladnije dane, lagan ručak ili porodičnu večeru.
+prep_time: PT15M
+cook_time: PT35M
+total_time: PT50M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - manja glavica karfiola
+  - glavica crnog luka (ili manji struk praziluka)
+  - 1 kašika brašna
+  - 2 dl kisele pavlake
+  - 1 žumance
+  - biber
+  - kim
+  - so
+  - suvi biljni začin
+  - peršunov list
+  - ulje
+instructions:
+  - crni luk ili praziluk očistiti, sitno iseckati i propržiti na malo ulja. Očišćen, opran i na cvetiće izdeljen karfiol dodati u luk, kratko prodinstati, naliti sa litar i po vode i kuvati.
+  - Kada čorba proključa, smanjiti temperaturu, posoliti, dodati suvi biljni začin, kim i mleveni biber. Čorbu kuvati na tihoj vatri dok karfiol ne omekša.
+  - U malo hladne vode razmutiti brašno i sipati u čorbu, pa kuvati na umerenoj temperaturi još nekoliko minuta, često mešajući.
+  - Umutiti kiselu pavlaku, žumace i dve-tri kašike supe i sipati u gotovu čorbu, sve vreme mešajući. Posuti seckanim peršunovim listom i odmah skloniti sa vatre.
+image: /wp-content/uploads/2012/10/corba.od.karfiola.hero.jpg
+og_image: /wp-content/uploads/2012/10/corba.od.karfiola.og.jpg
+card_image: /wp-content/uploads/2012/10/corba.od.karfiola.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -20,28 +41,14 @@ tags:
   - kim
   - kisela pavlaka
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * manja glavica karfiola
-  * glavica crnog luka (ili manji struk praziluka)
-  * 1 kašika brašna
-  * 2 dl kisele pavlake
-  * 1 žumance
-  * biber
-  * kim
-  * so
-  * suvi biljni začin
-  * peršunov list
-  * ulje
+<span id="step-1"></span>**Korak 1.** crni luk ili praziluk očistiti, sitno iseckati i propržiti na malo ulja. Očišćen, opran i na cvetiće izdeljen karfiol dodati u luk, kratko prodinstati, naliti sa litar i po vode i kuvati.
 
-<img class="alignnone size-medium wp-image-4495" title="Corba od karfiola" src="/wp-content/uploads/2012/10/Corba-od-karfiola-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Kada čorba proključa, smanjiti temperaturu, posoliti, dodati suvi biljni začin, kim i mleveni biber. Čorbu kuvati na tihoj vatri dok karfiol ne omekša.
 
-**Priprema**: crni luk ili praziluk očistiti, sitno iseckati i propržiti na malo ulja. Očišćen, opran i na cvetiće izdeljen karfiol dodati u luk, kratko prodinstati, naliti sa litar i po vode i kuvati.
+<span id="step-3"></span>**Korak 3.** U malo hladne vode razmutiti brašno i sipati u čorbu, pa kuvati na umerenoj temperaturi još nekoliko minuta, često mešajući.
 
-Kada čorba proključa, smanjiti temperaturu, posoliti, dodati suvi biljni začin, kim i mleveni biber. Čorbu kuvati na tihoj vatri dok karfiol ne omekša.
+<span id="step-4"></span>**Korak 4.** Umutiti kiselu pavlaku, žumace i dve-tri kašike supe i sipati u gotovu čorbu, sve vreme mešajući. Posuti seckanim peršunovim listom i odmah skloniti sa vatre.
 
-U malo hladne vode razmutiti brašno i sipati u čorbu, pa kuvati na umerenoj temperaturi još nekoliko minuta, često mešajući.
-
-Umutiti kiselu pavlaku, žumace i dve-tri kašike supe i sipati u gotovu čorbu, sve vreme mešajući. Posuti seckanim peršunovim listom i odmah skloniti sa vatre.
-
-Ostaviti čorbu da odstoji desetak minuta, a zatim poslužiti.
+Ostaviti čorbu da odstoji desetak minuta, a zatim poslužiti. Najbolje ide uz domaći hleb, kao lagan ručak ili večera u hladnijim danima.
