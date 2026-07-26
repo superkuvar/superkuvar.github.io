@@ -6,9 +6,28 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4064
 permalink: /pekmez-od-šargarepe-i-jabuka/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/08/Pekmezodsargarepeijabuka-940x198.jpg
+published: true
+description: >-
+  Pekmez od šargarepe i jabuka je domaća slatka zimnica od šargarepe, kiselih
+  jabuka i šećera sa limunom. Može se praviti i zimi, a odličan je uz hleb ili
+  palačinke tokom cele godine.
+prep_time: PT40M
+cook_time: PT1H20M
+total_time: PT2H
+servings: 8 porcija
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - 2 kilograma šargarepe
+  - 2 kilograma kiselih jabuka
+  - 1 kg šećera
+  - limun
+instructions:
+  - šargarepu oprati, očistiti, iseći na kolutove i kuvati u malo vode da omekša, zatim dodati oprane, oljuštene i na kriške isečene jabuke.
+  - Sve zajedno kuvati dok jabuke ne omekšaju. Tada propasirati, pa dalje kuvati uz dodatak šećera. Kuvati kao i svaki pekmez, uz stalno mešanje. Pred kraj kuvanja u pekmez dodati sok od limuna.
+  - Vruć pekmez sipati u zagrejane tegle i staviti u toplu pećnicu da se uhvati korica, pa kada se ohladi tegle povezati celofanom.
+image: /wp-content/uploads/2012/08/pekmez.od.sargarepe.i.jabuka.hero.jpg
+og_image: /wp-content/uploads/2012/08/pekmez.od.sargarepe.i.jabuka.og.jpg
+card_image: /wp-content/uploads/2012/08/pekmez.od.sargarepe.i.jabuka.kartica.jpg
 categories:
   - slatka zimnica
 tags:
@@ -16,21 +35,14 @@ tags:
   - limun
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 kilograma šargarepe
-  * 2 kilograma kiselih jabuka
-  * 1 kg šećera
-  * limun
+<span id="step-1"></span>**Korak 1.** šargarepu oprati, očistiti, iseći na kolutove i kuvati u malo vode da omekša, zatim dodati oprane, oljuštene i na kriške isečene jabuke.
 
-<img class="alignnone size-medium wp-image-4065" title="Pekmezodsargarepeijabuka" src="/wp-content/uploads/2012/08/Pekmezodsargarepeijabuka-e1345538615781-300x234.jpg" alt="" width="300" height="234" /> 
+<span id="step-2"></span>**Korak 2.** Sve zajedno kuvati dok jabuke ne omekšaju. Tada propasirati, pa dalje kuvati uz dodatak šećera. Kuvati kao i svaki pekmez, uz stalno mešanje. Pred kraj kuvanja u pekmez dodati sok od limuna.
 
-**Priprema**: šargarepu oprati, očistiti, iseći na kolutove i kuvati u malo vode da omekša, zatim dodati oprane, oljuštene i na kriške isečene jabuke. Sve zajedno kuvati dok jabuke ne omekšaju. Tada propasirati, pa dalje kuvati uz dodatak šećera. Kuvati kao i svaki pekmez, uz stalno mešanje. Pred kraj kuvanja u pekmez dodati sok od limuna.
-
-Vruć pekmez sipati u zagrejane tegle i staviti u toplu pećnicu da se uhvati korica, pa kada se ohladi tegle povezati celofanom.
+<span id="step-3"></span>**Korak 3.** Vruć pekmez sipati u zagrejane tegle i staviti u toplu pećnicu da se uhvati korica, pa kada se ohladi tegle povezati celofanom.
 
 Šargarepa i jabuke se mogu nabaviti na pijacama i tokom zime, tako da se ovaj pekmez može praviti u manjoj količini, ne mora se spremati u jesen.
 
-**Savet**: ako su pekmez ili marmelada previše gusti ili prekuvani, vratite u šerpu, dodajte malo vrele vode i po mogućnosti sok od limuna. Uz mešanje zagrevati dok pekmez ne provri, a zatim ponovo vratiti u tegle.
-
-&nbsp;
+**Savet**: ako su pekmez ili marmelada previše gusti ili prekuvani, vratite u šerpu, dodajte malo vrele vode i po mogućnosti sok od limuna. Uz mešanje zagrevati dok pekmez ne provri, a zatim ponovo vratiti u tegle. Odličan je uz hleb, palačinke ili kao punjenje za kolače; tegle čuvajte na hladnom i tamnom mestu.
