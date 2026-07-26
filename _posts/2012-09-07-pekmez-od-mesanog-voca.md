@@ -6,9 +6,27 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4228
 permalink: /pekmez-od-mešanog-voća/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/09/Pekmezodmesanogvoća-940x198.jpg
+published: true
+description: >-
+  Pekmez od mešanog voća je gusta domaća zimnica od krušaka, bresaka i šljiva
+  sa šećerom. Sprema se krajem leta za zimsku trpezu, uz hleb, palačinke ili kolače.
+prep_time: PT45M
+cook_time: PT1H30M
+total_time: PT2H15M
+servings: 12 porcija
+nutrition: oko 220 kalorija po porciji
+ingredients:
+  - 2 kilograma krušaka
+  - 2 kilograma bresaka
+  - 2 kg šljiva
+  - 2 kg šećera
+instructions:
+  - zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
+  - Isitnjeno voće staviti u odgovarajuću emajliranu šerpu, dodati šećer i uz neprekidno mešanje kuvati na jačoj vatri. Pekmez je gotov kada se pri mešanju varjačom počne odvajati od zidova šerpe.
+  - Pekmez, dok je još vruć sipati u čiste zagrejane tegle koje treba staviti u malo zarejanu pećnicu, da bi se na površini uhvatila korica. Ohlađene tegle zatvoriti poklopcima ili povezati celofanom.
+image: /wp-content/uploads/2012/09/pekmez.od.mesanog.voca.hero.jpg
+og_image: /wp-content/uploads/2012/09/pekmez.od.mesanog.voca.og.jpg
+card_image: /wp-content/uploads/2012/09/pekmez.od.mesanog.voca.kartica.jpg
 categories:
   - slatka zimnica
 tags:
@@ -17,21 +35,14 @@ tags:
   - šećer
   - šljive
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 2 kilograma krušaka
-  * 2 kilograma bresaka
-  * 2 kg šljiva
-  * 2 kg šećera
+<span id="step-1"></span>**Korak 1.** zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
 
-<img class="alignnone size-medium wp-image-4229" title="Pekmezodmesanogvoća" src="/wp-content/uploads/2012/09/Pekmezodmesanogvoća-e1346930647746-300x240.jpg" alt="" width="300" height="240" /> 
+<span id="step-2"></span>**Korak 2.** Isitnjeno voće staviti u odgovarajuću emajliranu šerpu, dodati šećer i uz neprekidno mešanje kuvati na jačoj vatri. Pekmez je gotov kada se pri mešanju varjačom počne odvajati od zidova šerpe.
 
-**Priprema**: zrele i zdrave kruške, breskve i šljive oprati, očistiti od koštica i sitno iseckati ili samleti na mašini za mlevenje mesa.
+<span id="step-3"></span>**Korak 3.** Pekmez, dok je još vruć sipati u čiste zagrejane tegle koje treba staviti u malo zarejanu pećnicu, da bi se na površini uhvatila korica. Ohlađene tegle zatvoriti poklopcima ili povezati celofanom.
 
-Isitnjeno voće staviti u odgovarajuću emajliranu šerpu, dodati šećer i uz neprekidno mešanje kuvati na jačoj vatri. Pekmez je gotov kada se pri mešanju varjačom počne odvajati od zidova šerpe.
+**Napomena**: odabrati kruške i breskve koje nisu "vodene".
 
-Pekmez, dok je još vruć sipati u čiste zagrejane tegle koje treba staviti u malo zarejanu pećnicu, da bi se na površini uhvatila korica. Ohlađene tegle zatvoriti poklopcima ili povezati celofanom.
-
-**Napomena**:   odabrati kruške i breskve koje nisu &#8221;vodene&#8221;.
-
-**Savet**: načeta tegla pekmeza, marmelade i slatka i kad je dobro zatvorena ne može da stoji dugo. Zato sadržaj treba potrošiti u roku od dve nedelje.
+**Savet**: načeta tegla pekmeza, marmelade i slatka i kad je dobro zatvorena ne može da stoji dugo. Zato sadržaj treba potrošiti u roku od dve nedelje. Odličan je uz hleb, palačinke ili kao punjenje za kolače; neotvorene tegle čuvajte na hladnom i tamnom mestu.
