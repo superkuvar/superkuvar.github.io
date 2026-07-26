@@ -6,9 +6,32 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=6183
 permalink: /šarena-zimska-salata/
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/10/Sarenazimskasalata-940x198.jpg
+published: true
+description: >-
+  Šarena zimska salata je ukiseljena zimnica od kupusa, zelenog paradajza i
+  šarenih paprika u vinskom sirćetu. Sprema se u jesen i odlično ide uz pečeno
+  meso tokom cele zime.
+prep_time: PT50M
+cook_time: PT10M
+total_time: PT1H
+servings: 20 porcija
+nutrition: oko 50 kalorija po porciji
+ingredients:
+  - kupus (3 kilograma)
+  - zeleni paradajz (2 kg)
+  - 2 kg paprika (žutih i crvenih)
+  - 1 litar vinskog sirćeta
+  - 100 grama šećera
+  - so
+  - 1 kesica vinobrana
+instructions:
+  - povrće oprati i očistiti. Kupus iseći na rezance, kao za ribanac, a paprike i paradajz sitno iseckati.
+  - Sipati sirće u šerpu i staviti na štednjak. Kada provri, dodati šećer, šaku soli (može i manje – po ukusu) i vinobran. Sirće skloniti sa vatre i ostaviti da se ohladi.
+  - Povrće staviti u veću posudu, izmešati ga, preliti ohlađenim sirćetom, prekriti čistom platnenom krpom i ostaviti da odstoji 24 sata, uz povremeno mešanje.
+  - Sutradan salatu sipati u čiste, sterilisane tegle i povezati celofanom.
+image: /wp-content/uploads/2013/10/sarena.zimska.salata.hero.jpg
+og_image: /wp-content/uploads/2013/10/sarena.zimska.salata.og.jpg
+card_image: /wp-content/uploads/2013/10/sarena.zimska.salata.kartica.jpg
 categories:
   - slana zimnica
 tags:
@@ -17,24 +40,14 @@ tags:
   - paradajz
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * kupus (3 kilograma)
-  * zeleni paradajz (2 kg)
-  * 2 kg paprika (žutih i crvenih)
-  * 1 litar vinskog sirćeta
-  * 100 grama šećera
-  * so
-  * 1 kesica vinobrana
+<span id="step-1"></span>**Korak 1.** povrće oprati i očistiti. Kupus iseći na rezance, kao za ribanac, a paprike i paradajz sitno iseckati.
 
-![sarena zimska salata](/wp-content/uploads/2013/10/Sarenazimskasalata.jpg)
+<span id="step-2"></span>**Korak 2.** Sipati sirće u šerpu i staviti na štednjak. Kada provri, dodati šećer, šaku soli (može i manje – po ukusu) i vinobran. Sirće skloniti sa vatre i ostaviti da se ohladi.
 
-**Priprema**: povrće oprati i očistiti. Kupus iseći na rezance, kao za ribanac, a paprike i paradajz sitno iseckati.
+<span id="step-3"></span>**Korak 3.** Povrće staviti u veću posudu, izmešati ga, preliti ohlađenim sirćetom, prekriti čistom platnenom krpom i ostaviti da odstoji 24 sata, uz povremeno mešanje.
 
-Sipati sirće u šerpu i staviti na štednjak. Kada provri, dodati šećer, šaku soli (može i manje – po ukusu) i vinobran. Sirće skloniti sa vatre i ostaviti da se ohladi.
+<span id="step-4"></span>**Korak 4.** Sutradan salatu sipati u čiste, sterilisane tegle i povezati celofanom.
 
-Povrće staviti u veću posudu, izmešati ga, preliti ohlađenim sirćetom, prekriti čistom platnenom krpom i ostaviti da odstoji 24 sata, uz povremeno mešanje.
-
-Sutradan salatu sipati u čiste, sterilisane tegle i povezati celofanom.
-
-**Savet**: ukiseljeno povrće ne čuvati u teglama koje se zatvaraju metalnim poklopcem. Bolje ih je zatvoriti celofanom.
+Ukiseljeno povrće ne čuvati u teglama koje se zatvaraju metalnim poklopcem. Bolje ih je zatvoriti celofanom. Ova šarena zimska salata odlično ide uz pečeno meso, pečenje i jela od mahunarki tokom cele zime.
