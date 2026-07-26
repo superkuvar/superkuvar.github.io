@@ -6,13 +6,30 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5043
 permalink: /mamina-čorba-od-karfiola/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/01/Maminačorbaodkarfiola-940x198.jpg
+published: true
+description: >-
+  Mamina čorba od karfiola je kremasta, blaga čorba od karfiola sa brašnom,
+  muskatnim oraščićem i kiselom pavlakom. Odlična je za hladnije dane, lagan
+  ručak ili porodičnu večeru.
+prep_time: PT15M
+cook_time: PT30M
+total_time: PT45M
+servings: 4 porcije
+nutrition: oko 140 kalorija po porciji
+ingredients:
+  - manja glavica karfiola
+  - kašika brašna
+  - ulje
+  - so
+  - suvi biljni začin
+  - muskatni oraščić
+  - kisela pavlaka
+instructions:
+  - karfiol oprati, izdeliti na cvetiće, naliti sa litar i po vode, posoliti i staviti da se kuva. Obaren karfiol izgnječiti ,,gnječilicom" za pire krompir (nije potrebno da se vadi iz vode u kojoj se kuvao) ili štapnim mikserom.
+  - Na malo ulja propržiti kašiku brašna, dodati oprano i sitno iseckano lišće karfiola i pržiti dva-tri minuta. Sipati u čorbu, uz mešanje, da se brašno ne bi zgrudvalo, pa dodati suvi biljni začin i malo narendanog muskatnog oraščića. Čorbu kuvati još 10 minuta na tihoj vatri. Po želji, u čorbu umešati kiselu pavlaku.
+image: /wp-content/uploads/2013/01/mamina.corba.od.karfiola.hero.jpg
+og_image: /wp-content/uploads/2013/01/mamina.corba.od.karfiola.og.jpg
+card_image: /wp-content/uploads/2013/01/mamina.corba.od.karfiola.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -20,20 +37,10 @@ tags:
   - kisela pavlaka
   - muskatni oraščić
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * manja glavica karfiola
-  * kašika brašna
-  * ulje
-  * so
-  * suvi biljni začin
-  * muskatni oraščić
-  * kisela pavlaka
+<span id="step-1"></span>**Korak 1.** karfiol oprati, izdeliti na cvetiće, naliti sa litar i po vode, posoliti i staviti da se kuva. Obaren karfiol izgnječiti ,,gnječilicom" za pire krompir (nije potrebno da se vadi iz vode u kojoj se kuvao) ili štapnim mikserom.
 
-<img class="alignnone size-medium wp-image-5044" src="/wp-content/uploads/2013/01/Maminačorbaodkarfiola-1024x768.jpg" alt="Maminačorbaodkarfiola" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Na malo ulja propržiti kašiku brašna, dodati oprano i sitno iseckano lišće karfiola i pržiti dva-tri minuta. Sipati u čorbu, uz mešanje, da se brašno ne bi zgrudvalo, pa dodati suvi biljni začin i malo narendanog muskatnog oraščića. Čorbu kuvati još 10 minuta na tihoj vatri. Po želji, u čorbu umešati kiselu pavlaku.
 
-**Priprema**: karfiol oprati, izdeliti na cvetiće, naliti sa litar i po vode, posoliti i staviti da se kuva. Obaren karfiol izgnječiti ,,gnječilicom&#8221; za pire krompir (nije potrebno da se vadi iz vode u kojoj se kuvao) ili štapnim mikserom.
-
-Na malo ulja propržiti kašiku brašna, dodati oprano i sitno iseckano lišće karfiola i pržiti dva-tri minuta. Sipati u čorbu, uz mešanje, da se brašno ne bi zgrudvalo, pa dodati suvi biljni začin i malo narendanog muskatnog oraščića. Čorbu kuvati još 10 minuta na tihoj vatri. Po želji, u čorbu umešati kiselu pavlaku.
-
-Čorba se može poslužiti i sa kockicama preprženog hleba.
+Čorba se može poslužiti i sa kockicama preprženog hleba. Blaga je i kremasta, pa lepo ide kao lagan ručak ili početak porodičnog obroka.
