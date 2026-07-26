@@ -6,13 +6,34 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4959
 permalink: /čorba-od-boba-i-graška/
-fb_social_plugin_settings_box_like:
-  - default
-fb_social_plugin_settings_box_send:
-  - default
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/12/Čorbaodbobaigraška-940x198.jpg
+published: true
+description: >-
+  Čorba od boba i graška je topla, blago začinjena čorba od boba, graška,
+  šargarepe i krompira sa kurkumom. Odlična je za hladnije dane, porodični
+  ručak ili laganu večeru uz kiselu pavlaku.
+prep_time: PT20M
+cook_time: PT45M
+total_time: PT1H5M
+servings: 4 porcije
+nutrition: oko 230 kalorija po porciji
+ingredients:
+  - 300 grama boba
+  - 200 grama graška
+  - 1 šargarepa
+  - 1 krompir
+  - glavica crnog luka
+  - so
+  - kurkuma (indijski začin)
+  - 1 kašika brašna
+  - ulje
+  - peršunov list
+instructions:
+  - na malo ulja propržiti sitno seckani crni luk. U propržen luk dodati šargarepu isečenu na kolutove, krompir isečen na kockice i oljušten bob pa naliti litrom i po vode. Kada čorba provri dodati grašak.
+  - Čorbu kuvati na umerenoj temperaturi, dok povrće ne omekša. Povremeno promešati. Posoliti i dodati malo kurkume.
+  - U šoljici hladne vode razmutiti brašno, sipati u čorbu, promešati i kuvati desetak minuta. Gotovu čorbu posuti seckanim peršunovim listom.
+image: /wp-content/uploads/2012/12/corba.od.boba.i.graska.hero.jpg
+og_image: /wp-content/uploads/2012/12/corba.od.boba.i.graska.og.jpg
+card_image: /wp-content/uploads/2012/12/corba.od.boba.i.graska.kartica.jpg
 categories:
   - supe i čorbe
 tags:
@@ -22,29 +43,13 @@ tags:
   - peršunov list
   - šargarepa
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 300 grama boba
-  * 200 grama graška
-  * 1 šargarepa
-  * 1 krompir
-  * glavica crnog luka
-  * so
-  * kurkuma (indijski začin)
-  * 1 kašika brašna
-  * ulje
-  * peršunov list
+<span id="step-1"></span>**Korak 1.** na malo ulja propržiti sitno seckani crni luk. U propržen luk dodati šargarepu isečenu na kolutove, krompir isečen na kockice i oljušten bob pa naliti litrom i po vode. Kada čorba provri dodati grašak.
 
-<img class="alignnone size-medium wp-image-4963" title="Čorbaodbobaigraška" src="/wp-content/uploads/2012/12/Čorbaodbobaigraška-1024x768.jpg" alt="" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** Čorbu kuvati na umerenoj temperaturi, dok povrće ne omekša. Povremeno promešati. Posoliti i dodati malo kurkume.
 
-**Priprema**: na malo ulja propržiti sitno seckani crni luk. U propržen luk dodati šargarepu isečenu na kolutove, krompir isečen na kockice i oljušten bob pa naliti litrom i po vode. Kada čorba provri dodati grašak.
+<span id="step-3"></span>**Korak 3.** U šoljici hladne vode razmutiti brašno, sipati u čorbu, promešati i kuvati desetak minuta. Gotovu čorbu posuti seckanim peršunovim listom.
 
-Čorbu kuvati na umerenoj temperaturi, dok povrće ne omekša. Povremeno promešati. Posoliti i dodati malo kurkume.
+Čorba se može poslužiti sa kiselom pavlakom ili mileramom. Bob je zdravo i ukusno povrće koje se kod nas manje koristi od ostalih mahunarki; odlično ide u čorbe, variva i salate.
 
-U šoljici hladne vode razmutiti brašno, sipati u čorbu, promešati i kuvati desetak minuta. Gotovu čorbu posuti seckanim peršunovim listom.
-
-Čorba se može poslužiti sa kiselom pavlakom ili mileramom.
-
-**Napomena**:   bob je zdravo i ukusno povrće, koje se kod nas manje koristi od ostalih mahunarki (pasulj, grašak, sočivo).
-
-Bob se može pripremati na razne načine: kao pasulj, u obliku variva, čorbi, salata.
