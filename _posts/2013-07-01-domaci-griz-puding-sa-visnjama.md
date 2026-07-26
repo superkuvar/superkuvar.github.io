@@ -6,9 +6,27 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=5846
 permalink: /domaći-griz-puding-sa-višnjama/
-totvreme:
-  - ""
-image: /wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-940x198.jpg
+published: true
+description: >-
+  Domaći griz puding sa višnjama je kremast, voćni desert od višanja, griza i
+  šećera. Odličan je kao lagan desert posle jela ili osveženje iz frižidera.
+prep_time: PT15M
+cook_time: PT20M
+total_time: PT35M
+servings: 4 porcije
+nutrition: oko 180 kalorija po porciji
+ingredients:
+  - 250 grama višanja
+  - 8 dl vode
+  - 4-5 kašika šećera
+  - griz (5 kašika)
+instructions:
+  - višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
+  - U malo hladne vode razmutiti griz, da se ne bi zgrudvao, a zatim sipati u kompot koji vri. Kuvati na umerenoj temperturi, dok se griz ne zgusne. Stalno mešati, da ne zagori.
+  - Gotov puding sipati u činijice i ukrasiti višnjama iz slatka ili svežim plodovima.
+image: /wp-content/uploads/2013/07/domaci.griz.puding.sa.visnjama.hero.jpg
+og_image: /wp-content/uploads/2013/07/domaci.griz.puding.sa.visnjama.og.jpg
+card_image: /wp-content/uploads/2013/07/domaci.griz.puding.sa.visnjama.kartica.jpg
 categories:
   - slatkiši
 tags:
@@ -16,22 +34,15 @@ tags:
   - šećer
   - višnje
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 250 grama višanja
-  * 8 dl vode
-  * 4-5 kašika šećera
-  * griz (5 kašika)
+<span id="step-1"></span>**Korak 1.** višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
 
-<img class="alignnone size-medium wp-image-5847" src="/wp-content/uploads/2013/07/Domacigrizpudingsavisnjama-1024x768.jpg" alt="Domacigrizpudingsavisnjama" width="300" height="225" /> 
+<span id="step-2"></span>**Korak 2.** U malo hladne vode razmutiti griz, da se ne bi zgrudvao, a zatim sipati u kompot koji vri. Kuvati na umerenoj temperturi, dok se griz ne zgusne. Stalno mešati, da ne zagori.
 
-**Priprema**: višnje oprati i ukloniti koštice. Očišćene staviti u posudu sa vodom kojoj je dodat šećer i skuvati kao kompot.
+<span id="step-3"></span>**Korak 3.** Gotov puding sipati u činijice i ukrasiti višnjama iz slatka ili svežim plodovima.
 
-U malo hladne vode razmutiti griz, da se ne bi zgrudvao, a zatim sipati u kompot koji vri. Kuvati na umerenoj temperturi, dok se griz ne zgusne. Stalno mešati, da ne zagori.
-
-Gotov puding sipati u činijice i ukrasiti višnjama iz slatka ili svežim plodovima.
-
-Pre služenja griz puding može se rashladiti u frižideru.
+Pre služenja griz puding može se rashladiti u frižideru. Najbolje se jede hladan, ukrašen višnjama iz slatka ili svežim plodovima.
 
 **Savet**: prilikom kupovine odabrati sveže i neoštećene plodove višnje, najbolje sa peteljkom. Višnje pre pipreme oprati i najbolje konzumirati sveže.
 
