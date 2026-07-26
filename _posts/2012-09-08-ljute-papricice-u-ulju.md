@@ -6,27 +6,36 @@ author: mila
 layout: post
 guid: http://superkuvar.com/?p=4235
 permalink: /ljute-papričice-u-ulju/
-totvreme:
-  - ""
-image: /wp-content/uploads/2012/09/Feferoni-940x198.jpg
+description: >-
+  Ljute papričice u ulju su domaća zimnica od feferona, ulja, soli i sirćeta.
+  Odlične su kao pikantan prilog uz pečenje, meso ili kao dodatak jelima tokom cele godine.
+prep_time: PT20M
+cook_time: PT20M
+total_time: PT40M
+servings: 8 porcija
+nutrition: oko 150 kalorija po porciji
+ingredients:
+  - 1 kilogram ljutih papričica – feferona
+  - ulje
+  - so
+  - sirće
+instructions:
+  - feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
+  - Kada su tegle skoro pune, feferone zaliti uljem u kojem su se pržili, samo da ogreznu. Ostaviti da se ohlade, a zatim tegle povezati.
+image: /wp-content/uploads/2012/09/ljute.papricice.u.ulju.hero.jpg
+og_image: /wp-content/uploads/2012/09/ljute.papricice.u.ulju.og.jpg
+card_image: /wp-content/uploads/2012/09/ljute.papricice.u.ulju.kartica.jpg
 categories:
   - slana zimnica
 tags:
   - feferoni
   - sirće
 ---
-**Potrebno je**:
+**Način pripreme:**
 
-  * 1 kilogram ljutih papričica &#8211; feferona
-  * ulje
-  * so
-  * sirće
+<span id="step-1"></span>**Korak 1.** feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
 
-<img class="alignnone size-medium wp-image-4236" title="Feferoni" src="/wp-content/uploads/2012/09/Feferoni-1024x768.jpg" alt="" width="300" height="225" /> 
-
-**Priprema**: feferone, žute i zelene, oprati, posušiti i iseći im peteljke. Feferone kratko propržiti na zagrejanom ulju, a zatim ređati u manje tegle. Svaki red feferona posuti sa malo soli i poprskati sirćetom.
-
-Kada su tegle skoro pune, feferone zaliti uljem u kojem su se pržili, samo da ogreznu. Ostaviti da se ohlade, a zatim tegle povezati.
+<span id="step-2"></span>**Korak 2.** Kada su tegle skoro pune, feferone zaliti uljem u kojem su se pržili, samo da ogreznu. Ostaviti da se ohlade, a zatim tegle povezati.
 
 Feferoni i druge ljute paprike svoju ljutinu duguju kapsaicinu, koji daje osećaj toplote i pečenja na površini kože, a naročito na sluzokoži. Kapsaicin se naročito nalazi u semankama i semenim ložama.
 
@@ -34,4 +43,4 @@ Kapsaicin ima i lekovit učinak, deluje antiseptički, ima protivupalno dejstvo 
 
 Iako konzerviranjem gube deo hranljivih sastojaka, posebno C vitamin, i konzervirani feferoni se mogu smatrati izvorom vitamina i minerala, kao i sveži.
 
-Ako ste pojeli ljutu papričicu, a ne prija vam njen pikantan ukus popijte malo hladnog mleka, ili da biste ublažili ljutinu jela uz njega jedite hladno kiselo mleko.
+Ako ste pojeli ljutu papričicu, a ne prija vam njen pikantan ukus popijte malo hladnog mleka, ili da biste ublažili ljutinu jela uz njega jedite hladno kiselo mleko. Spremljene u tegle, ljute papričice u ulju dugo traju i lako se poslužuju uz domaći ručak ili večeru.
