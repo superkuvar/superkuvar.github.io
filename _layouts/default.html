@@ -21,7 +21,8 @@
   {% if page.og_image and page.og_image != '' %}
   <meta property="og:image" content="{{ site.url | append: page.og_image }}" />
   {% endif %}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1993925204978426" crossorigin="anonymous"></script>
+  {% comment %}Bez ?client= — isključuje AdSense Auto ads; ručni uniti koriste data-ad-client.{% endcomment %}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"></script>
   {% if site.google_analytics %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
