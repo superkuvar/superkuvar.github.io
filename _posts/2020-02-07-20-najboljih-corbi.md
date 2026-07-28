@@ -33,7 +33,10 @@ card_image: /wp-content/uploads/2013/01/20.naj.corbi.kartica.jpg
 categories:
   - razno
 tags:
-  
+  - semenke
+  - bundeva
+  - grickalice
+  - pečeno
 ---
 Volite grickati semenke bundeve uz čašu hladnog piva ili dok gledate neki dobar film ili omiljenu seriju? Mi vam donosimo veoma važne savete kako da sami napravite savršeno pečene semenke bundeve.
 

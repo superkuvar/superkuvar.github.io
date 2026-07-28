@@ -34,7 +34,10 @@ card_image: /wp-content/uploads/2020/01/pita.od.krompira.kartica.jpg
 categories:
    - slane pite
 tags:
-   -
+  - pita
+  - krompir
+  - crni luk
+  - kore
 ---
 **Način pripreme:**
 

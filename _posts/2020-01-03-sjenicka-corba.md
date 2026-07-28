@@ -33,7 +33,10 @@ posno:
 categories:
    - supe i čorbe
 tags:
-   -
+  - čorba
+  - ovčije meso
+  - paprika
+  - sjenica
 ---
 **Način pripreme:**
 

@@ -32,7 +32,10 @@ card_image: /wp-content/uploads/2013/01/engleski.dorucak.kartica.jpg
 categories:
   - razno
 tags:
-  
+  - doručak
+  - engleski
+  - jaja
+  - slanina
 ---
 Za doručak se kaže da je najvažniji obrok u toku dana. Palačinke, žitarice, branč, jaja, zdrav doručak, mrsan doručak… hm… koji odabrati?
 Iako Englezima kulinarstvo nije jača strana, jer čak i kuvanje povrća predstavlja teškoću, a sosovi iz boca su nezamenljivi, Englezi bar imaju doručak na kojem im zavide prosečni kontinentalci.

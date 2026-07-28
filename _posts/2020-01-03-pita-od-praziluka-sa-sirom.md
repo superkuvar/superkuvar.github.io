@@ -30,7 +30,10 @@ card_image: /wp-content/uploads/2020/01/pita.od.praziluka.sa.sirom.kartica.jpg
 categories:
   - slane pite
 tags:
-  -
+  - pita
+  - praziluk
+  - sir
+  - kore
 ---
 **Način pripreme:**
 

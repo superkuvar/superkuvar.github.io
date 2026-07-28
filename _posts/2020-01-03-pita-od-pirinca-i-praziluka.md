@@ -30,7 +30,10 @@ card_image: /wp-content/uploads/2020/01/pita.od.pirinca.i.praziluka.kartica.jpg
 categories:
    - slane pite
 tags:
-   -
+  - pita
+  - pirinač
+  - praziluk
+  - kore
 ---
 **Način pripreme:**
 

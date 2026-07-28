@@ -29,7 +29,10 @@ card_image: /wp-content/uploads/2020/01/pogacice.od.sira.bez.jaja.kartica.jpg
 categories:
    - hlebovi i pogače
 tags:
-   -
+  - pogačice
+  - sir
+  - pecivo
+  - bez jaja
 ---
 **Način pripreme:**
 

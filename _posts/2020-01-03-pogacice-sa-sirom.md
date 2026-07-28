@@ -31,7 +31,10 @@ card_image: /wp-content/uploads/2020/01/pogacice.sa.sirom.kartica.jpg
 categories:
    - hlebovi i pogače
 tags:
-   -
+  - pogačice
+  - sir
+  - pecivo
+  - kim
 ---
 **Način pripreme:**
 
