@@ -32,7 +32,10 @@ card_image: /wp-content/uploads/2020/keto.dieta.kartica.jpg
 categories:
    - ostalo
 tags:
-   - 
+  - keto
+  - dijeta
+  - lchf
+  - ishrana
 ---
 Keto dijeta znači da jedete manje ugljenih hidrata i veći udeo masti. Često se naziva i ketogena ili LCHF ishrana (malo ugljenih hidrata, više masti).
 

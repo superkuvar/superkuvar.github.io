@@ -31,7 +31,10 @@ card_image: /wp-content/uploads/2020/chia.puding.kartica.jpg
 categories:
    - ostalo
 tags:
-   - 
+  - chia
+  - puding
+  - desert
+  - doručak
 ---
 **Način pripreme:**
 
