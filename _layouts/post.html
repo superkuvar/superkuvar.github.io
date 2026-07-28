@@ -124,7 +124,10 @@ layout: default
         <li>{{ item }}</li>
         {% endfor %}
       </ul>
+      {% include ad-rectangle.html %}
     </aside>
+    {% else %}
+    {% include ad-bottom.html %}
     {% endif %}
 
     <section class="steps-panel">
@@ -145,8 +148,6 @@ layout: default
     </section>
 
   </div>
-
-  {% include ad-bottom.html %}
 
   {% if page.categories.first %}
   {% assign current_cat = page.categories.first %}

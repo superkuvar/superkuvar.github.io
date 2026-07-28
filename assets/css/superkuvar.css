@@ -362,6 +362,14 @@ a:hover { color: var(--orange-hover); text-decoration: underline; }
 }
 .ingredients-panel li:last-child { border-bottom: none; }
 
+.ingredients-panel .ad-wrap {
+  margin: 1.25rem 0 0;
+  max-width: 100%;
+}
+.ingredients-panel .ad-rectangle-wrap {
+  min-height: 250px;
+}
+
 .steps-panel h2 {
   font-family: var(--font-display);
   font-size: 1.15rem;
