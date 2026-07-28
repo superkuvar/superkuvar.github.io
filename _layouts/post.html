@@ -146,8 +146,6 @@ layout: default
 
   </div>
 
-  <div id="ad-after-step2">{% include ad-in-content.html %}</div>
-
   {% include ad-bottom.html %}
 
   {% if page.categories.first %}
@@ -170,17 +168,6 @@ layout: default
 
 <script>
 (function() {
-  var step2 = document.getElementById('step-2');
-  var adSlot = document.getElementById('ad-after-step2');
-  if (step2 && adSlot) {
-    var stepArticle = step2.closest('p') || step2.parentElement;
-    var nextImg = stepArticle && stepArticle.nextElementSibling;
-    if (nextImg && nextImg.tagName === 'IMG') {
-      nextImg.insertAdjacentElement('afterend', adSlot);
-    } else if (stepArticle) {
-      stepArticle.insertAdjacentElement('afterend', adSlot);
-    }
-  }
   document.querySelectorAll('.recipe-content p').forEach(function(p) {
     var strong = p.querySelector('strong');
     if (strong && strong.textContent.trim().indexOf('Legir') === 0) {
