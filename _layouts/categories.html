@@ -6,8 +6,6 @@ layout: default
   <nav class="breadcrumb">
     <a href="{{ '/' | relative_url }}">Početna</a> → Sve kategorije
   </nav>
-  {% include ad-leaderboard.html %}
-
   <header class="recipe-header" style="padding-bottom:0;">
     <h1>Sve kategorije</h1>
     <p class="page-intro">Pregledajte recepte po vrsti jela — ukupno preko {{ site.posts.size }} recepata.</p>
@@ -38,6 +36,4 @@ layout: default
     {% endfor %}
   </div>
   {% endfor %}
-
-  {% include ad-bottom.html %}
 </main>

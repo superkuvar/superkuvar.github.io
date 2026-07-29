@@ -153,10 +153,6 @@ layout: default
 
   </div>
 
-  <div id="ad-after-intro">{% include ad-in-content.html %}</div>
-
-  {% include ad-bottom.html %}
-
   {% if page.categories.first %}
   {% assign current_cat = page.categories.first %}
   <section class="similar-section">
@@ -177,18 +173,8 @@ layout: default
 
 <script>
 (function() {
-  var adSlot = document.getElementById('ad-after-intro');
   var content = document.querySelector('.article-content');
-  if (!adSlot || !content) return;
-  var firstH2 = content.querySelector('h2');
-  if (firstH2) {
-    firstH2.insertAdjacentElement('beforebegin', adSlot);
-  } else {
-    var paras = content.querySelectorAll('p');
-    if (paras.length > 1) {
-      paras[1].insertAdjacentElement('afterend', adSlot);
-    }
-  }
+  if (!content) return;
   content.querySelectorAll('p').forEach(function(p) {
     var strong = p.querySelector('strong');
     if (!strong) return;
